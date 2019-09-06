@@ -1,0 +1,80 @@
+---
+title: Random Acclaimed Song
+description: Listen to 10,272 top-rated songs!
+layout: post
+category: fun
+permalink: random-acclaimed-song
+---
+
+<h3 id="song-title"></h3>
+
+{% include yt.html width='80%' embed='
+<iframe id="song" frameborder="0" allowfullscreen></iframe>
+' %}
+
+<p id="description">Since 2001, statistician Henrik Franzon has maintained <a href="http://acclaimedmusic.net">acclaimedmusic.net</a>, his ranking of the top&#8209;rated songs of all time. This song was randomly chosen from his <a href="http://www.acclaimedmusic.net/history_songs.htm">2018 list</a> of 10,272 songs.</p>
+
+Refresh the page for another!
+
+<a href="javascript:;" id="dropdown" target="_self">More Fun</a>
+<div id="instructions" style="display:none;">
+    <p>You can limit the song selection by playing with the URL! Examples &ndash;</p>
+    <ul>
+        <li>
+            <a target="_self" href="?year=198[0-9]">Songs released in the 1980's.</a>
+        </li>
+        <li>
+            <a target="_self" href="?artist=Chuck+Berry">Songs by Chuck Berry.</a>
+        </li>
+        <li>
+            <a target="_self" href="?song=love">Songs whose titles contain the word "love".</a>
+        </li>
+        <li>
+            <a target="_self" href="?artist=beach.boys&year=196[0-9]&song=surf">Songs by the Beach Boys from the 1960's about surfing.</a>
+        </li>
+    </ul>
+   <p>Also note that each artist's name is a link to their Wikipedia page.</p>
+</div>
+
+<script src="/js/URI.js"></script>
+<script src="/js/songs.js"></script>
+<script>
+    function random(x) { return Math.floor(x * Math.random()) }
+    function choice(a) { return a[random(a.length)] }
+    function wiki_link(title) {
+        if (title.startsWith("http")) {
+            return title
+        }
+        const escaped = title.replace(/ /g, "_").replace(/'/g, "&#39;")
+        return `https://en.wikipedia.org/wiki/${escaped}`
+    }
+    const iframe = document.querySelector("#song");
+    const title = document.querySelector("#song-title");
+    const params = new URI(window.location.href).search(true)
+    var pool = songs
+    var regex = ""
+    if ("artist" in params) {
+        pool = pool.filter(s => new RegExp(params.artist, "i").exec(s.split("|")[0]) !== null)
+    }
+    if ("song" in params) {
+        pool = pool.filter(s => new RegExp(params.song, "i").exec(s.split("|")[1]) !== null)
+    }
+    if ("year" in params) {
+        pool = pool.filter(s => new RegExp(params.year, "i").exec(s.split("|")[2]) !== null)
+    }
+    if (pool.length === 0) { pool = songs }
+    if (pool.length !== songs.length) {
+        pool.sort()
+        console.log(pool.map(s => s.split("|").slice(0,3)))
+    }
+    const info = choice(pool).split("|")
+    iframe.src = info[3].startsWith("http") ? info[3] : `https://youtube.com/embed/${info[3]}`
+    const wikiLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[4])}>${info[0]}</a>`
+    const songLink = `<a style='text-decoration:none;border-bottom:none;' href='http://acclaimedmusic.net/song/${info[5]}.htm'>${info[1]}</a>`
+    title.innerHTML = `${wikiLink} - ${songLink} (${info[2]})`
+    document.title  = `${info[0]} - ${info[1]} (${info[2]})`
+</script>
+
+<br>
+<br>
+<br>

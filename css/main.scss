@@ -1,0 +1,210 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset 'utf-8';
+
+img.piece-417db {
+	pointer-events: none;
+}
+
+@media (max-width: 768px) {
+    #problem-title {
+        font-size:1.4rem;
+    }
+    #board {
+      width:80%;
+      height:0;
+      padding-bottom:80%;
+    }
+}
+
+@media (min-width: 768px) {
+    #problem-title {
+        font-size:2.2rem;
+    }
+    #board {
+      width:60%;
+      height:0;
+      padding-bottom:60%;
+    }
+}
+
+.form {
+    padding: 40px 20px;
+    background: #f7f7f7;
+    width: 66.6666666667%;
+    margin-left: 16.6666666667%;
+}
+
+@media (min-width: 768px) {
+    .form {
+        padding: 40px 20px
+    }
+}
+
+.form textarea {
+    min-height: 290px;
+    max-width: 100%;
+    min-width: 100%;
+    max-height: 100%;
+    font: inherit;
+}
+
+.form .btn {
+    width: auto;
+    border: solid 2px #ddd;
+}
+
+.form .form-field {
+    max-width: 90%;
+    min-width: 90%;
+    margin-bottom: 10px
+}
+
+.form input,
+.form textarea {
+    font: inherit;
+    display: block;
+    width: 100%;
+    padding: 5px 10px;
+    border: solid 2px #ddd;
+    border-radius: 0;
+    box-shadow: none
+}
+
+.form input:focus,
+.form textarea:focus {
+    outline: 0;
+    border-color: #3dadb2;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    box-shadow: none
+}
+
+.hacky-indent { padding-left:2.7em; }
+.questions { font-weight:bold; }
+.subsection {  font-weight:bold; }
+.toc-heading { /*font-style:italic;*/ }
+#markdown-toc li { font-style:italic; }
+
+.footnote { font-size:12.1px; }
+
+.pswp--zoomed-in .pswp__caption {
+      opacity: 0;
+  }
+
+$photoswipe-left-margin: 5%;
+
+.photoswipe-caption { padding-left:$photoswipe-left-margin; }
+
+.my-gallery { padding-left:$photoswipe-left-margin; width: 100%; float: left; }
+.my-gallery img { width: 100%; height: auto; }
+.my-gallery figure {
+  display: block;
+  float: left;
+  margin: 0 0.16% 0.16% 0;
+  width: 18%;
+}
+.my-gallery figcaption { display: none; }
+
+.comic-gallery {
+  display: inline-block;
+  width: 25%;
+  float: left;
+}
+.comic-gallery img { width: 25%; }
+.comic-gallery figure {
+  display: block;
+  float: left;
+  margin: 0 0.16% 0.16% 0;
+  width: 390%;
+}
+.comic-gallery figcaption { display: none; }
+
+#clear {
+  clear: both;
+  padding-bottom:5px;
+}
+
+.clear {
+  clear: both;
+  padding-bottom:5px;
+}
+
+.video-container {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 30px; height: 0; overflow: hidden;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+// Our variables
+$base-font-family: Helvetica, "Helvetica Neue", Arial, sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+$font-weight-light: 100;
+$font-weight-normal: 400;
+$font-weight-bold: 600;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: #b1b1b1;
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:         550px;
+$on-laptop:        780px;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+.dont-break-out {
+
+  /* Careful, this breaks the word wherever it is without a hyphen */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  /* Adds a hyphen where the word breaks */
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+
+}
+
+@import
+        "normalize",
+        "base",
+        "layout",
+        "color",
+        "syntax-highlighting"
+;
