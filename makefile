@@ -7,7 +7,7 @@ r remote g github: wincred
 	jekyll build
 	git add --all .
 	git commit -m "$m"
-	git push origin master --force 
+# 	git push origin master --force 
 	cd _site &&\
 	git add --all . &&\
 	git commit -m "$m" &&\
