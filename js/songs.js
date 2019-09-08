@@ -1509,7 +1509,7 @@ const songs = [
 "Fleetwood Mac|Tusk|1979|ATMR5ettHz8|Fleetwood Mac|S1825",
 "The Jimi Hendrix Experience|Foxy Lady|1967|_PVjcIO4MT4|The Jimi Hendrix Experience|S1493",
 "Metallica|Nothing Else Matters|1991|tAGnKpE4NCI|Metallica|S4217",
-"The Rapture|How Deep Is Your Love?|2011|7qfxCvwyxms|The Rapture (band)|S4988",
+"The Rapture|How Deep Is Your Love?|2011|AoedK3XcoBE|The Rapture (band)|S4988",
 "The Notorious B.I.G. feat. Ma$e & Puff Daddy|Mo Money Mo Problems|1997|gUhRKVIjJtw|The Notorious B.I.G.|S8",
 "The Damned|Neat Neat Neat|1977|Y3x5G9UmJOM|The Damned (band)|S2329",
 "Stevie Nicks|Edge of Seventeen (Just Like the White Winged Dove)|1981|Dn8-4tjPxD8|Stevie Nicks|S1869",
