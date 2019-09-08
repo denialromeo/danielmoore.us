@@ -5442,7 +5442,7 @@ const songs = [
 "Kanye West|We Don't Care|2004|0Tdpq3FRGhY|Kanye West|S4691",
 "The Coasters|Charlie Brown|1959|AbBr2bgAbcM|The Coasters|S1631",
 "Joe Goddard feat. Valentina|Gabriel|2011|1XtEFMP3-hA|Joe Goddard (musician)|S6935",
-"Grant Lee Buffalo|Fuzzy|1993|WhGreh4IoNw|Grant Lee Buffalo|S2946",
+"Grant Lee Buffalo|Fuzzy|1993|qAi9-LRtYSU|Grant Lee Buffalo|S2946",
 "Louis Armstrong|Hello, Dolly!|1964|l7N2wssse14|Louis Armstrong|S2823",
 "Spike Jones and His City Slickers|Cocktails for Two|1945|lvt4b_qwC_Q|Spike Jones|S4357",
 "Jimmy Cliff|Vietnam|1969|ZsgHCHoPtx0?start=26|Jimmy Cliff|S3283",
