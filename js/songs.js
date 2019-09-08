@@ -1875,7 +1875,7 @@ const songs = [
 "Kanye West|Through the Wire|2003|GLTQPR8PoZU|Kanye West|S2483",
 "Veruca Salt|Seether|1994|jC9AUR-iTo0|Veruca Salt|S95",
 "Lionel Richie|All Night Long (All Night)|1983|nqAvFx3NxUM|Lionel Richie|S470",
-"James|Laid|1993|5yXqRiXMru0|James (band)|S3509",
+"James|Laid|1993|g_qZ5B-yioU|James (band)|S3509",
 "Kanye West feat. Dwele|Flashing Lights|2007|ila-hAUXR5U|Kanye West|S4771",
 "Queen|Somebody to Love|1976|kijpcUv-b8M|Queen (band)|S8043",
 "Arcade Fire|Afterlife|2013|EcKinnMXuKg|Arcade Fire|S9404",
