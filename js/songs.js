@@ -6895,7 +6895,7 @@ const songs = [
 "Leona Lewis|Bleeding Love|2007|Vzo-EL_62fQ|Leona Lewis|S4726",
 "Duran Duran|The Wild Boys|1984|M43wsiNBwmo|Duran Duran|S12672",
 "Clap Your Hands Say Yeah|Over & Over Again (Lost & Found)|2005|jvw2cf0DJYA|Clap Your Hands Say Yeah|S5818",
-"The Long Blondes|Giddy Stratospheres|2004|56tjK3HRFjU|The Long Blondes|S7297",
+"The Long Blondes|Giddy Stratospheres|2004|56tjK3HRFjU?start=11|The Long Blondes|S7297",
 "Led Zeppelin|Dancing Days|1973|JpNy6z5sz1M|Led Zeppelin|S11384",
 "Of Montreal|Heimdalsgate Like a Promethean Curse|2007|q1fFMzu31p8|Of Montreal|S7794",
 "Lescop|La Forêt|2011|Njpw2PVb1c0|https://fr.wikipedia.org/wiki/Lescop|S11425",
