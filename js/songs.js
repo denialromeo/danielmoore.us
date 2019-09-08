@@ -9685,7 +9685,7 @@ const songs = [
 "Chaka Demus & Pliers|Tease Me|1992|ixZjoc_jlmQ|Chaka Demus & Pliers|S5750",
 "Whodini|Freaks Come Out at Night|1984|FxwrLLlQwBw|Whodini|S9003",
 "Whitney Houston|I Have Nothing|1992|FxYw0XPEoKE|Whitney Houston|S12582",
-"Aimee Mann|Wise Up|1999|dcIs3rAEytk|Aimee Mann|S14050",
+"Aimee Mann|Wise Up|1999|e3D7xplBYNY|Aimee Mann|S14050",
 "Dawes|All Your Favorite Bands|2015|I74C2hClAsA|Dawes (band)|S9732",
 "Split Enz|Message to My Girl|1983|YUC_jE78FNE|Split Enz|S8538",
 "The Beatles|I'll Get You|1963|nFEHqFUONHY|The Beatles|S10108",
