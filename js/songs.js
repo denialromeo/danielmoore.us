@@ -603,7 +603,7 @@ const songs = [
 "John Lee Hooker|Boom Boom|1962|WS7_e9LdvDI|John Lee Hooker|S1098",
 "Weezer|Buddy Holly|1994|kemivUKb4f4|Weezer|S110",
 "Ian Dury|Sex & Drugs & Rock & Roll|1977|sfp8xrNAS6I|Ian Dury|S646",
-"Jeff Buckley|Last Goodbye|1994|BtS0rwQK_pI|Jeff Buckley|S2428",
+"Jeff Buckley|Last Goodbye|1994|3MMXjunSx80|Jeff Buckley|S2428",
 "Cyndi Lauper|Time After Time|1983|VdQY7BusJNU|Cyndi Lauper|S428",
 "James Carr|The Dark End of the Street|1967|HC3AXQ8dPJM|James Carr (musician)|S989",
 "Melle Mel|White Lines (Don't Don't Do It)|1983|7bCdrDhUjPo|Melle Mel|S460",
