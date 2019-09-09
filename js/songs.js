@@ -2438,7 +2438,7 @@ const songs = [
 "Alice in Chains|Would?|1992|JB_fNVOPzyM|Alice in Chains|S3148",
 "Eric Clapton|After Midnight|1970|ZeDtmbt4JS4|Eric Clapton|S857",
 "Oasis|Rock 'n' Roll Star|1994|DMzZcmQ2byc|Oasis (band)|S7778",
-"The Temptations|Cloud Nine|1968|2BdhhQayeWw|The Temptations|S3888",
+"The Temptations|Cloud Nine|1968|SkLq8qKpk6g|The Temptations|S3888",
 "Dixie Chicks|Not Ready to Make Nice|2006|pojL_35QlSI|Dixie Chicks|S4051",
 "Chuck Berry|No Particular Place to Go|1964|WIY4OEAd6Yk|Chuck Berry|S1657",
 "Steve Miller Band|Take the Money and Run|1976|bGmbTvm2MgM|Steve Miller Band|S684",
