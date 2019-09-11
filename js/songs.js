@@ -1621,7 +1621,7 @@ const songs = [
 "Kiss|Detroit Rock City|1976|_PiVTOLFdBA|Kiss (band)|S686",
 "Billy Paul|Me and Mrs. Jones|1972|n2v98PGBZH4|Billy Paul|S2863",
 "Gerry Rafferty|Baker Street|1978|dU6w56epBdc|Gerry Rafferty|S2888",
-"Method Man feat. Mary J. Blige|I'll Be There for You/You're All I Need to Get By|1995|siXunj15hKc|Method Man|S77",
+"Method Man feat. Mary J. Blige|I'll Be There for You/You're All I Need to Get By|1995|pqbpZvtIQZ0|Method Man|S77",
 "The Stooges|1969|1969|Pbv2OIcA4dI|The Stooges|S3859",
 "Gregory Isaacs|Night Nurse|1982|ec9KwGWvSpM|Gregory Isaacs|S501",
 "Carly Rae Jepsen|Cut to the Feeling|2017|o97_jDomyqc|Carly Rae Jepsen|S16350",
