@@ -3040,7 +3040,7 @@ const songs = [
 "Barrington Levy|Here I Come|1984|clCAfLfPWM4|Barrington Levy|S413",
 "Lenny Kravitz|It Ain't Over 'Til It's Over|1991|TmENMZFUU_0|Lenny Kravitz|S2035",
 "Miles Davis|'Round Midnight|1957|Ys9wiGNDCvA|Miles Davis|S11648",
-"Randy Newman|Political Science|1972|EqBrw3rQvKo|Randy Newman|S4159",
+"Randy Newman|Political Science|1972|Kg_LDeUEiWY|Randy Newman|S4159",
 "Fuck Buttons|Surf Solar|2009|5hQXSsbQCMs|Fuck Buttons|S4799",
 "The Jesus and Mary Chain|April Skies|1987|OPPP3BXurHk|The Jesus and Mary Chain|S342",
 "Hank Williams|Jambalaya (On the Bayou)|1952|nG7-tsqDRYE|Hank Williams|S3962",
