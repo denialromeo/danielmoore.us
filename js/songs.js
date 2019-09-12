@@ -7915,7 +7915,7 @@ const songs = [
 "Bob Dylan|Abandoned Love|1985|BwV36JL_G0s|Bob Dylan|S10221",
 "Blondie|Picture This|1978|QbdCpi4qTNY|Blondie (band)|S5506",
 "Steely Dan|Dirty Work|1972|QrE_cDvcgJg|Steely Dan|S8553",
-"The Animals|Inside - Looking Out|1966|H8M1MpkozJQ|The Animals|S13266",
+"The Animals|Inside-Looking Out|1966|H8M1MpkozJQ|The Animals|S13266",
 "Clap Your Hands Say Yeah|Is This Love?|2005|5ie9WAeiKZY|Clap Your Hands Say Yeah|S3046",
 "The Dears|Lost in the Plot|2003|u0zRxxBKZ1A|The Dears|S5993",
 "Peter, Paul and Mary|Leaving on a Jet Plane|1967|zVQAhhlq798?start=3|Peter, Paul and Mary|S7888",
