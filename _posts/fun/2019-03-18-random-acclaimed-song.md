@@ -46,7 +46,7 @@ Refresh the page for another!
             return title
         }
         const escaped = title.replace(/ /g, "_").replace(/'/g, "&#39;")
-        return `https://en.wikipedia.org/wiki/${escaped}`
+        return `https://en.wikipedia.org/wiki/${escaped}#firstHeading`
     }
     const iframe = document.querySelector("#song");
     const title = document.querySelector("#song-title");
