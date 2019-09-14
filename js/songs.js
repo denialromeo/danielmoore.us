@@ -4396,7 +4396,7 @@ const songs = [
 "Roy Ayers|Everybody Loves the Sunshine|1976|Ck_jz6m-8_M?start=11|Roy Ayers|S12118",
 "Röyksopp|Eple|2001|qczr6Z2qtpE|Röyksopp|S2214",
 "Paul Simon|Mother and Child Reunion|1972|E_52QR3TptY|Paul Simon|S1743",
-"Smash Mouth|All Star|1999|L_jWHffIx5E|Smash Mouth|S3817",
+"Smash Mouth|All Star|1999|L_jWHffIx5E?start=36|Smash Mouth|S3817",
 "The Rolling Stones|Stray Cat Blues|1968|oOSYB38y2xA|The Rolling Stones|S3779",
 "B.B. King|Sweet Little Angel|1956|dNr_eIgP0tI|B.B. King|S2784",
 "Common|The Light|2000|OjHX7jf-znA|Common (rapper)|S4599",
