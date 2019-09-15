@@ -6140,7 +6140,7 @@ const songs = [
 "Mogwai|2 Rights Make 1 Wrong|2001|5q5NOdEgIHQ|Mogwai|S4671",
 "Ryan Adams|Oh My Sweet Carolina|2000|eMZYRvDvgT4|Ryan Adams|S8287",
 "Soulwax|NY Excuse|2004|EF3bu9fmheA|Soulwax|S8503",
-"Foreigner|Urgent|1981|JA6id4--BDg|Foreigner (band)|S3414",
+"Foreigner|Urgent|1981|Lcb-Fsx_phM|Foreigner (band)|S3414",
 "Erykah Badu|Otherside of the Game|1997|3qpyDUfMq-8|Erykah Badu|S16237",
 "Betty Everett|It's in His Kiss (The Shoop-Shoop Song)|1963|B4KN6TFhy2I|Betty Everett|S1047",
 "Black Sabbath|Sweet Leaf|1971|whSTyqI0fV4|Black Sabbath|S10202",
