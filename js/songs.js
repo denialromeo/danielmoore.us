@@ -3372,7 +3372,7 @@ const songs = [
 "Smashing Pumpkins|Mayonaise|1993|s7-30i1f5e0|The Smashing Pumpkins|S12239",
 "The Godfathers|Birth School Work Death|1987|QO5dcW0P75M|The Godfathers|S3092",
 "Howlin' Wolf|Evil|1954|mRlbgi82tss|Howlin' Wolf|S3482",
-"Eddie Kendricks|Keep On Truckin'|1973|aElKjhSwjBc|Eddie Kendricks|S4165",
+"Eddie Kendricks|Keep On Truckin'|1973|v2x9GbxqvmA|Eddie Kendricks|S4165",
 "Lana Del Rey|High by the Beach|2015|QnxpHIl5Ynw|Lana Del Rey|S9809",
 "The Records|Starry Eyes|1978|lAH1ioLiaHw|The Records|S4442",
 "Michael Jackson|Off the Wall|1979|G7ZPcjMgP3A|Michael Jackson|S7534",
