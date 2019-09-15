@@ -5362,7 +5362,7 @@ const songs = [
 "Destiny's Child|Jumpin' Jumpin'|1999|Vjw92oUduEM|Destiny's Child|S1397",
 "Van Morrison|Astral Weeks|1968|4kDhaH_mXEA|Van Morrison|S8919",
 "Benny Goodman & His Orchestra feat. Charlie Christian|Seven Come Eleven|1940|q006fsnIdfY|Benny Goodman|S13165",
-"Primal Scream|Accelerator|2000|CUszjRc3-VM|Primal Scream|S1393",
+"Primal Scream|Accelerator|2000|oLGQHxJ9U6U|Primal Scream|S1393",
 "P. P. Arnold|The First Cut Is the Deepest|1967|oo__EIXzAco|P. P. Arnold|S3157",
 "The Coral|In the Morning|2005|KErHjXpsfwA|The Coral|S3049",
 "Aretha Franklin|Baby I Love You|1967|WZ6HOUGE-Ok|Aretha Franklin|S3425",
