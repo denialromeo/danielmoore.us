@@ -837,7 +837,7 @@ const songs = [
 "House of Pain|Jump Around|1992|XhzpxjuwZy0|House of Pain|S155",
 "Guns N' Roses|November Rain|1991|8SbUC-UaAxE|Guns N' Roses|S3455",
 "Crowded House|Don't Dream It's Over|1986|J9gKyRmic20|Crowded House|S1955",
-"Tears for Fears|Everybody Wants to Rule the World|1985|ST86JM1RPl0|Tears for Fears|S2916",
+"Tears for Fears|Everybody Wants to Rule the World|1985|g6NRbSOTrM4|Tears for Fears|S2916",
 "David Bowie|Fame|1975|9tnRWcEg6i8|David Bowie|S701",
 "Manic Street Preachers|Motorcycle Emptiness|1992|gavcjNniIvk|Manic Street Preachers|S162",
 "Whitney Houston|I Wanna Dance with Somebody (Who Loves Me)|1987|eH3giaIzONA|Whitney Houston|S3481",
