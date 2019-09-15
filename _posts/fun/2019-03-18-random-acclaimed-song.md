@@ -43,7 +43,7 @@ Refresh the page for another!
     function choice(a) { return a[random(a.length)] }
     function wiki_link(title) {
         if (title.startsWith("http")) {
-            return title
+            return `${title}#firstHeading`
         }
         const escaped = title.replace(/ /g, "_").replace(/'/g, "&#39;")
         return `https://en.wikipedia.org/wiki/${escaped}#firstHeading`
