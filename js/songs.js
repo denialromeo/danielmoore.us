@@ -1453,7 +1453,7 @@ const songs = [
 "Kendrick Lamar|Swimming Pools (Drank)|2012|B5YNiCfWC3A|Kendrick Lamar|S5021",
 "David Bowie|Moonage Daydream|1972|LaqMwE5NKaM|David Bowie|S5963",
 "Nicki Minaj|Super Bass|2011|4JipHEz53sU|Nicki Minaj|S4979",
-"The Monkees|Daydream Believer|1967|xvqeSJlgaNk|The Monkees|S3637",
+"The Monkees|Daydream Believer|1967|xvqeSJlgaNk?start=20|The Monkees|S3637",
 "Madonna|Papa Don't Preach|1986|G333Is7VPOg|Madonna (entertainer)|S370",
 "Aaliyah|Are You That Somebody?|1998|Z5338B36j0M|Aaliyah|S280",
 "OutKast|Rosa Parks|1998|drsQLEU0N1Y|Outkast|S299",
