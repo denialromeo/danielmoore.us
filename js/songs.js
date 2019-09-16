@@ -1501,7 +1501,7 @@ const songs = [
 "Stereo MC's|Connected|1992|LMGdRgtblmk|Stereo MC's|S164",
 "Bruce Springsteen|Brilliant Disguise|1987|idnJnjV_8rg|Bruce Springsteen|S357",
 "Todd Rundgren|I Saw the Light|1972|C5zPHZ3i_FU|Todd Rundgren|S802",
-"Gorillaz|On Melancholy Hill|2010|04mfKJWDSzI|Gorillaz|S4902",
+"Gorillaz|On Melancholy Hill|2010|04mfKJWDSzI?start=31|Gorillaz|S4902",
 "Santana|Oye Como Va|1970|J7ATTjg7tpE|Santana (band)|S1732",
 "Björk|Venus As a Boy|1993|iSNz1BYANnM|Björk|S131",
 "Carpenters|(They Long to Be) Close to You|1970|oaOyoVS-IAI|The Carpenters|S1306",
