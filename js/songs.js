@@ -7922,7 +7922,7 @@ const songs = [
 "Cerrone|Love In C Minor|1976|Xay4S_3oWu4|Cerrone|S12859",
 "Danny O'Keefe|Good Time Charlie's Got the Blues|1971|-YP3pIPp8P8|Danny O'Keefe|S5945",
 "Cornelius Brothers & Sister Rose|Too Late to Turn Back Now|1972|Q1vkx8URDuc?start=7|Cornelius Brothers & Sister Rose|S5872",
-"Squeeze|Take Me I'm Yours|1978|EfvVVGD3bwY|Squeeze (band)|S13630",
+"Squeeze|Take Me I'm Yours|1978|Qllf43RZhJA|Squeeze (band)|S13630",
 "Charlie Parker and His Re-Boppers|Billie's Bounce|1946|S4mRaEzwTYo|Charlie Parker|S9186",
 "Frank Black|Headache|1994|ytQhL0-3FtM|Black Francis|S4499",
 "Grateful Dead|China Cat Sunflower|1969|IXLP7SDksao|Grateful Dead|S3451",
