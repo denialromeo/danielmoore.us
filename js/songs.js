@@ -660,7 +660,7 @@ const songs = [
 "Elton John|Goodbye Yellow Brick Road|1973|RZ3Bb4UsXhU|Elton John|S773",
 "The Weeknd|Can't Feel My Face|2015|KEI4qSrkPAs|The Weeknd|S9854",
 "Nirvana|About a Girl|1989|AhcttcXcRYY|Nirvana (band)|S2431",
-"The Cure|A Forest|1980|RGT4V6JmINA|The Cure|S1853",
+"The Cure|A Forest|1980|Q-QITfqH7Os?start=1|The Cure|S1853",
 "James Blake|Retrograde|2013|6p6PcFFUm5I|James Blake (musician)|S9459",
 "Bobby Darin|Mack the Knife|1959|SEllHMWkXEU|Bobby Darin|S2799",
 "The Avalanches|Since I Left You|2000|wpqm-05R2Jk|The Avalanches|S1410",
