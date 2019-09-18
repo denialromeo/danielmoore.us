@@ -8071,7 +8071,7 @@ const songs = [
 "Bonnie Tyler|It's a Heartache|1977|nPOy7TPjfkE|Bonnie Tyler|S5590",
 "Buffalo Tom|Taillights Fade|1992|sEjmJ1Ge00U|Buffalo Tom|S2933",
 "The Rivieras|California Sun|1964|Yy57Xdk9u0o|The Rivieras|S13342",
-"Billy J. Kramer with The Dakotas|Little Children|1964|RRE3jeAYzMw|Billy J. Kramer|S5454",
+"Billy J. Kramer with The Dakotas|Little Children|1964|RRE3jeAYzMw?start=5|Billy J. Kramer|S5454",
 "Queensrÿche|Silent Lucidity|1990|jhat-xUQ6dw|Queensrÿche|S8050",
 "The Style Council|You're the Best Thing|1984|0HMAVU1k7kg|The Style Council|S8615",
 "Nick Cave & The Bad Seeds|(Are You) The One That I've Been Waiting For?|1997|g9r83bBR-dw|Nick Cave and the Bad Seeds|S7729",
