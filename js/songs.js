@@ -4446,7 +4446,7 @@ const songs = [
 "Salt-n-Pepa|Let's Talk About Sex|1990|ydrtF45-y-g|Salt-N-Pepa|S4486",
 "Billy Bragg|Sexuality|1991|liNnCKPeEv0|Billy Bragg|S195",
 "Drake|Worst Behavior|2013|CccnAvfLPvE|Drake (musician)|S9440",
-"Metallica|Fade to Black|1984|WEQnzs8wl6E|Metallica|S4571",
+"Metallica|Fade to Black|1984|N6_BsCaVO50|Metallica|S4571",
 "Flowered Up|Weekender|1992|o4gKTRuc-5Q|Flowered Up|S179",
 "Fred Astaire with Leo Reisman and His Orchestra|Cheek to Cheek|1935|DgcN8D-tr1g|Fred Astaire|S4870",
 "Radiohead|Nude|2007|BbWBRnDK_AE|Radiohead|S8080",
