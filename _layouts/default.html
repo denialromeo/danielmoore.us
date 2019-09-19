@@ -105,6 +105,11 @@
     }
   })
 </script>
+<script>
+  document.querySelectorAll("a").forEach(function(a) {
+    if (a.href.includes("wikipedia")) { a.href += "#firstHeading" }
+  })
+</script>
 
 {% if page.box == 'game-of-thrones' %}
 <script>

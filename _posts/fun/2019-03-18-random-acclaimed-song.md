@@ -43,10 +43,10 @@ Refresh the page for another!
     function choice(a) { return a[random(a.length)] }
     function wiki_link(title) {
         if (title.startsWith("http")) {
-            return `${title}#firstHeading`
+            return title
         }
         const escaped = title.replace(/ /g, "_").replace(/'/g, "&#39;")
-        return `https://en.wikipedia.org/wiki/${escaped}#firstHeading`
+        return `https://en.wikipedia.org/wiki/${escaped}`
     }
     const iframe = document.querySelector("#song");
     const title = document.querySelector("#song-title");
