@@ -10266,7 +10266,7 @@ const songs = [
 "Bing Crosby|Pistol Packin' Mama|1944|PjgqQcKE3DY|Bing Crosby|S2670",
 "Schoolly D|Gucci Time|1985|gnByhvr5n4c|Schoolly D|S3796",
 "Ray Price|Heartaches by the Number|1959|QzHtx8TXwfM|Ray Price (musician)|S4076",
-"Euromasters|Alles Naar De KI-te|1992|Y5FnR_oWZH0|Euromasters|S2941",
+"Euromasters|Alles Naar De Klote|1992|apBMYXcYFvI?start=3|Euromasters|S2941",
 "Jerry Jeff Walker|L.A. Freeway|1973|bD4RD8vlqVQ?start=82|Jerry Jeff Walker|S4171",
 "Age of Chance|Kiss|1986|XEVB4dAw6jk|Age of Chance|S1951",
 "John Lennon|I Found Out|1970|5MqKXjclNHw|John Lennon|S2557",
