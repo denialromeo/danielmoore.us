@@ -187,7 +187,7 @@ const songs = [
 "Buddy Holly|Peggy Sue|1957|bfu_gfPBPWc|Buddy Holly|S1234",
 "David Bowie|Changes|1971|xMQ0Ryy01yE|David Bowie|S790",
 "MC5|Kick Out the Jams|1969|yvJGQ_piwI0|MC5|S891",
-"Johnny Cash|Hurt|2002|gSS2IgnnBo8|Johnny Cash|S2266",
+"Johnny Cash|Hurt|2002|8AHCfZTRGiI|Johnny Cash|S2266",
 "Kraftwerk|Autobahn|1974|PJM9xpvMbJ0|Kraftwerk|S693",
 "Animal Collective|My Girls|2009|zol2MJf6XNE|Animal Collective|S4784",
 "M83|Midnight City|2011|dX3k_QDnzHE|M83 (band)|S4976",
