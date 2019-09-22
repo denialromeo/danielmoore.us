@@ -2856,7 +2856,7 @@ const songs = [
 "Jurassic 5|Concrete Schoolyard|1997|axoRYjwLZp0|Jurassic 5|S2157",
 "Electric Light Orchestra|Evil Woman|1975|LBtuk4JcYTs|Electric Light Orchestra|S6227",
 "Def Leppard|Pour Some Sugar on Me|1987|14iHRpk9qvQ|Def Leppard|S3325",
-"Cake|The Distance|1996|cno20onK9dY|Cake (band)|S3259",
+"Cake|The Distance|1996|F_HoMkkRHv8|Cake (band)|S3259",
 "Jean Knight|Mr. Big Stuff|1971|9f4CyQto-0E|Jean Knight|S1728",
 "Madonna|Open Your Heart|1986|snsTmi9N9Gs|Madonna (entertainer)|S1944",
 "Grateful Dead|Truckin'|1970|pafY6sZt0FE|Grateful Dead|S3452",
