@@ -105,10 +105,10 @@ I hope you have a good time here. Thanks for dropping by.
 {:#comic-books}
 **Comic Books**
 
-* [*The Book of Genesis Illustrated*](https://www.amazon.com/Book-Genesis-Illustrated-R-Crumb/dp/0393061027) by [Robert Crumb](https://en.wikipedia.org/wiki/Robert_Crumb) (Brings scripture to life.)
+* [*The Book of Genesis Illustrated*](https://ia601205.us.archive.org/18/items/RobertCrumbTheBookOfGenesis/robert%20crumb%20the%20book%20of%20genesis.pdf) by [Robert Crumb](https://en.wikipedia.org/wiki/Robert_Crumb) (Brings scripture to life.)
 * [*Buddha*](https://archive.org/details/manga_Buddha-v01) by [Osamu Tezuka](https://en.wikipedia.org/wiki/Osamu_Tezuka) (Reality.)
-* [*The Cartoon History of the Universe*](https://www.amazon.com/Cartoon-History-Universe-Volumes-1-7/dp/0385265204) by [Larry Gonick](http://www.larrygonick.com/) (Sic transit gloria mundi.)
-* [*Maus*](https://www.amazon.com/Complete-Maus-Art-Spiegelman/dp/0679406417) by [Art Spiegelman](https://en.wikipedia.org/wiki/Art_Spiegelman) (Probably the best comic ever written.)
+* [*The Cartoon History of the Universe*](https://archive.org/details/ACartoonHistoryOfTheUniverse) by [Larry Gonick](http://www.larrygonick.com/) (Sic transit gloria mundi.)
+* [*Maus*](https://archive.org/details/Maus1ArtSpiegelman) by [Art Spiegelman](https://en.wikipedia.org/wiki/Art_Spiegelman) (Probably the best comic ever written.)
 
 (For more fun, check out [*Graphic Novels*](https://www.amazon.com/Graphic-Novels-Everything-Need-Know/dp/0060824255) and [*Manga*](https://www.amazon.com/gp/product/1856693910) by [Paul Gravett](https://en.wikipedia.org/wiki/Paul_Gravett).)
 
