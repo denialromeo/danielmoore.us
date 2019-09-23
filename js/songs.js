@@ -7260,7 +7260,7 @@ const songs = [
 "Simple Minds|Alive and Kicking|1985|ljIQo1OHkTI|Simple Minds|S12212",
 "Kent|Musik non stop|1999|4NRCR1QIhB4|Kent (band)|S7090",
 "The Heartbreakers|Born to Lose|1977|54AwVkP_8ow|The Heartbreakers|S6696",
-"King Crimson|Epitaph|1969|W-KZMswHvvQ|King Crimson|S7106",
+"King Crimson|Epitaph|1969|-C-HytsGYg0|King Crimson|S7106",
 "AlunaGeorge|You Know You Like It|2011|MIuJVYNvC-s|AlunaGeorge|S5183",
 "The Beatles|Yes It Is|1965|acWj7M0-9rY|The Beatles|S10124",
 "N.O.R.E. [Noreaga]|Nothin'|2002|sul16s0VSzs|N.O.R.E.|S7771",
