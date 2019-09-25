@@ -70,7 +70,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Eloquent JavaScript*](http://eloquentjavascript.net/) by Marijn Haverbeke (Make the web browser your playground.)
 * [*Microserfs*](https://www.goodreads.com/notes/11483124-microserfs/71655209-daniel-moore) by [Douglas Coupland](https://en.wikipedia.org/wiki/Douglas_Coupland) (Understand working programmers.)
-* [*Programming Pearls*](https://www.goodreads.com/notes/29983173-programming-pearls/71655209-daniel-moore) by [Jon Bentley](https://en.wikipedia.org/wiki/Jon_Bentley_(computer_scientist)) (Timeless tools of the trade.)
+* [*Programming Pearls*](https://www.goodreads.com/notes/29983173-programming-pearls/71655209-daniel-moore) by [Jon Bentley](https://en.wikipedia.org/wiki/Jon_Bentley_(computer_scientist)) (Parables from the Golden Age.)
 
 (For more fun, check out [this list](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#readme) by the Free Ebook Foundation.)
 
