@@ -2628,7 +2628,7 @@ const songs = [
 "Nilsson|One|1968|DYzY7-V5vxY|Harry Nilsson|S3666",
 "Afrika Bambaataa & The Soulsonic Force|Looking for the Perfect Beat|1982|pWOe28nVAxo|Afrika Bambaataa|S495",
 "Paramore|Hard Times|2017|AEB6ibtdPZc|Paramore|S16461",
-"The Clovers|Love Potion No. 9|1959|Nt7htnE1s4o|The Clovers|S1184",
+"The Clovers|Love Potion No. 9|1959|5zHXqHoq7ro|The Clovers|S1184",
 "The Carter Family|Keep on the Sunny Side|1928|ZbmQQ4RfzVE|Carter Family|S2659",
 "Wire|I Am the Fly|1978|OnIXXe83fe4|Wire (band)|S3970",
 "Love|A House Is Not a Motel|1967|2Z4LNBq3WxE|Love (band)|S12702",
