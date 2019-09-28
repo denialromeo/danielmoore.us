@@ -8727,7 +8727,7 @@ const songs = [
 "Dennis Coffey and the Detroit Guitar Band|Scorpio|1971|CV3Al6CdmUQ|Dennis Coffey|S10572",
 "Arca|Reverie|2017|0WKWZ9y-dvU|Arca (musician)|S16330",
 "Scott Walker|Duchess|1969|XprkIbphGf8|Scott Walker (singer)|S9347",
-"fIREHOSE|Flyin' the Flannel|1991|p5saHqcu_Xc|Firehose (band)|S3404",
+"fIREHOSE|Flyin' the Flannel|1991|xKsxgKX8mOQ|Firehose (band)|S3404",
 "Django Django|Hail Bop|2012|JQGTORbJgB4|Django Django|S10621",
 "George Jones & Tammy Wynette|Golden Ring|1976|Q9KniULwvjE|George Jones|S13794",
 "P. Diddy, Black Rob & Mark Curry|Bad Boy for Life|2001|3Yd4GG3bed0|Sean Combs|S7836",
