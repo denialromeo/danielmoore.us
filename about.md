@@ -113,7 +113,7 @@ I hope you have a good time here. Thanks for dropping by.
 (For more fun, check out [*Graphic Novels*](https://www.amazon.com/Graphic-Novels-Everything-Need-Know/dp/0060824255) and [*Manga*](https://www.amazon.com/gp/product/1856693910) by [Paul Gravett](https://en.wikipedia.org/wiki/Paul_Gravett).)
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="https://i.imgur.com/Srgs7Jb.png" itemprop="contentUrl" data-size="807x1080"><img style="border: 1px solid black;" src="https://i.imgur.com/Srgs7Jb.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p><p><a href="https://www.amazon.com/Buddha-Vol-2-Four-Encounters/dp/1932234578">Amazon</a></p></figcaption></figure>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="https://i.imgur.com/Srgs7Jb.png" itemprop="contentUrl" data-size="807x1080"><img style="border: 1px solid black;" src="https://i.imgur.com/Srgs7Jb.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p><p><a href="https://archive.org/details/manga_Buddha-v02">Amazon</a></p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="https://i.imgur.com/QUd3HZQ.png" itemprop="contentUrl" data-size="807x1080"><img src="https://i.imgur.com/QUd3HZQ.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="https://i.imgur.com/eGQIvSU.png" itemprop="contentUrl" data-size="807x1080"><img src="https://i.imgur.com/eGQIvSU.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="https://i.imgur.com/WFuu7b8.png" itemprop="contentUrl" data-size="807x1080"><img src="https://i.imgur.com/WFuu7b8.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
@@ -125,22 +125,3 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="clear"></div>
 
 <p class="photoswipe-caption-comic"><i>Click the pictures!</i></p>
-
-{% comment %}
-{:#tv-shows}
-**TV Shows**
-
-{:#the-simpsons}
-Favorite episodes of *The Simpsons* (1989 -- Present).
-
-{% include yt.html width='75%' embed='
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLsn6N7S-aJO2fvfvmGO25kxhHuthB5wwc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-' %}
-
-I also recommend watching these episodes even if you haven't seen the shows they're from --
-
-* "The Library" (*Avatar: The Last Airbender*)
-* "Granite State" (*Breaking Bad*)
-
-My favorite movies are *Falling Down*, *The Machinist*, and *Moon*.
-{% endcomment %}
