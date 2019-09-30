@@ -2,8 +2,11 @@
 title: <i>Disciplined Minds</i>
 layout: page
 author: Daniel Moore
-permalink: /dm
+permalink: /disciplined-minds
 ---
+
+> Upon publication of *Disciplined Minds*, the American Institute of Physics fired author Jeff Schmidt.  He had been on the editorial staff of *Physics Today* magazine for 19 years.
+<br> &mdash; **[disciplinedminds.tripod.com](http://disciplinedminds.tripod.com/)**
 
 <div id="random-excerpt"></div>
 
