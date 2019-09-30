@@ -60,7 +60,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#blog-posts}
 **Blog Posts**
 
-* "[A Career Cold Start Algorithm](http://boz.com/articles/career-cold-start.html)" by Andrew Bosworth (What to do on your first day.)
+* "[A Career Cold Start Algorithm](http://web.archive.org/web/20190324175404/http://boz.com:80/articles/career-cold-start.html)" by Andrew Bosworth (What to do on your first day.)
 * "[4 Things You Should Probably Never Do at Work](http://sasamat.xen.prgmr.com/michaelochurch/wp/2012/08/01/4-things-you-should-probably-never-do-at-work/#content)" by Michael Church (Office survival tips.)
 * "[How to Send and Reply to Email](http://matt.might.net/articles/how-to-email/)" by Matt Might (Professional etiquette.)
 * "[A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)" by Paul Lockhart (All children should read this.)
