@@ -139,7 +139,7 @@
     $("#random-story").html("<p><a href='javascript:;' onclick='random_story()'>Jump to random story.</a></p>")
 </script>
 {% endif %}
-{% if page.title == 'Schopenhauer' %}
+{% if page.title == 'Schopenhauer' or page.title == '<i>Disciplined Minds</i>'%}
 <script type="text/javascript">
     var all_excerpts = $("blockquote").slice(1)
     all_excerpts.each((idx, excerpt) => excerpt.id = idx + 1)
