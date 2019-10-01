@@ -6959,7 +6959,7 @@ const songs = [
 "Bertha \"Chippie\" Hill|Trouble in Mind|1926|-dldmgeYc6o|Bertha Hill|S13400",
 "Aeroplane feat. Kathy Diamond|Whispers|2008|ID5R4Jcnb_Y|Aeroplane (musician)|S5103",
 "Disclosure|F for You|2013|5TUIciKQzxI|Disclosure (band)|S9671",
-"Neil Diamond|Cherry, Cherry|1966|hlcuAsgc5-c|Neil Diamond|S7674",
+"Neil Diamond|Cherry, Cherry|1966|ebqlSNgbb1c|Neil Diamond|S7674",
 "Andy Gibb|I Just Wanna Be Your Everything|1977|VkNeoTcGwrc|Andy Gibb|S5195",
 "Hugh Masekela|Grazing in the Grass|1968|qxXZF60EPdM|Hugh Masekela|S4115",
 "Black Star|Definition|1998|BYfXmW-s3UY|Black Star|S5487",
