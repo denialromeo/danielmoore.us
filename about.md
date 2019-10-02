@@ -53,7 +53,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Desktop Software**
 
 * "[BlueStacks](https://bluestacks.com)" by Rosen Sharma (Run Android apps on PC/Mac.)
-* "[LibreOffice](https://www.libreoffice.org/)" by The Document Foundation (Viva la revoluci&ocaute;n!)
+* "[LibreOffice](https://www.libreoffice.org/)" by The Document Foundation (Viva la revoluci&oacute;n!)
 * "[ScreenToGif](https://github.com/NickeManarin/ScreenToGif#readme)" by Nicke Manarin (Animated screenshots.)
 * "[Stellarium](https://github.com/Stellarium/stellarium#readme)" by Fabien Ch&eacute;reau (Astronomy for city-dwellers.)
 * "[Vimium](https://github.com/philc/vimium#readme)" by Phil Crosby (Chrome extension for mouse-less browsing.)
