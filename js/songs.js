@@ -367,7 +367,7 @@ const songs = [
 "The Knife|Heartbeats|2002|pPD8Ja64mRU|The Knife|S3117",
 "The Police|Roxanne|1978|3T1c7GkzRQQ|The Police|S620",
 "Grimes|Oblivion|2012|JtH68PJIQLE|Grimes (musician)|S5013",
-"N.W.A|Fuck tha Police|1988|qu6r7Yd_iG8|N.W.A|S205",
+"N.W.A|Fuck tha Police|1988|ADdpLv3RDhA|N.W.A|S205",
 "Courtney Barnett|Pedestrian at Best|2015|o-nr1nNC3ds|Courtney Barnett|S9728",
 "John Lennon|Instant Karma! (We All Shine On)|1970|xLy2SaSQAtA|John Lennon|S851",
 "The Beatles|A Hard Day's Night|1964|AMSiHdrHl0g|The Beatles|S1039",
