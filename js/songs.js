@@ -10064,7 +10064,7 @@ const songs = [
 "Waxahatchee|Air|2015|O2BpdpmqkDA|Waxahatchee|S9868",
 "L7|Shove|1990|X-XQV63E0GU|L7 (band)|S7161",
 "Redskins|Bring It Down (This Insane Thing)|1985|uXo6jRGHgr4|The Redskins|S8131",
-"Kendrick Lamar|Untitled / Untitled 03 05.28.2013|2015|o4M4qssoaWU|Kendrick Lamar|S16122",
+"Kendrick Lamar|Untitled / Untitled 03 &vert; 05.28.2013|2015|o4M4qssoaWU|Kendrick Lamar|S16122",
 "Bob B. Soxx & BlueJeans|Zip-a-Dee-Doo-Dah|1962|PWOkSyR_NhU|Bob B. Soxx & the Blue Jeans|S5536",
 "Bobby Vinton|Roses Are Red (My Love)|1962|8rjPC7-JMUM|Bobby Vinton|S5580",
 "Chris Montez|Let's Dance|1962|iNLXxDMxe18|Chris Montez|S5798",
