@@ -422,7 +422,7 @@ const songs = [
 "Kendrick Lamar|DNA.|2017|NLZRYQMLDW4|Kendrick Lamar|S16412",
 "Radiohead|Karma Police|1997|1uYWYWPc9HU|Radiohead|S22",
 "Eminem|My Name Is|1999|LDj8kkVwisY|Eminem|S1359",
-"Screamin' Jay Hawkins|I Put a Spell on You|1956|PwXai-sgM-s|Screamin' Jay Hawkins|S1273",
+"Screamin' Jay Hawkins|I Put a Spell on You|1956|7kGPhpvqtOc|Screamin' Jay Hawkins|S1273",
 "M/A/R/R/S|Pump Up the Volume|1987|w9gOQgfPW4Y|MARRS|S333",
 "Depeche Mode|Enjoy the Silence|1990|diT3FvDHMyo|Depeche Mode|S235",
 "David Bowie|Lazarus|2015|y-JqH1M4Ya8|David Bowie|S16069",
