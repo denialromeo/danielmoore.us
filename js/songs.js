@@ -2670,7 +2670,7 @@ const songs = [
 "Bessie Smith|Empty Bed Blues|1928|0BsIntS_Io4|Bessie Smith|S4349",
 "Talk Talk|Life's What You Make It|1985|RQH1i_zZ-_M|Talk Talk|S1941",
 "Beyoncé|Irreplaceable|2006|2EwViQxSJJQ|Beyoncé|S4021",
-"Mickey and Sylvia|Love Is Strange|1956|5SwMB9v1pQ4|Mickey & Sylvia|S1276",
+"Mickey & Sylvia|Love Is Strange|1956|5SwMB9v1pQ4|Mickey & Sylvia|S1276",
 "Ernie K-Doe|Mother-in-Law|1961|6EN5eJf5h_k|Ernie K-Doe|S1135",
 "Nina Simone|Feeling Good|1965|Ff-0pHwyQ1g|Nina Simone|S9305",
 "Jan and Dean|Dead Man's Curve|1963|eXm3cL-mjdE?start=1740|Jan and Dean|S3511",
