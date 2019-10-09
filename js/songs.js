@@ -7551,7 +7551,7 @@ const songs = [
 "Chicago|I'm a Man|1969|DPZUgfOqAdg|Chicago (band)|S13718",
 "David Bowie|Aladdin Sane (1913-1938-197?)|1973|Z_x9fzY4WH0|David Bowie|S10513",
 "Them|Mystic Eyes|1965|5e-fU0eyVUg|Them (band)|S3894",
-"Perry Como|Till the End of Time|1945|xSJ-oT2ZBa0?start=11|Perry Como|S7933",
+"Perry Como|Till the End of Time|1945|KFXA_-2cIYU|Perry Como|S7933",
 "Léo Ferré|La Mémoire et la mer|1970|aDHu3r2VLv0|Léo Ferré|S7233",
 "Herman's Hermits|I'm Into Something Good|1964|MDUCOwp1p60|Herman's Hermits|S6707",
 "Robert Plant|Big Log|1983|FxSsol3Zd7k|Robert Plant|S12075",
