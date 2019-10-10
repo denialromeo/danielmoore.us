@@ -7974,7 +7974,7 @@ const songs = [
 "New Order|Tutti Frutti|2015|koXE2TuQ1_c|New Order (band)|S9822",
 "Marian Anderson|He's Got the Whole World in His Hands|1932|MRGZrv0Hl6k?start=22|Marian Anderson|S7425",
 "Arno|Les yeux de ma mère|1995|2rrYrTQUlY0|Arno (singer)|S10028",
-"Andy Kim|Rock Me Gently|1974|9ym3RlvVR9M|Andy Kim|S9993",
+"Andy Kim|Rock Me Gently|1974|9ym3RlvVR9M?start=5|Andy Kim|S9993",
 "Cat Power|Cherokee|2012|PDbPrOuXq2s|Cat Power|S10363",
 "Gene Clark|No Other|1974|9YULwbhga18|Gene Clark|S6516",
 "Maroon 5|This Love|2002|XPpTgCho5ZA|Maroon 5|S9287",
