@@ -6485,7 +6485,7 @@ const songs = [
 "Daryl Hall & John Oates|Out of Touch|1984|D00M2KZH1J0|Hall & Oates|S11005",
 "John Mayall|All Your Love|1966|OkedAcAAcU4|John Mayall|S15601",
 "Jason Isbell and the 400 Unit|If We Were Vampires|2017|ivYkyC8J29M|Jason Isbell|S16400",
-"Joe Cocker|You Are So Beautiful|1974|WvAr9umnZ54|Joe Cocker|S6933",
+"Joe Cocker|You Are So Beautiful|1974|DHUejgwOyHI|Joe Cocker|S6933",
 "Weezer|Beverly Hills|2005|HL_WvOly7mY|Weezer|S12565",
 "Betty Boo|Where Are You Baby?|1990|H8iDrGW39EA|Betty Boo|S222",
 "The Kinks|Till the End of the Day|1965|yGkUwSiJ7VQ|The Kinks|S7119",
