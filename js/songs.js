@@ -8342,7 +8342,7 @@ const songs = [
 "The Cure|A Letter to Elise|1992|ckgKJXP4syA|The Cure|S13723",
 "Timber Timbre|Hot Dreams|2014|En1llevuLQ4|Timber Timbre|S9694",
 "Lionel Richie|Say You Say Me|1985|we0mk_J0zyc|Lionel Richie|S7274",
-"Siouxsie and the Banshees|Kiss Them for Me|1991|hi53rgdJyvI|Siouxsie and the Banshees|S12215",
+"Siouxsie and the Banshees|Kiss Them for Me|1991|VdSorRYIdp4?start=5|Siouxsie and the Banshees|S12215",
 "Dick Annegarn|Coutances|1975|je3MYlpuBAc|Dick Annegarn|S13441",
 "UB40|One in Ten|1981|Ao2kRDqkNxU|UB40|S8887",
 "The Bellamy Brothers|Let Your Love Flow|1975|FQQj2rQBFvA|The Bellamy Brothers|S10134",
