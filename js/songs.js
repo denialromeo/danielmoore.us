@@ -7945,7 +7945,7 @@ const songs = [
 "Deep Blue Something|Breakfast at Tiffany's|1993|1ClCpfeIELw|Deep Blue Something|S6012",
 "Dwight Twilley Band|I'm On Fire|1975|AS_cgag9eQg|Dwight Twilley|S2586",
 "Kirsty MacColl|A New England|1984|Vnzpg5GgQCo|Kirsty MacColl|S7130",
-"Frank Sinatra|All the Way|1957|WxxDK0sFENo|Frank Sinatra|S6443",
+"Frank Sinatra|All the Way|1957|e6DDaofTgUs|Frank Sinatra|S6443",
 "Cocteau Twins|Cherry-Coloured Funk|1990|JQpKtnLUduE|Cocteau Twins|S3289",
 "R. Kelly|Bump n' Grind|1993|uAXxkNaRkp8|R. Kelly|S11985",
 "Wallace Collection|Daydream|1969|60ejKrj38j8|Wallace Collection (band)|S8914",
