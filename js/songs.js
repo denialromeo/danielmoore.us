@@ -6855,7 +6855,7 @@ const songs = [
 "Madvillain|America's Most Blunted|2003|jytxkJUM_7U|Madvillain|S7375",
 "Metallica|Sad But True|1991|A8MO7fkZc5o|Metallica|S11608",
 "Whitney Houston|The Greatest Love of All|1985|IYzlVDlE72w|Whitney Houston|S9393",
-"Neil Young|Sugar Mountain|1969|L86gQQBYSc4|Neil Young|S7683",
+"Neil Young|Sugar Mountain|1969|FsACIBI5NPk|Neil Young|S7683",
 "Heart|Magic Man|1975|Ps7tVvQHLyo|Heart (band)|S11017",
 "The Jimi Hendrix Experience|If 6 Was 9|1967|vZuFq4CfRR8|The Jimi Hendrix Experience|S11202",
 "Pete Seeger|We Shall Overcome|1963|M_Ld8JGv56E|Pete Seeger|S4397",
