@@ -124,6 +124,12 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="https://i.imgur.com/TNCOIFi.png" itemprop="contentUrl" data-size="807x1080"><img src="https://i.imgur.com/TNCOIFi.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
 </div>
 
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/gonick-india/cartoonhistoryoftheuniverse08-06.jpg" itemprop="contentUrl" data-size="954x1420"><img style="border: 1px solid black;" src="/assets/img/comics/gonick-india/cartoonhistoryoftheuniverse08-06.jpg"/></a><figcaption itemprop="caption description"><p><i>The Cartoon History of the Universe</i> by Larry Gonick</p><p><a href="https://www.amazon.com/dp/0385420935">Amazon</a></p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/gonick-india/cartoonhistoryoftheuniverse08-07.jpg" itemprop="contentUrl" data-size="951x1423"><img src="/assets/img/comics/gonick-india/cartoonhistoryoftheuniverse08-07.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/gonick-india/cartoonhistoryoftheuniverse08-08.jpg" itemprop="contentUrl" data-size="941x1417"><img src="/assets/img/comics/gonick-india/cartoonhistoryoftheuniverse08-08.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+</div>
+
 <div id="clear"></div>
 
 <p class="photoswipe-caption-comic"><i>Click the pictures!</i></p>

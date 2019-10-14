@@ -5,25 +5,25 @@ JSON = 'comics.json'
 def first_slide(**comics_json):
     return ('<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">\n'
             '<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">'
-            '<a href="{images[0]}" itemprop="contentUrl" data-size="{size}">'
+            '<a href="{images[0]}" itemprop="contentUrl" data-size="{dim}">'
             '<img style="border: 1px solid black;" src="{images[0]}"/>'
             '</a>'
             '<figcaption itemprop="caption description">'
             '<p><i>{title}</i> by {author}</p>'
             '<p><a href="{amazon}">Amazon</a></p>'
             '</figcaption>'
-            '</figure>\n').format(**comics_json)
+            '</figure>\n').format(dim=(comics_json["size"] if len(comics_json["size"]) > 0 else comics_json["custom_dim"][0]), **comics_json)
 
 def slides(**comics_json):
     s = first_slide(**comics_json)
     for i in range(1, len(comics_json["images"])):
         s += ('<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject">'
-              '<a href="{img_link}" itemprop="contentUrl" data-size="{size}">'
+              '<a href="{img_link}" itemprop="contentUrl" data-size="{dim}">'
               '<img src="{img_link}"/>'
               '</a>'
               '<figcaption itemprop="caption description">'
               '</figcaption>'
-              '</figure>\n').format(img_link=comics_json["images"][i], **comics_json)
+              '</figure>\n').format(img_link=comics_json["images"][i], dim=(comics_json["size"] if len(comics_json["size"]) > 0 else comics_json["custom_dim"][i]), **comics_json)
     s += '</div>'
     return s
 
