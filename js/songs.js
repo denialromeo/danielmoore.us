@@ -4060,7 +4060,7 @@ const songs = [
 "Keane|Somewhere Only We Know|2004|Oextk-If8HQ|Keane (band)|S2484",
 "Otis Redding|Mr. Pitiful|1964|Azzk9bqkaeE|Otis Redding|S3751",
 "Deutsch Amerikanische Freundschaft|Der Mussolini|1981|vSgGNd6thrc|Deutsch Amerikanische Freundschaft|S534",
-"Dan Le Sac vs. Scroobius Pip|Thou Shalt Always Kill|2007|CWrMGXwhFLk|Scroobius Pip|S4328",
+"Dan Le Sac vs. Scroobius Pip|Thou Shalt Always Kill|2007|CWrMGXwhFLk|Dan le Sac Vs Scroobius Pip|S4328",
 "Red Hot Chili Peppers|Soul to Squeeze|1991|0XcN12uVHeQ|Red Hot Chili Peppers|S8122",
 "Nat King Cole|Stardust|1957|sfzA_IeaKz0|Nat King Cole|S9302",
 "Ice-T|6 in the Mornin'|1986|izuMg1GGnMc|Ice-T|S6769",
