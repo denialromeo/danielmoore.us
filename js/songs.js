@@ -627,7 +627,7 @@ const songs = [
 "Wilco|Jesus, Etc.|2002|7SZWblaEnUo|Wilco|S3112",
 "Roxy Music|More Than This|1982|kOnde5c7OG8|Roxy Music|S3785",
 "Black Sabbath|Iron Man|1970|8aQRq9hhekA|Black Sabbath|S2552",
-"Bob Dylan|Ballad of a Thin Man|1965|3CVKmf3SEfk|Bob Dylan|S2498",
+"Bob Dylan|Ballad of a Thin Man|1965|we37yX3zpKA|Bob Dylan|S2498",
 "Paul McCartney|Maybe I'm Amazed|1970|DNh5Ca1dIXM|Paul McCartney|S651",
 "Sly and the Family Stone|Everyday People|1968|YUUhDoCx8zc|Sly and the Family Stone|S908",
 "Madonna|Vogue|1990|GuJQSAiODqI|Madonna (entertainer)|S230",
