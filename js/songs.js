@@ -10071,7 +10071,7 @@ const songs = [
 "Shelley Fabares|Johnny Angel|1962|wwIYSofgpY0|Shelley Fabares|S8388",
 "Bo Donaldson and the Heywoods|Billy Don't Be a Hero|1974|1qlK9TJvuSk|Bo Donaldson and the Heywoods|S13697",
 "Neil Sedaka|Laughter in the Rain|1974|1LShXj3BqVE|Neil Sedaka|S13905",
-"Ray Stevens|The Streak|1974|XtzoUu7w-YM|Ray Stevens|S13940",
+"Ray Stevens|The Streak|1974|XtzoUu7w-YM?start=6|Ray Stevens|S13940",
 "Bobby Vee|Run to Him|1961|RW1w45JOf-g|Bobby Vee|S5577",
 "Motörhead/Girlschool|Please Don't Touch|1981|m0PtwL3C7LA|Girlschool|S11691",
 "Charlie Daniels|Uneasy Rider|1973|752o2cyZkTQ?start=4|Charlie Daniels|S13715",
