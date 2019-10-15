@@ -39,7 +39,7 @@ While [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)'s 
 * [Topographic Map of Westeros](/assets/img/asoiaf-map.jpg)
 * [Targaryen Family Tree](https://awoiaf.westeros.org/index.php/House_Targaryen#Targaryen_Family_Tree)
 * [Frey Family Tree](https://awoiaf.westeros.org/index.php/Walder_Frey#Family)
-* [House Frey: Secret Heroes of ASOIAF?](https://www.reddit.com/r/asoiaf/comments/4wf9tx/house_frey_secret_heroes_of_asoiaf_spoilers_main/)
+* [House Frey: Secret Heroes of ASOIAF?](https://www.reddit.com/r/asoiaf/comments/4wf9tx/house_frey_secret_heroes_of_asoiaf_spoilers_main/#content)
 * [Military Strength](https://awoiaf.westeros.org/index.php/Military_strength)
 * [TV Tropes Character Index](http://tvtropes.org/pmwiki/pmwiki.php/Characters/ASongOfIceAndFire)
 * [Errata](http://awoiaf.westeros.org/index.php/A_Song_of_Ice_and_Fire_Errata)
