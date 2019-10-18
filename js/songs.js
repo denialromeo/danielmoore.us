@@ -1608,7 +1608,7 @@ const songs = [
 "Blur|This Is a Low|1994|qofbMycC_Io?start=4|Blur (band)|S2088",
 "The Flying Burrito Bros|Sin City|1969|5rVzsEXk3kQ|The Flying Burrito Brothers|S2541",
 "The Chantays|Pipeline|1962|w7c2ZKamzS4|The Chantays|S1062",
-"Plastic Bertrand|Ça plane pour moi|1977|EgSXjAIkO-g|Plastic Bertrand|S3211",
+"Plastic Bertrand|Ça plane pour moi|1977|Ln31raI2ezY|Plastic Bertrand|S3211",
 "The Big Pink|Dominos|2009|OGnNlQ-KNv4|The Big Pink|S4825",
 "Led Zeppelin|Ramble On|1969|_h9MxNn8P7w|Led Zeppelin|S7202",
 "Fleetwood Mac|Albatross|1968|_dFFDbxmapU|Fleetwood Mac|S1700",
