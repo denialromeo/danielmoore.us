@@ -4319,7 +4319,7 @@ const songs = [
 "Van Morrison|Have I Told You Lately?|1989|J789GId1kaY|Van Morrison|S8925",
 "Biz Markie|Nobody Beats the Biz|1987|3hbxvsrFLaw|Biz Markie|S3122",
 "Diamond Head|Am I Evil?|1980|TVid_fLzN5g|Diamond Head (English band)|S10585",
-"U2|Bullet the Blue Sky|1987|fdmNC8ylrXI|U2|S2922",
+"U2|Bullet the Blue Sky|1987|QyGTCGan1co|U2|S2922",
 "Snow Patrol|Run|2003|AOBs8dU4Pb8|Snow Patrol|S8472",
 "Crosby, Stills & Nash|Marrakesh Express|1969|0TYq9RjdYYU|Crosby, Stills, Nash & Young|S5902",
 "Édith Piaf|Hymne à l'amour|1950|g0BhwCk0y3A|Édith Piaf|S6204",
