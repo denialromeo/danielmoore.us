@@ -1706,7 +1706,7 @@ const songs = [
 "S'Express|Theme from S-Express|1988|NGbUOlTLzqk|S'Express|S316",
 "My Chemical Romance|Welcome to the Black Parade|2006|RRKJiM9Njr8|My Chemical Romance|S4007",
 "Kid Cudi|Day 'N' Nite|2008|VrDfSZ_6f4U|Kid Cudi|S4810",
-"Orange Juice|Rip It Up|1982|ESy-Z8vqMrE|Orange Juice (band)|S7814",
+"Orange Juice|Rip It Up|1982|xcRAWA4nN3U|Orange Juice (band)|S7814",
 "Suede|The Drowners|1992|3nWJQStqrfw|Suede (band)|S153",
 "Aphex Twin|Come to Daddy|1997|TZ827lkktYs|Aphex Twin|S2139",
 "Estelle feat. Kanye West|American Boy|2008|Ic5vxw3eijY|Estelle (musician)|S4715",
