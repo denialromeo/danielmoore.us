@@ -9968,7 +9968,7 @@ const songs = [
 "Sarah McLachlan|Sweet Surrender|1997|h2JWJYLNUq4|Sarah McLachlan|S16008",
 "The Highwaymen|Michael (Row the Boat Ashore)|1960|GFONIPFUgM4|The Highwaymen (folk band)|S6715",
 "Frankie Avalon|Venus|1959|fakpqLDEQAo?start=35|Frankie Avalon|S6452",
-"Frankie Avalon|Why|1959|TqjjUKu9t-8|Frankie Avalon|S6453",
+"Frankie Avalon|Why|1959|nGijoWb9aYo|Frankie Avalon|S6453",
 "Jacques Brel|Les Vieux|1963|GhIs2gD28v0|Jacques Brel|S11114",
 "Aaron Neville|Hercules|1973|NGGRi2CEFu8|Aaron Neville|S14030",
 "Darlene Love|A Fine Fine Boy|1963|-2RFHMCZssE|Darlene Love|S2408",
