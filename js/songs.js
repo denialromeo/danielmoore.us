@@ -3970,7 +3970,7 @@ const songs = [
 "Silverchair|Tomorrow|1994|RZD982yrmx4|Silverchair|S12208",
 "Spike Jones|Der Fuehrer's Face|1942|lWF8iRCan7I|Spike Jones|S4872",
 "Howlin' Wolf|Killing Floor|1965|EGIE28q3fEA|Howlin' Wolf|S4093",
-"Black Rebel Motorcycle Club|Whatever Happened to My Rock'n'roll? (Punk Song)|2001|2AhWWM0CwDc|Black Rebel Motorcycle Club|S2225",
+"Black Rebel Motorcycle Club|Whatever Happened to My Rock and Roll (Punk Song)|2001|jdTmk-YyUKg|Black Rebel Motorcycle Club|S2225",
 "Yaeji|Raingurl|2017|_3T8KznhThQ|Yaeji|S16515",
 "Mory Kanté|Yé Ké Yé Ké|1987|bJNiMNUSrw8|Mory Kanté|S7609",
 "Tim Hardin|Reason to Believe|1966|mtatkBCoxSs|Tim Hardin|S3459",
