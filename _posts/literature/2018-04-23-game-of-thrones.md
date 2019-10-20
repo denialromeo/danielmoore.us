@@ -36,7 +36,7 @@ While [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)'s 
 * [Character Fan Art](https://awoiaf.westeros.org/index.php/Category:Character_Images)
 * [*A Song of Ice and Fire* Timeline](https://docs.google.com/spreadsheets/d/1ZsY3lcDDtTdBWp1Gx6mfkdtZT6-Gk0kdTGeSC_Dj7WM/edit#gid=8)
 * Official [Westeros](http://www.randomhousebooks.com/wp-content/uploads/2016/10/TheNorthTheSouth1.pdf), [King's Landing](http://www.randomhousebooks.com/wp-content/uploads/2016/10/KingsLanding.pdf), [Iron Islands](http://www.randomhousebooks.com/wp-content/uploads/2016/10/IronIslands.pdf), [Beyond the Wall](http://www.randomhousebooks.com/wp-content/uploads/2015/02/beyond_the_wall.jpg), [Free Cities](http://www.randomhousebooks.com/wp-content/uploads/2015/02/the_free_cities.jpg), [Valyria](http://www.randomhousebooks.com/wp-content/uploads/2015/02/valyria.jpg) Maps
-* [Topographic Map of Westeros](/assets/img/asoiaf-map.jpg)
+* [Topographic Map of Westeros](/assets/img/asoiaf/asoiaf-map.jpg)
 * [Targaryen Family Tree](https://awoiaf.westeros.org/index.php/House_Targaryen#Targaryen_Family_Tree)
 * [Frey Family Tree](https://awoiaf.westeros.org/index.php/Walder_Frey#Family)
 * [House Frey: Secret Heroes of ASOIAF?](https://www.reddit.com/r/asoiaf/comments/4wf9tx/house_frey_secret_heroes_of_asoiaf_spoilers_main/)
