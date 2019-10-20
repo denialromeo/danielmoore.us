@@ -1236,7 +1236,7 @@ const songs = [
 "Patsy Cline|Walkin' After Midnight|1957|lgGI-HOQZBk|Patsy Cline|S1253",
 "Peter Gabriel|In Your Eyes|1986|B3kFPBtc9BE|Peter Gabriel|S385",
 "The Specials|A Message to You Rudy|1979|cntvEDbagAw|The Specials|S1498",
-"The Special A.K.A.|Free Nelson Mandela|1984|AgcTvoWjZJU|The Specials|S427",
+"The Special AKA|Free Nelson Mandela|1984|AgcTvoWjZJU|The Specials|S427",
 "The Jimi Hendrix Experience|Manic Depression|1967|Ll7w7Q1uIAk|Jimi Hendrix|S3471",
 "Nick Cave and the Bad Seeds + Kylie Minogue|Where the Wild Roses Grow|1995|8xnax0u03Ew|Nick Cave and the Bad Seeds|S76",
 "Madonna|Material Girl|1984|6p-lDYPR2P8|Madonna (entertainer)|S2617",
