@@ -8129,7 +8129,7 @@ const songs = [
 "At the Drive-In|Pattern Against User|2000|TGMT7hb8hT8|At the Drive-In|S5262",
 "U2|Until the End of the World|1991|U6Fm7tGm2qI|U2|S15154",
 "Cheap Trick|The Flame|1988|muhFxXce6nA|Cheap Trick|S10388",
-"Los Twist|Pensé que se trataba de cieguitos|1983|IfzUYVRXrLM|Los Twist|S11479",
+"Los Twist|Pensé que se trataba de cieguitos|1983|qTqomimd6jk|Los Twist|S11479",
 "Kacey Musgraves|Biscuits|2015|nGIUtLO_x8g|Kacey Musgraves|S9798",
 "Michel Polnareff|Lettre à France|1977|Fk2VBiMm9I4|Michel Polnareff|S11631",
 "Ronnie Hawkins|Who Do You Love|1963|IYPVyJwzerM|Ronnie Hawkins|S8241",
