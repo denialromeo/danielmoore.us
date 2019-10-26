@@ -8105,7 +8105,7 @@ const songs = [
 "Rick Springfield|Jessie's Girl|1981|qYkbTyHXwbs|Rick Springfield|S8153",
 "Terence Trent D'Arby|Sign Your Name|1987|dluHzQhLcME|Terence Trent D'Arby|S8722",
 "Lou Reed|Wild Child|1972|W3sGlnNVFlY|Lou Reed|S7321",
-"Matthew Dear|Dog Days|2003|gOecv01Ymys|Matthew Dear|S7473",
+"Matthew Dear|Dog Days|2003|pcQBUT7rtS4|Matthew Dear|S7473",
 "Starbuck|Moonlight Feels Right|1975|vFPK5paOXnU|Starbuck (band)|S8546",
 "Eddie Cochran|Twenty Flight Rock|1957|f8Vfin7mqdw|Eddie Cochran|S6195",
 "Modest Mouse|The World at Large|2004|ppzTFgwZxhc|Modest Mouse|S9298",
