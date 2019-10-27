@@ -5850,7 +5850,7 @@ const songs = [
 "Eminem feat. Rihanna|Love the Way You Lie|2010|uelHwf8o7_U|Eminem|S6276",
 "Hard-Fi|Hard to Beat|2005|ch6qy0qdifc|Hard-Fi|S3034",
 "Renaud|Hexagone|1975|eUbj8aUC_rQ|Renaud|S8135",
-"The Spaniels|Goodnite Sweetheart, Goodnite|1954|egX9N8yOgaU|The Spaniels|S3836",
+"The Spaniels|Goodnite, Sweetheart, Goodnite|1954|egX9N8yOgaU|The Spaniels|S3836",
 "Joan Baez|Diamonds and Rust|1975|aXaqKCDGN28|Joan Baez|S4422",
 "The Psychedelic Furs|Sister Europe|1980|-R96oxrDHWs|The Psychedelic Furs|S8027",
 "Chamillionaire feat. Krayzie Bone|Ridin'|2005|CtwJvgPJ9xw|Chamillionaire|S4010",
