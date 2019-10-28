@@ -7007,7 +7007,7 @@ const songs = [
 "Blink-182|The Rock Show|2001|z7hhDINyBP0|Blink-182|S5493",
 "The Mindbenders|A Groovy Kind of Love|1965|ddcIunulJi4|The Mindbenders|S7561",
 "Art Blakey & The Jazz Messengers|Moanin'|1959|Cv9NSR-2DwM|Art Blakey|S10029",
-"Machine|There But for the Grace of God Go I|1979|YGBDAxCDLs4|Machine|S4440",
+"Machine|There But for the Grace of God Go I|1979|YGBDAxCDLs4|Machine (band)|S4440",
 "Bob Dylan|I'll Keep It with Mine|1985|nLba2PZvVaI|Bob Dylan|S3371",
 "Neon Indian|Annie|2015|TTuT1s-YPLE|Neon Indian|S9821",
 "Mark Ronson & The Business Intl|Bang Bang Bang|2010|TM6TCGltfHM|Mark Ronson|S7433",
