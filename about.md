@@ -45,7 +45,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 * "[Bookmarklet Creator](https://mrcoles.com/bookmarklet/)" by Peter Coles (Execute JavaScript with the push of a button.)
 * "[Capitalize My Title](https://capitalizemytitle.com)" by Bobby Kania (Capitalize your titles!)
-* "[ChemGuide](https://www.chemguide.co.uk/)" by Jim Clark (Chemistry taught correctly.)
 * "[Flame of Life](https://learnforeverlearn.com/candle/)" by Brad Lyon (Tomorrow and tomorrow and tomorrow.)
 * "[MuseScore](https://musescore.com/user/30775547/favorites)" by Werner Schweer (Find and play sheet music.)
 
