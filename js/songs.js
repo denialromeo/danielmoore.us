@@ -9658,7 +9658,7 @@ const songs = [
 "Little Willie John|All Around the World|1955|fzViZawss64|Little Willie John|S4368",
 "Teenage Head|Picture My Face|1978|Juf5fApWiIs|Teenage Head (band)|S13366",
 "The Allman Brothers Band|Melissa|1972|Pwbowi-8Yoo|The Allman Brothers Band|S5175",
-"Whirlpool Productions|From: Disco To: Disco|1996|9_gidanrIFc|Whirlpool Productions|S8985",
+"Whirlpool Productions|From Disco To: Disco|1996|9_gidanrIFc|Whirlpool Productions|S8985",
 "Charles Aznavour|Hier encore|1964|bHokx2L1wi4|Charles Aznavour|S13422",
 "James Brown|Soul Power|1971|4N-NrucQcB8|James Brown|S6845",
 "Jefferson Airplane|We Can Be Together|1969|cxA3Q96a8XE|Jefferson Airplane|S4128",
