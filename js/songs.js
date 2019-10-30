@@ -3798,7 +3798,7 @@ const songs = [
 "Big Joe Williams|Baby Please Don't Go|1935|U6RNptsBorM|Big Joe Williams|S3121",
 "Cat Power|Ruin|2012|_nl3Oo4-IQ4|Cat Power|S5003",
 "Orchestral Manoeuvres in the Dark|If You Leave|1986|EPmTGFg06zA|Orchestral Manoeuvres in the Dark|S3681",
-"Duran Duran|The Chauffeur|1982|MCF2nMrQde8|Duran Duran|S6173",
+"Duran Duran|The Chauffeur|1982|1B__8N5d_LA|Duran Duran|S6173",
 "The Four Seasons|Rag Doll|1964|EwuL3Up_mpg|The Four Seasons (band)|S1049",
 "The Beatles|Everybody's Got Something to Hide Except Me and My Monkey|1968|eyV3zCq1OHM|The Beatles|S3185",
 "Savages|She Will|2013|kim-REn8ecg|Savages (band)|S9518",
