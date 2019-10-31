@@ -938,7 +938,7 @@ const songs = [
 "Bessie Smith|St. Louis Blues|1925|3rd9IaA_uJI|Bessie Smith|S2743",
 "The Beatles|You've Got to Hide Your Love Away|1965|V8nLraecPRY|The Beatles|S2497",
 "Marvin Gaye & Tammi Terrell|Ain't No Mountain High Enough|1967|Xz-UvQYAmbg|Tammi Terrell|S951",
-"Warren Zevon|Werewolves of London|1978|iDpYBT0XyvA|Warren Zevon|S618",
+"Warren Zevon|Werewolves of London|1978|qae25976UgA|Warren Zevon|S618",
 "Sam & Dave|Hold On, I'm Comin'|1966|AREppyQf5uw|Sam & Dave|S967",
 "Little Richard|Lucille|1957|u0Ujb6lJ_mM|Little Richard|S1252",
 "Randy Newman|Sail Away|1972|HCRGrnhdNQE|Randy Newman|S798",
