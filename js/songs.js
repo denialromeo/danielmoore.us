@@ -3104,7 +3104,7 @@ const songs = [
 "Air|Playground Love|2000|NAgX1jO3No0|Air (band)|S2187",
 "Janet Jackson|When I Think of You|1986|EaleKN9GQ54|Janet Jackson|S386",
 "The Hues Corporation|Rock the Boat|1973|h2r59-Xmge4|The Hues Corporation|S3484",
-"Smokey Robinson|Cruisin'|1979|WlzY6cWpoMQ|Smokey Robinson|S1572",
+"Smokey Robinson|Cruisin'|1979|Abum9IDymTE|Smokey Robinson|S1572",
 "Kanye West|Blood on the Leaves|2013|KEA0btSNkpw|Kanye West|S9474",
 "Max Romeo & The Upsetters|War ina Babylon|1976|oGYFobPWmck|The Upsetters|S1777",
 "Sade|The Sweetest Taboo|1985|kcPc18SG6uA|Sade (band)|S8295",
