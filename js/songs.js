@@ -1040,7 +1040,7 @@ const songs = [
 "Bob Dylan|I Want You|1966|MoOLYtpVqkk|Bob Dylan|S1432",
 "Dirty Projectors|Stillness Is the Move|2009|YMPF6lpM0XM|Dirty Projectors|S4794",
 "America|A Horse with No Name|1972|QRmvNMUEFZg|America (band)|S3149",
-"Curtis Mayfield|Superfly|1972|-cmo6MRYf5g|Curtis Mayfield|S808",
+"Curtis Mayfield|Superfly|1972|DAh_4s_-tas|Curtis Mayfield|S808",
 "Joe Cocker|With a Little Help from My Friends|1968|3s-dSoDptVc?start=83|Joe Cocker|S917",
 "The Young Rascals|Good Lovin'|1966|1vWUM0m4AE4|The Rascals|S970",
 "The Platters|Only You (And You Alone)|1955|3FygIKsnkCw|The Platters|S1292",
