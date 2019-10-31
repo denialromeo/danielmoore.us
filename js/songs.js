@@ -7600,7 +7600,7 @@ const songs = [
 "Steve Earle|The Mountain|1999|ZBuMFDHkrH8|Steve Earle|S8569",
 "Tommy Johnson|Cool Drink of Water Blues|1928|o808EmOukDQ|Tommy Johnson (musician)|S9378",
 "The Hellacopters|By the Grace of God|2002|5ebQjYpmqOo|The Hellacopters|S11021",
-"Fatboy Slim|Everybody Needs a 303|1996|c7iSKMPSwcY|Fatboy Slim|S6353",
+"Fatboy Slim|Everybody Needs a 303|1996|o6eIBE7Bo3U|Fatboy Slim|S6353",
 "Stan Kenton|City of Glass (Suite)|1952|1HxuWh2ChMs|Stan Kenton|S13251",
 "Pharrell Williams feat. Gwen Stefani|Can I Have It Like That|2005|IDC5yOSuCv0|Pharrell Williams|S3032",
 "The Roots|How I Got Over|2009|zI4D1QOLGuM|The Roots|S12109",
