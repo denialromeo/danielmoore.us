@@ -9784,7 +9784,7 @@ const songs = [
 "Bobby Moore & The Rhythm Aces|Searching for My Love|1965|cx9UTW6AIXM|Bobby Moore & the Rhythm Aces|S5576",
 "King Pleasure|Moody's Mood for Love|1952|Y0XYZNx6854|King Pleasure|S13534",
 "Soul Coughing|Super Bon Bon|1996|TRqP52c0OLU|Soul Coughing|S2149",
-"Animal Collective|Who Could Win a Rabbit?|2004|-6e5vnJcRYo|Animal Collective|S2466",
+"Animal Collective|Who Could Win a Rabbit?|2004|UTbd0Ncsyus|Animal Collective|S2466",
 "Genesis|Firth of Fifth|1973|SD5engyVXe0|Genesis (band)|S10905",
 "The Young Gods|L'Amourir|1988|4xUpTBNKlvg|The Young Gods|S2925",
 "Friends|I'm His Girl|2011|O5VNumNJyqE|Friends (American band)|S6485",
