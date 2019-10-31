@@ -70,7 +70,6 @@ I hope you have a good time here. Thanks for dropping by.
 **Programming Books**
 
 * [*Effective Python*](https://effectivepython.com/) by [Brett Slatkin](https://www.onebigfluke.com/) (Intermediate Parseltongue.)
-* [*Eloquent JavaScript*](http://eloquentjavascript.net/) by Marijn Haverbeke (Make the web browser your playground.)
 * [*Microserfs*](https://www.goodreads.com/notes/11483124-microserfs/71655209-daniel-moore) by [Douglas Coupland](https://en.wikipedia.org/wiki/Douglas_Coupland) (Understand working programmers.)
 * [*Programming Pearls*](https://www.goodreads.com/notes/29983173-programming-pearls/71655209-daniel-moore) by [Jon Bentley](https://en.wikipedia.org/wiki/Jon_Bentley_(computer_scientist)) (Parables from the Golden Age.)
 
