@@ -8201,7 +8201,7 @@ const songs = [
 "Beat Happening|Indian Summer|1988|gDJrrcx8Nbs|Beat Happening|S4579",
 "Caesars Palace|Jerk It Out|2002|w869Avr_fXI|Caesars (band)|S5691",
 "Sharon Van Etten|Taking Chances|2014|80-_CpH07QQ|Sharon Van Etten|S12192",
-"Frank Zappa|Don't Eat the Yellow Snow|1974|mpNn1nht0_8|Frank Zappa|S10866",
+"Frank Zappa|Don't Eat the Yellow Snow|1974|_L-xvaGfSmc|Frank Zappa|S10866",
 "John Hiatt|Thing Called Love|1987|0d0bs4lA1t4|John Hiatt|S6948",
 "Léo Ferré|C'est extra|1969|bVrulTsu2S8?start=3|Léo Ferré|S11413",
 "Marty Robbins|Singing the Blues|1956|Vl5yGrY3pGs|Marty Robbins|S3765",
