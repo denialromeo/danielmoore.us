@@ -14,7 +14,7 @@ permalink: random-acclaimed-song
 
 <p id="description">Since 2001, statistician Henrik Franzon has maintained <a href="http://acclaimedmusic.net">acclaimedmusic.net</a>, his ranking of the top&#8209;rated songs of all time. This song was randomly chosen from his <a href="http://www.acclaimedmusic.net/history_songs.htm">2018 list</a> of 10,272 songs.</p>
 
-Refresh the page for another!
+Refresh the page or click <a href="/random-acclaimed-song" target="_self">here</a> for another!
 
 <a href="javascript:;" id="dropdown" target="_self">More Fun</a>
 <div id="instructions" style="display:none;">
