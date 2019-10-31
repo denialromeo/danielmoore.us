@@ -5375,7 +5375,7 @@ const songs = [
 "Howlin' Wolf|How Many More Years|1951|OpKB6OZ_B4c|Howlin' Wolf|S6746",
 "Sugababes|Round Round|2002|FHh86ySgKrA|Sugababes|S8625",
 "The Clash|Bankrobber|1980|ttJBdr6eBuo|The Clash|S3278",
-"A-ha|The Sun Always Shines on TV|1985|a3ir9HC9vYg|A-ha|S5117",
+"A-ha|The Sun Always Shines on T.V.|1985|a3ir9HC9vYg|A-ha|S5117",
 "John Lennon|Whatever Gets You Thru the Night|1974|6lFTD9O-XMw|John Lennon|S6956",
 "Editors|Papillon|2009|Wq4tyDRhU_4|Editors (band)|S4796",
 "R.E.M.|Daysleeper|1998|uUcKeKt8C1k|R.E.M.|S2155",
