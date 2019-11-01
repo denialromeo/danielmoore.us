@@ -6811,7 +6811,7 @@ const songs = [
 "Calvin Harris|Acceptable in the '80s|2006|dOV5WXISM24|Calvin Harris|S5697",
 "Afroman|Because I Got High|2000|WeYsTmIzjkw|Afroman|S5113",
 "Climax Blues Band|Couldn't Get It Right|1976|6OPD6SJd2f4|Climax Blues Band|S3284",
-"Mastodon|Blood & Thunder|2004|labytsb3gfI|Mastodon (band)|S7470",
+"Mastodon|Blood and Thunder|2004|labytsb3gfI|Mastodon (band)|S7470",
 "Spoonie Gee|Spoonin Rap|1979|bxN1xrLRvGU|Spoonie Gee|S3441",
 "Sting|Fortress Around Your Heart|1985|7qcVtEy6G1Q|Sting (musician)|S9369",
 "Jackson Browne|The Load Out|1977|scsJZ67ssDY|Jackson Browne|S11108",
