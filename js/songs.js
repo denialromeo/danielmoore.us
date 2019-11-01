@@ -10121,7 +10121,7 @@ const songs = [
 "Alan Jackson|Where Were You (When the World Stopped Turning)|2001|gPHnadJ-0hE|Alan Jackson|S9954",
 "Classical Two|New Generation|1987|9yNwhu_BqXs|https://www.discogs.com/artist/21924-The-Classical-Two|S10423",
 "Armand van Helden feat. Roland Clark|Flowerz|1999|TVWRt_rPFyk|Armand van Helden|S10027",
-"Stereophonics|Local Boy in the Photograph|1997|7TxwSkXthzk|Stereophonics|S12308",
+"Stereophonics|Local Boy in the Photograph|1997|5kZaW1a_olk|Stereophonics|S12308",
 "Bruce Springsteen|Devils and Dust|2005|cG8ZQkeZvzc|Bruce Springsteen|S14192",
 "The Andrews Sisters|Rum and Coca-Cola|1944|WiayZdPESno|The Andrews Sisters|S14065",
 "Peter Tosh|Equal Rights|1977|iqeOTg2a-l8|Peter Tosh|S7949",
