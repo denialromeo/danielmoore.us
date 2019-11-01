@@ -1176,7 +1176,7 @@ const songs = [
 "The Velvet Underground & Nico|All Tomorrow's Parties|1966|9pMuAgsZ2oo|The Velvet Underground|S1679",
 "R.E.M.|Fall on Me|1986|lf6vCjtaV1k|R.E.M.|S383",
 "Tennessee Ernie Ford|Sixteen Tons|1955|Joo90ZWrUkU|Tennessee Ernie Ford|S1291",
-"Norman Greenbaum|Spirit in the Sky|1969|AZQxH_8raCI|Norman Greenbaum|S1723",
+"Norman Greenbaum|Spirit in the Sky|1969|8aZsF7v0pNw|Norman Greenbaum|S1723",
 "X-Ray Spex|Oh Bondage Up Yours!|1977|ogypBUCb7DA|X-Ray Spex|S659",
 "Moloko|Sing It Back|1998|w1eN8vyVFIM|Moloko|S1367",
 "Green Day|Longview|1994|42BBdzzgPNM|Green Day|S117",
