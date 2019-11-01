@@ -4870,7 +4870,7 @@ const songs = [
 "Nancy & Frank Sinatra|Somethin' Stupid|1967|kn-ExYS1Pq0?start=76|Nancy Sinatra|S12960",
 "Radiohead|Life in a Glasshouse|2001|N92g3TQ98oI|Radiohead|S4672",
 "Jake Bugg|Lightning Bolt|2012|xCiQXsvPr1M|Jake Bugg|S11125",
-"The Hives|Main Offender|2000|6CgC9BaHqXg|The Hives|S6716",
+"The Hives|Main Offender|2000|C_Ue3PVB4tw|The Hives|S6716",
 "Tex Williams & His Western Caravan|Smoke! Smoke! Smoke! (That Cigarette)|1947|65_-vNtWLLs|Tex Williams|S8727",
 "Crash Test Dummies|Mmm Mmm Mmm Mmm|1993|eTeg1txDv8w|Crash Test Dummies|S5885",
 "Britney Spears|Till the World Ends|2011|qzU9OrZlKb8|Britney Spears|S4949",
