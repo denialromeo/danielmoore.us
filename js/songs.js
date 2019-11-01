@@ -4492,7 +4492,7 @@ const songs = [
 "Mac DeMarco|Passing Out Pieces|2014|6Lk3NFWw9Fg|Mac DeMarco|S9596",
 "Hüsker Dü|Eight Miles High|1984|xBKyBlJ_JN8|Hüsker Dü|S447",
 "Wilco|Handshake Drugs|2004|c4Jvg58MnfM|Wilco|S9016",
-"Fisk Jubilee Singers|Swing Low Sweet Chariot|1909|GUvBGZnL9rE|Fisk Jubilee Singers|S2682",
+"Fisk Jubilee Singers|Swing Low, Sweet Chariot|1909|GUvBGZnL9rE|Fisk Jubilee Singers|S2682",
 "El Tri|Triste canción|1984|5UsziuIqyvk|El Tri|S10696",
 "Soft Cell|Say Hello, Wave Goodbye|1981|1G6SuujVCtk|Soft Cell|S1884",
 "Taylor Swift|We Are Never Ever Getting Back Together|2012|WA4iX5D9Z64|Taylor Swift|S5041",
