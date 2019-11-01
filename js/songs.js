@@ -5932,7 +5932,7 @@ const songs = [
 "Duke Ellington|Concerto for Cootie|1940|EGiI2sI_aeg|Duke Ellington|S13186",
 "Fake Blood|Mars|2008|iODdvJGpfIA|Theo Keating|S13771",
 "Rubén Blades|Desapariciones|1984|SnPF6_7C_OE|Rubén Blades|S2911",
-"Lloyd Cole and the Commotions|Forest Fire|1984|1jZ8bxghB9E|Lloyd Cole and the Commotions|S7288",
+"Lloyd Cole and the Commotions|Forest Fire|1984|ujzUawk5wwo|Lloyd Cole and the Commotions|S7288",
 "Neko Case|Hold On, Hold On|2006|a0vk5SGmw3w|Neko Case|S7693",
 "Barbara|La Solitude|1965|GlVrWsEUFGY|Barbara (singer)|S5318",
 "Bruce Springsteen|New York City Serenade|1973|fEQENfRoBgw|Bruce Springsteen|S5640",
