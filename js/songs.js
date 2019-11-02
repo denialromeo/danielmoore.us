@@ -7619,7 +7619,7 @@ const songs = [
 "Pet Shop Boys|Love Is a Bourgeois Construct|2013|s7w0eqUBp3c|Pet Shop Boys|S9504",
 "Masters at Work presents India|To Be in Love|1997|eMaInPix0_c|Masters at Work|S7469",
 "Zapp|More Bounce to the Ounce|1980|r_IPV2zeDIc|Zapp (band)|S12725",
-"Ministry|N.W.O.|1992|imqvLToWH7k|Ministry (band)|S11652",
+"Ministry|N.W.O.|1992|AMpqjSymdDA|Ministry (band)|S11652",
 "Mos Def|Umi Says|1999|vntLKOd9saI|Mos Def|S11687",
 "Father John Misty|Chateau Lobby #4 (in C for Two Virgins)|2014|A6NuYJ0RzRg|Josh Tillman|S9876",
 "Green Day|Warning|2000|eebfMFzJHNs|Green Day|S6640",
