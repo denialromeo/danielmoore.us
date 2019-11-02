@@ -8769,7 +8769,7 @@ const songs = [
 "Michigan & Smiley|Nice Up the Dance|1979|1-fAy5_tb_0|Michigan & Smiley|S14748",
 "The Turbans|When You Dance|1955|WWB9ZXMsMDY|The Turbans|S2775",
 "Mercury Rev|Opus 40|1998|fusKcZjj7dg|Mercury Rev|S7518",
-"Boston|Amanda|1986|j4FbRl1Lms4|Boston (band)|S5600",
+"Boston|Amanda|1986|zclgKleU2Pw|Boston (band)|S5600",
 "James Ingram|Yah Mo B There|1983|MJTiDMfDeyE|James Ingram|S2909",
 "1910 Fruitgum Company|1, 2, 3, Red Light|1968|vEfQozMBSOY|1910 Fruitgum Company|S4109",
 "The Beta Band|Needles in My Eyes|1998|9e0VXY6EJ10|The Beta Band|S5420",
