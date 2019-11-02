@@ -7501,7 +7501,7 @@ const songs = [
 "Jarvis Cocker|Don't Let Him Waste Your Time|2006|ON5qhdt1jy4|Jarvis Cocker|S6872",
 "Elvis Presley|Viva Las Vegas|1964|ui0EgRsFVN8|Elvis Presley|S4090",
 "Mercury Rev|Car Wash Hair|1991|Zhh7A_gqr-g|Mercury Rev|S7517",
-"Irene Cara|Fame|1980|ynZCDm0IEVM|Irene Cara|S6798",
+"Irene Cara|Fame|1980|o2jh7N7Fldk|Irene Cara|S6798",
 "Slick Rick|Mona Lisa|1988|hcYWVCM2RgY|Slick Rick|S8452",
 "Johnny Cash|The Mercy Seat|2000|XoJ0bAp4Eo8|Johnny Cash|S6977",
 "Pauline Croze|T'es Beau|2005|tgM5GrhK1l8|Pauline Croze|S11870",
