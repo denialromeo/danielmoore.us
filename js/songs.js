@@ -4514,7 +4514,7 @@ const songs = [
 "The Beatles|Lady Madonna|1968|uLRiGX3L-kw|The Beatles|S4409",
 "Marilyn Manson|The Dope Show|1998|5R682M3ZEyk|Marilyn Manson|S3594",
 "Cybotron|Clear|1983|Ci9ztFS3NfE|Cybotron (American band)|S5932",
-"The Byrds|Chestnut Mare|1970|-olDjUy4540|The Byrds|S5689",
+"The Byrds|Chestnut Mare|1970|oDJfushJbck|The Byrds|S5689",
 "Phillip Bailey with Phil Collins|Easy Lover|1984|JkRKT6T0QLg|Philip Bailey|S11891",
 "Sir Mix-A-Lot|Baby Got Back|1992|X53ZSxkQ3Ho|Sir Mix-a-Lot|S3812",
 "Brenda Holloway|Every Little Bit Hurts|1964|Ub5x1V2v3uQ|Brenda Holloway|S3476",
