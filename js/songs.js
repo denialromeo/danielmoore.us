@@ -5260,7 +5260,7 @@ const songs = [
 "Queens of the Stone Age|The Way You Used to Do|2017|GvyNyFXHj4k|Queens of the Stone Age|S16471",
 "Luiz Gonzaga|Asa Branca|1947|zsFSHg2hxbc|Luiz Gonzaga|S11497",
 "Nirvana|Pennyroyal Tea|1993|arQC1MdDm8k|Nirvana (band)|S2996",
-"Tiffany|I Think We're Alone Now|1987|w6Q3mHyzn78|Tiffany Thornton|S12432",
+"Tiffany|I Think We're Alone Now|1987|w6Q3mHyzn78|Tiffany Darwish|S12432",
 "Count Basie|Lil' Darlin'|1958|nqn4nyZz0to|Count Basie|S10461",
 "Faith No More|I'm Easy|1992|vPzDTfIb0DU|Faith No More|S10782",
 "Felix|Don't You Want Me|1992|T5zSGiuMk58|Felix (band)|S2939",
