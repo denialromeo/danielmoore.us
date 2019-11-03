@@ -2496,7 +2496,7 @@ const songs = [
 "The Chemical Brothers|The Private Psychedelic Reel|1997|n0q-hGnAd68|The Chemical Brothers|S2141",
 "Lynyrd Skynyrd|That Smell|1977|hib4n9RmFrQ|Lynyrd Skynyrd|S3579",
 "Youssou N'Dour|Immigres/Bitim Rew|1984|t975zX-pVlE?start=60|Youssou N'Dour|S9103",
-"The Rolling Stones|Shine a Light|1972|the7gV99YRI|The Rolling Stones|S8226",
+"The Rolling Stones|Shine a Light|1972|N46DHEtWEm4|The Rolling Stones|S8226",
 "Fats Domino|Blue Monday|1956|Fy5WM1xYbGo|Fats Domino|S1282",
 "Bob Marley and the Wailers|Exodus|1977|2SFXXDO4LHA|Bob Marley|S3599",
 "LCD Soundsystem|Tonite|2017|lqq3BtGrpU8|LCD Soundsystem|S16432",
