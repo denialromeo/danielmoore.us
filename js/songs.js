@@ -8181,7 +8181,7 @@ const songs = [
 "Tino Rossi|Petit papa Noël|1946|W2ZmTMzN5NY|Tino Rossi|S12439",
 "Pavement|Carrot Rope|1999|G53DW71BlNk|Pavement (band)|S7909",
 "Pérez Prado|Cherry Pink and Apple Blossom White|1955|zj64NlRnpDY|Pérez Prado|S9320",
-"Dinosaur Jr.|Almost Ready|2007|QGlYsDxCyAo|Dinosaur Jr.|S6079",
+"Dinosaur Jr.|Almost Ready|2007|DNcoroZEQUU?start=3|Dinosaur Jr.|S6079",
 "The Police|Voices Inside My Head|1980|MBpgqBrd4C8|The Police|S13596",
 "Timi Yuro|What's a Matter Baby (Is It Hurting You?)|1962|-vR7iOL1nZk|Timi Yuro|S8764",
 "Nine Inch Nails|Wish|1992|kuoFiIFkdAA|Nine Inch Nails|S11764",
