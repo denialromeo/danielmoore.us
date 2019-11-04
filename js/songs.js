@@ -3051,7 +3051,7 @@ const songs = [
 "Mississippi John Hurt|Stack O' Lee Blues|1928|4scedJs6hC8|Mississippi John Hurt|S2699",
 "Judas Priest|Breaking the Law|1980|L397TWLwrUU|Judas Priest|S2604",
 "Kasabian|Club Foot|2004|lk5iMgG-WJI|Kasabian|S7054",
-"The Delfonics|La-La-Means I Love You|1968|baNbyst7aW0|The Delfonics|S2419",
+"The Delfonics|La-La (Means I Love You)|1968|baNbyst7aW0|The Delfonics|S2419",
 "Savages|Shut Up|2013|FuIB8HEmnoY|Savages (band)|S9519",
 "Jack White|Lazaretto|2014|qI-95cTMeLM|Jack White|S9597",
 "John Maus|Believer|2011|PMku-GbafEg|John Maus|S4970",
