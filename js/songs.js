@@ -8640,7 +8640,7 @@ const songs = [
 "Yvonne Elliman|I Don't Know How to Love Him|1970|6L49YHy-xms|Yvonne Elliman|S9107",
 "John Mayall|Ramblin' on My Mind|1966|qEhjcqzdoxU|John Mayall|S14584",
 "Teddy Pendergrass|Close the Door|1978|vfI3mfOOx5U|Teddy Pendergrass|S8702",
-"Eric Clapton|Let It Rain|1970|mi3WxjnjJ80|Eric Clapton|S10749",
+"Eric Clapton|Let It Rain|1970|_OJeR4544XY|Eric Clapton|S10749",
 "Marvin Gaye|Baby Don't You Do It|1964|sm3nnxOyUzI|Marvin Gaye|S14719",
 "Paul Simon|Slip Slidin' Away|1977|ZNt5FnMK2sM|Paul Simon|S7893",
 "Teenage Fanclub|Baby Lee|2010|qP0q-cazlvk|Teenage Fanclub|S8707",
