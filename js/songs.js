@@ -9857,7 +9857,7 @@ const songs = [
 "Maxime Le Forestier|Mon frère|1971|tA7Ey1TYEyg|Maxime Le Forestier|S13564",
 "Bruce Springsteen|My Hometown|1984|77gKSp8WoRg|Bruce Springsteen|S10313",
 "Téléphone|Argent trop cher|1980|AZcypfABSzw|Téléphone|S12409",
-"Jo Jo Gunne|Run, Run, Run|1972|buMg7cDtlls|Jo Jo Gunne|S6921",
+"Jo Jo Gunne|Run, Run, Run|1972|AqYYhbDbnsI?start=4|Jo Jo Gunne|S6921",
 "Two Door Cinema Club|Something Good Can Work|2009|f0hjjFoId30|Two Door Cinema Club|S8870",
 "Dee Clark|Raindrops|1961|WUnwOwz6OvQ|Dee Clark|S6011",
 "The Sensations|Let Me In|1961|oHcdE2Ppr3s|The Sensations|S8351",
