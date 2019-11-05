@@ -51,7 +51,6 @@ I hope you have a good time here. Thanks for dropping by.
 {:#desktop-software}
 **Desktop Software**
 
-* "[BlueStacks](https://bluestacks.com)" by Rosen Sharma (Run Android apps on PC/Mac.)
 * "[LibreOffice](https://www.libreoffice.org/)" by The Document Foundation (Open-source Microsoft Office replacement.)
 * "[ScreenToGif](https://github.com/NickeManarin/ScreenToGif#readme)" by Nicke Manarin (Animated screenshots.)
 * "[Stellarium](https://github.com/Stellarium/stellarium#readme)" by Fabien Ch&eacute;reau (Astronomy for city-dwellers.)
