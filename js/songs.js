@@ -4564,7 +4564,7 @@ const songs = [
 "Cults|Abducted|2011|9i1MXHGB8g0|Cults (band)|S4951",
 "Sasha|Xpander|1999|z3Gu7CXfRdA|Sasha (DJ)|S2182",
 "Bonnie Raitt|Something to Talk About|1991|mJ58TVYNFro|Bonnie Raitt|S2030",
-"Elton John|The Bitch Is Back|1974|I0vxtQu6zM4|Elton John|S2321",
+"Elton John|The Bitch Is Back|1974|m8JRwGzXhaI|Elton John|S2321",
 "Kanye West feat. T-Pain|Good Life|2007|FEKEjpTzB0Q|Kanye West|S4298",
 "Kendrick Lamar|Backseat Freestyle|2012|EZW7et3tPuQ|Kendrick Lamar|S7084",
 "Elvis Presley|If I Can Dream|1968|u-pP_dCenJA|Elvis Presley|S3722",
