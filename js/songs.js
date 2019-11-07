@@ -2198,7 +2198,7 @@ const songs = [
 "Les Brown & His Orchestra|Sentimental Journey|1944|O7umIJj8UBo|Les Brown (bandleader)|S2654",
 "Lauryn Hill|Ex-Factor|1998|cE-bnWqLqxE|Lauryn Hill|S1379",
 "Billy Ward & The Dominoes|Sixty Minute Man|1951|oXfJj8R3q20|Billy Ward and his Dominoes|S1592",
-"Rihanna|Bitch Better Have My Money|2015|B3eAMGXFw1o|Rihanna|S9831",
+"Rihanna|Bitch Better Have My Money|2015|B3eAMGXFw1o?start=92|Rihanna|S9831",
 "Led Zeppelin|Communication Breakdown|1969|3EH7QMVnSRI|Led Zeppelin|S4412",
 "Blur|Tender|1999|SaHrqKKFnSA|Blur (band)|S1353",
 "A Tribe Called Quest|Check the Rhime|1991|BQT2DfzpCLA|A Tribe Called Quest|S206",
