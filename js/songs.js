@@ -602,7 +602,7 @@ const songs = [
 "Bon Jovi|Livin' on a Prayer|1986|lDK9QqIzhwk|Bon Jovi|S379",
 "John Lee Hooker|Boom Boom|1962|WS7_e9LdvDI|John Lee Hooker|S1098",
 "Weezer|Buddy Holly|1994|kemivUKb4f4|Weezer|S110",
-"Ian Dury|Sex & Drugs & Rock & Roll|1977|sfp8xrNAS6I|Ian Dury|S646",
+"Ian Dury|Sex & Drugs & Rock & Roll|1977|erGNSQMJ79Q?start=3|Ian Dury|S646",
 "Jeff Buckley|Last Goodbye|1994|3MMXjunSx80|Jeff Buckley|S2428",
 "Cyndi Lauper|Time After Time|1983|VdQY7BusJNU|Cyndi Lauper|S428",
 "James Carr|The Dark End of the Street|1967|HC3AXQ8dPJM|James Carr (musician)|S989",
