@@ -9649,7 +9649,7 @@ const songs = [
 "The Blue Nile|Happiness|1996|1nhHy6OVOsw|The Blue Nile|S13694",
 "G-Love and Special Sauce|Cold Beverage|1994|pk9-28HgxfE|G. Love & Special Sauce|S6587",
 "Earl Sweatshirt|Chum|2012|FCbWLSZrZfw|Earl Sweatshirt|S10671",
-"Vox Dei|Presente (El momento en que estás)|1970|fYz80x6fY-k|Vox Dei|S12624",
+"Vox Dei|Presente (El momento en que estás)|1970|fYz80x6fY-k|Vox Dei (band)|S12624",
 "The Impalas|Sorry (I Ran All the Way Home)|1959|ufz4-fRCwwo|The Impalas|S3493",
 "Liars|Scarecrows on a Killer Slant|2010|iNEijb9s3lU|Liars (band)|S7257",
 "Veneno|Los Delincuentes|1977|FSG09yXgK1U|Veneno|S13111",
