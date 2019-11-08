@@ -6174,7 +6174,7 @@ const songs = [
 "David Bowie|Cat People (Putting Out Fire)|1982|VpdHMaccjw4|David Bowie|S5974",
 "The Jesus and Mary Chain|Happy When It Rains|1987|G5x1F9ohRa4|The Jesus and Mary Chain|S6903",
 "Snow|Informer|1993|TSffz_bl6zo|Snow (musician)|S3826",
-"Chagrin d'amour|Chacun fait (c'qui lui plaît)|1981|T6ANUrIayUU|Chagrin d'amour|S5749",
+"Chagrin d'amour|Chacun fait (c'qui lui plaît)|1981|T6ANUrIayUU|https://fr.wikipedia.org/wiki/Chagrin_d%27amour_(groupe)|S5749",
 "Elvis Presley|Tomorrow Is a Long Time|1966|0dRNZZuuR8I|Elvis Presley|S10720",
 "Cam'ron feat. Juelz Santana|Oh Boy|2002|9GvB9ySUJ3A|Cam'ron|S5699",
 "The Micronauts|The Jag|1999|XH4Nr6mcNIU?start=13|The Micronauts|S4244",
