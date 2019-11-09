@@ -2517,7 +2517,7 @@ const songs = [
 "Creedence Clearwater Revival|Born on the Bayou|1969|wIjUY3pjN8E|Creedence Clearwater Revival|S3307",
 "Led Zeppelin|Achilles Last Stand|1976|1t4KLOm7pO0|Led Zeppelin|S7211",
 "The Pop Group|She Is Beyond Good and Evil|1979|sL0tYowbIxE|The Pop Group|S589",
-"Pulp|Sorted for E's & Wizz|1995|DikWW4pOehk|Pulp (band)|S71",
+"Pulp|Sorted for E's & Wizz|1995|PbcR0x60WN0|Pulp (band)|S71",
 "Benjamin Biolay|La Superbe|2009|xtmVTfGJUzA|Benjamin Biolay|S10142",
 "D.R.A.M. feat. Lil Yachty|Broccoli|2016|K44j-sb1SRY|DRAM (musician)|S16063",
 "Nick Cave & The Bad Seeds|From Her to Eternity|1984|QSia5QE3rZ0|Nick Cave and the Bad Seeds|S4568",
