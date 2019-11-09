@@ -6717,7 +6717,7 @@ const songs = [
 "Félix Leclerc|Le p'tit bonheur|1951|VwOvjAy7EF8|Félix Leclerc|S10797",
 "The Beatles|Mother Nature's Son|1968|TMMiXjwhODU|The Beatles|S5378",
 "The Cure|A Night Like This|1985|gBGzDYVE8H4|The Cure|S5928",
-"D'Angelo|Shit, Damn, Motherf*cker|1995|Kfd5UZnGAi0|D'Angelo|S2634",
+"D'Angelo|Shit, Damn, Motherf*cker|1995|EWh7zJKUafw|D'Angelo|S2634",
 "Percy Faith & His Orchestra|The Theme from \"A Summer Place\"|1959|tFi_CKNJjwE|Percy Faith|S2803",
 "Ramones|Teenage Lobotomy|1977|OzundJyMw60|Ramones|S12024",
 "Jean Michel Jarre|Oxygène (Part IV)|1976|5DDEl7JnWvo|Jean-Michel Jarre|S6885",
