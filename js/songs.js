@@ -990,7 +990,7 @@ const songs = [
 "The Drifters|Save the Last Dance for Me|1960|n-XQ26KePUQ|The Drifters|S1150",
 "Rae Sremmurd feat. Gucci Mane|Black Beatles|2016|b8m9zhNAgKs|Rae Sremmurd|S16172",
 "Dave Brubeck Quartet|Take Five|1959|vmDDOFXSgAs|Dave Brubeck|S2802",
-"Panda Bear|Bro's|2006|FQUrf6DpXjc|Panda Bear (musician)|S4311",
+"Panda Bear|Bros|2006|FQUrf6DpXjc|Panda Bear (musician)|S4311",
 "Joni Mitchell|Help Me|1974|Q4oY8ojxp_8|Joni Mitchell|S739",
 "The Orb|Little Fluffy Clouds|1990|8Ecdn5SGT1E|The Orb|S2015",
 "Kurtis Blow|The Breaks|1980|FcLITA7Ugw0|Kurtis Blow|S543",
