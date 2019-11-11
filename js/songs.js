@@ -446,7 +446,7 @@ const songs = [
 "The Everly Brothers|All I Have to Do Is Dream|1958|tbU3zdAgiX8|The Everly Brothers|S1203",
 "Big Star|September Gurls|1974|pPzkFr-we3U|Big Star|S747",
 "Elton John|Your Song|1970|GlPlfCy1urI|Elton John|S852",
-"Stardust|Music Sounds Better with You|1998|xumGNwplds8|Stardust (band)|S272",
+"Stardust|Music Sounds Better with You|1998|FQlAEiCb8m0|Stardust (band)|S272",
 "Pearl Jam|Alive|1991|qM0zINtulhM|Pearl Jam|S167",
 "Arcade Fire|Reflektor|2013|7E0fVfectDo|Arcade Fire|S9405",
 "The Shins|New Slang|2001|zYwCmcB0XMw|The Shins|S3111",
