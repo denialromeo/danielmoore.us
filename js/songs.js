@@ -2304,7 +2304,7 @@ const songs = [
 "The Prodigy|Breathe|1996|rmHDhAohJlQ|The Prodigy|S55",
 "Belle and Sebastian|Lazy Line Painter Jane|1997|9I42Q-EU50s|Belle and Sebastian|S4519",
 "Florence + The Machine|Dog Days Are Over|2008|iWOyfLBYtuU|Florence and the Machine|S6405",
-"Dr. Dre feat. Snoop Doggy Dogg|Deep Cover|1992|Op9Ml7pS6uA|Dr. Dre|S3355",
+"Dr. Dre feat. Snoop Doggy Dogg|Deep Cover|1992|P690t9IzvjU|Dr. Dre|S3355",
 "Tom Waits|Jockey Full of Bourbon|1985|9vEBPYfy1GM|Tom Waits|S2620",
 "The Smiths|Please, Please, Please, Let Me Get What I Want|1984|-T8R_VDTOYQ|The Smiths|S2907",
 "Vampire Weekend|Ya Hey|2013|i-BznQE6B8U|Vampire Weekend|S9544",
