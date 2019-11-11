@@ -4794,7 +4794,7 @@ const songs = [
 "Frida Hyvönen|Dirty Dancing|2008|LjcwGcZsUbI?start=34|Frida Hyvönen|S6482",
 "Fleetwood Mac|Gold Dust Woman|1977|VGO9jNHH5Lw|Fleetwood Mac|S10825",
 "De La Soul|Say No Go|1989|WwV2MWZ9U0o|De La Soul|S260",
-"INXS|Original Sin|1983|2c7fElWw2oA|INXS|S6795",
+"INXS|Original Sin|1983|PTULqzrhBWA|INXS|S6795",
 "Kings of Leon|On Call|2007|RYOW5uoyKl0|Kings of Leon|S4335",
 "Bee Gees|Nights on Broadway|1975|F2SDf42guB4|Bee Gees|S3204",
 "Burning Spear|Slavery Days|1975|LnRZSBmpc74|Burning Spear|S5681",
