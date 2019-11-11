@@ -2514,7 +2514,7 @@ const songs = [
 "Kate Bush|The Man with the Child in His Eyes|1978|NAj8suae3WY|Kate Bush|S4436",
 "Little Richard|The Girl Can't Help It|1956|egiR3FgtHe0|Little Richard|S7280",
 "Lykke Li|I Follow Rivers|2011|6QuYne6ATwY|Lykke Li|S4975",
-"Creedence Clearwater Revival|Born on the Bayou|1969|wIjUY3pjN8E|Creedence Clearwater Revival|S3307",
+"Creedence Clearwater Revival|Born on the Bayou|1969|zS3rNUYR8b0?start=11|Creedence Clearwater Revival|S3307",
 "Led Zeppelin|Achilles Last Stand|1976|1t4KLOm7pO0|Led Zeppelin|S7211",
 "The Pop Group|She Is Beyond Good and Evil|1979|sL0tYowbIxE|The Pop Group|S589",
 "Pulp|Sorted for E's & Wizz|1995|PbcR0x60WN0|Pulp (band)|S71",
