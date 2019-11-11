@@ -4949,7 +4949,7 @@ const songs = [
 "The Rolling Stones|Loving Cup|1972|l-atuvoMXVw|The Rolling Stones|S8225",
 "Suicidal Tendencies|Institutionalized|1983|LoF_a0-7xVQ|Suicidal Tendencies|S3867",
 "Shabba Ranks with Chevelle Franklyn|Mr. Loverman|1992|MDv6dpr-7x8?start=4|Shabba Ranks|S3744",
-"Goldfrapp|A & E|2008|p7Ptai9I6eo|Goldfrapp|S4770",
+"Goldfrapp|A&E|2008|p7Ptai9I6eo|Goldfrapp|S4770",
 "America|Sister Golden Hair|1975|3oNULFXLuMc|America (band)|S5186",
 "Musical Youth|Pass the Dutchie|1982|dFtLONl4cNc|Musical Youth|S1888",
 "Tocotronic|Let There Be Rock|1999|8BX70FI7hfI|Tocotronic|S8773",
