@@ -5761,7 +5761,7 @@ const songs = [
 "Aretha Franklin|Angel|1973|hpf1iufWcNg|Aretha Franklin|S771",
 "Funkadelic|(Not Just) Knee Deep|1979|av2vgiYAlXY|Funkadelic|S3429",
 "Frank Ocean|Swim Good|2011|ic1nhvWBvIo|Frank Ocean|S4961",
-"The Hollies|He Ain't Heavy... He's My Brother|1969|Jl5vi9ir49g|The Hollies|S6724",
+"The Hollies|He Ain't Heavy, He's My Brother|1969|Jl5vi9ir49g|The Hollies|S6724",
 "The Crystals|He's Sure the Boy I Love|1962|Fjnfsk7yZ2E|The Crystals|S1104",
 "Bob Dylan|Love Sick|1997|D_XPK9eU2BU|Bob Dylan|S10232",
 "The Velvelettes|Needle in a Haystack|1964|p2zRKEh3MBc|The Velvelettes|S1663",
