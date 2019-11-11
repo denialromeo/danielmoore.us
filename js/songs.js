@@ -799,7 +799,7 @@ const songs = [
 "Peter Gabriel|Sledgehammer|1986|OJWJE0x7T4Q|Peter Gabriel|S365",
 "Cardi B|Bodak Yellow|2017|PEGccV-NOm8|Cardi B|S16349",
 "Bobbie Gentry|Ode to Billie Joe|1967|nv33eaygVDQ|Bobbie Gentry|S959",
-"Tom Tom Club|Genius of Love|1981|ECiMhe4E0pI|Tom Tom Club|S519",
+"Tom Tom Club|Genius of Love|1981|aCWCF19nUhA|Tom Tom Club|S519",
 "Labelle|Lady Marmalade|1974|t4LWIP7SAjY|Labelle|S698",
 "New Radicals|You Get What You Give|1998|DL7-CKirWZE|New Radicals|S279",
 "The Temptations|Just My Imagination (Running Away with Me)|1971|M5Z9-QCmZyw|The Temptations|S819",
