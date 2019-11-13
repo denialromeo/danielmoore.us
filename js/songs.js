@@ -2093,7 +2093,7 @@ const songs = [
 "Soul Asylum|Runaway Train|1992|NRtvqT_wMeY|Soul Asylum|S126",
 "Village People|Y.M.C.A.|1978|PUoO4T_23pA|Village People|S1820",
 "John Cale|(I Keep a) Close Watch|1975|OUUvmwLVQxQ|John Cale|S9256",
-"Scott McKenzie|San Francisco (Be Sure to Wear Some Flowers in Your Hair)|1967|7I0vkKy504U|Scott McKenzie|S8330",
+"Scott McKenzie|San Francisco (Be Sure to Wear Some Flowers in Your Hair)|1967|ENrmULWKbeM?start=4|Scott McKenzie|S8330",
 "The Beatles|Hello, Goodbye|1967|rblYSKz_VnI|The Beatles|S2836",
 "Hawkwind|Silver Machine|1972|HdTFeW8FCto|Hawkwind|S6693",
 "Run-DMC|Sucker MC's|1983|iOKMWSR2Aio|Run-DMC|S2613",
