@@ -60,7 +60,7 @@ const songs = [
 "Beck|Loser|1993|YgSPaXgAdzE|Beck|S129",
 "The Righteous Brothers|You've Lost That Lovin' Feelin'|1964|uOnYY9Mw2Fg|The Righteous Brothers|S1022",
 "The Crickets|That'll Be the Day|1957|9nrInsANB8Q|The Crickets|S1231",
-"Ramones|Blitzkrieg Bop|1976|TYh1lRR1m6Y|Ramones|S669",
+"Ramones|Blitzkrieg Bop|1976|268C3N2dDYk|Ramones|S669",
 "The Verve|Bitter Sweet Symphony|1997|1lyu1KKwC74|The Verve|S1",
 "Massive Attack|Unfinished Sympathy|1991|ZWmrfgj0MZI|Massive Attack|S187",
 "Eagles|Hotel California|1976|uqSKl7sdUa8|Eagles (band)|S632",
