@@ -8298,7 +8298,7 @@ const songs = [
 "The Intruders|I'll Always Love My Mama|1973|FsYKaDBleJA?start=5|The Intruders (band)|S2864",
 "Jay-Z & Kanye West feat. Frank Ocean|No Church in the Wild|2011|FJt7gNi3Nr4|Jay-Z|S6881",
 "John Coltrane with Johnny Hartman|My One and Only Love|1963|ecrE80rnjhw|John Coltrane|S13216",
-"Ramones|Rock 'n' Roll High School|1979|gargOQu3uKo|Ramones|S8089",
+"Ramones|Rock 'n' Roll High School|1979|oz7KYUkdlvE|Ramones|S8089",
 "Sophie Ellis-Bextor|Murder on the Dancefloor|2001|Cqc7nFLqXq8|Sophie Ellis-Bextor|S8498",
 "Clarence Williams' Blue Five|Cake Walking Babies from Home|1925|W3io6YlyGzk|Clarence Williams (musician)|S13174",
 "Suede|So Young|1993|twoO3xYRsz0|Suede (band)|S8622",
