@@ -3935,7 +3935,7 @@ const songs = [
 "The Isley Brothers|Fight the Power (Part I)|1975|8QZvoOqUkqw|The Isley Brothers|S4424",
 "The Kinks|See My Friends|1965|_XvHSIIL9To|The Kinks|S1018",
 "Travis Scott & Young Thug feat. Quavo|Pick Up the Phone|2016|mZDinQ92OZQ|Travis Scott (rapper)|S16208",
-"Herbie Hancock|Maiden Voyage|1966|p3QrW_RrVEw|Herbie Hancock|S11027",
+"Herbie Hancock|Maiden Voyage|1966|EWC5x9G45yo|Herbie Hancock|S11027",
 "The Weeknd|The Morning|2011|5TAko3RH0bk|The Weeknd|S4991",
 "SOS Band|Take Your Time (Do It Right)|1980|35kmas-GePo?start=2|The S.O.S. Band|S3791",
 "Solomon Linda|Mbube|1939|mrrQT4WkbNE|Solomon Linda|S8485",
