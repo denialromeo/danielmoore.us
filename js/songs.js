@@ -4977,7 +4977,7 @@ const songs = [
 "Miley Cyrus|Wrecking Ball|2013|My2FRPA3Gf8|Miley Cyrus|S9492",
 "Ash|Kung Fu|1995|dWqY8qrBBSI|Ash (band)|S5249",
 "Salt 'n' Pepa|Shoop|1993|4vaN01VLYSQ|Salt-N-Pepa|S2075",
-"Clubbed to Death [Rob Dougan]|Clubbed to Death|1995|OwGuSPXPyX4|Clubbed to Death|S5842",
+"Clubbed to Death [Rob Dougan]|Clubbed to Death|1995|OwGuSPXPyX4|Rob Dougan|S5842",
 "Big Sean feat. Kendrick Lamar & Jay Electronica|Control|2013|W7zdMeZPkpY|Big Sean|S9412",
 "James Brown|Living in America|1985|c5BL4RNFr58|James Brown|S3243",
 "Aerosmith|Rag Doll|1987|8AHDxmbtd_U|Aerosmith|S12929",
