@@ -6465,7 +6465,7 @@ const songs = [
 "Don & Juan|What's Your Name|1961|QkqVU8PQOgE|Don and Juan|S1641",
 "Steve Winwood|Valerie|1982|cbKNICg-REA|Steve Winwood|S12315",
 "Miles Davis|Footprints|1967|Pxb7pNXJvng|Miles Davis|S11647",
-"Jermaine Jackson|Let's Get Serious|1980|FMLKb4or8yg|Jermaine Jackson|S3503",
+"Jermaine Jackson|Let's Get Serious|1980|uJjRWyqL7nA|Jermaine Jackson|S3503",
 "Divididos|Qué ves?|1993|YLp8uJ4TdiU|Divididos|S10606",
 "Addison Groove|Footcrab|2010|gWfiog1Ure4|https://www.discogs.com/artist/1755506-Addison-Groove|S5101",
 "Add N to (X)|Plug Me In|2000|TcAdsYH5v9Y|Add N to (X)|S5100",
