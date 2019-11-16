@@ -1306,7 +1306,7 @@ const songs = [
 "Fiona Apple|Criminal|1996|FFOzayDpWoI|Fiona Apple|S3154",
 "Steely Dan|Rikki Don't Lose That Number|1974|3bd43qNDk0s|Steely Dan|S727",
 "Drake feat. Wizkid and Kyla|One Dance|2016|qL7zrWcv6XY|Drake (musician)|S16077",
-"Wilbert Harrison|Kansas City|1959|f8tZO97uhyE|Wilbert Harrison|S1177",
+"Wilbert Harrison|Kansas City|1959|UonBS_mvW-E?start=60|Wilbert Harrison|S1177",
 "The Seeds|Pushin' Too Hard|1966|pNZwCNSSWlI|The Seeds|S1685",
 "Liz Phair|Fuck and Run|1993|3DFpJBEKugY|Liz Phair|S3699",
 "Drake|Marvin's Room|2011|JDb3ZZD4bA0|Drake (musician)|S4955",
