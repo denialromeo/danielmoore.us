@@ -5068,7 +5068,7 @@ const songs = [
 "The Band|Tears of Rage|1968|Blz_sef-jj4|The Band|S3168",
 "Chromatics|Shadow|2015|IGUboLZx3Tk|Chromatics (band)|S16305",
 "Tool|Sober|1993|u7lweNCCwS0|Tool (band)|S12465",
-"Eagles|Best of My Love|1974|tEwRe7570oQ|Eagles (band)|S6183",
+"Eagles|Best of My Love|1974|_aB_6q1yDUI|Eagles (band)|S6183",
 "The Strokes|You Only Live Once|2006|pT68FS3YbQ4|The Strokes|S4040",
 "Serge Gainsbourg|Je suis venu te dire que je m'en vais|1973|xLCj3XpBEQ0|Serge Gainsbourg|S8360",
 "The Beach Boys|'Til I Die|1971|46IQu0yuJzU|The Beach Boys|S5349",
