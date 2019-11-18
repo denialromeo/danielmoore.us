@@ -18,7 +18,7 @@ const songs = [
 "Elvis Presley|Heartbreak Hotel|1956|e9BLw4W5KU8|Elvis Presley|S1261",
 "Michael Jackson|Billie Jean|1982|Zi_XLOBDo_Y|Michael Jackson|S451",
 "The Clash|London Calling|1979|EfK-WX2pa8c|The Clash|S571",
-"The Beach Boys|God Only Knows|1966|CWPo5SC3zik|The Beach Boys|S978",
+"The Beach Boys|God Only Knows|1966|YHdi3zW78pg?start=2331|The Beach Boys|S978",
 "Led Zeppelin|Stairway to Heaven|1971|QkF3oxziUI4|Led Zeppelin|S2567",
 "Otis Redding|(Sittin' On) The Dock of the Bay|1968|rTVjnBo96Ug|Otis Redding|S902",
 "John Lennon|Imagine|1971|YkgkThdzX-8|John Lennon|S812",
