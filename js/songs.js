@@ -9853,7 +9853,7 @@ const songs = [
 "Neil Sedaka|Calendar Girl|1960|FpdY97Tt_iE|Neil Sedaka|S7680",
 "Justice|Safe and Sound|2016|uXj8FM7lTrw|Justice (band)|S16108",
 "Pink Floyd|Have a Cigar|1975|tbdpv7G_PPg|Pink Floyd|S11905",
-"Barry White|Let the Music Play|1975|V3eOuK_-c34|Barry White|S14102",
+"Barry White|Let the Music Play|1975|V6NVnKFyY24|Barry White|S14102",
 "Maxime Le Forestier|Mon frère|1971|tA7Ey1TYEyg|Maxime Le Forestier|S13564",
 "Bruce Springsteen|My Hometown|1984|77gKSp8WoRg|Bruce Springsteen|S10313",
 "Téléphone|Argent trop cher|1980|AZcypfABSzw|Téléphone|S12409",
