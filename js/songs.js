@@ -6839,7 +6839,7 @@ const songs = [
 "Bob Dylan|Brownsville Girl|1986|8cNAfeZ9RTM|Bob Dylan|S5553",
 "Les Paul & Mary Ford|Vaya Con Dios (May God Be with You)|1953|QqZ0Sdz_V40|Les Paul|S7248",
 "Kelis feat. Too $hort|Bossy|2006|SSgp-IIgr4I|Kelis|S4006",
-"Truth Hurts feat. Rakim|Addictive|2002|Xcj9O-Cv48c|Truth Hurts|S1522",
+"Truth Hurts feat. Rakim|Addictive|2002|Xcj9O-Cv48c|Truth Hurts (singer)|S1522",
 "Sanford Clark|The Fool|1956|QfSDhVHZQY4|Sanford Clark|S2781",
 "Hoodoo Gurus|I Want You Back|1984|Ov_ByEAACok|Hoodoo Gurus|S6730",
 "Nick Drake|Cello Song|1969|h4y8WGOJu_c|Nick Drake|S11751",
