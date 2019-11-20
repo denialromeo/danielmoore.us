@@ -24,7 +24,7 @@ permalink: random-acclaimed-song
             <a target="_self" href="?year=198[0-9]">Songs released in the 1980's.</a>
         </li>
         <li>
-            <a target="_self" href="?artist=Chuck+Berry">Songs by Chuck Berry.</a>
+            <a target="_self" href="?artist=Bob+Marley|The.Wailers">Songs by Bob Marley.</a>
         </li>
         <li>
             <a target="_self" href="?song=love">Songs whose titles contain the word "love".</a>
