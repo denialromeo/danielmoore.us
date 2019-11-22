@@ -1061,7 +1061,7 @@ const songs = [
 "Black Flag|Rise Above|1981|Fsbvo5GVK10|Black Flag (band)|S2608",
 "The Horrors|Sea Within a Sea|2009|v7WAHnZPIX0|The Horrors|S4827",
 "Dion and the Belmonts|A Teenager in Love|1959|2pwgswchPDo?start=34|Dion and the Belmonts|S1183",
-"David Bowie|Station to Station|1976|WSQHFUe6Y5s|David Bowie|S5969",
+"David Bowie|Station to Station|1976|WSQHFUe6Y5s?start=377|David Bowie|S5969",
 "James Blake|Limit to Your Love|2010|oOT2-OTebx0|James Blake (musician)|S4906",
 "Queen|Another One Bites the Dust|1980|rY0WxgSXdEE|Queen (band)|S1854",
 "David Bowie|Modern Love|1983|HivQqTtiHVw|David Bowie|S4197",
