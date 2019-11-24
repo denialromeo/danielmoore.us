@@ -7277,7 +7277,7 @@ const songs = [
 "Sylvie Vartan|La plus belle pour aller danser|1964|sfiuaOWjEkI?start=11|Sylvie Vartan|S13638",
 "Saint Etienne|Like a Motorway|1994|MP4Pxpu4W2k|Saint Etienne (band)|S4508",
 "Louis Armstrong|Mack the Knife|1955|28ULUQgxJ5M|Louis Armstrong|S3156",
-"Frank Sinatra|I've Got the World on a String|1953|1cPG1t52GgI|Frank Sinatra|S2771",
+"Frank Sinatra|I've Got the World on a String|1953|3jTIRkXCaF0|Frank Sinatra|S2771",
 "Dusty Springfield|Nothing Has Been Proved|1989|5HOfaSSIVcE|Dusty Springfield|S3843",
 "Beach House|Walk in the Park|2010|HeaHW-rUsUQ?start=4|Beach House|S5352",
 "The The|Dogs of Lust|1993|7T-c1x0ILWI|The The|S15928",
