@@ -1923,7 +1923,7 @@ const songs = [
 "Iron Maiden|Run to the Hills|1982|86URGgqONvA|Iron Maiden|S3500",
 "Aphex Twin|Minipops 67 [120.2][source field mix]|2014|RUAJ8KLGqis|Aphex Twin|S9568",
 "Alabama Shakes|Hold On|2011|Le-3MIBxQTw|Alabama Shakes|S4995",
-"Lil' Louis|French Kiss|1989|3Y8w2W1uy2A|Lil Louis|S268",
+"Lil Louis|French Kiss|1989|3Y8w2W1uy2A|Lil Louis|S268",
 "Japan|Ghosts|1981|7zzLU1ato2w|Japan (band)|S504",
 "Eddie Floyd|Knock on Wood|1966|jkF4K2xuSF4?start=3|Eddie Floyd|S1435",
 "The Beach Boys|Fun, Fun, Fun|1964|5a4YupnT1sM?start=49|The Beach Boys|S1030",
