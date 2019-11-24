@@ -464,7 +464,7 @@ const songs = [
 "Robyn|Dancing on My Own|2010|CcNo07Xp8aQ|Robyn|S4920",
 "Jamie xx feat. Young Thug & Popcaan|I Know There's Gonna Be (Good Times)|2015|BjLBB-TMa84|Jamie xx|S9787",
 "Sly and the Family Stone|Dance to the Music|1967|1kzyRM0Sjl8?start=48|Sly and the Family Stone|S909",
-"The War on Drugs|Red Eyes|2013|bsoqmFL1vlU|The War on Drugs (band)|S9553",
+"The War on Drugs|Red Eyes|2013|1LmX5c7HoUw|The War on Drugs (band)|S9553",
 "Ray Charles|I've Got a Woman|1954|Bbqks4aGOm8?start=95|Ray Charles|S1304",
 "James Taylor|Fire and Rain|1970|JOIo4lEpsPY|James Taylor|S860",
 "Fatboy Slim|The Rockafeller Skank|1998|nmsTwQb1csc|Fatboy Slim|S271",
