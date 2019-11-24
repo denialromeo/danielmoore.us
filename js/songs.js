@@ -2960,7 +2960,7 @@ const songs = [
 "Black Kids|I'm Not Gonna Teach Your Boyfriend How to Dance with You|2007|rOV6I4fYnvQ|Black Kids|S4703",
 "Jeru the Damaja|Come Clean|1993|QznoTgWVo_E|Jeru the Damaja|S148",
 "Yazoo|Only You|1982|w67Uspp_PsQ|Yazoo (band)|S1882",
-"Hank Williams|Lost Highway|1949|lCgicPdsxxg|Hank Williams|S1604",
+"Hank Williams|Lost Highway|1949|WeGpCYU-9Cs|Hank Williams|S1604",
 "The Aztec Mystic|Jaguar|1999|C6xVKcvze74|DJ Rolando|S1372",
 "Guided by Voices|I Am a Scientist|1994|zN9x6zckn18|Guided by Voices|S3454",
 "Genesis|I Know What I Like (In Your Wardrobe)|1973|CubzEiY42zk|Genesis (band)|S1762",
