@@ -1116,7 +1116,7 @@ const songs = [
 "Kanye West|Black Skinhead|2013|q604eed4ad0|Kanye West|S9471",
 "Jackie Wilson|Lonely Teardrops|1958|2nEfuE8Pw4U|Jackie Wilson|S1207",
 "Depeche Mode|Just Can't Get Enough|1981|_6FBfAQ-NDE|Depeche Mode|S1866",
-"The Strokes|Someday|2001|FFnjZY1vRzk|The Strokes|S1519",
+"The Strokes|Someday|2001|knU9gRUWCno|The Strokes|S1519",
 "Frank Sinatra|My Way|1969|qQzdAsjWGPg|Frank Sinatra|S2855",
 "Thunderclap Newman|Something in the Air|1969|RTZoJ01FpD8|Thunderclap Newman|S881",
 "Blur|The Universal|1995|BrbxWOMpwfs|Blur (band)|S2110",
