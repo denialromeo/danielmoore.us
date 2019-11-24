@@ -5694,7 +5694,7 @@ const songs = [
 "Michael Jackson|I Wanna Be Where You Are|1972|ZAtjdBgafrk?start=15|Michael Jackson|S7533",
 "Band of Horses|Is There a Ghost|2007|JK716RqoUms|Band of Horses|S5312",
 "Bob Dylan|Man in the Long Black Coat|1989|LfGRvwBn7VU|Bob Dylan|S5554",
-"Barbara|Nantes|1964|dXqYRHOCA2Y?start=3|Barbara (singer)|S10075",
+"Barbara|Nantes|1964|dXqYRHOCA2Y?start=4|Barbara (singer)|S10075",
 "Duke Ellington|Reminiscing in Tempo|1935|SEZ0bT7yQsQ|Duke Ellington|S13187",
 "Wilco|I Might|2011|nNs7NLwuHx0|Wilco|S9018",
 "Ice-T|Colors|1988|LI8Zx_QvNVU|Ice-T|S3491",
