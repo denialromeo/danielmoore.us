@@ -1666,7 +1666,7 @@ const songs = [
 "Hank Williams|Lovesick Blues|1949|R46WSbXpMpE|Hank Williams|S1344",
 "Bob Dylan|Shelter from the Storm|1975|12rUOLtbQDk|Bob Dylan|S3376",
 "Wanda Jackson|Let's Have a Party|1958|7QlzOCgLzwg|Wanda Jackson|S1167",
-"Public Enemy|Welcome to the Terrordome|1990|e4Zey7o04Qk|Public Enemy (band)|S234",
+"Public Enemy|Welcome to the Terrordome|1990|2BBgOlfSLQI?start=12|Public Enemy (band)|S234",
 "Alicia Keys|Fallin'|2001|Urdlvw0SSEc|Alicia Keys|S1472",
 "Kim Carnes|Bette Davis Eyes|1981|EPOIS5taqA8|Kim Carnes|S526",
 "The Isley Brothers|That Lady|1973|S1Mvy3E8P2U|The Isley Brothers|S1748",
