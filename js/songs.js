@@ -6076,7 +6076,7 @@ const songs = [
 "Beginner feat. Gzuz & Gentleman|Ahnma|2016|C6_Uk_2rkQg|Beginner (band)|S16033",
 "LCD Soundsystem|American Dream|2017|ML1MUKOJIIo|LCD Soundsystem|S16428",
 "Magnetic Man|I Need Air|2010|Vn3108AmAbo|Magnetic Man|S7382",
-"Jeff Buckley|Mojo Pin|1994|Bawbk71Qh_g|Jeff Buckley|S11181",
+"Jeff Buckley|Mojo Pin|1994|cU7GNlfMKhU|Jeff Buckley|S11181",
 "Natalia Lafourcade|Azul|2009|bfKs3xwj6dI|Natalia Lafourcade|S13586",
 "Ofra Haza|Im nin'alu|1984|ZRnzTTYk7_Q|Ofra Haza|S7795",
 "Mary J. Blige|My Life|1994|IN3yMjnyXyU|Mary J. Blige|S3219",
