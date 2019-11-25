@@ -1255,7 +1255,7 @@ const songs = [
 "The Smiths|What Difference Does It Make?|1984|XbOx8TyvUmI|The Smiths|S440",
 "Roxy Music|Do the Strand|1973|rmr-ANvGswg|Roxy Music|S3784",
 "Count Basie|One O'Clock Jump|1937|g3JyQnYPkZk|Count Basie|S2647",
-"Buzzcocks|Orgasm Addict|1977|p2Mi995ggFU|Buzzcocks|S1792",
+"Buzzcocks|Orgasm Addict|1977|uwAtifCoB3I|Buzzcocks|S1792",
 "Aretha Franklin|Think|1968|Vet6AHmq3_s|Aretha Franklin|S923",
 "Bryan Adams|Summer of '69|1984|eFjjO_lhf9c|Bryan Adams|S3136",
 "Dizzee Rascal|I Luv U|2003|YH0KWX2a8zY|Dizzee Rascal|S2259",
