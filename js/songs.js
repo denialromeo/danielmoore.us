@@ -9805,7 +9805,7 @@ const songs = [
 "Sister Sledge|Thinking of You|1979|mAe54eFGp1o|Sister Sledge|S12894",
 "The Byrds|Triad|1968|sgfiN0rbdpI|The Byrds|S3258",
 "Astro|Ciervos|2011|jQQsB7SI7tQ|Astro (Chilean band)|S13386",
-"Anthrax|I Am the Law|1987|p3ta5ahB-6w|Anthrax (American band)|S5212",
+"Anthrax|I Am the Law|1987|2Bu5mnE65I8|Anthrax (American band)|S5212",
 "Rufus Wainwright|The Art Teacher|2004|Zr9NMQx0VzM|Rufus Wainwright|S8269",
 "U2|City of Blinding Lights|2004|ZhCezZQqxx4|U2|S12502",
 "Wilco|If I Ever Was a Child|2016|Z3qns8qGJI0|Wilco|S16215",
