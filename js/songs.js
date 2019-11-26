@@ -6962,7 +6962,7 @@ const songs = [
 "Neil Diamond|Cherry, Cherry|1966|ebqlSNgbb1c|Neil Diamond|S7674",
 "Andy Gibb|I Just Wanna Be Your Everything|1977|VkNeoTcGwrc|Andy Gibb|S5195",
 "Hugh Masekela|Grazing in the Grass|1968|qxXZF60EPdM|Hugh Masekela|S4115",
-"Black Star|Definition|1998|BYfXmW-s3UY|Black Star|S5487",
+"Black Star|Definition|1998|BYfXmW-s3UY|Black Star (rap duo)|S5487",
 "Eddy Arnold & His Tennessee Plowboys|Bouquet of Roses|1948|BmKmXs52pks|Eddy Arnold|S4066",
 "The Beatles|Baby, You're a Rich Man|1967|i5m-sgtwFck|The Beatles|S5373",
 "Air|Casanova 70|1996|iZyN5OezGqQ|Air (band)|S5121",
