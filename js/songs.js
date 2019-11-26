@@ -8813,7 +8813,7 @@ const songs = [
 "Travis|Driftwood|1999|zzUdJ-5fscA|Travis (band)|S8838",
 "Los Violadores|Uno, dos, ultraviolento|1985|FIw04_pZ-C8|Los Violadores|S11480",
 "Bob Dylan & The Band|Million Dollar Bash|1975|vOHljR41l4Y|The Band|S10234",
-"Beirut|East Harlem|2011|fj1szD7KiJU|Beirut (band)|S5400",
+"Beirut|East Harlem|2011|nGxAUphrpi8|Beirut (band)|S5400",
 "The Magnetic Fields|100,000 Fireflies|1991|OKXkVUM4xu8|The Magnetic Fields|S11519",
 "Superpitcher|Tomorrow|2001|M9n7QLJvWZg|Superpitcher|S8640",
 "Michael Jackson|You Rock My World|2001|1-7ABIM2qjU|Michael Jackson|S13570",
