@@ -3226,7 +3226,7 @@ const songs = [
 "Shirley and Lee|Let the Good Times Roll|1956|uM9yYL6BD-4|Shirley Goodman|S3803",
 "Foghat|Slow Ride|1975|As5_xq78VRA|Foghat|S3412",
 "The Falcons|You're So Fine|1959|J8HNDaPV7Cc|The Falcons|S1178",
-"Gui Boratto|Beautiful Life|2007|L3Mljrf2oRU|Gui Boratto|S4315",
+"Gui Boratto|Beautiful Life|2007|SuoxwpKnHQk|Gui Boratto|S4315",
 "Sugababes|Overload|2000|eVG4Ix9GgFg|Sugababes|S1400",
 "Charlie Parker|Parker's Mood|1948|9Nn_Nghem60|Charlie Parker|S10383",
 "Father John Misty|Pure Comedy|2017|wKrSYgirAhc|Josh Tillman|S16370",
