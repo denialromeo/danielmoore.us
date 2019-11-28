@@ -9369,7 +9369,7 @@ const songs = [
 "The Blow Monkeys|Diggin' Your Scene|1986|no5XeOJHxK8|The Blow Monkeys|S13691",
 "Depeche Mode|Barrel of a Gun|1997|V7GCrTFCXYo|Depeche Mode|S10574",
 "Drugstore|El President|1998|9U3wCDrJRDY|Drugstore (band)|S2962",
-"Violent Femmes|Kiss Off|1983|NJUtlnn4KDg?start=25|Violent Femmes|S3969",
+"Violent Femmes|Kiss Off|1983|NJUtlnn4KDg?start=20|Violent Femmes|S3969",
 "Al Jolson|California, Here I Come|1924|7IjpAGf0oks|Al Jolson|S5130",
 "The Pretenders|My City Was Gone|1982|thu8DWsirJo|The Pretenders|S3725",
 "The Shirelles|Foolish Little Girl|1963|2H_XavjzUc0|The Shirelles|S8397",
