@@ -5639,7 +5639,7 @@ const songs = [
 "The Jam|All Around the World|1977|qv5gkJ424GE|The Jam|S1557",
 "Okkervil River|Our Life Is Not a Movie or Maybe|2007|ROlCPlnCIfo|Okkervil River|S4341",
 "Quad City DJ's|C'mon N' Ride It (The Train)|1996|3Awey7AbXT0|Quad City DJ's|S48",
-"Liars|Plaster Casts of Everything|2007|_dRoab8zZ8c|Liars (band)|S7256",
+"Liars|Plaster Casts of Everything|2007|YBIPcVUXNE0|Liars (band)|S7256",
 "Martin Denny|Quiet Village|1957|OJK2LwD_nEY|Martin Denny|S4075",
 "Air|Cherry Blossom Girl|2004|pmwuXVEhhIY|Air (band)|S5122",
 "The Police|Invisible Sun|1981|1VuDjJ9KIxM|The Police|S11931",
