@@ -6983,7 +6983,7 @@ const songs = [
 "KRS-One|Sound of da Police|1993|9ZrAYxWPN6c|KRS-One|S11351",
 "Kaiser Chiefs|Everyday I Love You Less and Less|2005|xAkg4cwJp1Y|Kaiser Chiefs|S7040",
 "The Real Roxanne|Bang Zoom (Let's Go Go)|1986|rNtNUBxDjVY|The Real Roxanne|S372",
-"Control Machete|¿Comprendes Mendes?|1997|KsRQ4g_QHwQ|Control Machete|S10456",
+"Control Machete|¿Comprendes Mendes?|1997|lestFaZIl7A|Control Machete|S10456",
 "Harry Richman|Puttin' On the Ritz|1930|66km3m_UE_k|Harry Richman|S2736",
 "Cold Chisel|Flame Trees|1984|K8KgP2aOXcA|Cold Chisel|S10441",
 "Earth, Wind & Fire|Serpentine Fire|1977|XoI1XPqXQ90|Earth, Wind & Fire|S3385",
