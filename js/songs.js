@@ -6022,7 +6022,7 @@ const songs = [
 "The War on Drugs|Pain|2017|J9LgHNf2Qy0|The War on Drugs (band)|S16500",
 "Simple Minds|Someone Somewhere in Summertime|1982|l5klDAw6cPs|Simple Minds|S8419",
 "Bonnie Raitt|Love Has No Pride|1972|9Wv67n160Ew|Bonnie Raitt|S3740",
-"Denise LaSalle|Trapped By a Thing Called Love|1971|s7qvvJWkUXk|Denise LaSalle|S6037",
+"Denise LaSalle|Trapped By a Thing Called Love|1971|2FbK1ZyWY_s|Denise LaSalle|S6037",
 "Jam & Spoon|Stella|1992|8Eq0i187kvE|Jam & Spoon|S2932",
 "Frankie Lymon and the Teenagers|I'm Not a Juvenile Delinquent|1956|hmXlc8ow4zk|Frankie Lymon|S1274",
 "The Hollywood Argyles|Alley-Oop|1960|sz6IpmmYSXA|The Hollywood Argyles|S4386",
