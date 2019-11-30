@@ -5022,7 +5022,7 @@ const songs = [
 "Whitney Houston|It's Not Right But It's Okay|1998|6J538b-OLRU|Whitney Houston|S2170",
 "John Lennon/Plastic Ono Band|Power to the People|1971|4Epue9X8bpc|Plastic Ono Band|S6953",
 "Cocteau Twins|Iceblink Luck|1990|L_Tj4bJ0VFw|Cocteau Twins|S5850",
-"U2|Stuck in a Moment You Can't Get Out Of|2000|_6YxhlF8HRo|U2|S2389",
+"U2|Stuck in a Moment You Can't Get Out Of|2000|sl6j7hiALu0|U2|S2389",
 "Paul McCartney|Coming Up|1980|0d_Wv-gkHts|Paul McCartney|S7881",
 "Erasure|A Little Respect|1988|RiKVjS3gR88|Erasure|S6293",
 "DJ Zinc|Super Sharp Shooter|1995|XAaa6SJP1mo|DJ Zinc|S2632",
