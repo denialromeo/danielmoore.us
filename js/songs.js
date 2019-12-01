@@ -5861,7 +5861,7 @@ const songs = [
 "Eurythmics with Aretha Franklin|Sisters Are Doin' It for Themselves|1985|drGx7JkFSp4|Eurythmics|S6313",
 "The Smiths|Stop Me If You Think You've Heard This One Before|1987|SckD99B51IA|The Smiths|S8465",
 "Missy \"Misdemeanor\" Elliott|Sock It 2 Me|1997|9UvBX3REqSY|Missy Elliott|S2134",
-"Metric|Help I'm Alive|2008|ZoK63Bk7pgw|Metric (band)|S7526",
+"Metric|Help I'm Alive|2008|A4M068MSUpU|Metric (band)|S7526",
 "Catatonia|Road Rage|1998|U_bL0EqlDEk|Catatonia (band)|S289",
 "B.B. King|Lucille|1968|L8hOvsg_AiY|B.B. King|S5285",
 "Spiritualized|Soul on Fire|2008|zgmoVaRbSIA|Spiritualized|S4747",
