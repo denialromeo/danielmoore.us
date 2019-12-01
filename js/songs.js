@@ -6185,7 +6185,7 @@ const songs = [
 "The Contours|First I Look at the Purse|1965|11NXVKnxABI|The Contours|S3076",
 "U2|The Sweetest Thing|1987|5WybiA263bw|U2|S8881",
 "Angel Olsen|White Fire|2014|DwwMz9EErbU?start=4|Angel Olsen|S9686",
-"Renaud|Mistral Gagnant|1985|_YqzuE-5RE8|Renaud|S8136",
+"Renaud|Mistral gagnant|1985|_YqzuE-5RE8|Renaud|S8136",
 "Kula Shaker|Tattva|1996|2bYj2o7y4rk|Kula Shaker|S56",
 "Gladys Knight and the Pips|I've Got to Use My Imagination|1973|jLKSZ0ehHNA?start=9|Gladys Knight & the Pips|S6577",
 "Anna Karina|Sous le soleil exactement|1967|AvYd37BpXD0|Anna Karina|S5205",
