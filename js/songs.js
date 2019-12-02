@@ -8747,7 +8747,7 @@ const songs = [
 "U2|Trash, Trampoline and the Party Girl / Party Girl|1982|yMymOnFr5dM|U2|S15958",
 "Nicolas Jaar|Space Is Only Noise If You Can See|2011|1f2Ov14_rKw|Nicolas Jaar|S7739",
 "Nasty Habits|Shadow Boxing|1996|z_VKMWs2eaI|https://www.discogs.com/artist/1640-Nasty-Habits|S12730",
-"Alan Vega|Jukebox Babe|1980|OAQ2jq6vwsE|Alan Vega|S5141",
+"Alan Vega|Jukebox Babe|1980|KPNO5f4yO_g|Alan Vega|S5141",
 "Neon Indian|Polish Girl|2011|cuPaP6xbQsM?start=39|Neon Indian|S7697",
 "Hervé Vilard|Capri c'est fini|1965|4TP3u0rNkys|Hervé Vilard|S11032",
 "Hop Along|Waitress|2015|AU39gpBHMK4?start=7|Hop Along|S9777",
