@@ -946,7 +946,7 @@ const songs = [
 "Future|Mask Off / Mask Off (Remix feat. Kendrick Lamar)|2017|CRWI4CgC138|Future (rapper)|S16383",
 "Carpenters|Superstar|1971|SJmmaIGiGBg|The Carpenters|S832",
 "Sam Cooke|Wonderful World|1960|R4GLAKEjU4w|Sam Cooke|S1151",
-"Bob Dylan|All Along the Watchtower|1967|BzanOzyqgas|Bob Dylan|S1692",
+"Bob Dylan|All Along the Watchtower|1967|bT7Hj-ea0VE|Bob Dylan|S1692",
 "The Streets|Dry Your Eyes|2004|PyHr-4SeILI|The Streets|S2445",
 "Aerosmith|Sweet Emotion|1975|82cJgPXU-ik|Aerosmith|S1769",
 "The Beach Boys|Wouldn't It Be Nice|1966|h53Cnpb5hsM|The Beach Boys|S3175",
