@@ -2814,7 +2814,7 @@ const songs = [
 "The Artful Dodger|Re-Rewind (The Crowd Say Bo Selecta)|1999|vEtWdI9FByA|Artful Dodger (duo)|S1371",
 "Grateful Dead|Friend of the Devil|1970|XacvydVrhuI|Grateful Dead|S6637",
 "The Beatles|Got to Get You into My Life|1966|r95-7zfgtLw|The Beatles|S5371",
-"The Clash|London's Burning|1977|TCw9_avTlYs|The Clash|S5825",
+"The Clash|London's Burning|1977|c7pw_TCaEvo|The Clash|S5825",
 "Duke Ellington|Diminuendo and Crescendo in Blue|1956|PYgow060zOg|Duke Ellington|S2782",
 "Sleater-Kinney|I Wanna Be Your Joey Ramone|1996|JRsZ5ZwMNGE|Sleater-Kinney|S3814",
 "Basement Jaxx|Rendez-Vu|1999|--MLlsBJFhw|Basement Jaxx|S1360",
