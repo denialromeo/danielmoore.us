@@ -9226,7 +9226,7 @@ const songs = [
 "Édith Piaf|Padam Padam...|1951|LfmguyDRBwU|Édith Piaf|S10685",
 "Sandie Shaw|Girl Don't Come|1964|mp8sYIXN4K0|Sandie Shaw|S8314",
 "Booker T. & The MG's|Hang 'Em High|1968|SkBO0-su9kA|Booker T. & the M.G.'s|S3226",
-"Superpunk|Neue Zähne für meinen Bruder und mich|2001|m7YOafHdC3A|https://de.wikipedia.org/wiki/Superpunk|S8641",
+"Superpunk|Neue Zähne für meinen Bruder und mich|2001|Sazf8OtEkVY|https://de.wikipedia.org/wiki/Superpunk|S8641",
 "Bob Dylan|Absolutely Sweet Marie|1966|3SiPOZ958PA|Bob Dylan|S10222",
 "Morris Albert|Feelings|1974|wU0Pp2n6ooE|Morris Albert|S12993",
 "The Grass Roots|Let's Live for Today|1967|ySjxZDT_5SA|The Grass Roots|S10968",
