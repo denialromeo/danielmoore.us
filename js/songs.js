@@ -4192,7 +4192,7 @@ const songs = [
 "Kylie Minogue|Slow|2003|Omrp4QR_Rpo|Kylie Minogue|S4257",
 "Bruce Springsteen|American Skin (41 Shots)|2001|aQMqWAiWPMs|Bruce Springsteen|S5657",
 "Santana|Evil Ways|1969|nPauXWjY4T8|Carlos Santana|S3794",
-"Chuck Berry|Too Much Monkey Business|1956|5b2w_nJLuvw|Chuck Berry|S4071",
+"Chuck Berry|Too Much Monkey Business|1956|hyipWCVPIeI|Chuck Berry|S4071",
 "Charlie Christian|Swing to Bop [Topsy]|1941|5kE3gO5Hpz0|Charlie Christian|S5762",
 "Simon and Garfunkel|A Hazy Shade of Winter|1966|dVA-1iJxRQI|Simon & Garfunkel|S3804",
 "LFO|LFO|1990|oAV83nQXAaE|LFO (American band)|S4214",
