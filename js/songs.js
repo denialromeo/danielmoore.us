@@ -3219,7 +3219,7 @@ const songs = [
 "Tommy Edwards|It's All in the Game|1958|eB_9YloCXok|Tommy Edwards|S3065",
 "Queen|Crazy Little Thing Called Love|1979|zO6D_BAuYCI|Queen (band)|S8045",
 "Lesley Gore|It's My Party|1963|XubONYtHDN0|Lesley Gore|S1076",
-"Manic Street Preachers feat. Nina Persson|Your Love Alone Is Not Enough|2007|fpQod_lLIB0|Manic Street Preachers|S4316",
+"Manic Street Preachers feat. Nina Persson|Your Love Alone Is Not Enough|2007|XvQ-rWyqzO0|Manic Street Preachers|S4316",
 "Pink Floyd|The Great Gig in the Sky|1973|C8Xc0VptCBY|Pink Floyd|S7963",
 "ZZ Top|Legs|1983|eUDcTLaWJuo|ZZ Top|S444",
 "Soundgarden|Fell on Black Days|1994|ySzrJ4GRF7s|Soundgarden|S8504",
