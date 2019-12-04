@@ -1388,7 +1388,7 @@ const songs = [
 "Plastic Ono Band|Give Peace a Chance|1969|C3_0GqPvr4U|Plastic Ono Band|S2293",
 "Pink Floyd|Interstellar Overdrive|1967|EJ2xIGTbtwE|Pink Floyd|S3703",
 "Ultravox|Vienna|1980|xJeWySiuq1I|Ultravox|S1576",
-"Elvis Costello|(I Don't Want to Go to) Chelsea|1978|02zTQJlbLN8|Elvis Costello|S629",
+"Elvis Costello|(I Don't Want to Go to) Chelsea|1978|XvRQDsH0Yho|Elvis Costello|S629",
 "The Verve|The Drugs Don't Work|1997|ToQ0n3itoII|The Verve|S3",
 "The Beatles|She's Leaving Home|1967|VaBPY78D88g|The Beatles|S4537",
 "The Monkees|Last Train to Clarksville|1966|ZcXpKiY2MXE|The Monkees|S975",
