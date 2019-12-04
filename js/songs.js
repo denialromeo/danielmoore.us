@@ -8160,7 +8160,7 @@ const songs = [
 "Looking Glass|Brandy (You're a Fine Girl)|1972|DVx8L7a3MuE|Looking Glass (band)|S7300",
 "Gorillaz feat. Bootie Brown|Dirty Harry|2005|cLnkQAeMbIM|Gorillaz|S3013",
 "Barbra Streisand with Barry Gibb|Guilty|1980|r1AIm9Tg2CE|Barbra Streisand|S5324",
-"Jarabe de Palo|La Flaca|1996|R2rP8ZU52gU|Jarabe de Palo|S13510",
+"Jarabe de Palo|La Flaca|1996|R2rP8ZU52gU?start=12|Jarabe de Palo|S13510",
 "Ice Cube feat. Don Jaguar|Wicked|1992|SsWsmH2d_Qg|Ice Cube|S11061",
 "The Beta Band|Squares|2001|kkjg3SgUUkY|The Beta Band|S5422",
 "Red Foley|Chattanoogie Shoe Shine Boy|1950|u6QaW0a7DeM|Red Foley|S8118",
