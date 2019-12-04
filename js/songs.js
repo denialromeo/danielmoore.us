@@ -8156,7 +8156,7 @@ const songs = [
 "Boards of Canada|Happy Cycling|1998|GLuk2SWWNaM|Boards of Canada|S4592",
 "Tool|Schism|2001|MM62wjLrgmA|Tool (band)|S8818",
 "Billie Holiday|He’s Funny That Way|1937|QRosRTLD1Kw|Billie Holiday|S13157",
-"Golden Earring|Twilight Zone|1982|eP05iSzpz94|Golden Earring|S6604",
+"Golden Earring|Twilight Zone|1982|wIaaBuGNwNw|Golden Earring|S6604",
 "Looking Glass|Brandy (You're a Fine Girl)|1972|DVx8L7a3MuE|Looking Glass (band)|S7300",
 "Gorillaz feat. Bootie Brown|Dirty Harry|2005|cLnkQAeMbIM|Gorillaz|S3013",
 "Barbra Streisand with Barry Gibb|Guilty|1980|r1AIm9Tg2CE|Barbra Streisand|S5324",
