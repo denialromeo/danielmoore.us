@@ -1853,7 +1853,7 @@ const songs = [
 "The Beatles|Eight Days a Week|1964|kle2xHhRHg4|The Beatles|S1451",
 "Danny Brown feat. Kendrick Lamar, Ab-Soul and Earl Sweatshirt|Really Doe|2016|spfsdpuvUyQ|Danny Brown|S16066",
 "Yes|Roundabout|1971|kmZoQFYYx8U|Yes (band)|S3982",
-"Tori Amos|Cornflake Girl|1994|nUEAwySNRHA|Tori Amos|S3150",
+"Tori Amos|Cornflake Girl|1994|w_HA5Czhtx4|Tori Amos|S3150",
 "Henry Mancini|Moon River|1961|WZ8j-X1hq1I|Henry Mancini|S2808",
 "Donovan|Sunshine Superman|1966|A6ynnBHDsRA|Donovan|S1440",
 "Damian Marley|Welcome to Jamrock|2005|djWm-5fjyWA|Damian Marley|S3021",
