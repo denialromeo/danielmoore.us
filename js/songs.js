@@ -1284,7 +1284,7 @@ const songs = [
 "PJ Harvey|The Words That Maketh Murder|2011|KhaEt2Hdod8|PJ Harvey|S4980",
 "The Rolling Stones|She's a Rainbow|1967|6c1BThu95d8|The Rolling Stones|S3777",
 "Lloyd Price|Stagger Lee|1958|FCPutYaGFlE|Lloyd Price|S1212",
-"Gene Chandler|Duke of Earl|1961|QQnfooEED8Y?start=7|Gene Chandler|S1087",
+"Gene Chandler|Duke of Earl|1962|QQnfooEED8Y?start=7|Gene Chandler|S1087",
 "Ray Charles|I Can't Stop Loving You|1962|r_7iRVtxui8|Ray Charles|S1096",
 "Nine Inch Nails|Head Like a Hole|1989|ao-Sahfy7Hg|Nine Inch Nails|S2038",
 "James Blake|The Wilhelm Scream|2011|isIABK-0ohQ|James Blake (musician)|S4966",
