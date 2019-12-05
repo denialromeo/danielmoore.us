@@ -9051,7 +9051,7 @@ const songs = [
 "The Reflections|(Just Like) Romeo and Juliet|1964|zX1-e0w3mUw|The Reflections (Detroit band)|S12047",
 "Lynyrd Skynyrd|Tuesday's Gone|1973|_7p2ogicS1U|Lynyrd Skynyrd|S13879",
 "Shabazz Palaces|Forerunner Foray|2014|zNXxd3yYDaM|Shabazz Palaces|S12186",
-"Junior Giscombe|Mama Used to Say|1981|gAWnb1yxr5M|Junior Giscombe|S1868",
+"Junior Giscombe|Mama Used to Say|1982|gAWnb1yxr5M|Junior Giscombe|S1868",
 "Leila|Sodastream|1999|29MYyf5JF2c|Leila Arab|S7222",
 "Slime|Deutschland|1981|ID4lstARK0w|Slime (band)|S15875",
 "Gang Starr|Mass Appeal|1994|Xtk8j9gAxCA|Gang Starr|S10897",
