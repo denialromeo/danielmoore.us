@@ -5305,7 +5305,7 @@ const songs = [
 "Kim Wilde|Kids in America|1981|r_GH6M7cUq4|Kim Wilde|S3960",
 "The Prodigy|Charly|1991|cSTBFZ-To2E|The Prodigy|S11952",
 "Beastie Boys|It's the New Style|1986|QbGnU96ByYQ|Beastie Boys|S1954",
-"Jawbox|Savory|1994|ap3L_NCZk4s|Jawbox|S6874",
+"Jawbox|Savory|1994|xFvz1JQAPgQ|Jawbox|S6874",
 "Joan Jett and the Blackhearts|Bad Reputation|1980|LvoV2Lfk7Qg|Joan Jett|S6925",
 "Meredith Brooks|Bitch|1997|_ivt_N2Zcts|Meredith Brooks|S11599",
 "The Shangri-Las|Out in the Streets|1965|NHYFpLJbIgE|The Shangri-Las|S3802",
