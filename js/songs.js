@@ -8803,7 +8803,7 @@ const songs = [
 "Spinal Tap|Tonight I'm Gonna Rock You Tonight|1984|SXHmWXPwol0|Spinal Tap (band)|S8527",
 "Antony and the Johnsons|You Are My Sister|2005|vskbBZ1h6ls|Antony and the Johnsons|S14074",
 "Eugenio Finardi|Musica ribelle|1976|1fN3qB6MuYA?start=42|Eugenio Finardi|S12939",
-"Serge Reggiani|Il suffirait de presque rien|1968|l9KiGZqnvRk|Serge Reggiani|S12183",
+"Serge Reggiani|Il suffirait de presque rien|1968|l9KiGZqnvRk?start=3|Serge Reggiani|S12183",
 "The Weeknd|Wicked Games|2011|O1OTWCd40bc|The Weeknd|S8962",
 "2Pac feat. K-Ci & JoJo|How Do U Want It|1996|uA13uMi9Hp0|Tupac Shakur|S5071",
 "Ozzy Osbourne|Mr. Crowley|1980|G3LvhdFEOqs|Ozzy Osbourne|S11826",
