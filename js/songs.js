@@ -657,7 +657,7 @@ const songs = [
 "The Byrds|Turn! Turn! Turn! (To Everything There Is a Season)|1965|W4ga_M5Zdn4|The Byrds|S1423",
 "Mitski|Your Best American Girl|2016|u_hDHm9MD0I|Mitski|S16151",
 "Radiohead|Burn the Witch|2016|yI2oS2hoL0k|Radiohead|S16169",
-"Elton John|Goodbye Yellow Brick Road|1973|RZ3Bb4UsXhU|Elton John|S773",
+"Elton John|Goodbye Yellow Brick Road|1973|RZ3Bb4UsXhU?start=10|Elton John|S773",
 "The Weeknd|Can't Feel My Face|2015|KEI4qSrkPAs|The Weeknd|S9854",
 "Nirvana|About a Girl|1989|AhcttcXcRYY|Kurt Cobain|S2431",
 "The Cure|A Forest|1980|Q-QITfqH7Os?start=1|The Cure|S1853",
