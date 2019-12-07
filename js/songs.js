@@ -2485,7 +2485,7 @@ const songs = [
 "The Go-Go's|We Got the Beat|1980|f55KlPe81Yw|The Go-Go's|S562",
 "The Troggs|Love is All Around|1967|1xEEhzAh6n4|The Troggs|S4107",
 "Wolfman feat. Pete Doherty|For Lovers|2004|oLY0eUtVlXo|Peter Wolfe (musician)|S2454",
-"Meat Loaf|Bat out of Hell|1977|Q9hLcRU5wE4|Meat Loaf|S7496",
+"Meat Loaf|Bat Out of Hell|1977|3QGMCSCFoKA|Meat Loaf|S7496",
 "The Walker Brothers|Make It Easy on Yourself|1965|DirmGKf8Ndo|The Walker Brothers|S1670",
 "The Teddy Bears|To Know Him, Is to Love Him|1958|vrwf-sIcr0M|The Teddy Bears|S8701",
 "Urge Overkill|Girl, You'll Be a Woman Soon|1992|JAHA4Jh5jkw|Urge Overkill|S8899",
