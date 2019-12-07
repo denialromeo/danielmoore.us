@@ -3583,7 +3583,7 @@ const songs = [
 "Fever Ray|If I Had a Heart|2008|EBAzlNJonO8|Karin Dreijer|S4850",
 "The Clash|Janie Jones|1977|GsVjWd1mh4w|The Clash|S5824",
 "Queens of the Stone Age|Little Sister|2005|hGRqnNEOpe0|Queens of the Stone Age|S8048",
-"Barbra Streisand|The Way We Were|1973|uBPQT2Ia8fU|Barbra Streisand|S4421",
+"Barbra Streisand|The Way We Were|1973|AnTwTazfLWE|Barbra Streisand|S4421",
 "A Tribe Called Quest|Electric Relaxation|1993|WHRnvjCkTsw|A Tribe Called Quest|S9905",
 "Bob Marley and the Wailers|War|1976|vPZydAotVOY|Bob Marley|S5561",
 "The Wallflowers|One Headlight|1996|Zzyfcys1aLM|The Wallflowers|S2120",
