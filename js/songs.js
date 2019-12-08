@@ -8920,7 +8920,7 @@ const songs = [
 "Kevin Ayers|The Lady Rachel|1969|iFxd3tKmN4o|Kevin Ayers|S13031",
 "Joseito Fernandez|Guajira Guantanamera|1973|xlWqKM9ECHA|Joseíto Fernández|S12908",
 "Bauhaus|Kick in the Eye|1981|rb-6ka1y-K8|Bauhaus (band)|S5336",
-"Tom Waits|The Piano Has Been Drinking (Not Me) (An Evening With Pete King)|1976|0GjyGdDrXXs|Tom Waits|S13992",
+"Tom Waits|The Piano Has Been Drinking (Not Me) (An Evening With Pete King)|1976|0GjyGdDrXXs?start=48|Tom Waits|S13992",
 "Genesis|Turn It On Again|1980|8OIkw9kJ0u4|Genesis (band)|S10911",
 "Concrete Blonde|Joey|1990|OdpTcvSn8HQ|Concrete Blonde|S5860",
 "Antônio Carlos Jobim|Insensatez|1963|_Tt7w1yhHPc|Antônio Carlos Jobim|S4086",
