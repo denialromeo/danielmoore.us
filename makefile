@@ -1,3 +1,5 @@
+SHELL=cmd
+
 # If no commit message given, use date as commit message.
 ifeq ($(m),)
 m = $$(date)
@@ -12,7 +14,7 @@ r remote g github: wincred
 	git add --all . &&\
 	git commit -m "$m" &&\
 	git push origin master --force
-	cmd \//c del /s /q *~
+	del /s /q *~
 	clear
 
 wincred:
