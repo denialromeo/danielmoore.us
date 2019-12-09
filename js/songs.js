@@ -6415,7 +6415,7 @@ const songs = [
 "Faye Adams|Shake a Hand|1953|vjMgS0KaZz0|Faye Adams|S3064",
 "Mississippi John Hurt|Frankie|1928|tr_VUEITbjY|Mississippi John Hurt|S9297",
 "Weezer|The Good Life|1996|gkroIXktjgE|Weezer|S3944",
-"The Supremes|Love Is Like an Itching in My Heart|1966|g2WxSIL7RRQ|The Supremes|S8649",
+"The Supremes|Love Is Like an Itching in My Heart|1966|Vi5-CjEhllY|The Supremes|S8649",
 "Jim Croce|Bad, Bad Leroy Brown|1973|3_ZS56qzJLs?start=1900|Jim Croce|S6908",
 "Todd Terry|Can You Party|1988|kP3h8An4qXI|Todd Terry|S321",
 "The Swinging Blue Jeans|Hippy Hippy Shake|1963|1Ke8mzgex4U|The Swinging Blue Jeans|S2816",
