@@ -12,6 +12,7 @@ r remote g github: wincred
 	git add --all . &&\
 	git commit -m "$m" &&\
 	git push origin master --force
+	del /s /q *~
 	clear
 
 wincred:
