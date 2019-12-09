@@ -11,7 +11,7 @@ r remote g github: wincred
 	cd _site &&\
 	git add --all . &&\
 	git commit -m "$m" &&\
-	git push origin master --force
+	git push origin master --force &&\
 	del /s /q *~
 	clear
 
