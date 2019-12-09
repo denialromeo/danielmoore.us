@@ -2085,7 +2085,7 @@ const songs = [
 "Foo Fighters|All My Life|2002|xQ04WbgI9rg|Foo Fighters|S1528",
 "The Weavers|Goodnight Irene|1950|MSDyiUBrUSk|The Weavers|S1339",
 "Grateful Dead|Uncle John's Band|1970|TSIajKGHZRk|Grateful Dead|S1310",
-"Spoon|The Way We Get By|2002|BWa7w3Sd_RI|Spoon (band)|S2228",
+"Spoon|The Way We Get By|2002|3ngjkPAAZBU|Spoon (band)|S2228",
 "Yeasayer|O.N.E.|2010|IX_RD7DT-8k|Yeasayer|S4937",
 "Franz Ferdinand|Darts of Pleasure|2003|wznMbAkyBHQ|Franz Ferdinand (band)|S2395",
 "Wynonie Harris|Good Rockin' Tonight|1948|Xo9auUfitVA|Wynonie Harris|S2691",
