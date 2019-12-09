@@ -4865,7 +4865,7 @@ const songs = [
 "Nick Cave & The Bad Seeds|Tupelo|1985|oSl4KX7zBTQ|Nick Cave and the Bad Seeds|S7722",
 "The Folkes Brothers|Oh Carolina|1960|oTDxJffBKR0|Folkes Brothers|S6418",
 "Death Grips|Hacker|2012|uoZgZT4DGSY|Death Grips|S6002",
-"Gal Costa|Baby|1968|7ey65touQaY|Gal Costa|S6494",
+"Gal Costa|Baby|1968|fbkaqYFxFAg|Gal Costa|S6494",
 "M83|Don't Save Us from the Flames|2005|BpT0rrtwpLg|M83 (band)|S4647",
 "Nancy & Frank Sinatra|Somethin' Stupid|1967|kn-ExYS1Pq0?start=76|Nancy Sinatra|S12960",
 "Radiohead|Life in a Glasshouse|2001|N92g3TQ98oI|Radiohead|S4672",
