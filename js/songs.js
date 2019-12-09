@@ -6819,7 +6819,7 @@ const songs = [
 "The Wedding Present|Kennedy|1989|PuNYyNqCSSg|The Wedding Present|S8960",
 "Paul McCartney and Wings|My Love|1973|ZmjN1O1ejS4|Paul McCartney and Wings|S7886",
 "Billy Squier|Everybody Wants You|1982|PgA8Mi6FZFU|Billy Squier|S3850",
-"St Germain|Rose rouge|2000|o7gdC6XWIoU|St Germain (musician)|S8540",
+"St Germain|Rose rouge|2000|XhIJVpMtm-A?start=14|St Germain (musician)|S8540",
 "Prince|Batdance|1989|ulOLYnOthIw|Prince (musician)|S3101",
 "Art Blakey & The Jazz Messengers|Blues March/Blues March for Europe No. 1|1958|hugur2qClyo|Art Blakey|S13147",
 "The Who|Eminence Front|1982|G9JxtR_4Zfo|The Who|S9002",
