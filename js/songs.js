@@ -5951,7 +5951,7 @@ const songs = [
 "Elvis Presley|Surrender|1961|O3Bj9fQkvGo|Elvis Presley|S6261",
 "Boogie Down Productions|My Philosophy|1988|h1vKOchATXs|Boogie Down Productions|S5595",
 "Bilderbuch|Bungalow|2017|pV-GGCrRcu0|Bilderbuch|S16341",
-"Laura Branigan|Self Control|1984|7ZFUns38D_Q|Laura Branigan|S7184",
+"Laura Branigan|Self Control|1984|RP0_8J7uxhs|Laura Branigan|S7184",
 "Belle and Sebastian|Wrapped Up in Books|2003|iBU-MxydbWQ|Belle and Sebastian|S5405",
 "David Bowie|Boys Keep Swinging|1979|2KcOs70dZAw|David Bowie|S5973",
 "Lyle Lovett|If I Had a Boat|1988|hpM8FjO4Vko|Lyle Lovett|S11502",
