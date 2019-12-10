@@ -7356,7 +7356,7 @@ const songs = [
 "Don Henley|Dirty Laundry|1982|YHimia_Fxzs|Don Henley|S6124",
 "The Leaves|Hey Joe|1965|KWv03Wgz0PQ|The Leaves|S2502",
 "The Sons of the Pioneers|Cool Water|1941|amDo-KqUjpA|Sons of the Pioneers|S2748",
-"Felt|Primitive Painters|1985|4H23WYe_pxc|Felt (band)|S10800",
+"Felt|Primitive Painters|1985|7Jtejnvza2U|Felt (band)|S10800",
 "Chairlift|Ch-Ching|2015|nWSFlqBOgl8|Chairlift (band)|S9722",
 "The Chips|Rubber Biscuit|1956|Hz0UvIZw-Y0|The Chips|S5790",
 "The High Llamas|Checkin' In Checkin' Out|1994|ats3sUKmkjw|The High Llamas|S6714",
