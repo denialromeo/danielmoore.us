@@ -6226,7 +6226,7 @@ const songs = [
 "Steve Earle|Copperhead Road|1988|xvaEJzoaYZk|Steve Earle|S8568",
 "Belle and Sebastian|I Want the World to Stop|2010|wjW3tZhdnyw?start=32|Belle and Sebastian|S5407",
 "Tina Moore|Never Gonna Let You Go|1995|tWUso7tzOpU|Tina Moore|S8765",
-"Christophe|Aline|1965|-E_Hyn53acA|Christophe (singer)|S10406",
+"Christophe|Aline|1965|eQx4hpncGiA|Christophe (singer)|S10406",
 "Kris Kristofferson|Help Me Make It Through the Night|1970|ATrt1qUNUZI|Kris Kristofferson|S4543",
 "Bo Diddley|Mona|1957|luMQUzJzZLQ|Bo Diddley|S3332",
 "Young Jeezy feat. Kanye West|Put On|2008|1aEImx74gLA|Jeezy|S4764",
