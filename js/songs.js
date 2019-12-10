@@ -8286,7 +8286,7 @@ const songs = [
 "Southside Johnny & The Asbury Jukes|I Don't Want to Go Home|1976|tRVkS6Owp9Q|Southside Johnny and the Asbury Jukes|S13357",
 "Nick Cave & The Bad Seeds|Stagger Lee|1996|EjIfrhSQ8Pk|Nick Cave and the Bad Seeds|S7728",
 "Billie Holiday|Love For Sale|1954|rwS-5M-1gas|Billie Holiday|S14144",
-"Colette Magny|Melocoton|1963|uUpPS7KBhsQ|https://fr.wikipedia.org/wiki/Colette_Magny|S10447",
+"Colette Magny|Melocoton|1963|OPVtricblNM|https://fr.wikipedia.org/wiki/Colette_Magny|S10447",
 "Queen|Death on Two Legs|1975|kqVpk0qxmfA|Queen (band)|S11971",
 "Eddie Cochran|Sittin' in the Balcony|1957|yZ1BmskTE6A|Eddie Cochran|S4372",
 "Los Fabulosos Cadillacs|Mal bicho|1995|P_6V-JTGn_M|Los Fabulosos Cadillacs|S11472",
