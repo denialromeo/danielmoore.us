@@ -1054,7 +1054,7 @@ const songs = [
 "Madonna|Holiday|1983|IHknoSQZibU|Madonna (entertainer)|S473",
 "The Velvet Underground|Pale Blue Eyes|1969|KisHhIRihMY|The Velvet Underground|S2545",
 "Pink Floyd|Arnold Layne|1967|5neI304MOug|Pink Floyd|S1691",
-"David Bowie|Golden Years|1975|HRD0ghlFSgk|David Bowie|S707",
+"David Bowie|Golden Years|1975|-xfa4BAeo2c|David Bowie|S707",
 "Fleetwood Mac|Oh Well|1969|O8RhZDGLEXM|Fleetwood Mac|S1586",
 "Beach House|Myth|2012|3lIyDxfUhxM|Beach House|S5001",
 "The Beatles|With a Little Help from My Friends|1967|0C58ttB2-Qg|The Beatles|S2516",
