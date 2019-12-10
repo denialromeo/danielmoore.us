@@ -1891,7 +1891,7 @@ const songs = [
 "The Del-Vikings|Come Go with Me|1956|P1eU_lDQaVM|The Del-Vikings|S1251",
 "The Undisputed Truth|Smiling Faces Sometimes|1971|8CJZcVi5BA4|The Undisputed Truth|S840",
 "A$AP Rocky|Peso|2011|ob3ktDxAjWI|ASAP Rocky|S4939",
-"Phoenix|Too Young|2000|HyU24rr0doo|Phoenix (band)|S2188",
+"Phoenix|Too Young|2000|yIOL5SSjWdw|Phoenix (band)|S2188",
 "Wayne Smith|Under Me Sleng Teng|1985|H_STPoI_eoM|Wayne Smith (musician)|S418",
 "Raspberries|Go All the Way|1972|jfgnc6Ey0q0|Raspberries (band)|S806",
 "Bruce Springsteen|4th of July, Asbury Park (Sandy)|1973|kB1d0eey5ho|Bruce Springsteen|S5636",
