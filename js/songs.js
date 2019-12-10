@@ -3906,7 +3906,7 @@ const songs = [
 "Puff Daddy feat. The Lox, Lil' Kim & The Notorious B.I.G.|It's All About the Benjamins|1997|0c58ppLPJcQ|Sean Combs|S3737",
 "Warpaint|Undertow|2010|BMkqbY0oGKQ|Warpaint (band)|S4935",
 "John Fogerty|Centerfield|1985|Xq3hEMUeBGQ|John Fogerty|S6943",
-"The Five Stairsteps|O-o-h Child|1970|_DHRGrIqmb0|Five Stairsteps|S1725",
+"The Five Stairsteps|O-o-h Child|1970|C1XwW8A49Pg|Five Stairsteps|S1725",
 "Led Zeppelin|Fool in the Rain|1979|Zp-LBD_q0sQ|Led Zeppelin|S7213",
 "Los Gatos|La balsa|1967|Yv9PnHsEGas|Los Gatos (band)|S7308",
 "The White Stripes|The Hardest Button to Button|2003|K4dx42YzQCE|The White Stripes|S8991",
