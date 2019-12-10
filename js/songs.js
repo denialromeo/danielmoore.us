@@ -4098,7 +4098,7 @@ const songs = [
 "Creedence Clearwater Revival|Down on the Corner|1969|nJAjOlp4Tas?start=6|Creedence Clearwater Revival|S5891",
 "Cold Cave|The Great Pan Is Dead|2011|uwlQ2zNMNRg|Cold Cave|S5851",
 "The Dream Academy|Life in a Northern Town|1985|X5uxQElYu68|The Dream Academy|S3360",
-"Ozzy Osbourne|Bark at the Moon|1983|F89-MOy7Xfg|Ozzy Osbourne|S11824",
+"Ozzy Osbourne|Bark at the Moon|1983|Hobx8_xKthM|Ozzy Osbourne|S11824",
 "El-P|The Full Retard|2012|OZptOs8Gu9k|El-P|S6236",
 "Len|Steal My Sunshine|1999|E1fzJ_AYajA|Len (band)|S1375",
 "Elvis Presley|(You're the) Devil in Disguise|1963|338Qv5zmi-g|Elvis Presley|S3718",
