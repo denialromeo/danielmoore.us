@@ -1571,7 +1571,7 @@ const songs = [
 "Duran Duran|Girls on Film|1981|KCjMZMxNr-0|Duran Duran|S1863",
 "Leftfield feat. John Lydon|Open Up|1993|uctraa3zKCI|Leftfield|S125",
 "The Melodians|Rivers of Babylon|1970|e57brp0HGDA|The Melodians|S3617",
-"Sigur Rós|Svefn-G-Englar|1999|8L64BcCRDAE|Sigur Rós|S2175",
+"Sigur Rós|Svefn-g-englar|1999|8L64BcCRDAE|Sigur Rós|S2175",
 "The Beat|Mirror in the Bathroom|1980|SHWrmIzgB5A|The Beat (British band)|S561",
 "T. Rex|Children of the Revolution|1972|pu3-ZGbqUyk|T. Rex (band)|S810",
 "Burning Spear|Marcus Garvey|1975|AHbvg8xhJkk|Burning Spear|S5680",
