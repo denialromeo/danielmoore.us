@@ -6006,7 +6006,7 @@ const songs = [
 "Shanice|I Love Your Smile|1991|Z9GSMei0NAw|Shanice|S8379",
 "Björk & Thom Yorke|I've Seen It All|2000|N8FJyhnC2Eo|Björk|S5477",
 "Chris Isaak|Blue Hotel|1987|7s6tufofYrg|Chris Isaak|S5796",
-"Ashford & Simpson|Solid|1984|KrLFEHeKNBw|Ashford & Simpson|S5255",
+"Ashford & Simpson|Solid|1984|GfD4nYu6LAA?start=35|Ashford & Simpson|S5255",
 "The Radio Dept.|Heaven's On Fire|2010|kmjyZXYxkEw|The Radio Dept.|S8071",
 "Suzi Quatro|Can the Can|1973|xYoogY-UGio|Suzi Quatro|S4168",
 "Bob Dylan|You're Gonna Make Me Lonesome When You Go|1975|slmCQP75PEo|Bob Dylan|S10249",
