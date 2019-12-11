@@ -1296,7 +1296,7 @@ const songs = [
 "Elliott Smith|Between the Bars|1997|p4cJv6s_Yjw|Elliott Smith|S4234",
 "The Beach Boys|Caroline, No|1966|SoqYQdregRI|The Beach Boys|S1684",
 "The Trammps|Disco Inferno|1976|A_sY2rjxq6M|The Trammps|S637",
-"Cat Power|The Greatest|2006|QT9qM99l9Yk|Cat Power|S4016",
+"Cat Power|The Greatest|2006|0KtrQ5nWl7w|Cat Power|S4016",
 "Missy \"Misdemeanor\" Elliott|The Rain (Supa Dupa Fly)|1997|hHcyJPTTn9w|Missy Elliott|S27",
 "Bruce Springsteen|Badlands|1978|KDz62awS6qU|Bruce Springsteen|S5643",
 "Elvis Costello and the Attractions|(What's So Funny 'Bout) Peace, Love and Understanding|1978|Ssd3U_zicAI|Elvis Costello|S1812",
