@@ -6449,7 +6449,7 @@ const songs = [
 "John Prine|Hello in There|1971|RfwGkplB_sY|John Prine|S3731",
 "Peter Gabriel|Digging in the Dirt|1992|X0C3DHp36zc|Peter Gabriel|S11886",
 "Frank Ocean|Pink + White|2016|uzS3WG6__G4|Frank Ocean|S16089",
-"Sniff 'n' The Tears|Driver's Seat|1978|uIgW-4EnxO4|Sniff 'n' the Tears|S12250",
+"Sniff 'n' The Tears|Driver's Seat|1978|9SCzVEUlqqA|Sniff 'n' the Tears|S12250",
 "Arab Strap|The First Big Weekend|1996|g9Krvl7AEAs|Arab Strap|S5222",
 "Bee Gees|Tragedy|1979|lk0alJGhSp0|Bee Gees|S5397",
 "Redskins|Keep On Keeping On|1984|SibgDQWU85g|The Redskins|S1924",
