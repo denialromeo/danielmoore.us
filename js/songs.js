@@ -5711,7 +5711,7 @@ const songs = [
 "Beirut|Elephant Gun|2007|SWSz_PAfgNc|Beirut (band)|S5399",
 "Neil Diamond|Cracklin' Rosie|1970|MGemtjVtfZM|Neil Diamond|S7675",
 "Frank Zappa & Moon Zappa|Valley Girl|1982|Qb21lsCQ3EM|Moon Zappa|S6447",
-"Wreckx-N-Effect|Rump Shaker|1992|xdCp_j8Wyuw?start=9|Wreckx-n-Effect|S3977",
+"Wreckx-n-Effect|Rump Shaker|1992|xdCp_j8Wyuw?start=9|Wreckx-n-Effect|S3977",
 "Supertramp|Take the Long Way Home|1979|qmWC5dGVvH4|Supertramp|S8645",
 "Kraftwerk|Die Mensch-Maschine / The Man Machine|1978|Mkd7LbQnfIQ|Kraftwerk|S7147",
 "Eurythmics|Who's That Girl|1983|-5iDKWV6Chg|Eurythmics|S4462",
