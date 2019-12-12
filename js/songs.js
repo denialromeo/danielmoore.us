@@ -4351,7 +4351,7 @@ const songs = [
 "Depeche Mode|Strangelove|1987|JIrm0dHbCDU|Depeche Mode|S6043",
 "The Flaming Lips|Fight Test|2002|fye1XtXQn9s|The Flaming Lips|S2403",
 "Merle Haggard|Okie from Muskogee|1969|68cbjlLFl4U|Merle Haggard|S4127",
-"Charlie Rich|Behind Closed Doors|1973|O3iEFfA4TmI|Charlie Rich|S2317",
+"Charlie Rich|Behind Closed Doors|1973|Rf_baiRNUYU|Charlie Rich|S2317",
 "Simple Minds|Belfast Child|1989|7vhhTvcLoRw|Simple Minds|S8421",
 "King Crimson|I Talk to the Wind|1969|JtJ4iocSlG4|King Crimson|S12991",
 "Sam Cooke|Another Saturday Night|1963|0O8m0mMDpHw|Sam Cooke|S1655",
