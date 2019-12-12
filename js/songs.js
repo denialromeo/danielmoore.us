@@ -8018,7 +8018,7 @@ const songs = [
 "Andy Williams|Moon River|1962|L_jgIezosVA|Andy Williams|S12930",
 "Ween|Freedom of '76|1994|zzYykIA1xVg?start=114|Ween|S12563",
 "Shelly Manne|Abstract No 1|1955|pDUApw1Uom0|Shelly Manne|S13247",
-"The Pointer Sisters|Automatic|1983|sDU6K02igoU|The Pointer Sisters|S7983",
+"The Pointer Sisters|Automatic|1983|KNi8aW8Nf6s|The Pointer Sisters|S7983",
 "Xavier Cugat|Brazil|1942|ldMuNoIvWkI|Xavier Cugat|S9075",
 "Blues Image|Ride Captain Ride|1970|HqFFjoRnltg?start=6|Blues Image|S5521",
 "Gil Scott-Heron|Me and the Devil|2010|OET8SVAGELA|Gil Scott-Heron|S6557",
