@@ -6348,7 +6348,7 @@ const songs = [
 "Roxette|The Look|1988|LlVI7ZNiFlI|Roxette|S9343",
 "Alex Gopher|The Child|1999|gpE_YsL1EuA|Alex Gopher|S2179",
 "Rufus feat. Chaka Khan|Sweet Thing|1975|bFKXGVtXq8s|Rufus (band)|S8266",
-"Bob B. Soxx and the Blue Jeans|Why Do Lovers Break Each Other's Heart?|1963|n2-loYhkOGQ?start=113|Bob B. Soxx & the Blue Jeans|S3835",
+"Bob B. Soxx and the Blue Jeans|Why Do Lovers Break Each Other's Heart|1963|n2-loYhkOGQ?start=113|Bob B. Soxx & the Blue Jeans|S3835",
 "Madonna|Take a Bow|1994|XDeiovnCv1o|Madonna (entertainer)|S7373",
 "Randy Newman|I Miss You|1999|wfyd1J2tgRY?start=144|Randy Newman|S13938",
 "Babyshambles|Delivery|2007|79Y-EHqZNQA|Babyshambles|S4307",
