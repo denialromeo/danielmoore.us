@@ -2299,7 +2299,7 @@ const songs = [
 "Ryan Adams|New York, New York|2001|hmHgY_J63Ik|Ryan Adams|S2222",
 "Fiona Apple|Every Single Night|2012|bIlLq4BqGdg|Fiona Apple|S4999",
 "Patti Page|Tennessee Waltz|1950|44B6B1OycgI|Patti Page|S2400",
-"Peter Frampton|Show Me the Way|1975|zLgeTtYwQ7o|Peter Frampton|S3420",
+"Peter Frampton|Show Me the Way|1975|zLgeTtYwQ7o?start=2|Peter Frampton|S3420",
 "Big Star|The Ballad of El Goodo|1972|Cn1t6l7UUPc|Big Star|S5437",
 "The Prodigy|Breathe|1996|rmHDhAohJlQ|The Prodigy|S55",
 "Belle and Sebastian|Lazy Line Painter Jane|1997|9I42Q-EU50s|Belle and Sebastian|S4519",
