@@ -9278,7 +9278,7 @@ const songs = [
 "The Black Keys|Fever|2014|iZZUY32iCzU|The Black Keys|S10192",
 "Skip James|Hard Time Killing Floor Blues|1931|UNftrsCMiQs|Skip James|S15873",
 "Main Source|Looking at the Front Door|1990|RNRCQ9eagWQ|Main Source|S11525",
-"Lou Christie|Two Faces Have I|1963|e3QFcVYCBdM|Lou Christie|S14681",
+"Lou Christie|Two Faces Have I|1963|z6DE3IvWfrk|Lou Christie|S14681",
 "The Trammps|Hold Back the Night|1975|OGKgR4jPlyM|The Trammps|S12479",
 "The Doors|Strange Days|1967|DI76mRtSD9g|The Doors|S10641",
 "The Gentrys|Keep on Dancing|1965|VeEs6e0FdwU|The Gentrys|S14429",
