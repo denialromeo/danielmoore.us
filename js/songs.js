@@ -9695,7 +9695,7 @@ const songs = [
 "Ella Fitzgerald|How High the Moon|1948|djZCe7ou3kY|Ella Fitzgerald|S13454",
 "Joey Ramone|What a Wonderful World|2002|8IoO5nkxT_4?start=42|Joey Ramone|S14573",
 "Q-Tip|Vivrant Thing|1999|hYTjBhplTGY|Q-Tip (musician)|S8040",
-"Muse|Stockholm Syndrome|2003|61Q0moGbeEo|Muse (band)|S7645",
+"Muse|Stockholm Syndrome|2003|gXN9acC9edU|Muse (band)|S7645",
 "Junip|Line of Fire|2013|W9V-Hh0uTaI|Junip|S11283",
 "Stevie Wonder|Joy Inside My Tears|1976|Alk3iF9Nto4|Stevie Wonder|S13968",
 "Bob Dylan|4th Time Around|1966|jvKZDbAgh4Y|Bob Dylan|S10220",
