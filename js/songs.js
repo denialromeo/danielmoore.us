@@ -5503,7 +5503,7 @@ const songs = [
 "The Housemartins|The Caravan of Love|1986|ehfiQd7lcPY|The Housemartins|S6743",
 "The Jackson 5|Dancing Machine|1974|D_tiKaNzx-8|The Jackson 5|S11106",
 "The Gap Band|Outstanding|1982|pSnJ5MV5T84|The Gap Band|S6497",
-"Boz Scaggs|Lido Shuffle|1976|HQZBaJAngH8|Boz Scaggs|S5605",
+"Boz Scaggs|Lido Shuffle|1976|nZrRS261Edw|Boz Scaggs|S5605",
 "Johnny Cash|Wanted Man|1969|5kHiuxn0FhI?start=27|Johnny Cash|S3266",
 "Ramones|Beat on the Brat|1976|d9EhPunI6xg|Ramones|S12020",
 "Steve Reich|It's Gonna Rain|1965|vugqRAX7xQE|Steve Reich|S8577",
