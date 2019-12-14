@@ -8218,7 +8218,7 @@ const songs = [
 "Hugo Montenegro|The Good, the Bad and the Ugly|1968|qd_7Bnxblo4|Hugo Montenegro|S6751",
 "Dr. Dre feat. Snoop Dogg, Kurupt & Nate Dogg|The Next Episode|1999|QZXc39hT8t4|Dr. Dre|S6150",
 "Fletcher Henderson|The Stampede|1926|Qi1Sms31amo|Fletcher Henderson|S10829",
-"John Cale|Child's Christmas in Wales|1973|r9IKnVVRsmk|John Cale|S15597",
+"John Cale|Child's Christmas in Wales|1973|r0tmZSTMDNY|John Cale|S15597",
 "R.E.M.|Driver 8|1985|wuFId1RYSZE|R.E.M.|S4468",
 "ESG|You're No Good|1981|nmkVTqqzffY|ESG (band)|S2897",
 "Allen Toussaint|From a Whisper to a Scream|1970|JLmSl5IFm1A|Allen Toussaint|S5169",
