@@ -2066,7 +2066,7 @@ const songs = [
 "The White Stripes|My Doorbell|2005|IlcMRq3gb1s|The White Stripes|S3031",
 "Eric B. & Rakim|Eric B. Is President|1986|0pwoIFyWE1M|Eric B. & Rakim|S384",
 "Roxy Music|In Every Dream Home a Heartache|1973|G56DaSAeZfM|Roxy Music|S4549",
-"Ray Price|Crazy Arms|1956|GurizZaR0Ms|Ray Price (musician)|S1285",
+"Ray Price|Crazy Arms|1956|3jP5G5PaMrc|Ray Price (musician)|S1285",
 "Buffalo Springfield|Expecting to Fly|1967|hzMl0-bhNcM|Buffalo Springfield|S921",
 "Slade|Mama Weer All Crazee Now|1972|RPTk5poAa1c|Slade|S1555",
 "Prince|Controversy|1981|4gazNwzC4H0|Prince (musician)|S530",
