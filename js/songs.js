@@ -8724,7 +8724,7 @@ const songs = [
 "Telex|Moskow Diskow|1979|wg9fb5JG3v8|Telex (band)|S8712",
 "Suprême NTM|Seine-Saint-Denis Style|1998|Wn1Ny-RNAG8|Suprême NTM|S12373",
 "Elvis Presley|Long Black Limousine|1969|fiwdhmf7JSw|Elvis Presley|S14359",
-"Dennis Coffey and the Detroit Guitar Band|Scorpio|1971|KBn_oUH8Uo0|Dennis Coffey|S10572",
+"Dennis Coffey and the Detroit Guitar Band|Scorpio|1971|rK14QTKOWgw|Dennis Coffey|S10572",
 "Arca|Reverie|2017|0WKWZ9y-dvU|Arca (musician)|S16330",
 "Scott Walker|Duchess|1969|XprkIbphGf8|Scott Walker (singer)|S9347",
 "fIREHOSE|Flyin' the Flannel|1991|xKsxgKX8mOQ|Firehose (band)|S3404",
