@@ -4664,7 +4664,7 @@ const songs = [
 "Wu-Tang Clan|Triumph|1997|cPRKsKwEdUQ|Wu-Tang Clan|S9071",
 "TLC|Unpretty|1999|g2gy1Evb1Kg|TLC (group)|S1377",
 "The Walkmen|In the New Year|2008|UzncddUq8wU?start=29|The Walkmen|S4756",
-"Lucio Dalla|Com'e profondo il mare|1977|ThA3luuqefg|Lucio Dalla|S7344",
+"Lucio Dalla|Come è profondo il mare|1977|ThA3luuqefg|Lucio Dalla|S7344",
 "Alvvays|Dreams Tonite|2017|ZXu6q-6JKjA|Alvvays|S16327",
 "Bob Dylan|Most of the Time|1989|SQbr4ISrjII|Bob Dylan|S3374",
 "The Rolling Stones|Heart of Stone|1964|iCabQ1aF8P0|The Rolling Stones|S3771",
