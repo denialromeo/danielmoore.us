@@ -1732,7 +1732,7 @@ const songs = [
 "Tom Waits|Downtown Train|1985|rLtZKkCIVmI|Tom Waits|S1930",
 "Beyoncé|Countdown|2011|2XY3AvVgDns|Beyoncé|S4944",
 "Crosby, Stills & Nash|Wooden Ships|1969|_2e2kC-geMI|Crosby, Stills, Nash & Young|S5903",
-"The Jaynetts|Sally, Go 'Round the Roses|1963|icLLcMCoX08|The Jaynetts|S1078",
+"The Jaynetts|Sally, Go 'Round the Roses|1963|fz0w5_8GXZQ|The Jaynetts|S1078",
 "The Marcels|Blue Moon|1961|XV9dz_ZDIp0|The Marcels|S1127",
 "Fleetwood Mac|Don't Stop|1977|QV9JJmSCiI8|Fleetwood Mac|S6393",
 "Nat King Cole|(Get Your Kicks On) Route 66|1946|UCeGi6a-eK4|Nat King Cole|S2664",
