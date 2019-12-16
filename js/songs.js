@@ -4464,7 +4464,7 @@ const songs = [
 "Chuck Berry|Carol|1958|72_JQcup4ic|Chuck Berry|S1627",
 "Hüsker Dü|Sorry Somehow|1986|SjZWJoNYpHI|Hüsker Dü|S3488",
 "Robert Plant & Alison Krauss|Gone Gone Gone (Done Moved On)|2007|9YVRxAX6fwg|Alison Krauss|S8181",
-"Joan Baez|We Shall Overcome|1963|oY9_KE1SEig|Joan Baez|S1647",
+"Joan Baez|We Shall Overcome|1963|oY9_KE1SEig?start=7|Joan Baez|S1647",
 "Bright Eyes|Lua|2004|TSBs-hiapo4|Bright Eyes (band)|S4629",
 "Rick Ross|Hustlin'|2006|JU9TouRnO84|Rick Ross|S4029",
 "The Kinks|I'm Not Like Everybody Else|1966|4n5U-M7VUXE|The Kinks|S7122",
