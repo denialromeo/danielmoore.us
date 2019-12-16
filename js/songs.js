@@ -5633,7 +5633,7 @@ const songs = [
 "Loretta Lynn feat. Jack White|Portland, Oregon|2004|VuC_l3ymXhM|Loretta Lynn|S2458",
 "Jackie Wilson|Doggin' Around|1960|5EIaN0Wr4Zc|Jackie Wilson|S1166",
 "Madonna|Deeper and Deeper|1992|sJV29ZQIUhs|Madonna (entertainer)|S7371",
-"The Isley Brothers|Summer Breeze|1973|T88fbHOmvRk|The Isley Brothers|S2323",
+"The Isley Brothers|Summer Breeze|1973|BsVGbV_j2aY|The Isley Brothers|S2323",
 "The Cure|Disintegration|1989|BMOlZtpANa0|The Cure|S9197",
 "R.E.M.|Leaving New York|2004|wo6Vh4Uz7Sk|R.E.M.|S8064",
 "The Jam|All Around the World|1977|qv5gkJ424GE|The Jam|S1557",
