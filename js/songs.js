@@ -8547,7 +8547,7 @@ const songs = [
 "Ramones|Judy Is a Punk|1976|jotnGCDI_hc|Ramones|S12822",
 "Boris Vian|Je bois|1956|5qXkV1e6yZY|Boris Vian|S10273",
 "Clarence Carter|Making Love (At the Dark End of the...)|1969|ioFRJBxDhjg|Clarence Carter|S2850",
-"The Animals|It's My Life|1965|mJUI-NRDflU|The Animals|S3152",
+"The Animals|It's My Life|1965|HNzmrEgz_GI?start=33|The Animals|S3152",
 "Dinosaur Jr.|Just Like Heaven|1989|DqIXcMFbNUk|Dinosaur Jr.|S3099",
 "Elvis Costello and the Attractions|Tokyo Storm Warning|1986|s_B4x-JrW0s|Elvis Costello|S6249",
 "Third World|Now That We've Found Love|1978|tZpeg8Lx87k|Third World (band)|S8742",
