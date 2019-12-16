@@ -8859,7 +8859,7 @@ const songs = [
 "MGMT|It's Working|2010|JyaDTiXH3R4|MGMT|S11617",
 "Das Bo|Türlich, türlich (Sicher, dicker)|2000|n-AUUWKgCX4|https://de.wikipedia.org/wiki/Das_Bo|S14275",
 "Man Parrish|Hip Hop, Be Bop (Don't Stop)|1982|7tsfJn8YdwQ|Man Parrish|S11529",
-"The Three Johns|Death of the European|1985|KpLu17DaFOs|The Three Johns|S3903",
+"The Three Johns|Death of the European|1985|OZGSYjRsf5k|The Three Johns|S3903",
 "Clifford Brown & Max Roach|Daahoud|1954|lv4EarQxGMo|Clifford Brown|S15368",
 "The Shadows of Knight|Gloria|1966|YuTtFsWy0Oc|The Shadows of Knight|S2501",
 "Pet Shop Boys|I Don't Know What You Want But I Can't Give It Anymore|1999|rp8uNaon5B0|Pet Shop Boys|S7940",
