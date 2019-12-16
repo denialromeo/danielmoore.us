@@ -6195,7 +6195,7 @@ const songs = [
 "Les Rita Mitsouko|Le petit train|1988|Pn5X4_JCJgg|Les Rita Mitsouko|S11423",
 "The House of Love|Destroy the Heart|1988|5nza7AlHV5I|The House of Love|S310",
 "Bob Wills and His Texas Playboys|San Antonio Rose|1939|1nEof88_Rho|Bob Wills|S5566",
-"Waylon Jennings|Luckenbach, Texas (Back to the Basics of Love)|1977|xvZeYDBY4fw|Waylon Jennings|S1788",
+"Waylon Jennings|Luckenbach, Texas (Back to the Basics of Love)|1977|Ti6QV90X-Sk|Waylon Jennings|S1788",
 "tUnE-yArDs|Gangsta|2011|EbkMPHW67xM|Tune-Yards|S12484",
 "Barenaked Ladies|One Week|1998|fC_q9KPczAg|Barenaked Ladies|S5325",
 "Beastie Boys|Root Down|1994|Xf1YF_MH1xc|Beastie Boys|S5355",
