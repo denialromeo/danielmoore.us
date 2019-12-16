@@ -249,7 +249,7 @@ const songs = [
 "Frankie Goes to Hollywood|Relax|1983|7WZ33w3B8Hw|Frankie Goes to Hollywood|S462",
 "OutKast|Ms. Jackson|2000|MYxAiK6VnXw|Outkast|S1395",
 "Alice Cooper|School's Out|1972|3xyyBPQEntI?start=742|Alice Cooper|S796",
-"Bob Dylan|The Times They Are A-Changin'|1964|e7qQ6_RV4VQ|Bob Dylan|S1020",
+"Bob Dylan|The Times They Are a-Changin'|1964|e7qQ6_RV4VQ|Bob Dylan|S1020",
 "The Human League|Don't You Want Me|1981|uPudE8nDog0|The Human League|S516",
 "Steppenwolf|Born to Be Wild|1968|5UWRypqz5-o|Steppenwolf (band)|S911",
 "Motörhead|Ace of Spades|1980|sC7v3vpBpAs|Motörhead|S548",
