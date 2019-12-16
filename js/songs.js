@@ -10149,7 +10149,7 @@ const songs = [
 "Marcus Wiebusch|Der Tag wird kommen|2014|-qOg8E4Tzto|Marcus Wiebusch|S9696",
 "Marshall Crenshaw|Someday, Someway|1982|YKZkhdvSNSI|Marshall Crenshaw|S7441",
 "Ted Daffan's Texans|Born to Lose|1943|zmcpSyxdX5A|Ted Daffan|S8697",
-"Johnny Hallyday|Retiens la nuit|1961|0paUMNed8t4|Johnny Hallyday|S6981",
+"Johnny Hallyday|Retiens la nuit|1961|6P99T_R0EQw|Johnny Hallyday|S6981",
 "The Diodes|Tired of Waking Up Tired|1978|KjcK3EmNKcA|The Diodes|S6081",
 "Nancy Sinatra|Sundown, Sundown|1968|g6RAUdOc7bg|Nancy Sinatra|S9273",
 "Blumfeld|2 oder 3 Dinge, die ich von Dir weiß|1994|JQqE4WPWVJQ|Blumfeld|S5523",
