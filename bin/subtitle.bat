@@ -7,4 +7,4 @@
 @echo %filename0%
 @ffmpeg -i "%filename1%.srt" "%filename1%.ass"
 @ffmpeg -i %1 -vf ass="%filename1%.ass" "%filename0%_.mp4"
-@del *.ass
+@del "%filename1%.ass"

@@ -2269,7 +2269,7 @@ const songs = [
 "Jamie xx|Gosh|2015|hTGJfRPLe08|Jamie xx|S9786",
 "Foo Fighters|This Is a Call|1995|h-Rnr3wTX9I|Foo Fighters|S78",
 "Everclear|Santa Monica (Watch the World Die)|1995|MW6E_TNgCsY|Everclear (band)|S2124",
-"Donna Summer|Bad Girls|1979|NF46NnUn5nw|Donna Summer|S577",
+"Donna Summer|Bad Girls|1979|HzxW4eu9heY?start=9|Donna Summer|S577",
 "Air|Le soleil est près de moi|1997|ItidwkXHr5g|Air (band)|S2137",
 "Deep Purple|Child in Time|1970|PfAWReBmxEs|Deep Purple|S6016",
 "Luther Vandross|Never Too Much|1981|uv7y6PKEYms|Luther Vandross|S7354",
