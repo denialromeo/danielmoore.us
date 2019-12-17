@@ -7810,7 +7810,7 @@ const songs = [
 "Kasabian|Empire|2006|nVTEqG9enEY|Kasabian|S7055",
 "Nick Drake|At the Chime of a City Clock|1971|9qlNDTfecGY|Nick Drake|S11750",
 "Rufus Thomas|Do the Funky Chicken|1969|-95rBJkUt8M?start=326|Rufus Thomas|S12966",
-"The Black Crowes|She Talks to Angels|1990|8_5U0M9ErGA|The Black Crowes|S10187",
+"The Black Crowes|She Talks to Angels|1990|5FsmkMtW0pQ|The Black Crowes|S10187",
 "La Revolución De Emiliano Zapata|Nasty Sex|1970|GNs1oBw9_9U|La Revolución de Emiliano Zapata|S13537",
 "Daniel Balavoine|Le Chanteur|1978|Jcys3B3eBAI|Daniel Balavoine|S13435",
 "Dragon|April Sun in Cuba|1977|BHFFuukk9Y8|Dragon (band)|S6154",
