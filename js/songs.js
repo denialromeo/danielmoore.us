@@ -4055,7 +4055,7 @@ const songs = [
 "U2|Lemon|1993|LZTNBdKNUek|U2|S150",
 "Soda Stereo|Cuando pase el temblor|1985|ZNzYr4U7Zs8|Soda Stereo|S8476",
 "Meinrad Jungblut [PeterLicht]|Sonnendeck|2000|Ck6BCzMcKiE|PeterLicht|S7504",
-"Queen|You're My Best Friend|1975|HaZpZQG2z10|Queen (band)|S8042",
+"Queen|You're My Best Friend|1975|HaZpZQG2z10?start=5|Queen (band)|S8042",
 "Them|Here Comes the Night|1965|UbdA1_X913k|Them (band)|S8734",
 "Keane|Somewhere Only We Know|2004|Oextk-If8HQ|Keane (band)|S2484",
 "Otis Redding|Mr. Pitiful|1964|Azzk9bqkaeE|Otis Redding|S3751",
