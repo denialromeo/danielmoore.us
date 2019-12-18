@@ -1953,7 +1953,7 @@ const songs = [
 "Madness|House of Fun|1982|GJ2X9SANsME|Madness (band)|S487",
 "Nirvana|Where Did You Sleep Last Night|1994|CISzg6yi8YE|Kurt Cobain|S3668",
 "David Bowie|The Jean Genie|1972|kMYg_Ra4cr8|David Bowie|S5965",
-"Jackie DeShannon|What the World Needs Now Is Love|1965|YUaxVQPohlU|Jackie DeShannon|S3328",
+"Jackie DeShannon|What the World Needs Now Is Love|1965|IQ2SAtkEsqU|Jackie DeShannon|S3328",
 "A Tribe Called Quest|Can I Kick It?|1990|O3pyCGnZzYA|A Tribe Called Quest|S2021",
 "J.J. Cale|Cocaine|1976|wNUJSuO-lgw|J. J. Cale|S6814",
 "John Cougar Mellencamp|Pink Houses|1983|qOfkpu6749w|John Mellencamp|S1906",
