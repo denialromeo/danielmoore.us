@@ -7096,7 +7096,7 @@ const songs = [
 "The Rolling Stones|Mixed Emotions|1989|loNey3n6uuE|The Rolling Stones|S3773",
 "Claude Nougaro|O Toulouse|1967|Xpge7PshQT8|Claude Nougaro|S10428",
 "Paul Westerberg|Dyslexic Heart|1992|MVhBEtTSEcE|Paul Westerberg|S3948",
-"The Doors|Alabama Song (Whisky Bar)|1967|PAK5blgfKWM|The Doors|S10635",
+"The Doors|Alabama Song (Whisky Bar)|1967|rY1ZwubOOm0|The Doors|S10635",
 "W.H. Stepp|Bonaparte's Retreat|1937|1yeQucos9-M|William Hamilton Stepp|S9386",
 "America|Ventura Highway|1972|pgMaQy66oCw?start=10|America (band)|S9984",
 "Jacques Brel|Jacky|1965|EFG1QLCzICc|Jacques Brel|S14525",
