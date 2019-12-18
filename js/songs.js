@@ -88,7 +88,7 @@ const songs = [
 "Martha and the Vandellas|Dancing in the Street|1964|CdvITn5cAVc|Martha and the Vandellas|S1024",
 "The Specials|Ghost Town|1981|RZ2oXzrnti4|The Specials|S511",
 "The Band|The Weight|1968|sjCw3-YTffo|The Band|S912",
-"Jay-Z|99 Problems|2003|YohPxv9ekm8|Jay-Z|S2443",
+"Jay-Z|99 Problems|2003|6z-xP7E_zMU|Jay-Z|S2443",
 "Eddie Cochran|Summertime Blues|1958|In7z7B87Puc|Eddie Cochran|S1202",
 "Bruce Springsteen|Thunder Road|1975|x5kXnq5IjdU|Bruce Springsteen|S2590",
 "LCD Soundsystem|All My Friends|2007|aygY5OqMuKE|LCD Soundsystem|S4276",
