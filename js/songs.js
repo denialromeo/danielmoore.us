@@ -5691,7 +5691,7 @@ const songs = [
 "Warren Zevon|Lawyers, Guns and Money|1978|kZx_TokIHdI|Warren Zevon|S12550",
 "Bush|Everything Zen|1994|Ps317u9Rhl0|Bush (British band)|S10333",
 "Rockwell|Somebody's Watching Me|1984|7YvAYIJSSZY|Rockwell (musician)|S8195",
-"Michael Jackson|I Wanna Be Where You Are|1972|ZAtjdBgafrk?start=15|Michael Jackson|S7533",
+"Michael Jackson|I Wanna Be Where You Are|1972|ZAtjdBgafrk?start=8|Michael Jackson|S7533",
 "Band of Horses|Is There a Ghost|2007|JK716RqoUms|Band of Horses|S5312",
 "Bob Dylan|Man in the Long Black Coat|1989|LfGRvwBn7VU|Bob Dylan|S5554",
 "Barbara|Nantes|1964|dXqYRHOCA2Y?start=4|Barbara (singer)|S10075",
