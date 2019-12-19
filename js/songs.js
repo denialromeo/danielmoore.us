@@ -3866,7 +3866,7 @@ const songs = [
 "Queen Latifah|Ladies First|1989|8Qimg_q7LbQ|Queen Latifah|S2432",
 "DJ Shadow|Six Days|2002|eY-eyZuW_Uk|DJ Shadow|S2972",
 "Nazareth|Love Hurts|1974|G_1LP3Z6pW4|Nazareth (band)|S2324",
-"Ride|Leave Them All Behind|1992|gIsnb1TKYjE|Ride (band)|S9333",
+"Ride|Leave Them All Behind|1992|E2jRRXou_D4|Ride (band)|S9333",
 "Whodini|Friends|1984|yYv_GBHXLu4|Whodini|S2350",
 "The Music Machine|Talk Talk|1966|iZExWt-bj-k|The Music Machine|S3648",
 "Hot Chip|Huarache Lights|2015|9S0ONyRctyE|Hot Chip|S9779",
