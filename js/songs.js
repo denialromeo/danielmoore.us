@@ -9309,7 +9309,7 @@ const songs = [
 "Renato Zero|Il cielo|1977|nUecZsSBON0|Renato Zero|S13611",
 "The Bell Notes|I've Had It|1959|F-ut2rAx14I|The Bell Notes|S3207",
 "The Sensational Alex Harvey Band|The Faith Healer|1973|HqJ-ETSG4fs|The Sensational Alex Harvey Band|S13955",
-"Buck Owens|I've Got a Tiger By the Tail|1964|UGYE77y4qY4|Buck Owens|S2273",
+"Buck Owens|I've Got a Tiger By the Tail|1964|CVy8eJuk0gM?start=16|Buck Owens|S2273",
 "PJ Harvey|Big Exit|2000|W4kTMYhY2ds|PJ Harvey|S11917",
 "T.I.|Rubber Band Man|2003|xjDT3rMSQLQ|T.I.|S8666",
 "Balam Acab|Oh, Why|2011|Mg_oDxDoDMY|Balam Acab|S5306",
