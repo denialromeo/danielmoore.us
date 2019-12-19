@@ -87,7 +87,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#autobiographies}
 **Autobiographies**
 
-* [*400 Things Cops Know*](https://www.goodreads.com/notes/23481603-400-things-cops-know/71655209-daniel-moore) by Adam Plantinga (Police should be paid more.)
+* [*400 Things Cops Know*](https://www.goodreads.com/notes/23481603-400-things-cops-know/71655209-daniel-moore) by [Adam Plantinga](https://www.authorsguild.net/services/members/2836) (Police should be paid more.)
 * [*Revolutionary Suicide*](https://www.goodreads.com/notes/8176686-revolutionary-suicide/71655209-daniel-moore) by [Huey Newton](https://en.wikipedia.org/wiki/Huey_P._Newton) (Black Panther before it was cool.)
 * [*To Afghanistan and Back*](https://www.amazon.com/Afghanistan-Back-Graphic-Travelougue/dp/1561633259) by [Ted Rall](https://en.wikipedia.org/wiki/Ted_Rall) (U.S. foreign policy at the ground level.)
 * [*Two Arms and a Head*](http://www.2arms1head.com/) by [Clayton Schwartz](http://www.legacy.com/obituaries/greenwichtime/obituary.aspx?n=clayton-william-schwartz&pid=104371288) (Life with paraplegia.)
