@@ -8487,7 +8487,7 @@ const songs = [
 "Donny Hathaway|A Song for You|1971|HeHiio1sTTI|Donny Hathaway|S12782",
 "Kenny Rogers & the First Edition|Ruby, Don't Take Your Love to Town|1969|2ChPI5pAet8|Kenny Rogers and the First Edition|S4132",
 "Gladys Knight|License To Kill|1989|vQKaujX6R-U|Gladys Knight|S9231",
-"The Seekers|I'll Never Find Another You|1964|wZf41UudAbI|The Seekers|S8347",
+"The Seekers|I'll Never Find Another You|1964|wZf41UudAbI?start=13|The Seekers|S8347",
 "France Gall|Poupée de cire, poupée de son|1965|s5aeeSmkPwQ|France Gall|S10853",
 "Drangsal|Allan Align|2016|99o3AkxzTcQ|https://de.wikipedia.org/wiki/Drangsal_(Musiker)|S16078",
 "Wilson Pickett|Don't Knock My Love|1971|aZ0lwNceywE|Wilson Pickett|S14014",
