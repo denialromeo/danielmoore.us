@@ -41,7 +41,7 @@ permalink: random-acclaimed-song
 <script>
     const is_firefox = typeof(InstallTrigger) !== "undefined"
     const next_song = document.querySelector("#next-song")
-    next_song.innerHTML = is_firefox ? "Click <a href='/random-acclaimed-song' target='_self'>here</a> for another!" : "Refresh the page for another!"
+    next_song.innerHTML = is_firefox ? `Click <a href='${window.location.href}' target='_self'>here</a> for another!` : "Refresh the page for another!"
 
     function random(x) { return Math.floor(x * Math.random()) }
     function choice(a) { return a[random(a.length)] }
