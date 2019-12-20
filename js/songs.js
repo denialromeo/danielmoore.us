@@ -5396,7 +5396,7 @@ const songs = [
 "Mark Dinning|Teen Angel|1959|22oY2CuNCO4|Mark Dinning|S1169",
 "The Pointer Sisters|I'm So Excited|1982|8iwBM_YB1sE|The Pointer Sisters|S3710",
 "The Supremes|Stoned Love|1970|D2ce7FWOAM8|The Supremes|S8651",
-"Peter Frampton|Baby I Love Your Way|1975|m0nc-hh9viQ|Peter Frampton|S7945",
+"Peter Frampton|Baby I Love Your Way|1975|msoYc53rgTg|Peter Frampton|S7945",
 "Mama Cass with The Mamas and the Papas|Dream a Little Dream of Me|1968|MWZfKcYlefE|Cass Elliot|S7391",
 "Donna Summer|Last Dance|1978|A8xv1MXrwNc?start=28|Donna Summer|S6127",
 "The Waitresses|I Know What Boys Like|1982|bsneH0mOq-0|The Waitresses|S3925",
