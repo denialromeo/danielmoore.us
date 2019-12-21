@@ -9491,7 +9491,7 @@ const songs = [
 "Gary U.S. Bonds|School Is Out|1961|wnEbAcvMT9M|Gary U.S. Bonds|S6507",
 "Paramore|Still Into You|2013|OblL026SvD4|Paramore|S9501",
 "Toni Braxton|You're Makin' Me High|1996|wIgOL21S98o|Toni Braxton|S9380",
-"Il était une fois|J'ai encore rêvé d'elle|1975|r_ETEpuAYgo|Il était une fois|S11070",
+"Il était une fois|J'ai encore rêvé d'elle|1975|r_ETEpuAYgo|Il était une fois (band)|S11070",
 "Florence + The Machine|What the Water Gave Me|2011|am6rArVPip8|Florence and the Machine|S6409",
 "23 Skidoo|Coup|1983|zQADXqHKmEQ|23 Skidoo (band)|S5067",
 "Chance the Rapper feat. Kanye West and Chicago Children's Choir|All We Got|2016|awE6XAKh0sY|Chance the Rapper|S16054",
