@@ -3320,7 +3320,7 @@ const songs = [
 "Joanna Newsom|Peach, Plum, Pear|2004|KcHjAUhtSrk|Joanna Newsom|S4689",
 "Bruce Springsteen|The Promised Land|1978|XRdNwHmUiiQ|Bruce Springsteen|S5646",
 "Vince Taylor & The Playboys|Brand New Cadillac|1959|HvNHXbTL7Oc|Vince Taylor|S9040",
-"Harry J. Allstars|Liquidator|1969|OTn01jjEFfY|Harry J|S1711",
+"Harry J Allstars|Liquidator|1969|OTn01jjEFfY|Harry J|S1711",
 "Iron Maiden|The Trooper|1983|X4bgXH3sJ2Q|Iron Maiden|S6801",
 "Natalie Prass|My Baby Don't Understand Me|2015|rRg4WRJBqrk?start=12|Natalie Prass|S9819",
 "Count Basie's Kansas City Seven feat. Lester Young|Lester Leaps In|1939|tYw5_paQxTo|Count Basie|S2648",
