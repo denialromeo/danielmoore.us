@@ -5805,7 +5805,7 @@ const songs = [
 "Duncan Dhu|En algún lugar|1987|H1eAvX-8g08|Duncan Dhu|S10665",
 "Trio Matamoros|Lágrimas negras|1932|qeEqPWeWTAU|Trio Matamoros|S8850",
 "Ella Fitzgerald|Oh, Lady Be Good!|1947|mVBhDxnqGlE|Ella Fitzgerald|S13190",
-"Haddaway|What Is Love|1992|HEXWRTEbj1I|Haddaway|S9238",
+"Haddaway|What Is Love|1993|HEXWRTEbj1I|Haddaway|S9238",
 "The Blues Brothers|Everybody Needs Somebody To Love|1980|EHV0zs0kVGg|The Blues Brothers|S12932",
 "Panda Bear|Mr Noah|2014|CmXIIL2tmR8|Panda Bear (musician)|S9637",
 "The Beatles|No Reply|1964|YgFo9STa70E|The Beatles|S5365",
