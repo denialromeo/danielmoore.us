@@ -439,7 +439,7 @@ const songs = [
 "Funkadelic|One Nation Under a Groove|1978|3WOZwwRH6XU|Funkadelic|S603",
 "Foo Fighters|Everlong|1997|eBG7P-K-r1Y|Foo Fighters|S2142",
 "Caribou|Odessa|2010|Yq_tDOFU5tY|Dan Snaith|S4894",
-"Aerosmith|Walk This Way|1975|tA5A_AcBKvs|Aerosmith|S720",
+"Aerosmith|Walk This Way|1975|O3vdkQjiEDo|Aerosmith|S720",
 "The Gossip|Standing in the Way of Control|2006|yn043ArR98M|Gossip (band)|S4011",
 "Joan Jett and the Blackhearts|I Love Rock 'n Roll|1981|iC8oP4Z_xPw|Joan Jett|S497",
 "The Clash|Rock the Casbah|1982|bJ9r8LMU9bQ|The Clash|S488",
