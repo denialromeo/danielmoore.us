@@ -9520,7 +9520,7 @@ const songs = [
 "Clipse|Trill|2006|IGQr7Mevlzw|Clipse|S5836",
 "Fabrizio De André|Il pescatore|1970|ijEHZufmKU8|Fabrizio De André|S12986",
 "The Plan|Mon amour|2001|VGLQQrwIVs8?start=1817|The Plan (band)|S7977",
-"Billy Squier|The Stroke|1981|C_OGARBe6W0|Billy Squier|S5464",
+"Billy Squier|The Stroke|1981|69fPof-ZTnU?start=5|Billy Squier|S5464",
 "The Supermen Lovers|Starlight|2001|h61QG4s0I3U|The Supermen Lovers|S15090",
 "Cigarettes After Sex|K.|2016|dJFJfmYVZkg|Cigarettes After Sex|S16355",
 "Robert Charlebois|Ordinaire|1970|4479oU6exRU?start=3|Robert Charlebois|S13615",
