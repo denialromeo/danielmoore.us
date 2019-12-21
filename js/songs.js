@@ -3966,7 +3966,7 @@ const songs = [
 "The Morning Benders|Excuses|2010|7jgmgE-QDzA|Pop Etc|S4929",
 "Shep and the Limelites|Daddy's Home|1961|Y8DICjr5jBI|Shep and the Limelites|S2804",
 "A Flock of Seagulls|I Ran (So Far Away)|1982|iIpfWORQWhU|A Flock of Seagulls|S3127",
-"Earth, Wind & Fire|That's the Way of the World|1975|5vIIZydXDqg|Earth, Wind & Fire|S3386",
+"Earth, Wind & Fire|That's the Way of the World|1975|_R2RsP43rmg?start=121|Earth, Wind & Fire|S3386",
 "Silverchair|Tomorrow|1994|RZD982yrmx4|Silverchair|S12208",
 "Spike Jones|Der Fuehrer's Face|1942|lWF8iRCan7I|Spike Jones|S4872",
 "Howlin' Wolf|Killing Floor|1965|EGIE28q3fEA|Howlin' Wolf|S4093",
