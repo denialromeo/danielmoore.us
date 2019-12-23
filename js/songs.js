@@ -6451,7 +6451,7 @@ const songs = [
 "Frank Ocean|Pink + White|2016|uzS3WG6__G4|Frank Ocean|S16089",
 "Sniff 'n' The Tears|Driver's Seat|1978|9SCzVEUlqqA|Sniff 'n' the Tears|S12250",
 "Arab Strap|The First Big Weekend|1996|g9Krvl7AEAs|Arab Strap|S5222",
-"Bee Gees|Tragedy|1979|lk0alJGhSp0|Bee Gees|S5397",
+"Bee Gees|Tragedy|1979|WJcozEOWgxI|Bee Gees|S5397",
 "Redskins|Keep On Keeping On|1984|SibgDQWU85g|The Redskins|S1924",
 "Kenny Loggins|Footloose|1984|kK2hpeqkYjA|Kenny Loggins|S7087",
 "Tom Waits|Martha|1973|y9Mse62NFl4|Tom Waits|S4550",
