@@ -4529,7 +4529,7 @@ const songs = [
 "Badly Drawn Boy|Something to Talk About|2002|urmIrfnUyCw|Badly Drawn Boy|S5305",
 "Teenage Fanclub|Everything Flows|1990|edxUJAv5C0k|Teenage Fanclub|S236",
 "Bad Company|Feel Like Makin' Love|1975|TeZqjZ_kvLY|Bad Company|S10063",
-"Daryl Hall & John Oates|Rich Girl|1976|YKDO35K5-BA|Hall & Oates|S1800",
+"Daryl Hall & John Oates|Rich Girl|1977|YKDO35K5-BA|Hall & Oates|S1800",
 "Manic Street Preachers|Faster|1994|Y5PI7k_ZiQ0|Manic Street Preachers|S1539",
 "Mano Negra|Pas assez de toi|1989|eSxoxqDB0OI|Mano Negra (band)|S7406",
 "Lene Lovich|Lucky Number|1978|KnIJOO__jVo|Lene Lovich|S7228",
