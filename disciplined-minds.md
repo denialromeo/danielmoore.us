@@ -6,7 +6,7 @@ permalink: /disciplined-minds
 ---
 
 > Upon publication of [*Disciplined Minds*](https://www.amazon.com/dp/0742516857) [in 2000], the American Institute of Physics fired author Jeff Schmidt.  He&nbsp;had been on the editorial staff of *Physics Today* magazine for 19 years.
-<br> &mdash; **[disciplinedminds.tripod.com](http://disciplinedminds.tripod.com/)**
+<br> &mdash; **[disciplinedminds.com](http://disciplinedminds.tripod.com/)**
 
 <div id="random-excerpt"></div>
 
