@@ -3360,7 +3360,7 @@ const songs = [
 "Luomo|Tessio|2000|DeQchIQOL6I|Vladislav Delay|S4624",
 "Dennis Brown|Money In My Pocket|1972|12xjh7_usG8|Dennis Brown|S2598",
 "Girls Aloud|Biology|2005|bBPtP4t2J1k|Girls Aloud|S4645",
-"The Kingston Trio|Tom Dooley|1958|VhXuO4Gz3Wo|The Kingston Trio|S1230",
+"The Kingston Trio|Tom Dooley|1958|S3zdE8bliGI?start=30|The Kingston Trio|S1230",
 "The Rolling Stones|Shattered|1978|Jz1FUgGb_us|The Rolling Stones|S3776",
 "Miriam Makeba|Pata pata|1967|lNeP3hrm__k|Miriam Makeba|S11657",
 "Electronic|Getting Away with It|1989|DSfjtdnUsls|Electronic (band)|S2010",
