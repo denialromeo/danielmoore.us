@@ -498,7 +498,7 @@ const songs = [
 "The Righteous Brothers|Unchained Melody|1965|qiiyq2xrSI0|The Righteous Brothers|S1011",
 "Roy Orbison|Crying|1961|qLC9o_unLq4|Roy Orbison|S1114",
 "Cyndi Lauper|Girls Just Want to Have Fun|1983|PIb6AZdTr-A|Cyndi Lauper|S466",
-"The Supremes|You Can't Hurry Love|1966|7scbdxigicg|The Supremes|S987",
+"The Supremes|You Can't Hurry Love|1966|uZj032MNIx4|The Supremes|S987",
 "Aerosmith|Dream On|1973|sZfZ8uWaOFI|Aerosmith|S770",
 "The Band|The Night They Drove Old Dixie Down|1969|jREUrbGGrgM|The Band|S889",
 "The Hives|Hate to Say I Told You So|2000|Uz1Jwyxd4tE|The Hives|S1402",
