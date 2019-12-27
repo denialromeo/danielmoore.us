@@ -2615,7 +2615,7 @@ const songs = [
 "Goo Goo Dolls|Iris|1998|NdYWuo9OFAw|Goo Goo Dolls|S295",
 "Boris Vian|Le Déserteur|1955|gjndTXyk3mw|Boris Vian|S10276",
 "The Roots feat. Erykah Badu & Eve|You Got Me|1999|MJCHeEQV454|The Roots|S1357",
-"The Flaming Lips|Waitin' for a Superman|1999|aKiVSuDEF2c|The Flaming Lips|S4531",
+"The Flaming Lips|Waitin' for a Superman|1999|o0AOG7ciuJo|The Flaming Lips|S4531",
 "Nusrat Fateh Ali Khan|Mustt Mustt (Lost in His Work)|1990|SDfELfpumEE?start=45|Nusrat Fateh Ali Khan|S3535",
 "Gilbert Bécaud|Et maintenant|1961|hmSBAJdie7E|Gilbert Bécaud|S6562",
 "Foals|My Number|2012|QRR_pvZcu-o|Foals (band)|S9451",
