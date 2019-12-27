@@ -1694,7 +1694,7 @@ const songs = [
 "The Futureheads|Hounds of Love|2004|PbJmqIVHH8I|The Futureheads|S3010",
 "Mercury Rev|Goddess on a Hiway|1998|1xJbEoc5sDw|Mercury Rev|S285",
 "The Beatles|She Said She Said|1966|rLzfo59AdEc|The Beatles|S2508",
-"Shannon|Let the Music Play|1983|_-0sUuGufmw|Shannon|S474",
+"Shannon|Let the Music Play|1983|_-0sUuGufmw|Shannon (American singer)|S474",
 "Paul Whiteman & His Concert Orchestra with George Gershwin|Rhapsody in Blue|1924|Ng8QDwkKZsU|Paul Whiteman|S2684",
 "Sade|Smooth Operator|1984|4TYv2PhG89A|Sade (band)|S2348",
 "Pulp|Babies|1992|38by00DGid0|Pulp (band)|S4493",
