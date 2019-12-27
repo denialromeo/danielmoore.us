@@ -21,7 +21,7 @@ const songs = [
 "The Beach Boys|God Only Knows|1966|YHdi3zW78pg?start=2331|The Beach Boys|S978",
 "Led Zeppelin|Stairway to Heaven|1971|QkF3oxziUI4|Led Zeppelin|S2567",
 "Otis Redding|(Sittin' On) The Dock of the Bay|1968|rTVjnBo96Ug|Otis Redding|S902",
-"John Lennon|Imagine|1971|YkgkThdzX-8|John Lennon|S812",
+"John Lennon|Imagine|1971|YkgkThdzX-8?start=40|John Lennon|S812",
 "Grandmaster Flash and the Furious Five|The Message|1982|PobrSpMwKk4|Grandmaster Flash and the Furious Five|S481",
 "Sex Pistols|God Save the Queen|1977|bC4RFY8vtuM|Sex Pistols|S631",
 "David Bowie|Heroes|1977|lXgkuM2NhYI|David Bowie|S633",
