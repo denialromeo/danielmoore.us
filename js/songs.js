@@ -1042,7 +1042,7 @@ const songs = [
 "America|A Horse with No Name|1972|QRmvNMUEFZg|America (band)|S3149",
 "Curtis Mayfield|Superfly|1972|DAh_4s_-tas|Curtis Mayfield|S808",
 "Joe Cocker|With a Little Help from My Friends|1968|nCrlyX6XbTU|Joe Cocker|S917",
-"The Young Rascals|Good Lovin'|1966|1vWUM0m4AE4|The Rascals|S970",
+"The Young Rascals|Good Lovin'|1966|DknhW6Mu55Q|The Rascals|S970",
 "The Platters|Only You (And You Alone)|1955|3FygIKsnkCw|The Platters|S1292",
 "The Moody Blues|Nights in White Satin|1967|9muzyOd4Lh8|The Moody Blues|S939",
 "Blondie|Rapture|1980|pHCdS7O248g|Blondie (band)|S523",
