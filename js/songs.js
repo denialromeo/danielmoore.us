@@ -2569,7 +2569,7 @@ const songs = [
 "Mike Oldfield|Tubular Bells|1973|_86Gm9iclAg?start=3|Mike Oldfield|S1765",
 "Michael Jackson|Human Nature|1982|ujDSiL600nc|Michael Jackson|S7535",
 "Elvis Presley|Burning Love|1972|0SUC8sdP5eI|Elvis Presley|S4160",
-"R.E.M.|Shiny Happy People|1991|1H20W0e_oSM|R.E.M.|S208",
+"R.E.M.|Shiny Happy People|1991|2kLUaFeWiHA|R.E.M.|S208",
 "Bing Crosby|Brother Can You Spare a Dime|1932|0I8-CbJYGMA|Bing Crosby|S4352",
 "James Brown|Try Me|1958|6HYpxd4KRSM|James Brown|S1224",
 "The Imposter [Elvis Costello]|Pills & Soap|1983|aTn4qGHgzFE|Elvis Costello|S459",
