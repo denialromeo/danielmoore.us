@@ -4364,7 +4364,7 @@ const songs = [
 "Steve Winwood|While You See a Chance|1980|0j6g_uUhH2c|Steve Winwood|S8578",
 "B.B. King|Rock Me Baby|1964|OK_AwCjK0Ak|B.B. King|S3539",
 "Montell Jordan|This Is How We Do It|1995|0hiUuL5uTKc|Montell Jordan|S7601",
-"U2|Even Better Than the Real Thing|1991|Yrch66gdjjk|U2|S2045",
+"U2|Even Better Than the Real Thing|1991|aQsX08-viOA|U2|S2045",
 "Joe Tex|Hold What You've Got|1964|_GFq-FT1rZM|Joe Tex|S3075",
 "Queen|I Want to Break Free|1984|f4Mc-NYPHaQ?start=5|Queen (band)|S11973",
 "The Hives|Walk Idiot Walk|2004|ysGtBZX32I0|The Hives|S2448",
