@@ -66,7 +66,7 @@ const songs = [
 "Eagles|Hotel California|1976|qMYhayrx9Ec|Eagles (band)|S632",
 "Derek and the Dominos|Layla|1970|TngViNw2pOo|Derek and the Dominos|S841",
 "Talking Heads|Once in a Lifetime|1980|5IsSpAOD6K8|Talking Heads|S518",
-"The Animals|The House of the Rising Sun|1964|XPZ0qqiiYiw|The Animals|S1025",
+"The Animals|The House of the Rising Sun|1964|4-43lLKaqBQ|The Animals|S1025",
 "The Jimi Hendrix Experience|All Along the Watchtower|1968|TLV4_xaYynY|Jimi Hendrix|S905",
 "Ben E. King|Stand by Me|1961|TYDkQgKgghc|Ben E. King|S1111",
 "The Smiths|How Soon Is Now?|1984|OztC_7nkAd8|The Smiths|S394",
