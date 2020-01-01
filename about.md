@@ -71,6 +71,9 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Cathedral and the Bazaar*](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) by [Eric Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond) (Parables from the Golden Age.)
 * [*Effective Python*](https://effectivepython.com/) by [Brett Slatkin](https://www.onebigfluke.com/) (Intermediate Parseltongue.)
 * [*Microserfs*](https://www.goodreads.com/notes/11483124-microserfs/71655209-daniel-moore) by [Douglas Coupland](https://en.wikipedia.org/wiki/Douglas_Coupland) (Understand working programmers.)
+{% comment %}
+* [*Shenzhen I/O*](https://store.steampowered.com/app/504210/SHENZHEN_IO/) by [Zach Barth](https://en.wikipedia.org/wiki/Zachtronics) (Intro to hardware.)
+{% endcomment %}
 
 (For more fun, check out [this list](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#readme) by the Free Ebook Foundation.)
 
