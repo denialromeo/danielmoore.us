@@ -8290,7 +8290,7 @@ const songs = [
 "Queen|Death on Two Legs|1975|kqVpk0qxmfA?start=8|Queen (band)|S11971",
 "Eddie Cochran|Sittin' in the Balcony|1957|yZ1BmskTE6A|Eddie Cochran|S4372",
 "Los Fabulosos Cadillacs|Mal bicho|1995|P_6V-JTGn_M|Los Fabulosos Cadillacs|S11472",
-"Liquid|Sweet Harmony|1991|RW4YfSxBeAw|Liquid|S11450",
+"Liquid|Sweet Harmony|1991|RW4YfSxBeAw|Liquid (musician)|S11450",
 "Ory's Sunshine Orchestra|Ory's Creole Trombone|1922|g88KV2sSWU8|Kid Ory|S13220",
 "Marvin Gaye|I'll Be Doggone|1965|eDqxyR4jpBc|Marvin Gaye|S7458",
 "The Ink Spots and Ella Fitzgerald|Into Each Life Some Rain Must Fall|1944|PJ9IaplRrm4|The Ink Spots|S6786",
