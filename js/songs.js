@@ -10200,7 +10200,7 @@ const songs = [
 "Jackson Browne|These Days|1973|WS-OIgpQJp4|Jackson Browne|S6826",
 "Electronic|Disappointed|1992|tUTJCIPsWwE|Electronic (band)|S6231",
 "Everything but the Girl|Wrong|1996|Ih7GCa3Hpww|Everything but the Girl|S6323",
-"Ash|Oh Yeah|1996|14Jnf3MGkwk|Ash (band)|S5251",
+"Ash|Oh Yeah|1996|-aPIXeAmpO8|Ash (band)|S5251",
 "La Bien Querida|De momento abril|2009|uCCVQ9ac9_4|La Bien Querida|S7162",
 "The Avett Brothers|I and Love and You|2009|T0eSpAgqrWo|The Avett Brothers|S4824",
 "Tocotronic|Kapitulation|2007|6nf-Vvi2FXI|Tocotronic|S8775",
