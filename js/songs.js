@@ -9498,7 +9498,7 @@ const songs = [
 "Radiohead|Bodysnatchers|2007|cAIHRIO73e8|Radiohead|S12000",
 "Monyaka|Go deh yaka|1983|zhnSNRP1KDs|Monyaka|S7602",
 "The Offspring|Gone Away|1997|40V9_1PMUGM|The Offspring|S14819",
-"Ennio Morricone|The Ecstasy of Gold|1966|nOr0na6mKJQ|Ennio Morricone|S12699",
+"Ennio Morricone|The Ecstasy of Gold|1966|ZNGe7iK1O-4|Ennio Morricone|S12699",
 "Amadou & Mariam|Le Réalité|2004|7O4lGQsf8Tw|Amadou & Mariam|S9982",
 "Woody Guthrie|Tom Joad|1940|I61U4Gob_MI|Woody Guthrie|S15198",
 "Kettcar|Landungsbrücken raus|2002|8eZ3AaiBnU0|Kettcar|S14618",
