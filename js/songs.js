@@ -3440,7 +3440,7 @@ const songs = [
 "The Weeknd|The Hills|2015|yzTuBuRdAyA|The Weeknd|S9855",
 "The Jesus and Mary Chain|Upside Down|1984|UnO41-rKUsc|The Jesus and Mary Chain|S3515",
 "Beyoncé feat. Jay-Z|Drunk In Love|2013|p1JPKLa-Ofc|Beyoncé|S9635",
-"Josh Wink|Higher State of Consciousness|1995|Y9gWA491H4U|Josh Wink|S82",
+"Josh Wink|Higher State of Consciousness|1995|uh8POlIHkSI|Josh Wink|S82",
 "Neil Young|Don't Let It Bring You Down|1970|F7letrMf_nE|Neil Young|S7682",
 "The Go-Betweens|Streets of Your Town|1988|iL2UQVInL6Y|The Go-Betweens|S6597",
 "The Chambers Brothers|Time Has Come Today|1967|CsBwBct0_5U|The Chambers Brothers|S3269",
