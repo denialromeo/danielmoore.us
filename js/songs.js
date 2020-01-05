@@ -115,7 +115,7 @@ const songs = [
 "Creedence Clearwater Revival|Fortunate Son|1969|zS3rNUYR8b0?start=911|Creedence Clearwater Revival|S875",
 "LCD Soundsystem|Losing My Edge|2002|HmrOHxS_cK0|LCD Soundsystem|S1509",
 "Black Sabbath|Paranoid|1970|0qanF-91aJo|Black Sabbath|S846",
-"The Beatles|She Loves You|1963|nGbWU8S3vzs|The Beatles|S1055",
+"The Beatles|She Loves You|1963|6RRwSI5I9EU|The Beatles|S1055",
 "Simon and Garfunkel|Bridge Over Troubled Water|1970|WrcwRt6J32o|Simon & Garfunkel|S843",
 "Carl Perkins|Blue Suede Shoes|1956|DRNyvO4QouY|Carl Perkins|S1616",
 "The Sugarhill Gang|Rapper's Delight|1979|rKTUAESacQM|The Sugarhill Gang|S578",
