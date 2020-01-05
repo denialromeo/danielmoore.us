@@ -107,6 +107,7 @@
 </script>
 <script>
   document.querySelectorAll("a").forEach(function(a) {
+    if (a.href.includes("#")) { return }
     if (a.href.includes("wikipedia")) { a.href += "#firstHeading" }
     else if (a.href.includes("amazon")) { a.href += "#productTitle" }
     else if (a.href.includes("discogs")) { a.href += "#page_content" }
