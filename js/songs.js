@@ -6234,7 +6234,7 @@ const songs = [
 "Pacific Gas & Electric|Are You Ready?|1970|x8jhRuZhkRI|Pacific Gas & Electric (band)|S7839",
 "Walter Huston|September Song|1938|E3mAT-4FdP4|Walter Huston|S4061",
 "Badfinger|Without You|1970|49dquH8tn6E|Badfinger|S4541",
-"Pat Metheny Group|Are You Going with Me?|1982|_4GyNmXHpIc|Pat Metheny Group|S11846",
+"Pat Metheny Group|Are You Going with Me?|1982|l4jIbLYE3gQ|Pat Metheny Group|S11846",
 "Mark Ronson feat. Amy Winehouse|Valerie|2007|bixuI_GV5I0|Mark Ronson|S7434",
 "Bruce Springsteen|Point Blank|1980|kX8M_1r0LDs|Bruce Springsteen|S5648",
 "The Kinks|Where Have All the Good Times Gone|1965|kGhTS6UTWj4|The Kinks|S7120",
