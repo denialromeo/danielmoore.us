@@ -7235,7 +7235,7 @@ const songs = [
 "Johnny Nash|Stir It Up|1972|Mh4Zm6YRHDk|Johnny Nash|S6989",
 "X|Johnny Hit and Run Paulene|1980|UoTWFQE1xp4|X (American band)|S9073",
 "Melissa Etheridge|Come to My Window|1993|FaY5-LGYJKc|Melissa Etheridge|S3395",
-"Cheryl Lynn|Got to Be Real|1978|tlCC1XojRzM|Cheryl Lynn|S10391",
+"Cheryl Lynn|Got to Be Real|1978|54HSk7-q960|Cheryl Lynn|S10391",
 "Vanessa Paradis|Be My Baby|1992|75hIaCsVKOw|Vanessa Paradis|S8927",
 "Mötley Crüe|Shout at the Devil|1983|tftf6fA9Gc8|Mötley Crüe|S11706",
 "Jenny Lewis|Just One of the Guys|2014|Irvcf6dCk-k|Jenny Lewis|S9624",
