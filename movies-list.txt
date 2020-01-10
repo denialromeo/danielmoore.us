@@ -102,7 +102,7 @@ encounters-at-the-end-of-the-world.mp4
 enter-the-dragon.mp4
 eraserhead.mp4
 et.mp4
-eternal-sunshine-spotless-mind.mp4
+eternal-sunshine-of-the-spotless-mind.mp4
 exorcist.mp4
 eyes-wide-shut.mp4
 falling-down.mp4
@@ -147,6 +147,7 @@ holes.mp4
 hoop-dreams.mp4
 hotel-mumbai.mp4
 how-the-grinch-stole-christmas.mp4
+hum-dil-de-chuke-sanam.mp4
 hustlers.mp4
 i-am-legend.mp4
 ikiru.mp4
@@ -167,6 +168,7 @@ jfk.mp4
 jungle-book.mp4
 juno.mp4
 jurassic-park.mp4
+kaho-naa-pyaar-hai.mp4
 karate-kid.mp4
 kill-bill.mp4
 kill-bill2.mp4
@@ -217,6 +219,7 @@ monkey-kingdom.mp4
 moon.mp4
 mulan.mp4
 mulholland-drive.mp4
+my-dinner-with-andre.mp4
 napoleon-dynamite.mp4
 natural-born-killers.mp4
 nausicaa-of-the-valley-of-the-wind.mp4
@@ -225,6 +228,8 @@ night-of-the-living-dead.mp4
 nightmare-on-elm-street.mp4
 no-country-for-old-men.mp4
 north-by-northwest.mp4
+nosferatu.mp4
+notorious.mp4
 office-space.mp4
 old-yeller.mp4
 oldboy.mp4
@@ -300,6 +305,7 @@ star-wars.mp4
 star-wars2.mp4
 star-wars3.mp4
 steamboat-bill-jr.mp4
+steel-magnolias.mp4
 still-bill.mp4
 sunset-boulevard.mp4
 sunset-limited.mp4
