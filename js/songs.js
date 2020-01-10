@@ -2476,7 +2476,7 @@ const songs = [
 "Sky Ferreira|Everything Is Embarrassing|2012|rEamE0MYPkg|Sky Ferreira|S5037",
 "The Shangri-Las|I Can Never Go Home Anymore|1965|dYdr-MslXkw|The Shangri-Las|S1673",
 "LL Cool J|Rock the Bells|1985|ZyswjkZJugI|LL Cool J|S411",
-"Anita Ward|Ring My Bell|1979|URAqnM1PP5E|Anita Ward|S1824",
+"Anita Ward|Ring My Bell|1979|vsBak0oCgdY|Anita Ward|S1824",
 "Metallica|Seek and Destroy|1983|NJzoBmVPeYw|Metallica|S7525",
 "Eagles|Life in the Fast Lane|1976|fR07Jku_MA4|Eagles (band)|S2330",
 "Lou Reed|Dirty Blvd|1989|HA4-4ifhixg|Lou Reed|S2005",
