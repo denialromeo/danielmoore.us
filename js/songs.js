@@ -3777,7 +3777,7 @@ const songs = [
 "The B-52's|Private Idaho|1980|yXmnmvDl-ao|The B-52's|S3160",
 "Lisa Lisa & Cult Jam with Full Force|I Wonder if I Take You Home|1985|UJLhG8YKbII|Lisa Lisa and Cult Jam|S407",
 "Ted Nugent|Cat Scratch Fever|1977|I47floRRAFs|Ted Nugent|S8699",
-"Salt 'N' Pepa with En Vogue|Whatta Man|1993|jsBt4QNIjV4|Salt-N-Pepa|S104",
+"Salt 'N' Pepa with En Vogue|Whatta Man|1993|Zi_QGW0VVeI|Salt-N-Pepa|S104",
 "Nat King Cole|Mona Lisa|1950|NIDX18Xl16s|Nat King Cole|S2765",
 "Gerry Mulligan|Bernie's Tune|1952|W985hWD5KYg|Gerry Mulligan|S10933",
 "Chromatics|I Can Never Be Myself When You're Around|2015|niO_nFMJt-E|Chromatics (band)|S9724",
