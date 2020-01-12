@@ -8135,7 +8135,7 @@ const songs = [
 "Ronnie Hawkins|Who Do You Love|1963|IYPVyJwzerM|Ronnie Hawkins|S8241",
 "The Beatles|Oh! Darling|1969|9BznFjbcBVs|The Beatles|S10114",
 "The Vaccines|Teenage Icon|2012|bFUKrsDDChE|The Vaccines|S8905",
-"Kokomo Arnold|Milk Cow Blues|1934|B944jMtu6Qc|Kokomo Arnold|S13536",
+"Kokomo Arnold|Milk Cow Blues|1934|B944jMtu6Qc?start=191|Kokomo Arnold|S13536",
 "The Wonder Stuff|The Size of a Cow|1991|lFwyuXXijS0|The Wonder Stuff|S3103",
 "Charly García|Cerca de la revolución|1984|hoZVYHyrIa4|Charly García|S10385",
 "Led Zeppelin|Four Sticks|1971|iJp27QMR2KU|Led Zeppelin|S11385",
