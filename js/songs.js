@@ -3844,7 +3844,7 @@ const songs = [
 "Johnny and the Hurricanes|Red River Rock|1959|76OSOg5E_HE|Johnny and the Hurricanes|S4381",
 "Barbara Lewis|Hello Stranger|1963|Yupq5dVNHlU|Barbara Lewis|S3560",
 "The Black Crowes|Hard to Handle|1990|mtLbE3IUY2U|The Black Crowes|S5480",
-"Tame Impala|The Less I Know The Better|2015|sBzrzS1Ag_g|Tame Impala|S9847",
+"Tame Impala|The Less I Know The Better|2015|sBzrzS1Ag_g?start=47|Tame Impala|S9847",
 "Harry Chapin|Cat's in the Cradle|1974|etundhQa724?start=65|Harry Chapin|S4596",
 "The Smiths|Reel Around the Fountain|1984|V04bUY5Kl8w|The Smiths|S4573",
 "Nelly|Country Grammar|2000|Y5qKNlcUwKs|Nelly|S1392",
