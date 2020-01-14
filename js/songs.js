@@ -1402,7 +1402,7 @@ const songs = [
 "A Tribe Called Quest|Scenario|1991|Q6TLWqn82J4|A Tribe Called Quest|S2059",
 "This Mortal Coil|Song to the Siren|1983|HFWKJ2FUiAQ|This Mortal Coil|S478",
 "Weezer|Undone - The Sweater Song|1994|LHQqqM5sr7g|Weezer|S3945",
-"Doug E. Fresh|The Show|1985|ZHvmKBeXKb4|Doug E. Fresh|S408",
+"Doug E. Fresh|The Show|1985|ybGjMXbZNEs|Doug E. Fresh|S408",
 "Fats Waller|Ain't Misbehavin'|1929|PSNPpssruFY|Fats Waller|S2755",
 "Kendrick Lamar|The Blacker the Berry|2015|VdPtVZDspIY|Kendrick Lamar|S9805",
 "The Drifters|Under the Boardwalk|1964|EPEqRMVnZNU|The Drifters|S1033",
