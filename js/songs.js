@@ -8478,7 +8478,7 @@ const songs = [
 "Dire Straits|Walk of Life|1985|Sys9LCUo-AU|Dire Straits|S10599",
 "The Bloodhound Gang|The Bad Touch|1999|xat1GVnl8-k|Bloodhound Gang|S2385",
 "Johnny Paycheck|Take This Job and Shove It|1977|gj2iGAifSNI|Johnny Paycheck|S13842",
-"Elvis Costello and the Attractions|Psycho|1981|PgE7vpec8pQ?start=191|Elvis Costello|S4194",
+"Elvis Costello and the Attractions|Psycho|1981|v-akyoO4MqI|Elvis Costello|S4194",
 "The Lumineers|Ho Hey|2012|zvCBSSwgtg4|The Lumineers|S7348",
 "Treacherous Three|The Body Rock|1980|KT6DNm5Z1hw|Treacherous Three|S3909",
 "Bloc Party|I Still Remember|2007|5R-9IgWD36A|Bloc Party|S10208",
