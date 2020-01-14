@@ -3973,7 +3973,7 @@ const songs = [
 "Black Rebel Motorcycle Club|Whatever Happened to My Rock and Roll (Punk Song)|2001|jdTmk-YyUKg|Black Rebel Motorcycle Club|S2225",
 "Yaeji|Raingurl|2017|_3T8KznhThQ|Yaeji|S16515",
 "Mory Kanté|Yé Ké Yé Ké|1987|bJNiMNUSrw8|Mory Kanté|S7609",
-"Tim Hardin|Reason to Believe|1966|mtatkBCoxSs?start=3|Tim Hardin|S3459",
+"Tim Hardin|Reason to Believe|1966|ECUpOxFnUK4?start=3|Tim Hardin|S3459",
 "I-F|Space Invaders Are Smoking Grass|1997|tIAZTV_sYtk|I-F|S30",
 "Jimmy Reed|Bright Lights, Big City|1961|xbzeKx2S6cA|Jimmy Reed|S1636",
 "The Beach Boys|Barbara Ann|1965|-zgcM6gchZo|The Beach Boys|S5342",
