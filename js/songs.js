@@ -9938,7 +9938,7 @@ const songs = [
 "Mel and Tim|Backfield in Motion|1969|X4qJYUHLtuU|Mel and Tim|S7506",
 "Ja Rule|Holla, Holla|1999|zdtxoTjqNf0|Ja Rule|S11098",
 "The Rolling Stones|Connection|1967|NPTwQXT4CSk|The Rolling Stones|S15834",
-"O.C. Smith|Little Green Apples|1968|aYOS36odkQg|O. C. Smith|S7777",
+"O.C. Smith|Little Green Apples|1968|HnhrBGzcN3Q|O. C. Smith|S7777",
 "U2|Two Hearts Beat As One|1983|uIuAFBRyjj4|U2|S8875",
 "Death|The Philosopher|1993|k_cn9TVSi2o|Death (metal band)|S15409",
 "Bloc Party|The Prayer|2007|ogE4qbkwYVI|Bloc Party|S5500",
