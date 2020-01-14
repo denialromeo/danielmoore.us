@@ -9272,7 +9272,7 @@ const songs = [
 "Adeva|Respect|1989|t21dMFdA0NU|Adeva|S1997",
 "Bobby Womack|Woman's Gotta Have It|1972|LxnAUobJD1Y|Bobby Womack|S4161",
 "Sputniks|Sputnik-Thema|1965|IkYnURgcmqg|https://de.wikipedia.org/wiki/Sputniks|S15056",
-"Syndicate of Sound|Little Girl|1966|g5XEdlJj9sc|Syndicate of Sound|S12389",
+"Syndicate of Sound|Little Girl|1966|d0nNPV8-tiA|Syndicate of Sound|S12389",
 "Moses Sumney|Lonely World|2016|fS63c-C-Rc4|Moses Sumney|S16153",
 "King Gizzard & The Lizard Wizard|Rattlesnake|2016|Q-i1XZc8ZwA|King Gizzard & the Lizard Wizard|S16421",
 "The Black Keys|Fever|2014|iZZUY32iCzU|The Black Keys|S10192",
