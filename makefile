@@ -46,3 +46,6 @@ s:
 
 chess:
 	cp ..\code\4462-chess-problems\chess-puzzle-player\dist\chess-puzzle-player.js .\js
+
+tv:
+	dir /a-d /b ..\tv > movies-list.txt
