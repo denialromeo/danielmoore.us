@@ -36,6 +36,7 @@ batman-beyond.mp4
 batman.mp4
 battleship-potemkin.mp4
 beauty-and-the-beast.mp4
+being-john-malkovich.mp4
 ben-hur.mp4
 beverly-hills-cop.mp4
 big-lebowski.mp4
@@ -46,6 +47,7 @@ birth-of-a-nation.mp4
 black-panther.mp4
 blackkklansman.mp4
 blade-runner.mp4
+blair-witch-project.mp4
 blazing-saddles.mp4
 blue-velvet.mp4
 bone-tomahawk.mp4
@@ -81,6 +83,7 @@ cool-hand-luke.mp4
 crash.mp4
 crazy-rich-asians.mp4
 crumb.mp4
+dancer-in-the-dark.mp4
 dances-with-wolves.mp4
 dark-knight.mp4
 dawn-of-the-dead.mp4
@@ -109,10 +112,12 @@ exorcist.mp4
 eyes-wide-shut.mp4
 falling-down.mp4
 fantasia.mp4
+fantastic-mr-fox.mp4
 fargo.mp4
 ferris-bueller's-day-off.mp4
 flags-of-our-fathers.mp4
 flight.mp4
+fly.mp4
 forrest-gump.mp4
 french-connection.mp4
 friday.mp4
@@ -141,6 +146,8 @@ greed.mp4
 green-mile.mp4
 grizzly-man.mp4
 groundhog-day.mp4
+halloween.mp4
+hands-on-a-hard-body.mp4
 happy-feet.mp4
 hate-u-give.mp4
 hateful-eight.mp4
@@ -148,6 +155,7 @@ heaven-and-earth.mp4
 hidden-fortress.mp4
 high-noon.mp4
 holes.mp4
+home-alone.mp4
 hoop-dreams.mp4
 hotel-mumbai.mp4
 how-the-grinch-stole-christmas.mp4
@@ -167,6 +175,8 @@ interstella-5555.mp4
 iron-giant.mp4
 iron-man.mp4
 it's-a-wonderful-life.mp4
+it.mp4
+it2.mp4
 jackie-brown.mp4
 jaws.mp4
 jfk.mp4
@@ -188,6 +198,8 @@ last-of-the-mohicans.mp4
 last-tango-in-paris.mp4
 late-spring.mp4
 lawrence-of-arabia.mp4
+les-miserables.mp4
+let-the-right-one-in.mp4
 letters-from-iwo-jima.mp4
 life-of-pi.mp4
 lincoln.mp4
@@ -240,6 +252,7 @@ natural-born-killers.mp4
 nausicaa-of-the-valley-of-the-wind.mp4
 night-of-the-hunter.mp4
 night-of-the-living-dead.mp4
+nightmare-before-christmas.mp4
 nightmare-on-elm-street.mp4
 no-country-for-old-men.mp4
 north-by-northwest.mp4
@@ -251,6 +264,7 @@ oldboy.mp4
 on-the-waterfront.mp4
 once-upon-a-time-in-hollywood.mp4
 one-flew-over-the-cuckoo's-nest.mp4
+padmaavat.mp4
 paprika.mp4
 pather-panchali.mp4
 paths-of-glory.mp4
@@ -282,11 +296,11 @@ robin-hood.mp4
 robocop.mp4
 rocky.mp4
 romeo-and-juliet.mp4
+rosemary's-baby.mp4
 saturday-night-fever.mp4
 saving-private-ryan.mp4
 scarface.mp4
 schindler's-list.mp4
-scooby-doo.mp4
 searchers.mp4
 seven-samurai.mp4
 seventh-seal.mp4
@@ -297,10 +311,13 @@ sherlock-jr.mp4
 shining.mp4
 shoah.mp4
 shoah2.mp4
+sholay.mp4
 shot-caller.mp4
 showgirls.mp4
 shrek.mp4
 silence-of-the-lambs.mp4
+sinbad.mp4
+sinbad.srt
 singin'-in-the-rain.mp4
 sixteen-candles.mp4
 sixth-sense.mp4
@@ -313,9 +330,12 @@ sorry-to-bother-you.mp4
 sound-of-music.mp4
 soylent-green.mp4
 spartacus.mp4
+spiderman-into-the-spiderverse.mp4
 spiderman.mp4
 spiderman2.mp4
+spiderman3.mp4
 spirited-away.mp4
+split.mp4
 stagecoach.mp4
 stalker.mp4
 stand-by-me.mp4
@@ -324,6 +344,7 @@ star-wars2.mp4
 star-wars3.mp4
 steamboat-bill-jr.mp4
 steel-magnolias.mp4
+stepford-wives.mp4
 still-bill.mp4
 streetcar-named-desire.mp4
 sunset-boulevard.mp4
@@ -336,6 +357,7 @@ sword-in-the-stone.mp4
 synecdoche-new-york.mp4
 tarzan.mp4
 taxi-driver.mp4
+team-america-world-police.mp4
 ten-commandments.mp4
 terminator.mp4
 terminator2.mp4
@@ -355,12 +377,15 @@ training-day.mp4
 trainspotting.mp4
 treasure-of-the-sierra-madre.mp4
 truman-show.mp4
+unbreakable.mp4
 unforgiven.mp4
 unplanned.mp4
+us.mp4
 usual-suspects.mp4
 vertigo.mp4
 waking-life.mp4
 walkabout.mp4
+watchmen.mp4
 waterworld.mp4
 west-side-story.mp4
 what's-opera-doc.mp4
