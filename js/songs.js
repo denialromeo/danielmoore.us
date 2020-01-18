@@ -3131,7 +3131,7 @@ const songs = [
 "Kendrick Lamar|Bitch, Don't Kill My Vibe|2012|GF8aaTu2kg0|Kendrick Lamar|S5022",
 "Method Man|Bring the Pain|1994|T0BlXy3Roj4|Method Man|S4221",
 "Steely Dan|Peg|1977|LI7NDDQLvbo|Steely Dan|S8556",
-"Tom Cochrane|Life Is a Highway|1991|BUzlBP01Nzg|Tom Cochrane|S3287",
+"Tom Cochrane|Life Is a Highway|1991|U3sMjm9Eloo|Tom Cochrane|S3287",
 "Fred Neil|Everybody's Talkin'|1966|V61hplKFVNc|Fred Neil|S3657",
 "Gordon Lightfoot|The Wreck of The Edmund Fitzgerald|1976|UKJNBxDCMIs|Gordon Lightfoot|S3563",
 "The J. Geils Band|Centerfold|1981|BqDjMZKf-wg|The J. Geils Band|S6810",
