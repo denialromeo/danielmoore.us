@@ -10220,7 +10220,7 @@ const songs = [
 "Out Hud|Hair Dude, You're Stepping on My Mystique|2002|9XJ_qx0CkRs|Out Hud|S7832",
 "Arctic Monkeys|Mardy Bum|2006|Lp1fQ51YZMM|Arctic Monkeys|S9133",
 "Doble Pletina|Música para cerrar las discotecas|2011|WG1rXPyZzRM|https://www.discogs.com/artist/2454003-Doble-Pletina|S6115",
-"Sonic Youth|Into the Groove(y)|1986|EUCLoPFvNKY|Sonic Youth|S1950",
+"Sonic Youth|Into the Groove(y)|1986|pjiZ0-y82_0|Sonic Youth|S1950",
 "Antony and the Johnsons|Another World|2009|5qkfAc_6dv0|Antony and the Johnsons|S5217",
 "Ciara|Promise|2006|UcGWy7xUZQE|Ciara|S5815",
 "Johnny Mercer|Zip-A-Dee-Doo-Dah|1946|4rkEtnhf0J4|Johnny Mercer|S4595",
