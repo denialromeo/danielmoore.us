@@ -4293,7 +4293,7 @@ const songs = [
 "Indigo Girls|Closer to Fine|1989|HUgwM1Ky228|Indigo Girls|S3496",
 "Gram Parsons with Emmylou Harris|Love Hurts|1974|4fCTZ0ZnD44|Gram Parsons|S6625",
 "Enanitos Verdes|Lamento Boliviano|1994|0A0d5f1eNhQ|Enanitos Verdes|S6283",
-"Ricky Nelson|Travelin' Man|1961|0janfcZ8LUw|Ricky Nelson|S3658",
+"Ricky Nelson|Travelin' Man|1961|k0vFdCdNQP4|Ricky Nelson|S3658",
 "The Jam|The Modern World|1977|8dB-OMDwoO0|The Jam|S6839",
 "The Stone Roses|Waterfall|1989|7NrLBlw9WZE|The Stone Roses|S8593",
 "Danger Mouse|99 Problems|2004|kxW6e1jgt5Q|Danger Mouse (musician)|S10492",
