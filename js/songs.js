@@ -6188,7 +6188,7 @@ const songs = [
 "Renaud|Mistral gagnant|1985|_YqzuE-5RE8|Renaud|S8136",
 "Kula Shaker|Tattva|1996|2bYj2o7y4rk|Kula Shaker|S56",
 "Gladys Knight and the Pips|I've Got to Use My Imagination|1973|jLKSZ0ehHNA?start=9|Gladys Knight & the Pips|S6577",
-"Anna Karina|Sous le soleil exactement|1967|AvYd37BpXD0?start=1|Anna Karina|S5205",
+"Anna Karina|Sous le soleil exactement|1967|AvYd37BpXD0?start=2|Anna Karina|S5205",
 "Eddie Kendricks|Girl You Need a Change of Mind|1972|gfyJbXn01HM|Eddie Kendricks|S12784",
 "Kraftwerk|Computerwelt / Computer World|1981|fa7WrCqsTC0|Kraftwerk|S11346",
 "The Beach Boys|Sail On, Sailor|1973|Zx6dgEgbMNU|The Beach Boys|S5350",
