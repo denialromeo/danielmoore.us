@@ -9524,7 +9524,7 @@ const songs = [
 "The Supermen Lovers|Starlight|2001|h61QG4s0I3U|The Supermen Lovers|S15090",
 "Cigarettes After Sex|K.|2016|dJFJfmYVZkg|Cigarettes After Sex|S16355",
 "Robert Charlebois|Ordinaire|1970|4479oU6exRU?start=3|Robert Charlebois|S13615",
-"Adele|Rumour Has It|2011|g6R_IKOUwIo|Adele|S15230",
+"Adele|Rumour Has It|2011|g6R_IKOUwIo?start=29|Adele|S15230",
 "Air|Radio #1|2001|FIbSXIdxSkA|Air (band)|S2208",
 "Indiana|Solo Dancing|2014|WSrktmE963I|Indiana (singer)|S9670",
 "Pink Floyd|High Hopes|1994|7jMlFXouPk8|Pink Floyd|S11907",
