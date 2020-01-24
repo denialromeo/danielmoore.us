@@ -2508,7 +2508,7 @@ const songs = [
 "Jane's Addiction|Jane Says|1988|Z0hFQdEUQKM|Jane's Addiction|S2629",
 "Madness|One Step Beyond|1979|SOJSM46nWwo|Madness (band)|S2340",
 "Alain Bashung|La nuit je mens|1998|qAfmdtS7QHo|Alain Bashung|S5138",
-"Townes Van Zandt|Waitin' Around to Die|1968|v-Rq-4spRz4?start=50|Townes Van Zandt|S12475",
+"Townes Van Zandt|Waitin' Around to Die|1968|XLggZsgDxhk|Townes Van Zandt|S12475",
 "The Monotones|Book of Love|1957|qIfuNPbBaaA|The Monotones|S1225",
 "Suede|Trash|1996|-PdKGDMhau4|Suede (band)|S39",
 "Kate Bush|The Man with the Child in His Eyes|1978|NAj8suae3WY|Kate Bush|S4436",
