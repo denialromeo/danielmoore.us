@@ -703,7 +703,7 @@ const songs = [
 "Santogold|L.E.S. Artistes|2008|cz0Qb5ws98k|Santigold|S4745",
 "Gil Scott-Heron|The Revolution Will Not Be Televised|1971|QnJFhuOWgXg|Gil Scott-Heron|S4170",
 "Battles|Atlas|2007|IpGp-22t0lU|Battles (band)|S4277",
-"Sam the Sham and the Pharaohs|Wooly Bully|1965|uE_MpQhgtQ8|Sam the Sham|S999",
+"Sam the Sham and the Pharaohs|Wooly Bully|1965|GxZm0-IBnto|Sam the Sham|S999",
 "Cee Lo Green|Fuck You!|2010|pc0mxOXbWIU|CeeLo Green|S4895",
 "Pavement|Summer Babe|1991|cMjlhIWxfFI|Pavement (band)|S209",
 "Bloc Party|Banquet|2004|vdkmhquF60o|Bloc Party|S2477",
