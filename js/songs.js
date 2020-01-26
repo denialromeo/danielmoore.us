@@ -1094,7 +1094,7 @@ const songs = [
 "Jane's Addiction|Been Caught Stealing|1990|jrwjiO1MCVs|Jane's Addiction|S226",
 "Frank Ocean|Chanel|2017|XnbsIl2BnWw|Frank Ocean|S16380",
 "Bronski Beat|Smalltown Boy|1984|88sARuFu-tc|Bronski Beat|S433",
-"Foreigner|I Want to Know What Love Is|1984|raNGeq3_DtM|Foreigner (band)|S431",
+"Foreigner|I Want to Know What Love Is|1984|r3Pr1_v7hsw|Foreigner (band)|S431",
 "Prince and the Revolution|Raspberry Beret|1985|l7vRSu_wsNc|Prince (musician)|S403",
 "Destiny's Child|Say My Name|1999|sQgd6MccwZc|Destiny's Child|S1389",
 "The Cure|Pictures of You|1989|X8UR2TFUp8w|The Cure|S2422",
