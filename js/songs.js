@@ -2275,7 +2275,7 @@ const songs = [
 "Luther Vandross|Never Too Much|1981|uv7y6PKEYms|Luther Vandross|S7354",
 "Deerhunter|Desire Lines|2010|aW2jOA6uIaM|Deerhunter|S4898",
 "Pink Floyd|Us and Them|1973|deU_uwlNpOo|Pink Floyd|S775",
-"Sister Sledge|Lost in Music|1979|43qB9FpfCR8|Sister Sledge|S1834",
+"Sister Sledge|Lost in Music|1979|TSroXhI2uZs|Sister Sledge|S1834",
 "The Who|05:15|1973|XC9YY1urT8Q?start=26|The Who|S1751",
 "The Chi-Lites|Oh Girl|1972|iaBC5BUh3BM|The Chi-Lites|S792",
 "Spoon|The Underdog|2007|7v0KCoPMTdU|Spoon (band)|S4303",
