@@ -7080,7 +7080,7 @@ const songs = [
 "De La Soul|Stakes Is High|1996|tzOOCnkUlnA|De La Soul|S10543",
 "Hum|Stars|1995|gMEB4HNNZ2I|Hum (band)|S6752",
 "Dominique A|Pour la peau|2001|Le30vnYwdqU|Dominique A|S10626",
-"Foreigner|Juke Box Hero|1981|fr6KVNt-1Ek|Foreigner (band)|S10844",
+"Foreigner|Juke Box Hero|1981|Ic02W1bWeFU|Foreigner (band)|S10844",
 "Elastica|Line Up|1994|g7Y7vH2XsAM|Elastica|S6219",
 "R. Kelly feat. T.I. and T-Pain|I'm a Flirt (Remix)|2007|rPr4F8dplFg|R. Kelly|S4297",
 "Duane Eddy|Peter Gunn|1959|296wS9ome4M|Duane Eddy|S1187",
