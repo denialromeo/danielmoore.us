@@ -3242,7 +3242,7 @@ const songs = [
 "Jim Croce|Time in a Bottle|1972|3_ZS56qzJLs?start=2968|Jim Croce|S3309",
 "Curtis Mayfield|(Don't Worry) If There's a Hell Below We're All Going to Go|1970|nGR0StlDe14|Curtis Mayfield|S1722",
 "Queen|Don't Stop Me Now|1978|HgzGwKwLmgM?start=5|Queen (band)|S8044",
-"Jorge Ben|Taj Mahal [1976 version]|1976|rfrpOhC6858|Jorge Ben|S7004",
+"Jorge Ben|Taj Mahal|1976|rfrpOhC6858|Jorge Ben|S7004",
 "Titus Andronicus|A More Perfect Union|2010|dFHlK8ZXgvE|Titus Andronicus (band)|S4932",
 "Bill Monroe|Mule Skinner Blues|1940|lIuuI00XY_Y|Bill Monroe|S2722",
 "Mink DeVille|Spanish Stroll|1977|z_gEPGucoRg|Mink DeVille|S4434",
