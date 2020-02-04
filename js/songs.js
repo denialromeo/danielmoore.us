@@ -9507,7 +9507,7 @@ const songs = [
 "Beastie Boys|Make Some Noise|2011|WdgLMslbDuY|Beastie Boys|S5358",
 "Sidney Bechet & Claude Luter|Petite Fleur|1952|wMwckuWpxDs|Sidney Bechet|S15868",
 "Bob Dylan|When I Paint My Masterpiece|1971|lZQ69w8NmxI|Bob Dylan|S10247",
-"Lil Wayne|Georgia...Bush|2006|wkA3p3YqH9U|Lil Wayne|S7263",
+"Lil Wayne|Georgia Bush|2006|wkA3p3YqH9U|Lil Wayne|S7263",
 "Paolo Conte|Max|1987|dSIg58v0Epc|Paolo Conte|S7845",
 "Charles Aznavour|Emmenez-moi|1968|ieYQKS9-Is0|Charles Aznavour|S13421",
 "Roxanne Shanté|Roxanne's Revenge|1984|0eckRNcHCKA|Roxanne Shante|S12724",
