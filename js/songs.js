@@ -3754,7 +3754,7 @@ const songs = [
 "Madness|It Must Be Love|1981|vmezIIrFQmY|Madness (band)|S1875",
 "The Beatles|The Ballad of John and Yoko|1969|v-1OgNqBkVE|The Beatles|S5381",
 "The Left Banke|Pretty Ballerina|1966|BHt7rfySxqk|The Left Banke|S7218",
-"Cat Stevens|Wild World|1970|Jta56wBl7SM|Cat Stevens|S5737",
+"Cat Stevens|Wild World|1970|Jta56wBl7SM?start=21|Cat Stevens|S5737",
 "Console|14 Zero Zero|1999|JuP_lrfciHU|Console (musician)|S2171",
 "The Avalanches|Frankie Sinatra|2016|SjfspM5sDIA|The Avalanches|S16197",
 "The Romantics|What I Like About You|1979|Rqnw5IfbZOU|The Romantics|S3781",
