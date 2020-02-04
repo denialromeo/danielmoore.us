@@ -49,7 +49,7 @@ const songs = [
 "Led Zeppelin|Whole Lotta Love|1969|HQmmM_qwG4k|Led Zeppelin|S885",
 "The Smiths|There Is a Light That Never Goes Out|1986|4WPZMhFa84U|The Smiths|S354",
 "Gnarls Barkley|Crazy|2006|-N4jf6rtyuw|Gnarls Barkley|S3054",
-"David Bowie|Space Oddity|1969|iYYRH4apXDo|David Bowie|S873",
+"David Bowie|Space Oddity|1969|iYYRH4apXDo?start=12|David Bowie|S873",
 "Lou Reed|Walk on the Wild Side|1972|yOoXjYppyMM?start=3129|Lou Reed|S781",
 "Donna Summer|I Feel Love|1977|Nm-ISatLDG0|Donna Summer|S648",
 "The Byrds|Mr. Tambourine Man|1965|NyOzGPbn2tg|The Byrds|S997",
