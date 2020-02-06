@@ -6703,7 +6703,7 @@ const songs = [
 "Redbone|Come and Get Your Love|1973|OnJqFrVD3uE|Redbone (band)|S3747",
 "Massive Attack|Hymn of the Big Wheel|1991|TYtWyhNC2Os|Massive Attack|S7468",
 "The Lovin' Spoonful|Darling Be Home Soon|1967|pAur4CWJIPw|The Lovin' Spoonful|S2284",
-"Nino Ferrer|Mirza|1965|tv3q1U9xSuU|Nino Ferrer|S11769",
+"Nino Ferrer|Mirza|1965|u5XwT6fc_Gg|Nino Ferrer|S11769",
 "Neil Diamond|Girl, You'll Be a Woman Soon|1967|jk3YTcIOU6I|Neil Diamond|S2835",
 "Daft Punk feat. Pharrell Williams|Lose Yourself to Dance|2013|NF-kLy44Hls|Daft Punk|S9427",
 "Archie Roach|Took the Children Away|1990|aywDT6yHMmo|Archie Roach|S10017",
