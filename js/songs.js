@@ -2264,7 +2264,7 @@ const songs = [
 "Diana Ross and the Supremes|Love Child|1968|fFg-2UrUTUc|The Supremes|S3874",
 "Chromatics|Kill for Love|2011|c0mxXrHowHQ|Chromatics (band)|S5005",
 "Spinners|Could It Be I'm Falling in Love|1972|nVGagFVhbAw|The Spinners (American R&B group)|S1554",
-"Prince Buster|Al Capone|1965|l1lSIIOQ1Ck|Prince Buster|S8017",
+"Prince Buster|Al Capone|1965|OaDx6_-WbLs|Prince Buster|S8017",
 "Body Count|Cop Killer|1992|LH8gUhDd6WE|Body Count (band)|S3224",
 "Jamie xx|Gosh|2015|hTGJfRPLe08|Jamie xx|S9786",
 "Foo Fighters|This Is a Call|1995|h-Rnr3wTX9I|Foo Fighters|S78",
