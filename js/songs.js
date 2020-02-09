@@ -25,7 +25,7 @@ const songs = [
 "Grandmaster Flash and the Furious Five|The Message|1982|PobrSpMwKk4|Grandmaster Flash and the Furious Five|S481",
 "Sex Pistols|God Save the Queen|1977|bC4RFY8vtuM|Sex Pistols|S631",
 "David Bowie|Heroes|1977|lXgkuM2NhYI|David Bowie|S633",
-"OutKast|Hey Ya!|2003|PWgvGjAhvIw|Outkast|S2245",
+"OutKast|Hey Ya!|2003|PWgvGjAhvIw?start=66|Outkast|S2245",
 "The Kinks|You Really Got Me|1964|fTTsY-oz6Go|The Kinks|S1021",
 "Prince and the Revolution|When Doves Cry|1984|UG3VcCAlUgE|Prince (musician)|S421",
 "Little Richard|Tutti Frutti|1955|F13JNjpNW6c|Little Richard|S1296",
