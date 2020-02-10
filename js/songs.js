@@ -4520,7 +4520,7 @@ const songs = [
 "Brenda Holloway|Every Little Bit Hurts|1964|lfBXQhJ8yeM|Brenda Holloway|S3476",
 "Gang Starr|Jazz Thing|1990|3kg0mh3lu9Q|Gang Starr|S3436",
 "Lenny Kravitz|Always on the Run|1991|em8JuUW-OOE|Lenny Kravitz|S7230",
-"Sister Sledge|He's The Greatest Dancer|1978|1muhsasqIng|Sister Sledge|S4438",
+"Sister Sledge|He's the Greatest Dancer|1978|U-GcL1Cd5b4|Sister Sledge|S4438",
 "Clarence Carter|Patches|1970|ITFYEgCdI-0|Clarence Carter|S2296",
 "Wolf Alice|Don't Delete the Kisses|2017|WqxE-zppu30|Wolf Alice|S16513",
 "The Impressions|It's All Right|1963|KOmd-WkJrSI|The Impressions|S3495",
