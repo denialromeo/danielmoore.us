@@ -9076,7 +9076,7 @@ const songs = [
 "Cher|Alfie|1966|mQ3XsTmKzVk|Cher|S5774",
 "Emily Loizeau|L'autre bout du monde|2006|SiOMjzNUPvs|Emily Loizeau|S6273",
 "Gang of Four|Natural's Not In It|1979|ZCC_dVGIMDM|Gang of Four (band)|S6496",
-"Daughter|Youth|2011|VEpMj-tqixs|Daughter (band)|S10508",
+"Daughter|Youth|2011|2QT5eGHCJdE|Daughter (band)|S10508",
 "Neil Young and Crazy Horse|Sleeps with Angels|1994|4IS1Wir4KWg|Neil Young|S4224",
 "The Band|The Unfaithful Servant|1969|tODPH-3pofM|The Band|S5309",
 "Rata Blanca|La leyenda del hada y el mago|1990|4RveUP8fKA4|Rata Blanca|S13608",
