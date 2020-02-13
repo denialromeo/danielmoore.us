@@ -3112,7 +3112,7 @@ const songs = [
 "Cults|Go Outside|2010|eAM9diyVRiM|Cults (band)|S4952",
 "Taxi Girl|Cherchez le garçon|1980|BhTy8J0cBVI|Taxi Girl|S4450",
 "The Rolling Stones|Sister Morphine|1971|Q712oEHjlVA?start=71|The Rolling Stones|S3778",
-"The B-52's|Planet Claire|1979|47YAcpCa5dM|The B-52's|S5289",
+"The B-52's|Planet Claire|1979|ZFw0Q9zVb8k?start=17|The B-52's|S5289",
 "George Jones|White Lightning|1959|8E5WWX_40gs|George Jones|S1194",
 "Dolly Parton|9 to 5|1980|UbxUSsFXYo4|Dolly Parton|S3688",
 "Eric Clapton|Cocaine|1977|qYS732zyYfU|Eric Clapton|S6300",
