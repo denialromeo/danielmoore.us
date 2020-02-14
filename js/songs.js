@@ -2884,7 +2884,7 @@ const songs = [
 "David Bowie|John, I'm Only Dancing|1972|lmVVyhpuFRc|David Bowie|S5962",
 "Mike Jones feat. Slim Thug & Paul Wall|Still Tippin'|2004|PM7_V8Hxaqg|Mike Jones (rapper)|S3042",
 "Bob Seger & The Silver Bullet Band|Turn the Page|1973|GONmFCkCGCc|Bob Seger|S10258",
-"Commodores|Easy|1977|7XcTyEKSnYg|Commodores|S10452",
+"Commodores|Easy|1977|3DSVMDmzCcA?start=7|Commodores|S10452",
 "Stetsasonic|Talkin' All That Jazz|1988|2kdQ4soLcac|Stetsasonic|S320",
 "Van Halen|Panama|1984|fuKDBPw8wQA|Van Halen|S8917",
 "Depeche Mode|I Feel You|1993|iTKJ_itifQg|Depeche Mode|S6044",
