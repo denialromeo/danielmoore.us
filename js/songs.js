@@ -6038,7 +6038,7 @@ const songs = [
 "Lyres|Help You Ann|1983|7LqF5P3Fa84|Lyres (band)|S7359",
 "Section 25|Looking from a Hilltop|1984|WFwuJUeT9rU|Section 25|S8346",
 "Bentley Rhythm Ace|Bentley's Gonna Sort You Out|1997|3IWl77o3l50|Bentley Rhythm Ace|S2958",
-"The Normal|T.V.O.D.|1978|5-Yyifc6NgI|The Normal|S7772",
+"The Normal|T.V.O.D.|1978|5v7FZwyOdvU|The Normal|S7772",
 "Public Enemy|Can't Truss It|1991|am9BqZ6eA5c|Public Enemy (band)|S203",
 "George Michael|Fastlove|1996|SHAQlFq6TFg|George Michael|S2957",
 "Rush|Closer to the Heart|1977|quBCjo2rUZg|Rush (band)|S8274",
