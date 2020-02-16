@@ -8661,7 +8661,7 @@ const songs = [
 "Commodores|Machine Gun|1974|vVoMJSMgsUM|Commodores|S4419",
 "Daniel Darc|Je me souviens, je me rappelle|2004|MHUFwMA9TDo|Daniel Darc|S10496",
 "Aretha Franklin|Jump to It|1982|1mgxp2vsHCg|Aretha Franklin|S3427",
-"Vicki Lawrence|The Night the Lights Went Out in Georgia|1973|vrQvOvu_eRc|Vicki Lawrence|S12845",
+"Vicki Lawrence|The Night the Lights Went Out in Georgia|1973|b4-txVClamI|Vicki Lawrence|S12845",
 "The Strokes|What Ever Happened?|2003|-DAeR-OyabY|The Strokes|S8612",
 "Royal Blood|Out of the Black|2013|bSdtvfBQd6c|Royal Blood (band)|S13951",
 "Crystal Castles|Alice Practice|2006|e2FOnrFlEJY|Crystal Castles|S5913",
