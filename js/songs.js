@@ -7307,7 +7307,7 @@ const songs = [
 "The Gap Band|Burn Rubber (Why You Wanna Hurt Me)|1980|zSsXRWhfN3w|The Gap Band|S1579",
 "Stiff Little Fingers|Suspect Device|1978|sKsN5cj9ehs|Stiff Little Fingers|S8586",
 "Mariah Carey|Honey|1997|w3KOowB4k_k|Mariah Carey|S7423",
-"Cher|If I Could Turn Back Time|1989|BsKbwR7WXN4|Cher|S5777",
+"Cher|If I Could Turn Back Time|1989|jq_BAHIAuNw|Cher|S5777",
 "David & David|Welcome to the Boomtown|1986|97wvwuHUMCw|David & David|S3319",
 "WU LYF|Dirt|2011|1wKZqNkcAt8|WU LYF|S12625",
 "Bone Thugs-N-Harmony|1st of tha Month|1995|4j_cOsgRY7w|Bone Thugs-n-Harmony|S5586",
