@@ -2617,7 +2617,7 @@ const songs = [
 "The Roots feat. Erykah Badu & Eve|You Got Me|1999|MJCHeEQV454|The Roots|S1357",
 "The Flaming Lips|Waitin' for a Superman|1999|o0AOG7ciuJo|The Flaming Lips|S4531",
 "Nusrat Fateh Ali Khan|Mustt Mustt (Lost in His Work)|1990|SDfELfpumEE?start=45|Nusrat Fateh Ali Khan|S3535",
-"Gilbert Bécaud|Et maintenant|1961|TU6KBaUufks|Gilbert Bécaud|S6562",
+"Gilbert Bécaud|Et maintenant|1961|TU6KBaUufks?start=44|Gilbert Bécaud|S6562",
 "Foals|My Number|2012|QRR_pvZcu-o|Foals (band)|S9451",
 "Audio Two|Top Billin'|1987|JPn82XZgTMA|Audio Two|S1966",
 "Janet Jackson|What Have You Done for Me Lately|1986|r9uizdKZAGE|Janet Jackson|S388",
