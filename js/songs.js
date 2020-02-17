@@ -3386,7 +3386,7 @@ const songs = [
 "Chick Webb & His Orchestra with Ella Fitzgerald|A-Tisket, A-Tasket|1938|o-jE2dV1e9g|Chick Webb|S2759",
 "Original Dixieland Jazz Band|Livery Stable Blues|1917|5WojNaU4-kI|Original Dixieland Jass Band|S9312",
 "The Stooges|Gimme Danger|1973|LVXd7Wc1xBA|The Stooges|S8599",
-"Buddy Holly|Everyday|1957|GMezwtB1oCU|Buddy Holly|S1623",
+"Buddy Holly|Everyday|1957|EqWwy6BCxxU|Buddy Holly|S1623",
 "B.J. Thomas|Raindrops Keep Fallin' on My Head|1969|4TO7zD6HNes|B. J. Thomas|S3896",
 "Fleetwood Mac|Man of the World|1969|OJWOtL-PZiE|Fleetwood Mac|S1706",
 "Kraftwerk|Schaufensterpuppen / Showroom Dummies|1977|yx6aaF8xCqg|Kraftwerk|S7146",
