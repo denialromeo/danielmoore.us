@@ -10124,7 +10124,7 @@ const songs = [
 "Stereophonics|Local Boy in the Photograph|1997|5kZaW1a_olk|Stereophonics|S12308",
 "Bruce Springsteen|Devils and Dust|2005|cG8ZQkeZvzc|Bruce Springsteen|S14192",
 "The Andrews Sisters|Rum and Coca-Cola|1944|WiayZdPESno|The Andrews Sisters|S14065",
-"Peter Tosh|Equal Rights|1977|iqeOTg2a-l8|Peter Tosh|S7949",
+"Peter Tosh|Equal Rights|1977|1SN7Pko_jCM|Peter Tosh|S7949",
 "Liza Minnelli|Losing My Mind|1989|Kj2nYBgOgBA|Liza Minnelli|S7286",
 "The Techniques|Queen Majesty|1967|Sxhh_rkMvP4|The Techniques|S15109",
 "Billy Murray|You're a Grand Old Rag|1906|7DqGCMu37Ow|Billy Murray (singer)|S9149",
