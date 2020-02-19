@@ -1419,7 +1419,7 @@ const songs = [
 "Wham! feat. George Michael|Careless Whisper|1984|izGwDsrQ1eQ|Wham!|S1913",
 "Quintette du Hot Club de France avec Alix Combelle|Nuages|1940|j15Nqn9SmfM|Quintette du Hot Club de France|S2734",
 "Blind Faith|Can't Find My Way Home|1969|PJJnA6zEcGk|Blind Faith|S5492",
-"Dead Kennedys|California Über Alles|1979|GoA_zY6tqQw|Dead Kennedys|S1829",
+"Dead Kennedys|California Über Alles|1979|-CR2rxRMcTE|Dead Kennedys|S1829",
 "Martha and the Vandellas|Nowhere to Run|1965|mG9m-6dVKRI|Martha and the Vandellas|S1543",
 "Adele|Someone Like You|2011|hLQl3WQQoQ0|Adele|S4941",
 "New Order|Crystal|2001|KVMyXDsadLQ|New Order (band)|S1463",
