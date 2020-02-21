@@ -1003,7 +1003,7 @@ const songs = [
 "Aretha Franklin|(You Make Me Feel Like) A Natural Woman|1967|kE7M2iAlU9M|Aretha Franklin|S952",
 "Edwyn Collins|A Girl Like You|1994|Wr_ItR4CHpg|Edwyn Collins|S118",
 "TV on the Radio|Staring at the Sun|2003|oHrTOQ18yzU|TV on the Radio|S2480",
-"The Crystals|Then He Kissed Me|1963|KnFVwwMrL3Y|The Crystals|S2409",
+"The Crystals|Then He Kissed Me|1963|qmI_nNjoDCo?start=4|The Crystals|S2409",
 "The Turtles|Happy Together|1967|Tvu3xiFmfDU?start=4|The Turtles|S3915",
 "Hot Chip|And I Was a Boy from School|2006|BK2CuSQHNMs|Hot Chip|S3999",
 "St. Vincent|New York|2017|4TPqUvy1vYU|St. Vincent (musician)|S16483",
