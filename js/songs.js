@@ -9758,7 +9758,7 @@ const songs = [
 "The Temptations|Beauty Is Only Skin Deep|1966|6PU1PEA8S6M|The Temptations|S3887",
 "The Cribs|Cheat On Me|2009|R56d_vjrj9M|The Cribs|S5897",
 "CCCP Fedeli Alla Linea|Annarella|1990|rykdYjE1rNQ|CCCP Fedeli alla linea|S13420",
-"Murray Head|One Night in Bangkok|1984|mnqj31VPNoE?start=12|Murray Head|S7640",
+"Murray Head|One Night in Bangkok|1984|mnqj31VPNoE?start=50|Murray Head|S7640",
 "Mike & The Mechanics|The Living Years|1988|5hr64MxYpgk|Mike and the Mechanics|S9296",
 "Carlos Vives|La gota fría|1993|Nmb80HXWsFQ|Carlos Vives|S12906",
 "Daft Punk|Robot Rock|2005|sFZjqVnWBhc|Daft Punk|S15385",
