@@ -8068,7 +8068,7 @@ const songs = [
 "Richard \"Rabbit\" Brown|James Alley-Blues|1927|MKHkG0GxA0E|Rabbit Brown|S9331",
 "Janet Kay|Silly Games|1979|qCVR5XR04Mo|Janet Kay|S9251",
 "Cher|Half-Breed|1973|Z6E98ZRaU1s|Cher|S13716",
-"Bonnie Tyler|It's a Heartache|1977|zSAow-RRQuI|Bonnie Tyler|S5590",
+"Bonnie Tyler|It's a Heartache|1977|5bQ0GW3acE4|Bonnie Tyler|S5590",
 "Buffalo Tom|Taillights Fade|1992|sEjmJ1Ge00U|Buffalo Tom|S2933",
 "The Rivieras|California Sun|1964|Yy57Xdk9u0o|The Rivieras|S13342",
 "Billy J. Kramer with The Dakotas|Little Children|1964|RRE3jeAYzMw?start=5|Billy J. Kramer|S5454",
