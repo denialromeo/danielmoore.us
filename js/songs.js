@@ -2740,7 +2740,7 @@ const songs = [
 "Frank Sinatra|Strangers in the Night|1966|ZwAERaRUsp0|Frank Sinatra|S2830",
 "Fats Domino|Walking to New Orleans|1960|o-eWAuFmjN0|Fats Domino|S1148",
 "Louis Armstrong|St. James Infirmary|1928|QzcpUdBw7gs|Louis Armstrong|S7327",
-"k.d. Lang|Constant Craving|1992|oXqPjx94YMg|K.d. lang|S175",
+"k.d. lang|Constant Craving|1992|oXqPjx94YMg|K.d. lang|S175",
 "Elton John|Funeral for a Friend/Love Lies Bleeding|1973|3p_xAToFzck|Elton John|S6238",
 "Slick Rick|Children's Story|1988|HjNTu8jdukA|Slick Rick|S4477",
 "Jethro Tull|Locomotive Breath|1971|eSUdlUmtg3Q|Jethro Tull (band)|S6906",
