@@ -5464,7 +5464,7 @@ const songs = [
 "Janet Jackson|If|1993|IgLAw73Fe_E|Janet Jackson|S6865",
 "Edison Lighthouse|Love Grows (Where My Rosemary Goes)|1970|OqcDG_xLWPY|Edison Lighthouse|S3389",
 "Janet Jackson|Control|1986|LH8xbDGv7oY|Janet Jackson|S11150",
-"Paul Simon with The Dixie Hummingbirds|Loves Me Like a Rock|1973|qA-yk4k14V0|Paul Simon|S13915",
+"Paul Simon with The Dixie Hummingbirds|Loves Me Like a Rock|1973|hjmG00t2Uqc?start=31|Paul Simon|S13915",
 "Belle and Sebastian|This Is Just Another Modern Rock Song|1998|HT0grH_H-_M|Belle and Sebastian|S10139",
 "Bob Seger & The Silver Bullet Band|Mainstreet|1976|xX3VyX2Iigg|Bob Seger|S2878",
 "Loudon Wainwright III|Motel Blues|1971|cdmQ7ydeglw|Loudon Wainwright III|S4153",
