@@ -524,7 +524,7 @@ const songs = [
 "R.E.M.|The One I Love|1987|j7oQEPfe-O8|R.E.M.|S346",
 "Fleet Foxes|White Winter Hymnal|2008|DrQRS40OKNE|Fleet Foxes|S4716",
 "The Easybeats|Friday on My Mind|1966|3iW2_Ec3uEU|The Easybeats|S1486",
-"The Buggles|Video Killed the Radio Star|1979|Iwuy4hHO3YQ|The Buggles|S2338",
+"The Buggles|Video Killed the Radio Star|1979|W8r-tXRLazs|The Buggles|S2338",
 "The Walkmen|The Rat|2004|aWR1h-5EzUo|The Walkmen|S2451",
 "The Drifters|There Goes My Baby|1959|i3HXy9mGPpI|The Drifters|S1173",
 "The Strokes|Hard to Explain|2001|BXkm6h6uq0k|The Strokes|S1459",
