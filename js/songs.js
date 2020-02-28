@@ -2609,7 +2609,7 @@ const songs = [
 "Muse|Uprising|2009|w8KQmps-Sog|Muse (band)|S7647",
 "McFadden and Whitehead|Ain't No Stoppin' Us Now|1979|VuAZTWGfQTs|McFadden & Whitehead|S591",
 "Elbow|Grounds for Divorce|2008|jxczVhG0os8|Elbow (band)|S6223",
-"Siouxsie and the Banshees|Cities in Dust|1985|Inld-zDad0c|Siouxsie and the Banshees|S4469",
+"Siouxsie and the Banshees|Cities in Dust|1985|wsOHvP1XnRg|Siouxsie and the Banshees|S4469",
 "Michael Jackson|Black or White|1991|F2AitTPI5U0|Michael Jackson|S2028",
 "David Bowie|Fashion|1980|F-z6u5hFgPk|David Bowie|S1852",
 "Goo Goo Dolls|Iris|1998|NdYWuo9OFAw|Goo Goo Dolls|S295",
