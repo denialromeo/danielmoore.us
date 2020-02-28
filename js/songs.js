@@ -1485,7 +1485,7 @@ const songs = [
 "Duke Ellington|Mood Indigo|1930|bZyVBVFnrm4|Duke Ellington|S2678",
 "Grimes|Flesh Without Blood|2015|Tv9YoYCKNoE|Grimes (musician)|S9771",
 "John Cougar|Jack & Diane|1982|h04CH9YZcpI|John Mellencamp|S1889",
-"The Clash|The Magnificent Seven|1980|GcHL8efKKPE|The Clash|S3281",
+"The Clash|The Magnificent Seven|1980|QVtt6Cd1s94|The Clash|S3281",
 "Lily Allen|The Fear|2008|q-wGMlSuX_c|Lily Allen|S4816",
 "Weather Report|Birdland|1977|8m-o3RE_RLc|Weather Report|S2875",
 "Stevie Wonder|You Are the Sunshine of My Life|1972|OVwR7v53yW8|Stevie Wonder|S779",
