@@ -3263,7 +3263,7 @@ const songs = [
 "Alter Ego|Rocker|2004|GjPpoq1BUw8|Alter Ego (German band)|S2475",
 "Fred Astaire|They Can't Take That Away from Me|1937|fuufFgAMkGE|Fred Astaire|S2644",
 "Arnaud Fleurent-Didier|France Culture|2009|Vv6m_1fr4W0|https://fr.wikipedia.org/wiki/Arnaud_Fleurent-Didier|S5237",
-"David Bowie|Queen Bitch|1971|S5P63qGTm_g|David Bowie|S5961",
+"David Bowie|Queen Bitch|1971|FCQ3yKAU1p4|David Bowie|S5961",
 "Ramones|Do You Remember Rock 'n' Roll Radio|1980|Gi9a7IdRiBI|Ramones|S3741",
 "Spoon|I Turn My Camera On|2005|OUpP02enWgU|Spoon (band)|S3051",
 "Rose Royce|Car Wash|1976|PkxaunLybuM|Rose Royce|S3786",
