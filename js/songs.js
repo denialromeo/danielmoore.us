@@ -63,7 +63,7 @@ const songs = [
 "Ramones|Blitzkrieg Bop|1976|268C3N2dDYk|Ramones|S669",
 "The Verve|Bitter Sweet Symphony|1997|1lyu1KKwC74|The Verve|S1",
 "Massive Attack|Unfinished Sympathy|1991|ZWmrfgj0MZI|Massive Attack|S187",
-"Eagles|Hotel California|1976|YO3UDbNfr80|Eagles (band)|S632",
+"Eagles|Hotel California|1976|BaFAcKTwwS4|Eagles (band)|S632",
 "Derek and the Dominos|Layla|1970|TngViNw2pOo|Derek and the Dominos|S841",
 "Talking Heads|Once in a Lifetime|1980|5IsSpAOD6K8|Talking Heads|S518",
 "The Animals|The House of the Rising Sun|1964|4-43lLKaqBQ|The Animals|S1025",
