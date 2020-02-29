@@ -9326,7 +9326,7 @@ const songs = [
 "Julien Baker|Appointments|2017|MdBu21i9aEE|Julien Baker|S16405",
 "The Age of Love|The Age of Love|1990|SOsGNzYTUwg|Pino D'Angiò|S15232",
 "Crispian St. Peters|The Pied Piper|1966|5kBj_SiZIrA|Crispian St. Peters|S5900",
-"Nancy Sinatra & Lee Hazlewood|Jackson|1967|rnkuRQ8tjIE|Nancy Sinatra|S7216",
+"Nancy Sinatra & Lee Hazlewood|Jackson|1967|rnkuRQ8tjIE?start=5|Nancy Sinatra|S7216",
 "The Beatmasters feat. Cookie Crew|Rok Da House|1987|LRmKkRcw5i0|Beatmasters|S5384",
 "T.I.|Whatever You Like|2008|nQJACVmankY|T.I.|S4748",
 "Orange Juice|What Presence?|1984|GNntlCWX_XA|Orange Juice (band)|S2908",
