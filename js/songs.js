@@ -4031,7 +4031,7 @@ const songs = [
 "Ace of Base|All That She Wants|1992|d73tiBBzvFM|Ace of Base|S5091",
 "Gang of Four|To Hell with Poverty!|1981|QRjjVFC-oG4|Gang of Four (band)|S3435",
 "Pavement|Shady Lane|1997|0N6PZ5YRQAQ|Pavement (band)|S7908",
-"Donna Summer|She Works Hard for the Money|1983|09ZSKE38lTU|Donna Summer|S1896",
+"Donna Summer|She Works Hard for the Money|1983|Mwzxn-1eIJ0|Donna Summer|S1896",
 "Kanye West feat. Allan Kingdom, Theophilus London, Paul McCartney|All Day|2015|sj9WOOAs12Y|Kanye West|S9800",
 "Billy Swan|I Can Help|1974|E5V2hjJ6kCg|Billy Swan|S2325",
 "Run the Jewels|Oh My Darling Don’t Cry|2014|G-S9mtYowPY|Run the Jewels|S9640",
