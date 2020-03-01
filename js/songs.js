@@ -172,7 +172,7 @@ const songs = [
 "Deep Purple|Smoke on the Water|1972|ikGyZh0VbPQ|Deep Purple|S767",
 "The Beatles|While My Guitar Gently Weeps|1968|bI8P6ZSHSvE|The Beatles|S2529",
 "Madonna|Into the Groove|1985|52iW3lcpK5M|Madonna (entertainer)|S396",
-"Sly and the Family Stone|Family Affair|1971|MbT_ask1Cco|Sly and the Family Stone|S817",
+"Sly and the Family Stone|Family Affair|1971|CNQpYz1ztx8|Sly and the Family Stone|S817",
 "The Clash|(White Man) In Hammersmith Palais|1978|IkM5lrrnq_Y|The Clash|S601",
 "The Beatles|Eleanor Rigby|1966|HuS5NuXRb5Y|The Beatles|S1444",
 "Cream|Sunshine of Your Love|1967|zt51rITH3EA|Cream (band)|S915",
