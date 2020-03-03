@@ -57,6 +57,7 @@ permalink: random-acclaimed-song
     const params = new URI(window.location.href).search(true)
     var pool = songs
     var regex = ""
+    try {
     if ("artist" in params) {
         pool = pool.filter(s => new RegExp(params.artist, "i").exec(s.split("|")[0]) !== null)
     }
@@ -66,6 +67,7 @@ permalink: random-acclaimed-song
     if ("year" in params) {
         pool = pool.filter(s => new RegExp(params.year, "i").exec(s.split("|")[2]) !== null)
     }
+    } catch (e) { }
     if (pool.length === 0) { pool = songs }
     if (pool.length !== songs.length) {
         pool.sort()
