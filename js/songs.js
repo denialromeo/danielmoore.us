@@ -1234,7 +1234,7 @@ const songs = [
 "The Stone Roses|She Bangs the Drums|1989|wD6Pq0bSMPo|The Stone Roses|S244",
 "The Church|Under the Milky Way|1988|mA54NBtPKdI|The Church (band)|S1991",
 "Patsy Cline|Walkin' After Midnight|1957|lgGI-HOQZBk|Patsy Cline|S1253",
-"Peter Gabriel|In Your Eyes|1986|B3kFPBtc9BE|Peter Gabriel|S385",
+"Peter Gabriel|In Your Eyes|1986|kU8OJAOMbPg|Peter Gabriel|S385",
 "The Specials|A Message to You Rudy|1979|cntvEDbagAw|The Specials|S1498",
 "The Special AKA|Free Nelson Mandela|1984|AgcTvoWjZJU|The Specials|S427",
 "The Jimi Hendrix Experience|Manic Depression|1967|Ll7w7Q1uIAk|Jimi Hendrix|S3471",
