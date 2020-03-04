@@ -9952,7 +9952,7 @@ const songs = [
 "The Wedding Present|Nobody's Twisting Your Arm|1988|8DTHmPtOTBo|The Wedding Present|S8958",
 "Huey Lewis and the News|Hip to Be Square|1986|HbF1g3k2mtw|Huey Lewis|S14488",
 "Zucchero Fornaciari|Dune mosse|1987|A60xWr-nqv0|Zucchero Fornaciari|S13650",
-"Slim Harpo|Rainin' in My Heart|1961|-UxgUSSTmUU|Slim Harpo|S1138",
+"Slim Harpo|Rainin' in My Heart|1961|usAbo-RamWo|Slim Harpo|S1138",
 "Dinosaur Jr.|Little Fury Things|1987|4WAFdBU88bg|Dinosaur Jr.|S10589",
 "Tommy Roe|Sweet Pea|1966|JCKXxJRgVgc|Tommy Roe|S8809",
 "Alphaville|Forever Young|1984|t1TcDHrkQYg|Alphaville (band)|S9979",
