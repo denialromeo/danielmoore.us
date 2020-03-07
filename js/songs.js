@@ -4393,7 +4393,7 @@ const songs = [
 "Pharrell feat. Jay-Z|Frontin'|2003|LOtkH5amC7s|Pharrell Williams|S2268",
 "Bob Dylan|One of Us Must Know (Sooner or Later)|1966|sxmgl5x8d1A|Bob Dylan|S3377",
 "Fela Ransome Kuti & Africa 70|Water No Get Enemy|1975|IQBC5URoF0s|Fela Kuti|S9220",
-"Roy Ayers|Everybody Loves the Sunshine|1976|Ck_jz6m-8_M?start=11|Roy Ayers|S12118",
+"Roy Ayers|Everybody Loves the Sunshine|1976|Ck_jz6m-8_M?start=6|Roy Ayers|S12118",
 "Röyksopp|Eple|2001|qczr6Z2qtpE|Röyksopp|S2214",
 "Paul Simon|Mother and Child Reunion|1972|E_52QR3TptY|Paul Simon|S1743",
 "Smash Mouth|All Star|1999|L_jWHffIx5E?start=37|Smash Mouth|S3817",
