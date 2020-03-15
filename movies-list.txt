@@ -14,7 +14,6 @@ ace-ventura-when-nature-calls.mp4
 adaptation.mp4
 airplane.mp4
 akira.mp4
-aladdin-2019.mp4
 aladdin.mp4
 alice-in-wonderland.mp4
 alien.mp4
@@ -75,6 +74,7 @@ borat.mp4
 born-on-the-fourth-of-july.mp4
 boyz-n-the-hood.mp4
 brave-little-toaster.mp4
+braveheart.mp4
 breakfast-at-tiffany's.mp4
 breakfast-club.mp4
 bride-of-frankenstein.mp4
@@ -144,6 +144,7 @@ empire-of-the-sun.mp4
 encounters-at-the-end-of-the-world.mp4
 enter-the-dragon.mp4
 eraserhead.mp4
+erin-brockovich.mp4
 escape-from-alcatraz.mp4
 escape-from-new-york.mp4
 et.mp4
@@ -369,6 +370,7 @@ parasite.mp4
 passion-of-the-christ.mp4
 pather-panchali.mp4
 paths-of-glory.mp4
+patriot.mp4
 patton.mp4
 peter-pan.mp4
 pinocchio.mp4
