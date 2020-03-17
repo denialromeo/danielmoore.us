@@ -523,7 +523,7 @@ const songs = [
 "James Brown and the Famous Flames|Please Please Please|1956|vruy2GRUsV8|The Famous Flames|S1267",
 "R.E.M.|The One I Love|1987|j7oQEPfe-O8|R.E.M.|S346",
 "Fleet Foxes|White Winter Hymnal|2008|DrQRS40OKNE|Fleet Foxes|S4716",
-"The Easybeats|Friday on My Mind|1966|3iW2_Ec3uEU|The Easybeats|S1486",
+"The Easybeats|Friday on My Mind|1966|NSowZcvoqr4|The Easybeats|S1486",
 "The Buggles|Video Killed the Radio Star|1979|W8r-tXRLazs|The Buggles|S2338",
 "The Walkmen|The Rat|2004|aWR1h-5EzUo|The Walkmen|S2451",
 "The Drifters|There Goes My Baby|1959|i3HXy9mGPpI|The Drifters|S1173",
