@@ -68,7 +68,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#programming-books}
 **Programming Books**
 
-* [*The Cathedral and the Bazaar*](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) by [Eric Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond) (Parables from the Golden Age.)
+* [*The Cathedral and the Bazaar*](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) by [Eric Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond) (Meditations on free software.)
 * [*Effective Python*](https://effectivepython.com/) by [Brett Slatkin](https://www.onebigfluke.com/) (Intermediate Parseltongue.)
 * [*Microserfs*](https://www.goodreads.com/notes/11483124-microserfs/71655209-daniel-moore) by [Douglas Coupland](https://en.wikipedia.org/wiki/Douglas_Coupland) (Understand working programmers.)
 {% comment %}
