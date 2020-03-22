@@ -7375,7 +7375,7 @@ const songs = [
 "J Balvin feat. Willy William|Mi Gente / Mi Gente (Remix feat. Beyoncé)|2017|APHgDFRpCi0|J Balvin|S16397",
 "Groove Armada|At the River|1997|t989-ukRYTY|Groove Armada|S6650",
 "Mariah Carey feat. Jay-Z|Heartbreaker|1999|kMCGvtlL4fw|Mariah Carey|S7424",
-"Arctic Monkeys|The Hellcat Spangled Lalalala|2011|dAlRXC19hmE|Arctic Monkeys|S5230",
+"Arctic Monkeys|The Hellcat Spangled Shalalala|2011|dAlRXC19hmE|Arctic Monkeys|S5230",
 "James Brown|Rapp Payback (Where Iz Moses)|1980|u0qc67eD5yU|James Brown|S1848",
 "PJ Harvey|This Is Love|2000|STxXS5lLunE|PJ Harvey|S11919",
 "The Beatles|Lovely Rita|1967|ysDwR5SIR1Q|The Beatles|S4536",
