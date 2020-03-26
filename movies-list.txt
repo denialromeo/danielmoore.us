@@ -10,6 +10,7 @@
 40-year-old-virgin.mp4
 8-mile.mp4
 a-bug's-life.mp4
+a-night-at-the-opera.mp4
 a-star-is-born.mp4
 ace-ventura-pet-detective.mp4
 ace-ventura-when-nature-calls.mp4
@@ -24,6 +25,7 @@ aliens.mp4
 all-about-eve.mp4
 all-quiet-on-the-western-front.mp4
 american-me.mp4
+american-psycho.mp4
 american-sniper.mp4
 american-werewolf-in-london.mp4
 amistad.mp4
@@ -95,9 +97,9 @@ cabinet-of-dr-caligari.mp4
 cable-guy.mp4
 caddyshack.mp4
 capote.mp4
-captain-america-civil-war.mp4
-captain-america-first-avenger.mp4
-captain-america-winter-soldier.mp4
+captain-america.mp4
+captain-america2.mp4
+captain-america3.mp4
 captain-marvel.mp4
 cars.mp4
 casablanca.mp4
@@ -144,6 +146,7 @@ do-the-right-thing.mp4
 dominion.mp4
 donnie-darko.mp4
 dr-strangelove.mp4
+drive.mp4
 duck-soup.mp4
 duellists.mp4
 dumb-and-dumber.mp4
@@ -449,6 +452,7 @@ searchers.mp4
 serious-man.mp4
 seven-samurai-todo-resubtitle.mp4
 seventh-seal-unsubtitled.mp4
+seventh-seal.mp4
 shaft.mp4
 shane.mp4
 shaun-of-the-dead.mp4

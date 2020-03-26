@@ -49,3 +49,4 @@ chess:
 
 tv:
 	dir /a-d /b ..\tv > movies-list.txt
+	git diff
