@@ -4808,7 +4808,7 @@ const songs = [
 "Double Dee & Steinski|The Payoff Mix (Mastermix Of G.L.O.B.E. And Whizkid's \"Play That Beat, Mr. D.J.\")|1984|3WZcHTLm8MQ|Double Dee and Steinski|S399",
 "Arctic Monkeys|Crying Lightning|2009|fLsBJPlGIDU|Arctic Monkeys|S5229",
 "Sweet|Fox on the Run|1974|qBdFA6sI6-8|The Sweet|S8656",
-"Dinosaur Jr.|The Wagon|1990|edCOwJQM50c|Dinosaur Jr.|S6078",
+"Dinosaur Jr.|The Wagon|1990|v5yxVuNDLmo|Dinosaur Jr.|S6078",
 "David Crosby|Laughing|1971|OGkzxJy0lm4|David Crosby|S5978",
 "The Flirtations|Nothing But a Heartache|1968|72mXxaHkHnE|The Flirtations (R&B musical group)|S6403",
 "INXS|Suicide Blonde|1990|psDTiUV0PNI|INXS|S3499",
