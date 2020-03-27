@@ -1220,7 +1220,7 @@ const songs = [
 "The Killers|All These Things That I've Done|2004|sZTpLvsYYHw|The Killers|S4635",
 "The Raconteurs|Steady, As She Goes|2006|DXAidGQUuns|The Raconteurs|S3055",
 "Talking Heads|This Must Be the Place (Naive Melody)|1983|pVrVY540xdc|Talking Heads|S4878",
-"The Searchers|Needles and Pins|1964|S0oP8e02dpk|The Searchers|S1031",
+"The Searchers|Needles and Pins|1964|S0oP8e02dpk|The Searchers (band)|S1031",
 "Johnny Burnette|The Train Kept A-Rollin'|1956|VkZhJJ8sPmw|Johnny Burnette|S1280",
 "Lil Uzi Vert|XO Tour Llif3|2017|WrsFXgQk5UI|Lil Uzi Vert|S16435",
 "Loretta Lynn|Coal Miner's Daughter|1970|f9eHp7JJgq8|Loretta Lynn|S869",
