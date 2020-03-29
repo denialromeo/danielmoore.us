@@ -7020,7 +7020,7 @@ const songs = [
 "David McWilliams|Days of Pearly Spencer|1967|4VDS8uArR0A|David McWilliams (musician)|S5981",
 "Sigur Rós|Inní mér syngur vitleysingur|2008|kMODx818qWM|Sigur Rós|S12205",
 "Bread|If|1971|IQyKMueMFGk|Bread (band)|S5609",
-"1910 Fruitgum Company|Simon Says|1967|53wYiKgY3Xg|1910 Fruitgum Company|S5065",
+"1910 Fruitgum Company|Simon Says|1967|53wYiKgY3Xg?start=6|1910 Fruitgum Company|S5065",
 "Culture Club|Church of the Poison Mind|1983|HVzAH0FtNwg|Culture Club|S454",
 "ZZ Top|Cheap Sunglasses|1979|QePcj9BplMQ|ZZ Top|S12663",
 "Color Me Badd|I Wanna Sex You Up|1991|kO6BtpIzIiM|Color Me Badd|S201",
