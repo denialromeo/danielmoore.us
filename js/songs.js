@@ -4078,7 +4078,7 @@ const songs = [
 "The Dismemberment Plan|The Ice of Boston|1997|bMz7a4XXx84|The Dismemberment Plan|S4525",
 "The Jesus and Mary Chain|Sidewalking|1988|W1AL2oTiTU0|The Jesus and Mary Chain|S323",
 "The Beatles|I'm So Tired|1968|7cqHtGb9WYM|The Beatles|S2528",
-"George Benson|Give Me the Night|1980|imYJpr09IgQ|George Benson|S6528",
+"George Benson|Give Me the Night|1980|FIF7wKJb2iU|George Benson|S6528",
 "Mick Jagger|Memo from Turner|1970|T3qgmVb4-kU|Mick Jagger|S2992",
 "Charles Trenet|Que reste-t-il de nos amours?|1942|DEmQSeNQrh4|Charles Trenet|S5758",
 "Bananarama|Cruel Summer|1983|l9ml3nyww80|Bananarama|S5307",
