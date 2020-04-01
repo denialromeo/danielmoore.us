@@ -2973,7 +2973,7 @@ const songs = [
 "My Bloody Valentine|To Here Knows When|1991|pgTX42rWg74|My Bloody Valentine (band)|S4491",
 "Oasis|Morning Glory|1995|Wm54XyLwBAk|Oasis (band)|S7780",
 "The Skatalites|Guns of Navarone|1965|wtESlTKBa4s|The Skatalites|S1694",
-"Chuck Berry|Little Queenie|1959|s2a2Nrw_6G0|Chuck Berry|S5806",
+"Chuck Berry|Little Queenie|1959|s2a2Nrw_6G0?start=5|Chuck Berry|S5806",
 "Peter Gabriel|Shock the Monkey|1982|CnVf1ZoCJSo|Peter Gabriel|S3432",
 "Shania Twain|You're Still the One|1997|KNZH-emehxA|Shania Twain|S2165",
 "Irene Cara|Flashdance...What a Feeling|1983|ILWSp0m9G2U|Irene Cara|S3260",
