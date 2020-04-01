@@ -8586,7 +8586,7 @@ const songs = [
 "The D.O.C.|It's Funky Enough|1989|UiPbeIXZpD4|The D.O.C.|S5937",
 "Bilderbuch|Maschin|2013|9Ocyk0OgyWY|Bilderbuch|S15288",
 "Wolfmother|Dimension|2005|bjJ7KCBykVU|Wolfmother|S9057",
-"Village People|Macho Man|1978|bk-BPRXYk9g|Village People|S12601",
+"Village People|Macho Man|1978|_bLRaGo-Qwc|Village People|S12601",
 "Virus|Una luna de miel en la mano|1985|XLSR7rqjilU|Virus (Argentine band)|S12612",
 "Stan Getz and João Gilberto [feat. Antonio Carlos Jobim]|Corcovado|1964|W-YnyZG8fNU|Stan Getz|S4085",
 "Jackson Browne|Lawyers in Love|1983|rxyjA-CaPYY|Jackson Browne|S6829",
