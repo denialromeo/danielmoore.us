@@ -8663,7 +8663,7 @@ const songs = [
 "Aretha Franklin|Jump to It|1982|1mgxp2vsHCg|Aretha Franklin|S3427",
 "Vicki Lawrence|The Night the Lights Went Out in Georgia|1973|b4-txVClamI|Vicki Lawrence|S12845",
 "The Strokes|What Ever Happened?|2003|-DAeR-OyabY|The Strokes|S8612",
-"Royal Blood|Out of the Black|2013|bSdtvfBQd6c?start=5|Royal Blood (band)|S13951",
+"Royal Blood|Out of the Black|2013|bSdtvfBQd6c?start=6|Royal Blood (band)|S13951",
 "Crystal Castles|Alice Practice|2006|e2FOnrFlEJY|Crystal Castles|S5913",
 "The Shamen|Ebeneezer Goode|1992|7b2T8K2D-ps|The Shamen|S12188",
 "Supertramp|School|1974|9gkbsOywVxU|Supertramp|S12372",
