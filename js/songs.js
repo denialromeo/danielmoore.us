@@ -6105,7 +6105,7 @@ const songs = [
 "Mazzy Star|Into Dust|1993|SiO_7LhPZFM|Mazzy Star|S9292",
 "Sumo|La rubia tarada|1985|QuaGBNkdTso|Sumo|S8634",
 "Michael Penn|No Myth|1989|IxkJHX7ukKE|Michael Penn|S7541",
-"Spinners|The Rubberband Man|1976|dXcFFNx0_g8|The Spinners (American R&B group)|S3839",
+"Spinners|The Rubberband Man|1976|dXcFFNx0_g8?start=5|The Spinners (American R&B group)|S3839",
 "Solomon Burke|Just Out of Reach (Of My Two Empty Arms)|1961|lVpSi_2UXuw|Solomon Burke|S4079",
 "Throbbing Gristle|United|1978|5XpqCxJZdGs|Throbbing Gristle|S8752",
 "Joe Tex|I Gotcha|1972|W2kDntpA-TA|Joe Tex|S6939",
