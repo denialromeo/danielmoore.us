@@ -2162,7 +2162,7 @@ const songs = [
 "Average White Band|Pick Up the Pieces|1974|X-BJVDuP9dI?start=19|Average White Band|S1772",
 "Brandy and Monica|The Boy Is Mine|1998|qSIOp_K5GMw|Brandy Norwood|S281",
 "Mano Negra|Mala vida|1988|rc_JlAbCEeM|Mano Negra (band)|S7404",
-"Léo Ferré|Avec le temps|1971|bVrulTsu2S8?start=2|Léo Ferré|S4415",
+"Léo Ferré|Avec le temps|1971|v_nbdcPB0iw?start=3|Léo Ferré|S4415",
 "Blur|Coffee & TV|1999|6oqXVx3sBOk|Blur (band)|S2177",
 "Yardbirds|Shapes of Things|1966|Jc17DqcA6Qc|The Yardbirds|S1441",
 "The Chemical Brothers|Galvanize|2005|Xu3FTEmN-eg|The Chemical Brothers|S3033",
