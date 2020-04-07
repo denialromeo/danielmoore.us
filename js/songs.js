@@ -1244,7 +1244,7 @@ const songs = [
 "R.E.M.|Man on the Moon|1992|dLxpNiF0YKs|R.E.M.|S165",
 "The Who|The Kids Are Alright|1965|afam2nIae4o|The Who|S3959",
 "Metallica|One|1988|WM8bTdBs-cw|Metallica|S1998",
-"Bill Withers|Lean on Me|1972|Jrlhn1H1EWw|Bill Withers|S2311",
+"Bill Withers|Lean on Me|1972|f7P8wusL1Z0|Bill Withers|S2311",
 "Duke Ellington|Take the \"A\" Train|1941|cb2w2m1JmCY|Duke Ellington|S2679",
 "Grace Jones|Pull Up to the Bumper|1981|Tc1IphRx1pk|Grace Jones|S529",
 "A Tribe Called Quest|We the People...|2016|vO2Su3erRIA|A Tribe Called Quest|S16015",
