@@ -9339,7 +9339,7 @@ const songs = [
 "Nina Simone|I Wish I Knew How It Would Feel to Be Free|1967|HDqmJEWOJRI|Nina Simone|S7746",
 "Tove Lo|Disco Tits|2017|8RQDPwODja4|Tove Lo|S16506",
 "El Guincho + Mala Rodriguez|Comix|2016|x_Ym1D42Bfw|Mala Rodríguez|S16081",
-"Matias Aguayo|Minimal|2008|sVLTjeoFLUA|https://de.wikipedia.org/wiki/Matias_Aguayo|S7471",
+"Matias Aguayo|Minimal|2008|CsjwT0X2-e8|https://de.wikipedia.org/wiki/Matias_Aguayo|S7471",
 "Nitty Gritty Dirt Band|Mr. Bojangles|1970|GyS4V1QMKJM|Nitty Gritty Dirt Band|S7757",
 "Death in Vegas|Scorpio Rising|2002|dZ_6sQtce-M|Death in Vegas|S6006",
 "Sweet|Love Is Like Oxygen|1978|zRgWvvkSvfk|The Sweet|S8657",
