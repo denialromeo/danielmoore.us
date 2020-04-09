@@ -70,6 +70,7 @@ beverly-hills-cop.mp4
 big-lebowski.mp4
 big-sleep.mp4
 birth-of-a-nation.mp4
+black-panther.mp4
 blade-runner.mp4
 blair-witch-project.mp4
 blazing-saddles.mp4
@@ -430,6 +431,7 @@ rocky4.mp4
 romeo-and-juliet.mp4
 rosemary's-baby.mp4
 rules-of-the-game.mp4
+satantango.mp4
 saturday-night-fever.mp4
 saving-private-ryan.mp4
 saw.mp4
@@ -562,6 +564,7 @@ unforgiven.mp4
 up.mp4
 us.mp4
 usual-suspects.mp4
+velvet-buzzsaw.mp4
 vertigo.mp4
 waking-life.mp4
 walk-the-line.mp4
