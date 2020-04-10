@@ -4617,7 +4617,7 @@ const songs = [
 "Flume feat. Kai|Never Be Like You|2016|-KPnyf8vwXI|Flume (musician)|S16085",
 "Bee Gees|How Can You Mend a Broken Heart|1971|frA2K5oqm54|Bee Gees|S5396",
 "Janis Joplin|Little Girl Blue|1969|rX8hOw31wCQ|Janis Joplin|S13027",
-"The Cramps|Goo Goo Muck|1981|wrarS7mLlB0|The Cramps|S4195",
+"The Cramps|Goo Goo Muck|1981|g17I907BAFw|The Cramps|S4195",
 "The Nerves|Hanging on the Telephone|1976|ZiUgasXVcCY|The Nerves|S7699",
 "Of Monsters and Men|Little Talks|2011|ghb6eDopW8I|Of Monsters and Men|S7792",
 "LCD Soundsystem|Tribulations|2005|1e51W--w2Fk|LCD Soundsystem|S3040",
