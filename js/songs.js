@@ -10039,7 +10039,7 @@ const songs = [
 "Creedence Clearwater Revival|Ramble Tamble|1970|nuEM3s7vxGw|Creedence Clearwater Revival|S13721",
 "A$AP Rocky feat. Rod Stewart, Miguel & Mark Ronson|Everyday|2015|KfVIRigPyws|ASAP Rocky|S9698",
 "Jimmy Soul|If You Wanna Be Happy|1963|MH_PANCU9oQ|Jimmy Soul|S6918",
-"The Buoys|Timothy|1971|OqDu5LBT8_Y|The Buoys|S3255",
+"The Buoys|Timothy|1971|OqDu5LBT8_Y|The Buoys (American band)|S3255",
 "Barbara Mason|Yes, I'm Ready|1965|op0_RAOt5vQ|Barbara Mason|S10077",
 "U2|In a Little While|2000|wtVAJEAWnlU|U2|S13141",
 "Jimmy Barnes|Working Class Man|1985|erSJGrpfnOI|Jimmy Barnes|S11207",
