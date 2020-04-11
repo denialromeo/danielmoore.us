@@ -5731,7 +5731,7 @@ const songs = [
 "Uriah Heep|Easy Livin'|1972|BEEI-UaoETc|Uriah Heep|S8900",
 "Sufjan Stevens|Casimir Pulaski Day|2005|9EzeW5KoPUI|Sufjan Stevens|S4695",
 "Lorde|The Louvre|2017|sFCL6f7hy2s|Lorde|S16439",
-"The Four Seasons|December, 1963 (Oh, What a Night)|1975|liyiT_DGREA|The Four Seasons (band)|S3417",
+"The Four Seasons|December, 1963 (Oh, What a Night)|1975|mTUhnIY3oRM|The Four Seasons (band)|S3417",
 "Keane|Everybody's Changing|2003|Zx4Hjq6KwO0|Keane (band)|S2981",
 "Jonathan Richman & The Modern Lovers|Ice Cream Man|1977|nu3TvC9CH18|Jonathan Richman|S11668",
 "Maxïmo Park|Our Velocity|2007|bMHHCpQ9M-Y|Maxïmo Park|S4319",
