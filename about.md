@@ -112,8 +112,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Cartoon History of the Universe*](https://archive.org/details/ACartoonHistoryOfTheUniverse) by [Larry Gonick](http://www.larrygonick.com/) (Sic transit gloria mundi.)
 * [*Maus*](https://archive.org/details/Maus1ArtSpiegelman) by [Art Spiegelman](https://en.wikipedia.org/wiki/Art_Spiegelman) (Probably the best comic ever written.)
 
-(For more fun, check out [*Graphic Novels*](https://www.amazon.com/Graphic-Novels-Everything-Need-Know/dp/0060824255) and [*Manga*](https://www.amazon.com/gp/product/1856693910) by [Paul Gravett](https://en.wikipedia.org/wiki/Paul_Gravett).)
-
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/gonick-india/cartoonhistoryoftheuniverse08-06.jpg" itemprop="contentUrl" data-size="954x1420"><img style="border: 1px solid black;" src="/assets/img/comics/gonick-india/cartoonhistoryoftheuniverse08-06.jpg"/></a><figcaption itemprop="caption description"><p><i>The Cartoon History of the Universe</i> by Larry Gonick</p><p><a href="https://www.amazon.com/dp/0385420935">Amazon</a></p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/gonick-india/cartoonhistoryoftheuniverse08-07.jpg" itemprop="contentUrl" data-size="951x1423"><img src="/assets/img/comics/gonick-india/cartoonhistoryoftheuniverse08-07.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
