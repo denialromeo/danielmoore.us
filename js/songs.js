@@ -1109,7 +1109,7 @@ const songs = [
 "The Byrds|I'll Feel a Whole Lot Better|1965|to-RVV_3anw|The Byrds|S2272",
 "Cameo|Word Up!|1986|MZjAantupsA|Cameo (band)|S362",
 "The Band|Up on Cripple Creek|1969|zFFGkDmjRlo|The Band|S2532",
-"Mobb Deep|Shook Ones, Pt. 2|1995|0NUX4tW5pps|Mobb Deep|S90",
+"Mobb Deep|Shook Ones, Pt. 2|1995|yoYZf-lBF_U|Mobb Deep|S90",
 "Haim|The Wire|2013|1TffpkE2GU4|Haim (band)|S9457",
 "The Beatles|Day Tripper|1965|AYZlME0mQB8|The Beatles|S1005",
 "Danny and the Juniors|At the Hop|1957|F3SrtN6tMyg|Danny & the Juniors|S1250",
