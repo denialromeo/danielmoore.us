@@ -36,6 +36,8 @@ box: schopenhauer
 
 > The pleasure in this world, it has been said, outweighs the pain; or, at any rate, there is an even balance between the two. If the reader wishes to see shortly whether this statement is true, let him compare the respective feelings of two animals, one of which is engaged in eating the other.
 
+> Every ravenous beast is the living grave of thousands of others, and its self-maintenance is a chain of painful deaths.
+
 > The sight of others' suffering arouses, not only in different men, but in one and the same man, at one moment an inexhaustible sympathy, at another a certain satisfaction; and this satisfaction may increase until it becomes the cruelest delight in pain. I observe in myself that at one moment I regard all mankind with heartfelt pity, at another with the greatest indifference, on occasion with hatred, nay, with a positive enjoyment of their pain.
 
 > It is very necessary that a man should be apprised early in life that it is a masquerade in which he finds himself. For otherwise there are many things which he will fail to understand and put up with, nay, at which he will be completely puzzled, and that man longest of all whose heart is made of better clay.
