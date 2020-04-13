@@ -1449,7 +1449,7 @@ const songs = [
 "The Streets|Let's Push Things Forward|2002|QOddpk8jOtU|The Streets|S1510",
 "Lipps Inc.|Funkytown|1979|s36eQwgPNSE|Lipps Inc.|S559",
 "A Tribe Called Quest|Bonita Applebum|1990|HU_4pf8BSQw|A Tribe Called Quest|S2020",
-"The Stranglers|Golden Brown|1981|-W4LvJ2tdvk|The Stranglers|S4453",
+"The Stranglers|Golden Brown|1981|z-GUjA67mdc|The Stranglers|S4453",
 "Kendrick Lamar|Swimming Pools (Drank)|2012|B5YNiCfWC3A|Kendrick Lamar|S5021",
 "David Bowie|Moonage Daydream|1972|JFDj3shXvco|David Bowie|S5963",
 "Nicki Minaj|Super Bass|2011|4JipHEz53sU|Nicki Minaj|S4979",
