@@ -8682,7 +8682,7 @@ const songs = [
 "Bread|The Guitar Man|1972|RPoJNdKNT40|Bread (band)|S10285",
 "Tony Allen|Asiko|1999|dcpfE_4qZ_U|Tony Allen (musician)|S15944",
 "Holly and the Italians|Tell That Girl to Shut Up|1979|shYf4x7PWg4|Holly Beth Vincent|S11037",
-"J. Blackfoot|Taxi|1983|M4_JR958_qA|J. Blackfoot|S6807",
+"J. Blackfoot|Taxi|1983|VKlh5DmZ8Yg|J. Blackfoot|S6807",
 "Martha Wainwright|Bloody Mother Fucking Asshole|2004|pX-bIr8dr6U|Martha Wainwright|S7446",
 "Charlie Haden|Song for Ché|1970|IMDWVl11D_A|Charlie Haden|S13166",
 "Taylor Swift|Mine|2010|XPBwXKgDTdE|Taylor Swift|S12400",
