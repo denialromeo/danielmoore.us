@@ -1676,7 +1676,7 @@ const songs = [
 "Neil Young|On the Beach|1974|C9CkvAQkQLs|Neil Young|S7686",
 "St. Vincent|Cruel|2011|Itt0rALeHE8|St. Vincent (musician)|S4985",
 "La Roux|In for the Kill|2009|tXtATeQ7GKg|La Roux|S4812",
-"Glenn Miller|Moonlight Serenade|1939|kTKL15YUyKk|Glenn Miller|S2718",
+"Glenn Miller|Moonlight Serenade|1939|rjq1aTLjrOE|Glenn Miller|S2718",
 "Curtis Mayfield|Freddie's Dead|1972|0B6TKClPFQA|Curtis Mayfield|S1316",
 "Arctic Monkeys|When the Sun Goes Down|2006|yUatH8zI6Qc|Arctic Monkeys|S4031",
 "Stiff Little Fingers|Alternative Ulster|1978|nTO7nXw4StY|Stiff Little Fingers|S2334",
