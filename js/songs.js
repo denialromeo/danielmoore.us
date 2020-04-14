@@ -3926,7 +3926,7 @@ const songs = [
 "Babybird|You're Gorgeous|1996|3GzpcN3vy_Q|Babybird|S53",
 "Wham!|Wake Me Up Before You Go-Go|1984|pIgZ7gMze7A|Wham!|S3949",
 "Doves|The Cedar Room|1998|RadUfjnnqOE|Doves (band)|S3353",
-"Orange Juice|Blue Boy|1980|0qz9Uqk55Jo|Orange Juice (band)|S1842",
+"Orange Juice|Blue Boy|1980|qx5nn1kq-2U|Orange Juice (band)|S1842",
 "Jackson Browne|The Pretender|1976|fY0Pg2Gu5uM|Jackson Browne|S6828",
 "William DeVaughn|Be Thankful for What You Got|1974|KDTXljIqxRE|William DeVaughn|S9029",
 "Barry White|Can't Get Enough of Your Love, Babe|1974|x0I6mhZ5wMw|Barry White|S1764",
