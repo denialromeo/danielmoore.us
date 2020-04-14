@@ -8626,7 +8626,7 @@ const songs = [
 "Terror Squad|Lean Back|2004|ajmI1P3r1w4|Terror Squad (group)|S8725",
 "Wye Oak|Holy Holy|2011|rmjMFPSLXI4|Wye Oak|S12628",
 "Deep Purple|Space Truckin'|1972|9wv1ij7KxWc|Deep Purple|S6017",
-"Joe Dassin|Salut les amoureux|1972|SkEyV7_eNBs|Joe Dassin|S11220",
+"Joe Dassin|Salut les amoureux|1972|dozLCl5cETs?start=3|Joe Dassin|S11220",
 "Frank Ocean feat. Jay-Z & Tyler, the Creator|Biking / Biking (Solo)|2017|fYGPcfUqzL0|Frank Ocean|S16381",
 "Afrika Bambaataa & The Soulsonic Force|Renegades of Funk|1983|YkTyQ0kgmzs|Afrika Bambaataa|S5112",
 "Phoenix|Heatwave|1999|uc-D4u8clLk|Phoenix (band)|S7955",
