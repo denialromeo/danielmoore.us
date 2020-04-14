@@ -4119,7 +4119,7 @@ const songs = [
 "R.E.M.|Don't Go Back to Rockville|1984|4zgh0y9vTgY?start=2|R.E.M.|S1923",
 "The Libertines|Gunga Din|2015|LEf27xuYcw4|The Libertines|S9852",
 "The Byrds|My Back Pages|1967|1G9TJk853ps|The Byrds|S9173",
-"Sousa's Band|The Stars and Stripes Forever|1897|a-7XWhyvIpE|John Philip Sousa|S8509",
+"Sousa's Band|The Stars and Stripes Forever|1897|a-7XWhyvIpE?start=58|John Philip Sousa|S8509",
 "Rihanna|SOS|2006|IXmF4GbA86E|Rihanna|S4023",
 "The Andrews Sisters|Bei mir bist du schön|1937|HkEEhy33D3s|The Andrews Sisters|S5193",
 "Freda Payne|Bring the Boys Home|1971|x98dLVA2f1Q|Freda Payne|S3690",
