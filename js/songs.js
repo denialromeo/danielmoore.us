@@ -299,7 +299,7 @@ const songs = [
 "Marvin Gaye|Sexual Healing|1982|rjlSiASsUIs|Marvin Gaye|S482",
 "Red Hot Chili Peppers|Under the Bridge|1991|GLvohMXgcBo|Red Hot Chili Peppers|S168",
 "The Pretenders|Brass in Pocket|1979|-7Hy7uAb_eU|The Pretenders|S585",
-"The Teenagers feat. Frankie Lymon|Why Do Fools Fall in Love|1955|q96ylFiQK_I|The Teenagers|S1263",
+"The Teenagers feat. Frankie Lymon|Why Do Fools Fall in Love|1955|q96ylFiQK_I?start=74|The Teenagers|S1263",
 "Queens of the Stone Age|No One Knows|2002|s88r_q7oufE|Queens of the Stone Age|S1503",
 "Woody Guthrie|This Land Is Your Land|1951|wxiMrvDbq3s|Woody Guthrie|S2689",
 "The Rolling Stones|You Can't Always Get What You Want|1969|Ef9QnZVpVd8|The Rolling Stones|S2535",
