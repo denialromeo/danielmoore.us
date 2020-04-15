@@ -6393,7 +6393,7 @@ const songs = [
 "The Prisonaires|Just Walkin' in the Rain|1953|tTuAIJBpAT8|The Prisonaires|S4068",
 "It's Immaterial|Driving Away from Home (Jim's Tune)|1986|6jehlXSr-x8|It's Immaterial|S6804",
 "The Hold Steady|Chill Out Tent|2006|rAoKap4UElU|The Hold Steady|S6719",
-"Fall Out Boy|Sugar, We're Goin Down|2005|Ufb70h78eO4|Fall Out Boy|S6346",
+"Fall Out Boy|Sugar, We're Goin Down|2005|uhG-vLZrb-g|Fall Out Boy|S6346",
 "Joni Mitchell|You Turn Me On, I'm a Radio|1972|dSSi4jZsDmo|Joni Mitchell|S2860",
 "Mantronix|King of the Beats|1988|z_BxXeqvzvE|Mantronix|S1987",
 "Sidney Bechet|Maple Leaf Rag|1932|e3EkeWJPKZw|Sidney Bechet|S13249",
