@@ -9446,7 +9446,7 @@ const songs = [
 "The Automatic|Monster|2006|gELlSl5dSRk|The Automatic|S5276",
 "Heaven 17|Let Me Go!|1982|6tWN1Iz6oMo|Heaven 17|S11019",
 "John Grant|(I Wanna Go To) Marz|2010|2hwfkagAYD0|John Grant (musician)|S11229",
-"Johnny Cash|What Is Truth?|1970|pgbL4ETqEiA|Johnny Cash|S6976",
+"Johnny Cash|What Is Truth|1970|pgbL4ETqEiA|Johnny Cash|S6976",
 "Charli XCX|You (Ha Ha Ha)|2013|qtrHH1BDlzk|Charli XCX|S9417",
 "The Beach Boys|Wild Honey|1967|eeA3Z8As_dc|The Beach Boys|S5345",
 "Redman|Tonight's Da Night|1992|7n9hAjs8yv0|Redman (rapper)|S12044",
