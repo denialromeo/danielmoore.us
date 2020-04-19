@@ -70,6 +70,7 @@ beauty-and-the-beast.mp4
 beetlejuice.mp4
 being-john-malkovich.mp4
 ben-hur.mp4
+best-exotic-marigold-hotel.mp4
 beverly-hills-cop.mp4
 big-lebowski.mp4
 big-sleep.mp4
@@ -150,6 +151,7 @@ dirty-harry.mp4
 django-unchained.mp4
 do-the-right-thing.mp4
 doc-hollywood.mp4
+dog-day-afternoon.mp4
 dominion.mp4
 donnie-darko.mp4
 dr-strangelove.mp4
@@ -209,6 +211,7 @@ get-out.mp4
 gettysburg.mp4
 ghost.mp4
 ghostbusters.mp4
+glass.mp4
 glengarry-glen-ross.mp4
 godfather.mp4
 godfather2.mp4
@@ -280,6 +283,7 @@ jfk.mp4
 jojo-rabbit.mp4
 joker.mp4
 joy-luck-club.mp4
+jules-et-jim.mp4
 jumanji.mp4
 jungle-book.mp4
 juno.mp4
@@ -299,9 +303,11 @@ kundun.mp4
 kung-fu-panda.mp4
 la-confidential.mp4
 la-dolce-vita.mp4
+la-regle-du-jeu.mp4
 lady-and-the-tramp.mp4
 lady-vengeance.mp4
 lassie-come-home.mp4
+last-black-man-in-san-francisco.mp4
 last-of-the-mohicans.mp4
 last-tango-in-paris.mp4
 lawrence-of-arabia.mp4
@@ -448,7 +454,6 @@ rocky3.mp4
 rocky4.mp4
 romeo-and-juliet.mp4
 rosemary's-baby.mp4
-rules-of-the-game.mp4
 sanma-no-aji.mp4
 satantango.mp4
 saturday-night-fever.mp4
@@ -556,6 +561,7 @@ the-rescuers.mp4
 the-road.mp4
 the-searchers.mp4
 the-thing.mp4
+the-trial.mp4
 the-wind-rises.mp4
 the-wolverine.mp4
 thelma-and-louise.mp4
@@ -606,6 +612,7 @@ willy-wonka-and-the-chocolate-factory.mp4
 winged-migration.mp4
 wizard-of-oz.mp4
 world's-greatest-dad.mp4
+y-tu-mama-tambien.mp4
 yesterday.mp4
 yojimbo.mp4
 young-frankenstein.mp4
