@@ -5246,7 +5246,7 @@ const songs = [
 "Rod Stewart|Mandolin Wind|1971|AlCLTWRFVyI|Rod Stewart|S8196",
 "Father John Misty|I Love You, Honeybear|2015|khk77JHALmU|Josh Tillman|S9758",
 "Rosanne Cash|Seven Year Ache|1981|miIqI9Gql9M|Rosanne Cash|S3268",
-"Kool & The Gang|Summer Madness|1974|2SFt7JHwJeg|Kool & the Gang|S12803",
+"Kool & The Gang|Summer Madness|1974|QA8P7ss0M3s|Kool & the Gang|S12803",
 "New Order|Love Vigilantes|1985|UlHQSIMHqjA|New Order (band)|S3661",
 "!!! (Chk Chk Chk)|Heart of Hearts|2007|QDq8Krv6irE|!!!|S4317",
 "Adriano Celentano|Prisencólinensináinciúsol|1973|xSJunTTqvCI|Adriano Celentano|S9126",
