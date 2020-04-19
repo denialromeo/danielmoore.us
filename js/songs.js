@@ -10113,7 +10113,7 @@ const songs = [
 "Band of Horses|No One's Gonna Love You|2007|cuZo7pLnL7c|Band of Horses|S10072",
 "Primal Scream|Shoot Speed/Kill Light|2000|zjgtKurydCE|Primal Scream|S9325",
 "A Certain Ratio|Flight|1980|SVLH8fGDAEw|A Certain Ratio|S5074",
-"10,000 Maniacs|Hey Jack Kerouac|1987|a63PArLmEHs|10,000 Maniacs|S14025",
+"10,000 Maniacs|Hey Jack Kerouac|1987|5nSFFL3dBA4?start=35|10,000 Maniacs|S14025",
 "Jim Lowe|The Green Door|1956|PUzr0AOwIhk|Jim Lowe|S6909",
 "Soul Asylum|Somebody to Shove|1992|OrrE5bCA5lg|Soul Asylum|S8499",
 "Glenn Frey|The Heat Is On|1984|uZD8HKVKneI|Glenn Frey|S14444",
