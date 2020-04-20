@@ -699,7 +699,7 @@ const songs = [
 "Public Enemy|Don't Believe the Hype|1988|9vQaVIoEjOM|Public Enemy (band)|S319",
 "Sam & Dave|Soul Man|1967|pYh-LwbUwoQ|Sam & Dave|S945",
 "Nancy Sinatra & Lee Hazlewood|Some Velvet Morning|1967|j1sq_fdq_Ps|Nancy Sinatra|S1698",
-"Freda Payne|Band of Gold|1970|daxiMb0rITA|Freda Payne|S854",
+"Freda Payne|Band of Gold|1970|4e-5oMa_hkk|Freda Payne|S854",
 "Santogold|L.E.S. Artistes|2008|cz0Qb5ws98k|Santigold|S4745",
 "Gil Scott-Heron|The Revolution Will Not Be Televised|1971|QnJFhuOWgXg|Gil Scott-Heron|S4170",
 "Battles|Atlas|2007|IpGp-22t0lU|Battles (band)|S4277",
