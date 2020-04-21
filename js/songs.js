@@ -9731,7 +9731,7 @@ const songs = [
 "Tricky feat. PJ Harvey|Broken Homes|1998|_XAX7N6WQiA|Tricky (musician)|S8847",
 "My Chemical Romance|Na Na Na (Na Na Na Na Na Na Na Na Na)|2010|egG7fiE89IU|My Chemical Romance|S7651",
 "Pink Floyd|Welcome to the Machine|1975|fn1R-5p_j5c?start=15|Pink Floyd|S11913",
-"Dan Deacon|Wham City|2007|tlvA1GMBzW8|Dan Deacon|S15389",
+"Dan Deacon|Wham City|2007|4KUETGfEHOg|Dan Deacon|S15389",
 "Serge Gainsbourg|Aux armes et caetera|1979|Wd4qEzNyzmo|Serge Gainsbourg|S8362",
 "Detroit Grand Pubahs|Sandwiches|2000|94IdL3djJVU|Detroit Grand Pubahs|S6053",
 "Fela|Original Sufferhead|1981|eXDElcfSdy4|Fela Kuti|S10794",
