@@ -9275,7 +9275,7 @@ const songs = [
 "Syndicate of Sound|Little Girl|1966|d0nNPV8-tiA|Syndicate of Sound|S12389",
 "Moses Sumney|Lonely World|2016|fS63c-C-Rc4|Moses Sumney|S16153",
 "King Gizzard & The Lizard Wizard|Rattlesnake|2016|Q-i1XZc8ZwA|King Gizzard & the Lizard Wizard|S16421",
-"The Black Keys|Fever|2014|iZZUY32iCzU|The Black Keys|S10192",
+"The Black Keys|Fever|2014|trk7P-9QDyc|The Black Keys|S10192",
 "Skip James|Hard Time Killing Floor Blues|1931|UNftrsCMiQs|Skip James|S15873",
 "Main Source|Looking at the Front Door|1990|RNRCQ9eagWQ|Main Source|S11525",
 "Lou Christie|Two Faces Have I|1963|z6DE3IvWfrk|Lou Christie|S14681",
