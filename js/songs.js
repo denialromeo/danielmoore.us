@@ -8510,7 +8510,7 @@ const songs = [
 "Lee Konitz & Lennie Tristano|Subconscious-Lee|1949|RK4U0Q3LbWE|Lennie Tristano|S13222",
 "The Heartbeats|A Thousand Miles Away|1956|3HQBDRSryUA|The Heartbeats|S3466",
 "Ghostface Killah|Shakey Dog|2006|8BCJTscQlw4|Ghostface Killah|S10936",
-"Baccara|Yes Sir, I Can Boogie|1977|Ygb0F-VCTPI|Baccara|S5295",
+"Baccara|Yes Sir, I Can Boogie|1977|VbWaZHLjzms|Baccara|S5295",
 "DeFord Bailey|Pan American Blues|1927|yjlR8eS0YPM|DeFord Bailey|S4055",
 "Charlie Poole & the North Carolina Ramblers|Don't Let Your Deal Go Down|1925|HgpyFRwEWa4|Charlie Poole|S4054",
 "John Hiatt|Memphis in the Meantime|1987|LDdkwwiV-is?start=63|John Hiatt|S6947",
