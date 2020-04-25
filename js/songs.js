@@ -6678,7 +6678,7 @@ const songs = [
 "Thelonious Monk|Blue Monk|1954|_40V2lcxM7k|Thelonious Monk|S13254",
 "The Rolling Stones|Doom and Gloom|2012|1DWiB7ZuLvI|The Rolling Stones|S12091",
 "Bob Dylan|Gotta Serve Somebody|1979|wC10VWDTzmU|Bob Dylan|S5551",
-"The Marshall Tucker Band|Heard It in a Love Song|1977|SiLUTWcLCgU|The Marshall Tucker Band|S7444",
+"The Marshall Tucker Band|Heard It in a Love Song|1977|8a_s3K5p2aQ|The Marshall Tucker Band|S7444",
 "Joe South|Walk a Mile in My Shoes|1969|ofhw0lWpVZc|Joe South|S4142",
 "Queen|Now I'm Here|1974|3OSd17ko3O4?start=5|Queen (band)|S11975",
 "Jimmie Lunceford|Organ Grinder's Swing|1936|6og7ip44tx8|Jimmie Lunceford|S13207",
