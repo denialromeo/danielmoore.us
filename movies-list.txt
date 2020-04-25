@@ -141,7 +141,6 @@ dances-with-wolves.mp4
 dark-knight-returns.mp4
 dark-knight-returns2.mp4
 dawn-of-the-dead.mp4
-day-and-night.mp4
 days-of-heaven.mp4
 deadpool.mp4
 death-of-a-salesman.mp4
@@ -229,6 +228,7 @@ goodfellas.mp4
 goofy-movie.mp4
 goofy-movie2.mp4
 goonies.mp4
+gorillas-in-the-mist.mp4
 gran-torino.mp4
 grapes-of-wrath.mp4
 grave-of-the-fireflies.mp4
@@ -382,6 +382,7 @@ mutiny-on-the-bounty.mp4
 my-cousin-vinny.mp4
 my-darling-clementine.mp4
 my-dinner-with-andre.mp4
+my-neighbor-totoro.mp4
 mystic-river.mp4
 napoleon-dynamite.mp4
 nashville.mp4
