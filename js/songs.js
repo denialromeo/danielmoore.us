@@ -486,7 +486,7 @@ const songs = [
 "Nine Inch Nails|Closer|1994|PTFwQP86BRs|Nine Inch Nails|S119",
 "David Bowie|Blackstar|2015|kszLwBaC4Sw|David Bowie|S9733",
 "The Everly Brothers|Cathy's Clown|1960|PXvKAWiU_cQ|The Everly Brothers|S1143",
-"Bob Marley and the Wailers|Redemption Song|1980|yv5xonFSC4c|Bob Marley|S2343",
+"Bob Marley and the Wailers|Redemption Song|1980|nlJaPloe9TM|Bob Marley|S2343",
 "Bruce Springsteen|The River|1980|lc6F47Z6PI4?start=42|Bruce Springsteen|S2606",
 "Laurie Anderson|O Superman|1981|Vkfpi2H8tOE|Laurie Anderson|S513",
 "U2|Where the Streets Have No Name|1987|GzZWSrr5wFI|U2|S340",
