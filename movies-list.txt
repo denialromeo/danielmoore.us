@@ -206,6 +206,7 @@ frankenweenie.mp4
 french-connection.mp4
 friday-the-13th.mp4
 friday.mp4
+fritz-the-cat.mp4
 from-dusk-till-dawn.mp4
 from-here-to-eternity.mp4
 frozen.mp4
@@ -249,7 +250,6 @@ hannah-and-her-sisters.mp4
 happy-feet.mp4
 harold-and-kumar.mp4
 harold-and-kumar2.mp4
-hate-u-give.mp4
 hateful-eight.mp4
 heat.mp4
 heaven-and-earth.mp4
@@ -382,7 +382,6 @@ moonrise-kingdom.mp4
 moonstruck.mp4
 mulan.mp4
 mulholland-drive.mp4
-munna-bhai-mbbs.mp4
 mutiny-on-the-bounty.mp4
 my-cousin-vinny.mp4
 my-darling-clementine.mp4
@@ -479,7 +478,6 @@ shaft.mp4
 shane.mp4
 shaun-of-the-dead.mp4
 shawshank-redemption.mp4
-sherlock-jr.mp4
 shichinin-no-samurai.mp4
 shining.mp4
 shoah.mp4
@@ -528,9 +526,7 @@ stand-by-me.mp4
 star-wars.mp4
 star-wars2.mp4
 star-wars3.mp4
-steamboat-bill-jr.mp4
 steel-magnolias.mp4
-stepford-wives.mp4
 still-bill.mp4
 straight-outta-compton.mp4
 street-fighter.mp4
@@ -543,7 +539,6 @@ sunset-limited.mp4
 superbad.mp4
 supercop.mp4
 superman.mp4
-sweatbox.mp4
 sweeney-todd.mp4
 sword-in-the-stone.mp4
 synecdoche-new-york.mp4
@@ -558,9 +553,11 @@ the-apartment.mp4
 the-believer.mp4
 the-birds.mp4
 the-departed.mp4
+the-fighter.mp4
 the-fugitive.mp4
 the-general.mp4
 the-graduate.mp4
+the-hate-u-give.mp4
 the-interview.mp4
 the-killing.mp4
 the-mask.mp4
