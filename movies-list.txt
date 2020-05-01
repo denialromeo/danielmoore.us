@@ -52,6 +52,7 @@ avengers2.mp4
 avengers3.mp4
 avengers4.mp4
 avengers5.mp4
+awaara.mp4
 baby-driver.mp4
 back-to-the-future.mp4
 bad-moms.mp4
@@ -350,6 +351,7 @@ man-who-shot-liberty-valance.mp4
 man-with-a-movie-camera.mp4
 manchurian-candidate.mp4
 manhattan.mp4
+manikarnika.mp4
 mar-adentro.mp4
 march-of-the-penguins.mp4
 mary-poppins.mp4
