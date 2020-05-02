@@ -369,6 +369,7 @@ mera-naam-joker.mp4
 metropolis.mp4
 microcosmos.mp4
 midnight-cowboy.mp4
+midsommar.mp4
 million-dollar-baby.mp4
 minority-report.mp4
 misery.mp4
@@ -620,6 +621,7 @@ what-we-do-in-the-shadows.mp4
 whiplash.mp4
 white-heat.mp4
 who-framed-roger-rabbit.mp4
+wicker-man.mp4
 wild-bunch.mp4
 willy-wonka-and-the-chocolate-factory.mp4
 winged-migration.mp4
