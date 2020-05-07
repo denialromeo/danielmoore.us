@@ -5254,7 +5254,7 @@ const songs = [
 "John Cale|Andalucia|1973|wR2Y08yty9g|John Cale|S4162",
 "Tom Waits|Ol' 55|1973|PejBkU4-1fk|Tom Waits|S12973",
 "Daryl Hall & John Oates|Kiss on My List|1980|lsHld-iArOc|Hall & Oates|S6672",
-"The Smiths|Last Night I Dreamt That Somebody Loved Me|1987|4WCnl1VTEeg|The Smiths|S8463",
+"The Smiths|Last Night I Dreamt That Somebody Loved Me|1987|4WCnl1VTEeg?start=114|The Smiths|S8463",
 "Superorganism|Something for your M.I.N.D.|2017|RPS-Cq4uMFs|Superorganism (band)|S16487",
 "Fred and Adele Astaire|Fascinating Rhythm|1926|6BTM07B0U64|Adele Astaire|S6474",
 "Queens of the Stone Age|The Way You Used to Do|2017|GvyNyFXHj4k|Queens of the Stone Age|S16471",
