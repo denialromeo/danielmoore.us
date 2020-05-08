@@ -8693,7 +8693,7 @@ const songs = [
 "Donna Summer|State of Independence|1982|3XcKN0XbCbU|Donna Summer|S6128",
 "Cat Power|Nothing But Time|2012|x4OTnortXpc|Cat Power|S5734",
 "Tom Waits|Hang On St. Christopher|1987|0Fu67X5kA5g|Tom Waits|S3926",
-"Phil Collins|Sussudio|1985|r0qBaBb1Y-U|Phil Collins|S14868",
+"Phil Collins|Sussudio|1985|r0qBaBb1Y-U?start=35|Phil Collins|S14868",
 "Nitro DeLuxe|This Brutal House|1987|BnqJ7ojAPro|https://www.discogs.com/artist/3130-Nitro-Deluxe|S338",
 "Suprême NTM|Qu'est-ce qu'on attend|1995|duZh2lOgl5s|Suprême NTM|S13635",
 "Charles Mingus|Haitian Fight Song|1957|L7CoJEyiSfE|Charles Mingus|S13164",
