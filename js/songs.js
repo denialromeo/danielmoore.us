@@ -5035,7 +5035,7 @@ const songs = [
 "Lucienne Boyer|Parlez-moi d'amour|1930|7cEK-gQavkg|Lucienne Boyer|S7342",
 "Supertramp|Dreamer|1974|7fdAFmtq-o8|Supertramp|S8643",
 "Silver Jews|Random Rules|1998|bPD0JLwpc3k?start=18|Silver Jews|S4591",
-"Eagles|Tequila Sunrise|1973|kzI_v1CFJ8k|Eagles (band)|S6182",
+"Eagles|Tequila Sunrise|1973|8s6ujAvIqfg|Eagles (band)|S6182",
 "Blawan|Why They Hide Their Bodies Under My Garage?|2012|KL_Bbyi3ub8|Blawan|S5491",
 "Chris Kenner|I Like It Like That, Part 1|1961|S2vpKvkOn04?start=13|Chris Kenner|S5797",
 "Bing Crosby|Swinging on a Star|1944|rATftJiWdkw|Bing Crosby|S2668",
