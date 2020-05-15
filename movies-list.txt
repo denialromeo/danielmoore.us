@@ -143,12 +143,14 @@ corpse-bride.mp4
 crash.mp4
 crazy-rich-asians.mp4
 creature-from-the-black-lagoon.mp4
+crimes-and-misdemeanors.mp4
 crouching-tiger-hidden-dragon.mp4
 cruising.mp4
 crumb.mp4
 dancer-in-the-dark.mp4
 dances-with-wolves.mp4
 darjeeling-limited.mp4
+dark-city.mp4
 dawn-of-the-dead.mp4
 days-of-heaven.mp4
 deadpool.mp4
@@ -188,6 +190,7 @@ escape-from-new-york.mp4
 et.mp4
 eternal-sunshine-of-the-spotless-mind.mp4
 everest.mp4
+everyone-says-i-love-you.mp4
 evil-dead.mp4
 evil-dead2.mp4
 exorcist.mp4
@@ -205,6 +208,7 @@ filmworker.mp4
 finding-nemo.mp4
 flags-of-our-fathers.mp4
 flight.mp4
+fog-of-war.mp4
 footloose.mp4
 forrest-gump.mp4
 frankenweenie.mp4
