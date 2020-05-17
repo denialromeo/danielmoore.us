@@ -8009,7 +8009,7 @@ const songs = [
 "Nas|Life's a Bitch|1994|gheFrQ5X3mU|Nas|S4502",
 "Wild Nothing|Live in Dreams|2010|M0SFLuxJ_H0|Wild Nothing|S9025",
 "Miss Kittin & The Hacker|1982|1998|_LGI5qAwKP8|Miss Kittin|S15717",
-"Björk|Isobel|1995|AGjGh74n_9U|Björk|S5473",
+"Björk|Isobel|1995|VGPYO0mzmBQ|Björk|S5473",
 "Groove Armada|Superstylin'|2001|_kE0pxRkMtQ|Groove Armada|S6651",
 "The Wrens|She Sends Kisses|2003|i8xaUuZaIsI|The Wrens|S4685",
 "Skrillex|Scary Monsters and Nice Sprites|2010|WSeNSzJ2-Jw|Skrillex|S16297",
