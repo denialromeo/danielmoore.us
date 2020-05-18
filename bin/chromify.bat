@@ -1,1 +1,1 @@
-@ffmpeg -i "%~1" -strict -2 "%~n1.mp4"
+@ffmpeg -i "%~1" -strict -2 "%~n1_.mp4"
