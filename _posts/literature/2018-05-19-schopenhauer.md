@@ -130,8 +130,6 @@ box: schopenhauer
 
 > If you stroke a cat, it will purr; and, as inevitably, if you praise a man, a sweet expression of delight will appear on his face; and even though the praise is a palpable lie, it will be welcome, if the matter is one on which he prides himself.
 
-> For to kill a man in a fair fight, is to prove that you are superior to him in strength or skill; and to justify the deed, you must assume that the right of the stronger is really a right.
-
 > The general history of art and literature shows that the highest achievements of the human mind are, as a rule, not favorably received at first; but remain in obscurity until they win notice from intelligence of a high order, by whose influence they are brought into a position which they then maintain, in virtue of the authority thus given them. If the reason of this should be asked, it will be found that ultimately, a man can really understand and appreciate those things only which are of like nature with himself. The dull person will like what is dull, and the common person what is common; a man whose ideas are mixed will be attracted by confusion of thought; and folly will appeal to him who has no brains at all; but best of all, a man will like his own works, as being of a character thoroughly at one with himself.
 
 > We should do well to remember old [Gellert’s](https://en.wikipedia.org/wiki/Christian_F%C3%BCrchtegott_Gellert) fine and touching lament, that the best gifts of all find the fewest admirers, and that most men mistake the bad for the good,–a daily evil that nothing can prevent, like a plague which no remedy can cure. There is but one thing to be done, though how difficult!–the foolish must become wise,–and that they can never be.
