@@ -7952,7 +7952,7 @@ const songs = [
 "Sonny and Cher|Baby Don't Go|1965|BjHSOzVU5j0|Sonny & Cher|S13356",
 "Eels|Last Stop: This Town|1998|0TfqbuTBqX8|Eels (band)|S10693",
 "Led Zeppelin|Thank You|1969|u1z4vkPWkLQ|Led Zeppelin|S11395",
-"The Decemberists|Here I Dreamt I Was an Architect|2002|qkWrnWRKDJQ|The Decemberists|S4674",
+"The Decemberists|Here I Dreamt I Was an Architect|2002|qkWrnWRKDJQ?start=38|The Decemberists|S4674",
 "Rammstein|Mein Teil|2004|PBvwcH4XX6U|Rammstein|S14919",
 "Sub Sub|Ain't No Love|1993|pRguEi3wufQ|Sub Sub|S2063",
 "Berthe Sylva|Les Roses Blanches|1926|sJXx7jZX39U|https://fr.wikipedia.org/wiki/Berthe_Sylva|S10153",
