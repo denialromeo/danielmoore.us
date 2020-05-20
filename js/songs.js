@@ -269,7 +269,7 @@ const songs = [
 "Lorde|Green Light|2017|dMK_npDG12Q|Lorde|S16436",
 "The Breeders|Cannonball|1993|fxvkI9MTQw4|The Breeders|S121",
 "Eminem feat. Dido|Stan|2000|gOMhN-hfMtY|Eminem|S1385",
-"Michael Jackson|Beat It|1982|oRdxUFDoQe0|Michael Jackson|S457",
+"Michael Jackson|Beat It|1982|oRdxUFDoQe0?start=22|Michael Jackson|S457",
 "Radiohead|Idioteque|2000|Y7WCdYFqz5g|Radiohead|S3124",
 "Sam Cooke|You Send Me|1957|mrwfB4aAZZc|Sam Cooke|S1236",
 "? and the Mysterians|96 Tears|1966|R7uC5m-IRns|%3F and the Mysterians|S969",
