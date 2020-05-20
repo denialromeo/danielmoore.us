@@ -4129,7 +4129,7 @@ const songs = [
 "Yo La Tengo|Tom Courtenay|1995|lrALeoN18bw|Yo La Tengo|S4228",
 "Jeff Buckley|Everybody Here Wants You|1998|nrMwgTc69y4|Jeff Buckley|S4847",
 "Ian Hunter|Once Bitten, Twice Shy|1975|NKgQO6sILug|Ian Hunter (singer)|S6767",
-"Pascal Comelade & PJ Harvey|Love Too Soon|1998|Z87cA1c3M50|PJ Harvey|S7852",
+"Pascal Comelade & PJ Harvey|Love Too Soon|1998|lBvJpl_0ZME|PJ Harvey|S7852",
 "The Notwist|Pick Up the Phone|2002|Ox95G3v-CD0|The Notwist|S7774",
 "Red Hot Chili Peppers|Can't Stop|2002|8DyziWtkfBw|Red Hot Chili Peppers|S8125",
 "The Showmen|It Will Stand|1961|aa17h1n5kCw|The Showmen|S1137",
