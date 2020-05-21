@@ -4163,7 +4163,7 @@ const songs = [
 "The Plastic Ono Band with the Harlem Community Choir|Happy Xmas (War Is Over)|1971|yN4Uu0OlmTg|John Lennon/Plastic Ono Band|S2308",
 "The Byrds|Goin' Back|1967|wkIPB_MYl30|The Byrds|S1491",
 "Bersuit Vergarabat|Sr. Cobranza|1998|MjlYbw9WbHU|Bersuit Vergarabat|S10152",
-"Iggy Azalea feat. Charli XCX|Fancy|2014|O-zpOMYRi0w|Iggy Azalea|S9605",
+"Iggy Azalea feat. Charli XCX|Fancy|2014|O-zpOMYRi0w?start=3|Iggy Azalea|S9605",
 "Chuck Willis|C.C. Rider|1957|-7R-ck2LRWo|Chuck Willis|S1244",
 "The Horrors|Something to Remember Me By|2017|e38KoYlHDTA|The Horrors|S16495",
 "Todd Rundgren|Can We Still Be Friends|1978|jI_oBXzLNmw|Todd Rundgren|S8779",
