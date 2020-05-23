@@ -7269,7 +7269,7 @@ const songs = [
 "Caribou|Sun|2010|f-qof_oiF0M|Dan Snaith|S5715",
 "Razorlight|Golden Touch|2004|KbANp9cRd6o|Razorlight|S8115",
 "Double 99|Rip Groove|1997|uR3Vw8J8vUo?start=5|Double 99|S2131",
-"Honey Cone|Want Ads|1971|IkJGSnRB9RM|Honey Cone|S6729",
+"Honey Cone|Want Ads|1971|c2cQ47VVzU0|Honey Cone|S6729",
 "Les Chats Sauvages|Twist à St. Tropez|1961|BpIdUE3AZu8|Les Chats Sauvages|S7246",
 "Dido|Thank You|1999|1TO48Cnl66w|Dido (singer)|S6068",
 "Spoonie Gee|The Godfather|1987|OEWTaMSe64w|Spoonie Gee|S1960",
