@@ -5573,7 +5573,7 @@ const songs = [
 "Bessie Smith|Nobody Knows When You're Down and Out|1929|Zea-1Fzi9JQ|Bessie Smith|S4266",
 "Gram Parsons|She|1973|t6YMdZdD9iQ|Gram Parsons|S3687",
 "Kiss|Beth|1976|kHkojuUSDO8|Kiss (band)|S7133",
-"Ms. Dynamite|Dy-na-mi-tee|2002|LgfeiYjlK8o|Ms. Dynamite|S1516",
+"Ms. Dynamite|Dy-na-mi-tee|2002|8pTYmAWBCck|Ms. Dynamite|S1516",
 "Wilbert Harrison|Let's Work Together, Part 1|1969|kYWiUErA9Kw|Wilbert Harrison|S9007",
 "En Vogue|Hold On|1990|liT8cILFAV4|En Vogue|S2929",
 "GoldLink feat. Brent Faiyaz & Shy Glizzy|Crew|2016|nhNqbe6QENY|GoldLink|S16386",
