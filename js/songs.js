@@ -6283,7 +6283,7 @@ const songs = [
 "Madness|Embarrassment|1980|P23Gqn6y8AI|Madness (band)|S1840",
 "Frankie Valli and the Four Seasons|The Night|1972|XsSoDsxB7Yo|The Four Seasons (band)|S6467",
 "Pizzicato Five|Twiggy Twiggy|1991|j_F49QSHuDE|Pizzicato Five|S7970",
-"Scott Walker|The Seventh Seal|1969|0ycB_mn_hlM|Scott Walker (singer)|S8333",
+"Scott Walker|The Seventh Seal|1969|UFzvtDiiibw|Scott Walker (singer)|S8333",
 "The Partridge Family|I Think I Love You|1970|hV1dQdR6E2M|The Partridge Family|S7850",
 "The Verve Pipe|The Freshmen|1996|1umEXpGHc0E|The Verve Pipe|S8979",
 "Sonny Charles & The Checkmates Ltd.|Black Pearl|1969|H3ybXo0H8yY|Sonny Charles|S3273",
