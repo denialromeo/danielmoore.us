@@ -7582,7 +7582,7 @@ const songs = [
 "Xiu Xiu|I Luv the Valley (OH!)|2004|aNrB3aGOq7U|Xiu Xiu|S9076",
 "Gene Pitney|It Hurts to Be in Love|1964|TlN-rKMwF8M|Gene Pitney|S3707",
 "KC and the Sunshine Band|I'm Your Boogie Man|1976|_Ee3C2m3OXE|KC and the Sunshine Band|S13854",
-"Jacques Brel|Ces Gens Là|1965|_XrO-kBidNI|Jacques Brel|S9248",
+"Jacques Brel|Ces Gens Là|1965|_XrO-kBidNI?start=18|Jacques Brel|S9248",
 "Simply Red|If You Don't Know Me By Now|1989|zTcu7MCtuTs|Simply Red|S12969",
 "The Charlatans|North Country Boy|1997|xBAxEQZViTU|The Charlatans (English band)|S2140",
 "MC Solaar|Caroline|1991|PjELabiPItw|MC Solaar|S11589",
