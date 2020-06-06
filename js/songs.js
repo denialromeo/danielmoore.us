@@ -151,7 +151,7 @@ const songs = [
 "Yeah Yeah Yeahs|Maps|2003|oIIxlgcuQRU|Yeah Yeah Yeahs|S2254",
 "Percy Sledge|When a Man Loves a Woman|1966|EYb84BDMbi0|Percy Sledge|S964",
 "The Who|Baba O'Riley|1971|LDknRxdHNog|The Who|S2570",
-"T. Rex|Get It On [Bang a Gong (Get It On)]|1971|wZkTh_T75QY|T. Rex (band)|S815",
+"T. Rex|Bang a Gong (Get It On)|1971|wZkTh_T75QY|T. Rex (band)|S815",
 "The Shirelles|Will You Love Me Tomorrow|1960|cbxxkwBQk_o|The Shirelles|S1141",
 "Jefferson Airplane|White Rabbit|1967|WANNqr-vcx0|Jefferson Airplane|S950",
 "Soft Cell|Tainted Love|1981|oGXpDhNAO1Y|Soft Cell|S515",
