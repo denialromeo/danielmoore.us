@@ -7433,7 +7433,7 @@ const songs = [
 "Converge|Concubine/Fault & Fracture|2001|38m1NXeQP4E|Converge (band)|S14258",
 "Joe Jones|You Talk Too Much|1960|2GOYYbiEul0|Joe Jones (singer)|S6936",
 "The Ventures|Hawaii 5-0|1969|aQSPivbWwuY?start=13|The Ventures|S8973",
-"Nazareth|Hair of the Dog|1975|jEG0-3xlAkg|Nazareth (band)|S11722",
+"Nazareth|Hair of the Dog|1975|x-Bg0jjJhgQ|Nazareth (band)|S11722",
 "CHVRCHES|Clearest Blue|2015|BZyzX4c1vIs|Chvrches|S9726",
 "Bourvil|Ballade irlandaise (un oranger)|1958|UF1WNxsjZcM|Bourvil|S10280",
 "Tricky|Christiansands|1996|hBpSJ-Lt94A|Tricky (musician)|S8845",
