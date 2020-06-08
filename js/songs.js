@@ -8065,7 +8065,7 @@ const songs = [
 "Lonnie Mack|Memphis|1963|4GwNfUHUXAg|Lonnie Mack|S7299",
 "Frida|I Know There's Something Going On|1982|372436tJiaM|Anni-Frid Lyngstad|S10874",
 "Le Mystère des Voix Bulgares|Kalimankou denkou|1975|Lak6nZekv5M|Bulgarian State Television Female Vocal Choir|S14650",
-"Richard \"Rabbit\" Brown|James Alley-Blues|1927|MKHkG0GxA0E|Rabbit Brown|S9331",
+"Richard \"Rabbit\" Brown|James Alley Blues|1927|MKHkG0GxA0E|Rabbit Brown|S9331",
 "Janet Kay|Silly Games|1979|qCVR5XR04Mo|Janet Kay|S9251",
 "Cher|Half-Breed|1973|Z6E98ZRaU1s|Cher|S13716",
 "Bonnie Tyler|It's a Heartache|1977|5bQ0GW3acE4|Bonnie Tyler|S5590",
