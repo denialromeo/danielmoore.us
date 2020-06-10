@@ -2450,7 +2450,7 @@ const songs = [
 "Van Halen|Ain't Talkin' 'Bout Love|1978|0WDSkpPQGHw|Van Halen|S3933",
 "Animal Collective|Fireworks|2007|CazApTMOrUA|Animal Collective|S4344",
 "The Coasters|Young Blood|1957|e-Exe4YUJyI|The Coasters|S1625",
-"Ennio Morricone|The Good, the Bad and the Ugly|1966|p2fg3bR2osU|Ennio Morricone|S6287",
+"Ennio Morricone|The Good, the Bad and the Ugly|1966|h1PfrmCGFnk|Ennio Morricone|S6287",
 "Janet Jackson|Got 'Til It's Gone|1997|ld6wkHWrfjQ|Janet Jackson|S17",
 "The Cure|10:15 Saturday Night|1978|zBQpSzKeXyY|The Cure|S5925",
 "Rihanna|Needed Me|2016|wfN4PVaOU5Q|Rihanna|S16176",
