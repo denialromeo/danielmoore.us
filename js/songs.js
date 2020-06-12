@@ -9577,7 +9577,7 @@ const songs = [
 "Iron Maiden|Rime of the Ancient Mariner|1984|2AmrIydnXIs|Iron Maiden|S15551",
 "The Wedding Present|Interstate 5|2004|Cnvd5UQowuA|The Wedding Present|S8961",
 "IAM|Demain c'est loin|1997|JaqLOsO6dTw|IAM (band)|S12710",
-"Diana Ross|Theme from Mahogany (Do You Know Where You're Going To)|1975|3DnxTvqOe-I|Diana Ross|S6064",
+"Diana Ross|Theme from Mahogany (Do You Know Where You're Going To)|1975|JXzaAyCPP4A|Diana Ross|S6064",
 "Julio Bashmore|Battle for Middle You|2011|aLqWjUWGYFA|Julio Bashmore|S7022",
 "Bob Marley and the Wailers|Roots, Rock, Reggae|1976|2jN1bqGr3ZY|Bob Marley|S5560",
 "Les Wampas|Manu Chao|2003|DqqwB9jn3A4|Les Wampas|S14659",
