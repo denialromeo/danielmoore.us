@@ -1593,7 +1593,7 @@ const songs = [
 "The Bangles|Manic Monday|1986|SsmVgoXDq2w|The Bangles|S377",
 "The Beatles|Nowhere Man|1965|8scSwaKbE64|The Beatles|S3197",
 "T. Rex|Metal Guru|1972|MQr9WbBfoD8|T. Rex (band)|S8664",
-"KC and the Sunshine Band|That's the Way (I Like It)|1975|q3svW8PM_jc|KC and the Sunshine Band|S713",
+"KC and the Sunshine Band|That's the Way (I Like It)|1975|O0_H3F84Yjk|KC and the Sunshine Band|S713",
 "Pixies|Here Comes Your Man|1989|tPgf_btTFlc|Pixies (band)|S3708",
 "Funky Four Plus One|That's the Joint|1980|SVxk9PW62Vk|Funky 4 + 1|S539",
 "Elvis Costello and the Attractions|Shipbuilding|1983|fprYfInkErg|Elvis Costello|S3302",
