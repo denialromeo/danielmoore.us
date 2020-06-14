@@ -53,7 +53,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 * "[LibreOffice](https://www.libreoffice.org/)" by The Document Foundation (Open-source Microsoft Office replacement.)
 * "[ScreenToGif](https://github.com/NickeManarin/ScreenToGif#readme)" by Nicke Manarin (Animated screenshots.)
-* "[Stellarium](https://github.com/Stellarium/stellarium#readme)" by Fabien Ch&eacute;reau (Astronomy for city-dwellers.)
 * "[Vimium](https://github.com/philc/vimium#readme)" by Phil Crosby (Chrome extension for mouse-less browsing.)
 * "[youtube-dl](https://github.com/rg3/youtube-dl#readme)" by Ricardo Garc&iacute;a (YouTube video downloader.)
 
