@@ -230,7 +230,7 @@ const songs = [
 "Wilson Pickett|In the Midnight Hour|1965|FGVGFfj7POA|Wilson Pickett|S996",
 "The Beach Boys|Don't Worry Baby|1964|9Y-0nWVdBH4|The Beach Boys|S1660",
 "Jimi Hendrix|Hey Joe|1966|rXwMrBb2x1Q|Jimi Hendrix|S965",
-"Dusty Springfield|Son of a Preacher Man|1968|DjydOI4MEIw|Dusty Springfield|S916",
+"Dusty Springfield|Son of a Preacher Man|1968|dp4339EbVn8|Dusty Springfield|S916",
 "Mott the Hoople|All the Young Dudes|1972|yNHdPPJGowY|Mott the Hoople|S785",
 "Frank Ocean|Pyramids|2012|dMV31MWIjLE|Frank Ocean|S5027",
 "FKA Twigs|Two Weeks|2014|3yDP9MKVhZc|FKA Twigs|S9550",
