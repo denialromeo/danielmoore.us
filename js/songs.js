@@ -386,7 +386,7 @@ const songs = [
 "Stan Getz, João Gilberto and Astrud Gilberto|The Girl from Ipanema|1964|sVdaFQhS86E|João Gilberto|S2826",
 "The xx|Crystalised|2009|Pib8eYDSFEI|The xx|S4829",
 "Queen & David Bowie|Under Pressure|1981|YoDh_gHDvkk|Queen (band)|S1871",
-"Nick Drake|Pink Moon|1972|aXnfhnCoOyo|Nick Drake|S2575",
+"Nick Drake|Pink Moon|1972|irq959oNVww|Nick Drake|S2575",
 "The Crystals|Da Doo Ron Ron (When He Walked Me Home)|1963|L0dikX80Ed8|The Crystals|S1054",
 "Patti Smith Group|Because the Night|1978|c_BcivBprM0|Patti Smith|S604",
 "The Beatles|Norwegian Wood (This Bird Has Flown)|1965|Y_V6y1ZCg_8|The Beatles|S2496",
