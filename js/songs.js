@@ -6737,7 +6737,7 @@ const songs = [
 "Madonna|Where's the Party|1986|7t6w8T0eiSs|Madonna (entertainer)|S2623",
 "Zebda|Tomber la chemise|1998|a5sJrDHWOuw|Zebda|S12658",
 "Onyx|Throw Ya Gunz|1992|mQmfzGf9904|Onyx (hip hop group)|S11804",
-"Carly Simon|That's the Way I've Always Heard It Should Be|1971|Ux7HgO9QhAc|Carly Simon|S13714",
+"Carly Simon|That's the Way I've Always Heard It Should Be|1971|Ux7HgO9QhAc?start=29|Carly Simon|S13714",
 "The Men|Open Your Heart|2012|8NEjJJYp9fo|The Men (punk band)|S5025",
 "Otis Redding|These Arms of Mine|1962|GVbTE4wCbpw|Otis Redding|S3752",
 "KC and the Sunshine Band|Please Don't Go|1979|w-l5FyA3pgo|KC and the Sunshine Band|S12951",
