@@ -5347,7 +5347,7 @@ const songs = [
 "Yardbirds|Over Under Sideways Down|1966|L4DdAs0PddQ|The Yardbirds|S9084",
 "Billy Idol|Rebel Yell|1983|VdphvuyaV_I|Billy Idol|S10173",
 "The Chemical Brothers|Life Is Sweet|1995|30p2UWAegeQ|The Chemical Brothers|S5770",
-"The Blue Nile|Tinseltown in the Rain|1984|7KI0-PTnt3w|The Blue Nile|S5514",
+"The Blue Nile|Tinseltown in the Rain|1984|7KI0-PTnt3w?start=19|The Blue Nile|S5514",
 "Gil Scott-Heron|New York Is Killing Me|2010|recCXTgAHQ4|Gil Scott-Heron|S6559",
 "Waylon Jennings|Are You Sure Hank Done It This Way|1975|TNpLSaCirj8|Waylon Jennings|S12843",
 "The Paris Sisters|I Love How You Love Me|1961|lwGSKea-lGw|The Paris Sisters|S7849",
