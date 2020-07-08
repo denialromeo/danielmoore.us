@@ -3915,7 +3915,7 @@ const songs = [
 "Teenage Fanclub|Star Sign|1991|YHfasfkX8MM|Teenage Fanclub|S189",
 "Nirvana|Polly|1991|abBgsNx85mI|Kurt Cobain|S7753",
 "Tori Amos|Silent All These Years|1991|HSYr0etDzRM|Tori Amos|S8821",
-"The Korgis|Everybody's Got to Learn Sometime|1980|fOVECbr-vsc|The Korgis|S7143",
+"The Korgis|Everybody's Got to Learn Sometime|1980|EMbJ0CAnfMg|The Korgis|S7143",
 "Deerhunter|Agoraphobia|2008|1STak77zIkc|Deerhunter|S4777",
 "Beastie Boys|Shake Your Rump|1989|BptQHAW2T5M|Beastie Boys|S3178",
 "James Taylor|You've Got a Friend|1971|3WJ1cf3nrLE|James Taylor|S1733",
