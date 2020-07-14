@@ -317,7 +317,7 @@ const songs = [
 "Neil Young|Heart of Gold|1972|Eh44QPT1mPE?start=107|Neil Young|S797",
 "The Beatles|Come Together|1969|45cYwDMibGo|The Beatles|S2531",
 "David Bowie|Ashes to Ashes|1980|HyMm4rJemtI|David Bowie|S549",
-"Jefferson Airplane|Somebody to Love|1967|JUbMWtUyIIE|Jefferson Airplane|S947",
+"Jefferson Airplane|Somebody to Love|1967|cBYv2wr9co0|Jefferson Airplane|S947",
 "The Flaming Lips|Do You Realize??|2002|lPXWt2ESxVY|The Flaming Lips|S1530",
 "The Beatles|Ticket to Ride|1965|SyNt5zm3U_M|The Beatles|S1001",
 "Pixies|Monkey Gone to Heaven|1989|XycBLF6kWuY|Pixies (band)|S245",
