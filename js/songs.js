@@ -5472,7 +5472,7 @@ const songs = [
 "The Knife|Pass This On|2003|gKhjaGRhIYU?start=15|The Knife|S9270",
 "Sylvan Esso|Coffee|2014|Qr5AIKRPIHo|Sylvan Esso|S9627",
 "James Brown|Super Bad|1970|LJ9CLOEOB5U|James Brown|S6846",
-"The Jimi Hendrix Experience|Castles Made of Sand|1967|bn6ZvGDovjw|Jimi Hendrix|S6911",
+"The Jimi Hendrix Experience|Castles Made of Sand|1967|XJ035W-2p6M|Jimi Hendrix|S6911",
 "Paul McCartney|Here Today|1982|YkzgAJbfme8|Paul McCartney|S7882",
 "Crowded House|Into Temptation|1988|U3JvMhemwZU|Crowded House|S1982",
 "Icehouse|Great Southern Land|1982|IOBd0PwQouE|Icehouse (band)|S11064",
