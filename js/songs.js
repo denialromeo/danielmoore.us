@@ -6303,7 +6303,7 @@ const songs = [
 "Alain Souchon|Allo Maman Bobo|1977|KG-q7vzxKY8|Alain Souchon|S5139",
 "Henry Mancini|Peter Gunn|1958|MIKSQT-oXfc|Henry Mancini|S4074",
 "Don Covay|Mercy, Mercy|1964|pWioaVN9olY|Don Covay|S6121",
-"Gorillaz|19/2000|2001|WXR-bCF5dbM|Gorillaz|S6615",
+"Gorillaz|19-2000|2001|WXR-bCF5dbM|Gorillaz|S6615",
 "The Slickers|Johnny Too Bad|1970|lRm7j2UL3YY|The Slickers|S4414",
 "Caribou|Our Love|2014|NywC_RQovt4|Dan Snaith|S9619",
 "Pinegrove|Old Friends|2016|pAtGGZjVRdo|Pinegrove (band)|S16165",
