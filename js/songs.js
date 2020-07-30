@@ -1161,7 +1161,7 @@ const songs = [
 "Led Zeppelin|Heartbreaker|1969|S_CYdTmj7lA|Led Zeppelin|S2543",
 "Sex Pistols|Holidays in the Sun|1977|2Ah1JM9mf60|Sex Pistols|S652",
 "Daft Punk|Harder, Better, Faster, Stronger|2001|gAjR4_CbPpQ|Daft Punk|S4606",
-"Steve Miller Band|The Joker|1973|F5N7qNid79s|Steve Miller Band|S759",
+"Steve Miller Band|The Joker|1973|dV3AziKTBUo|Steve Miller Band|S759",
 "Little Feat|Willin'|1972|RNqv85coyTw|Little Feat|S3567",
 "David Bowie|Suffragette City|1972|ED3SBJhawcA|David Bowie|S3230",
 "The Doobie Brothers|What a Fool Believes|1978|qKYQNtF11eg|The Doobie Brothers|S1573",
