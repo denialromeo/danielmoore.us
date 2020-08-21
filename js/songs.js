@@ -934,7 +934,7 @@ const songs = [
 "Mary Wells|My Guy|1964|r1M5eEJeT38|Mary Wells|S1037",
 "Lady Gaga|Bad Romance|2009|qrO4YZeyl0I|Lady Gaga|S4813",
 "Amerie|1 Thing|2005|bbqVg_23otg|Amerie|S2999",
-"Chris Isaak|Wicked Game|1989|dlJew-Dw87I|Chris Isaak|S220",
+"Chris Isaak|Wicked Game|1989|jd-qI62gNJM|Chris Isaak|S220",
 "Bessie Smith|St. Louis Blues|1925|3rd9IaA_uJI|Bessie Smith|S2743",
 "The Beatles|You've Got to Hide Your Love Away|1965|V8nLraecPRY|The Beatles|S2497",
 "Marvin Gaye & Tammi Terrell|Ain't No Mountain High Enough|1967|IC5PL0XImjw|Tammi Terrell|S951",
