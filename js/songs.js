@@ -7602,7 +7602,7 @@ const songs = [
 "The Hellacopters|By the Grace of God|2002|uomHfK0zixA|The Hellacopters|S11021",
 "Fatboy Slim|Everybody Needs a 303|1996|o6eIBE7Bo3U|Fatboy Slim|S6353",
 "Stan Kenton|City of Glass (Suite)|1952|1HxuWh2ChMs|Stan Kenton|S13251",
-"Pharrell Williams feat. Gwen Stefani|Can I Have It Like That|2005|IDC5yOSuCv0|Pharrell Williams|S3032",
+"Pharrell Williams feat. Gwen Stefani|Can I Have It Like That|2005|vNxXAFMIeAY|Pharrell Williams|S3032",
 "The Roots|How I Got Over|2009|zI4D1QOLGuM|The Roots|S12109",
 "Maurice Fanon|L'écharpe|1963|KYHRgYwrNDQ|https://fr.wikipedia.org/wiki/Maurice_Fanon|S11580",
 "The Antlers|I Don't Want Love|2011|kMkCI_yd2-0|The Antlers (band)|S5214",
