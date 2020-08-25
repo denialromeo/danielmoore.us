@@ -1879,7 +1879,7 @@ const songs = [
 "Kanye West feat. Dwele|Flashing Lights|2007|ila-hAUXR5U?start=6|Kanye West|S4771",
 "Queen|Somebody to Love|1976|kijpcUv-b8M?start=5|Queen (band)|S8043",
 "Arcade Fire|Afterlife|2013|EcKinnMXuKg|Arcade Fire|S9404",
-"The Carter Family|Can the Circle Be Unbroken (Bye and Bye)|1935|qjHjm5sRqSA|Carter Family|S2661",
+"The Carter Family|Can the Circle Be Unbroken (By and By)|1935|qjHjm5sRqSA|Carter Family|S2661",
 "Tom Waits|(Looking For) The Heart of Saturday Night|1974|lyyFLYNbQpg|Tom Waits|S8796",
 "Prince|I Wanna Be Your Lover|1979|0KqqwdUSrrA|Prince (musician)|S3729",
 "Dick Dale|Miserlou|1962|mKpsuGMeqHI|Dick Dale|S3315",
