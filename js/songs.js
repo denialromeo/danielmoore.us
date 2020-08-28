@@ -493,7 +493,7 @@ const songs = [
 "Robert Johnson|Cross Road Blues|1936|Yd60nI4sa9A|Robert Johnson|S2706",
 "PJ Harvey|Rid of Me|1993|73cY3ft7h5s|PJ Harvey|S2073",
 "Muddy Waters|Mannish Boy|1955|bSfqNEvykv0|Muddy Waters|S1302",
-"Bob Dylan|Desolation Row|1965|hUvcWXTIjcU|Bob Dylan|S2499",
+"Bob Dylan|Desolation Row|1965|jxUNPIv8eu0|Bob Dylan|S2499",
 "Phil Collins|In the Air Tonight|1981|YkADj0TPrJA|Phil Collins|S1578",
 "The Righteous Brothers|Unchained Melody|1965|qiiyq2xrSI0|The Righteous Brothers|S1011",
 "Roy Orbison|Crying|1961|qLC9o_unLq4|Roy Orbison|S1114",
