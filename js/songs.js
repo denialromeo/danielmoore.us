@@ -962,7 +962,7 @@ const songs = [
 "Bruce Springsteen|Rosalita (Come Out Tonight)|1973|WZQrCLPf5kc|Bruce Springsteen|S3847",
 "The Jam|Town Called Malice|1982|YfpRm-p7qlY|The Jam|S491",
 "Tame Impala|Elephant|2012|PTllQ0oJduU|Tame Impala|S5044",
-"Kanye West|New Slaves|2013|vQ0u09mFodw|Kanye West|S9473",
+"Kanye West|New Slaves|2013|-SoKFycTmVU?start=5|Kanye West|S9473",
 "The Smashing Pumpkins|Tonight, Tonight|1995|NOG3eus4ZSo|The Smashing Pumpkins|S3818",
 "The Contours|Do You Love Me|1962|l3zJZ2d4cis|The Contours|S1082",
 "The Beta Band|Dry the Rain|1997|ek_X_e8Byng|The Beta Band|S2144",
