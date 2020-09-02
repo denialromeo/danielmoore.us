@@ -1678,7 +1678,7 @@ const songs = [
 "La Roux|In for the Kill|2009|tXtATeQ7GKg|La Roux|S4812",
 "Glenn Miller|Moonlight Serenade|1939|rjq1aTLjrOE|Glenn Miller|S2718",
 "Curtis Mayfield|Freddie's Dead|1972|0B6TKClPFQA|Curtis Mayfield|S1316",
-"Arctic Monkeys|When the Sun Goes Down|2006|yUatH8zI6Qc|Arctic Monkeys|S4031",
+"Arctic Monkeys|When the Sun Goes Down|2006|EqkBRVukQmE|Arctic Monkeys|S4031",
 "Stiff Little Fingers|Alternative Ulster|1978|nTO7nXw4StY|Stiff Little Fingers|S2334",
 "Doves|There Goes the Fear|2002|SneuvKIkM3A|Doves (band)|S1511",
 "Bob Marley and the Wailers|Jamming|1977|5WlCdiU9IzA|Bob Marley|S657",
