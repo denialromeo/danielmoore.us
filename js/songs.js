@@ -2261,7 +2261,7 @@ const songs = [
 "Smokey Robinson and the Miracles|I Second That Emotion|1967|mv9cWgkpIZ4|The Miracles|S956",
 "Green Day|When I Come Around|1994|i8dh9gDzmz8|Green Day|S3453",
 "The Kinks|Days|1968|ptMgZI6O8gg|The Kinks|S7125",
-"Diana Ross and the Supremes|Love Child|1968|rntxzyRt9UQ|Diana Ross|S3874",
+"Diana Ross and the Supremes|Love Child|1968|CYzIPxjFBho|Diana Ross|S3874",
 "Chromatics|Kill for Love|2011|c0mxXrHowHQ|Chromatics (band)|S5005",
 "Spinners|Could It Be I'm Falling in Love|1972|nVGagFVhbAw|The Spinners (American R&B group)|S1554",
 "Prince Buster|Al Capone|1965|OaDx6_-WbLs|Prince Buster|S8017",
