@@ -2860,7 +2860,7 @@ const songs = [
 "Jean Knight|Mr. Big Stuff|1971|9f4CyQto-0E|Jean Knight|S1728",
 "Madonna|Open Your Heart|1986|snsTmi9N9Gs|Madonna (entertainer)|S1944",
 "Grateful Dead|Truckin'|1970|pafY6sZt0FE|Grateful Dead|S3452",
-"Cream|I Feel Free|1966|prnbF8Eagdg|Cream (band)|S1677",
+"Cream|I Feel Free|1966|gJktf4aTNvk|Cream (band)|S1677",
 "John Waite|Missing You|1984|k9e157Ner90|John Waite|S442",
 "Thundercat feat. Kenny Loggins & Michael McDonald|Show You the Way|2017|Z-zdIGxOJ4M|Thundercat (musician)|S16505",
 "Elton John|I Guess That's Why They Call it the Blues|1983|h6KYAVn8ons|Elton John|S4458",
