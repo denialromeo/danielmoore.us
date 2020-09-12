@@ -2040,7 +2040,7 @@ const songs = [
 "Slowdive|Sugar for the Pill|2017|BxwAPBxc0lU|Slowdive|S16479",
 "Armand van Helden|U Don't Know Me|1999|a8u5-CnmJk8|Armand van Helden|S1361",
 "Ray Charles|Lonely Avenue|1956|6f4m6Ku2jyk|Ray Charles|S1279",
-"Michael Jackson|Smooth Criminal|1987|h_D3VFfhvs4|Michael Jackson|S3506",
+"Michael Jackson|Smooth Criminal|1987|h_D3VFfhvs4?start=64|Michael Jackson|S3506",
 "Donovan|Hurdy Gurdy Man|1968|jRsrDLkACTs|Donovan|S6134",
 "Dr. John|I Walk on Guilded Splinters|1968|kWvdO3l4_P8|Dr. John|S1701",
 "Earth, Wind & Fire with The Emotions|Boogie Wonderland|1979|god7hAPv8f0|Earth, Wind & Fire|S592",
