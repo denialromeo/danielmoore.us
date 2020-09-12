@@ -3773,7 +3773,7 @@ const songs = [
 "Elvis Presley|Return to Sender|1962|PU5xxh5UX4U|Elvis Presley|S1102",
 "The Source feat. Candi Staton|You Got the Love|1991|x7dMGw3uzEU|The Source (band)|S2031",
 "Aretha Franklin|Don't Play That Song|1970|6ktFUwPGWag|Aretha Franklin|S870",
-"Focus|Hocus Pocus|1971|g4ouPGGLI6Q|Focus (band)|S6416",
+"Focus|Hocus Pocus|1971|g4ouPGGLI6Q?start=11|Focus (band)|S6416",
 "The B-52's|Private Idaho|1980|yXmnmvDl-ao|The B-52's|S3160",
 "Lisa Lisa & Cult Jam with Full Force|I Wonder if I Take You Home|1985|UJLhG8YKbII|Lisa Lisa and Cult Jam|S407",
 "Ted Nugent|Cat Scratch Fever|1977|I47floRRAFs|Ted Nugent|S8699",
