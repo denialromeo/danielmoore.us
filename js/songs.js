@@ -10270,5 +10270,5 @@ const songs = [
 "Jerry Jeff Walker|L.A. Freeway|1973|bD4RD8vlqVQ?start=82|Jerry Jeff Walker|S4171",
 "Age of Chance|Kiss|1986|XEVB4dAw6jk|Age of Chance|S1951",
 "John Lennon|I Found Out|1970|5MqKXjclNHw|John Lennon|S2557",
-"Spandau Ballet|Glow|1981|PGJTI1sEXCI|Spandau Ballet|S1856",
+"Spandau Ballet|Glow|1981|KyHVVQkEfM4?start=1515|Spandau Ballet|S1856",
 ] 
