@@ -9144,7 +9144,7 @@ const songs = [
 "Built to Spill|Goin' Against Your Mind|2006|cH9EJg4o9-s|Built to Spill|S5673",
 "Moses Sumney|Doomed|2017|CMyRfIpNvPs|Moses Sumney|S16449",
 "Seu Jorge|Life on Mars?|2004|JHo26IhDxx0|Seu Jorge|S8367",
-"Nirvana|Something in the Way|1991|MpDrCVRaWfo|Kurt Cobain|S11773",
+"Nirvana|Something in the Way|1991|1YhR5UfaAzM|Kurt Cobain|S11773",
 "Objekt|Theme from Q|2017|SDRNdNXBZcQ|https://www.discogs.com/artist/2089744-Objekt|S16459",
 "Miranda Lambert|Vice|2016|zTlaRu_Wsl4|Miranda Lambert|S16150",
 "The Band|Across the Great Divide|1969|lv-XFGOHgzk|The Band|S4121",
