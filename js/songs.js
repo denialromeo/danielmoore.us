@@ -8937,7 +8937,7 @@ const songs = [
 "The Beautiful South|Old Red Eyes Is Back|1991|ggJYJ9frSl0|The Beautiful South|S5387",
 "Pino Donaggio|Io che non vivo (Senza te)|1965|N3W7qlMZTXY|Pino Donaggio|S7964",
 "Billy Murray|Give My Regards to Broadway|1905|-G4-gfKv6m8|Billy Murray (singer)|S9147",
-"Adele|When We Were Young|2015|DDWKuo3gXMQ|Adele|S9701",
+"Adele|When We Were Young|2015|DDWKuo3gXMQ?start=45|Adele|S9701",
 "Ramones|I Wanna Be Your Boyfriend|1976|6q_mHFfOMWE|Ramones|S12022",
 "Don Gardner & Dee Dee Ford|I Need Your Loving|1962|WhxfOJIwRdk|Don Gardner|S6123",
 "Eric Weissberg and Steve Mandel|Dueling Banjos|1972|YchKLJGWJA4|Eric Weissberg|S14369",
