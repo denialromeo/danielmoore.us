@@ -324,7 +324,7 @@ const songs = [
 "The Kinks|Lola|1970|NFwP2huyNzg|The Kinks|S844",
 "Boston|More Than a Feeling|1976|t4QK8RxCAwo|Boston (band)|S667",
 "Grizzly Bear|Two Weeks|2009|tjecYugTbIQ|Grizzly Bear (band)|S4803",
-"The Jimi Hendrix Experience|Voodoo Chile (Slight Return)|1968|IZBlqcbpmxY|Jimi Hendrix|S845",
+"The Jimi Hendrix Experience|Voodoo Chile (Slight Return)|1968|qFfnlYbFEiE|Jimi Hendrix|S845",
 "The Jam|Going Underground|1980|AE1ct5yEuVY|The Jam|S544",
 "Aretha Franklin|I Say a Little Prayer|1968|7Ifw8JhDBvs|Aretha Franklin|S907",
 "Burial|Archangel|2007|E2qLD9c3Gq4|Burial (musician)|S4698",
