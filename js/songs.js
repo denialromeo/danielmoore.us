@@ -30,7 +30,7 @@ const songs = [
 "Prince and the Revolution|When Doves Cry|1984|UG3VcCAlUgE|Prince (musician)|S421",
 "Little Richard|Tutti Frutti|1955|F13JNjpNW6c|Little Richard|S1296",
 "M.I.A.|Paper Planes|2007|ewRjZoRtu0Y|M.I.A. (rapper)|S4280",
-"The Jimi Hendrix Experience|Purple Haze|1967|fjwWjx7Cw8I|Jimi Hendrix|S933",
+"The Jimi Hendrix Experience|Purple Haze|1967|cJunCsrhJjg|Jimi Hendrix|S933",
 "The Rolling Stones|Gimme Shelter|1969|RbmS3tQJ7Os|The Rolling Stones|S2544",
 "Stevie Wonder|Superstition|1972|9Vjj6J7gXpY|Stevie Wonder|S782",
 "Ray Charles|What'd I Say|1959|xTIP_FOdq24|Ray Charles|S1171",
