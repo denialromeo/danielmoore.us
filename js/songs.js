@@ -9967,7 +9967,7 @@ const songs = [
 "Miossec|Regarde un peu la France|1995|jB7sY3FzsEk|Miossec|S7565",
 "Sarah McLachlan|Sweet Surrender|1997|h2JWJYLNUq4|Sarah McLachlan|S16008",
 "The Highwaymen|Michael (Row the Boat Ashore)|1960|GFONIPFUgM4|The Highwaymen (folk band)|S6715",
-"Frankie Avalon|Venus|1959|r41_9uZhKR8|Frankie Avalon|S6452",
+"Frankie Avalon|Venus|1959|fakpqLDEQAo|Frankie Avalon|S6452",
 "Frankie Avalon|Why|1959|nGijoWb9aYo|Frankie Avalon|S6453",
 "Jacques Brel|Les Vieux|1963|uUhPhX-Z_Mk|Jacques Brel|S11114",
 "Aaron Neville|Hercules|1973|NGGRi2CEFu8|Aaron Neville|S14030",
