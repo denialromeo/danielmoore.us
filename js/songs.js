@@ -6336,7 +6336,7 @@ const songs = [
 "Red Hot Chili Peppers|My Friends|1995|0kT5w27YxyI|Red Hot Chili Peppers|S12040",
 "Bo Diddley|You Can't Judge a Book by the Cover|1962|Lch0o4wwGyw|Bo Diddley|S5532",
 "No Age|Glitter|2010|j3_t3q1tjH4|No Age|S7759",
-"Umberto Tozzi|Gloria|1979|HYvuWlOnBjI|Umberto Tozzi|S8893",
+"Umberto Tozzi|Gloria|1979|c1P8jDSsykc|Umberto Tozzi|S8893",
 "Bad Company|Bad Company|1974|zclItQT66kQ|Bad Company|S10062",
 "Pharoah Sanders|The Creator Has a Masterplan|1969|eZswXa9fbn8|Pharoah Sanders|S12703",
 "Falco|Der Kommissar|1982|8-bgiiTxhzM|Falco (musician)|S9217",
