@@ -6718,7 +6718,7 @@ const songs = [
 "The Beatles|Mother Nature's Son|1968|TMMiXjwhODU|The Beatles|S5378",
 "The Cure|A Night Like This|1985|gBGzDYVE8H4|The Cure|S5928",
 "D'Angelo|Shit, Damn, Motherfucker|1995|EWh7zJKUafw|D'Angelo|S2634",
-"Percy Faith & His Orchestra|The Theme from \"A Summer Place\"|1959|tSsiS-v6_6M|Percy Faith|S2803",
+"Percy Faith & His Orchestra|The Theme from \"A Summer Place\"|1959|tQkKCnditQY|Percy Faith|S2803",
 "Ramones|Teenage Lobotomy|1977|OzundJyMw60|Ramones|S12024",
 "Jean Michel Jarre|Oxygène (Part IV)|1976|5DDEl7JnWvo|Jean-Michel Jarre|S6885",
 "Depeche Mode|Somebody|1984|kBP-EaXU1Vc|Depeche Mode|S15417",
