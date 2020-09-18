@@ -4064,7 +4064,7 @@ const songs = [
 "Red Hot Chili Peppers|Soul to Squeeze|1991|0XcN12uVHeQ|Red Hot Chili Peppers|S8122",
 "Nat King Cole|Stardust|1957|sfzA_IeaKz0|Nat King Cole|S9302",
 "Ice-T|6 in the Mornin'|1986|izuMg1GGnMc|Ice-T|S6769",
-"Green Day|Wake Me Up When September Ends|2004|NU9JoFKlaZ0|Green Day|S6643",
+"Green Day|Wake Me Up When September Ends|2004|NU9JoFKlaZ0?start=102|Green Day|S6643",
 "Missy Elliott feat. Ciara & Fatman Scoop|Lose Control|2005|na7lIb09898|Missy Elliott|S3035",
 "Chance the Rapper feat. Saba|Angels|2015|eedeXTWZUn8|Chance the Rapper|S16057",
 "Orchestral Manoeuvres in the Dark|Enola Gay|1980|d5XJ2GiR6Bo|Orchestral Manoeuvres in the Dark|S7820",
