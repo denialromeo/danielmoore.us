@@ -75,7 +75,7 @@ const songs = [
 "Elvis Presley|Suspicious Minds|1969|MT3P7p-WNSY|Elvis Presley|S879",
 "Billie Holiday|Strange Fruit|1939|-DGY9HvChXk?start=28|Billie Holiday|S2693",
 "Guns N' Roses|Sweet Child O' Mine|1987|1w7OgIMMRc4|Guns N' Roses|S303",
-"The Mamas and the Papas|California Dreamin'|1965|N-aK6JnyFmk|The Mamas and the Papas|S1010",
+"The Mamas and the Papas|California Dreamin'|1965|XJIAvpqwJJU|The Mamas and the Papas|S1010",
 "The Velvet Underground|I'm Waiting for the Man|1967|YbigVkiAe0s|The Velvet Underground|S2512",
 "The Rolling Stones|Paint It, Black|1966|O4irXQhgMqg|The Rolling Stones|S980",
 "Al Green|Let's Stay Together|1971|COiIC3A0ROM|Al Green|S814",
