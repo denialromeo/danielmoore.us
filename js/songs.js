@@ -7381,7 +7381,7 @@ const songs = [
 "The Beatles|Lovely Rita|1967|ysDwR5SIR1Q|The Beatles|S4536",
 "Alvvays|In Undertow|2017|T1n72aCdwdU|Alvvays|S16328",
 "Max Tundra|Which Song|2008|boIOY5HjbFM|Max Tundra|S4780",
-"Metallica|Ride the Lightning|1984|OhT0g9jULpw|Metallica|S11607",
+"Metallica|Ride the Lightning|1984|Z8CHD4KB1Mk|Metallica|S11607",
 "Claude Nougaro|Cécile, ma fille|1963|--bvxbOwRuQ|Claude Nougaro|S10425",
 "Culture Club|Time (Clock of the Heart)|1982|8tI1_KlO6xI|Culture Club|S498",
 "Primal Scream|Jailbird|1994|_i1O_O8sHlU|Primal Scream|S2951",
