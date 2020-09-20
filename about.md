@@ -89,6 +89,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#autobiographies}
 **Autobiographies**
 
+* [*Four Star Reviews, 1967-2007*](https://www.goodreads.com/notes/9517283-roger-ebert-s-four-star-reviews-1967-2007/71655209-daniel-moore) by [Roger Ebert](https://en.wikipedia.org/wiki/Roger_Ebert) (Forty years of curated American culture.)
 * [*Nickel and Dimed*](https://www.goodreads.com/notes/8893315-nickel-and-dimed/71655209-daniel-moore) by [Barbara Ehrenreich](https://en.wikipedia.org/wiki/Barbara_Ehrenreich) (Poverty is expensive.)
 * [*Revolutionary Suicide*](https://www.goodreads.com/notes/8176686-revolutionary-suicide/71655209-daniel-moore) by [Huey Newton](https://en.wikipedia.org/wiki/Huey_P._Newton) (Black Panther before it was cool.)
 * [*Two Arms and a Head*](http://www.2arms1head.com/) by [Clayton Schwartz](http://www.legacy.com/obituaries/greenwichtime/obituary.aspx?n=clayton-william-schwartz&pid=104371288) (Life with paraplegia.)
