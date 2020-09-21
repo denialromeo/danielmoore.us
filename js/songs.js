@@ -7205,7 +7205,7 @@ const songs = [
 "L'Trimm|Cars with the Boom|1988|6fMERyRz498|L'Trimm|S3576",
 "Hootie & The Blowfish|Only Wanna Be With You|1994|Ln6WQqRDrCo|Hootie & the Blowfish|S12945",
 "Babasónicos|Irresponsables|2003|eXkA1Cjr7cU|Babasónicos|S10057",
-"The Monkees|(I'm Not Your) Steppin' Stone|1966|nCM7qcRyfKo|The Monkees|S11674",
+"The Monkees|(I'm Not Your) Steppin' Stone|1966|CFUOnT0ZnUc|The Monkees|S11674",
 "Acker Bilk|Stranger on the Shore|1961|dFaH1KFmLyI|Acker Bilk|S5094",
 "Howard Tate|Ain't Nobody Home|1966|sYWJczQ-5QU|Howard Tate|S6745",
 "The Tragically Hip|Ahead by a Century|1996|QE2joQsWXJg|The Tragically Hip|S8833",
