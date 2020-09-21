@@ -29,9 +29,6 @@ permalink: random-acclaimed-song
         <li>
             <a target="_self" href="?song=love">Songs whose titles contain the word "love".</a>
         </li>
-        <li>
-            <a target="_self" href="?artist=beach.boys&year=196[0-9]&song=surf">Songs by the Beach Boys from the 1960's about surfing.</a>
-        </li>
     </ul>
    <p>Also note that each artist's name is a link to their Wikipedia page.</p>
 </div>
