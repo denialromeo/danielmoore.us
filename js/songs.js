@@ -719,7 +719,7 @@ const songs = [
 "Carly Simon|You're So Vain|1972|j13oJajXx0M|Carly Simon|S805",
 "My Bloody Valentine|Only Shallow|1991|FyYMzEplnfU|My Bloody Valentine (band)|S2029",
 "The Cure|Close to Me|1985|FY-zoTZjSVM|The Cure|S4204",
-"Michael Jackson|Thriller|1982|sOnqjkJTMaA|Michael Jackson|S1907",
+"Michael Jackson|Thriller|1982|sOnqjkJTMaA?start=252|Michael Jackson|S1907",
 "Ariel Pink's Haunted Graffiti|Round and Round|2010|y_VJwFNrvlE|Ariel Pink|S4888",
 "The Marvelettes|Please Mr. Postman|1961|rGJcbHni4rc|The Marvelettes|S1121",
 "Leonard Cohen|Hallelujah|1984|YrLk4vdY28Q|Leonard Cohen|S3291",
