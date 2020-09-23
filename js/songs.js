@@ -5413,7 +5413,7 @@ const songs = [
 "Lady Gaga|Born This Way|2011|wV1FrqwZyKw|Lady Gaga|S7171",
 "Metallica|Disposable Heroes|1986|NoVavpbhBfM|Metallica|S14740",
 "Van Morrison|The Way Young Lovers Do|1968|1cXIdFxbpIg|Van Morrison|S9388",
-"The Ohio Express|Yummy Yummy Yummy|1968|VECljlG--gE|Ohio Express|S7796",
+"The Ohio Express|Yummy Yummy Yummy|1968|Sz4TT3QoPJw|Ohio Express|S7796",
 "Horace Silver|The Preacher|1955|yzPlNNwJhbs|Horace Silver|S13200",
 "Dizzee Rascal|Stand Up Tall|2004|TArZLAUsM10|Dizzee Rascal|S2449",
 "Emerson, Lake & Palmer|Karn Evil 9 - First Impression, Part 1|1973|yIFBpn7_uBQ|Emerson, Lake & Palmer|S6271",
