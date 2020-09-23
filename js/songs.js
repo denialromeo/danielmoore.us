@@ -4026,7 +4026,7 @@ const songs = [
 "Ratt|Round and Round|1984|0u8teXR8VE4|Ratt|S4203",
 "The Stylistics|I'm Stone in Love with You|1972|UVIZ0Fy-hfo|The Stylistics|S807",
 "Right Said Fred|I'm Too Sexy|1991|P5mtclwloEQ|Right Said Fred|S207",
-"KC and the Sunshine Band|Get Down Tonight|1975|LHEsE9yN2CY|KC and the Sunshine Band|S7073",
+"KC and the Sunshine Band|Get Down Tonight|1975|CjnuUDoyn54|KC and the Sunshine Band|S7073",
 "Adele|Chasing Pavements|2008|08DjMT-qR9g|Adele|S4699",
 "Ace of Base|All That She Wants|1992|d73tiBBzvFM|Ace of Base|S5091",
 "Gang of Four|To Hell with Poverty!|1981|QRjjVFC-oG4|Gang of Four (band)|S3435",
