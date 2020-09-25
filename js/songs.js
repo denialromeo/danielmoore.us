@@ -2604,7 +2604,7 @@ const songs = [
 "Tears for Fears|Head Over Heels|1985|CsHiG-43Fzg|Tears for Fears|S4470",
 "Bob Dylan & The Band|I Shall Be Released|1971|MjtPBjEz-BA|The Band|S4852",
 "The Kinks|Tired of Waiting for You|1965|Hz64hWng2vM|The Kinks|S2829",
-"Justin Bieber|What Do You Mean?|2015|DK_0jXPuIr0|Justin Bieber|S9796",
+"Justin Bieber|What Do You Mean?|2015|DK_0jXPuIr0?start=36|Justin Bieber|S9796",
 "Miguel|Coffee|2015|9Z55sZ2oVY4|Miguel (singer)|S9816",
 "Muse|Uprising|2009|w8KQmps-Sog|Muse (band)|S7647",
 "McFadden and Whitehead|Ain't No Stoppin' Us Now|1979|VuAZTWGfQTs|McFadden & Whitehead|S591",
