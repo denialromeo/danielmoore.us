@@ -7574,7 +7574,7 @@ const songs = [
 "Bis|Kandy Pop|1996|3QahHw5pcjA?start=2|Bis (Scottish band)|S10182",
 "The Black Keys|Howlin' for You|2010|dCZI2C-tWzM|The Black Keys|S15303",
 "Leonard Cohen|I'm Your Man|1988|yOnXe8ttmjY|Leonard Cohen|S3292",
-"Mastodon|Oblivion|2009|JAgtfikqwME|Mastodon (band)|S11573",
+"Mastodon|Oblivion|2009|fo59fCISVFw|Mastodon (band)|S11573",
 "Aqua|Barbie Girl|1997|ZyhrYis509A|Aqua (band)|S3155",
 "The Heptones|Fattie Fattie|1966|zET1G9YPbWU|The Heptones|S14478",
 "The Rentals|Friends of P|1995|wi-H6ohY37k|The Rentals|S8137",
