@@ -1611,7 +1611,7 @@ const songs = [
 "Plastic Bertrand|Ça plane pour moi|1977|Ln31raI2ezY|Plastic Bertrand|S3211",
 "The Big Pink|Dominos|2009|OGnNlQ-KNv4|The Big Pink|S4825",
 "Led Zeppelin|Ramble On|1969|_h9MxNn8P7w|Led Zeppelin|S7202",
-"Fleetwood Mac|Albatross|1968|UkHgUc6bOgU|Fleetwood Mac|S1700",
+"Fleetwood Mac|Albatross|1968|gjOGaDseKgw|Fleetwood Mac|S1700",
 "X|Los Angeles|1980|yOz2PVCdKf0|X (American band)|S2602",
 "Bruce Springsteen|Racing in the Street|1978|fT4pSt4kie8|Bruce Springsteen|S5645",
 "Sharon Van Etten|Your Love Is Killing Me|2014|nyuPWHwZru0|Sharon Van Etten|S9558",
