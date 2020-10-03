@@ -1917,7 +1917,7 @@ const songs = [
 "Neutral Milk Hotel|In the Aeroplane Over the Sea|1998|hD6_QXwKesU|Neutral Milk Hotel|S7703",
 "Led Zeppelin|The Rain Song|1973|TRt4hQs3nH0|Led Zeppelin|S9272",
 "Al Green|Call Me (Come Back Home)|1973|6POd4EzHHVs|Al Green|S774",
-"Bachman-Turner Overdrive|Takin' Care of Business|1973|NCIUf8eYPqA|Bachman–Turner Overdrive|S737",
+"Bachman-Turner Overdrive|Takin' Care of Business|1973|aJprEyXMrIk?start=14|Bachman–Turner Overdrive|S737",
 "Dion and the Belmonts|I Wonder Why|1958|pAPEfdjvTqE|Dion and the Belmonts|S1216",
 "The Isley Brothers|It's Your Thing|1969|Tqc_EhmL8-E|The Isley Brothers|S883",
 "Iron Maiden|Run to the Hills|1982|86URGgqONvA|Iron Maiden|S3500",
