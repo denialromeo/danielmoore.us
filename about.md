@@ -66,8 +66,8 @@ I hope you have a good time here. Thanks for dropping by.
 {:#programming-books}
 **Programming Books**
 
-* [*Game Programming Patterns*](http://gameprogrammingpatterns.com/contents.html) by [Bob Nystrom](http://stuffwithstuff.com/) (Notes on building maintainable software.)
 * [*Effective Python*](https://effectivepython.com/) by [Brett Slatkin](https://www.onebigfluke.com/) (Intermediate Parseltongue.)
+* [*Game Programming Patterns*](http://gameprogrammingpatterns.com/contents.html) by [Bob Nystrom](http://stuffwithstuff.com/) (Notes on building maintainable software.)
 * [*Microserfs*](https://www.goodreads.com/notes/11483124-microserfs/71655209-daniel-moore) by [Douglas Coupland](https://en.wikipedia.org/wiki/Douglas_Coupland) (Understand working programmers.)
 
 (For more fun, check out [this list](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#readme) by the Free Ebook Foundation.)
