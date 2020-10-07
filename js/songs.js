@@ -2817,7 +2817,7 @@ const songs = [
 "The Clash|London's Burning|1977|c7pw_TCaEvo|The Clash|S5825",
 "Duke Ellington|Diminuendo and Crescendo in Blue|1956|PYgow060zOg|Duke Ellington|S2782",
 "Sleater-Kinney|I Wanna Be Your Joey Ramone|1996|JRsZ5ZwMNGE|Sleater-Kinney|S3814",
-"Basement Jaxx|Rendez-Vu|1999|--MLlsBJFhw|Basement Jaxx|S1360",
+"Basement Jaxx|Rendez-Vu|1999|6LvFUC-198s|Basement Jaxx|S1360",
 "Blind Lemon Jefferson|See That My Grave Is Kept Clean|1928|6tVxz_1wigw|Blind Lemon Jefferson|S2703",
 "Arctic Monkeys|Brianstorm|2007|30w8DyEJ__0|Arctic Monkeys|S4308",
 "Carole King|I Feel the Earth Move|1971|6913KnbMpHM|Carole King|S2563",
