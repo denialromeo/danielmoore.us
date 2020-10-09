@@ -471,7 +471,7 @@ const songs = [
 "Gorillaz|Clint Eastwood|2001|1V_xRb0x9aw|Gorillaz|S1457",
 "Big Star|Thirteen|1972|mmDOQVQGGI0|Big Star|S3082",
 "The Velvet Underground|Rock and Roll|1970|1Dahqz-R49I|The Velvet Underground|S2546",
-"The Jimi Hendrix Experience|Little Wing|1967|NdHHsoW6mMg|Jimi Hendrix|S3470",
+"The Jimi Hendrix Experience|Little Wing|1967|Fl-rYuI1-0w|Jimi Hendrix|S3470",
 "Iggy Pop|The Passenger|1977|y4hPnZUMBwA|Iggy Pop|S654",
 "Depeche Mode|Personal Jesus|1989|u1xrNaTO1bI|Depeche Mode|S2009",
 "U2|I Still Haven't Found What I'm Looking For|1987|e3-5YC_oHjE|U2|S347",
