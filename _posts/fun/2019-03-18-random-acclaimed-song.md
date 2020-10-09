@@ -21,7 +21,7 @@ permalink: random-acclaimed-song
     <p>You can limit the song selection by playing with the URL! Examples &ndash;</p>
     <ul>
         <li>
-            <a target="_self" href="?year=19[6-7][0-9]">Songs released in the 1960's and 1970's.</a>
+            <a target="_self" href="?year=199[0-9]">Songs released in the 1990's.</a>
         </li>
         <li>
             <a target="_self" href="?artist=Bob+Marley|The.Wailers">Songs by Bob Marley.</a>
