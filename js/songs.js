@@ -506,7 +506,7 @@ const songs = [
 "Vampire Weekend|A-Punk|2007|_XC2mqcMMGQ|Vampire Weekend|S4760",
 "Creedence Clearwater Revival|Who'll Stop the Rain|1970|jaEEFBTtofc|Creedence Clearwater Revival|S848",
 "AC/DC|You Shook Me All Night Long|1980|Lo2qQmj0_h4|AC/DC|S564",
-"Sex Pistols|Pretty Vacant|1977|nwCrb2X4LLs|Sex Pistols|S634",
+"Sex Pistols|Pretty Vacant|1977|VcauCclfytI|Sex Pistols|S634",
 "Jay-Z & Kanye West|Niggas in Paris|2011|gG_dA32oH44|Jay-Z|S4969",
 "Simon and Garfunkel|The Boxer|1969|l3LFML_pxlY|Simon & Garfunkel|S893",
 "John Coltrane|A Love Supreme, Part 1: Acknowledgement|1965|fth9UUa1Mfw|John Coltrane|S2824",
