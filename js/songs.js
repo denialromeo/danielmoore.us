@@ -3667,7 +3667,7 @@ const songs = [
 "Damien Rice|The Blower's Daughter|2001|5YXVMCHG-Nk|Damien Rice|S4615",
 "The Jim Carroll Band|People Who Died|1980|o6pPLeXsd9A|Jim Carroll|S1838",
 "Giorgio Moroder|Chase|1978|ifXzrJfEZ2g|Giorgio Moroder|S6568",
-"Joe Walsh|Life's Been Good|1978|T204WpZSbLw|Joe Walsh|S3088",
+"Joe Walsh|Life's Been Good|1978|T204WpZSbLw?start=1|Joe Walsh|S3088",
 "Annie Lennox|Why|1992|HG7I4oniOyA|Annie Lennox|S5209",
 "Radiohead|Jigsaw Falling into Place|2007|GoLJJRIWCLU|Radiohead|S8079",
 "The Association|Never My Love|1967|UzgpB9xpyT8|The Association|S3158",
