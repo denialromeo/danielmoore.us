@@ -3884,7 +3884,7 @@ const songs = [
 "Erykah Badu|Tyrone|1997|YY2-mrsXgMM|Erykah Badu|S4518",
 "The Andrews Sisters|Boogie Woogie Bugle Boy|1941|QpzJpHPteuM|The Andrews Sisters|S2642",
 "10cc|The Things We Do for Love|1976|P0rf3_viTxk|10cc|S671",
-"Hot Chocolate|You Sexy Thing|1975|WmeMdEZPcpg|Hot Chocolate (band)|S1767",
+"Hot Chocolate|You Sexy Thing|1975|4DwEni2N_-A|Hot Chocolate (band)|S1767",
 "James Brown|Prisoner of Love|1963|GoHYEc0R2qM|James Brown|S1071",
 "David Bowie|Absolute Beginners|1986|iCJLOXqnT2I|David Bowie|S5975",
 "Nina Simone|Don't Let Me Be Misunderstood|1964|EcKHuvkAEDM?start=28|Nina Simone|S7744",
