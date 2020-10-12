@@ -1407,7 +1407,7 @@ const songs = [
 "Kendrick Lamar|The Blacker the Berry|2015|VdPtVZDspIY|Kendrick Lamar|S9805",
 "The Drifters|Under the Boardwalk|1964|EPEqRMVnZNU|The Drifters|S1033",
 "The Normal|Warm Leatherette|1978|S5QErPDNcj4|The Normal|S1568",
-"Daryl Hall & John Oates|I Can't Go for That (No Can Do)|1981|ccenFp_3kq8|Hall & Oates|S532",
+"Daryl Hall & John Oates|I Can't Go for That (No Can Do)|1981|ccenFp_3kq8?start=2|Hall & Oates|S532",
 "Blur|Parklife|1994|YSuHrTfcikU|Blur (band)|S1538",
 "Natalie Imbruglia|Torn|1997|VV1XWJN3nJo|Natalie Imbruglia|S24",
 "Bob Dylan|Girl from the North Country|1963|Je4Eg77YSSA|Bob Dylan|S3368",
