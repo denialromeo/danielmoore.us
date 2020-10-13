@@ -826,7 +826,7 @@ const songs = [
 "George Michael|Faith|1987|6Cs3Pvmmv0E|George Michael|S348",
 "The Rolling Stones|Under My Thumb|1966|aGRnokznTF0|The Rolling Stones|S3780",
 "James Brown|Say It Loud - I'm Black and I'm Proud|1968|9bJA6W9CqvE|James Brown|S2416",
-"The Jimi Hendrix Experience|Crosstown Traffic|1968|0-xyGFI_Nq8|Jimi Hendrix|S927",
+"The Jimi Hendrix Experience|Crosstown Traffic|1968|AwFKHpzIZwA?start=26|Jimi Hendrix|S927",
 "Blondie|Atomic|1979|O_WLw_0DFQQ|Debbie Harry|S556",
 "Jamie xx feat. Romy|Loud Places|2015|TP9luRtEqjc|Jamie xx|S9785",
 "The Penguins|Earth Angel (Will You Be Mine)|1954|VJcGi4-n_Yw|The Penguins|S1340",
