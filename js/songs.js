@@ -9879,7 +9879,7 @@ const songs = [
 "Fujiya & Miyagi|Knickerbocker|2008|G0E8MWb3hgo|Fujiya & Miyagi|S10883",
 "The Royalettes|It's Gonna Take a Miracle|1965|G7Mxtdg752Q|The Royalettes|S14974",
 "The Ides of March|Vehicle|1969|TXvegzWNIps|The Ides of March (band)|S11067",
-"The Moments|Love on a Two-Way Street|1969|eyYB5Oc4SXw|Ray, Goodman & Brown|S13896",
+"The Moments|Love on a Two-Way Street|1969|kwUsIMJPlYk|Ray, Goodman & Brown|S13896",
 "Jackie Wilson|That's Why (I Love You So)|1959|9POh4ATtuBw|Jackie Wilson|S3967",
 "Eddy Mitchell|Couleur menthe à l'eau|1980|W43JaufnEIU|Eddy Mitchell|S10681",
 "Marmalade|Reflections of My Life|1969|xTeI65yrhGw?start=12|Marmalade (band)|S7438",
