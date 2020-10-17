@@ -5226,7 +5226,7 @@ const songs = [
 "Barbara|L'Aigle Noir|1970|tk6YruMrx2s?start=12|Barbara (singer)|S10074",
 "The Pretty Things|S.F. Sorrow is Born|1968|JgwnC-pEw3k|Pretty Things|S3726",
 "Dire Straits|Brothers in Arms|1985|jhdFe3evXpk|Dire Straits|S6090",
-"Buffy Sainte-Marie|Universal Soldier|1964|j6imjvgJFvM|Buffy Sainte-Marie|S10324",
+"Buffy Sainte-Marie|Universal Soldier|1964|7zNUnwUSZmQ|Buffy Sainte-Marie|S10324",
 "Stray Cats|Rock This Town|1981|0RxBHRZpIdg|Stray Cats|S1857",
 "Eric Burdon & War|Spill the Wine|1970|W77Kwh6f0TE|War (American band)|S2856",
 "The Stone Roses|One Love|1990|60qyfdcAOGE|The Stone Roses|S8594",
