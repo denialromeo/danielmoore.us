@@ -2915,7 +2915,7 @@ const songs = [
 "The War on Drugs|Under the Pressure|2014|vkLOg252KRE|The War on Drugs (band)|S9591",
 "Dr. Dre feat. Eminem|Forgot About Dre|1999|QFcv5Ma8u8k|Dr. Dre|S2190",
 "Helen Reddy|I Am Woman|1972|rptW7zOPX2E|Helen Reddy|S2314",
-"The 5th Dimension|Aquarius/Let the Sun Shine In|1969|ILSr9BbhoJQ|The 5th Dimension|S2294",
+"The 5th Dimension|Aquarius/Let the Sun Shine In|1969|oPK7ZF6jfJE|The 5th Dimension|S2294",
 "Brownsville Station|Smokin' in the Boys Room|1973|oksTiOIuhHA|Brownsville Station (band)|S5634",
 "Divinyls|I Touch Myself|1990|wv-34w8kGPM|Divinyls|S3337",
 "Tom Petty and the Heartbreakers|Learning to Fly|1991|s5BJXwNeKsQ|Tom Petty|S8791",
