@@ -2207,7 +2207,7 @@ const songs = [
 "Bunny Berigan|I Can't Get Started|1936|D1ycvlgrKW4|Bunny Berigan|S2650",
 "Minutemen|History Lesson - Part II|1984|KZvsAh5VFRw|Minutemen (band)|S3624",
 "Art Blakey & The Jazz Messengers|A Night in Tunisia|1954|ADWODreyby0|Art Blakey|S5238",
-"The Champs|Tequila|1958|3H6amDbAwlY|The Champs|S1227",
+"The Champs|Tequila|1958|U_JFLb1IItM|The Champs|S1227",
 "John Coltrane|A Love Supreme, Part 2: Resolution|1965|CsxtKQW9ggg|John Coltrane|S11225",
 "Mary J. Blige|Real Love|1992|90c9pEtZquw|Mary J. Blige|S3220",
 "Sophie B. Hawkins|Damn I Wish I Was Your Lover|1992|Lt6r-k9Bk6o|Sophie B. Hawkins|S2056",
