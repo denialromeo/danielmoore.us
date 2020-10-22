@@ -6477,7 +6477,7 @@ const songs = [
 "Tom Robinson Band|2-4-6-8 Motorway|1977|ar_saHB60qU|Tom Robinson Band|S1790",
 "The Sabres of Paradise|Wilmot|1994|7VGPvkjyQnQ|The Sabres of Paradise|S115",
 "Bing Crosby & The Andrews Sisters|Don't Fence Me In|1944|vMnLoOnrwbg|The Andrews Sisters|S2669",
-"Melanie|Brand New Key|1971|lKcpodt0YCU|Melanie (singer)|S7508",
+"Melanie|Brand New Key|1971|RCTMTflcuug|Melanie (singer)|S7508",
 "Eddie and the Hot Rods|Teenage Depression|1976|x3srDTWS2L4|Eddie and the Hot Rods|S6194",
 "Austra|Beat and the Pulse|2010|ToXgF47nh94|Austra (band)|S5274",
 "Pras feat. Ol' Dirty Bastard & Mýa|Ghetto Supastar (That Is What You Are)|1998|MnWogQTfSIY|Pras|S298",
