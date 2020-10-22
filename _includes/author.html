@@ -27,6 +27,7 @@
       const holodomor = '"What do you do if there\'s nothing to eat? We collected birch leaves and toasted &nbsp;them and ate them. What else could we do?"'
       const kiss = '"Rock did not die of old age. It was murdered."<br>'
       const dylan = '"They had to dismantle it, starting with payola scandals. The black element was &nbsp;turned into soul music, and the white element was turned into English pop."'
+      const immortal = '"Anderssen\'s achievement in that game, sacrificing Queen and both Rooks to force &nbsp;mate, is perhaps unparalleled in chess literature."'
 
       const imagesAndVideos = [
                                  {% if page.box == 'race' %}
@@ -56,6 +57,8 @@
                                  ["https://i.imgur.com/lDcaM4o.jpg", "https://www.commonwealmagazine.org/interview-woody-allen", allen],
                                  ["/assets/img/cioran.jpg", "https://www.goodreads.com/notes/50757709-the-trouble-with-being-born/71655209-daniel-moore", cioran],
                                  ["/assets/img/istambulova.jpg", "https://www.express.co.uk/news/world/960469/Oldest-person-in-the-world-russia-Koku-Istambulova-chechnya#singleArticle", istambulova],
+                                 {% elsif page.box == 'chess-puzzles' %}
+                                 ["https://i.imgur.com/gbpTFJ5.png", "https://en.wikipedia.org/wiki/Immortal_Game#content", immortal],
                                  {% else %}
                                  ["https://i.imgur.com/hGwPYVo.jpg", "http://www.mathpages.com/home/quotes.htm", einstein],
                                  ["https://i.imgur.com/jtVJF6Hb.jpg", "https://www.goodreads.com/notes/11697482-alberic-the-wise/71655209-daniel-moore", alberic],
