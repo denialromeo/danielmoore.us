@@ -4,6 +4,8 @@ description: Listen to 10,272 top-rated songs!
 layout: post
 category: fun
 permalink: random-acclaimed-song
+author: Daniel Moore
+box: random-acclaimed-song
 ---
 
 <h3 id="song-title"></h3>
