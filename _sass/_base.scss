@@ -170,7 +170,6 @@ p {
 a {
   color: #222;
   text-decoration: none;
-  //background-color: transparent;
   -webkit-transition: color .4s;
   transition: color .4s;
 }
@@ -179,6 +178,17 @@ a:hover {
   text-decoration: underline;
 }
 
+a.reverse {
+  color: #999;
+  text-decoration: none;
+  //background-color: transparent;
+  -webkit-transition: color .4s;
+  transition: color .4s;
+}
+a.reverse:hover {
+  color: #222;
+  text-decoration: underline;
+}
 
 
 // TODO
