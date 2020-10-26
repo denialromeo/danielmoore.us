@@ -3929,7 +3929,7 @@ const songs = [
 "Orange Juice|Blue Boy|1980|qx5nn1kq-2U|Orange Juice (band)|S1842",
 "Jackson Browne|The Pretender|1976|fY0Pg2Gu5uM|Jackson Browne|S6828",
 "William DeVaughn|Be Thankful for What You Got|1974|Pvtlt-p7vB4|William DeVaughn|S9029",
-"Barry White|Can't Get Enough of Your Love, Babe|1974|x0I6mhZ5wMw|Barry White|S1764",
+"Barry White|Can't Get Enough of Your Love, Babe|1974|7MviY7mn07M|Barry White|S1764",
 "Prince and the New Power Generation|Gett Off|1991|6f4BwQFF-Os|Prince (musician)|S200",
 "Molotov|Gimme Tha Power|1997|hfmY9Wlxx0o|Molotov (band)|S7594",
 "The Isley Brothers|Fight the Power (Part I)|1975|8QZvoOqUkqw|The Isley Brothers|S4424",
