@@ -36,7 +36,7 @@ const songs = [
 "Ray Charles|What'd I Say|1959|xTIP_FOdq24|Ray Charles|S1171",
 "The White Stripes|Seven Nation Army|2003|0J2QdDbelmY|The White Stripes|S2244",
 "Pulp|Common People|1995|yuTMWgOduFM|Pulp (band)|S61",
-"New Order|Blue Monday|1983|FYH8DsU2WCk|New Order (band)|S458",
+"New Order|Blue Monday|1983|9GMjH1nR0ds|New Order (band)|S458",
 "Queen|Bohemian Rhapsody|1975|fJ9rUzIMcZQ|Queen (band)|S710",
 "Sam Cooke|A Change Is Gonna Come|1964|wEBlaMOmKV4|Sam Cooke|S995",
 "The Kingsmen|Louie Louie|1963|1RZJ4ESU52U|The Kingsmen|S1051",
