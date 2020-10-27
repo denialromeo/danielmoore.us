@@ -6337,7 +6337,7 @@ const songs = [
 "Bo Diddley|You Can't Judge a Book by the Cover|1962|Lch0o4wwGyw|Bo Diddley|S5532",
 "No Age|Glitter|2010|j3_t3q1tjH4|No Age|S7759",
 "Umberto Tozzi|Gloria|1979|c1P8jDSsykc|Umberto Tozzi|S8893",
-"Bad Company|Bad Company|1974|ww5GXbk58R0|Bad Company|S10062",
+"Bad Company|Bad Company|1974|JXQJpyQBShU|Bad Company|S10062",
 "Pharoah Sanders|The Creator Has a Masterplan|1969|eZswXa9fbn8|Pharoah Sanders|S12703",
 "Falco|Der Kommissar|1982|8-bgiiTxhzM|Falco (musician)|S9217",
 "Ruby|Paraffin|1995|J5O56vmE_s8|Ruby (band)|S8262",
