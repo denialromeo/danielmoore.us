@@ -6036,7 +6036,7 @@ const songs = [
 "The Fall|The Classical|1982|cKRSzztJ6_0|The Fall (band)|S4564",
 "Ash|Burn Baby Burn|2001|fNdDKhA_gkk|Ash (band)|S5254",
 "Lyres|Help You Ann|1983|7LqF5P3Fa84|Lyres (band)|S7359",
-"Section 25|Looking from a Hilltop|1984|WFwuJUeT9rU|Section 25|S8346",
+"Section 25|Looking from a Hilltop|1984|WFwuJUeT9rU|Section 25 (band)|S8346",
 "Bentley Rhythm Ace|Bentley's Gonna Sort You Out|1997|3IWl77o3l50|Bentley Rhythm Ace|S2958",
 "The Normal|T.V.O.D.|1978|5v7FZwyOdvU|The Normal|S7772",
 "Public Enemy|Can't Truss It|1991|am9BqZ6eA5c|Public Enemy (band)|S203",
