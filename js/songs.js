@@ -2472,7 +2472,7 @@ const songs = [
 "Ladytron|Destroy Everything You Touch|2005|JTTwlAT_AwU|Ladytron|S4646",
 "M83|Kim & Jessie|2008|n5cgzcjqOtE|M83 (band)|S4732",
 "The Offspring|Pretty Fly (For a White Guy)|1998|QtTR-_Klcq8|The Offspring|S3676",
-"Randy Newman|God's Song (That's Why I Love Mankind)|1972|C0TvfqmWf4M|Randy Newman|S4158",
+"Randy Newman|God's Song (That's Why I Love Mankind)|1972|Y04MQZyh30U|Randy Newman|S4158",
 "Sky Ferreira|Everything Is Embarrassing|2012|rEamE0MYPkg|Sky Ferreira|S5037",
 "The Shangri-Las|I Can Never Go Home Anymore|1965|dYdr-MslXkw|The Shangri-Las|S1673",
 "LL Cool J|Rock the Bells|1985|ZyswjkZJugI|LL Cool J|S411",
