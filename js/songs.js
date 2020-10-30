@@ -9034,7 +9034,7 @@ const songs = [
 "The Human League|The Lebanon|1984|b5VmR6hZw2c|The Human League|S6754",
 "Joe Simon|The Chokin' Kind|1969|eTlqTEMNiCs|Joe Simon (musician)|S6937",
 "Latimore|Let's Straighten It Out|1974|DgFRxaSk5yA|Latimore (musician)|S11371",
-"Los Teen Tops|La Plaga|1960|1dmpC-pdPd8|https://es.wikipedia.org/wiki/Los_Teen_Tops|S13552",
+"Los Teen Tops|La Plaga|1960|Ecmg3JPR0Lg|https://es.wikipedia.org/wiki/Los_Teen_Tops|S13552",
 "Kele|Tenderoni|2010|bdQioZHYpvQ|Kele Okereke|S7077",
 "Kaoma|Lambada|1989|csaUvkYOkLY|Kaoma|S7053",
 "Wayne Shorter|Footprints|1967|3XvJFW0DHbU|Wayne Shorter|S12559",
