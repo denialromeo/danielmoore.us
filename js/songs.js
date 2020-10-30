@@ -6562,7 +6562,7 @@ const songs = [
 "Pete Shelley|Homosapien|1981|2HwmO_GZfzI|Pete Shelley|S1873",
 "Bob Dylan|Changing of the Guards|1978|qZhMvLuoMaM|Bob Dylan|S10225",
 "The Kinks|Autumn Almanac|1967|p_u0gn1I8xQ|The Kinks|S14628",
-"Monaco|What Do You Want from Me?|1997|ZRhIAQAiTtY|Monaco|S7595",
+"Monaco|What Do You Want from Me?|1997|ZRhIAQAiTtY|Monaco (band)|S7595",
 "Milli Vanilli|Girl, You Know It's True|1988|RdSmokR0Enk|Milli Vanilli|S11651",
 "That Petrol Emotion|Big Decision|1987|iXAfWKOgo2Q|That Petrol Emotion|S1584",
 "Muddy Waters|I'm Ready|1954|VrKHz94rGpk|Muddy Waters|S4365",
