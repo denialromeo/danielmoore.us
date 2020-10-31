@@ -2562,7 +2562,7 @@ const songs = [
 "Clarence \"Pine Top\" Smith|Pinetop's Boogie Woogie|1928|PYGHn58DG70|Pinetop Smith|S2744",
 "Kings of Leon|Use Somebody|2008|gnhXHvRoUd0|Kings of Leon|S4772",
 "Sublime|What I Got|1996|0Uc3ZrmhDN4|Sublime (band)|S2129",
-"Japandroids|Young Hearts Spark Fire|2009|jYdX_ZC2fk4|Japandroids|S4835",
+"Japandroids|Young Hearts Spark Fire|2009|pRSSKtQHhxA|Japandroids|S4835",
 "Foo Fighters|My Hero|1997|EqWRaAF6_WY|Foo Fighters|S10839",
 "Beastie Boys|Paul Revere|1986|kdfF0cOC50w|Beastie Boys|S3176",
 "The Monkees|Pleasant Valley Sunday|1967|sUzs5dlLrm0|The Monkees|S2285",
