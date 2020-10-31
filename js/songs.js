@@ -943,7 +943,7 @@ const songs = [
 "Little Richard|Lucille|1957|u0Ujb6lJ_mM|Little Richard|S1252",
 "Randy Newman|Sail Away|1972|HCRGrnhdNQE|Randy Newman|S798",
 "Journey|Don't Stop Believin'|1981|VcjzHMhBtf0|Journey (band)|S3530",
-"Future|Mask Off (Remix feat. Kendrick Lamar)|2017|nrjPzPc1JiY|Future (rapper)|S16383",
+"Future|Mask Off (Remix feat. Kendrick Lamar)|2017|ndsAdAc3Mng|Future (rapper)|S16383",
 "Carpenters|Superstar|1971|SJmmaIGiGBg|The Carpenters|S832",
 "Sam Cooke|Wonderful World|1960|R4GLAKEjU4w|Sam Cooke|S1151",
 "Bob Dylan|All Along the Watchtower|1967|bT7Hj-ea0VE|Bob Dylan|S1692",
