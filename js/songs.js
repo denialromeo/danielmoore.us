@@ -3296,7 +3296,7 @@ const songs = [
 "Mano Negra|King Kong Five|1989|sikVd_ISevU|Mano Negra (band)|S7405",
 "Busta Rhymes|Put Your Hands Where My Eyes Could See|1997|Qw8dRrInTk8|Busta Rhymes|S3758",
 "Portishead|All Mine|1997|vozNQX6Ye1A|Portishead (band)|S4522",
-"Björk|It's Oh So Quiet|1995|HMt-nAYKTN0|Björk|S9151",
+"Björk|It's Oh So Quiet|1995|V-58I81gySE|Björk|S9151",
 "The Rolling Stones|Love in Vain|1969|ryRDcE2sB2A|The Rolling Stones|S4133",
 "Hüsker Dü|Makes No Sense at All|1985|J1sYN0PuRs4|Hüsker Dü|S392",
 "Grimes feat. Blood Diamonds|Go|2014|vIi57zhDl78|Grimes (musician)|S9586",
