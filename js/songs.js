@@ -3277,7 +3277,7 @@ const songs = [
 "Eagles|Lyin' Eyes|1975|2PTEqZURh4o|Eagles (band)|S3381",
 "Lucinda Williams|Passionate Kisses|1988|1rj3Z1KPE6E|Lucinda Williams|S2008",
 "Bobby Bland|Farther Up the Road|1957|QTkJO_qq7hM|Bobby Bland|S1239",
-"Gwen Stefani|What You Waiting For?|2004|yWA4uJOXF-g|Gwen Stefani|S2471",
+"Gwen Stefani|What You Waiting For?|2004|yWA4uJOXF-g?start=206|Gwen Stefani|S2471",
 "Antoine|Les Elucubrations d'Antoine|1966|PYSGVAQxgBw|Antoine (singer)|S5215",
 "James Blake feat. Bon Iver|I Need a Forest Fire|2016|sAJgs1P-uUE|James Blake (musician)|S16100",
 "John Lennon|Gimme Some Truth|1971|WbhktzkGoH0|John Lennon|S6952",
