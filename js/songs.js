@@ -3626,7 +3626,7 @@ const songs = [
 "Boards of Canada|In a Beautiful Place Out in the Country|2000|IzQOKNXhFJU|Boards of Canada|S4667",
 "Janet Jackson|That's the Way Love Goes|1993|GAXEEyUZ-OY|Janet Jackson|S2066",
 "The Strokes|Under Cover of Darkness|2011|_l09H-3zzgA|The Strokes|S4989",
-"George Jones|The Grand Tour|1974|mRlp9g3lMZc|George Jones|S2871",
+"George Jones|The Grand Tour|1974|9-hBAwaH6CI|George Jones|S2871",
 "The KLF|3 A.M. Eternal|1989|ZpzpwpCDzEQ|The KLF|S2032",
 "Passion Pit|The Reeling|2009|qVstHPhaJ6M|Passion Pit|S4820",
 "The El Dorados|At My Front Door|1955|xAP_z-kEhgk|El Dorado|S1594",
