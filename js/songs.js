@@ -8209,7 +8209,7 @@ const songs = [
 "Drake|Energy|2015|7LnBvuzjpr4|Drake (musician)|S9744",
 "Peter Gabriel|Mercy Street|1986|DYw9UrsFJa4|Peter Gabriel|S14865",
 "Alison Limerick|Where Love Lives|1990|TShqOPS06Yc|Alison Limerick|S193",
-"Billy Joel|The Longest Time|1983|a_XgQhMPeEQ|Billy Joel|S5457",
+"Billy Joel|The Longest Time|1983|a_XgQhMPeEQ?start=32|Billy Joel|S5457",
 "Lulu|To Sir with Love|1967|yTapoA5RQyo|Lulu (singer)|S3577",
 "Mose Allison|Parchman Farm|1957|h4koTO8gBdg|Mose Allison|S4073",
 "Soundgarden|Outshined|1991|sNh-iw7gsuI|Soundgarden|S12268",
