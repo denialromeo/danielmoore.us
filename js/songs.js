@@ -2567,7 +2567,7 @@ const songs = [
 "Beastie Boys|Paul Revere|1986|kdfF0cOC50w|Beastie Boys|S3176",
 "The Monkees|Pleasant Valley Sunday|1967|sUzs5dlLrm0|The Monkees|S2285",
 "Mike Oldfield|Tubular Bells|1973|_86Gm9iclAg?start=3|Mike Oldfield|S1765",
-"Michael Jackson|Human Nature|1982|ujDSiL600nc|Michael Jackson|S7535",
+"Michael Jackson|Human Nature|1982|LzmzYHQSJts|Michael Jackson|S7535",
 "Elvis Presley|Burning Love|1972|0SUC8sdP5eI|Elvis Presley|S4160",
 "R.E.M.|Shiny Happy People|1991|YYOKMUTTDdA|R.E.M.|S208",
 "Bing Crosby|Brother Can You Spare a Dime|1932|0I8-CbJYGMA|Bing Crosby|S4352",
