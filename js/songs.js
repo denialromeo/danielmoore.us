@@ -4811,7 +4811,7 @@ const songs = [
 "Dinosaur Jr.|The Wagon|1990|v5yxVuNDLmo|Dinosaur Jr.|S6078",
 "David Crosby|Laughing|1971|OGkzxJy0lm4|David Crosby|S5978",
 "The Flirtations|Nothing But a Heartache|1968|97zgi3Ri2Go|The Flirtations (R&B musical group)|S6403",
-"INXS|Suicide Blonde|1990|psDTiUV0PNI|INXS|S3499",
+"INXS|Suicide Blonde|1990|Ma4TOv2f_WY|INXS|S3499",
 "Gerry and the Pacemakers|Ferry Cross the Mersey|1964|08083BNaYcA|Gerry and the Pacemakers|S6551",
 "Sleater-Kinney|One More Hour|1997|3VoWc3yypHs|Sleater-Kinney|S12228",
 "Destiny's Child|Survivor|2001|Wmc8bQoL-J0|Destiny's Child|S1483",
