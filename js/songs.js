@@ -607,7 +607,7 @@ const songs = [
 "Cyndi Lauper|Time After Time|1983|VdQY7BusJNU|Cyndi Lauper|S428",
 "James Carr|The Dark End of the Street|1967|HC3AXQ8dPJM|James Carr (musician)|S989",
 "Melle Mel|White Lines (Don't Don't Do It)|1983|7bCdrDhUjPo|Melle Mel|S460",
-"Bob Dylan|Knockin' on Heaven's Door|1973|cJpB_AEZf6U|Bob Dylan|S761",
+"Bob Dylan|Knockin' on Heaven's Door|1973|rm9coqlk8fY|Bob Dylan|S761",
 "Bob Dylan|Just Like a Woman|1966|dRLXZVojdhQ|Bob Dylan|S1443",
 "Bob Dylan|Hurricane|1975|pm6xCwNKtnQ|Bob Dylan|S706",
 "The Knack|My Sharona|1979|g1T71PGd-J0|The Knack|S583",
