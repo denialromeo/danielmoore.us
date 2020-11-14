@@ -985,7 +985,7 @@ const songs = [
 "The Velvet Underground|Sister Ray|1968|53F5nY68cBM|The Velvet Underground|S2288",
 "Manic Street Preachers|A Design for Life|1996|Pz00_3LbdmM|Manic Street Preachers|S33",
 "Van Halen|Runnin' with the Devil|1978|i5txwFv-zYM|Van Halen|S619",
-"Marvin Gaye|Mercy Mercy Me (The Ecology)|1971|CShUISLYLGY|Marvin Gaye|S830",
+"Marvin Gaye|Mercy Mercy Me (The Ecology)|1971|uxMRgponxD0|Marvin Gaye|S830",
 "Elvis Presley|All Shook Up|1957|4SbSk0mXSvE|Elvis Presley|S1247",
 "The Drifters|Save the Last Dance for Me|1960|n-XQ26KePUQ|The Drifters|S1150",
 "Rae Sremmurd feat. Gucci Mane|Black Beatles|2016|b8m9zhNAgKs|Rae Sremmurd|S16172",
