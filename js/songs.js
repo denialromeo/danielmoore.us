@@ -6706,7 +6706,7 @@ const songs = [
 "Nino Ferrer|Mirza|1965|u5XwT6fc_Gg|Nino Ferrer|S11769",
 "Neil Diamond|Girl, You'll Be a Woman Soon|1967|jk3YTcIOU6I|Neil Diamond|S2835",
 "Daft Punk feat. Pharrell Williams|Lose Yourself to Dance|2013|NF-kLy44Hls|Daft Punk|S9427",
-"Archie Roach|Took the Children Away|1990|aywDT6yHMmo|Archie Roach|S10017",
+"Archie Roach|Took the Children Away|1990|IL_DBNkkcSE|Archie Roach|S10017",
 "The Naked and Famous|Young Blood|2010|0YuSg4mts9E|The Naked and Famous|S11710",
 "Judy Clay and William Bell|Private Number|1968|ce8AQloV71k|Judy Clay|S926",
 "The Black Keys|Gold on the Ceiling|2011|6yCIDkFI7ew|The Black Keys|S15302",
