@@ -2327,7 +2327,7 @@ const songs = [
 "Basement Jaxx|Romeo|2001|x2wUbgAAydY|Basement Jaxx|S1481",
 "Neil Young with Crazy Horse|My My, Hey Hey (Out of the Blue)|1979|i6RZY4Ar3fw|Neil Young|S2599",
 "Madonna|Beautiful Stranger|1999|Dsh0TfIKhoE|Madonna (entertainer)|S1351",
-"Stevie Wonder|I Wish|1976|hYKYka-PNt0|Stevie Wonder|S3974",
+"Stevie Wonder|I Wish|1976|Me-HOoM-3D4|Stevie Wonder|S3974",
 "The Cribs|Men's Needs|2007|oCNTYi9fHuo|The Cribs|S4342",
 "Don McLean|Vincent|1971|4wrNFDxCRzU|Don McLean|S6125",
 "Albert King|Born Under a Bad Sign|1967|SeLddbrzsHk|Albert King|S1446",
