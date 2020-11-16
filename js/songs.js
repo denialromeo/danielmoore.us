@@ -542,7 +542,7 @@ const songs = [
 "Free|All Right Now|1970|lSdBtoIIYT4|Free (band)|S850",
 "Big Brother and the Holding Company|Piece of My Heart|1968|9hcxbIln3sc|Big Brother and the Holding Company|S919",
 "The Police|Message in a Bottle|1979|MbXWrmQW-OE|The Police|S588",
-"The Five Satins|In the Still of the Nite|1956|NEUV-gKd0iA|The Five Satins|S1275",
+"The Five Satins|In the Still of the Nite|1956|MRb1-SAAIzs|The Five Satins|S1275",
 "Fleetwood Mac|Dreams|1977|Y3ywicffOj4|Fleetwood Mac|S1560",
 "ZZ Top|La Grange|1973|Vppbdf-qtGU|ZZ Top|S3993",
 "Kelly Clarkson|Since U Been Gone|2004|R7UrFYvl5TE|Kelly Clarkson|S3006",
