@@ -324,6 +324,7 @@ friday.mp4
 fritz-the-cat.mp4
 from-dusk-till-dawn.mp4
 from-here-to-eternity.mp4
+frost-nixon.mp4
 frozen.mp4
 fruitvale-station.mp4
 full-metal-jacket.mp4
@@ -403,6 +404,7 @@ hot-fuzz.mp4
 hot-girls-wanted.mp4
 hotel-mumbai.mp4
 hotel-rwanda.mp4
+hotel-transylvania.mp4
 how-the-grinch-stole-christmas.mp4
 hulk.mp4
 hunchback-of-notre-dame.mp4
@@ -485,11 +487,11 @@ kubo-and-the-two-strings.mp4
 kumonosu-jo.mp4
 kundun.mp4
 kung-fu-panda.mp4
+la-bamba.mp4
 la-confidential.mp4
 la-dolce-vita.mp4
 la-la-land.mp4
 la-regle-du-jeu.mp4
-La.Bamba.1987.1080p.BluRay.x264.YIFY.mp4
 ladri-di-biciclette.mp4
 lady-and-the-tramp.mp4
 lan-fengzheng.mp4
@@ -550,6 +552,7 @@ march-of-the-penguins.mp4
 marshall.mp4
 mary-poppins.mp4
 mash.mp4
+mask.mp4
 master-and-commander.mp4
 match-point.mp4
 matilda.mp4
@@ -710,6 +713,7 @@ rudolph-the-red-nosed-reindeer.mp4
 rue-cases-negres.mp4
 runaway-train.mp4
 rushmore.mp4
+saint-jack.mp4
 salaam-bombay.mp4
 samsara.mp4
 sanma-no-aji.mp4
@@ -766,6 +770,7 @@ snowpiercer.mp4
 social-network.mp4
 solaris.mp4
 some-like-it-hot.mp4
+something-wicked-this-way-comes.mp4
 song-of-the-south.mp4
 sonic-the-hedgehog.mp4
 sophie's-choice.mp4
