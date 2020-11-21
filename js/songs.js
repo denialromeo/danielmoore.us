@@ -7287,7 +7287,7 @@ const songs = [
 "The Jacksons|State of Shock|1984|B51442pIEV0|The Jackson 5|S11110",
 "Los Tres|Déjate caer|1995|V_cX2Eek7ug|Los Tres|S13553",
 "Creedence Clearwater Revival|Long As I Can See the Light|1970|SFP5afPweVI|Creedence Clearwater Revival|S5893",
-"Youth Lagoon|Dropla|2013|PdlyD4TG3Vw?start=32|Trevor Powers|S9548",
+"Youth Lagoon|Dropla|2013|b1XpNwKPTA8|Trevor Powers|S9548",
 "Barnt|Geffen|2012|6W6zniId77Y|https://www.discogs.com/artist/1908766-Barnt|S10078",
 "Erykah Badu feat. Andre 3000|Hello|2015|KXGqHYNTNHU|Erykah Badu|S9754",
 "Big Boi feat. Gucci Mane|Shine Blockas|2009|3GK23f_xtZY|Big Boi|S4789",
