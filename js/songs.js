@@ -7544,7 +7544,7 @@ const songs = [
 "Nick Cave & The Bad Seeds|As I Sat Sadly by Her Side|2001|mRnNMsfLyPI|Nick Cave and the Bad Seeds|S7730",
 "Frankie Knuckles/Jamie Principle|Baby Wants to Ride|1987|2EtEPT3DvdM|Jamie Principle|S6455",
 "Godspeed You! Black Emperor|Storm|2000|JMDmaUO4hno|Godspeed You! Black Emperor|S6601",
-"Elton John|Take Me to the Pilot|1970|Fi0xN499IXE|Elton John|S3523",
+"Elton John|Take Me to the Pilot|1970|jcK9GxJFGj4|Elton John|S3523",
 "Def Leppard|Bringin' On the Heartbreak|1981|f_X5A-BYjO8|Def Leppard|S10561",
 "Buckcherry|Lit Up|1999|cABZfkRcQ6A|Buckcherry|S5666",
 "Roxy Music|Jealous Guy|1981|hRzGzRqNj58|Roxy Music|S8256",
