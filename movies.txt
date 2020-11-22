@@ -298,6 +298,7 @@ fantastic-mr-fox.mp4
 far-from-heaven.mp4
 farewell-my-lovely.mp4
 fargo.mp4
+fast-times-at-ridgemont-high.mp4
 faster-pussycat-kill-kill.mp4
 fault-in-our-stars.mp4
 fear-and-desire.mp4
@@ -386,6 +387,11 @@ happy-gilmore.mp4
 harakiri.mp4
 harold-and-kumar.mp4
 harold-and-kumar2.mp4
+harry-potter2.mp4
+harry-potter4.mp4
+harry-potter6.mp4
+harry-potter7.mp4
+harry-potter8.mp4
 hateful-eight.mp4
 heat.mp4
 heaven-and-earth.mp4
@@ -656,6 +662,7 @@ pinocchio.mp4
 pirates-of-the-caribbean.mp4
 pirates-of-the-caribbean2.mp4
 pirates-of-the-caribbean3.mp4
+pixote.mp4
 planet-of-the-apes.mp4
 platoon.mp4
 pocahontas.mp4
@@ -693,6 +700,8 @@ rebel-without-a-cause.mp4
 requiem-for-a-dream.mp4
 reservoir-dogs.mp4
 revenant.mp4
+richard-pryor-1982.mp4
+richard-pryor-1983.mp4
 rio-bravo.mp4
 risky-business.mp4
 robin-hood.mp4
