@@ -2169,7 +2169,7 @@ const songs = [
 "Nolan Strong & The Diablos|The Wind|1954|bIVKaayaNaY|Nolan Strong & the Diablos|S1411",
 "Marshall Jefferson|Move Your Body (House Music Anthem)|1986|QAR8cq5Bl94|Marshall Jefferson|S1942",
 "Arctic Monkeys|Cornerstone|2009|LIQz6zZi7R0|Arctic Monkeys|S4786",
-"Tori Amos|Professional Widow (Armand's Star Trunk Funkin' Mix)|1996|BOnoA9aZbg0|Tori Amos|S2128",
+"Tori Amos|Professional Widow (Armand's Star Trunk Funkin' Mix)|1996|sl9DkcBreNw|Tori Amos|S2128",
 "Os Mutantes|A Minha Menina|1968|XIbJylD_c84|Os Mutantes|S7826",
 "Eric Clapton|Wonderful Tonight|1977|vUSzL2leaFM|Eric Clapton|S1802",
 "Nick Drake|Things Behind the Sun|1972|L1AkYgBTc4M|Nick Drake|S7732",
