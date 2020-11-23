@@ -1868,7 +1868,7 @@ const songs = [
 "Bob Dylan|Idiot Wind|1975|w8DylAtPF0I|Bob Dylan|S2994",
 "Kraftwerk|Computer Liebe/Computer Love|1981|CFmmzFcM-MA|Kraftwerk|S7148",
 "Muse|Plug In Baby|2001|dbB-mICjkQM|Muse (band)|S2220",
-"The Dixie Cups|Chapel of Love|1964|fc5stxiLSWQ|The Dixie Cups|S1032",
+"The Dixie Cups|Chapel of Love|1964|fc5stxiLSWQ?start=6|The Dixie Cups|S1032",
 "Blondie|Dreaming|1979|TU3-lS_Gryk|Debbie Harry|S1571",
 "Grizzly Bear|Yet Again|2012|AuG9i5cwGW0|Grizzly Bear (band)|S5015",
 "AC/DC|Dirty Deeds Done Dirt Cheap|1976|whQQpwwvSh4|AC/DC|S3130",
