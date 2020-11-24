@@ -5,7 +5,7 @@ permalink: contact
 ---
 
 <div class="form">
-    <form id="contact" action="https://formspree.io/{{site.email}}" method="post">
+    <form id="contact" action="https://formspree.io/f/mqkgdkyn" method="POST">
         <div class="form-field">
             <input name="name" type="text" placeholder="Name" required>
         </div>
