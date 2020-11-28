@@ -95,7 +95,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * "[The Cold Equations](http://www.spacewesterns.com/articles/105/#content)" by [Tom Godwin](https://en.wikipedia.org/wiki/Tom_Godwin) (Human beings, vegetables, or cosmic dust.)
 * "[Frost and Fire](http://web.archive.org/web/20170918083727/https://charlton6.weebly.com/uploads/1/0/6/2/10621939/frost_and_fire.pdf)" by [Ray Bradbury](https://en.wikipedia.org/wiki/Ray_Bradbury) (Man that is born of a woman is of few days.)
-* "[A Full Life](https://www.technologyreview.com/2019/04/24/135741/a-full-life/)" by [Paolo Bacigalupi](https://en.wikipedia.org/wiki/Paolo_Bacigalupi) (Enjoy it while you can.)
+* "[A Full Life](https://www.technologyreview.com/2019/04/24/135741/a-full-life/)" by [Paolo Bacigalupi](https://en.wikipedia.org/wiki/Paolo_Bacigalupi) (Published in 2019 and already dated.)
 * "[Golden](https://nickbostrom.com/fable/retriever.html)" by [Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom) (Transhumanists beware.)
 * "[A Hunger Artist](https://www.kafka-online.info/a-hunger-artist.html)" by [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka) (Is all art insanity?)
 * "[The Last Answer](https://www.thrivenotes.com/the-last-answer/#post)" by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov) (Immortality is overrated.)
