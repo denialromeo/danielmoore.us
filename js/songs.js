@@ -9150,7 +9150,7 @@ const songs = [
 "The Band|Across the Great Divide|1969|7vsc8M6GKEY|The Band|S4121",
 "Barón Rojo|Los rockeros van al infierno|1982|DFE3S3_nLFI|Barón Rojo|S15262",
 "The Cramps|Drug Train|1980|j6RoWUGz520|The Cramps|S5880",
-"Hot Chocolate|Every 1's a Winner|1978|xubCItLvNhE|Hot Chocolate (band)|S11048",
+"Hot Chocolate|Every 1's a Winner|1978|gvql8V6LNC0|Hot Chocolate (band)|S11048",
 "Guns N' Roses|Better|2008|tVKtLfFD8Po|Guns N' Roses|S10987",
 "Billie Holiday|Solitude|1941|8eLl84iMsrQ|Billie Holiday|S13682",
 "Stevie Ray Vaughan and Double Trouble|Crossfire|1989|t54xyIcgbks|Stevie Ray Vaughan|S12320",
