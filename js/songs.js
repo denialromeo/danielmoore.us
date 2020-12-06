@@ -6912,7 +6912,7 @@ const songs = [
 "Hoodoo Gurus|What's My Scene?|1987|ugA5bLqivkY|Hoodoo Gurus|S6731",
 "Yo La Tengo|Sugarcube|1997|zASj0vOml4E|Yo La Tengo|S15217",
 "Crowded House|Four Seasons in One Day|1991|si3dBlNdifE|Crowded House|S5909",
-"Poni Hoax|She's on the Radio|2006|DpGFL1Vv2ZE|Poni Hoax|S9322",
+"Poni Hoax|She's on the Radio|2006|HPmYt7qFHvg|Poni Hoax|S9322",
 "Vashti Bunyan|Diamond Day|1970|7-HDcMplduA|Vashti Bunyan|S12554",
 "Rancid|Salvation|1994|jkdZn34AsXo|Rancid (band)|S4222",
 "Les Négresses Vertes|Zobi la mouche|1989|S6nSpBiekzQ|Les Négresses Vertes|S7247",
