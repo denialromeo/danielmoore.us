@@ -5684,7 +5684,7 @@ const songs = [
 "Lee Dorsey|Ya Ya|1961|C1YusSmtBU0|Lee Dorsey|S7214",
 "The Killers|Jenny Was a Friend of Mine|2004|CJbyOVBaBzE|The Killers|S7100",
 "Beck|E-Pro|2005|RIrG6xBW5Wk|Beck|S5390",
-"Cliff Richard|Living Doll|1959|gGOU0o9K89g|Cliff Richard|S1198",
+"Cliff Richard|Living Doll|1959|jNke99dm20Y|Cliff Richard|S1198",
 "Eddie Cochran|Three Steps to Heaven|1960|zEueb1kSo9w|Eddie Cochran|S6196",
 "Arthur Smith|Guitar Boogie|1945|1lQ9VbO-m-I|Arthur \"Guitar Boogie\" Smith|S4359",
 "Schoolly D|Saturday Night|1987|f6_Wyt7Pf8U|Schoolly D|S1965",
