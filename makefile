@@ -48,5 +48,5 @@ chess:
 	cp ..\code\4462-chess-problems\chess-puzzle-player\dist\chess-puzzle-player.js .\js
 
 tv:
-	dir /b a:\tv > tv.txt
+	dir /a-d /b a:\tv > tv.txt
 	git diff
