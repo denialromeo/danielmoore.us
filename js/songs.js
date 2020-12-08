@@ -2219,7 +2219,7 @@ const songs = [
 "Bruce Springsteen|The Rising|2002|6i-fiRgbpr4|Bruce Springsteen|S4616",
 "Drake|0 to 100 / The Catch Up|2014|I2bBZvSPpOo|Drake (musician)|S9571",
 "Slint|Good Morning, Captain|1991|96MxID3GK4c|Slint|S3816",
-"John Denver|Take Me Home, Country Roads|1971|1vrEljMfXYo|John Denver|S1727",
+"John Denver|Take Me Home, Country Roads|1971|4LfjdfOFCVY?start=5|John Denver|S1727",
 "Bob Marley and the Wailers|Is This Love|1978|cOJsK8qbAaA|Bob Marley|S1806",
 "Chumbawamba|Tubthumping|1997|2H5uWRjFsGc|Chumbawamba|S9",
 "Los Bravos|Black Is Black|1966|QkwmSzPdVnY|Los Bravos|S7306",
