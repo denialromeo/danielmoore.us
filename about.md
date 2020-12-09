@@ -106,7 +106,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*The Book of Genesis Illustrated*](https://ia601205.us.archive.org/18/items/RobertCrumbTheBookOfGenesis/robert%20crumb%20the%20book%20of%20genesis.pdf) by [Robert Crumb](https://en.wikipedia.org/wiki/Robert_Crumb) (Brings scripture to life.)
 * [*Buddha*](https://archive.org/details/manga_Buddha-v01) by [Osamu Tezuka](https://en.wikipedia.org/wiki/Osamu_Tezuka) (Reality.)
-* [*The Cartoon History of the Universe*](https://archive.org/details/ACartoonHistoryOfTheUniverse) by [Larry Gonick](http://www.larrygonick.com/) (Sic transit gloria mundi.)
+* [*The Cartoon History of the Universe*](https://getcomics.info/other-comics/cartoon-history-of-the-universe-1-9-1978-1992/) by [Larry Gonick](http://www.larrygonick.com/) (Sic transit gloria mundi.)
 * [*Maus*](https://archive.org/details/Maus1ArtSpiegelman) by [Art Spiegelman](https://en.wikipedia.org/wiki/Art_Spiegelman) (Probably the best comic ever written.)
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
