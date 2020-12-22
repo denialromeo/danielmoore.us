@@ -1219,7 +1219,7 @@ const songs = [
 "The Shangri-Las|Remember (Walkin' in the Sand)|1964|l97xELhvYBQ|The Shangri-Las|S1419",
 "The Killers|All These Things That I've Done|2004|sZTpLvsYYHw|The Killers|S4635",
 "The Raconteurs|Steady, As She Goes|2006|DXAidGQUuns|The Raconteurs|S3055",
-"Talking Heads|This Must Be the Place (Naive Melody)|1983|pVrVY540xdc|Talking Heads|S4878",
+"Talking Heads|This Must Be the Place (Naive Melody)|1983|z9PcDTxYcUs?start=19|Talking Heads|S4878",
 "The Searchers|Needles and Pins|1964|S0oP8e02dpk|The Searchers (band)|S1031",
 "Johnny Burnette|The Train Kept A-Rollin'|1956|VkZhJJ8sPmw|Johnny Burnette|S1280",
 "Lil Uzi Vert|XO Tour Llif3|2017|WrsFXgQk5UI|Lil Uzi Vert|S16435",
