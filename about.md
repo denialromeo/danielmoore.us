@@ -40,13 +40,6 @@ I hope you have a good time here. Thanks for dropping by.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLsn6N7S-aJO160Fhs3pxuMqrlJbskd95t" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 ' %}
 
-{:#web-applications}
-**Web Applications**
-
-* "[Bookmarklet Creator](https://mrcoles.com/bookmarklet/)" by Peter Coles (Execute JavaScript with the push of a button.)
-* "[Capitalize My Title](https://capitalizemytitle.com)" by Bobby Kania (Capitalize your titles!)
-* "[Flame of Life](https://learnforeverlearn.com/candle/)" by Brad Lyon (Tomorrow and tomorrow and tomorrow.)
-
 {:#desktop-software}
 **Desktop Software**
 
