@@ -47,7 +47,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[OBS Studio](https://obsproject.com/)" by Hugh Bailey (Screen recorder.)
 * "[ScreenToGif](https://github.com/NickeManarin/ScreenToGif#readme)" by Nicke Manarin (Animated screenshots.)
 * "[Vimium](https://github.com/philc/vimium#readme)" by Phil Crosby (Chrome extension for mouse-less browsing.)
-* "[youtube-dl](https://github.com/rg3/youtube-dl#readme)" by Ricardo Garc&iacute;a (YouTube video downloader.)
+* "[youtube-dl](https://github.com/rg3/youtube-dl#readme)" by Ricardo Garc&iacute;a (Download YouTube videos.)
 
 {:#blog-posts}
 **Blog Posts**
