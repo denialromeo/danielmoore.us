@@ -2968,7 +2968,7 @@ const songs = [
 "Ella Fitzgerald|Ev'rytime We Say Goodbye|1956|GGNLLJz4Ajw|Ella Fitzgerald|S4371",
 "The Police|Can't Stand Losing You|1978|nH0vjLwMyc4|The Police|S3712",
 "Suicide|Cheree|1977|aT_rlpOSqg4|Suicide (band)|S8630",
-"The Charlie Daniels Band|The Devil Went Down to Georgia|1979|wBjPAqmnvGA|Charlie Daniels|S1832",
+"The Charlie Daniels Band|The Devil Went Down to Georgia|1979|wBjPAqmnvGA?start=23|Charlie Daniels|S1832",
 "Toots and the Maytals|Funky Kingston|1973|5XjRXBY4B2E|Toots and the Maytals|S8820",
 "My Bloody Valentine|To Here Knows When|1991|pgTX42rWg74|My Bloody Valentine (band)|S4491",
 "Oasis|Morning Glory|1995|Wm54XyLwBAk|Oasis (band)|S7780",
