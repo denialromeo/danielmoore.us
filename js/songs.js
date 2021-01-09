@@ -7353,7 +7353,7 @@ const songs = [
 "Markus Nikolai|Bushes|1999|NwcK0y_RhhE|https://www.discogs.com/artist/30429-Jallokin|S7436",
 "Kanye West feat. Kendrick Lamar|No More Parties in L.A.|2016|NnMuFqsmYSE|Kanye West|S16117",
 "Beck|Deadweight|1997|vptfm9D6owo|Beck|S5389",
-"Don Henley|Dirty Laundry|1982|YHimia_Fxzs|Don Henley|S6124",
+"Don Henley|Dirty Laundry|1982|1ZZ35GaC7Fo|Don Henley|S6124",
 "The Leaves|Hey Joe|1965|KWv03Wgz0PQ|The Leaves|S2502",
 "The Sons of the Pioneers|Cool Water|1941|amDo-KqUjpA|Sons of the Pioneers|S2748",
 "Felt|Primitive Painters|1985|7Jtejnvza2U|Felt (band)|S10800",
