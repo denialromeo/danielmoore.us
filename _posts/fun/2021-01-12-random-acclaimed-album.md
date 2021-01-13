@@ -32,7 +32,7 @@ box: random-acclaimed-song
             <a target="_self" href="?song=love">Albums whose titles contain the word "love".</a>
         </li>
     </ul>
-   <p>Also note that each artist's name is a link to their Wikipedia page.</p>
+   <p>Also note that each album's name is a link to its Wikipedia page.</p>
 </div>
 
 <script src="/js/URI.js"></script>
@@ -75,7 +75,8 @@ box: random-acclaimed-song
     const info = choice(pool).split("|")
     iframe.src = info[3].startsWith("http") ? info[3] : `https://youtube.com/embed/videoseries?list=${info[3]}`
     const wikiLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[0])}>${info[0]}</a>`
-    const songLink = `<a style='text-decoration:none;border-bottom:none;' href='http://acclaimedmusic.net/album/${info[4]}.htm'>${info[1]}</a>`
+    const songLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[5])}>${info[1]}</a>`
+    // const songLink = `<a style='text-decoration:none;border-bottom:none;' href='http://acclaimedmusic.net/album/${info[4]}.htm'>${info[1]}</a>`
     title.innerHTML = `${wikiLink} - ${songLink} (${info[2]})`
     document.title  = `${info[0]} - ${info[1]} (${info[2]})`
 </script>
