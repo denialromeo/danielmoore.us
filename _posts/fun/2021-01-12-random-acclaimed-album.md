@@ -29,7 +29,7 @@ box: random-acclaimed-song
             <a target="_self" href="?artist=Bob+Marley|The.Wailers">Albums by Bob Marley.</a>
         </li>
         <li>
-            <a target="_self" href="?song=love">Albums whose titles contain the word "love".</a>
+            <a target="_self" href="?album=love">Albums whose titles contain the word "love".</a>
         </li>
     </ul>
    <p>Also note that each album's name is a link to its Wikipedia page.</p>
@@ -60,8 +60,8 @@ box: random-acclaimed-song
     if ("artist" in params) {
         pool = pool.filter(s => new RegExp(params.artist, "i").exec(s.split("|")[0]) !== null)
     }
-    if ("song" in params) {
-        pool = pool.filter(s => new RegExp(params.song, "i").exec(s.split("|")[1]) !== null)
+    if ("album" in params) {
+        pool = pool.filter(s => new RegExp(params.album, "i").exec(s.split("|")[1]) !== null)
     }
     if ("year" in params) {
         pool = pool.filter(s => new RegExp(params.year, "i").exec(s.split("|")[2]) !== null)
