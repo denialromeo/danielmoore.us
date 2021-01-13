@@ -14,7 +14,7 @@ box: random-acclaimed-song
 <iframe id="song" frameborder="0" allowfullscreen></iframe>
 ' %}
 
-<p id="description">Since 2001, statistician Henrik Franzon has maintained <a href="http://acclaimedmusic.net">acclaimedmusic.net</a>, his ranking of the top&#8209;rated albums of all time. This song was randomly chosen from his <a href="http://www.acclaimedmusic.net/year/alltime_albums.htm">list</a> of 3,000 albums.</p>
+<p id="description">Since 2001, statistician Henrik Franzon has maintained <a href="http://acclaimedmusic.net">acclaimedmusic.net</a>, his ranking of the top&#8209;rated albums of all time. This album was randomly chosen from his <a href="http://www.acclaimedmusic.net/year/alltime_albums.htm">list</a> of 3,000 albums.</p>
 
 <p id="next-song"></p>
 
@@ -23,13 +23,13 @@ box: random-acclaimed-song
     <p>You can limit the song selection by playing with the URL! Examples &ndash;</p>
     <ul>
         <li>
-            <a target="_self" href="?year=19[6-7][0-9]">Songs released in the 1960's and 1970's.</a>
+            <a target="_self" href="?year=19[6-7][0-9]">Albums released in the 1960's and 1970's.</a>
         </li>
         <li>
-            <a target="_self" href="?artist=Bob+Marley|The.Wailers">Songs by Bob Marley.</a>
+            <a target="_self" href="?artist=Bob+Marley|The.Wailers">Albums by Bob Marley.</a>
         </li>
         <li>
-            <a target="_self" href="?song=love">Songs whose titles contain the word "love".</a>
+            <a target="_self" href="?song=love">Albums whose titles contain the word "love".</a>
         </li>
     </ul>
    <p>Also note that each artist's name is a link to their Wikipedia page.</p>
