@@ -424,7 +424,7 @@ const albums = [
 "Yo La Tengo|I Can Hear the Heart Beating As One|1997|PLX68ZEYlh74vlxVjJ0BlGtPiydrEsdBhq|A1019|I Can Hear the Heart Beating as One",
 "Grimes|Visions|2012|PLuVXC3t17vpoZG15OeqwhzDJZmM4Kkfb5|A5218|Visions (Grimes album)",
 "Madonna|Ray of Light|1998|PLF0AhMBAen_v5_4z6xtBthWbUoW9duOQa|A1038|Ray of Light",
-"Elvis Costello and The Attractions|Armed Forces|1979|PLcv3JVpKHtqHmzWqRj0-L2eqZI-1jq0PC|A459|Armed Forces (album)",
+"Elvis Costello and The Attractions|Armed Forces|1979|PLa2kFOYlMPmyCc4GR4pJc5hJkyaZ-zDFQ|A459|Armed Forces (album)",
 "Richard and Linda Thompson|I Want to See the Bright Lights Tonight|1974|PL6VJme_L98wI1dnX9UKRx2yCosKUsc_Bk|A305|I Want to See the Bright Lights Tonight",
 "Aerosmith|Rocks|1976|PL60482B59734C83C8|A375|Rocks (Aerosmith album)",
 "Iron Maiden|The Number of the Beast|1982|PLPf69IGxwfBG2j_jo4KxYhjUhWy6mJrUB|A553|The Number of the Beast (album)",
