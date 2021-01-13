@@ -463,7 +463,7 @@ const albums = [
 "Funkadelic|Maggot Brain|1971|PL3D799A2560FA3521|A234|Maggot Brain",
 "Leftfield|Leftism|1995|PLDA40D85A61FBC175|A949|Leftism (album)",
 "The Prodigy|Music for the Jilted Generation|1994|PLjIuADMrDKIbTOGZsgXB6zYRYyMv9J3wO|A914|Music for the Jilted Generation",
-"Lou Reed|New York|1989|PL0424EB84AD0B64BA|A753|New York (album)",
+"Lou Reed|New York|1989|PLEtjy8Jb5nzZQ8dFR7rneYipu6zp7SKQD|A753|New York (album)",
 "Jane's Addiction|Nothing's Shocking|1988|PL6ogdCG3tAWj78lwIVHjSU9pqYwa1KM9b|A737|Nothing's Shocking",
 "The Who|Quadrophenia|1973|PL705A234F43DA0E34|A296|Quadrophenia",
 "Leonard Cohen|Songs of Love and Hate|1971|PL9YWtZiQ5VsU4364yqDJp9IeMhSHdZMgK|A230|Songs of Love and Hate",
@@ -2998,4 +2998,5 @@ const albums = [
 "Gilberto Gil|Expresso 2222|1972|PLsYFv2PLHYDxG0M6w7gJsj9TAq8RpiZZN|A2450|Expresso 2222",
 "Motorpsycho|Demon Box|1993|PLHTo__bpnlYU_BfXP9JlKtiLR0Ggdp8Tg|A3482|Demon Box (album)",
 "The Woodentops|Giant|1986|PL55fp3g7SJYJw-CcHXfbwvK1Qk2oR3ATg|A1516|Giant (The Woodentops album)",
-"Whitesnake|Whitesnake/1987|1987|PLgLk-j8sdm7avB5pRF59hgM6bfHxs2Xz_|A2886|Whitesnake (album)",] 
+"Whitesnake|Whitesnake/1987|1987|PLgLk-j8sdm7avB5pRF59hgM6bfHxs2Xz_|A2886|Whitesnake (album)",
+] 
