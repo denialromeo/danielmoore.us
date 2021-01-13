@@ -995,7 +995,7 @@ const albums = [
 "Shabazz Palaces|Black Up|2011|PLKMSDeF7YbPuO3twTlYaIMtnG7NogWeUU|A5171|Black Up",
 "Blur|Think Tank|2003|PLBE6250B938D36ED1|A3927|Think Tank (Blur album)",
 "Donna Summer|Bad Girls|1979|PLrpyDacBCh7DxQh-1_BOrtt271wpGSPI9|A471|Bad Girls (Donna Summer album)",
-"The Beach Boys|The Beach Boys Today!|1965|PLowQCq3Ss89jrYPwUjvBAD8Yb83HvJOqg|A36|Smile (Beach Boys album)",
+"The Beach Boys|The Beach Boys Today!|1965|PLowQCq3Ss89jrYPwUjvBAD8Yb83HvJOqg|A36|The Beach Boys Today!",
 "Arrested Development|3 Years, 5 Months and 2 Days in the Life of...|1992|PLWblg5ArERS_7CY2MQQe3UwGerRFba4GO|A842|3 Years, 5 Months and 2 Days in the Life Of...",
 "Tangerine Dream|Phaedra|1974|PLUNkClpWachVJXKSGtNf2c7L8TDda8piS|A1184|Phaedra (album)",
 "Youssou N'Dour|Immigres / Bitim Rew|1984|PLHKUWWMBU8hcXEWuPiiavmgYQmiGklQqm|A2042|Youssou N'Dour",
