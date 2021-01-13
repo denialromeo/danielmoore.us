@@ -2731,7 +2731,7 @@ const albums = [
 "Cardinal|Cardinal|1994|PLjcoatQU2O1JO7B0cdAXFxMesGrnD92-V|A3543|Cardinal",
 "Jimmy Reed|Jimmy Reed at Carnegie Hall|1961|PL1EF11F88FADEDADB|A1278|Jimmy Reed",
 "The Animals|Animalisms / Animalization|1966|PLEditHKlAe00Bla11x5GGevlmtDAHrVtg|A85|Animalization",
-"Bob Marley and The Wailers|Kaya|1978|PL2D471935440C3BAA|A1441|Exodus (Bob Marley and the Wailers album)",
+"Bob Marley and The Wailers|Kaya|1978|PL2D471935440C3BAA|A1441|Kaya (album)",
 "Veneno|Veneno|1977|PLE7g82kI14UiHQjKhAu3_EIAmOlYlMgBm|A4599|Veneno",
 "Elvis Presley|King Creole|1958|PLX2khJxDoE9hF9--5OB-s2Dp41hInYZ5D|A1221|King Creole (soundtrack)",
 "Travis Scott|Astroworld|2018|PL9tY0BWXOZFvdeHbEJr7Wiztcue35IStT|A6050|Astroworld (album)",
