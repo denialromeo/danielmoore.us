@@ -262,7 +262,7 @@ const albums = [
 "Can|Tago Mago|1971|PLA462AF9E090AA004|A228",
 "The Cure|Disintegration|1989|PLKcAK4gEi7j8gfJBbeVrAo2sc3kgTyw-f|A770",
 "The Mothers of Invention|Freak Out!|1966|PL65E2BFB88DC87EB6|A65",
-"D'Angelo and The Vanguard|Black Messiah|2014|PL4LyJBWB_4o6VkpKgyD5UHNBBFGE5phfc|A5403",
+"D'Angelo and The Vanguard|Black Messiah|2014|PLoS-E0APUbHP4Ey1uqJerPuLlVNyOo8-V|A5403",
 "The Streets|Original Pirate Material|2002|PLveulyMsTXwElWWujLyxj_aq_lB5wyM44|A1623",
 "The Smashing Pumpkins|Mellon Collie and the Infinite Sadness|1995|PLyI3z-7R4O1khpd8nxPuVg4T-oT9s2BD9|A942",
 "Bob Dylan|Time Out of Mind|1997|PL7DuEolpo-QFqlroFZ9YCA9idpfgJjV8B|A1007",
