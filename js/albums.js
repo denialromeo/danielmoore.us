@@ -2400,7 +2400,7 @@ const albums = [
 "Glasvegas|Glasvegas|2008|PLb3nKaB6PMJj_EJOUYQaM3N_UtoX45s_L|A4348|Glasvegas",
 "Shabazz Palaces|Lese Majesty|2014|PLbOGt8cOph4ULtTa8el87T3pvMVARsE2d|A5415|Lese Majesty (album)",
 "Miguel|Wildheart|2015|PLmHYLrlZVXMwh1_7Pj4yJcGa7gUyrFu8Y|A5574|Wildheart (album)",
-"Terry Callier|What Color Is Love|1972|PLf3CnvFfUcFTdnhCETGbUS7XeKxGZD_Yt|A4541|What Color Is Love",
+"Terry Callier|What Color Is Love|1972|PLuFUzPyDBnf2uOBxjJpamDuDxRAP-DrJ9|A4541|What Color Is Love",
 "Aldous Harding|Party|2017|PLqrDYLvMD54yNy77x6PBA35DJFmzWuFOl|A5846|Party (Aldous Harding album)",
 "Ray Charles|Genius + Soul = Jazz|1961|PLBPzjajC_OZXOvEXJLJP5Sznh51dLwx0E|A1276|Genius + Soul = Jazz",
 "Jenny Hval|Apocalypse, Girl|2015|PLPaztBWnatchJWXF6W-yJgcjfnBEKHfI5|A5591|Jenny Hval",
