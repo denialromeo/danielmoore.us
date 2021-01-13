@@ -1,5 +1,5 @@
 const albums = [ 
-"The Beach Boys|Pet Sounds|1966|PLj5TmO4kroQH4XM8P3JavV0p7Gtnno1E2|A62|Pet Sounds",
+"The Beach Boys|Pet Sounds|1966|PLL-NbN8uTOij1Yet6F4pDxymUZ_Jyh3z5|A62|Pet Sounds",
 "Nirvana|Nevermind|1991|PLnif9Rfb5AdmtzpHwWI-T0Tx0wQAmTxFS|A811|Nevermind",
 "The Beatles|Revolver|1966|PLg5pp7nrH0IqV2ESEZmmgWtECbzkS8d3O|A63|Revolver (Beatles album)",
 "The Velvet Underground & Nico|The Velvet Underground & Nico|1967|PL6L69LqeN3NgDv3WVOXlokZQoaqFh2h-I|A91|The Velvet Underground & Nico",
