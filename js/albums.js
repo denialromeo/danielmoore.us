@@ -2743,7 +2743,7 @@ const albums = [
 "!!!|Louden Up Now|2004|PLo-CVFFA0DtXcIKdG6gmHnS2wxOYelY14|A4094|Louden Up Now",
 "Andrew Bird|Armchair Apocrypha|2007|PLu3RevzxBIYyJKp070C9-eozndDDJQWi4|A4277|Armchair Apocrypha",
 "Chris Isaak|Silvertone|1985|PLwhAEl-ufO2sh-SVxaV5tBAGKqo4jW5O-|A4710|Silvertone (album)",
-"Mahmoud Ahmed|Eré Méla Méla/Ethiopiques 7|1975|PLJ6HKaCdOQ_7hLm4F9il05AdZ4s5_2A0Y|A4562|Éthiopiques",
+"Mahmoud Ahmed|Eré Méla Méla/Ethiopiques 7|1975|OLAK5uy_mmJt1U1EItVgLiwFZTXFfKvifS6FC9oGE|A4562|Éthiopiques",
 "Robert Fripp|Exposure|1979|PLQjOqzYfC3P1SfGoX-NIcHnI21kNUAWfX|A479|Exposure (Robert Fripp album)",
 "John Coltrane|Olé Coltrane|1961|PLMAB89BlQ_bnlDoOML4QpGLCaTIkDN5Fr|A2471|Olé Coltrane",
 "Metro Area|Metro Area|2002|PLnxSY27MRIcHR8fTi_Q8KEdS1uFTPdvDp|A4951|Metro Area",
