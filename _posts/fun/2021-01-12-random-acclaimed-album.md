@@ -14,7 +14,7 @@ box: random-acclaimed-song
 <iframe id="song" frameborder="0" allowfullscreen></iframe>
 ' %}
 
-<p id="description">Since 2001, statistician Henrik Franzon has maintained <a href="http://acclaimedmusic.net">acclaimedmusic.net</a>, his ranking of the top&#8209;rated songs of all time. This song was randomly chosen from his <a href="http://www.acclaimedmusic.net/history_songs.htm">2018 list</a> of 10,272 songs.</p>
+<p id="description">Since 2001, statistician Henrik Franzon has maintained <a href="http://acclaimedmusic.net">acclaimedmusic.net</a>, his ranking of the top&#8209;rated albums of all time. This song was randomly chosen from his <a href="http://www.acclaimedmusic.net/year/alltime_albums.htm">list</a> of 3,000 albums.</p>
 
 <p id="next-song"></p>
 

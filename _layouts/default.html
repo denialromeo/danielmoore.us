@@ -168,6 +168,14 @@ document.getElementById("india-map").src = src
     }
 </script>
 {% endif %}
+{% if page.title == 'Random Acclaimed Album' %}
+<script type="text/javascript">
+    $("#dropdown").click(() => $( "#instructions" ).slideToggle( "slow"))
+    if ($(document).width() <= 760) {
+      document.querySelector("#description").innerHTML = `This song was randomly chosen from statistician Henrik Franzon's <a href="http://www.acclaimedmusic.net/year/alltime_albums.htm">list</a> of 3,000 top albums.`
+    }
+</script>
+{% endif %}
 {% if page.permalink == 'chess-puzzles' %}
 <script type="text/javascript">
     if ($(document).width() <= 760) {
