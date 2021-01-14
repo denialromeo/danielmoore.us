@@ -211,7 +211,7 @@ const albums = [
 "Bob Marley and The Wailers|Exodus|1977|PLA0FCD8C71A9FACD3|A407|Exodus (Bob Marley and the Wailers album)",
 "Animal Collective|Merriweather Post Pavilion|2009|PLa-xBlyGSf9i8MNgl8foH-hwjxUYz7Eqg|A4987|Merriweather Post Pavilion (album)",
 "Pink Floyd|Wish You Were Here|1975|PLfimnwaZdumgdg-BPofqK8h6cdkxIxe2H|A347|Wish You Were Here (Pink Floyd album)",
-"Suicide|Suicide|1977|PL4W_2s8dlY7m_wIsCiU5o6sTyRAoBZLf6|A400|Suicide Squad (soundtrack)",
+"Suicide|Suicide|1977|PL4W_2s8dlY7m_wIsCiU5o6sTyRAoBZLf6|A400|Suicide (1977 album)",
 "PJ Harvey|Let England Shake|2011|PL6CFBB8D9058F314A|A5149|Let England Shake",
 "Marvin Gaye|Let's Get It On|1973|PLMNMmvIC2uGZBKfZsI3DDaVhsL1fje5L5|A276|Let's Get It On",
 "Santana|Abraxas|1970|PL-UWPlRIl68qQh0KwE9c28kLgvD_7O6sW|A205|Abraxas (album)",
