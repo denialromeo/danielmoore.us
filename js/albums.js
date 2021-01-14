@@ -164,7 +164,7 @@ const albums = [
 "Kate Bush|Hounds of Love|1985|PLRwfesSsC3QMdOygSoEerOgftrymCTqWq|A635|Hounds of Love",
 "Blur|Parklife|1994|PLC1KYiUBUiUjlxFJNJPk_N28sY0k5k_aq|A903|Parklife",
 "Daft Punk|Homework|1997|PLSdoVPM5Wnne3Q2AxosemsThywhraJ0su|A1005|Homework (Daft Punk album)",
-"Pink Floyd|The Wall|1979|PLyDzU3p8FP24syYfTXpGqTDHsQhlxwllS|A466|Pink Floyd â€“ The Wall",
+"Pink Floyd|The Wall|1979|PLyDzU3p8FP24syYfTXpGqTDHsQhlxwllS|A466|Pink Floyd – The Wall",
 "Solange|A Seat at the Table|2016|PLrtAkL8_yQW9rBlvA0oaWPS0p4bU3vEfn|A5808|A Seat at the Table",
 "Arctic Monkeys|Whatever People Say I Am, That's What I'm Not|2006|PLyWB0TxTMmTlY5w2W-SZ7UHnS3ksTZlkn|A2075|Whatever People Say I Am, That's What I'm Not",
 "Nas|Illmatic|1994|PL01DA7137241FC16D|A929|Illmatic",
