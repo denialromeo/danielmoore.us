@@ -2118,7 +2118,7 @@ const albums = [
 "Nick Cave and The Bad Seeds|No More Shall We Part|2001|PLMxy067kbpQgxGNgC0U9UGU3YhDR-suIl|A1212|No More Shall We Part",
 "Womack and Womack|Love Wars|1983|PLShm_cOOBX14amd_IX7mVv2xxY7pgva7V|A590|Womack & Womack",
 "Anthrax|Among the Living|1987|PLaHAWdyO-voAqd-HC9CG5GQyuS7cKSjV9|A3179|Among the Living",
-"Michael Hurley/The Unholy Modal Rounders/Jeffrey Fredericks & The Clamtones|Have Moicy!|1976|PLA6J6l_aJK4aSwVPmhU1dQRUuyfKcQNv2|A1420|The Holy Modal Rounders",
+"Michael Hurley/The Unholy Modal Rounders/Jeffrey Fredericks & The Clamtones|Have Moicy!|1976|PLA6J6l_aJK4aSwVPmhU1dQRUuyfKcQNv2|A1420|Have Moicy!",
 "Jorge Ben|África Brasil|1976|PLHgL7tp22VOstObR6Hw9xaS-jwJF60P9_|A2021|África Brasil",
 "These New Puritans|Hidden|2010|PLZqsyBiYZFQ00CO_VNo_0UUbxTbmrPEnd|A5111|Hidden (These New Puritans album)",
 "The Dismemberment Plan|Change|2001|PL2D479371D78E45D4|A3036|Change (The Dismemberment Plan album)",
