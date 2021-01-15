@@ -1951,7 +1951,7 @@ const albums = [
 "Salif Keita|Moffou|2002|PLpnYnwthEj8qWJ4s59MXb4nPEu-AmmcEb|A4896|Salif Keita",
 "black midi|Schlagenheim|2019|PLO4y5X9-Cz9NXWuGRGmn4wPhAuO1XMk3n|A6222|Schlagenheim",
 "Roy Orbison|Mystery Girl|1989|PLA2-nXsHvm3JIFr4lRGjq_4XaQ81qn8f0|A780|Mystery Girl",
-"Frank Sinatra and Antonio Carlos Jobim|Francis Albert Sinatra and Antonio Carlos Jobim|1967|PLL-NbN8uTOijhQKTfeE1aWBrcDmhTc_lD|A1978|Francis Albert Sinatra & AntÃ´nio Carlos Jobim",
+"Frank Sinatra and Antonio Carlos Jobim|Francis Albert Sinatra and Antonio Carlos Jobim|1967|PLL-NbN8uTOijhQKTfeE1aWBrcDmhTc_lD|A1978|Francis Albert Sinatra & Antônio Carlos Jobim",
 "Benny Carter|Further Definitions|1962|PLq4VW9oRlsbxzQTSqFGnaZGlS84F1BuEq|A1890|Further Definitions",
 "Cat Stevens|Teaser and the Firecat|1971|PLfGibfZATlGofswljNK32S9ms-9QDTG_C|A1138|Teaser and the Firecat",
 "Miles Davis|Ascenseur pour l'échafaud/Jazz Track|1958|PL0VmJADIfgLB8X0zf4i208M27WkV4_Ixo|A1839|Ascenseur pour l'échafaud (soundtrack)",
