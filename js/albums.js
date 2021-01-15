@@ -2358,7 +2358,7 @@ const albums = [
 "AC/DC|T.N.T./High Voltage|1976|PLBzBwYhHpqLLTp7rdiOuSflXO0GCzxmpY|A4580|T.N.T. (album)",
 "Lady Gaga|Born This Way|2011|PLn6t1qy2WfPfLxTdvlaPMy8gu7IFUO_9U|A6548|Born This Way (album)",
 "XTC|Black Sea|1980|PLp5alMGLcV0vJKTwT0UMli6QuiDIHh3Sg|A1465|Black Sea (XTC album)",
-"The Beach Boys|All Summer Long|1964|PLSzQ5tXtxOEZ03lu4Ovcr3_VpNoENauVj|A1114|All Summer Long (Beach Boys song)",
+"The Beach Boys|All Summer Long|1964|PLSzQ5tXtxOEZ03lu4Ovcr3_VpNoENauVj|A1114|All Summer Long (album)",
 "Phoenix|United|2000|PL0210A49F436CC5CD|A3802|United (Phoenix album)",
 "Air|Talkie Walkie|2004|PLhMNjDDA9GF6cEk5HQsVbAxWBhTF5bH-U|A4072|Talkie Walkie",
 "Steely Dan|Gaucho|1980|PLfGibfZATlGo83teJ47UOfwy8mjxw_Xwa|A1468|Gaucho (album)",
