@@ -1544,7 +1544,7 @@ const albums = [
 "Travis|The Man Who|1999|PL-3HvDlvDTqE7MR3g1ESpYdRHTzI-Gzu6|A1071|The Man Who",
 "Blue Öyster Cult|Secret Treaties|1974|PLK6mAEq8IR_Mrztmkx7fcXUFY1QW2ziNd|A1400|Secret Treaties",
 "Jlin|Black Origami|2017|PLZqsyBiYZFQ3wz2yYLNIO-0QLYEFS23GZ|A5916|Black Origami",
-"Talking Heads|Little Creatures|1985|PLfimnwaZdumg-tqf7Kx2WvnABWs6tqgOS|A644|Little Creatures",
+"Talking Heads|Little Creatures|1985|PLDWnXJX7OJiwawxGMIjXBDEe7Ynbs5YFU|A644|Little Creatures",
 "Charli XCX|Pop 2|2017|PLq9q26-M-R4C7kwwgv_yg17eOtijnMB0q|A6902|Pop 2 (mixtape)",
 "Public Enemy|Apocalypse '91 - The Enemy Strikes Black|1991|PLfUV806q_Ri4me3KW0kPHvM0WbuGm8u67|A820|Apocalypse 91... The Enemy Strikes Black",
 "Red House Painters|Red House Painters [Rollercoaster]|1993|PLfzyDOsiAuPbDARwsjI9NGHq469W9A03Z|A1582|Red House Painters",
