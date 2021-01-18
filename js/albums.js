@@ -2705,7 +2705,7 @@ const albums = [
 "Bob Dylan|Tempest|2012|PLJNbijG2M7OzDUkhdH7QJN61F2DzmDnlS|A5210|Tempest (Bob Dylan album)",
 "The Raconteurs|Consolers of the Lonely|2008|PLtnzVENr5rVPEZpyY9qsxWNFP5ZQNQPSX|A4372|Consolers of the Lonely",
 "Plastikman|Musik|1994|PLP74oKisA0L8j5n2WCXQYe1joKXsZZvxM|A3523|Musik (album)",
-"Cate Le Bon|Reward|2019|PLu2fuR4JuhG8UH3QrSW_-5R-B6JkBEyOE|A6235|Cate Le Bon",
+"Cate Le Bon|Reward|2019|PLu2fuR4JuhG8UH3QrSW_-5R-B6JkBEyOE|A6235|Reward (album)",
 "The Futureheads|The Futureheads|2004|PLR-rYYGS6juCsAXVHHr-BzSe_AOAo83NC|A4073|The Futureheads",
 "Merle Haggard|Mama Tried|1968|PLoygUeuCex2jFFHZNK3TrMv6m1lynoB19|A4468|Mama Tried (album)",
 "Elton John|Madman Across the Water|1971|PLHbFuE96EY1o5IaWTBh1KG2_s2Vfqb42C|A2396|Madman Across the Water",
