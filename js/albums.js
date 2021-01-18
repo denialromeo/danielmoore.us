@@ -602,7 +602,7 @@ const albums = [
 "The Beatles|Help!|1965|PLycVTiaj8OI9JtydS7uKMO1FGl8UDBmcZ|A38|Help!",
 "Low|Double Negative|2018|PL4EmnILFoFZyzI5gDTYhCaLMqtC0uvlVH|A6022|Double Negative (album)",
 "The Chemical Brothers|Exit Planet Dust|1995|PLjIuADMrDKIbZr0t44J1GKr1-wDCL2ZBU|A946|Exit Planet Dust",
-"Benny Goodman|The Famous 1938 Carnegie Hall Jazz Concert|1950|PLO6zBTEo45QjJzJ-Dq44w6m2Mlyvk4ru5|A1756|Benny Goodman",
+"Benny Goodman|The Famous 1938 Carnegie Hall Jazz Concert|1950|PLO6zBTEo45QjJzJ-Dq44w6m2Mlyvk4ru5|A1756|The Famous 1938 Carnegie Hall Jazz Concert",
 "Various Artists|A Christmas Gift for You from Philles Records/Phil Spector|1963|PLE8DD293602B2D59E|A18|A Christmas Gift for You from Phil Spector",
 "Tom Petty and The Heartbreakers|Damn the Torpedoes|1979|PLCA4C30E74F558910|A467|Damn the Torpedoes (album)",
 "Burning Spear|Marcus Garvey|1975|PLNag23qlhjxOIBCvWjeO-dkEPpK09itgK|A338|Marcus Garvey (album)",
