@@ -949,7 +949,7 @@ const albums = [
 "The United States of America|The United States of America|1968|PLglUu7rOaMDtBAr_1lTkIGefMWD44Ao_X|A1309|The Presidents of the United States of America (band)",
 "Four Tet|Rounds|2003|PLplZ_yA5BHkIYO6ME2SIIC2JnkCDprVk-|A3925|Rounds (album)",
 "Van Morrison|Saint Dominic's Preview|1972|PL5m3D2g_Zw3y8Iuo9rUCIy10qPTJXLHYF|A250|Saint Dominic's Preview",
-"Little Feat|Dixie Chicken|1973|PLz6cAheObZcjQ0RMFc8Y8lIRHiOdzy-jB|A290|Little",
+"Little Feat|Dixie Chicken|1973|PLz6cAheObZcjQ0RMFc8Y8lIRHiOdzy-jB|A290|Dixie Chicken (album)",
 "XTC|Drums and Wires|1979|PLbuPF_tpNEjiov3PN3egaLbSS-3P5-_X3|A475|Drums and Wires",
 "Squeeze|East Side Story|1981|PLpsJTmuNpBBnW2xVQjD9AYjTSK9faiuiZ|A520|East Side Story (Squeeze album)",
 "Queens of the Stone Age|Rated R|2000|PLfUV806q_Ri6IBs8Pt_rdJBAe4y_ZuPuh|A1091|Rated R (Queens of the Stone Age album)",
