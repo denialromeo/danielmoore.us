@@ -2612,7 +2612,7 @@ const albums = [
 "Blackalicious|Blazing Arrow|2002|PLwwEII6--gqdSPpbEx6qjjgCg8k7R7tod|A3902|Blazing Arrow",
 "4 Hero|Parallel Universe|1994|PLnh-8Vv3cXAb6vhbgBukmHliEJzztgME6|A3549|Parallel Universe (4hero album)",
 "cLOUDDEAD|cLOUDDEAD|2001|PL2566D39E2EB72883|A4888|Clouddead",
-"Paul Kelly|Gossip|1986|PLGp19gUbOM5PMC5KEwa_socwrmBhwNIu-|A2849|Gossip (Paul Kelly and the Coloured Girls album)",
+"Paul Kelly|Gossip|1986|PLmrHytmR4E2w2LKuQN6Vjcyd8e0rl6G4Z|A2849|Gossip (Paul Kelly and the Coloured Girls album)",
 "Rachid Taha|Diwan|1998|PLiN-7mukU_RFNS5TSpaPUp9P0XbfNUM2l|A3026|Rachid Taha",
 "The Mountain Goats|The Sunset Tree|2005|PLzAusdgefI0FvG9V2O_Yv5BqTG9NRzOFL|A4171|The Sunset Tree",
 "Whitney|Light Upon the Lake|2016|PLeaVvt263kzQ6Iv3IYipWLDfAWrbkJ8qm|A5835|Light Upon the Lake",
