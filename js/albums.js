@@ -1091,7 +1091,7 @@ const albums = [
 "The Waterboys|Fisherman's Blues|1988|PLX66jEixZe1zA2-2m5oNuI5HKgtHp4td9|A731|Fisherman's Blues",
 "The Waterboys|This Is the Sea|1985|PLP59Fs_hB7C0hs0dO4D8vVd_7HyhmuzyC|A646|This Is the Sea",
 "Kiss|Destroyer|1976|PLqBuZsPcSir4j-P_c0GoQZXequ956Gjz9|A386|Destroyer (Kiss album)",
-"Eurythmics|Sweet Dreams (Are Made of This...)|1983|PLJNbijG2M7OzF5-shZar24sDSqXUFhr4q|A581|Sweet Dreams (Are Made of This)",
+"Eurythmics|Sweet Dreams (Are Made of This...)|1983|PLJNbijG2M7OzF5-shZar24sDSqXUFhr4q|A581|Sweet Dreams (Are Made of This) (album)",
 "Guided by Voices|Alien Lanes|1995|PLpQTbUxaLL5OBv7lem1QnVjDyR5osPFG0|A3562|Alien Lanes",
 "Peter Brötzmann|Machine Gun|1968|PL8MEZuBkYyVb8MQmLgkQ8_JDEtWFyW3dO|A2232|Machine Gun (Peter Brötzmann album)",
 "The Libertines|The Libertines|2004|PLMNp8JUUBY1bn23rDtHaVKflJRrYIRn_u|A4060|The Libertines",
