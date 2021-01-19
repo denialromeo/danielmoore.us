@@ -537,7 +537,7 @@ const albums = [
 "MGMT|Oracular Spectacular|2007|PL785A73CC40384ACE|A4335|Oracular Spectacular",
 "Elvis Costello and The Attraction|Get Happy!!s|1980|PLE_IwCjZepP1wqHs3ucs4BjeM3B8ab3a_|A484|Get Happy!! (Elvis Costello album)",
 "Captain Beefheart and His Magic Band|Safe As Milk|1967|PLI53fgb-MMA9f0VnLfRnbirk_RmZ_fK3I|A113|Safe as Milk",
-"Lynyrd Skynyrd|(Pronounced Leh-Nerd Skin-Nerd)|1973|PL3BB4E51BE9B72F05|A1149|(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
+"Lynyrd Skynyrd|(Pronounced 'Lĕh-'nérd 'Skin-'nérd)|1973|PL3BB4E51BE9B72F05|A1149|(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
 "Kate Bush|The Kick Inside|1978|PLfimnwaZdumgaLQpyzIEo2GflV2NjK1fp|A442|The Kick Inside",
 "Billy Joel|The Stranger|1977|PLraUXdMOSKKFGJHUKaZnsswkOMFrwHsE5|A416|The Stranger (album)",
 "The Replacements|Tim|1985|PLDZmtI4GBWqzrzTDwDnqoG7K_3Jv96mIK|A647|Tim (The Replacements album)",
