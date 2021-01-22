@@ -6729,7 +6729,7 @@ const songs = [
 "Albert Hammond|It Never Rains in Southern California|1972|Gmq4WIjQxp0|Albert Hammond|S5147",
 "The Hollies|The Air That I Breathe|1974|7duPNQCp-w4|The Hollies|S6726",
 "Rod Stewart|The First Cut Is the Deepest|1976|c5NRH_DxWJE|Rod Stewart|S8200",
-"Scorpions|Still Loving You|1984|PvhVWQRRrfQ|Scorpions (band)|S12169",
+"Scorpions|Still Loving You|1984|CjRas1yOWvo|Scorpions (band)|S12169",
 "Âme|Rej|2005|VkWg1xOQwTI|Âme|S9983",
 "Pavement|Rattled by the Rush|1995|dAVLkn-4B9o|Pavement (band)|S4511",
 "Clarence \"Tom\" Ashley|The Coo Coo Bird|1929|hvJ6M0Oz0lU|Clarence Ashley|S4058",
