@@ -1860,7 +1860,7 @@ const albums = [
 "Holly Herndon|Platform|2015|PL1tD0XxTfZZkAEhjmLUYW3BWhqN_Weap6|A5558|Platform (album)",
 "Lykke Li|Wounded Rhymes|2011|PL_W3Xo9aHtmfsJIycYuCmKYXke3S3eCcc|A5155|Wounded Rhymes",
 "U2|Zooropa|1993|PLMynaxX_I0z9YUniU8BfD7O3q4YzyeNnc|A879|Zooropa",
-"Slick Rick|The Great Adventures of Slick Rick|1988|PLrbFUdbfepXVwjql_vmDpZjrtzx953cOH|A1543|Slick Rick",
+"Slick Rick|The Great Adventures of Slick Rick|1988|PLrbFUdbfepXVwjql_vmDpZjrtzx953cOH|A1543|The Great Adventures of Slick Rick",
 "Wayne Shorter|Juju|1965|PL0FAF58BA242A3C42|A1948|JuJu (album)",
 "Culture Club|Colour by Numbers|1983|PLpUUe6qyDChv9ZR9zFiZtRcCXvIHeTiTG|A577|Colour by Numbers",
 "Muse|Absolution|2003|PL79351C2BE1667BD9|A4027|Absolution (album)",
