@@ -769,7 +769,7 @@ const albums = [
 "Midnight Oil|Diesel and Dust|1987|PLg16B6SNMb9CK6WGvrWfMxlpdh5VjSoZr|A704|Diesel and Dust",
 "Bob Dylan|The Bootleg Series Vol. 4 - Live 1966: The \"Royal Albert Hall\" Concert|1998|PL8UPoQCFURhMDpk7PEn8esw8DSdNcwGr9|A1036|The Bootleg Series Vol. 4: Bob Dylan Live 1966, The \"Royal Albert Hall\" Concert",
 "Sepultura|Roots|1996|PLfUV806q_Ri4WN5omBcgzDxHcWMaHL_i1|A988|Roots (Sepultura album)",
-"Cat Stevens|Tea for the Tillerman|1970|PLjb5kMzP2zonrev5TcS627AKNXNW7Jz04|A1132|Tea for the Tillerman",
+"Cat Stevens|Tea for the Tillerman|1970|PLE75789A03E25E22A|A1132|Tea for the Tillerman",
 "Madness|One Step Beyond...|1979|PLwTsihu-EGpBBLKR4Tkalp9AndzH7yYp3|A469|One Step Beyond...",
 "The KLF|The White Room|1991|PL79gLaNne9CpK5ZlRFjWe3GHcPsImJnM4|A822|The White Room (KLF album)",
 "The 13th Floor Elevators|The Psychedelic Sounds of the 13th Floor Elevators|1966|PLQRJ1O1QIxl_a4AWzBLR7HmqK-W3CPLHH|A83|The Psychedelic Sounds of the 13th Floor Elevators",
