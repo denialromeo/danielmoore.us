@@ -83,6 +83,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Nickel and Dimed*](https://www.goodreads.com/notes/8893315-nickel-and-dimed/71655209-daniel-moore) by [Barbara Ehrenreich](https://en.wikipedia.org/wiki/Barbara_Ehrenreich) (Poverty is expensive.)
 * [*Revolutionary Suicide*](https://www.goodreads.com/notes/8176686-revolutionary-suicide/71655209-daniel-moore) by [Huey Newton](https://en.wikipedia.org/wiki/Huey_P._Newton) (Black Panther before it was cool.)
 * [*Two Arms and a Head*](http://www.2arms1head.com/) by [Clayton Schwartz](http://www.legacy.com/obituaries/greenwichtime/obituary.aspx?n=clayton-william-schwartz&pid=104371288) (Life with paraplegia.)
+* [*Untrue: Women, Lust, and Infidelity*](https://www.goodreads.com/notes/38907660-untrue/71655209-daniel-moore) by [Wednesday Martin](https://en.wikipedia.org/wiki/Wednesday_Martin) (We're basically bonobos.)
 
 {:#short-stories}
 **Short Stories**
