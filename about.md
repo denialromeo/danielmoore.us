@@ -55,7 +55,6 @@ I hope you have a good time here. Thanks for dropping by.
 * "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkatesh Rao (Organizational politics demystified.)
 * "[How to Send and Reply to Email](http://matt.might.net/articles/how-to-email/#abstract-container)" by Matt Might (Professional etiquette.)
 * "[A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)" by Paul Lockhart (All children should read this.)
-* "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#file-20111011_steveyeggegoogleplatformrant-md-readme)" by Steve Yegge (Why Facebook and Amazon succeeded.)
 * "[Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)" by Peter Norvig (No royal road to geometry.)
 
 {:#programming-books}
