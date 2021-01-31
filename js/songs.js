@@ -333,7 +333,7 @@ const songs = [
 "Primal Scream|Loaded|1990|vDK2svrGG_c|Primal Scream|S217",
 "Chuck Berry|Roll Over Beethoven|1956|kT3kCVFFLNg|Chuck Berry|S1271",
 "Ann Peebles|I Can't Stand the Rain|1973|A09GZeORYlo|Ann Peebles|S751",
-"The Beach Boys|I Get Around|1964|KnPL5OXSBNE|The Beach Boys|S1023",
+"The Beach Boys|I Get Around|1964|ruKCw797JM4|The Beach Boys|S1023",
 "Deee-Lite|Groove Is in the Heart|1990|etviGf1uWlg|Deee-Lite|S211",
 "The Doors|The End|1967|6FMGYycBAMU?start=50|The Doors|S2520",
 "Kendrick Lamar|King Kunta|2015|hRK7PVJFbS8|Kendrick Lamar|S9803",
