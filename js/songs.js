@@ -6578,7 +6578,7 @@ const songs = [
 "Badfinger|No Matter What|1970|ffzfa_PYUmY|Badfinger|S5301",
 "Rod Stewart|Every Picture Tells a Story|1971|hqi_m-pMuoI|Rod Stewart|S12082",
 "David Byrne & St. Vincent|Who|2012|hpPYKJAnwUo|St. Vincent (musician)|S5977",
-"Chick Corea|Return to Forever|1972|CJIMfFffdXE|Chick Corea|S4155",
+"Chick Corea|Return to Forever|1972|h6QMFGRh47A|Chick Corea|S4155",
 "LeAnn Rimes|Blue|1996|GozdIQx1Wow|LeAnn Rimes|S7200",
 "The Mars Volta|The Widow|2005|VUBQLnEGHNk|The Mars Volta|S7440",
 "Neu!|Neuschnee|1972|dmzY0HjcIsE|Neu!|S7702",
