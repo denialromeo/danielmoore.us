@@ -63,6 +63,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Effective Python*](https://effectivepython.com/) by [Brett Slatkin](https://www.onebigfluke.com/) (Intermediate Parseltongue.)
 * [*Game Programming Patterns*](http://gameprogrammingpatterns.com/contents.html) by [Bob Nystrom](http://stuffwithstuff.com/) (Notes on building maintainable software.)
 * [*Microserfs*](https://www.goodreads.com/notes/11483124-microserfs/71655209-daniel-moore) by [Douglas Coupland](https://en.wikipedia.org/wiki/Douglas_Coupland) (Understand working programmers.)
+* [*River Out of Eden*](https://www.goodreads.com/notes/19196310-river-out-of-eden/71655209-daniel-moore) by [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) (Life's digital origins.)
 
 (For more fun, check out [this list](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#index) by the Free Ebook Foundation.)
 
@@ -73,7 +74,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Destiny Disrupted*](https://www.goodreads.com/notes/13394802-destiny-disrupted/71655209-daniel-moore) by [Tamim Ansary](https://en.wikipedia.org/wiki/Tamim_Ansary) (Islam through the ages.)
 * [*Late Victorian Holocausts*](https://www.goodreads.com/notes/19323009-late-victorian-holocausts/71655209-daniel-moore) by [Mike Davis](https://en.wikipedia.org/wiki/Mike_Davis_(scholar)) (50 million forgotten murders.)
 * [*A Most Holy War*](https://www.goodreads.com/notes/19261923-a-most-holy-war/71655209-daniel-moore) by [Mark Pegg](https://en.wikipedia.org/wiki/Mark_Gregory_Pegg) (Modern civilization's roots.)
-* [*River Out of Eden*](https://www.goodreads.com/notes/19196310-river-out-of-eden/71655209-daniel-moore) by [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) (Life's digital origins.)
  
 (For more, check out the World History Association's [list](https://www.thewha.org/awards/bentley-book-prize/#committee) of Bentley Book Prize winners.)
 
