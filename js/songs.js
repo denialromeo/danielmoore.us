@@ -5239,7 +5239,7 @@ const songs = [
 "Scott Walker|The Old Man's Back Again (Dedicated to the Neo-Stalinist Regime)|1969|ewRvMdkvjWU|Scott Walker (singer)|S12704",
 "Tom Jones|Green, Green Grass of Home|1966|Vl3m53NKQBY|Tom Jones (singer)|S8785",
 "Dion|Abraham, Martin and John|1968|DXl3XG5aGtM|Dion DiMucci|S1696",
-"Los Brincos|Mejor|1966|BEhWMJ_WUJU|Los Brincos|S13115",
+"Los Brincos|Mejor|1966|aI0QrMH-FuQ|Los Brincos|S13115",
 "Joni Mitchell|Amelia|1976|gcTDoi9JQiY|Joni Mitchell|S3628",
 "The Bangles|Eternal Flame|1988|PSoOFn3wQV4|The Bangles|S3169",
 "Charlie Parker|A Night in Tunisia|1946|lxH83kmjpyw|Charlie Parker|S10384",
