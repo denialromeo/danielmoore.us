@@ -4673,7 +4673,7 @@ const songs = [
 "De La Soul|Buddy|1989|VhTa1q0mqdg|De La Soul|S2001",
 "Paul Simon|Still Crazy After All These Years|1975|Q5Eoax6I-O4|Paul Simon|S11867",
 "Mission of Burma|Academy Fight Song|1980|DXkZI7WZWOo|Mission of Burma|S7571",
-"Harold Melvin & The Blue Notes|Bad Luck|1975|A6Zb3T18Jms|Harold Melvin & the Blue Notes|S711",
+"Harold Melvin & The Blue Notes|Bad Luck|1975|mykhgDJvp6g|Harold Melvin & the Blue Notes|S711",
 "Nine Inch Nails|The Perfect Drug|1997|dn3j6-yQKWQ|Nine Inch Nails|S7748",
 "Bob Dylan|I Threw It All Away|1969|8iruzIEQsL4|Bob Dylan|S5547",
 "Green Day|Brain Stew|1996|UNq9gmY_Oz4|Green Day|S14456",
