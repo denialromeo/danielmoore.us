@@ -3096,7 +3096,7 @@ const songs = [
 "Chuck Berry|Promised Land|1964|cK6MElklfvM|Chuck Berry|S1041",
 "Kraftwerk|Tour De France|1983|Yt3p-F2x7rY|Kraftwerk|S1900",
 "Kansas|Carry On Wayward Son|1976|P5ZJui3aPoQ|Kansas (band)|S7044",
-"Elvis Presley|Blue Moon of Kentucky|1954|r7M0CmkJ-2o|Elvis Presley|S1602",
+"Elvis Presley|Blue Moon of Kentucky|1954|QLb99I86pE4|Elvis Presley|S1602",
 "Blumfeld|Tausend Tränen tief|1999|8blqsN05g4Q|Blumfeld|S5524",
 "Simon and Garfunkel|The Only Living Boy in New York|1970|71-r6TENTgw|Simon & Garfunkel|S8418",
 "Mott the Hoople|All the Way from Memphis|1973|zvFpX98EOPo|Mott the Hoople|S7618",
