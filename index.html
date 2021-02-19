@@ -9,7 +9,9 @@ layout: default
     {% for category in sorted_categories %}
 
       {% if category.first == 'history' %}
-        {%continue%}
+      {%continue%}
+      {% comment %}
+      {% endcomment %}
       {%endif%}
 
       {% assign sorted_posts = category[1] | sort:'date' %}
