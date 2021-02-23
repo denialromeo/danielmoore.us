@@ -5446,7 +5446,7 @@ const songs = [
 "Louis Armstrong|Hello, Dolly!|1964|l7N2wssse14|Louis Armstrong|S2823",
 "Spike Jones and His City Slickers|Cocktails for Two|1945|lvt4b_qwC_Q|Spike Jones|S4357",
 "Jimmy Cliff|Vietnam|1969|ZsgHCHoPtx0?start=26|Jimmy Cliff|S3283",
-"De La Soul|Plug Tunin'|1988|87BFgfvLZzE|De La Soul|S5987",
+"De La Soul|Plug Tunin'|1988|6IKdZB-fwnI|De La Soul|S5987",
 "The The|The Beat(en) Generation|1989|ustXRPke9lM|The The|S8731",
 "Tom Waits|In the Neighborhood|1983|HLDA3GQpYJ4|Tom Waits|S4461",
 "Ultra Nate|Free|1997|JgRBkjgXHro|Ultra Naté|S2146",
