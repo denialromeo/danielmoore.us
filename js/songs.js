@@ -1717,7 +1717,7 @@ const songs = [
 "Willie Nelson|Blue Eyes Crying in the Rain|1975|JA644rSZX1A|Willie Nelson|S1773",
 "Girls|Lust for Life|2008|SuoTjYYqe4c|Girls (band)|S4801",
 "Yes|I've Seen All Good People / Your Move|1971|k0jReeAe3do|Yes (band)|S9091",
-"Moby|Why Does My Heart Feel So Bad?|1999|6QaAL1w-1ek|Moby|S2377",
+"Moby|Why Does My Heart Feel So Bad?|1999|o1Xsj9-3Pvo|Moby|S2377",
 "The Rolling Stones|Mother's Little Helper|1966|OusADDs_3ps|The Rolling Stones|S8213",
 "Primal Scream|Swastika Eyes|1999|bY6Wqp5UYJE|Primal Scream|S1358",
 "Robert Palmer|Addicted to Love|1985|XcATvu5f9vE|Robert Palmer (singer)|S368",
