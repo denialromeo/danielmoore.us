@@ -401,7 +401,7 @@ const songs = [
 "Eric B. & Rakim|Paid in Full|1987|E7t8eoA_1jQ|Eric B. & Rakim|S335",
 "R.E.M.|Everybody Hurts|1992|5rOiW_xY-kc|R.E.M.|S130",
 "Justice Vs. Simian|Never Be Alone/We Are Your Friends|2004|nr90nbqxuZk|Simian (band)|S4045",
-"Crosby, Stills, Nash & Young|Ohio|1970|TRE9vMBBe10|Crosby, Stills, Nash & Young|S859",
+"Crosby, Stills, Nash & Young|Ohio|1970|l1PrUU2S_iw|Crosby, Stills, Nash & Young|S859",
 "George Harrison|My Sweet Lord|1970|NNrAoMwbm9g|George Harrison|S867",
 "The Clash|Should I Stay or Should I Go|1982|xMaE6toi4mk|The Clash|S493",
 "Fugazi|Waiting Room|1988|SGJFWirQ3ks|Fugazi|S2628",
