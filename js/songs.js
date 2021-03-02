@@ -3893,7 +3893,7 @@ const songs = [
 "Shakira feat. Wyclef Jean|Hips Don't Lie|2006|DUT5rEU6pqM|Shakira|S4039",
 "Wyclef Jean|Gone Till November|1997|kI6MWZrl8v8|Wyclef Jean|S2161",
 "Echo and the Bunnymen|Bring On the Dancing Horses|1985|V_bJf3foa5I|Echo & the Bunnymen|S1937",
-"Bruce Springsteen|State Trooper|1982|c7rvpg0SB0M|Bruce Springsteen|S4272",
+"Bruce Springsteen|State Trooper|1982|wpvXfLlcHwc|Bruce Springsteen|S4272",
 "Scritti Politti|Wood Beez (Pray Like Aretha Franklin)|1984|qMdf1onDkxA|Scritti Politti|S1921",
 "Midnight Oil|Blue Sky Mine|1990|Ofrqm6-LCqs|Midnight Oil|S7548",
 "Chuck Berry|School Days|1957|vHkdoe_3Ohs|Chuck Berry|S1243",
