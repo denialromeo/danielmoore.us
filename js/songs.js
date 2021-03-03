@@ -5897,7 +5897,7 @@ const songs = [
 "Sean Paul|Gimme the Light|2001|8MmW_GOFS8I|Sean Paul|S8339",
 "The Who|Boris the Spider|1966|bvFuUaCe8eY|The Who|S15185",
 "The Heptones|Book of Rules|1973|8z9h2nO5SIo|The Heptones|S690",
-"Bob Dylan|Gates of Eden|1965|jGGJd3zJzHk|Bob Dylan|S3367",
+"Bob Dylan|Gates of Eden|1965|BUCPvf6rGJ8|Bob Dylan|S3367",
 "The Weeknd feat. Daft Punk|I Feel It Coming|2016|qFLhGq0060w|The Weeknd|S16203",
 "The Box Tops|Cry Like a Baby|1968|GY2f9tI9xzA|The Box Tops|S3231",
 "Madonna|Die Another Day|2002|VlbaJA7aO9M|Madonna (entertainer)|S2978",
