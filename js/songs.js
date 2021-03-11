@@ -7249,7 +7249,7 @@ const songs = [
 "Fergie|Big Girls Don't Cry|2006|agrXgrAgQ0U|Fergie (singer)|S10801",
 "Incubus|Drive|1999|fgT9zGkiLig|Incubus (band)|S11074",
 "Animal Collective|Water Curses|2008|h7GZLRxVzvg|Animal Collective|S4701",
-"U2 & B.B. King|When Love Comes to Town|1988|r3wgoaONzwo|B.B. King|S8884",
+"U2 & B.B. King|When Love Comes to Town|1988|T1GLDGiLE4c|B.B. King|S8884",
 "DJ Shadow and the Groove Robbers|In/Flux|1993|PdflxJTFl8w|DJ Shadow|S6110",
 "Rihanna|Diamonds|2012|lWA2pjMjpBs|Rihanna|S12069",
 "Bob Dylan|I'll Be Your Baby Tonight|1967|1N8SRE97NrM|Bob Dylan|S3370",
