@@ -6971,7 +6971,7 @@ const songs = [
 "Lynyrd Skynyrd|Gimme Three Steps|1973|hhnBgoAL0xw|Lynyrd Skynyrd|S11503",
 "ABRA|Crybaby|2016|-I-POWtEJ8U|Abra (singer)|S16017",
 "Wilco|Heavy Metal Drummer|2002|wl3u-rcVgVs|Wilco|S4842",
-"Randy Newman|You Can Leave Your Hat On|1972|G55cJrUs9VM|Randy Newman|S4546",
+"Randy Newman|You Can Leave Your Hat On|1972|C99ZPoKkGmg|Randy Newman|S4546",
 "Carly Rae Jepsen|All That|2015|W374tWnsk70|Carly Rae Jepsen|S9720",
 "Dock Boggs|Country Blues|1927|OM8NqHzQ6i0|Dock Boggs|S2651",
 "Art Brut|Emily Kane|2005|uvA0UBesfbY?start=6|Art Brut|S3041",
