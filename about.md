@@ -45,6 +45,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * "[LibreOffice](https://www.libreoffice.org/)" by The Document Foundation (Open-source Microsoft Office replacement.)
 * "[OBS Studio](https://obsproject.com/)" by Hugh Bailey (Screen recorder.)
+* "[Scoop](https://scoop.sh/)" by Luke Sampson (Windows command-line installer.)
 * "[ScreenToGif](https://github.com/NickeManarin/ScreenToGif#readme)" by Nicke Manarin (Animated screenshots.)
 * "[Vimium](https://github.com/philc/vimium#readme)" by Phil Crosby (Mouse-less browsing.)
 * "[youtube-dl](https://github.com/rg3/youtube-dl#readme)" by Ricardo Garc&iacute;a (Download YouTube videos.)
