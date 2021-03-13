@@ -8,6 +8,9 @@ permalink: /disciplined-minds
 > Upon publication of [*Disciplined Minds*](https://www.amazon.com/dp/0742516857) [in 2000], the American Institute of Physics fired author Jeff Schmidt.  He&nbsp;had been on the editorial staff of *Physics Today* magazine for 19 years.
 <br> &mdash; **[disciplinedminds.com](http://disciplinedminds.tripod.com/)**
 
+> University philosophy is, as a rule, mere juggling. Its real aim is to impart to the students, in the deepest ground of their thought, that tendency of mind which the ministry that appoints to the professorships regards as consistent with its views.
+<br> &mdash; **Arthur Schopenhauer**
+
 <div id="random-excerpt"></div>
 
 > This book is stolen. Written in part on stolen time, that is. I felt I had no choice but to do it that way. Like millions of others who work for a living, I was giving most of my prime time to my employer. My job simply didn't leave me enough energy for a major project of my own, and no one was about to hire me to pursue my own vision, especially given my irreverent attitude toward employers. I was working in New York City as an editor at a glossy science magazine, but my job, like most professional jobs, was not intellectually challenging and allowed only the most constrained creativity. I knew that if I were not contending with real intellectual challenges and exercising real creativity-and if I were not doing anything to shape the world according to my own ideals-life would be unsatisfying, not to mention stressful and unexciting. The thought of just accepting my situation seemed insane. So I began spending some office time on my own work, dumped my TV to reappropriate some of my time at home, and wrote this book. Not coincidentally, it is about professionals, their role in society, and the hidden battle over personal identity that rages in professional education and employment.
