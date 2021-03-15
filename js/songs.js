@@ -7911,7 +7911,7 @@ const songs = [
 "Andrew Bird|Fake Palindromes|2005|jqnPGX3WrCU|Andrew Bird|S4692",
 "Daryl Hall & John Oates|You Make My Dreams|1980|EErSKhC0CZs|Hall & Oates|S11007",
 "Mantronix|Who Is It?|1986|b2dQ8hdXhGE|Mantronix|S4472",
-"Loretta Lynn|One's on the Way|1971|yMzSYyjNb74|Loretta Lynn|S1548",
+"Loretta Lynn|One's on the Way|1971|ADGTUCzBzIQ|Loretta Lynn|S1548",
 "Bob Dylan|Abandoned Love|1985|BwV36JL_G0s|Bob Dylan|S10221",
 "Blondie|Picture This|1978|QbdCpi4qTNY|Debbie Harry|S5506",
 "Steely Dan|Dirty Work|1972|QrE_cDvcgJg|Steely Dan|S8553",
