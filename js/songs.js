@@ -1909,7 +1909,7 @@ const songs = [
 "Alabama Shakes|Don't Wanna Fight|2015|nin-fiNz50M|Alabama Shakes|S9702",
 "Beyoncé feat. Chimamanda Ngozi Adichie / Nicki Minaj|Flawless (Remix)|2013|56qgO0C82vY|Beyoncé|S9569",
 "The Beatles|And Your Bird Can Sing|1966|Uq0aeEYLkIE|The Beatles|S2506",
-"Big Black|Kerosene|1986|TKkUk7g0hR8|Big Black|S1947",
+"Big Black|Kerosene|1986|HuO3wwLuF0w|Big Black|S1947",
 "Foo Fighters|Best of You|2005|h_L4Rixya64|Foo Fighters|S3036",
 "Eagles|Take It Easy|1972|4v8KEbQA8kw|Eagles (band)|S1318",
 "Billy Joel|Just the Way You Are|1977|tJWM5FmZyqU|Billy Joel|S650",
