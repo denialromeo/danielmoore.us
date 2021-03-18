@@ -1722,7 +1722,7 @@ const songs = [
 "Primal Scream|Swastika Eyes|1999|bY6Wqp5UYJE|Primal Scream|S1358",
 "Robert Palmer|Addicted to Love|1985|XcATvu5f9vE|Robert Palmer (singer)|S368",
 "Carly Rae Jepsen|Run Away With Me|2015|TeccAtqd5K8|Carly Rae Jepsen|S9719",
-"Nena|99 Luftballons|1983|0fmHCpfAknE?start=15|Nena|S3659",
+"Nena|99 Luftballons|1983|7aLiT3wXko0|Nena|S3659",
 "Elton John|Crocodile Rock|1972|B8dqdRDCLB4|Elton John|S2312",
 "Annie|Heartbeat|2004|f9Wf46tLonM|Annie (singer)|S2468",
 "U2|Mysterious Ways|1991|TxcDTUMLQJI|U2|S2037",
