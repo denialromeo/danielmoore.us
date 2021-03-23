@@ -7001,7 +7001,7 @@ const songs = [
 "The White Stripes|Hello Operator|2000|kiEoxktOoHg|The White Stripes|S8989",
 "Wilco|Can't Stand It|1999|BWGjoV9Ohp8|Wilco|S9011",
 "Devo|Gut Feeling/(Slap Your Mammy)|1978|mfzqK5XZa-E|Devo|S6059",
-"Bob Dylan|Señor (Tales of Yankee Power)|1978|nPJq-OVTqv0|Bob Dylan|S10242",
+"Bob Dylan|Señor (Tales of Yankee Power)|1978|qf5MxsMa9NE|Bob Dylan|S10242",
 "MFSB|Love Is The Message|1973|xe3Q7uajzYM|MFSB|S12884",
 "The Charlatans|Weirdo|1992|SXBR96Z8_e8|The Charlatans (English band)|S5753",
 "Blink-182|The Rock Show|2001|z7hhDINyBP0|Blink-182|S5493",
