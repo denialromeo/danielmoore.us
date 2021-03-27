@@ -106,7 +106,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Book of Genesis Illustrated*](https://ia601205.us.archive.org/18/items/RobertCrumbTheBookOfGenesis/robert%20crumb%20the%20book%20of%20genesis.pdf) by [Robert Crumb](https://en.wikipedia.org/wiki/Robert_Crumb) (Brings scripture to life.)
 * [*Buddha*](https://archive.org/details/manga_Buddha-v01) by [Osamu Tezuka](https://en.wikipedia.org/wiki/Osamu_Tezuka) (Reality.)
 * [*The Cartoon History of the Universe*](https://getcomics.info/other-comics/cartoon-history-of-the-universe-1-9-1978-1992/) by [Larry Gonick](http://www.larrygonick.com/) (Sic transit gloria mundi.)
-* [*Maus*](https://getcomics.info/other-comics/maus-1-2-by-art-spiegelman/) by [Art Spiegelman](https://en.wikipedia.org/wiki/Art_Spiegelman) (Probably the best comic ever written.)
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/gonick-india/cartoonhistoryoftheuniverse08-06.jpg" itemprop="contentUrl" data-size="954x1420"><img style="border: 1px solid black;" src="/assets/img/comics/gonick-india/cartoonhistoryoftheuniverse08-06.jpg"/></a><figcaption itemprop="caption description"><p><i>The Cartoon History of the Universe</i> by Larry Gonick</p><p><a href="https://www.amazon.com/dp/0385420935">Amazon</a></p></figcaption></figure>
