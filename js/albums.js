@@ -1590,7 +1590,7 @@ const albums = [
 "Bob Seger & The Silver Bullet Band|'Live' Bullet|1976|PLz6cAheObZcimCF7aCJyx6bEIJ8OBDoPE|A1426|Live Bullet",
 "Deee-Lite|World Clique|1990|PLYq4mulzA0CEo0Z1HhnwWfqIUgVjsaSNt|A786|Deee-Lite",
 "Van der Graaf Generator|Pawn Hearts|1971|PLlhnDdnS8HCsGs2W7Ex-5Tz3UfP_2nIbW|A1346|Pawn Hearts",
-"Buffalo Springfield|Buffalo Springfield|1966|PLC3B5B114646957A4|A80|Buffalo Springfield",
+"Buffalo Springfield|Buffalo Springfield|1966|PLcE_Rqc6638c-RA62fHwjHmM2SJSzcrYe|A80|Buffalo Springfield",
 "The Art Tatum - Ben Webster Quartet|Masterpieces, Vol. 8|1958|PL5_qMgUrhSN0h1xoXNOUnHzYtOBUZ5qfT|A1804|The Tatum Group Masterpieces, Volume Eight",
 "Low|Things We Lost in the Fire|2001|PL2CFndANM_t0iNif93F7Ayhent-Eo7qvr|A3854|Things We Lost in the Fire (album)",
 "The Velvet Underground|VU|1985|PL6D82143B781ACDB5|A3069|VU (album)",
