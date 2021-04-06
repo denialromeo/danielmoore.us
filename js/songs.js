@@ -8998,7 +8998,7 @@ const songs = [
 "Joni Mitchell|Carey|1971|D_r4fsSjqqU|Joni Mitchell|S3629",
 "Stacey Q|Two of Hearts|1986|lfBdGT4dn4E|Stacey Q|S3739",
 "Ying Yang Twins|Wait (The Whisper Song)|2005|HAnXIIv5He8|Ying Yang Twins|S9094",
-"Jewel|Who Will Save Your Soul|1995|0wBDDAZkNtk|Jewel (singer)|S12949",
+"Jewel|Who Will Save Your Soul|1995|_RVYEgGgDKs|Jewel (singer)|S12949",
 "Trouble Funk|Still Smokin'|1985|PAvKLlIgJT8|Trouble Funk|S1934",
 "Judy Garland|The Trolley Song|1944|hwP6kNIDg30|Judy Garland|S14609",
 "The Beatles|Birthday|1968|dhdOPhTHeoE|The Beatles|S5376",
