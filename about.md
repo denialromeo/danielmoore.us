@@ -62,8 +62,8 @@ I hope you have a good time here. Thanks for dropping by.
 {:#programming-books}
 **Programming Books**
 
-* [*Effective Python*](https://effectivepython.com/) by [Brett Slatkin](https://www.onebigfluke.com/) (Intermediate Parseltongue.)
 * [*Game Programming Patterns*](http://gameprogrammingpatterns.com/contents.html) by [Bob Nystrom](http://stuffwithstuff.com/) (Notes on building maintainable software.)
+* [*Logical Chess*](https://www.goodreads.com/notes/55953611-logical-chess/71655209-daniel-moore) by [Irving Chenev](https://en.wikipedia.org/wiki/Irving_Chernev) (Teaches the consequences of small changes.)
 * [*Microserfs*](https://www.goodreads.com/notes/11483124-microserfs/71655209-daniel-moore) by [Douglas Coupland](https://en.wikipedia.org/wiki/Douglas_Coupland) (Understand working programmers.)
 * [*River Out of Eden*](https://www.goodreads.com/notes/19196310-river-out-of-eden/71655209-daniel-moore) by [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) (Life's digital origins.)
 
@@ -99,7 +99,6 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Golden](https://nickbostrom.com/fable/retriever.html)" by [Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom) (Transhumanists beware.)
 * "[A Hunger Artist](https://www.kafka-online.info/a-hunger-artist.html)" by [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka) (Is all art insanity?)
 * "[The Last Answer](https://www.thrivenotes.com/the-last-answer/#post)" by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov) (Immortality is overrated.)
-* "[To Build a Fire](http://www.classicshorts.com/stories/firelndn.html)" by [Jack London](https://en.wikipedia.org/wiki/Jack_London) (Small mistakes add up.)
 
 {:#comic-books}
 **Comic Books**
