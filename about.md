@@ -98,7 +98,6 @@ I hope you have a good time here. Thanks for dropping by.
 * "[A Full Life](https://www.technologyreview.com/2019/04/24/135741/a-full-life/)" by [Paolo Bacigalupi](https://en.wikipedia.org/wiki/Paolo_Bacigalupi) (Published in 2019 and already dated.)
 * "[Golden](https://nickbostrom.com/fable/retriever.html)" by [Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom) (Transhumanists beware.)
 * "[A Hunger Artist](https://www.kafka-online.info/a-hunger-artist.html)" by [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka) (Is all art insanity?)
-* "[The Last Answer](https://www.thrivenotes.com/the-last-answer/#post)" by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov) (Immortality is overrated.)
 
 {:#comic-books}
 **Comic Books**
