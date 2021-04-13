@@ -4140,7 +4140,7 @@ const songs = [
 "Bob Marley and the Wailers|Concrete Jungle|1973|RIoBi1U-ASo|Bob Marley|S3598",
 "David Bowie|China Girl|1983|_YC3sTbAPcU|David Bowie|S9200",
 "Led Zeppelin|D'yer Mak'er|1973|xje-1sw3T0s|Led Zeppelin|S7205",
-"Kid Creole and the Coconuts|Annie, I'm Not Your Daddy|1982|1PgAqncGXE4|Kid Creole and the Coconuts|S3536",
+"Kid Creole and the Coconuts|Annie, I'm Not Your Daddy|1982|mRO9aBAQ8wc|Kid Creole and the Coconuts|S3536",
 "Os Mutantes|Panis et circenses|1968|gfs9DC4GNr0|Os Mutantes|S11811",
 "David Bowie|Warszawa|1977|EAD1j32TiiY|David Bowie|S10533",
 "Barbara|Ma plus belle histoire d'amour|1966|XoLcVzxwgvQ|Barbara (singer)|S5319",
