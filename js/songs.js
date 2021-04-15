@@ -2138,7 +2138,7 @@ const songs = [
 "Marty Robbins|El Paso|1959|KAO7vs_Q9is|Marty Robbins|S1189",
 "Blink-182|All the Small Things|1999|9Ht5RZpzPqw|Blink-182|S2198",
 "The Stone Roses|Made of Stone|1989|NpMzUa4YXR8|The Stone Roses|S264",
-"Joni Mitchell|Woodstock|1970|cRjQCvfcXn0|Joni Mitchell|S6998",
+"Joni Mitchell|Woodstock|1970|CEBmKi2xmoU|Joni Mitchell|S6998",
 "LCD Soundsystem|Call the Police|2017|zWKIWNJnlzI|LCD Soundsystem|S16429",
 "The Beatles|Hey Bulldog|1969|M4vbJQ-MrKo|The Beatles|S5380",
 "John Lennon/Plastic Ono Band|Mother|1970|sPYsMM1FvXs|Plastic Ono Band|S1716",
