@@ -37,7 +37,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Music**
 
 {% include yt.html width='77%' embed='
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLsn6N7S-aJO160Fhs3pxuMqrlJbskd95t" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLsn6N7S-aJO160Fhs3pxuMqrlJbskd95t" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 ' %}
 
 {:#desktop-software}

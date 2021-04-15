@@ -21,7 +21,7 @@ While [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)'s 
 ### Fan Videos
 
 {% include yt.html width='75%' embed='
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLsn6N7S-aJO28mDjsfcl326YZSOhppDcU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLsn6N7S-aJO28mDjsfcl326YZSOhppDcU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ' %}
 
 {:.toc-heading}
