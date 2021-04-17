@@ -64,7 +64,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Game Programming Patterns*](http://gameprogrammingpatterns.com/contents.html) by [Bob Nystrom](http://stuffwithstuff.com/) (Notes on building maintainable software.)
 * [*Logical Chess*](https://www.goodreads.com/notes/55953611-logical-chess/71655209-daniel-moore) by [Irving Chenev](https://en.wikipedia.org/wiki/Irving_Chernev) (Teaches the consequences of small changes.)
-* [*Math for Programmers*](https://www.amazon.com/Math-Programmers-Paul-Orland/dp/1617295353) by [Paul Orland](https://paulor.land/) (Pre-requisite to serious projects.)
+* [*Math for Programmers*](https://www.manning.com/books/math-for-programmers) by [Paul Orland](https://paulor.land/) (Pre-requisite to serious projects.)
 * [*Microserfs*](https://www.goodreads.com/notes/11483124-microserfs/71655209-daniel-moore) by [Douglas Coupland](https://en.wikipedia.org/wiki/Douglas_Coupland) (Understand working programmers.)
 * [*River Out of Eden*](https://www.goodreads.com/notes/19196310-river-out-of-eden/71655209-daniel-moore) by [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) (Life's digital origins.)
 
