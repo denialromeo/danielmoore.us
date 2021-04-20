@@ -2867,7 +2867,7 @@ const songs = [
 "Drake|Know Yourself|2015|MKiLZEoAKgQ|Drake (musician)|S9743",
 "Johnny Thunders|You Can't Put Your Arms Around a Memory|1978|TknY89kECq0|Johnny Thunders|S6991",
 "Manfred Mann's Earth Band|Blinded by the Light|1976|lcWVL4B-4pI|Manfred Mann's Earth Band|S7396",
-"Gloria Gaynor|Never Can Say Goodbye|1974|CCSvNZWpXaM|Gloria Gaynor|S741",
+"Gloria Gaynor|Never Can Say Goodbye|1974|ngVetZw8hSc|Gloria Gaynor|S741",
 "Interpol|PDA|2002|3oL5QQ-6sQ0|Interpol (band)|S3497",
 "Elvis Costello with Burt Bacharach|God Give Me Strength|1996|lrcNnIV6FV8|Elvis Costello|S3107",
 "ZZ Top|Tush|1975|-jB_QM73Slk|ZZ Top|S3994",
