@@ -8,10 +8,7 @@ permalink: /disciplined-minds
 > Upon publication of [*Disciplined Minds*](https://www.amazon.com/dp/0742516857) [in 2000], the American Institute of Physics fired author Jeff Schmidt.  He&nbsp;had been on the editorial staff of *Physics Today* magazine for 19 years.
 <br> &mdash; **[disciplinedminds.com](http://disciplinedminds.tripod.com/)**
 
-> University philosophy is, as a rule, mere juggling. Its real aim is to impart to the students, in the deepest ground of their thought, that tendency of mind which the ministry that appoints to the professorships regards as consistent with its views.
-<br> &mdash; **Arthur Schopenhauer**
-
-> As a respected white man, the schoolteacher is allowed access to the system&mdash;until it becomes obvious that he is asking the wrong questions and adopting the wrong attitude. Then he is ostracized. He loses his job. Shots are fired through his windows. His wife (Janet Suzman, brittle and unforgiving) is furious that he has betrayed his family by appearing to be a "kaffir lover". His daughter finds him a disgrace.
+> As a respected white man, the schoolteacher is allowed access to the system&mdash;until it becomes obvious that he is asking the wrong questions and adopting the wrong attitude. Then he is ostracized. He loses his job. Shots are fired through his windows. His wife is furious that he has betrayed his family by appearing to be a "kaffir lover". His daughter finds him a disgrace.
 <br> &mdash; **Roger Ebert**, [review](https://www.rogerebert.com/reviews/a-dry-white-season-1989) of *A Dry White Season*
 
 <div id="random-excerpt"></div>
