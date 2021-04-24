@@ -85,7 +85,6 @@ I hope you have a good time here. Thanks for dropping by.
 {:#autobiographies}
 **Autobiographies**
 
-* [*Adventures in the Screen Trade*](https://www.goodreads.com/notes/18883261-adventures-in-the-screen-trade/71655209-daniel-moore) by [William Goldman](https://en.wikipedia.org/wiki/William_Goldman) (No business like show business.)
 * [*Four Star Reviews, 1967-2007*](https://www.goodreads.com/notes/9517283-roger-ebert-s-four-star-reviews-1967-2007/71655209-daniel-moore) by [Roger Ebert](https://en.wikipedia.org/wiki/Roger_Ebert) (Forty years at the movies.)
 * [*Nickel and Dimed*](https://www.goodreads.com/notes/8893315-nickel-and-dimed/71655209-daniel-moore) by [Barbara Ehrenreich](https://en.wikipedia.org/wiki/Barbara_Ehrenreich) (Poverty is expensive.)
 * [*The Ph.D. Grind*](https://web.archive.org/web/20190930200154/http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf) by [Philip Guo](https://pg.ucsd.edu/) (Academic disillusionment.)
