@@ -4201,7 +4201,7 @@ const songs = [
 "Primal Scream|Kill All Hippies|2000|Kmf_uVKE9tU|Primal Scream|S2205",
 "Death Grips|I've Seen Footage|2012|sticXkHxZC4|Death Grips|S6003",
 "The Stylistics|Betcha By Golly, Wow|1971|alvEUFJtMw8|The Stylistics|S1552",
-"Paul and Linda McCartney|Another Day|1971|pPFTvl5oGI0|Linda McCartney|S7870",
+"Paul and Linda McCartney|Another Day|1971|vH6v9JS26xc|Linda McCartney|S7870",
 "Wilco|Ashes of American Flags|2002|O72cQZeTbxQ|Wilco|S9012",
 "Liz Phair|Supernova|1994|tM60GAPIXTY|Liz Phair|S2076",
 "Richard Thompson|1952 Vincent Black Lightning|1991|j0kJdrfzjAg|Richard Thompson (musician)|S4877",
