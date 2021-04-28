@@ -7894,7 +7894,7 @@ const songs = [
 "Marvin Gaye & Kim Weston|It Takes Two|1966|cB5sCP6s120|Kim Weston|S3440",
 "ABBA|Eagle|1977|dDI7x1nwTUw|ABBA|S14033",
 "Glenn Miller|A String of Pearls|1941|jg2vtWezWbw|Glenn Miller|S6582",
-"The Gap Band|You Dropped a Bomb on Me|1982|Rsz-_fgWspo|The Gap Band|S1877",
+"The Gap Band|You Dropped a Bomb on Me|1982|17lkdqoLt44|The Gap Band|S1877",
 "Ray Charles|Born to Lose|1962|EsOmizjm0Xw|Ray Charles|S12032",
 "The Fat White Family|Touch the Leather|2014|m0e5ShFK5aM|Fat White Family|S9666",
 "Sugarloaf|Green-Eyed Lady|1970|i_i7PKdQJU4|Sugarloaf (band)|S8628",
