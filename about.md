@@ -73,7 +73,9 @@ I hope you have a good time here. Thanks for dropping by.
 {:#history-books}
 **History Books**
 
+{%comment%}
 * [*Cadillac Desert*](https://www.goodreads.com/notes/6581453-cadillac-desert/71655209-daniel-moore) by [Marc Reisner](https://en.wikipedia.org/wiki/Marc_Reisner) (Progress celebrates Pyrrhic victories over nature.)
+{%endcomment%}
 * [*Debt: The First 5,000 Years*](https://www.goodreads.com/notes/23814811-debt---updated-and-expanded/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (How economies work.)
 * [*Destiny Disrupted*](https://www.goodreads.com/notes/13394802-destiny-disrupted/71655209-daniel-moore) by [Tamim Ansary](https://en.wikipedia.org/wiki/Tamim_Ansary) (Islam through the ages.)
 * [*Late Victorian Holocausts*](https://www.goodreads.com/notes/19323009-late-victorian-holocausts/71655209-daniel-moore) by [Mike Davis](https://en.wikipedia.org/wiki/Mike_Davis_(scholar)) (50 million forgotten murders.)
