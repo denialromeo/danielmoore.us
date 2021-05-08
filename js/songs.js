@@ -8272,7 +8272,7 @@ const songs = [
 "Cham feat. Akon|Ghetto Story|2006|r5rZvka7pX8|Cham (singer)|S4032",
 "Claude Nougaro|Tu verras|1978|rK3r-AqlNjU|Claude Nougaro|S10429",
 "Missy Elliott feat. Ludacris|One Minute Man|2001|XayUCLgxS5c|Missy Elliott|S7573",
-"Sublime|Santeria|1996|k3ZeUL4fRyk|Sublime (band)|S15907",
+"Sublime|Santeria|1996|AEYN5w4T_aM|Sublime (band)|S15907",
 "Helen Kane|I Wanna Be Loved By You|1928|hclK-UKJNgk|Helen Kane|S4348",
 "Little Johnny Taylor|Part Time Love|1963|nDjHWuqz0iQ|Little Johnny Taylor|S2410",
 "Björk|Hunter|1997|WxL1rw6cw-E|Björk|S10185",
