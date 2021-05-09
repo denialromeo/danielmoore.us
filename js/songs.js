@@ -4338,7 +4338,7 @@ const songs = [
 "Françoise Hardy|Message personnel|1973|ANchsQz11po|Françoise Hardy|S10861",
 "Tears for Fears|Sowing the Seeds of Love|1989|VAtGOESO7W8|Tears for Fears|S8696",
 "Johnny Horton|The Battle of New Orleans|1959|__uFnEMJqjg|Johnny Horton|S1196",
-"War|Why Can't We Be Friends?|1975|W5FfJ89rGPc|War (American band)|S3937",
+"War|Why Can't We Be Friends?|1975|OHmmjnEdtx8|War (American band)|S3937",
 "Bryan Ferry|Let's Stick Together|1976|Z9EbR0ckb40|Bryan Ferry|S687",
 "Sam & Dave|When Something Is Wrong with My Baby|1967|N3maCEAKZ0s|Sam & Dave|S1449",
 "Refused|New Noise|1998|NkAe30aEG5c|Refused|S8133",
