@@ -8516,7 +8516,7 @@ const songs = [
 "John Hiatt|Memphis in the Meantime|1987|LDdkwwiV-is?start=63|John Hiatt|S6947",
 "Cherrelle & Alexander O'Neal|Saturday Love|1986|WfmTq2B31tE|Alexander O'Neal|S10390",
 "Wilco|Art of Almost|2011|Cpe_AYaIDSc|Wilco|S9020",
-"The Mighty Diamonds|Right Time|1976|5fFkgg0R_6s?start=9|Mighty Diamonds|S7550",
+"The Mighty Diamonds|Right Time|1976|Ieb_TP7-aqE|Mighty Diamonds|S7550",
 "Gladys Knight and the Pips|Best Thing That Ever Happened to Me|1973|8FT5QF4JZUA|Gladys Knight & the Pips|S6576",
 "TV on the Radio|Halfway Home|2008|q1YDIdamCwc|TV on the Radio|S8867",
 "DJ Shadow|Stem|1996|UHc9wcDNGEA|DJ Shadow|S6108",
