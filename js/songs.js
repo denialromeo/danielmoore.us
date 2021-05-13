@@ -8137,7 +8137,7 @@ const songs = [
 "The Vaccines|Teenage Icon|2012|bFUKrsDDChE|The Vaccines|S8905",
 "Kokomo Arnold|Milk Cow Blues|1934|B944jMtu6Qc|Kokomo Arnold|S13536",
 "The Wonder Stuff|The Size of a Cow|1991|lFwyuXXijS0|The Wonder Stuff|S3103",
-"Charly García|Cerca de la revolución|1984|hoZVYHyrIa4|Charly García|S10385",
+"Charly García|Cerca de la revolución|1984|xet-0U1ACNM|Charly García|S10385",
 "Led Zeppelin|Four Sticks|1971|iJp27QMR2KU|Led Zeppelin|S11385",
 "The Golden Gate Quartet|Rock My Soul|1938|HIe4u8nBfh0|Golden Gate Quartet|S13196",
 "T. Rex|Cosmic Dancer|1971|SlimsLXEkAc|T. Rex (band)|S12391",
