@@ -7029,7 +7029,7 @@ const songs = [
 "Prince and the Revolution|Girls & Boys|1986|gQcKgAsQHzs|Prince (musician)|S8011",
 "Second Phase|Mentasm|1991|u8VY5dxq5CU|Joey Beltram|S12175",
 "Elton John|Sorry Seems to Be the Hardest Word|1976|c3nScN89Klo|Elton John|S3522",
-"Lester Young|These Foolish Things|1945|o7l1Qbtphaw|Lester Young|S4064",
+"Lester Young|These Foolish Things|1945|xuy8S3YB2UE|Lester Young|S4064",
 "Miley Cyrus|We Can't Stop|2013|LrUvu1mlWco|Miley Cyrus|S9491",
 "Prefab Sprout|Faron Young|1985|wsqIyCP6G5g|Prefab Sprout|S7997",
 "Willie Williams|Armagideon Time|1978|jmjx1r1omgY|Willi Williams|S9032",
