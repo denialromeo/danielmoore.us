@@ -45,7 +45,7 @@ s:
 	cp ..\code\random-acclaimed-song\songs.js .\js
 
 chess:
-	cp ..\code\4462-chess-problems\chess-puzzle-player\dist\chess-puzzle-player.js .\js
+	cp ..\code\4462-chess-problems\dist\chess-puzzle-player.js .\js
 
 tv:
 	dir /a-d /b a:\tv > tv.txt
