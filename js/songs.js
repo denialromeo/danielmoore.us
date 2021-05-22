@@ -2462,7 +2462,7 @@ const songs = [
 "The Cars|Drive|1984|xuZA6qiJVfU|The Cars|S3263",
 "The Beach Boys|Sloop John B|1966|nSAoEf1Ib58|The Beach Boys|S2280",
 "Interpol|NYC|2002|5GRNCNZ_TL4|Interpol (band)|S4612",
-"The Dells|Oh What a Nite|1956|Z1ozQT8yQXA|The Dells|S1287",
+"The Dells|Oh What a Nite|1956|dOrb7py-cgo|The Dells|S1287",
 "The Strokes|Reptilia|2003|b8-tXG8KrWs|The Strokes|S2457",
 "Pavement|Here|1992|3DRBYrYj144|Pavement (band)|S9316",
 "Belle and Sebastian|The Boy with the Arab Strap|1998|8HdAplWpqWA|Belle and Sebastian|S4849",
