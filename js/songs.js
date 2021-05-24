@@ -8348,7 +8348,7 @@ const songs = [
 "The Bellamy Brothers|Let Your Love Flow|1975|FQQj2rQBFvA|The Bellamy Brothers|S10134",
 "Big Sean, Jay-Z and Kanye West|Clique|2012|1x2m27jellI|Big Sean|S7049",
 "Vibrations|My Girl Sloopy|1964|fh0hHm-ckQw|The Vibrations|S9005",
-"The \"5\" Royales|Think|1957|6HPLvUfrONY|The \"5\" Royales|S3406",
+"The \"5\" Royales|Think|1957|QSo3chuNTtM|The \"5\" Royales|S3406",
 "Vivian Girls|Where Do You Run To|2008|CRHSOH1S0QI|Vivian Girls|S4781",
 "Destroyer|Tinseltown Swimming in Blood|2017|h-N6jfO5NOQ|Destroyer (band)|S16361",
 "Phoenix|Ti Amo|2017|ZbYljhmcmII|Phoenix (band)|S16466",
