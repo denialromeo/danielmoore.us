@@ -3655,7 +3655,7 @@ const songs = [
 "Téléphone|Un autre monde|1984|xqnZPHo6qx4|Téléphone|S8711",
 "Jacques Dutronc|(Il est 5 heures) Paris s'éveille|1968|7whXkifG_ms|Jacques Dutronc|S4410",
 "Linkin Park|In the End|2000|eVTXPUF4Oz4|Linkin Park|S7270",
-"Sun Kil Moon|Ben's My Friend|2014|sJP-oGBPPh0|Sun Kil Moon|S9621",
+"Sun Kil Moon|Ben's My Friend|2014|-vYgEsR0krw|Sun Kil Moon|S9621",
 "Daryl Hall & John Oates|Sara Smile|1975|g0o_nYttzO0|Hall & Oates|S6671",
 "M.I.A.|Jimmy|2007|HBECisSkAu4|M.I.A. (rapper)|S4286",
 "Daryl Hall & John Oates|Maneater|1982|yRYFKcMa_Ek|Hall & Oates|S6673",
