@@ -7888,7 +7888,7 @@ const songs = [
 "The Stranglers|Skin Deep|1984|aw9mEFn38to|The Stranglers|S8605",
 "Massive Attack|Daydreaming|1990|JG9CXQxhfL4|Massive Attack|S7467",
 "Double Exposure|Ten Percent|1976|BUj8NlnHPbA|Double Exposure (band)|S12867",
-"MC Solaar|Nouveau Western|1993|JSG2qHBm7WM|MC Solaar|S7489",
+"MC Solaar|Nouveau Western|1993|iO7qzttOphM|MC Solaar|S7489",
 "Babylon Zoo|Spaceman|1996|GeUx5sdp3qM|Babylon Zoo|S14094",
 "Lenny Welch|Since I Fell for You|1963|vOpEg4VhyEw?start=5|Lenny Welch|S7232",
 "Marvin Gaye & Kim Weston|It Takes Two|1966|cB5sCP6s120|Kim Weston|S3440",
