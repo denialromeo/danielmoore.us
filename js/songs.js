@@ -7585,7 +7585,7 @@ const songs = [
 "Jacques Brel|Ces Gens Là|1965|_XrO-kBidNI?start=18|Jacques Brel|S9248",
 "Simply Red|If You Don't Know Me By Now|1989|zTcu7MCtuTs|Simply Red|S12969",
 "The Charlatans|North Country Boy|1997|xBAxEQZViTU|The Charlatans (English band)|S2140",
-"MC Solaar|Caroline|1991|PjELabiPItw|MC Solaar|S11589",
+"MC Solaar|Caroline|1991|5vl4Sez7vos|MC Solaar|S11589",
 "TTC|Dans le club|2004|ayQ4MuJ8dRo|TTC (band)|S8856",
 "Art of Noise|Beat Box|1983|JSWhzsGY3hA|Art of Noise|S5241",
 "Judas Priest|You've Got Another Thing Comin'|1982|WtuoFv4dcwM|Judas Priest|S7015",
