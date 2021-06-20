@@ -7668,7 +7668,7 @@ const songs = [
 "MC Shan|The Bridge|1986|dS4RpBR0Zn0|MC Shan|S7488",
 "Los Prisioneros|Tren al sur|1990|Q9DcJaW9m_M|Los Prisioneros|S11476",
 "Cosmo Vitelli|Party Day|2001|ZGcxC8fdSI8|https://fr.wikipedia.org/wiki/Cosmo_Vitelli|S5876",
-"The Kooks|Seaside|2006|7_RZLAxsa8Q|The Kooks|S7142",
+"The Kooks|Seaside|2006|rxbV_pxbWuU|The Kooks|S7142",
 "Joni Mitchell|The Hissing of Summer Lawns|1975|erQUlp6GYno|Joni Mitchell|S11252",
 "The Monkees|Porpoise Song|1968|GKmPmZoKeP0|The Monkees|S4116",
 "Otis Redding|Pain in My Heart|1963|6juvqVCMByU|Otis Redding|S7828",
