@@ -8423,7 +8423,7 @@ const songs = [
 "Robert Johnson|Me and the Devil Blues|1938|3MCHI23FTP8|Robert Johnson|S12073",
 "The Mothers of Invention|Brown Shoes Don't Make It|1967|EZLWD75KKGA|The Mothers of Invention|S3990",
 "Serge Lama|Je suis malade|1973|HDbpZpm9j9c?start=3|Serge Lama|S12182",
-"James Brown|Think|1960|-bqK7meoDCs|James Brown|S6844",
+"James Brown|Think|1960|CNzlawr5X9k|James Brown|S6844",
 "Def Leppard|Rock of Ages|1983|xtiFjIVCu_k|Def Leppard|S10565",
 "The Thrills|Santa Cruz|2002|kQlsG9zEX5k|The Thrills|S8750",
 "Wu-Tang Clan|Can It Be All So Simple|1993|7m148vZDwJA|Wu-Tang Clan|S13143",
