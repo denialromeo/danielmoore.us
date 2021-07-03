@@ -6317,7 +6317,7 @@ const songs = [
 "Dawn feat. Tony Orlando|Tie a Yellow Ribbon Round the Ole Oak Tree|1973|yGBw4pmR5ro|Tony Orlando and Dawn|S3322",
 "David Bowie|I'm Afraid of Americans|1997|u7APmRkatEU?start=10|David Bowie|S10520",
 "Simon and Garfunkel|El condor pasa (If I Could)|1970|pey29CLID3I|Simon & Garfunkel|S12211",
-"Megadeth|Wake Up Dead|1986|bN-0_ErU-wU|Megadeth|S7503",
+"Megadeth|Wake Up Dead|1986|4kSvN1dQjxc|Megadeth|S7503",
 "Grace Jones|Nightclubbing|1981|ZvB3Jdmz4dM|Grace Jones|S4561",
 "Chief Keef feat. Lil Reese|I Don't Like|2012|FCesTBJFBwE?start=7|Chief Keef|S5783",
 "Charles Brown|Black Night|1951|-71jfEwX-xQ|Charles Brown (musician)|S3242",
