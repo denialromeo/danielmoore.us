@@ -6206,7 +6206,7 @@ const songs = [
 "The Auteurs|Showgirl|1992|FV4YCZ0FsqY|The Auteurs|S10042",
 "X-Press 2 feat. David Byrne|Lazy|2002|qB_I1YBAozE|X-Press 2|S2240",
 "Chance the Rapper feat. Knox Fortune|All Night|2016|IpPjI2C3QmI|Chance the Rapper|S16055",
-"Angelo Badalamenti|Twin Peaks Theme|1990|yD1zl7tX-38|Angelo Badalamenti|S4212",
+"Angelo Badalamenti|Twin Peaks Theme|1990|e-eqgr_gn4k|Angelo Badalamenti|S4212",
 "Haircut 100|Favourite Shirts (Boy Meets Girl)|1981|dtEYG3TTfWU|Haircut One Hundred|S1865",
 "Queens of the Stone Age|Sick, Sick, Sick|2007|oHDaKtx6bGY|Queens of the Stone Age|S8049",
 "Jerry Lee Lewis|High School Confidential|1958|TmgNLLgVC-E|Jerry Lee Lewis|S4377",
