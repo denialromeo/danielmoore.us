@@ -5005,7 +5005,7 @@ const songs = [
 "Eric Dolphy|Hat and Beard|1964|7tnPkQufnZY|Eric Dolphy|S10751",
 "The Wombats|Let's Dance to Joy Division|2007|ayuooyWPEUc|The Wombats|S9059",
 "Emerson, Lake & Palmer|Lucky Man|1970|7nyt57LxWy8|Emerson, Lake & Palmer|S6270",
-"INXS|New Sensation|1987|iV-QGQVZv0k|INXS|S3498",
+"INXS|New Sensation|1987|aEW_v6YOBms|INXS|S3498",
 "Supergrass|Pumping on Your Stereo|1999|qQbVyWED6Ac|Supergrass|S2965",
 "Hole|Teenage Whore|1991|xm4cn_dKqms|Hole (band)|S4489",
 "Ricardo Villalobos|Fizheuer Zieheuer|2006|H8_BAoVwoaM|Ricardo Villalobos|S8142",
