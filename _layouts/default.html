@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+
+    <div class="page-content">
+      <div class="container">
+        <div class="three columns">
+          {% include header.html %}
+        </div>
+
+        <div class="nine columns" style="z-index:100;">
+          <div class="wrapper" id="content">
+            {{ content }}
+          </div>
+        </div>
+
+      </div>
+      <span style="display:block;margin-bottom:35px;"></span>
+      {% include footer.html %}
+    </div>
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element, as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. PhotoSwipe keeps only 3 slides in DOM to save memory. -->
+        <!-- don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" ></button>
+
+                <button class="pswp__button pswp__button--fs" ></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" >
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" >
+            </button>
+            
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+          </div>
+
+        </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js'></script>
+<script src="/js/photoswipe.js"></script>
+
+<script>
+  if ($(document).width() <= 760) {
+    $(".photoswipe-caption").each(function() {
+      this.innerHTML = "<i>Tap the pictures!</i>"
+    })
+    $(".photoswipe-caption-comic").each(function() {
+      this.innerHTML = "<i>Tap the pictures!</i>"
+    })
+  }
+</script>
+
+<script>
+  // Opens all links in new tab unless tagged "self" or pointing to id on same page.
+  $("a").each(function() {
+    if ($(this).attr("target") !== "_self" && $(this).attr("href").charAt(0) !== "#" && $(this).attr("itemprop") !== "contentUrl") {
+      $(this).attr("target", "_blank")
+    }
+  })
+</script>
+<script>
+  document.querySelectorAll("a").forEach(function(a) {
+    if (a.href.includes("#")) { return }
+    if (a.href.includes("wikipedia")) { a.href += "#firstHeading" }
+    else if (a.href.includes("amazon")) { a.href += "#productTitle" }
+    else if (a.href.includes("discogs")) { a.href += "#page_content" }
+  })
+</script>
+
+{% if page.box == 'game-of-thrones' %}
+<script>
+    var all_characters = $("#characters").nextUntil("h3", "p").filter($("*[id]"))
+    function random_character() {
+        window.location.hash = all_characters[Math.floor(all_characters.length * Math.random())].id
+    }
+    $("#random-character").html("<p><a href='javascript:;' onclick='random_character()'>Jump to random character.</a></p>")
+    var all_settings = $("#settings").nextUntil("h3", "p").filter($("*[id]"))
+    function random_setting() {
+        window.location.hash = all_settings[Math.floor(all_settings.length * Math.random())].id
+    }
+    $("#random-setting").html("<p><a href='javascript:;' onclick='random_setting()'>Jump to random setting.</a></p>")
+    var all_deaths = $("#named-character-deaths").nextAll("p").slice(1).filter($("*[id]"))
+    function random_death() {
+        window.location.hash = all_deaths[Math.floor(all_deaths.length * Math.random())].id
+    }
+    $("#random-death").html("<p><a href='javascript:;' onclick='random_death()'>Jump to random death.</a></p>")
+</script>
+{% endif %}
+{% if page.title == 'Gawande' %}
+<script>
+    var all_stories = $("#stories").nextUntil("h3", "p").filter($("*[id]"))
+    function random_story() {
+        window.location.hash = all_stories[Math.floor(all_stories.length * Math.random())].id
+    }
+    $("#random-story").html("<p><a href='javascript:;' onclick='random_story()'>Jump to random story.</a></p>")
+</script>
+{% endif %}
+{% if page.title == 'Schopenhauer' or page.title == '<i>Disciplined Minds</i>'%}
+<script type="text/javascript">
+    var all_excerpts = $("blockquote").slice(1)
+    all_excerpts.each((idx, excerpt) => excerpt.id = idx + 1)
+    function random_excerpt() {
+      window.location.hash = all_excerpts[Math.floor(all_excerpts.length * Math.random())].id
+    }
+    $("#random-excerpt").html("<p><a href='javascript:;' onclick='random_excerpt()'>Jump to random excerpt.</a></p>")
+</script>
+{% endif %}
+{% if page.box == 'india' %}
+<script type="text/javascript">
+function on_mobile_device() { return $(document).width() <= 760 }
+zoom = on_mobile_device() ? 3 : 4
+src = `https://www.google.com/maps/embed/v1/view?key=AIzaSyBg5esZrKJYIXrvFfgu1TIApJupbEPmcTk&zoom=${zoom}&maptype=satellite&center=22.800854%2C78.563246`
+document.getElementById("india-map").src = src
+</script>
+{% endif %}
+{% if page.title == 'Random Acclaimed Song' %}
+<script type="text/javascript">
+    $("#dropdown").click(() => $( "#instructions" ).slideToggle( "slow"))
+    if ($(document).width() <= 760) {
+      document.querySelector("#description").innerHTML = `This song was randomly chosen from statistician Henrik Franzon's <a href="http://www.acclaimedmusic.net/history_songs.htm">2018 list</a> of 10,873 top songs.`
+    }
+</script>
+{% endif %}
+{% if page.title == 'Random Acclaimed Album' %}
+<script type="text/javascript">
+    $("#dropdown").click(() => $( "#instructions" ).slideToggle( "slow"))
+    if ($(document).width() <= 760) {
+      document.querySelector("#description").innerHTML = `This song was randomly chosen from statistician Henrik Franzon's <a href="http://www.acclaimedmusic.net/year/alltime_albums.htm">list</a> of 3,000 top albums.`
+    }
+</script>
+{% endif %}
+{% if page.permalink == 'chess-puzzles' %}
+<script type="text/javascript">
+    if ($(document).width() <= 760) {
+      document.querySelector("#description").innerHTML = `<p>Above is problem <span id="problem-num"></span> from Polgár's <a href="https://www.amazon.com/Chess-5334-Problems-Combinations-Games/dp/1579129501/ref=tmm_hrd_swatch_0"><i>Chess</i></a>. <a id="problem-link" target="_self">Here</a>&nbsp;is&nbsp;a&nbsp;link&nbsp;to&nbsp;return&nbsp;to&nbsp;it&nbsp;in the future.</p><p>You can also start at <a href="/chess-puzzles?o&id=1" target="_self">problem #1</a>.</p>`
+    }
+</script>
+<script src="/js/chess-puzzle-player.js"></script>
+{% endif %}
+
+</body>
+</html>

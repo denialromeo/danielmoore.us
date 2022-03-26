@@ -1,0 +1,31 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Daniel Moore
+author: Daniel Moore
+nickname: Dan
+email: hi@danielmoore.us
+favicon: /favicon.png
+local_url: localhost
+url: http://danielmoore.us
+photoswipe: <p class="photoswipe-caption"><i>Click the pictures!</i></p>
+img_dir: https://i.imgur.com/
+# img_dir: /assets/img/
+gif_dir: /assets/gif/
+
+# User accounts
+github: https://github.com/denialromeo
+steam: http://steamcommunity.com/id/denialromeo/
+
+# Post-specific variables.
+jekyll_tutorial_local_port: 8000
+
+# Build settings
+markdown: kramdown
+kramdown:
+input: GFM
