@@ -9,12 +9,12 @@ r remote g github: wincred
 	git pull origin master
 	jekyll build
 	git add --all .
-	git commit --allow-empty
+	git commit --allow-empty -m "Commit."
 	git push origin master --force
 	cd _site &&\
-	# git pull origin master &&\
+	git pull origin master &&\
 	git add --all . &&\
-	git commit --allow-empty &&\
+	git commit --allow-empty -m "Commit." &&\
 	git push origin master
 	del /s /q *~
 	clear
