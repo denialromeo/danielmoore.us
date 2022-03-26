@@ -20,9 +20,9 @@ r remote g github: wincred
 	clear
 
 wincred:
-	git config credential.helper wincred
-	git config user.name "Daniel Moore"
-	git config user.email "hi@danielmoore.us"
+	git config --global credential.helper wincred
+	git config --global user.name "Daniel Moore"
+	git config --global user.email "hi@danielmoore.us"
 
 l local:
 	jekyll build
