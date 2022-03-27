@@ -38,6 +38,12 @@ I hope you have a good time here. Thanks for dropping by.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PL1X3qTzT40VnGzBq2v2oKof9_Ps51ng5f" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 ' %}
 
+{:#consumer-goods}
+**Consumer Goods**
+
+* [Bowflex SelectTech Adjustable Dumbbells](https://www.amazon.com/gp/product/B001ARYU58) (Who needs a gym membership?)
+* [Redify Jump Rope](https://www.amazon.com/gp/product/B086XC32L2) (Rainy-day cardio.)
+
 {:#desktop-software}
 **Desktop Software**
 
