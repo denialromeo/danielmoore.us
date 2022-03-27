@@ -42,7 +42,6 @@ I hope you have a good time here. Thanks for dropping by.
 **Desktop Software**
 
 * "[LibreOffice](https://www.libreoffice.org/)" by The Document Foundation (Open-source Microsoft Office replacement.)
-* "[NoVote](https://chrome.google.com/webstore/detail/novote/kepihiliocoofjjbgmcmalnjmeclpnga)" by Dan Lovelace (Makes Reddit usable.)
 * "[OBS Studio](https://obsproject.com/)" by Hugh Bailey (Screen recording tool.)
 * "[Scoop](https://scoop.sh/)" by Luke Sampson (Windows command-line installer.)
 * "[ScreenToGif](https://github.com/NickeManarin/ScreenToGif#readme)" by Nicke Manarin (Animated screenshots.)
