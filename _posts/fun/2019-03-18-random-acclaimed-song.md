@@ -18,7 +18,7 @@ box: random-acclaimed-song
 
 <p id="next-song"></p>
 
-<a href="javascript:;" id="dropdown" target="_self">More Fun</a>
+<a href="javascript:;" id="dropdown" target="_self">Advanced Usage Instructions</a>
 <div id="instructions" style="display:none;">
     <p>You can filter the song selection! Examples &ndash;</p>
     <ul>
