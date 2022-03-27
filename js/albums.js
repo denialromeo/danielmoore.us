@@ -1831,7 +1831,7 @@ const albums = [
 "Family|Music in a Doll's House|1968|PL1F6E4AF96C3F9481|A1308|Music in a Doll's House|Family (band)|Progressive Rock;Psychedelic Rock;Rock",
 "OutKast|ATLiens|1996|PLQcgmeGJ_OTa9awL-hyC59Va412pHNfCW|A2998|ATLiens|Outkast|Hip Hop",
 "The Temptations|All Directions|1972|PLAL6esrXaUi3NlFj20qiDKRAEGBVAcVNF|A2428|All Directions|The Temptations|Psychedelic Soul;R&B;Soul",
-"Kruder & Dorfmeister|The K & D Sessions|1998|PL8450B0D9B803BE3B|A4865|The K&D Sessions|Kruder & Dorfmeister|Trip Hop;Downtempo;Electronic",
+"Kruder & Dorfmeister|The K & D Sessions|1998|PL3A71EE46311A71C2|A4865|The K&D Sessions|Kruder & Dorfmeister|Trip Hop;Downtempo;Electronic",
 "Phoebe Bridgers|Stranger in the Alps|2017|PLfxIOct9IL1EiWGZBp5kZ187Y0DzgBd4B|A5962|Stranger in the Alps|Phoebe Bridgers|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "The Dream Syndicate|Medicine Show|1984|PL8--pq2FCbFH9LXzWaO5l8MmCLFsijI1H|A612|Medicine Show (album)|The Dream Syndicate|Paisley Underground;Psychedelic Rock;Rock",
 "Beirut|The Flying Club Cup|2007|PLsbS88ChJFp-ORVVVq_x2tidD3WnyNh20|A4260|The Flying Club Cup|Beirut (band)|Indie Folk;Contemporary Folk;Folk",
