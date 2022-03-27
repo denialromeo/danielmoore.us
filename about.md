@@ -43,6 +43,8 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [Bowflex SelectTech Adjustable Dumbbells](https://www.amazon.com/gp/product/B001ARYU58) (Who needs a gym membership?)
 * [Redify Jump Rope](https://www.amazon.com/gp/product/B086XC32L2) (Rainy-day cardio.)
+* [TeamMe Computer Desk](https://www.walmart.com/ip/Computer-Desk-Storage-Hutch-Pull-Out-Keyboard-Tray-Several-Bookshelves-63-4-L-x-18-1-W-46-1-H-Cabinet-Study-Workstation-Home-Office-White/445234806) (Maximize productivity.)
+* [Vive Wrist Brace](https://www.amazon.com/gp/product/B077BPYK5S/) (Type for ten hours a day.)
 
 {:#desktop-software}
 **Desktop Software**
