@@ -7580,7 +7580,7 @@ const songs = [
 "The Last Poets|Niggers Are Scared of Revolution|1970|dV615-rdHsg|The Last Poets|S14647|Jazz Poetry;Descriptor;Jazz;Poetry;Spoken Word",
 "Vess L. Ossman|Honolulu Cake Walk|1899|Sq3B_2JizCI|Vess Ossman|S15975|Cakewalk;American Folk Music;Folk;Ragtime;Regional Music;Traditional Folk Music",
 "Devo|Girl U Want|1980|g4-2onb62y8|Devo|S6061|New Wave;Rock",
-"Ramones|I Don't Wanna Grow Up|1995|1Tpu_XoNABA|Ramones|S14920|Punk Rock;Rock",
+"Ramones|I Don't Want to Grow Up|1995|1Tpu_XoNABA|Ramones|S14920|Punk Rock;Rock",
 "Freeway|What We Do|2002|1swlUtEkXZ0|Freeway (rapper)|S6481|East Coast Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Count Basie|Every Day (I Have the Blues)|1955|L31pDORVifQ|Count Basie Orchestra|S9194|Big Band;Jazz",
 "Cosmo Vitelli|Party Day|2001|ZGcxC8fdSI8|https://fr.wikipedia.org/wiki/Cosmo_Vitelli|S5876|Electro House;Dance;Electronic;Electronic Dance Music;House",
