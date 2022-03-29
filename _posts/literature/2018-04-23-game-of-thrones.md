@@ -1778,6 +1778,8 @@ Sansa began to cry. He let go of her then, and snuffed out the torch in the dirt
 
 > “How did you kill Robert?” “He did that himself. All we did was help. When Lancel saw that Robert was going after boar, he gave him strongwine. His favorite sour red, but fortified, three times as potent as he was used to. The great stinking fool loved it. He could have stopped swilling it down anytime he cared to, but no, he drained one skin and told Lancel to fetch another. The boar did the rest. You should have been at the feast, Tyrion. There has never been a boar so delicious. They cooked it with mushrooms and apples, and it tasted like triumph.”
 
+> Jon remained standing. "It's my father, isn't it?" The Old Bear tapped the letter with a finger. "Your father and the king," he rumbled. "I won't lie to you, it's grievous news. I never thought to see another king, not at my age, with Robert half my years and strong as a bull." He took a gulp of wine. "They say the king loved to hunt. The things we love destroy us every time, lad. Remember that. My son loved that young wife of his. Vain woman. If not for her, he would never have thought to sell those poachers."
+
 {:#Fat-Tom-Varly-and-Cayn}
 **Fat Tom, Varly, and Cayn**
 
