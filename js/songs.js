@@ -3503,7 +3503,7 @@ const songs = [
 "Funkadelic/Parliament|(I Wanna) Testify|1967|v-OZ-M2y0Ao|The Parliaments|S2841|Southern Soul;R&B;Soul",
 "Charlie Daniels Band|The Devil Went Down to Georgia|1979|wBjPAqmnvGA?start=23|Charlie Daniels|S1832|Country Rock;Progressive Bluegrass;Country;Progressive Country;Rock",
 "Sloan|Coax Me|1994|B563tEpzeLc|Sloan (band)|S8455|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
-"Kriss Kross|Jump|1992|010KyIQjkTk|Kris Kross|S174|Pop Rap;Southern Hip Hop;Hip Hop",
+"Kris Kross|Jump|1992|010KyIQjkTk|Kris Kross|S174|Pop Rap;Southern Hip Hop;Hip Hop",
 "Chuck Berry|School Day|1957|DHG5-GxI_Es|Chuck Berry|S1243|Rock & Roll;Rock",
 "Ethel Merman|I Got Rhythm|1930|v4hI-xhGZug|Ethel Merman|S4868|Show Tunes;Traditional Pop;Descriptor;Musical Theatre and Entertainment;Pop;Soundtracks",
 "Savages|Shut Up|2013|FuIB8HEmnoY|Savages (band)|S9519|Gothic Rock;Post-Punk;Rock",
