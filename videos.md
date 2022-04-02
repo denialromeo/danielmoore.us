@@ -17,6 +17,10 @@ modifiedMsg: false
 ' %}
 
 {% include yt.html width='77%' embed='
+<iframe width="560" height="315" src="https://player.vimeo.com/video/157221223?h=2df599f9ab&color=ffffff&portrait=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+' %}
+
+{% include yt.html width='77%' embed='
 <iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PL30RAv-0lkxFTL_HvMAsrH2U8MjD_mVtf" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 ' %}
 
