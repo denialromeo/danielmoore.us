@@ -11,10 +11,6 @@ box: index
 
       {% if category.first == '~history' or category.first == 'tutorials' %}
       {%continue%}
-      {% comment %}
-      {% if category.first == 'tutorials' %}
-      {% endif %}
-      {% endcomment %}
       {%endif%}
 
       {% assign sorted_posts = category[1] | sort:'date' %}
