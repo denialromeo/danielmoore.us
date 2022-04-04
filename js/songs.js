@@ -8549,7 +8549,7 @@ const songs = [
 "Razorlight|Golden Touch|2004|KbANp9cRd6o|Razorlight|S8115|Indie Rock;Alternative Rock;Rock",
 "Andy Kirk & His Twelve Clouds of Joy|Until the Real Thing Comes Along|1936|VaQYQY7JPSQ|Andy Kirk (musician)|S5196|Swing;Vocal Jazz;Jazz",
 "Bobby Vinton|Roses Are Red (My Love)|1962|8rjPC7-JMUM|Bobby Vinton|S5580|Traditional Pop;Pop",
-"Chet Baker|Let's Get Lost|1955|sIoquPMcG_E|Chet Baker|S4070|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
+"Chet Baker|Let's Get Lost|1955|SKMKglJ8CZw|Chet Baker|S4070|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "Altered Images|I Could Be Happy|1981|dfqPJp7Q7qE|Altered Images|S9980|New Wave;Twee Pop;Indie Pop;Pop;Rock",
 "Tori Amos|God|1994|cN3rzi7dZVQ|Tori Amos|S15948|Alternative Rock;Art Pop;Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock",
 "Rammstein|Mein teil|2004|PBvwcH4XX6U|Rammstein|S14919|Neue Deutsche Härte;Industrial Metal;Industrial Music;Metal;Rock",
