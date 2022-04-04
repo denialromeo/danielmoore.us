@@ -73,7 +73,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#programming-books}
 **Programming Books**
 
-* [*The Bogleheads' Guide to Investing*](https://www.goodreads.com/notes/22847559-the-bogleheads-guide-to-investing/71655209-daniel-moore) by [Mel Lindauer](https://www.bogleheads.org/wiki/Mel_Lindauer#Archive) (Where to stash your ill-gotten gains.)
+* [*The Bogleheads' Guide to Investing*](https://www.goodreads.com/notes/22847559-the-bogleheads-guide-to-investing/71655209-daniel-moore) by [Mel Lindauer](https://www.bogleheads.org/wiki/Mel_Lindauer#Archive) (You are not smarter than the market.)
 * [*Coders at Work*](https://github.com/ndina/acm/raw/master/coders-at-work.pdf) by [Peter Seibel](https://gigamonkeys.com) (Giants to walk in the footsteps of.)
 * [*Game Programming Patterns*](http://gameprogrammingpatterns.com/contents.html) by [Bob Nystrom](http://stuffwithstuff.com/) (Notes on building maintainable software.)
 * [*Logical Chess*](https://archive.org/details/logicalchess_movebymove) by [Irving Chenev](https://en.wikipedia.org/wiki/Irving_Chernev) (Teaches the consequences of small changes.)
