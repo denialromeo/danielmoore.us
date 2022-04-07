@@ -26,7 +26,7 @@ wincred:
 
 l local:
 	jekyll build
-	jekyll serve --incremental --port 8000
+	jekyll serve --incremental --port 5000
 	
 i init:
 	mkdir _site &&\
