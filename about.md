@@ -73,14 +73,18 @@ I hope you have a good time here. Thanks for dropping by.
 {:#programming-books}
 **Programming Books**
 
-* [*The Bogleheads' Guide to Investing*](https://www.goodreads.com/notes/22847559-the-bogleheads-guide-to-investing/71655209-daniel-moore) by [Mel Lindauer](https://www.bogleheads.org/wiki/Mel_Lindauer#Archive) (You are not smarter than the market.)
 * [*Coders at Work*](https://github.com/ndina/acm/raw/master/coders-at-work.pdf) by [Peter Seibel](https://gigamonkeys.com) (Giants to walk in the footsteps of.)
 * [*Game Programming Patterns*](http://gameprogrammingpatterns.com/contents.html) by [Bob Nystrom](http://stuffwithstuff.com/) (Notes on building maintainable software.)
-* [*Logical Chess*](https://archive.org/details/logicalchess_movebymove) by [Irving Chenev](https://en.wikipedia.org/wiki/Irving_Chernev) (Teaches the consequences of small changes.)
 * [*Microserfs*](https://www.goodreads.com/notes/11483124-microserfs/71655209-daniel-moore) by [Douglas Coupland](https://en.wikipedia.org/wiki/Douglas_Coupland) (Understand working programmers.)
-* [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Mens sana in corpore sano.)
 
 (For more fun, check out [this list](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-langs.html) by the Free Ebook Foundation.)
+
+{:#hobbyist-books}
+**Hobbyist Books**
+
+* [*The Bogleheads' Guide to Investing*](https://www.goodreads.com/notes/22847559-the-bogleheads-guide-to-investing/71655209-daniel-moore) by [Mel Lindauer](https://www.bogleheads.org/wiki/Mel_Lindauer#Archive) (You are not smarter than the market.)
+* [*Logical Chess*](https://archive.org/details/logicalchess_movebymove) by [Irving Chenev](https://en.wikipedia.org/wiki/Irving_Chernev) (Teaches the consequences of small changes.)
+* [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Mens sana in corpore sano.)
 
 {:#history-books}
 **History Books**
