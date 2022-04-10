@@ -35,7 +35,7 @@ box: random-acclaimed-song
             <a target="_self" href="?genre=r%26b&year=199.">R&B albums from the 1990's.</a>
         </li>
     </ul>
-   <p>Also note that each album's name is a link to its Wikipedia page.</p>
+   <p>Also note that each album's name is a link to its Wikipedia page. To see an album's genres, hit <code class="language-plaintext highlighter-rouge">Ctrl + Shift + I</code> to open the browser console.</p>
 </div>
 
 <script src="/js/URI.js"></script>
@@ -79,7 +79,8 @@ box: random-acclaimed-song
         console.log(pool.map(s => s.split("|").slice(0,3).concat(s.split("|").slice(7,8))))
     }
     const info = choice(pool).split("|")
-    console.log(info.slice(0,3).concat(info.slice(7,8)))
+    const infoLog = info.slice(0,3).concat(info.slice(7,8))
+    for (let i = 0; i < infoLog.length; i++) { console.log(infoLog[i]) }
     iframe.src = info[3].startsWith("http") ? info[3] : `https://youtube.com/embed/playlist?list=${info[3]}`
     const wikiLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[0])}>${info[0]}</a>`
     const songLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[5])}>${info[1]}</a>`

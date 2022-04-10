@@ -35,7 +35,7 @@ box: random-acclaimed-song
             <a target="_self" href="?genre=disco&year=197.">Disco songs from the 1970's.</a>
         </li>
     </ul>
-   <p>Also note that each artist's name is a link to their Wikipedia page.</p>
+   <p>Also note that each artist's name is a link to their Wikipedia page. To see a song's genres, hit <code class="language-plaintext highlighter-rouge">Ctrl + Shift + I</code> to open the browser console.</p>
 </div>
 
 <script src="/js/URI.js"></script>
@@ -79,7 +79,8 @@ box: random-acclaimed-song
         console.log(pool.map(s => s.split("|").slice(0,3).concat(s.split("|").slice(6,7))))
     }
     const info = choice(pool).split("|")
-    console.log(info.slice(0,3).concat(info.slice(6,7)))
+    const infoLog = info.slice(0,3).concat(info.slice(6,7))
+    for (let i = 0; i < infoLog.length; i++) { console.log(infoLog[i]) }
     iframe.src = info[3].startsWith("http") ? info[3] : `https://youtube.com/embed/${info[3]}`
     const wikiLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[4])}>${info[0]}</a>`
     const songLink = `<a style='text-decoration:none;border-bottom:none;' href='http://acclaimedmusic.net/song/${info[5]}.htm'>${info[1]}</a>`
