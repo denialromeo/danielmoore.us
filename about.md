@@ -101,6 +101,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#autobiographies}
 **Autobiographies**
 
+* [*Adventures in the Screen Trade*](https://www.goodreads.com/notes/18883261-adventures-in-the-screen-trade/71655209-daniel-moore) by [William Goldman](https://en.wikipedia.org/wiki/William_Goldman) (Hollywood at its zenith.)
 * [*Disciplined Minds*](/disciplined-minds) by [Jeff Schmidt](https://disciplinedminds.tripod.com/) (Thriving in the white-collar workplace.)
 * [*Four Star Reviews, 1967-2007*](https://www.goodreads.com/notes/9517283-roger-ebert-s-four-star-reviews-1967-2007/71655209-daniel-moore) by [Roger Ebert](https://en.wikipedia.org/wiki/Roger_Ebert) (Forty years at the movies.)
 * [*Nickel and Dimed*](https://www.goodreads.com/notes/8893315-nickel-and-dimed/71655209-daniel-moore) by [Barbara Ehrenreich](https://en.wikipedia.org/wiki/Barbara_Ehrenreich) (Poverty is expensive.)
