@@ -95,7 +95,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Late Victorian Holocausts*](https://www.goodreads.com/notes/19323009-late-victorian-holocausts/71655209-daniel-moore) by [Mike Davis](https://en.wikipedia.org/wiki/Mike_Davis_(scholar)) (50 million forgotten murders.)
 * [*A Most Holy War*](https://www.goodreads.com/notes/19261923-a-most-holy-war/71655209-daniel-moore) by [Mark Pegg](https://en.wikipedia.org/wiki/Mark_Gregory_Pegg) (Western civilization's roots.)
 * [*Reconstruction*](https://www.goodreads.com/notes/11389556-reconstruction/71655209-daniel-moore) by [Eric Foner](https://en.wikipedia.org/wiki/Eric_Foner) (Ongoing ripples of Lincoln's murder.)
-* [*Vladimir Putin and Russian Statecraft*](https://www.goodreads.com/notes/19441321-vladimir-putin-and-russian-statecraft/71655209-daniel-moore) by [Allen Lynch](https://politics.virginia.edu/people/profile/al4u) (Herald of a multi-polar world.)
+* [*Vladimir Putin and Russian Statecraft*](https://www.goodreads.com/notes/19441321-vladimir-putin-and-russian-statecraft/71655209-daniel-moore) by [Allen Lynch](https://politics.virginia.edu/people/profile/al4u) (From failed state to superpower.)
  
 (For more, check out the World History Association's [list](https://www.thewha.org/awards/bentley-book-prize/#committee) of Bentley Book Prize winners.)
 
