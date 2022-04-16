@@ -43,6 +43,12 @@
 			"link": "assets/img/comics/showcase/buddha.png"
 		},
 		{
+			"author": "Scott Adams",
+			"title": "Dilbert",
+			"amazon": "https://www.amazon.com/dp/1596435739",
+			"link": "assets/img/comics/showcase/dilbert.gif"
+		},
+		{
 			"author": "John Wagner",
 			"title": "Judge Dredd: America",
 			"amazon": "https://www.amazon.com/dp/1596435739",
