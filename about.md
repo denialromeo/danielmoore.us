@@ -85,6 +85,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Hobbyist Books**
 
 * [*The Bogleheads' Guide to Investing*](https://www.goodreads.com/notes/22847559-the-bogleheads-guide-to-investing/71655209-daniel-moore) by [Mel Lindauer](https://www.bogleheads.org/wiki/Mel_Lindauer#Archive) (You are not smarter than the market.)
+* [*The Case Against Education*](https://www.goodreads.com/notes/52147324-the-case-against-education/71655209-daniel-moore) by [Bryan Caplan](http://www.bcaplan.com/) (We waste a third of our lives social signaling.)
 * [*Logical Chess*](https://archive.org/details/logicalchess_movebymove) by [Irving Chenev](https://en.wikipedia.org/wiki/Irving_Chernev) (Teaches the consequences of small changes.)
 * [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Mens sana in corpore sano.)
 
