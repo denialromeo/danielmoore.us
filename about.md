@@ -86,7 +86,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Economics Books**
 
 * [*The Bogleheads' Guide to Investing*](https://www.goodreads.com/notes/22847559-the-bogleheads-guide-to-investing/71655209-daniel-moore) by [Mel Lindauer](https://www.bogleheads.org/wiki/Mel_Lindauer#Archive) (You are not smarter than the market.)
-* [*The Boys' Crisis*](https://www.goodreads.com/notes/37854870-the-boy-crisis/71655209-daniel-moore) by [Warren Farrell](https://en.wikipedia.org/wiki/Warren_Farrell) (Does society still need masculinity?)
+* [*The Boy Crisis*](https://www.goodreads.com/notes/37854870-the-boy-crisis/71655209-daniel-moore) by [Warren Farrell](https://en.wikipedia.org/wiki/Warren_Farrell) (Does society still need masculinity?)
 * [*The Case Against Education*](https://www.goodreads.com/notes/52147324-the-case-against-education/71655209-daniel-moore) by [Bryan Caplan](http://www.bcaplan.com/) (We waste a third of our lives social signaling.)
 * [*Logical Chess*](https://archive.org/details/logicalchess_movebymove) by [Irving Chenev](https://en.wikipedia.org/wiki/Irving_Chernev) (Teaches the consequences of small changes.)
 * [*Untrue: Women, Lust, and Infidelity*](https://www.goodreads.com/notes/38907660-untrue/71655209-daniel-moore) by [Wednesday Martin](https://en.wikipedia.org/wiki/Wednesday_Martin) (Primate sexual market dynamics.)
