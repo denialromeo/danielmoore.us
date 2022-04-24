@@ -78,17 +78,21 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Game Programming Patterns*](http://gameprogrammingpatterns.com/contents.html) by [Bob Nystrom](http://stuffwithstuff.com/) (Notes on building maintainable software.)
 * [*Learn OpenGL*](https://learnopengl.com/book/book_pdf.pdf) by [Joey de Vries](https://twitter.com/JoeyDeVriez) (Graphics from scratch.)
 * [*Microserfs*](https://www.goodreads.com/notes/11483124-microserfs/71655209-daniel-moore) by [Douglas Coupland](https://en.wikipedia.org/wiki/Douglas_Coupland) (Understand working programmers.)
-* [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Mens sana in corpore sano.)
 
 (For more fun, check out [this list](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-langs.html) by the Free Ebook Foundation.)
+
+{:#hobbyist-books}
+**Hobbyist Books**
+
+* [*The Bogleheads' Guide to Investing*](https://www.goodreads.com/notes/22847559-the-bogleheads-guide-to-investing/71655209-daniel-moore) by [Mel Lindauer](https://www.bogleheads.org/wiki/Mel_Lindauer#Archive) (You are not smarter than the market.)
+* [*Logical Chess*](https://archive.org/details/logicalchess_movebymove) by [Irving Chenev](https://en.wikipedia.org/wiki/Irving_Chernev) (Teaches the consequences of small changes.)
+* [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Mens sana in corpore sano.)
 
 {:#economics-books}
 **Economics Books**
 
-* [*The Bogleheads' Guide to Investing*](https://www.goodreads.com/notes/22847559-the-bogleheads-guide-to-investing/71655209-daniel-moore) by [Mel Lindauer](https://www.bogleheads.org/wiki/Mel_Lindauer#Archive) (You are not smarter than the market.)
-* [*The Boy Crisis*](https://www.goodreads.com/notes/37854870-the-boy-crisis/71655209-daniel-moore) by [Warren Farrell](https://en.wikipedia.org/wiki/Warren_Farrell) (Does society still need masculinity?)
+* [*The Boy Crisis*](https://www.goodreads.com/notes/37854870-the-boy-crisis/71655209-daniel-moore) by [Warren Farrell](https://en.wikipedia.org/wiki/Warren_Farrell) (Does America have an excess male problem?)
 * [*The Case Against Education*](https://www.goodreads.com/notes/52147324-the-case-against-education/71655209-daniel-moore) by [Bryan Caplan](http://www.bcaplan.com/) (We waste a third of our lives social signaling.)
-* [*Logical Chess*](https://archive.org/details/logicalchess_movebymove) by [Irving Chenev](https://en.wikipedia.org/wiki/Irving_Chernev) (Teaches the consequences of small changes.)
 * [*Untrue: Women, Lust, and Infidelity*](https://www.goodreads.com/notes/38907660-untrue/71655209-daniel-moore) by [Wednesday Martin](https://en.wikipedia.org/wiki/Wednesday_Martin) (Primate sexual market dynamics.)
 
 {:#history-books}
