@@ -85,7 +85,7 @@ While [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)'s 
 {:#Tyrion-Lannister}
 **Tyrion Lannister**
 
-> "Even if the boy does live, he will be a cripple. Worse than a cripple. A grotesque. Give me a good clean death." Tyrion replied with a shrug that accentuated the twist of his shoulders. "Speaking for the grotesques," he said, "I beg to differ. Death is so terribly final, while life is full of possibilities."
+> "He could end his torment," Jaime said. "I would, if it were my son. It would be a mercy." "I advise against putting that suggestion to Lord Eddard, sweet brother," Tyrion said. "He would not take it kindly." "Even if the boy does live, he will be a cripple. Worse than a cripple. A grotesque. Give me a good clean death." Tyrion replied with a shrug that accentuated the twist of his shoulders. "Speaking for the grotesques," he said, "I beg to differ. Death is so terribly final, while life is full of possibilities."
 
 > Tyrion reflected on the men who had been Hand before him, who had proved no match for his sister’s wiles. How&nbsp;could they be? Men like that, too honest to live, too noble to shit, Cersei devours such fools every morning when she breaks her fast. The only way to defeat my sister is to play her own game, and that was something the Lords Stark and Arryn would never do. Small wonder that both of them were dead, while Tyrion Lannister had never felt so alive. His stunted legs might make him a comic grotesque at a harvest ball, but this dance he knew.
 
