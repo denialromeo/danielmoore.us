@@ -193,6 +193,14 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/fun-home/3.jpg" itemprop="contentUrl" data-size="817x1321"><img src="/assets/img/comics/fun-home/3.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
 </div>
 
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/2.jpg" itemprop="contentUrl" data-size="684x1024"><img style="border: 1px solid black;" src="/assets/img/comics/zot/2.jpg"/></a><figcaption itemprop="caption description"><p><i>The Adventures of Zot 10&#x00BD;</i> by Matt Feazell</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/3.jpg" itemprop="contentUrl" data-size="689x1024"><img src="/assets/img/comics/zot/3.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/4.jpg" itemprop="contentUrl" data-size="688x1024"><img src="/assets/img/comics/zot/4.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/5.jpg" itemprop="contentUrl" data-size="669x1024"><img src="/assets/img/comics/zot/5.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/6.jpg" itemprop="contentUrl" data-size="659x1024"><img src="/assets/img/comics/zot/6.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+</div>
+
 <div id="clear"></div>
 
 <p class="photoswipe-caption-comic"><i>Click the pictures!</i></p>

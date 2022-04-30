@@ -1,40 +1,40 @@
 {
 	"pages": [
 		{
-			"author": "Osamu Tezuka",
-			"title": "Buddha",
+			"author": "Matt Feazell",
+			"title": "The Adventures of Zot &#x00BD;",
 			"amazon": "",
-			"link": "assets/img/comics/buddha/1.png"
+			"link": "assets/img/comics/zot/1.jpg"
 		},
 		{
-			"author": "Osamu Tezuka",
-			"title": "Buddha",
+			"author": "",
+			"title": "",
 			"amazon": "",
-			"link": "assets/img/comics/buddha/2.png"
+			"link": "assets/img/comics/zot/2.jpg"
 		},
 		{
-			"author": "Osamu Tezuka",
-			"title": "Buddha",
+			"author": "",
+			"title": "",
 			"amazon": "",
-			"link": "assets/img/comics/buddha/3.png"
+			"link": "assets/img/comics/zot/3.jpg"
 		},
 		{
-			"author": "Osamu Tezuka",
-			"title": "Buddha",
+			"author": "",
+			"title": "",
 			"amazon": "",
-			"link": "assets/img/comics/buddha/4.png"
+			"link": "assets/img/comics/zot/4.jpg"
 		},
 		{
-			"author": "Osamu Tezuka",
-			"title": "Buddha",
+			"author": "",
+			"title": "",
 			"amazon": "",
-			"link": "assets/img/comics/buddha/5.png"
+			"link": "assets/img/comics/zot/5.jpg"
 		},
 		{
-			"author": "Osamu Tezuka",
-			"title": "Buddha",
+			"author": "",
+			"title": "",
 			"amazon": "",
-			"link": "assets/img/comics/buddha/6.png"
+			"link": "assets/img/comics/zot/6.jpg"
 		}
 	]
 }
