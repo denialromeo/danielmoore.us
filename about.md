@@ -178,4 +178,21 @@ I hope you have a good time here. Thanks for dropping by.
 
 <div id="clear"></div>
 
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha/1.png" itemprop="contentUrl" data-size="1300x1800"><img style="border: 1px solid black;" src="/assets/img/comics/buddha/1.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha/2.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha/2.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha/3.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha/3.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha/4.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha/4.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha/5.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha/5.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha/6.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha/6.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/fun-home/1.jpg" itemprop="contentUrl" data-size="820x1311"><img style="border: 1px solid black;" src="/assets/img/comics/fun-home/1.jpg"/></a><figcaption itemprop="caption description"><p><i>Fun Home</i> by Allison Bechdel</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/fun-home/2.jpg" itemprop="contentUrl" data-size="831x1308"><img src="/assets/img/comics/fun-home/2.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/fun-home/3.jpg" itemprop="contentUrl" data-size="817x1321"><img src="/assets/img/comics/fun-home/3.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+</div>
+
+<div id="clear"></div>
+
 <p class="photoswipe-caption-comic"><i>Click the pictures!</i></p>

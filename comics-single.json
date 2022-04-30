@@ -1,34 +1,40 @@
 {
 	"pages": [
 		{
-			"author": "Craig Thompson_",
-			"title": "Blankets",
+			"author": "Osamu Tezuka",
+			"title": "Buddha",
 			"amazon": "",
-			"link": "assets/img/comics/blankets/1.jpg"
+			"link": "assets/img/comics/buddha/1.png"
 		},
 		{
-			"author": "Craig Thompson",
-			"title": "Blankets",
+			"author": "Osamu Tezuka",
+			"title": "Buddha",
 			"amazon": "",
-			"link": "assets/img/comics/blankets/2.jpg"
+			"link": "assets/img/comics/buddha/2.png"
 		},
 		{
-			"author": "Craig Thompson",
-			"title": "Blankets",
+			"author": "Osamu Tezuka",
+			"title": "Buddha",
 			"amazon": "",
-			"link": "assets/img/comics/blankets/3.jpg"
+			"link": "assets/img/comics/buddha/3.png"
 		},
 		{
-			"author": "Craig Thompson",
-			"title": "Blankets",
+			"author": "Osamu Tezuka",
+			"title": "Buddha",
 			"amazon": "",
-			"link": "assets/img/comics/blankets/4.jpg"
+			"link": "assets/img/comics/buddha/4.png"
 		},
 		{
-			"author": "Craig Thompson",
-			"title": "Blankets",
+			"author": "Osamu Tezuka",
+			"title": "Buddha",
 			"amazon": "",
-			"link": "assets/img/comics/blankets/5.jpg"
+			"link": "assets/img/comics/buddha/5.png"
+		},
+		{
+			"author": "Osamu Tezuka",
+			"title": "Buddha",
+			"amazon": "",
+			"link": "assets/img/comics/buddha/6.png"
 		}
 	]
 }
