@@ -188,7 +188,7 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/fun-home/1.jpg" itemprop="contentUrl" data-size="820x1311"><img style="border: 1px solid black;" src="/assets/img/comics/fun-home/1.jpg"/></a><figcaption itemprop="caption description"><p><i>Fun Home</i> by Allison Bechdel</p></figcaption></figure>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/fun-home/1.jpg" itemprop="contentUrl" data-size="820x1311"><img style="border: 1px solid black;" src="/assets/img/comics/fun-home/1.jpg"/></a><figcaption itemprop="caption description"><p><i>Fun Home</i> by Alison Bechdel</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/fun-home/2.jpg" itemprop="contentUrl" data-size="831x1308"><img src="/assets/img/comics/fun-home/2.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/fun-home/3.jpg" itemprop="contentUrl" data-size="817x1321"><img src="/assets/img/comics/fun-home/3.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
 </div>
