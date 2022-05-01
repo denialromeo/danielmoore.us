@@ -93,7 +93,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*The Analects of Confucius*](http://wengu.tartarie.com/wg/wengu.php?l=Lunyu&no=0) by [Kong Fuzi](https://en.wikipedia.org/wiki/Confucius) (Building a society that works starts from the bottom.)
 * [*The Complete Works*](https://www.goodreads.com/notes/29997711-the-collected-works-of-arthur-schopenhauer/71655209-daniel-moore) by [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (Ancient wisdom in a modern context.)
-* [*Light on the Yoga Sutras of Patanjali*](https://www.goodreads.com/notes/18903748-light-on-the-yoga-sutras-of-patanjali/71655209-daniel-moore) by [B.K.S. Iyengar](https://en.wikipedia.org/wiki/B._K._S._Iyengar) (Exerting control of the mind.)
+* [*Light on the Yoga Sutras of Patanjali*](https://www.goodreads.com/notes/18903748-light-on-the-yoga-sutras-of-patanjali/71655209-daniel-moore) by [B.K.S. Iyengar](https://en.wikipedia.org/wiki/B._K._S._Iyengar) (Exerting control over the mind.)
 * [*Straw Dogs*](https://www.goodreads.com/notes/29767507-straw-dogs/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (Breaking free of monotheistic orthodoxy.)
 
 {:#economics-books}
