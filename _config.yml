@@ -14,8 +14,8 @@ favicon: /favicon.png
 local_url: localhost
 url: http://danielmoore.us
 photoswipe: <p class="photoswipe-caption"><i>Click the pictures!</i></p>
-img_dir: https://i.imgur.com/
-# img_dir: /assets/img/
+# img_dir: https://i.imgur.com/
+img_dir: /assets/img/imgur/
 gif_dir: /assets/gif/
 
 # User accounts
