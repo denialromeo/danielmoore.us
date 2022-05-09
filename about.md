@@ -208,13 +208,6 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/6.jpg" itemprop="contentUrl" data-size="659x1024"><img src="/assets/img/comics/zot/6.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
 </div>
 
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/superman/1.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/superman/1.jpg"/></a><figcaption itemprop="caption description"><p><i>All-Star Superman</i> by Grant Morrison</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/superman/2.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/superman/2.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/superman/3.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/superman/3.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/superman/4.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/superman/4.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
-</div>
-
 <div id="clear"></div>
 
 <p class="photoswipe-caption-comic"><i>Click the pictures!</i></p>
