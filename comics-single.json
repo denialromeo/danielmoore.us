@@ -1,40 +1,28 @@
 {
 	"pages": [
 		{
-			"author": "Matt Feazell",
-			"title": "The Adventures of Zot &#x00BD;",
+			"author": "Grant Morrison",
+			"title": "All-Star Superman",
 			"amazon": "",
-			"link": "assets/img/comics/zot/1.jpg"
+			"link": "assets/img/comics/superman/1.jpg"
 		},
 		{
-			"author": "",
-			"title": "",
+			"author": "Grant Morrison",
+			"title": "All-Star Superman",
 			"amazon": "",
-			"link": "assets/img/comics/zot/2.jpg"
+			"link": "assets/img/comics/superman/2.jpg"
 		},
 		{
-			"author": "",
-			"title": "",
+			"author": "Grant Morrison",
+			"title": "All-Star Superman",
 			"amazon": "",
-			"link": "assets/img/comics/zot/3.jpg"
+			"link": "assets/img/comics/superman/3.jpg"
 		},
 		{
-			"author": "",
-			"title": "",
+			"author": "Grant Morrison",
+			"title": "All-Star Superman",
 			"amazon": "",
-			"link": "assets/img/comics/zot/4.jpg"
-		},
-		{
-			"author": "",
-			"title": "",
-			"amazon": "",
-			"link": "assets/img/comics/zot/5.jpg"
-		},
-		{
-			"author": "",
-			"title": "",
-			"amazon": "",
-			"link": "assets/img/comics/zot/6.jpg"
+			"link": "assets/img/comics/superman/4.jpg"
 		}
 	]
 }
