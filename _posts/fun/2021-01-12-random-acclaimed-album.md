@@ -35,7 +35,7 @@ box: random-acclaimed-song
             <a target="_self" href="?genre=r%26b&year=199.">R&B albums from the 1990's.</a>
         </li>
     </ul>
-   <p>Also note that each album's name is a link to its Wikipedia page. To see an album's genres, hit <code class="language-plaintext highlighter-rouge">Ctrl + Shift + I</code> to open the browser console.</p>
+   <p>Also note that each album's name is a link to its Wikipedia page. To see an album's genres, hit <code class="language-plaintext highlighter-rouge">Ctrl + Shift + J</code> to open the browser console.</p>
 </div>
 
 <script src="/js/URI.js"></script>

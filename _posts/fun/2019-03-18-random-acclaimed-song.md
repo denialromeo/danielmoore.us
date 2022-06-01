@@ -35,7 +35,7 @@ box: random-acclaimed-song
             <a target="_self" href="?genre=disco&year=197.">Disco songs from the 1970's.</a>
         </li>
     </ul>
-   <p>Also note that each artist's name is a link to their Wikipedia page. To see a song's genres, hit <code class="language-plaintext highlighter-rouge">Ctrl + Shift + I</code> to open the browser console.</p>
+   <p>Also note that each artist's name is a link to their Wikipedia page. To see a song's genres, hit <code class="language-plaintext highlighter-rouge">Ctrl + Shift + J</code> to open the browser console.</p>
 </div>
 
 <script src="/js/URI.js"></script>
