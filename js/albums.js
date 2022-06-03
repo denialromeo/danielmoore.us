@@ -2588,7 +2588,7 @@ const albums = [
 "Múm|Finally We Are No One|2002|PLplZ_yA5BHkJ3Wrr2_BDhlhy44FTkEycF|A3906|Finally We Are No One|Múm|Indietronica;Electronic",
 "Indigo Girls|Indigo Girls|1989|PLW923-HsPrNuvkPIXJNkBxcz4zo5U8OEE|A4740|Indigo Girls (album)|Indigo Girls|Folk Pop;Folk Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock",
 "Annie Lennox|Diva|1992|PLFOEKt6bIrVeuJejpT5OQ-AaQcBwPVsoz|A1570|Diva (Annie Lennox album)|Annie Lennox|Pop Soul;Pop;R&B;Soul",
-"Wild Beasts|Present Tense|2014|PL3b6NfN5I8QMYjqFP_Cu4120uK7S4daPG|A5407|Present Tense (Wild Beasts album)|Wild Beasts|Art Pop;Pop",
+"Wild Beasts|Present Tense|2014|PLaXEUnRhowO5T2vMgPCrH0XjBnyIeyml2|A5407|Present Tense (Wild Beasts album)|Wild Beasts|Art Pop;Pop",
 "The Smashing Pumpkins|Adore|1998|PLzTW6ph_i-KTOESYwbvYlt4LblkoWrm4l|A1026|Adore (album)|The Smashing Pumpkins|Alternative Rock;Rock",
 "Scott Walker|Bish Bosch|2012|PLRRe_urOjL_9YyrSBRN-RrqZJRs45cF9P|A5245|Bish Bosch|Scott Walker (singer)|Experimental;Singer/Songwriter",
 "The Blasters|Hard Line|1985|PLfNolntK4QWQB3h-vVf1J8PZ5Pq_B5kPL|A3067|Hard Line (album)|The Blasters|Rockabilly;Roots Rock;Rock;Rock & Roll",
