@@ -46,7 +46,7 @@ box: schopenhauer
 
 > The pleasure in this world, it has been said, outweighs the pain; or, at any rate, there is an even balance between the two. If the reader wishes to see shortly whether this statement is true, let him compare the respective feelings of two animals, one of which is engaged in eating the other.
 
-> Every ravenous beast is the living grave of thousands, and its self-maintenance is a chain of painful deaths.
+> And to this world, to this scene of tormented and agonised beings, who only continue to exist by devouring each other, in which, therefore, every ravenous beast is the living grave of thousands of others, and its self-maintenance is a chain of painful deaths; and in which the capacity for feeling pain increases with knowledge, and therefore reaches its highest degree in man, a degree which is the higher the more intelligent the man is; to this world it has been sought to apply the system of optimism, and demonstrate to us that it is the best of all possible worlds. The absurdity is glaring.
 
 > The sight of others' suffering arouses, not only in different men, but in one and the same man, at one moment an inexhaustible sympathy, at another a certain satisfaction; and this satisfaction may increase until it becomes the cruelest delight in pain. I observe in myself that at one moment I regard all mankind with heartfelt pity, at another with the greatest indifference, on occasion with hatred, nay, with a positive enjoyment of their pain.
 
