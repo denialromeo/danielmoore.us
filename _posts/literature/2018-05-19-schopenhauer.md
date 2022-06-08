@@ -112,6 +112,8 @@ box: schopenhauer
 
 > University philosophy is, as a rule, mere juggling. Its real aim is to impart to the students, in the deepest ground of their thought, that tendency of mind which the ministry that appoints to the professorships regards as consistent with its views.
 
+> There is no absurdity so palpable but that it may be firmly planted in the human head if you only begin to inculcate it before the age of five, by constantly repeating it with an air of great solemnity.
+
 > To free a man from an error is not to deprive him of anything but to give him something: for the knowledge that a thing is false is a piece of truth. No error is harmless: sooner or later it will bring misfortune to him who harbours it. Therefore deceive no one, but rather confess ignorance of what you do not know, and leave each man to devise his own articles of faith for himself.
 
 > If he surrenders to an emotion the greatest genius becomes equal to the commonest son of earth. He who wants to be altogether uncommon, that is to say great, must never let an agitation of will take over his consciousness, however much he is urged to do so. He must be able to take note of the odious opinion of another without feeling his own aroused by it: indeed, there is no surer sign of greatness than ignoring hurtful or insulting expressions by attributing them without further ado, like countless other errors, to the speaker's lack of knowledge and thus merely taking note of them without feeling them.
