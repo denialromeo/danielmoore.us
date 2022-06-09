@@ -216,6 +216,13 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/6.jpg" itemprop="contentUrl" data-size="659x1024"><img src="/assets/img/comics/zot/6.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
 </div>
 
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle/01.png" itemprop="contentUrl" data-size="763x1080"><img style="border: 1px solid black;" src="/assets/img/comics/sandcastle/01.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle/02.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle/02.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle/03.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle/03.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle/04.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle/04.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
+</div>
+
 <div id="clear"></div>
 
 <p class="photoswipe-caption-comic"><i>Click the pictures!</i></p>
