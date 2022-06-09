@@ -107,7 +107,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#history-books}
 **History Books**
 
-* [*The Book of Islamic Dynasties*](https://www.amazon.com/gp/product/B00R6E2UNS) by Luqman Nagy (Here long before us, and likely long after.)
+* [*The Book of Islamic Dynasties*](https://www.amazon.com/gp/product/B00R6E2UNS) by Luqman Nagy (Eurasia's past, present, and future.)
 * [*Debt: The First 5,000 Years*](https://www.goodreads.com/notes/23814811-debt---updated-and-expanded/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (How we got here.)
 * [*Late Victorian Holocausts*](https://www.goodreads.com/notes/19323009-late-victorian-holocausts/71655209-daniel-moore) by [Mike Davis](https://en.wikipedia.org/wiki/Mike_Davis_(scholar)) (50 million forgotten murders.)
 * [*A Most Holy War*](https://www.goodreads.com/notes/19261923-a-most-holy-war/71655209-daniel-moore) by [Mark Pegg](https://en.wikipedia.org/wiki/Mark_Gregory_Pegg) (Western civilization's roots.)
