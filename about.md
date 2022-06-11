@@ -97,6 +97,8 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Light on the Yoga Sutras of Patanjali*](https://www.goodreads.com/notes/18903748-light-on-the-yoga-sutras-of-patanjali/71655209-daniel-moore) by [B.K.S. Iyengar](https://en.wikipedia.org/wiki/B._K._S._Iyengar) (Exerting control over the mind.)
 * [*Straw Dogs*](https://www.goodreads.com/notes/29767507-straw-dogs/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (Breaking free of monotheistic orthodoxy.)
 
+{%comment%}
+{%endcomment%}
 {:#economics-books}
 **Economics Books**
 
@@ -221,6 +223,16 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle/02.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle/02.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle/03.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle/03.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle/04.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle/04.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
+</div>
+
+<div id="clear"></div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle2/1.png" itemprop="contentUrl" data-size="763x1080"><img style="border: 1px solid black;" src="/assets/img/comics/sandcastle2/1.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle2/2.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle2/2.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle2/3.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle2/3.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle2/4.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle2/4.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle2/5.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle2/5.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
 </div>
 
 <div id="clear"></div>
