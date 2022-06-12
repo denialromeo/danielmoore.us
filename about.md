@@ -205,17 +205,19 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/fun-home/1.jpg" itemprop="contentUrl" data-size="820x1311"><img style="border: 1px solid black;" src="/assets/img/comics/fun-home/1.jpg"/></a><figcaption itemprop="caption description"><p><i>Fun Home</i> by Alison Bechdel</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/fun-home/2.jpg" itemprop="contentUrl" data-size="831x1308"><img src="/assets/img/comics/fun-home/2.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/fun-home/3.jpg" itemprop="contentUrl" data-size="817x1321"><img src="/assets/img/comics/fun-home/3.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
-</div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/2.jpg" itemprop="contentUrl" data-size="684x1024"><img style="border: 1px solid black;" src="/assets/img/comics/zot/2.jpg"/></a><figcaption itemprop="caption description"><p><i>The Adventures of Zot in Dimension 10&#x00BD;</i> by Matt Feazell</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/3.jpg" itemprop="contentUrl" data-size="689x1024"><img src="/assets/img/comics/zot/3.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/4.jpg" itemprop="contentUrl" data-size="688x1024"><img src="/assets/img/comics/zot/4.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/5.jpg" itemprop="contentUrl" data-size="669x1024"><img src="/assets/img/comics/zot/5.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/6.jpg" itemprop="contentUrl" data-size="659x1024"><img src="/assets/img/comics/zot/6.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle2/1.png" itemprop="contentUrl" data-size="763x1080"><img style="border: 1px solid black;" src="/assets/img/comics/sandcastle2/1.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle2/2.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle2/2.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle2/3.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle2/3.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle2/4.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle2/4.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle2/5.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle2/5.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
@@ -228,11 +230,9 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="clear"></div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle2/1.png" itemprop="contentUrl" data-size="763x1080"><img style="border: 1px solid black;" src="/assets/img/comics/sandcastle2/1.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle2/2.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle2/2.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle2/3.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle2/3.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle2/4.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle2/4.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandcastle2/5.png" itemprop="contentUrl" data-size="763x1080"><img src="/assets/img/comics/sandcastle2/5.png"/></a><figcaption itemprop="caption description"><p><i>Sandcastle</i> by Pierre Levy</p></figcaption></figure>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/fun-home/1.jpg" itemprop="contentUrl" data-size="820x1311"><img style="border: 1px solid black;" src="/assets/img/comics/fun-home/1.jpg"/></a><figcaption itemprop="caption description"><p><i>Fun Home</i> by Alison Bechdel</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/fun-home/2.jpg" itemprop="contentUrl" data-size="831x1308"><img src="/assets/img/comics/fun-home/2.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/fun-home/3.jpg" itemprop="contentUrl" data-size="817x1321"><img src="/assets/img/comics/fun-home/3.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
 </div>
 
 <div id="clear"></div>
