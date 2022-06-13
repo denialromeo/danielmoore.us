@@ -22,13 +22,13 @@ def first_slide(page):
 
 def slides(comics_json):
     s = first_slide(comics_json["pages"][0])
+    caption = '<p><i>{title}</i> by {author}</p>' if 'single' not in JSON else ''
     for i in range(1, len(comics_json["pages"])):
         s += ('<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject">'
               '<a href="{img_link}" itemprop="contentUrl" data-size="{dim}">'
               '<img src="{img_link}"/>'
               '</a>'
-              '<figcaption itemprop="caption description">'
-              '<p><i>{title}</i> by {author}</p>'
+              f'{caption}'
               # '<p><a href="{amazon}">Amazon</a></p>'
               '</figcaption>'
               '</figure>\n').format(img_link='/' + comics_json["pages"][i]["link"], dim=get_dim(comics_json["pages"][i]["link"]), **(comics_json["pages"][i]))
