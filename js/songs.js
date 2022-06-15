@@ -3637,7 +3637,7 @@ const songs = [
 "Tom Waits|Time|1985|3_eR0IVSOhY|Tom Waits|S4205|Contemporary Folk;Singer/Songwriter;Folk",
 "The Neville Brothers|Yellow Moon|1989|L1Y6W1FaSVQ|The Neville Brothers|S7717|New Orleans R&B;Soul;R&B",
 "Khaled|Aïcha|1996|Exgf12tBzus|Khaled (musician)|S7092|Pop Raï;African Music;Arabic Music;North African Music;Pop;Raï;Regional Music",
-"Blind Lemon Jefferson|Black Snake Moan|1927|h3yd-c91ww8|Blind Lemon Jefferson|S10205|Acoustic Texas Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music",
+"Blind Lemon Jefferson|Black Snake Moan|1927|XsrRUdCwJew|Blind Lemon Jefferson|S10205|Acoustic Texas Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music",
 "Chairlift|I Belong in Your Arms|2012|3e8Ql9qFA2o|Chairlift (band)|S5004|New Wave;Synthpop;Electronic;Pop;Rock",
 "Woody Herman|Early Autumn|1949|1EfhG5CDu7Y|Woody Herman|S9396|Big Band;Dixieland;Swing;Jazz",
 "The Haydn Quartet|Take Me Out to the Ball Game|1908|6g0qS9L-fhY|Haydn Quartet (vocal ensemble)|S6694|Barbershop;Vaudeville;American Folk Music;Folk;Musical Theatre and Entertainment;Regional Music;Traditional Folk Music",
