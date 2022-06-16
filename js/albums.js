@@ -2162,7 +2162,7 @@ const albums = [
 "Traffic|The Low Spark of High Heeled Boys|1971|PLVPGzOHIIgz_hi95sCoIaI5QHgY7RrYfe|A1343|The Low Spark of High Heeled Boys|Traffic (band)|Progressive Rock;Rock",
 "Joe Satriani|Surfing with the Alien|1987|PLrnz4iRZQNldXqNVQIxOZJLf-ZSoKk1Zd|A3168|Surfing with the Alien|Joe Satriani|Hard Rock;Rock",
 "Rufus Wainwright|Rufus Wainwright|1998|PLazlQNLssXP0qqxNMBSTv6aymUlrLqiMU|A1050|Rufus Wainwright (album)|Rufus Wainwright|Singer/Songwriter",
-"Lou Reed|Coney Island Baby|1975|PLTVI5J4gu4C5FJZLHbyrVZUgY7IslPPnv|A1428|Coney Island Baby|Lou Reed|Art Rock;Pop Rock;Singer/Songwriter;Pop;Rock",
+"Lou Reed|Coney Island Baby|1975|PLiN-7mukU_REf84Kkz5Vuhj3QLUJOQHq6|A1428|Coney Island Baby|Lou Reed|Art Rock;Pop Rock;Singer/Songwriter;Pop;Rock",
 "Slayer|Seasons in the Abyss|1990|PLBnJv6rImVe-zvBs5EF2agTECQBKyrojv|A3325|Seasons in the Abyss|Slayer|Thrash Metal;Metal;Rock",
 "The Dictators|Go Girl Crazy!|1975|PL4yI4MGeJZqd-xjbb5-ynPD3I4Z72PJzh|A2574|Go Girl Crazy!|The Dictators|Hard Rock;Proto-Punk;Rock",
 "Tom Waits|Small Change|1976|PLTMN6OMDTnKmPEshAkltDlfJYLft6taZO|A1423|Small Change (Tom Waits album)|Tom Waits|Singer/Songwriter",
