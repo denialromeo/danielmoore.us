@@ -41,7 +41,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#consumer-goods}
 **Consumer Goods**
 
-* [Bowflex SelectTech Adjustable Dumbbells](https://www.amazon.com/gp/product/B001ARYU58) (Pair with Buff Dudes' [12-Week](/assets/buff-dudes-12-week-dumbbell-only-workout-plan.pdf) [Plan](https://www.youtube.com/playlist?list=PLTf-ZXYjmIgYFBDAWnIxKCE3IJVBezqYx).)
+* [Bowflex SelectTech Adjustable Dumbbells](https://www.amazon.com/gp/product/B001ARYU58) (Doubles as a conversation starter.)
 * [iBUYPOWER Pre-Built Gaming PC](https://www.ibuypower.com/gaming-pcs) (For work and play.)
 * [Redify Jump Rope](https://www.amazon.com/gp/product/B086XC32L2) (Rainy-day cardio.)
 * [TeamMe Computer Desk](https://www.walmart.com/ip/Computer-Desk-Storage-Hutch-Pull-Out-Keyboard-Tray-Several-Bookshelves-63-4-L-x-18-1-W-46-1-H-Cabinet-Study-Workstation-Home-Office-White/445234806) (Maximum productivity.)
@@ -114,6 +114,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Late Victorian Holocausts*](https://www.goodreads.com/notes/19323009-late-victorian-holocausts/71655209-daniel-moore) by [Mike Davis](https://en.wikipedia.org/wiki/Mike_Davis_(scholar)) (50 million forgotten murders.)
 * [*A Most Holy War*](https://www.goodreads.com/notes/19261923-a-most-holy-war/71655209-daniel-moore) by [Mark Pegg](https://en.wikipedia.org/wiki/Mark_Gregory_Pegg) (Western civilization's roots.)
 * [*Reconstruction*](https://www.goodreads.com/notes/11389556-reconstruction/71655209-daniel-moore) by [Eric Foner](https://en.wikipedia.org/wiki/Eric_Foner) (Ongoing ripples of Lincoln's murder.)
+* [*Stalin*](https://www.lulu.com/shop/domenico-losurdo/stalin-history-and-critique-of-a-black-legend/paperback/product-5njw2j.html?page=1&pageSize=4) by [Domenico Losurdo](https://en.wikipedia.org/wiki/Domenico_Losurdo) (Perhaps the 20th century's most influential person.)
 * [*Vladimir Putin and Russian Statecraft*](https://www.goodreads.com/notes/19441321-vladimir-putin-and-russian-statecraft/71655209-daniel-moore) by [Allen Lynch](https://politics.virginia.edu/people/profile/al4u) (From failed state to superpower.)
  
 (For more, check out the World History Association's [list](https://www.thewha.org/awards/bentley-book-prize/#committee) of Bentley Book Prize winners.)
