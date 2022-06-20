@@ -103,6 +103,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*The Boy Crisis*](https://www.goodreads.com/notes/37854870-the-boy-crisis/71655209-daniel-moore) by [Warren Farrell](https://en.wikipedia.org/wiki/Warren_Farrell) (Many societal problems are surprisingly gendered.)
 * [*The Case Against Education*](https://www.goodreads.com/notes/52147324-the-case-against-education/71655209-daniel-moore) by [Bryan Caplan](http://www.bcaplan.com/) (We waste a third of our lives social signaling.)
+* [*The India Way*](https://www.goodreads.com/notes/54627411-the-india-way/71655209-daniel-moore) by [S. Jaishankar](https://en.wikipedia.org/wiki/S._Jaishankar) (Moving up in the world as a middle power.)
 * [*Untrue: Women, Lust, and Infidelity*](https://www.goodreads.com/notes/38907660-untrue/71655209-daniel-moore) by [Wednesday Martin](https://en.wikipedia.org/wiki/Wednesday_Martin) (Primate sexual market dynamics.)
 {%endcomment%}
 
@@ -111,7 +112,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*The Book of Islamic Dynasties*](https://www.amazon.com/gp/product/B00R6E2UNS) by [Luqman Nagy](https://www.tahapublishers.com/search.asp?brand=Luqman+Nagy) (Eurasia's past, present, and future.)
 * [*Debt: The First 5,000 Years*](https://www.goodreads.com/notes/23814811-debt---updated-and-expanded/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (How we got here.)
-* [*The India Way*](https://www.goodreads.com/notes/54627411-the-india-way/71655209-daniel-moore) by [S. Jaishankar](https://en.wikipedia.org/wiki/S._Jaishankar) (Moving up in the world as a middle power.)
 * [*Late Victorian Holocausts*](https://www.goodreads.com/notes/19323009-late-victorian-holocausts/71655209-daniel-moore) by [Mike Davis](https://en.wikipedia.org/wiki/Mike_Davis_(scholar)) (50 million forgotten murders.)
 * [*A Most Holy War*](https://www.goodreads.com/notes/19261923-a-most-holy-war/71655209-daniel-moore) by [Mark Pegg](https://en.wikipedia.org/wiki/Mark_Gregory_Pegg) (Western civilization's roots.)
 * [*Reconstruction*](https://www.goodreads.com/notes/11389556-reconstruction/71655209-daniel-moore) by [Eric Foner](https://en.wikipedia.org/wiki/Eric_Foner) (Ongoing ripples of Lincoln's murder.)
