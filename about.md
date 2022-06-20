@@ -97,15 +97,13 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Light on the Yoga Sutras of Patanjali*](https://www.goodreads.com/notes/18903748-light-on-the-yoga-sutras-of-patanjali/71655209-daniel-moore) by [B.K.S. Iyengar](https://en.wikipedia.org/wiki/B._K._S._Iyengar) (Exerting control over the mind.)
 * [*Straw Dogs*](https://www.goodreads.com/notes/29767507-straw-dogs/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (Breaking free of monotheistic orthodoxy.)
 
-{%comment%}
 {:#economics-books}
 **Economics Books**
 
-* [*The Boy Crisis*](https://www.goodreads.com/notes/37854870-the-boy-crisis/71655209-daniel-moore) by [Warren Farrell](https://en.wikipedia.org/wiki/Warren_Farrell) (Many societal problems are surprisingly gendered.)
+* [*The Boy Crisis*](https://www.goodreads.com/notes/37854870-the-boy-crisis/71655209-daniel-moore) by [Warren Farrell](https://en.wikipedia.org/wiki/Warren_Farrell) (Are men obsolete?)
 * [*The Case Against Education*](https://www.goodreads.com/notes/52147324-the-case-against-education/71655209-daniel-moore) by [Bryan Caplan](http://www.bcaplan.com/) (We waste a third of our lives social signaling.)
 * [*The India Way*](https://www.goodreads.com/notes/54627411-the-india-way/71655209-daniel-moore) by [S. Jaishankar](https://en.wikipedia.org/wiki/S._Jaishankar) (Moving up in the world as a middle power.)
 * [*Untrue: Women, Lust, and Infidelity*](https://www.goodreads.com/notes/38907660-untrue/71655209-daniel-moore) by [Wednesday Martin](https://en.wikipedia.org/wiki/Wednesday_Martin) (Primate sexual market dynamics.)
-{%endcomment%}
 
 {:#history-books}
 **History Books**
