@@ -2084,7 +2084,7 @@ const albums = [
 "Julian Cope|Fried|1984|PLeyvFUgwQIoyr8XJrf-1tOve2-yDLhD4y|A3020|Fried (album)|Julian Cope|Neo-Psychedelia;Pop Rock;Pop;Psychedelic Rock;Rock",
 "Jamila Woods|LEGACY! LEGACY!|2019|PLP412aJWAc1Ye1RumL2YMiGQgYr20eGvP|A6274|Legacy! Legacy!|Jamila Woods|Neo-Soul;R&B;Soul",
 "Lenny Kravitz|Mama Said|1991|PLlIAxrf_DKDkoaDn1pHnfuTS-C8mlCGG-|A839|Mama Said (album)|Lenny Kravitz|Rock",
-"Young Thug|Barter 6|2015|PLsReBoZpZEChFL5oACb_4IkSkvPLEyeX5|A5621|Barter 6|Young Thug|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
+"Young Thug|Barter 6|2015|PLHJWdWIy1lertqnk5xj2c3_C3aWnTvTky|A5621|Barter 6|Young Thug|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Herbie Hancock|Empyrean Isles|1964|PLGSxK-_xeRIYYIWutqFHU8Xb06JRxy0E0|A1942|Empyrean Isles|Herbie Hancock|Hard Bop;Bebop;Jazz",
 "Pearl Jam|Yield|1998|PLmzP977za2bIqF0orPwx8-9tZj5gQ0Tog|A4867|Yield (album)|Pearl Jam|Alternative Rock;Rock",
 "Pet Shop Boys|Introspective|1988|PLjIuADMrDKIaNCpm335eHENHvDr6iahZh|A1539|Introspective|Pet Shop Boys|Dance-Pop;Synthpop;Dance;Electronic;Pop",
