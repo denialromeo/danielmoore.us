@@ -1503,7 +1503,7 @@ const albums = [
 "Millie Jackson|Caught Up|1974|PLS3Vq_d-BCNDBYBms9AQom46RX9G6KkOV|A1152|Caught Up (Millie Jackson album)|Millie Jackson|Southern Soul;R&B;Soul",
 "Archie Shepp|Fire Music|1965|PLMAB89BlQ_bnCbn8QG-4o3TzsDZJI4ycz|A1958|Fire Music (Archie Shepp album)|Archie Shepp|Avant-Garde Jazz;Jazz",
 "Booker T. & The MG's|Green Onions|1962|PLtaFuj_Lauuqk9kD_neKsn63BMtoJBm1B|A1652|Green Onions|Booker T. & the M.G.'s|Rhythm & Blues;Soul;R&B",
-"Midlake|The Trials of Van Occupanther|2006|PLE9viMkChroj8xbwVrZOhff8cR_mTlabg|A3051|The Trials of Van Occupanther|Midlake|Americana;Folk Rock;Indie Folk;Contemporary Folk;Country;Folk;Rock",
+"Midlake|The Trials of Van Occupanther|2006|PLQdAPPzrDEaMA8Kjeavn1OGKSEfs6JLQG|A3051|The Trials of Van Occupanther|Midlake|Americana;Folk Rock;Indie Folk;Contemporary Folk;Country;Folk;Rock",
 "PJ Harvey|Is This Desire?|1998|PLPaztBWnatcilm6ADea6-95oGwA8Wm-DF|A1046|Is This Desire%3F|PJ Harvey|Alternative Rock;Alternative Singer/Songwriter;Rock;Singer/Songwriter",
 "John Lee Hooker|The Healer|1989|PL7gp579CMkT9T4CmzkLkEf_o9z9FrzvxB|A1546|The Healer (album)|John Lee Hooker|Electric Blues;Blues",
 "Betty Carter|The Audience with Betty Carter|1979|PLH1jMIA_kZkfGQirRtNZVsC77yQq4Bc3T|A2028|The Audience with Betty Carter|Betty Carter|Vocal Jazz;Jazz",
