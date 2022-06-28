@@ -162,7 +162,7 @@ const albums = [
 "The Original Soundtrack|Saturday Night Fever|1977|PL8Lpw39GxwbMuSZ13zF7ErQgbXsW1Sb3U|A1189|Saturday Night Fever (soundtrack)|Bee Gees|Disco;Film Soundtrack;Dance;Descriptor;Soundtracks",
 "Nine Inch Nails|The Downward Spiral|1994|PLL1ZJvW8jPWdzeDhA516qxjWVrfVPxRie|A917|The Downward Spiral|Nine Inch Nails|Industrial Rock;Industrial Music;Rock",
 "Kate Bush|Hounds of Love|1985|PLRwfesSsC3QMdOygSoEerOgftrymCTqWq|A635|Hounds of Love|Kate Bush|Art Pop;Progressive Pop;Pop",
-"Blur|Parklife|1994|PLC1KYiUBUiUjlxFJNJPk_N28sY0k5k_aq|A903|Parklife|Blur (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
+"Blur|Parklife|1994|PLyWB0TxTMmTkoTMS-v2f0PbY16D40br7u|A903|Parklife|Blur (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "Daft Punk|Homework|1997|PLSdoVPM5Wnne3Q2AxosemsThywhraJ0su|A1005|Homework (Daft Punk album)|Daft Punk|French House;Dance;Electronic;Electronic Dance Music;House",
 "Pink Floyd|The Wall|1979|PLyDzU3p8FP24syYfTXpGqTDHsQhlxwllS|A466|Pink Floyd – The Wall|Pink Floyd|Art Rock;Progressive Rock;Rock Opera;Rock",
 "Solange|A Seat at the Table|2016|PLrtAkL8_yQW9rBlvA0oaWPS0p4bU3vEfn|A5808|A Seat at the Table|Solange Knowles|Neo-Soul;R&B;Soul",
