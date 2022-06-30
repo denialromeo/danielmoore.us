@@ -128,6 +128,13 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Nickel and Dimed*](https://www.goodreads.com/notes/8893315-nickel-and-dimed/71655209-daniel-moore) by [Barbara Ehrenreich](https://en.wikipedia.org/wiki/Barbara_Ehrenreich) (Poverty is expensive.)
 * [*Revolutionary Suicide*](https://www.goodreads.com/notes/8176686-revolutionary-suicide/71655209-daniel-moore) by [Huey Newton](https://en.wikipedia.org/wiki/Huey_P._Newton) (Black Panther before it was cool.)
 
+{:#novels}
+**Novels**
+
+* [*The Long Walk*](https://www.goodreads.com/notes/28165439-the-long-walk/71655209-daniel-moore) by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) (Works as a metaphor for pretty much everything.)
+* [*Submission*](https://www.goodreads.com/notes/25349247-submission/71655209-daniel-moore) by [Michel Houellebecq](https://en.wikipedia.org/wiki/Michel_Houellebecq) (Biting satire of the "end of history".)
+* [*Things Fall Apart*](https://www.goodreads.com/notes/55468022-things-fall-apart/71655209-daniel-moore) by [Chinua Achebe](https://en.wikipedia.org/wiki/Chinua_Achebe) (Surreal reflections on Western imperialism.)
+
 {:#short-stories}
 **Short Stories**
 
