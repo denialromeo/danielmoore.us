@@ -118,6 +118,13 @@ I hope you have a good time here. Thanks for dropping by.
  
 (For more, check out the World History Association's [list](https://www.thewha.org/awards/bentley-book-prize/#committee) of Bentley Book Prize winners.)
 
+{:#historical-documents}
+**Historical Documents**
+
+* "[Dobbs v. Jackson Women's Health Organization](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf)" by [Samuel Alito](https://en.wikipedia.org/wiki/Samuel_Alito) (Prelude to Balkanization.)
+* "[Modernize and Never Seek Hegemony](https://dengxiaopingworks.wordpress.com/selected-works-vol-2-1975-1982/)" by [Deng Xiaoping](https://en.wikipedia.org/wiki/Deng_Xiaoping) (Architect of the modern world.)
+* "[On the Historical Unity of Russians and Ukrainians](http://en.kremlin.ru/events/president/news/66181)" by [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) (Tsardom reborn.)
+
 {:#autobiographies}
 **Autobiographies**
 
