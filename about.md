@@ -92,7 +92,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#economics-books}
 **Economics Books**
 
-* [*The Boy Crisis*](https://www.goodreads.com/notes/37854870-the-boy-crisis/71655209-daniel-moore) by [Warren Farrell](https://en.wikipedia.org/wiki/Warren_Farrell) (Are men obsolete?)
+* [*The Boy Crisis*](https://www.goodreads.com/notes/37854870-the-boy-crisis/71655209-daniel-moore) by [Warren Farrell](https://en.wikipedia.org/wiki/Warren_Farrell) (Are American men obsolete?)
 * [*The Case Against Education*](https://www.goodreads.com/notes/52147324-the-case-against-education/71655209-daniel-moore) by [Bryan Caplan](http://www.bcaplan.com/) (We waste a third of our lives social signaling.)
 * [*The India Way*](https://www.goodreads.com/notes/54627411-the-india-way/71655209-daniel-moore) by [Subrahmanyam Jaishankar](https://en.wikipedia.org/wiki/S._Jaishankar) (Moving up in the world as a middle power.)
 * [*Untrue: Women, Lust, and Infidelity*](https://www.goodreads.com/notes/38907660-untrue/71655209-daniel-moore) by [Wednesday Martin](https://en.wikipedia.org/wiki/Wednesday_Martin) (Primate sexual market dynamics.)
