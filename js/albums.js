@@ -1758,7 +1758,7 @@ const albums = [
 "Warren Zevon|Excitable Boy|1978|PLX66jEixZe1xFztqX6IgW_6vTuBUR-eFx|A1444|Excitable Boy|Warren Zevon|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock",
 "Freddie Gibbs & Madlib|Piñata|2014|PLkuZFJvrpJGuo245KWTO10m3G7QwmjYrr|A5409|Piñata (Freddie Gibbs and Madlib album)|Freddie Gibbs|Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Camarón|La leyenda del tiempo|1979|PLGBoKpFbXn1r-wh_72MINIiLXlTX7pNvy|A4612|La Leyenda del Tiempo|Camarón de la Isla|Flamenco Nuevo;European Folk Music;Flamenco;Folk;Hispanic Music;Regional Music;Spanish Folk Music;Spanish Music;Traditional Folk Music",
-"Caravan|In the Land of Grey and Pink|1971|PLtQHV5qbGrt5K3LlxR9sifoUsYpbUYYOd|A1349|In the Land of Grey and Pink|Caravan (band)|Canterbury Scene;Progressive Rock;Rock",
+"Caravan|In the Land of Grey and Pink|1971|PL6ogdCG3tAWiozhOMlb_gyCTvrJXHYK_Q|A1349|In the Land of Grey and Pink|Caravan (band)|Canterbury Scene;Progressive Rock;Rock",
 "The Disposable Heroes of Hiphoprisy|Hypocrisy Is the Greatest Luxury|1992|PLglUu7rOaMDuDoXSydD45BsFuTY7_BONL|A848|Hypocrisy Is the Greatest Luxury|The Disposable Heroes of Hiphoprisy|Conscious Hip Hop;Political Hip Hop;Hip Hop",
 "Tim Hecker|Ravedeath, 1972|2011|PL7ghKCRa1bE8K1OcJOstQYYuju1zPB5h9|A5150|Ravedeath, 1972|Tim Hecker|Ambient;Drone;Experimental",
 "Waylon Jennings|Honky Tonk Heroes|1973|PLEWcdWlIYquKRi3cIyQ5MY0fETW8wT2DO|A1386|Honky Tonk Heroes|Waylon Jennings|Outlaw Country;Country;Progressive Country",
