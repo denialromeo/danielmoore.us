@@ -1766,7 +1766,7 @@ const albums = [
 "Kate Bush|The Sensual World|1989|PLdB2qly-JTgC97s8iOPhmlZyHl7m1C41l|A771|The Sensual World|Kate Bush|Art Pop;Pop",
 "Chicago|The Chicago Transit Authority|1969|PLVMgMdYqIEkboVaFK7HUlFXlRqa4DPXv6|A1323|Chicago Transit Authority (album)|Chicago (band)|Jazz-Rock;Rock",
 "Amon Düül II|Phallus Dei|1969|PLF273F1770F5464DB|A2594|Phallus Dei|Amon Düül II|Krautrock;Psychedelic Rock;Experimental Rock;Progressive Rock;Rock",
-"Siouxsie and The Banshees|Juju|1981|ERROR: Suitable playlist not found|A2855|Juju (Siouxsie and the Banshees album)|Siouxsie and the Banshees|Gothic Rock;Post-Punk;Rock",
+"Siouxsie and The Banshees|Juju|1981|PLXaVYJBbTZcVvK9oeMz3NOnFrGRAkveJn|A2855|Juju (Siouxsie and the Banshees album)|Siouxsie and the Banshees|Gothic Rock;Post-Punk;Rock",
 "R.E.M.|Monster|1994|PLv8ZCmeG525arBWL_snhuH7kErL84IkuV|A907|Monster (R.E.M. album)|R.E.M.|Alternative Rock;Rock",
 "Bat for Lashes|Two Suns|2009|PLa3HlKFsnLvadGJjBekvpL5KVZ2Wovb3N|A5003|Two Suns|Bat for Lashes|Art Pop;Pop",
 "Hüsker Dü|Flip Your Wig|1985|PLdkDli7UUBCFgdYFRvlAzTlRybupAayaN|A653|Flip Your Wig|Hüsker Dü|Alternative Rock;Post-Hardcore;Punk Rock;Rock",
