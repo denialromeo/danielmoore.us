@@ -2847,7 +2847,7 @@ const albums = [
 "Emmylou Harris|Luxury Liner|1977|PLPkrGg9fqYB1eiULILw2Q-CaNf3jC6N7A|A1431|Luxury Liner (album)|Emmylou Harris|Progressive Country;Country",
 "Whipping Boy|Heartworm|1995|PLL99wqZ6M3XGA0jGYMFgE58Kr_VmhAD8-|A4829|Heartworm (album)|Whipping Boy (Irish band)|Alternative Rock;Rock",
 "Delaney & Bonnie|Delaney & Bonnie & Friends On Tour with Eric Clapton|1970|PLHsZtZLpiZPeNIMk5CHIFMkmGdiTxLcyf|A1342|The Original Delaney & Bonnie & Friends|Delaney & Bonnie|Blue Eyed Soul;Blues Rock;Pop;Rock",
-"Ultravox|Vienna|1980|PLOGCHAoJitlYLtMlu4XskGp4y6MYx7JB7|A2789|Vienna (album)|Ultravox|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock",
+"Ultravox|Vienna|1980|PLyIhNZsfiY8QpV_lu_laoizXtEn4CYkr_|A2789|Vienna (album)|Ultravox|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock",
 "Beth Gibbons and Rustin Man|Out of Season|2002|PLA0BBDA8B385637AB|A1648|Out of Season (Beth Gibbons and Rustin Man album)|Beth Gibbons|Contemporary Folk;Folk",
 "Kendrick Lamar|untitled unmastered.|2016|PLFvR2bZRQluxq7ecqixMvUxa__uHcCe5H|A5757|Untitled Unmastered|Kendrick Lamar|Conscious Hip Hop;Jazz Rap;Hip Hop",
 "The 1975|A Brief Inquiry into Online Relationships|2018|PLLDnpKXK-5LCPKN3iQntd6JgTsP1XNlZe|A6065|A Brief Inquiry into Online Relationships|The 1975|Art Pop;Pop",
