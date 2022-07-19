@@ -114,6 +114,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Late Victorian Holocausts*](https://www.goodreads.com/notes/19323009-late-victorian-holocausts/71655209-daniel-moore) by [Mike Davis](https://en.wikipedia.org/wiki/Mike_Davis_(scholar)) (50 million forgotten murders.)
 * [*A Most Holy War*](https://www.goodreads.com/notes/19261923-a-most-holy-war/71655209-daniel-moore) by [Mark Pegg](https://en.wikipedia.org/wiki/Mark_Gregory_Pegg) (Western civilization's roots.)
 * [*Reconstruction*](https://www.goodreads.com/notes/11389556-reconstruction/71655209-daniel-moore) by [Eric Foner](https://en.wikipedia.org/wiki/Eric_Foner) (Ongoing ripples of Lincoln's murder.)
+* [*Settlers*](https://www.goodreads.com/notes/55928109-settlers/71655209-daniel-moore) by [J. Sakai](https://blog.pmpress.org/authors-artists-comrades/j-sakai/) (Actual American history.)
 * [*Stalin*](https://www.lulu.com/shop/domenico-losurdo/stalin-history-and-critique-of-a-black-legend/paperback/product-5njw2j.html?page=1&pageSize=4) by [Domenico Losurdo](https://en.wikipedia.org/wiki/Domenico_Losurdo) (Perhaps the 20th century's most influential person.)
 * [*Vladimir Putin and Russian Statecraft*](https://www.goodreads.com/notes/19441321-vladimir-putin-and-russian-statecraft/71655209-daniel-moore) by [Allen Lynch](https://politics.virginia.edu/people/profile/al4u) (From failed state to superpower.)
  
