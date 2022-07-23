@@ -2952,7 +2952,7 @@ const albums = [
 "Malcolm McLaren|Duck Rock|1983|PLlw1zJ0BjQ1xThx1n261QnoWpTF57h1l8|A591|Duck Rock|Malcolm McLaren|New Wave;Rock",
 "Kid Creole and The Coconuts|Wise Guy/Tropical Gangsters|1982|PL7wwNOHcNbN4cel7hBVh86lMNkM7jFacZ|A1486|Tropical Gangsters|Kid Creole and the Coconuts|Disco;Pop;Dance",
 "Lonnie Johnson with Elmer Snowden|Blues and Ballads|1960|PLYjpLpF6KffuXxDnbfy1B34cHr83pa0rB|A1274|Blues & Ballads|Lonnie Johnson (musician)|Acoustic Blues;Blues",
-"Steve Roach|Dreamtime Return|1988|PLjq7URV96RRHF3rwC3CBAMF3IBfPezbBu|A2895|Dreamtime Return|Steve Roach (musician)|Tribal Ambient;Ambient",
+"Steve Roach|Dreamtime Return|1988|ERROR: Suitable playlist not found|A2895|Dreamtime Return|Steve Roach (musician)|Tribal Ambient;Ambient",
 "Neu!|Neu! 2|1973|PLX98xw6azUoYbfAqlO6b1Jen9m2umYLOt|A2667|Neu! 2|Neu!|Krautrock;Experimental Rock;Progressive Rock;Rock",
 "Planxty|The Well Below the Valley|1973|PLJrzBJAX5z4buR1ceyZBaC-cnd1f_uhEp|A2669|The Well Below the Valley (album)|Planxty|Irish Folk Music;Celtic Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music",
 "Erykah Badu|New Amerykah, Pt. 2 (Return of the Ankh)|2010|PL77zt3usW6J0uk3zyDPUVfcnChHaXN2GD|A5064|New Amerykah Part Two (Return of the Ankh)|Erykah Badu|Neo-Soul;R&B;Soul",
