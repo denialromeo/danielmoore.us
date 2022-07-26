@@ -2384,7 +2384,7 @@ const albums = [
 "Mötley Crüe|Shout at the Devil|1983|PLgcMZQdQFPtjThJnYOgaTt9p2lEVDgmjm|A2814|Shout at the Devil|Mötley Crüe|Glam Metal;Heavy Metal;Hard Rock;Metal;Rock",
 "Tom Petty and the Heartbreakers|Into the Great Wide Open|1991|PLJDCGMuqYpo3uVYkML85TRJKsLnCX6YXo|A3376|Into the Great Wide Open|Tom Petty|Heartland Rock;Pop Rock;Pop;Rock",
 "Power Trip|Nightmare Logic|2017|PL9hYR5qRkc2yZKwmwDGNwD9d5r2_8bYtu|A5964|Nightmare Logic|Power Trip (band)|Thrash Metal;Metal;Rock",
-"Madonna|Music|2000|PLKYbts21O5q3jqXot3Bflder4wiEH6ciX|A1090|Music (Madonna album)|Madonna (entertainer)|Electropop;Electronic;Pop",
+"Madonna|Music|2000|PLvHf4SnA7f8u3E2OqQTRPVnacLZNC0_fB|A1090|Music (Madonna album)|Madonna (entertainer)|Electropop;Electronic;Pop",
 "Kate Tempest|Let Them Eat Chaos|2016|PLLZ-098V73ioe_SlDyxhbZFzNf0Vr-exC|A5755|Let Them Eat Chaos|Kate Tempest|Conscious Hip Hop;Political Hip Hop;UK Hip Hop;Hip Hop",
 "Social Distortion|White Light, White Heat, White Trash|1996|PLUZ_GglAenGRXw7yqxTnQH3hk48eL6pHD|A3635|White Light, White Heat, White Trash|Social Distortion|Punk Rock;Rock",
 "Tinariwen|Aman Iman: Water is Life|2007|PLA05B55541ECB8E2F|A4279|Aman Iman|Tinariwen|Tishoumaren;African Music;Berber Music;North African Music;Regional Music;Tuareg Music",
