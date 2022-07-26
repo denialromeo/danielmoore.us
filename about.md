@@ -88,7 +88,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Bogleheads' Guide to Investing*](https://www.goodreads.com/notes/22847559-the-bogleheads-guide-to-investing/71655209-daniel-moore) by [Mel Lindauer](https://www.bogleheads.org/wiki/Mel_Lindauer#Archive) (You are not smarter than the market.)
 * [*Logical Chess*](https://archive.org/details/logicalchess_movebymove) by [Irving Chenev](https://en.wikipedia.org/wiki/Irving_Chernev) (Teaches the consequences of small changes.)
 * [*The Photographer's Eye*](https://www.goodreads.com/notes/57734657-the-photographer-s-eye-digitally-remastered-10th-anniversary-edition/71655209-daniel-moore) by [Michael Freeman](https://en.wikipedia.org/wiki/Michael_Freeman_(photographer)) (Our civilization is starving for new images.)
-* [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Mens sana in corpore sano.)
+* [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Diet is half the battle.)
 
 {:#economics-books}
 **Economics Books**
