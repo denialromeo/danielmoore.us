@@ -51,6 +51,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#desktop-software}
 **Desktop Software**
 
+* "[AnyDVD HD](https://www.redfox.bz/anydvdhd.html)" by RedFox (Strips DVDs and Blu-rays of encryption for PC use.)
 * "[LibreOffice](https://www.libreoffice.org/)" by The Document Foundation (Open-source Microsoft Office replacement.)
 * "[NoVote](https://chrome.google.com/webstore/detail/novote/kepihiliocoofjjbgmcmalnjmeclpnga?hl=en)" by Dan Lovelace (Makes Reddit usable.)
 * "[OBS Studio](https://obsproject.com/)" by Hugh Bailey (Screen recording tool.)
@@ -156,6 +157,15 @@ I hope you have a good time here. Thanks for dropping by.
 * "[A Full Life](https://12ft.io/proxy?q=https://www.technologyreview.com/2019/04/24/135741/a-full-life/)" by [Paolo Bacigalupi](https://windupstories.com/) (Enjoy it while you can.)
 * "[Golden](https://nickbostrom.com/fable/retriever.html)" by [Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom) (Transhumanists beware.)
 * "[A Hunger Artist](https://www.kafka-online.info/a-hunger-artist.html)" by [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka) (The best gifts find the fewest admirers.)
+
+{:#Movies}
+**Movies**
+
+* [*Get Out*](https://www.amazon.com/dp/B06Y1H48K7) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Every non-white can relate.)
+* [*The Green Knight*](https://www.showtime.com/movie/3492182) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (Treats history on its own terms without modern bias.)
+* [*Squid Game*](https://www.netflix.com/title/81040344) by [Hwang Dong-hyuk](https://en.wikipedia.org/wiki/Hwang_Dong-hyuk) (Fiction today, reality tomorrow.)
+* [*Turning Red*](https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m) by [Domee Shi](https://en.wikipedia.org/wiki/Domee_Shi) (Written by women for women.)
+* [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
 
 {:#comic-books}
 **Comic Books**
