@@ -153,7 +153,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Short Stories**
 
 * "[Coding Machines](https://www.teamten.com/lawrence/writings/coding-machines/#coding_machines)" by [Lawrence Kesteloot](https://www.teamten.com/lawrence/) (Debugging meets cosmic horror.)
-* "[The Cold Equations](http://www.spacewesterns.com/articles/105/#content)" by [Tom Godwin](https://en.wikipedia.org/wiki/Tom_Godwin) (Time and tide wait for no man.)
+* "[The Cold Equations](http://www.spacewesterns.com/articles/105/#content)" by [Tom Godwin](https://en.wikipedia.org/wiki/Tom_Godwin) (To deny reality is to court death.)
 * "[Frost and Fire](http://web.archive.org/web/20170918083727/https://charlton6.weebly.com/uploads/1/0/6/2/10621939/frost_and_fire.pdf)" by [Ray Bradbury](https://en.wikipedia.org/wiki/Ray_Bradbury) (Man that is born of a woman is of few days.)
 * "[A Full Life](https://12ft.io/proxy?q=https://www.technologyreview.com/2019/04/24/135741/a-full-life/)" by [Paolo Bacigalupi](https://windupstories.com/) (Enjoy it while you can.)
 * "[Golden](https://nickbostrom.com/fable/retriever.html)" by [Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom) (Transhumanists beware.)
