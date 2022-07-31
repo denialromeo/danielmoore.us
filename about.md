@@ -165,7 +165,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Get Out*](https://www.amazon.com/dp/B081KRBHPC) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Every non-white can relate.)
 * [*The Green Knight*](https://www.showtime.com/movie/3492182) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (Treats history on its own terms without modern bias.)
-* [*Nope*](https://www.amazon.com/gp/product/B0B75YBMDK) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Resurrects the classic blockbuster for a new America.)
+* [*Nope*](https://www.amazon.com/gp/product/B0B75YBMDK) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Resurrects and deconstructs the classic blockbuster for a new America.)
 * [*Oldboy*](https://www.amazon.com/gp/product/B08LNLCL35) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (Probably my favorite film.)
 * [*Squid Game*](https://www.netflix.com/title/81040344) by [Hwang Dong-hyuk](https://en.wikipedia.org/wiki/Hwang_Dong-hyuk) (Thinly-veiled allegory for corporate life.)
 * [*Synecdoche, New York*](https://www.amazon.com/dp/B001P3SA8A) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
