@@ -1,34 +1,40 @@
 {
 	"pages": [
 		{
-			"author": "Pierre Levy",
-			"title": "Sandcastle",
+			"author": "Scott McCloud",
+			"title": "Understanding Comics",
 			"amazon": "",
-			"link": "assets/img/comics/sandcastle2/1.png"
+			"link": "assets/img/comics/understanding-comics/01.jpg"
 		},
 		{
-			"author": "Pierre Levy",
-			"title": "Sandcastle",
+			"author": "Scott McCloud",
+			"title": "Understanding Comics",
 			"amazon": "",
-			"link": "assets/img/comics/sandcastle2/2.png"
+			"link": "assets/img/comics/understanding-comics/02.jpg"
 		},
 		{
-			"author": "Pierre Levy",
-			"title": "Sandcastle",
+			"author": "Scott McCloud",
+			"title": "Understanding Comics",
 			"amazon": "",
-			"link": "assets/img/comics/sandcastle2/3.png"
+			"link": "assets/img/comics/understanding-comics/03.jpg"
 		},
 		{
-			"author": "Pierre Levy",
-			"title": "Sandcastle",
+			"author": "Scott McCloud",
+			"title": "Understanding Comics",
 			"amazon": "",
-			"link": "assets/img/comics/sandcastle2/4.png"
+			"link": "assets/img/comics/understanding-comics/04.jpg"
 		},
 		{
-			"author": "Pierre Levy",
-			"title": "Sandcastle",
+			"author": "Scott McCloud",
+			"title": "Understanding Comics",
 			"amazon": "",
-			"link": "assets/img/comics/sandcastle2/5.png"
+			"link": "assets/img/comics/understanding-comics/05.jpg"
+		},
+		{
+			"author": "Scott McCloud",
+			"title": "Understanding Comics",
+			"amazon": "",
+			"link": "assets/img/comics/understanding-comics/06.jpg"
 		}
 	]
 }

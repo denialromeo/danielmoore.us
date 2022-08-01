@@ -280,6 +280,15 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/fun-home/3.jpg" itemprop="contentUrl" data-size="817x1321"><img src="/assets/img/comics/fun-home/3.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
 </div>
 
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/understanding-comics/01.jpg" itemprop="contentUrl" data-size="955x1445"><img style="border: 1px solid black;" src="/assets/img/comics/understanding-comics/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Understanding Comics</i> by Scott McCloud</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/understanding-comics/02.jpg" itemprop="contentUrl" data-size="934x1421"><img src="/assets/img/comics/understanding-comics/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/understanding-comics/03.jpg" itemprop="contentUrl" data-size="986x1432"><img src="/assets/img/comics/understanding-comics/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/understanding-comics/04.jpg" itemprop="contentUrl" data-size="998x1435"><img src="/assets/img/comics/understanding-comics/04.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/understanding-comics/05.jpg" itemprop="contentUrl" data-size="988x1451"><img src="/assets/img/comics/understanding-comics/05.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/understanding-comics/06.jpg" itemprop="contentUrl" data-size="934x1403"><img src="/assets/img/comics/understanding-comics/06.jpg"/></a></figcaption></figure>
+</div>
+
 <div id="clear"></div>
 
 <p class="photoswipe-caption-comic"><i>Click the pictures!</i></p>
