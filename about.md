@@ -42,6 +42,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Consumer Goods**
 
 * [AccuCheck Digital Body Weight Scale](https://www.amazon.com/gp/product/B084SFRSBD) (Measure daily to avoid surprises.)
+* [Alera High Performance Task Chair](https://www.amazon.com/gp/product/B01IIGMMW6) (My spine's best friend.)
 * [Bowflex SelectTech Adjustable Dumbbells](https://www.amazon.com/gp/product/B001ARYU58) (Doubles as a conversation starter.)
 * [iBUYPOWER Pre-Built Gaming PC](https://www.ibuypower.com/gaming-pcs) (For work and play.)
 * [Redify Jump Rope](https://www.amazon.com/gp/product/B086XC32L2) (Rainy-day cardio.)
