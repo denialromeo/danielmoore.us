@@ -41,9 +41,11 @@ I hope you have a good time here. Thanks for dropping by.
 {:#consumer-goods}
 **Consumer Goods**
 
+* [AccuCheck Digital Body Weight Scale](https://www.amazon.com/gp/product/B084SFRSBD) (Measure daily to avoid surprises.)
 * [Bowflex SelectTech Adjustable Dumbbells](https://www.amazon.com/gp/product/B001ARYU58) (Doubles as a conversation starter.)
 * [iBUYPOWER Pre-Built Gaming PC](https://www.ibuypower.com/gaming-pcs) (For work and play.)
 * [Redify Jump Rope](https://www.amazon.com/gp/product/B086XC32L2) (Rainy-day cardio.)
+* [StriveZen 2-Month View Wall Calendar](https://www.amazon.com/Calendar-2019-2020-StriveZen-Monthly-Vertical/dp/B07T6C13JD) (Never again ask - "That was today?")
 * [TeamMe Computer Desk](https://www.walmart.com/ip/Computer-Desk-Storage-Hutch-Pull-Out-Keyboard-Tray-Several-Bookshelves-63-4-L-x-18-1-W-46-1-H-Cabinet-Study-Workstation-Home-Office-White/445234806) (Maximum productivity.)
 * [Vive Wrist Brace](https://www.amazon.com/gp/product/B077BPYK5S/) (Type for ten hours a day.)
 * [Wihool External Blu-ray Drive](https://www.amazon.com/gp/product/B07TS5SHHY) (Allows Blu-ray use on PC.)
