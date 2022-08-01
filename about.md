@@ -94,6 +94,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Logical Chess*](https://archive.org/details/logicalchess_movebymove) by [Irving Chenev](https://en.wikipedia.org/wiki/Irving_Chernev) (Teaches the consequences of small changes.)
 * [*The Photographer's Eye*](https://www.goodreads.com/notes/57734657-the-photographer-s-eye-digitally-remastered-10th-anniversary-edition/71655209-daniel-moore) by [Michael Freeman](https://en.wikipedia.org/wiki/Michael_Freeman_(photographer)) (Our civilization is starving for new images.)
 * [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Diet is half the battle.)
+* [*Starting Strength*](https://www.goodreads.com/notes/15746753-starting-strength/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Form is the other half. Pair with the [DVD](https://www.amazon.com/dp/B001U9FDP2) for best results.)
 
 {:#economics-books}
 **Economics Books**
