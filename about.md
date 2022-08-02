@@ -173,6 +173,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Green Knight*](https://www.showtime.com/movie/3492182) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (Treats history on its own terms without modern bias.)
 * [*Nope*](https://www.amazon.com/gp/product/B0B75YBMDK) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Resurrects and deconstructs the classic blockbuster.)
 * [*Oldboy*](https://www.amazon.com/gp/product/B08LNLCL35) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (Probably my favorite film.)
+* [*Princess Mononoke*](https://www.hbomax.com/feature/urn:hbo:feature:GXrHUCwY3E6u9KwEAAAAO) by [Hayao Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (All wars are wars of religion.)
 * [*Squid Game*](https://www.netflix.com/title/81040344) by [Hwang Dong-hyuk](https://en.wikipedia.org/wiki/Hwang_Dong-hyuk) (Thinly-veiled allegory for corporate life.)
 * [*Synecdoche, New York*](https://www.amazon.com/dp/B001P3SA8A) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
 * [*Turning Red*](https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m) by [Domee Shi](https://en.wikipedia.org/wiki/Domee_Shi) (Written by women for women.)
