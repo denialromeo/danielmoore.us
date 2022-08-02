@@ -931,7 +931,7 @@ const albums = [
 "Frank Sinatra|Frank Sinatra Sings for Only the Lonely|1958|PLdqqv4DQh82vefS8RY37yzn6oU2NGFUeN|A1852|Frank Sinatra Sings for Only the Lonely|Frank Sinatra|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "The Kinks|Arthur (Or the Decline and Fall of the British Empire)|1969|PLC99488D21ADC54CF|A1125|Arthur (Or the Decline and Fall of the British Empire)|The Kinks|Pop Rock;Pop;Rock",
 "Guns N' Roses|Use Your Illusion II|1991|PL4J5vKEAoxN14WAHr_kIcpVBcsn24oa3m|A824|Use Your Illusion II|Guns N' Roses|Hard Rock;Rock",
-"King Krule|The Ooz|2017|PL6HCMlT-Ok733nu-Lm3jKZ6eW3q9TL-gw|A5932|The Ooz|King Krule|Art Rock;Rock",
+"King Krule|The Ooz|2017|PLZqsyBiYZFQ0JHn0umzaCvHhZ1aWw-_dE|A5932|The Ooz|King Krule|Art Rock;Rock",
 "Yes|Fragile|1971|PLVOYDgXAn1KJJ0aqjnAIxd_P1rSFDdxTf|A238|Fragile (Yes album)|Yes (band)|Progressive Rock;Rock",
 "Otis Redding|Complete & Unbelievable: The Otis Redding Dictionary of Soul|1966|PLn1E4mv4x-I4oNQ0qlroeWXxa4lDD4Lj9|A76|Complete & Unbelievable: The Otis Redding Dictionary of Soul|Otis Redding|Deep Soul;R&B;Soul;Southern Soul",
 "The Replacements|Pleased to Meet Me|1987|PLNitVGYNCIxFeMu3koeZD6kmyXX4kv76C|A700|Pleased to Meet Me|The Replacements (band)|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
