@@ -172,6 +172,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Get Out*](https://www.amazon.com/dp/B081KRBHPC) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Every non-white can relate.)
 * [*The Green Knight*](https://www.showtime.com/movie/3492182) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (Treats history on its own terms without modern bias.)
+* [*Ikiru*](https://play.hbomax.com/page/urn:hbo:page:GXmlRtQZGhcNVoAEAAAMj:type:feature) by [Akira Kurosawa](https://en.wikipedia.org/wiki/Akira_Kurosawa) (Life is brief.)
 * [*Nope*](https://www.amazon.com/gp/product/B0B75YBMDK) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Resurrects and deconstructs the classic blockbuster.)
 * [*Oldboy*](https://www.amazon.com/gp/product/B08LNLCL35) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (Probably my favorite film.)
 * [*Princess Mononoke*](https://www.hbomax.com/feature/urn:hbo:feature:GXrHUCwY3E6u9KwEAAAAO) by [Hayao Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (Man's war on nature is suicidal.)
