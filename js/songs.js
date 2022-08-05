@@ -4516,7 +4516,7 @@ const songs = [
 "The Rolling Stones|Doo Doo Doo Doo Doo (Heartbreaker)|1973|sqUiWpGGCmI|The Rolling Stones|S9338|Funk Rock;Hard Rock;Rock",
 "Sixpence None the Richer|Kiss Me|1997|8N-qO3sPMjc|Sixpence None the Richer|S8436|Pop Rock;Pop;Rock",
 "Taylor Swift|We Are Never Ever Getting Back Together|2012|WA4iX5D9Z64|Taylor Swift|S5041|Teen Pop;Pop",
-"Diamond Head|Am I Evil?|1980|TVid_fLzN5g|Diamond Head (English band)|S10585|NWOBHM;Heavy Metal;Metal;Rock",
+"Diamond Head|Am I Evil?|1980|GnupfNwf62M|Diamond Head (English band)|S10585|NWOBHM;Heavy Metal;Metal;Rock",
 "Soda Stereo|Persiana Americana|1986|ZHj7s_pAdfY|Soda Stereo|S8477|New Wave;Pop Rock;Pop;Rock",
 "Better Oblivion Community Center|Dylan Thomas|2019|UXzReYLuavg|Better Oblivion Community Center|S16738|Indie Folk;Indie Rock;Singer/Songwriter;Alternative Rock;Contemporary Folk;Folk;Rock",
 "10cc|The Things We Do for Love|1976|P0rf3_viTxk|10cc|S671|Pop Rock;Pop;Rock",
