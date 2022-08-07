@@ -180,7 +180,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Synecdoche, New York*](https://www.amazon.com/dp/B001P3SA8A) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
 * [*Turning Red*](https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m) by [Domee Shi](https://en.wikipedia.org/wiki/Domee_Shi) (Written by women for women.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
-* [*The Wind Rises*](https://play.hbomax.com/page/urn:hbo:page:GXsQzAw8HPITCwgEAAAAM:type:feature) by [Hayao Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (Life is a cursed fever dream.)
+* [*The Wind Rises*](https://play.hbomax.com/page/urn:hbo:page:GXsQzAw8HPITCwgEAAAAM:type:feature) by [Hayao Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
 
 {:#comic-books}
 **Comic Books**
