@@ -173,6 +173,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Get Out*](https://www.amazon.com/dp/B081KRBHPC) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Every non-white can relate.)
 * [*The Green Knight*](https://www.showtime.com/movie/3492182) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (Treats history on its own terms without modern bias.)
+* [*Kaze Tachinu*](https://play.hbomax.com/page/urn:hbo:page:GXsQzAw8HPITCwgEAAAAM:type:feature) by [Hayao Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
 * [*Ikiru*](https://play.hbomax.com/page/urn:hbo:page:GXmlRtQZGhcNVoAEAAAMj:type:feature) by [Akira Kurosawa](https://en.wikipedia.org/wiki/Akira_Kurosawa) (The world is a museum of passion projects.)
 * [*Nope*](https://www.amazon.com/gp/product/B0B75YBMDK) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Resurrects and deconstructs the classic blockbuster.)
 * [*Oldboy*](https://www.amazon.com/gp/product/B08LNLCL35) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (Probably my favorite film.)
@@ -180,7 +181,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Synecdoche, New York*](https://www.amazon.com/dp/B001P3SA8A) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
 * [*Turning Red*](https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m) by [Domee Shi](https://en.wikipedia.org/wiki/Domee_Shi) (Written by women for women.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
-* [*The Wind Rises*](https://play.hbomax.com/page/urn:hbo:page:GXsQzAw8HPITCwgEAAAAM:type:feature) by [Hayao Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
 
 {:#comic-books}
 **Comic Books**
