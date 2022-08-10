@@ -45,7 +45,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [Alera High Performance Task Chair](https://www.amazon.com/gp/product/B01IIGMMW6) (My spine's best friend.)
 * [Asus VS228H-P 21.5" 1080p Monitor](https://www.amazon.com/gp/product/B005BZNDOO) (Ideal resolution and size for extended use.)
 * [Bowflex SelectTech Adjustable Dumbbells](https://www.amazon.com/gp/product/B001ARYU58) (Doubles as a conversation starter.)
-* [Gun Oil Lubricant](https://www.gunoil.com/shop) (Important part of a healthy life.)
+* [Gun Oil Lubricant](https://www.gunoil.com/gun-oil-h2o) (Important part of a healthy life.)
 * [iBUYPOWER Pre-Built Gaming PC](https://www.ibuypower.com/gaming-pcs) (For work and play.)
 * [Redify Jump Rope](https://www.amazon.com/gp/product/B086XC32L2) (Rainy-day cardio.)
 * [StriveZen 2-Month View Wall Calendar](https://www.amazon.com/Calendar-2019-2020-StriveZen-Monthly-Vertical/dp/B07T6C13JD) (Never again ask - "That was today?")
