@@ -173,6 +173,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#Movies}
 **Movies**
 
+* [*The Battle at Lake Changjin*](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=battle+at+lake+changjin) by [Wu Jing](https://en.wikipedia.org/wiki/Wu_Jing_(actor)) (Counter-propaganda done right.)
 * [*Get Out*](https://www.amazon.com/dp/B081KRBHPC) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Every non-white can relate.)
 * [*The Green Knight*](https://www.showtime.com/movie/3492182) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (Treats history on its own terms without modern bias.)
 * [*Ikiru*](https://play.hbomax.com/page/urn:hbo:page:GXmlRtQZGhcNVoAEAAAMj:type:feature) by [Akira Kurosawa](https://en.wikipedia.org/wiki/Akira_Kurosawa) (The world is a museum of passion projects.)
