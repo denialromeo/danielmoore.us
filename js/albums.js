@@ -1112,7 +1112,7 @@ const albums = [
 "Fela and Africa 70|Zombie|1976|PLSHsLSfbqpJLiKJ1aYad3NzbtzFDW03mx|A2685|Zombie (album)|Fela Kuti|Afrobeat;African Music;Funk;R&B;Regional Music;West African Music;Yoruba Music",
 "David Bowie|Diamond Dogs|1974|PL6ogdCG3tAWg4_gxlP1AO0oMqrVYhrI6a|A322|Diamond Dogs|David Bowie|Art Rock;Glam Rock;Pop Rock;Pop;Rock",
 "Faith No More|The Real Thing|1989|PLIKpCFu8Fpmnu7TMYxrlMxREav_wcpwKV|A774|The Real Thing (Faith No More album)|Faith No More|Alternative Rock;Funk Metal;Alternative Metal;Metal;Rock",
-"Noname|Room 25|2018|PLB_sAr_vJ5noXZ98PhEP4OQzbzKsuymMD|A6043|Room 25|Noname (rapper)|Conscious Hip Hop;Jazz Rap;Hip Hop",
+"Noname|Room 25|2018|PLsOFiXpYvFHyuI9kMZkkTatRsPimOLrzv|A6043|Room 25|Noname (rapper)|Conscious Hip Hop;Jazz Rap;Hip Hop",
 "Bob Marley and The Wailers|Soul Revolution/African Herbsman|1971|PL436C03E8604B46A7|A1137|Soul Revolution|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Van Morrison|Veedon Fleece|1974|PLzvx7Yj8xTWfpso7lJFfE7CwRGEZcfXr_|A323|Veedon Fleece|Van Morrison|Folk Rock;Singer/Songwriter;Rock",
 "The Rapture|Echoes|2003|PL_v3Ym4J9nFaKYlNdERlIG0gNySY-WY4C|A4002|Echoes (The Rapture album)|The Rapture (band)|Dance-Punk;Post-Punk;Rock",
