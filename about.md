@@ -173,7 +173,6 @@ I hope you have a good time here. Thanks for dropping by.
 {:#Movies}
 **Movies**
 
-* [*The Battle at Lake Changjin*](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=battle+at+lake+changjin) by [Wu Jing](https://en.wikipedia.org/wiki/Wu_Jing_(actor)) (Counter-propaganda done right.)
 * [*Get Out*](https://www.amazon.com/dp/B081KRBHPC) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Every non-white can relate.)
 * [*The Green Knight*](https://www.showtime.com/movie/3492182) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (Treats history on its own terms without modern bias.)
 * [*Ikiru*](https://play.hbomax.com/page/urn:hbo:page:GXmlRtQZGhcNVoAEAAAMj:type:feature) by [Akira Kurosawa](https://en.wikipedia.org/wiki/Akira_Kurosawa) (The world is a museum of passion projects.)
@@ -185,6 +184,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Turning Red*](https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m) by [Domee Shi](https://en.wikipedia.org/wiki/Domee_Shi) (Written by women for women.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
 * [*Your Pretty Face Is Going to Hell*](https://www.hulu.com/series/your-pretty-face-is-going-to-hell-ee0a6a50-84b7-420b-bc5e-0b724630fef4) by [Casper Kelly](https://en.wikipedia.org/wiki/Casper_Kelly) (Masterclass in budget film-making.)
+* [*Zhang Jin Hu*](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=battle+at+lake+changjin) by [Wu Jing](https://en.wikipedia.org/wiki/Wu_Jing_(actor)) (Counter-propaganda done right.)
 
 {:#comic-books}
 **Comic Books**
