@@ -184,6 +184,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Synecdoche, New York*](https://www.amazon.com/dp/B001P3SA8A) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
 * [*Turning Red*](https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m) by [Domee Shi](https://en.wikipedia.org/wiki/Domee_Shi) (Written by women for women.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
+* [*Your Pretty Face Is Going to Hell*](https://www.hulu.com/series/your-pretty-face-is-going-to-hell-ee0a6a50-84b7-420b-bc5e-0b724630fef4) by [Casper Kelly](https://en.wikipedia.org/wiki/Casper_Kelly) (Masterclass in budget film-making.)
 
 {:#comic-books}
 **Comic Books**
