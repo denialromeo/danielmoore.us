@@ -774,7 +774,7 @@ const songs = [
 "Nick Cave|The Mercy Seat|1988|Ahr4KFl79WI|Nick Cave and the Bad Seeds|S302|Gothic Rock;Post-Punk;Rock",
 "Radiohead|Pyramid Song|2001|3M_Gg1xAHE4|Radiohead|S2213|Art Rock;Rock",
 "The Weeknd|Can't Feel My Face|2015|KEI4qSrkPAs|The Weeknd|S9854|Alternative R&B;Dance-Pop;Contemporary R&B;Dance;Pop;R&B",
-"Dead Kennedys|Holiday in Cambodia|1980|Qr6NOsluHYg|Dead Kennedys|S565|Hardcore Punk;Punk Rock;Rock",
+"Dead Kennedys|Holiday in Cambodia|1980|nrm2B0lhvYc|Dead Kennedys|S565|Hardcore Punk;Punk Rock;Rock",
 "Peter Gabriel|Solsbury Hill|1977|_OO2PuGz-H8|Peter Gabriel|S1789|Folk Pop;Pop Rock;Progressive Pop;Contemporary Folk;Folk;Pop;Rock",
 "Madonna|Borderline|1983|rSaC-YbSDpo|Madonna (entertainer)|S429|Dance-Pop;Dance;Pop",
 "Elton John|Goodbye Yellow Brick Road|1973|RZ3Bb4UsXhU?start=10|Elton John|S773|Piano Rock;Progressive Pop;Pop;Pop Rock;Rock",
