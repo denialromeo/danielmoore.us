@@ -76,7 +76,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[The Stack Overflow Age](https://www.joelonsoftware.com/2018/04/06/the-stack-overflow-age/)" by Joel Spolsky (Recollections of the Internet gold rush.)
 * "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Amazon's secret to world domination.)
 * "[Story Structure 101](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)" by Dan Harmon (Narrative-writing for humans.)
-* "[The Taiwan Strait Joint Exercise](https://asiatimes.com/2022/08/chinas-drills-to-change-us-military-assumptions/#primary)" by Chen Feng (How the next big war will likely start.)
+* "[The Taiwan Strait Joint Exercise](https://www.guancha.cn/ChenFeng3/2022_08_18_654142_s.shtml)" by Chen Feng (How the next big war will likely start.)
 * "[Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)" by Peter Norvig (No royal road to geometry.)
 * "[What if You Only Invested at Market Peaks?](https://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/#main)" by Ben Carlson (Slow and steady.)
 
