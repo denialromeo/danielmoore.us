@@ -2548,7 +2548,7 @@ const albums = [
 "En Vogue|Funky Divas|1992|PL8V4x4N2PkXLtJ9RY60pZ1Tj6c6zxmhQV|A1572|Funky Divas|En Vogue|Contemporary R&B;R&B",
 "Wayne Shorter feat. Milton Nascimento|Native Dancer|1975|PLQSGKwfvWpEEPrVMzJTQZ12o0gJIO6uUM|A2536|Native Dancer (album)|Wayne Shorter|Jazz Fusion;Jazz",
 "Usher|Confessions|2004|PLKlvrb2Pn2nizidoKco7J9xK5ivahnrOu|A4976|Confessions (Usher album)|Usher (musician)|Contemporary R&B;Pop;R&B",
-"Van Morrison|No Guru, No Method, No Teacher|1986|PLScJXDrbHM_UDRwec4u9YRRK_jn6uOnEl|A1510|No Guru, No Method, No Teacher|Van Morrison|Pop Rock;Singer/Songwriter;Pop;Rock",
+"Van Morrison|No Guru, No Method, No Teacher|1986|PLzGotn8LeP0e6Y7cE51fgWH7of9INyXpN|A1510|No Guru, No Method, No Teacher|Van Morrison|Pop Rock;Singer/Songwriter;Pop;Rock",
 "Art Ensemble of Chicago|Nice Guys|1979|PLyHn3f7-9IUIb-sO843mcdzS4QXqyRBPR|A4611|Nice Guys (album)|Art Ensemble of Chicago|Avant-Garde Jazz;Jazz",
 "k.d. Lang|Absolute Torch and Twang|1989|PLpu25KiBKmMQK4_qa6EGH1b-_SFZRJjNC|A3258|Absolute Torch and Twang|K.d. lang|Country",
 "Fucked Up|The Chemistry of Common Life|2008|PLqrDYLvMD54x2ykw_GJfT62krI8WyZ6eG|A4378|The Chemistry of Common Life|Fucked Up|Hardcore Punk;Post-Hardcore;Punk Rock;Rock",
