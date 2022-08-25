@@ -151,7 +151,7 @@ const albums = [
 "Elton John|Goodbye Yellow Brick Road|1973|PLUyhoB9KsCSIAP4zZ4ie2r-MkkEfyKphQ|A285|Goodbye Yellow Brick Road|Elton John|Piano Rock;Pop;Pop Rock;Rock",
 "Air|Moon Safari|1998|PLyGF4pvTwW4_GYk3jSZy4IGXT7hW1PkdB|A1021|Moon Safari|Air (band)|Ambient Pop;Downtempo;Electronic;Pop",
 "Vampire Weekend|Modern Vampires of the City|2013|PLpSMVsIRq-N9T7IXvGJYZc93CUYE31VtQ|A5379|Modern Vampires of the City|Vampire Weekend|Indie Pop;Pop",
-"Pretenders|Pretenders|1980|PLBokfEObLPHAU9IejPCwVkJs0E-Y8mkhc|A485|Pretenders (album)|The Pretenders|New Wave;Rock",
+"Pretenders|Pretenders|1980|PLkd4HdEojDiWV3vGJ_aPrYH0eFS0RSP__|A485|Pretenders (album)|The Pretenders|New Wave;Rock",
 "King Crimson|In the Court of the Crimson King|1969|PLXhfRoiJBIiuXOUv_7EJ1i7UKj0aGfy0U|A168|In the Court of the Crimson King|King Crimson|Art Rock;Progressive Rock;Rock",
 "The Rolling Stones|Aftermath|1966|PLjb5kMzP2zok_TwUZbbPl8-1UlIEAYERL|A64|Aftermath (Rolling Stones album)|The Rolling Stones|Blues Rock;Rock",
 "Bob Marley and The Wailers|Catch a Fire|1973|PLnvVNd96RFMSNymze31EqtNLxLHqwnrKD|A248|Catch a Fire|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
