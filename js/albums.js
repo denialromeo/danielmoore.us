@@ -2950,7 +2950,7 @@ const albums = [
 "Frightened Rabbit|The Midnight Organ Fight|2008|PLBF9088B61C53D709|A4403|The Midnight Organ Fight|Frightened Rabbit|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
 "Coleman Hawkins & Ben Webster|Coleman Hawkins Encounters Ben Webster/Blue Saxophones|1959|PL8BvQM-ayPDqb5S9-_bDhGgEk2vRL3XiM|A2413|Coleman Hawkins Encounters Ben Webster|Coleman Hawkins|Post-Bop;Bebop;Jazz",
 "Malcolm McLaren|Duck Rock|1983|PLlw1zJ0BjQ1xThx1n261QnoWpTF57h1l8|A591|Duck Rock|Malcolm McLaren|New Wave;Rock",
-"Kid Creole and The Coconuts|Wise Guy/Tropical Gangsters|1982|PL7wwNOHcNbN4cel7hBVh86lMNkM7jFacZ|A1486|Tropical Gangsters|Kid Creole and the Coconuts|Disco;Pop;Dance",
+"Kid Creole and The Coconuts|Wise Guy/Tropical Gangsters|1982|PLY8MTYO40DGzLATeb0gJv9YB8D9Mf190i|A1486|Tropical Gangsters|Kid Creole and the Coconuts|Disco;Pop;Dance",
 "Lonnie Johnson with Elmer Snowden|Blues and Ballads|1960|PLYjpLpF6KffuXxDnbfy1B34cHr83pa0rB|A1274|Blues & Ballads|Lonnie Johnson (musician)|Acoustic Blues;Blues",
 "Steve Roach|Dreamtime Return|1988|PLo9v8aKp-_64vTQjBvWOTkcsE3VSA4waA|A2895|Dreamtime Return|Steve Roach (musician)|Tribal Ambient;Ambient",
 "Neu!|Neu! 2|1973|PLX98xw6azUoYbfAqlO6b1Jen9m2umYLOt|A2667|Neu! 2|Neu!|Krautrock;Experimental Rock;Progressive Rock;Rock",
