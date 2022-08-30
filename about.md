@@ -45,7 +45,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [Alera High Performance Task Chair](https://www.amazon.com/gp/product/B01IIGMMW6) (My spine's best friend.)
 * [Asus VS228H-P 21.5" 1080p Monitor](https://www.amazon.com/gp/product/B005BZNDOO) (Ideal resolution and size for extended use.)
 * [Bowflex SelectTech Adjustable Dumbbells](https://www.amazon.com/gp/product/B001ARYU58) (Doubles as a conversation starter.)
-* [Gun Oil H2O Lubricant](https://www.gunoil.com/gun-oil-h2o) (Important part of a healthy life.)
 * [iBUYPOWER Pre-Built Gaming PC](https://www.ibuypower.com/gaming-pcs) (For work and play.)
 * [Redify Jump Rope](https://www.amazon.com/gp/product/B086XC32L2) (Rainy-day cardio.)
 * [StriveZen 2-Month View Wall Calendar](https://www.amazon.com/Calendar-2019-2020-StriveZen-Monthly-Vertical/dp/B07T6C13JD) (Record weight, reps/sets, diet, important dates, etc.)
@@ -53,6 +52,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [Vive Wrist Brace](https://www.amazon.com/gp/product/B077BPYK5S/) (Type for ten hours a day.)
 * [Wihool External Blu-ray Drive](https://www.amazon.com/gp/product/B07TS5SHHY) (Allows Blu-ray use on PC.)
 * [YouTen Adjustable Weight Bench](https://www.amazon.com/dp/B07VYXH22Q) (Who needs a gym membership?)
+{%comment%}* [Gun Oil H2O Lubricant](https://www.gunoil.com/gun-oil-h2o) (Important part of a healthy life.){%endcomment%}
 
 {:#desktop-software}
 **Desktop Software**
