@@ -70,6 +70,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#blog-posts}
 **Blog Posts**
 
+* "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (My parents' generation really got shafted.)
 * "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkatesh Rao (Organizational politics demystified.)
 * "[How to Send and Reply to Email](http://matt.might.net/articles/how-to-email/#abstract-container)" by Matt Might (Professional etiquette.)
 * "[A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)" by Paul Lockhart (All children should read this.)
@@ -180,7 +181,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Kaze Tachinu*](https://play.hbomax.com/page/urn:hbo:page:GXsQzAw8HPITCwgEAAAAM:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
 * [*Nope*](https://www.amazon.com/gp/product/B0B75YBMDK) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Resurrects and deconstructs the classic blockbuster.)
 * [*Oldboy*](https://www.amazon.com/gp/product/B08LNLCL35) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (Intensely, painfully relatable.)
-* [*Schindler's List*](https://www.starz.com/us/en/movies/schindlers-list-25270) by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) (Nazi apologism, but manipulates viewer emotions well.)
 * [*Squid Game*](https://www.netflix.com/title/81040344) by [Hwang Dong-hyuk](https://en.wikipedia.org/wiki/Hwang_Dong-hyuk) (Thinly-veiled allegory for corporate life.)
 * [*Synecdoche, New York*](https://www.amazon.com/dp/B001P3SA8A) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
 * [*Turning Red*](https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m) by [Domee Shi](https://en.wikipedia.org/wiki/Domee_Shi) (Written by women for women.)
