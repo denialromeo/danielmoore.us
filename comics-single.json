@@ -1,34 +1,28 @@
 {
 	"pages": [
 		{
-			"author": "Alan Moore",
-			"title": "Swamp Thing",
+			"author": "Garth Ennis",
+			"title": "The Boys",
 			"amazon": "",
-			"link": "assets/img/comics/swamp-thing/01.jpg"
+			"link": "assets/img/comics/boys/01.jpg"
 		},
 		{
-			"author": "Alan Moore",
-			"title": "Swamp Thing",
+			"author": "Garth Ennis",
+			"title": "The Boys",
 			"amazon": "",
-			"link": "assets/img/comics/swamp-thing/02.jpg"
+			"link": "assets/img/comics/boys/02.jpg"
 		},
 		{
-			"author": "Alan Moore",
-			"title": "Swamp Thing",
+			"author": "Garth Ennis",
+			"title": "The Boys",
 			"amazon": "",
-			"link": "assets/img/comics/swamp-thing/03.jpg"
+			"link": "assets/img/comics/boys/03.jpg"
 		},
 		{
-			"author": "Alan Moore",
-			"title": "Swamp Thing",
+			"author": "Garth Ennis",
+			"title": "The Boys",
 			"amazon": "",
-			"link": "assets/img/comics/swamp-thing/04.jpg"
-		},
-		{
-			"author": "Alan Moore",
-			"title": "Swamp Thing",
-			"amazon": "",
-			"link": "assets/img/comics/swamp-thing/05.jpg"
+			"link": "assets/img/comics/boys/04.jpg"
 		}
 	]
 }
