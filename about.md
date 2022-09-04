@@ -176,7 +176,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Movies**
 
 * [*Get Out*](https://www.amazon.com/dp/B081KRBHPC) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Every non-white can relate.)
-* [*Gisaengchung*](https://www.hulu.com/watch/2fd691a0-f66b-467f-8635-00d7f151f3d4) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (All warfare is based on deception.)
+* [*Gisaengchung*](https://www.hulu.com/watch/2fd691a0-f66b-467f-8635-00d7f151f3d4) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (All life is war, and all warfare is based in deception.)
 * [*The Green Knight*](https://www.showtime.com/movie/3492182) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (Treats history on its own terms without modern bias.)
 * [*Ikiru*](https://play.hbomax.com/page/urn:hbo:page:GXmlRtQZGhcNVoAEAAAMj:type:feature) by [Kurosawa Akira](https://en.wikipedia.org/wiki/Akira_Kurosawa) (The world is a museum of passion projects.)
 * [*Kaze Tachinu*](https://play.hbomax.com/page/urn:hbo:page:GXsQzAw8HPITCwgEAAAAM:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
