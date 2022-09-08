@@ -128,6 +128,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Reconstruction*](https://www.goodreads.com/notes/11389556-reconstruction/71655209-daniel-moore) by [Eric Foner](https://en.wikipedia.org/wiki/Eric_Foner) (Ongoing ripples of Lincoln's murder.)
 * [*Settlers*](https://www.goodreads.com/notes/55928109-settlers/71655209-daniel-moore) by [J. Sakai](https://blog.pmpress.org/authors-artists-comrades/j-sakai/) (Actual American history.)
 * [*Stalin*](https://www.lulu.com/shop/domenico-losurdo/stalin-history-and-critique-of-a-black-legend/paperback/product-5njw2j.html?page=1&pageSize=4) by [Domenico Losurdo](https://en.wikipedia.org/wiki/Domenico_Losurdo) (Perhaps the 20th century's most influential person.)
+* [*The Struggle for the Eurasian Borderlands*](https://www.goodreads.com/notes/23864634-the-struggle-for-the-eurasian-borderlands/71655209-daniel-moore) by [Alfred Rieber](https://en.wikipedia.org/wiki/Alfred_Rieber) (As relevant now as ever.)
 * [*Vladimir Putin and Russian Statecraft*](https://www.goodreads.com/notes/19441321-vladimir-putin-and-russian-statecraft/71655209-daniel-moore) by [Allen Lynch](https://politics.virginia.edu/people/profile/al4u) (From failed state to superpower.)
  
 (For more, check out the World History Association's [list](https://www.thewha.org/awards/bentley-book-prize/#committee) of Bentley Book Prize winners.)
