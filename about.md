@@ -74,7 +74,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkatesh Rao (Organizational politics demystified.)
 * "[How to Send and Reply to Email](http://matt.might.net/articles/how-to-email/#abstract-container)" by Matt Might (Professional etiquette.)
 * "[A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)" by Paul Lockhart (All children should read this.)
-* "[Russian Defenses in the SMO](https://thesaker.is/some-very-basic-stuff-about-russian-defenses-in-the-smo/)" by Andrei Martyanov (Why the war in Ukraine isn't over yet.)
+* "[Russian Defenses in the SMO](https://thesaker.is/some-very-basic-stuff-about-russian-defenses-in-the-smo/)" by Andrei Martyanov (Or, why does Russia do that?)
 * "[The Stack Overflow Age](https://www.joelonsoftware.com/2018/04/06/the-stack-overflow-age/)" by Joel Spolsky (Recollections of the Internet gold rush.)
 * "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Amazon's secret to world domination.)
 * "[Story Structure 101](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)" by Dan Harmon (Narrative-writing for humans.)
