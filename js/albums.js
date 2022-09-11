@@ -752,7 +752,7 @@ const albums = [
 "Big Thief|U.F.O.F.|2019|PLtLkRkgjIYFDV9O4TlDg8EFrIfHZvXwOn|A6218|U.F.O.F.|Big Thief|Indie Folk;Contemporary Folk;Folk",
 "Pixies|Bossanova|1990|PLLnDs-u_f2H6MRmVlackmdazXffWF7_-W|A789|Bossanova (Pixies album)|Pixies (band)|Indie Rock;Alternative Rock;Rock",
 "Disclosure|Settle|2013|PLHq9W0FcA9sF0j9QL97912wNUMCvXRZIY|A5297|Settle (album)|Disclosure (band)|Deep House;UK Garage;Dance;Electronic;Electronic Dance Music;House",
-"Yo La Tengo|And Then Nothing Turned Itself Inside Out|2000|ERROR: Suitable playlist not found|A1093|And Then Nothing Turned Itself Inside-Out|Yo La Tengo|Dream Pop;Indie Rock;Alternative Rock;Rock",
+"Yo La Tengo|And Then Nothing Turned Itself Inside Out|2000|PLMxy067kbpQgShixk3xdpbZwTn_sojsvc|A1093|And Then Nothing Turned Itself Inside-Out|Yo La Tengo|Dream Pop;Indie Rock;Alternative Rock;Rock",
 "Woody Guthrie|Dust Bowl Ballads|1940|PLq_cVt58wGrHbteF1ovukim73ODY9Vx39|A1757|Dust Bowl Ballads|Woody Guthrie|Contemporary Folk;Singer/Songwriter;Folk",
 "X-Ray Spex|Germfree Adolescents|1978|PL6C5B1AA7F54463D5|A448|Germfree Adolescents|X-Ray Spex|Punk Rock;Rock",
 "Hüsker Dü|Warehouse: Songs and Stories|1987|PLZVCiDcSBlchqBd7a2QQOdVj4CurfWkZZ|A694|Warehouse: Songs and Stories|Hüsker Dü|Alternative Rock;Rock",
