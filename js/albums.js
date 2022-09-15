@@ -2057,7 +2057,7 @@ const albums = [
 "Bérurier Noir|Concerto pour détraqués|1985|PLiN-7mukU_RH5-bzkt8XXVxKHmrVF0gEW|A4704|https://fr.wikipedia.org/wiki/Concerto_pour_d%C3%A9traqu%C3%A9s|Bérurier Noir|Punk Rock;Rock",
 "Joan Manuel Serrat|Mediterráneo|1971|PLGDM4wBYDyrwJIV8-A7_7bj4fusX4-OvZ|A4525|Mediterráneo|Joan Manuel Serrat|Nueva canción española;Contemporary Folk;Folk;Hispanic Music;Nueva canción;Regional Music;Singer/Songwriter;Spanish Music",
 "Screaming Trees|Dust|1996|PLJ-ViTZrvg2yAewJP56Xi51Fgd-8EhJ48|A973|Dust (Screaming Trees album)|Screaming Trees|Grunge;Alternative Rock;Rock",
-"Manic Street Preachers|Journal for Plague Lovers|2009|PLKUaa9cxYSCAmpIenQvqXvobAD7Uoq-kd|A5017|Journal for Plague Lovers|Manic Street Preachers|Alternative Rock;Rock",
+"Manic Street Preachers|Journal for Plague Lovers|2009|PLL-bCFPMpkAtTL8CghQZKcYAYstNB1np8|A5017|Journal for Plague Lovers|Manic Street Preachers|Alternative Rock;Rock",
 "PFM|Storia di un Minuto|1972|PL603B30CFA2B7A1CB|A4534|Storia di un minuto|Premiata Forneria Marconi|Symphonic Prog;Progressive Rock;Rock",
 "Janet Jackson|janet.|1993|PLZROkT1-_ZH7gBwReUjFX4nX4-PIINzpZ|A5262|Janet (album)|Janet Jackson|Contemporary R&B;Dance-Pop;Dance;Pop;R&B",
 "The Original Broadway Cast|Hair|1968|PLTBMMTIWLi8589YX6VzdqkhZ-w_-1GHWb|A2783|Hair (Original Broadway Cast Recording)|Galt MacDermot|Psychedelic Pop;Show Tunes;Descriptor;Musical Theatre and Entertainment;Pop;Soundtracks",
