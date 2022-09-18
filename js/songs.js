@@ -7748,7 +7748,7 @@ const songs = [
 "Twisted Sister|We're Not Gonna Take It|1984|V9AbeALNVkk|Twisted Sister|S3917|Glam Metal;Hard Rock;Rock",
 "Television|Venus|1977|4f3d5ZdE4vY|Television (band)|S12837|Art Punk;Art Rock;Punk Rock;Rock",
 "Bruce Springsteen|For You|1973|L0JOOEnRopM|Bruce Springsteen|S13707|Heartland Rock;Singer/Songwriter;Rock",
-"Warren Zevon|Keep Me in Your Heart|2003|1KjRLq4uF4A|Warren Zevon|S8939|Singer/Songwriter",
+"Warren Zevon|Keep Me in Your Heart|2003|RMTKb-pgxGI|Warren Zevon|S8939|Singer/Songwriter",
 "The Barbarians|Moulty|1966|25x3aIWs76E|The Barbarians (band)|S3170|Garage Rock;Rock",
 "Judas Priest|Painkiller|1990|nM__lPTWThU|Judas Priest|S15613|Heavy Metal;Speed Metal;Metal;Rock",
 "Nino Rota|Love Theme from The Godfather|1972|zbSMCyJkUmI|Nino Rota|S7751|Cinematic Classical;Film Score;Classical Music;Descriptor;Film Soundtrack;Soundtracks",
