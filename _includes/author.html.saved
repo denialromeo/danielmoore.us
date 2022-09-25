@@ -70,6 +70,7 @@
       const middle = '"Unlike China, India seems to be heading into a \'middle-income\' trap, where the vast &nbsp;majority of population remain in poverty while the top 10% live well."'
       const long = '"There\'s a ceiling to the amount of sex that will fulfill your life, and it\'s quite low, and &nbsp;a place once reached, pretty disheartening."'
       const balram5 = '"My whole life, I have been treated like a donkey. All I want is that one son of mine&ndash;&nbsp;at least one&ndash;should live like a man."'
+      const charlotte = '"A spider\'s life can\'t help being something of a mess, with all this trapping and eating &nbsp;flies. By helping you, perhaps I was trying to lift up my own life a trifle."'
 
       const imagesAndVideos = [
                                  {% if page.box == 'race' %}
@@ -146,6 +147,7 @@
                                  ["/assets/img/imgur/0o2Pqi0.jpg", "http://shmuplations.com/justiceforall/", takumi, 'Shu Takumi'],
                                  {% elsif page.box == 'contact' %}
                                  ["/assets/img/imgur/gwXE0Ed.jpg", "https://en.wikiquote.org/wiki/Donald_Knuth#firstHeading", knuth, 'Donald Knuth'],
+                                 ["/assets/img/imgur/charlotte.jpg", "https://www.youtube.com/watch?v=z7MAiU2E4ls", charlotte],
                                  // ["/assets/img/imgur/dF31gyi.jpg", "https://www.goodreads.com/notes/30238165-coders-at-work/71655209-daniel-moore", crockford, 'Douglas Crockford'],
                                  {% else %}
                                  {% endif %}
