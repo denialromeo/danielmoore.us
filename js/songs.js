@@ -3491,7 +3491,7 @@ const songs = [
 "The Aztec Mystic|Knights of the Jaguar|1999|C6xVKcvze74|DJ Rolando|S1372|Detroit Techno;Dance;Electronic;Electronic Dance Music;Techno",
 "D.R.A.M. feat. Lil Yachty|Broccoli|2016|K44j-sb1SRY|DRAM (musician)|S16063|Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Ben Folds Five|Brick|1997|Wt5EHAqhR1c|Ben Folds Five|S3209|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock",
-"Daryl Hall & John Oates|Sara Smile|1976|nOFCTFXn6xE|Hall & Oates|S6671|Blue Eyed Soul;Pop Rock;Pop;Rock",
+"Daryl Hall & John Oates|Sara Smile|1976|dYEpFJhuu1E|Hall & Oates|S6671|Blue Eyed Soul;Pop Rock;Pop;Rock",
 "The Moody Blues|Go Now!|1964|BEGUVLpTzOs?start=23|The Moody Blues|S3074|Beat Music;Pop;Pop Rock;Rock",
 "Shep and the Limelites|Daddy's Home|1961|Y8DICjr5jBI|Shep and the Limelites|S2804|Doo-Wop;Descriptor;R&B;Vocal Group",
 "Spencer Davis Group|I'm a Man|1967|POCUgBSVENQ|The Spencer Davis Group|S8522|British Rhythm & Blues;Mod;R&B;Rhythm & Blues;Rock",
