@@ -71,6 +71,7 @@
       const long = '"There\'s a ceiling to the amount of sex that will fulfill your life, and it\'s quite low, and &nbsp;a place once reached, pretty disheartening."'
       const balram5 = '"My whole life, I have been treated like a donkey. All I want is that one son of mine&ndash;&nbsp;at least one&ndash;should live like a man."'
       const charlotte = '"A spider\'s life can\'t help being something of a mess, with all this trapping and eating &nbsp;flies. By helping you, perhaps I was trying to lift up my own life a trifle."'
+      const foyle = '"Foyle, the stereotype Common Man, was no more. The key turned in the lock of his &nbsp;soul and the door was opened. What emerged expunged the Common Man forever."'
 
       const imagesAndVideos = [
                                  {% if page.box == 'race' %}
@@ -113,6 +114,7 @@
                                  ["/assets/img/imgur/wyJwnBa.jpg", "https://www.esquire.com/entertainment/music/interviews/a26330/gene-simmons-future-of-rock/", kiss, 'Gene Simmons'],
                                  ["/assets/img/imgur/OFoEt3E.jpg", "https://medium.com/cuepoint/like-it-is-bob-dylan-explains-what-really-killed-rock-n-roll-f6a4b6587a1a", dylan, 'Bob Dylan'],
                                  {% elsif page.box == 'schopenhauer' %}
+                                 ["/assets/img/imgur/long.jpg", "https://nextshark.com/jeremy-long-final-statement/#primary", foyle],
                                  ["/assets/img/imgur/long.jpg", "https://nextshark.com/jeremy-long-final-statement/#primary", long],
                                  ["/assets/img/imgur/cioran.png", "https://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore", cioran2, 'Emil Cioran'],
                                  // ["/assets/img/imgur/pig.jpg", "https://bsidneysmith.com/writings/essays/all-the-bunnies-in-the-meadow-die", rabbit],
