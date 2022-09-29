@@ -42,7 +42,7 @@ e eject:
 	powershell "(new-object -COM Shell.Application).NameSpace(17).ParseName('D:').InvokeVerb('Eject')"
 
 b:
-	cp ..\code\borders-quiz\dist\borders-quiz.js .\js
+	cp ..\borders-quiz\dist\borders-quiz.js .\js
 
 s:
 	cp ..\code\random-acclaimed-song\songs.js .\js
