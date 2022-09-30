@@ -2192,7 +2192,7 @@ const songs = [
 "Fats Domino|Blue Monday|1956|Fy5WM1xYbGo|Fats Domino|S1282|New Orleans R&B;R&B",
 "alt-J|Breezeblocks|2012|rVeMiVU77wo|Alt-J|S4996|Indie Pop;Indietronica;Electronic;Pop",
 "Buffalo Springfield|Expecting to Fly|1967|hzMl0-bhNcM|Buffalo Springfield|S921|Baroque Pop;Psychedelic Folk;Contemporary Folk;Folk;Pop",
-"Leonard Cohen|The Future|1992|D97OxHZzBeQ?start=8|Leonard Cohen|S2044|Blue Eyed Soul;Singer/Songwriter;Sophisti-Pop;Pop",
+"Leonard Cohen|The Future|1992|3VAxwimExn0|Leonard Cohen|S2044|Blue Eyed Soul;Singer/Songwriter;Sophisti-Pop;Pop",
 "Japandroids|Young Hearts Spark Fire|2009|pRSSKtQHhxA|Japandroids|S4835|Lo-Fi / Slacker Rock;Noise Rock;Alternative Rock;Indie Rock;Rock",
 "Slim Harpo|I'm a King Bee|1957|XWLvm11MAaM|Slim Harpo|S1260|Swamp Blues;Blues;Electric Blues",
 "R.E.M.|Nightswimming|1992|ahJ6Kh8klM4|R.E.M.|S8060|Chamber Pop;Piano Rock;Baroque Pop;Indie Pop;Pop;Pop Rock;Rock",

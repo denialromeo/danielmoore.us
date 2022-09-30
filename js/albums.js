@@ -1333,7 +1333,7 @@ const albums = [
 "Dr. Feelgood|Down by the Jetty|1975|PL_aDAa34yWmB1gdNdQisR38yB6pjC8VwK|A1154|Down by the Jetty|Dr. Feelgood (band)|British Blues;Pub Rock;Blues;Electric Blues;Rock",
 "Mahavishnu Orchestra|Birds of Fire|1973|PLiSplZAZ1reDqkS6g2O0HVKoD0jonbUEO|A2008|Birds of Fire|Mahavishnu Orchestra|Jazz Fusion;Jazz-Rock;Jazz;Rock",
 "Derrick May|Innovator|1991|PL32293A2971FDBC2E|A4857|Derrick May (musician)|Derrick May (musician)|Detroit Techno;Dance;Electronic;Electronic Dance Music;Techno",
-"Dexys Midnight Runners|Too-Rye-Ay|1982|PLq6hafsxa6615k7BY63p3hLCTlF1ZfoWy|A551|Too-Rye-Ay|Dexys Midnight Runners|New Wave;Rock",
+"Dexys Midnight Runners|Too-Rye-Ay|1982|PLP59Fs_hB7C1iq_RiJpMhLa0aaO2E-p-C|A551|Too-Rye-Ay|Dexys Midnight Runners|New Wave;Rock",
 "James Blake|Overgrown|2013|PLogyGRa2I-gLD37wEy-Ry2eEcls7fQVrL|A5277|Overgrown|James Blake (musician)|Alternative R&B;Art Pop;Contemporary R&B;Pop;R&B",
 "Neneh Cherry|Raw Like Sushi|1989|PLEQqOZ_y4MgDQXunfra-z7QvYf6b-fe61|A772|Raw Like Sushi|Neneh Cherry|Pop Rap;Hip Hop",
 "Charles Mingus|Charles Mingus Presents Charles Mingus|1960|PLkKbVmUK3RrWMVjEEf5z7OO3cwAeXIKb2|A1883|Charles Mingus Presents Charles Mingus|Charles Mingus|Avant-Garde Jazz;Jazz",
