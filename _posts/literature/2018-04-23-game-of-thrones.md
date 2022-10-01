@@ -26,7 +26,7 @@ While [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)'s 
 * "[I Give Up on Finishing *The Winds of Winter*](https://georgerrmartin.com/notablog/2022/03/09/random-updates-and-bits-o-news/)" by George R. R. Martin
 * ["So Spake Martin" Archive](https://www.westeros.org/Citadel/SSM)
 * [Released *The Winds of Winter* Chapters](https://thehawke.github.io/twow-excerpts/)
-* [*Reigns: Game of Thrones*](https://store.steampowered.com/app/897820/Reigns_Game_of_Thrones/)
+* [*Reigns: Game of Thrones*](https://steamcommunity.com/id/denialromeo/recommended/897820?snr=1_5_9__402)
 * [Ted Nasmith's Art](https://awoiaf.westeros.org/index.php/Category:Images_by_Ted_Nasmith)
 * [Character Fan Art](https://awoiaf.westeros.org/index.php/Category:Character_Images)
 * [A Search of Ice and Fire](https://asearchoficeandfire.com/)
