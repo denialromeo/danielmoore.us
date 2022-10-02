@@ -6723,7 +6723,7 @@ const songs = [
 "Shut Up And Dance|Raving I'm Raving|1992|dZnanvrPj2I|Shut Up and Dance (duo)|S2940|Breakbeat Hardcore;Breakbeat;Dance;Electronic;Electronic Dance Music;Hardcore [EDM]",
 "Justin Hinds & The Dominoes|Carry, Go, Bring, Home|1964|qqn-BJc1I2c|Justin Hinds|S7033|Jamaican Ska;Caribbean Music;Jamaican Music;Regional Music;Ska",
 "Jelly Roll Morton|Dead Man Blues|1926|m0JBNj2urb8|Jelly Roll Morton|S11186|Big Band;Dixieland;Jazz",
-"Bobby 'Boris' Pickett and the Crypt Kickers|Monster Mash|1962|-tHyRQOdqf0|Bobby Pickett|S3700|Halloween Music;Novelty;Pop Rock;Vocal Group;Descriptor;Holiday Music;Pop;Rock",
+"Bobby 'Boris' Pickett and the Crypt Kickers|Monster Mash|1962|vNuVifA7DSU|Bobby Pickett|S3700|Halloween Music;Novelty;Pop Rock;Vocal Group;Descriptor;Holiday Music;Pop;Rock",
 "John Lee Hooker|One Bourbon, One Scotch, One Beer|1966|c3o8-bcfFvE|John Lee Hooker|S14577|Electric Blues;Blues",
 "The Roots|Don't Say Nuthin'|2004|VB5coQcelAk|The Roots|S2461|Conscious Hip Hop;East Coast Hip Hop;Hip Hop",
 "Billy Squier|Everybody Wants You|1982|PgA8Mi6FZFU|Billy Squier|S3850|AOR;Hard Rock;Rock",

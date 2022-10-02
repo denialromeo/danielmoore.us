@@ -1213,7 +1213,7 @@ const albums = [
 "Joe Jackson|Look Sharp!|1979|PLEvr99j7ruPwRDYdBgzfakOMrwr6n5kYS|A480|Look Sharp! (Joe Jackson album)|Joe Jackson (musician)|New Wave;Power Pop;Pop;Pop Rock;Rock",
 "Pharoah Sanders|Karma|1969|PLsy0eg7XsZUHSDc_l-Fv5pfO4EzbmQkST|A2600|Karma (Pharoah Sanders album)|Pharoah Sanders|Spiritual Jazz;Avant-Garde Jazz;Jazz",
 "Donovan|Sunshine Superman|1966|PLCF1499A9D94391B0|A78|Sunshine Superman (album)|Donovan|Psychedelic Folk;Psychedelic Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop",
-"The Specials|More Specials|1980|PL_Gl3Yre_1Y9BOJfh6bEgaAzOoEtsb_hF|A2825|More Specials|The Specials|2 Tone;Ska",
+"The Specials|More Specials|1980|PLexoNUKqpjdYlinKtQaEB840OJFszs9g1|A2825|More Specials|The Specials|2 Tone;Ska",
 "Blondie|Blondie|1976|PLI6kLIhBBwmSLILiQiV6mLlOo0SAg3NOv|A381|Blondie (album)|Debbie Harry|New Wave;Rock",
 "Scott Walker|The Drift|2006|PLUPdGVF6ESU_J3k3G6OeL-5GI_OGj1ynA|A2132|The Drift|Scott Walker (singer)|Experimental;Singer/Songwriter",
 "John Lennon & Yoko Ono|Double Fantasy|1980|PLdCzHSDd0DiuH4kcIhkZ7RUSNBmzW_EcP|A499|Double Fantasy|Yoko Ono|Pop Rock;Pop;Rock",
