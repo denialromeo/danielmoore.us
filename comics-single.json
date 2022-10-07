@@ -1,28 +1,34 @@
 {
 	"pages": [
 		{
-			"author": "Garth Ennis",
-			"title": "The Boys",
+			"author": "Neil Gaiman",
+			"title": "The Sandman",
 			"amazon": "",
-			"link": "assets/img/comics/boys/01.jpg"
+			"link": "assets/img/comics/sandman2/01.jpg"
 		},
 		{
-			"author": "Garth Ennis",
-			"title": "The Boys",
+			"author": "Neil Gaiman",
+			"title": "The Sandman",
 			"amazon": "",
-			"link": "assets/img/comics/boys/02.jpg"
+			"link": "assets/img/comics/sandman2/02.jpg"
 		},
 		{
-			"author": "Garth Ennis",
-			"title": "The Boys",
+			"author": "Neil Gaiman",
+			"title": "The Sandman",
 			"amazon": "",
-			"link": "assets/img/comics/boys/03.jpg"
+			"link": "assets/img/comics/sandman2/03.jpg"
 		},
 		{
-			"author": "Garth Ennis",
-			"title": "The Boys",
+			"author": "Neil Gaiman",
+			"title": "The Sandman",
 			"amazon": "",
-			"link": "assets/img/comics/boys/04.jpg"
+			"link": "assets/img/comics/sandman2/04.jpg"
+		},
+		{
+			"author": "Neil Gaiman",
+			"title": "The Sandman",
+			"amazon": "",
+			"link": "assets/img/comics/sandman2/05.jpg"
 		}
 	]
 }
