@@ -1482,7 +1482,7 @@ const songs = [
 "The Beatles|The Long and Winding Road|1970|fR4HjTH_fTM|The Beatles|S865|Adult Contemporary;Baroque Pop;Piano Rock;Pop;Pop Rock;Rock",
 "Neil Young|Powderfinger|1979|ETOIIWot-3Y|Neil Young|S3986|Country Rock;Hard Rock;Rock",
 "ABC|The Look of Love|1982|cNEdxZURTaI|ABC (band)|S484|New Romantic;Pop;New Wave;Rock",
-"Herbie Hancock|Chameleon|1973|UbkqE4fpvdI|Herbie Hancock|S4177|Jazz Fusion;Jazz-Funk;Funk;Jazz;R&B",
+"Herbie Hancock|Chameleon|1973|WYRrIBqKsJ4|Herbie Hancock|S4177|Jazz Fusion;Jazz-Funk;Funk;Jazz;R&B",
 "Run-D.M.C.|Rock Box|1984|GND7sPNwWko|Run-DMC|S446|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop",
 "Vampire Weekend|Diane Young|2013|oG6lTQNW04I|Vampire Weekend|S9541|Indie Rock;Alternative Rock;Rock",
 "Patti Page|Tennessee Waltz|1950|44B6B1OycgI|Patti Page|S2400|Traditional Pop;Pop",
