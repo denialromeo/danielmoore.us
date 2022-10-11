@@ -2834,7 +2834,7 @@ const albums = [
 "Mumford & Sons|Sigh No More|2009|PL41775772741DFC65|A7253|Sigh No More (Mumford & Sons album)|Mumford & Sons|Folk Pop;Indie Folk;Contemporary Folk;Folk;Pop",
 "John Coltrane|Africa/Brass|1961|PLWN2c-9vTooYhlqqtBb2TsloElmIYpkZh|A2470|Africa/Brass|John Coltrane|Hard Bop;Modal Jazz;Post-Bop;Bebop;Jazz",
 "Tom Waits|The Heart of Saturday Night|1974|PLTMN6OMDTnKmoo9nKCHUAC1WNCB5TDlPw|A2697|The Heart of Saturday Night|Tom Waits|Singer/Songwriter",
-"Rush|Permanent Waves|1980|PLXPYMcRIi2fGOpLgAdEI6HsM41Ic-hEYO|A3300|Permanent Waves|Rush (band)|Hard Rock;Progressive Rock;Rock",
+"Rush|Permanent Waves|1980|PLx3FeA88_cZ_IPv56N-1JVFkIj0FstjVt|A3300|Permanent Waves|Rush (band)|Hard Rock;Progressive Rock;Rock",
 "Bettie Serveert|Palomine|1992|PLp0NySjB6M7rqQMtoeYLBuMMEASbl1J4L|A3432|Palomine|Bettie Serveert|Indie Rock;Alternative Rock;Rock",
 "Ted Leo & The Pharmacists|The Tyranny of Distance|2001|PL55CEEE193158369A|A4938|The Tyranny of Distance (album)|Ted Leo and the Pharmacists|Indie Rock;Alternative Rock;Rock",
 "Propellerheads|Decksandrumsandrockandroll|1998|PLZ6N_J_H1xqekfsCJdHAqzJj8d-DR_Q7Z|A3712|Decksandrumsandrockandroll|Propellerheads|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music",
