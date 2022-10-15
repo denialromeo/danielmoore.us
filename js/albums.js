@@ -2521,7 +2521,7 @@ const albums = [
 "Anita O'Day|Anita Sings the Most|1957|PLccpwGk_xup_vxiwtq4SIf3nCLZRenoOc|A2262|Anita Sings the Most|Anita O'Day|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "George Russell|Ezz-Thetics|1961|PLv39LLwuf1WFaav_KK8rC4_BXLnGA22oo|A2314|Ezz-thetics|George Russell (composer)|Avant-Garde Jazz;Modal Jazz;Jazz",
 "The Sisters of Mercy|Floodland|1987|PLqZC0d4mc3tkrTHPouWo0HSFkCjQj0p0z|A702|Floodland (album)|The Sisters of Mercy|Gothic Rock;Rock",
-"Bad Religion|Suffer|1988|PLDF261F8D39FCC2BB|A3217|Suffer (album)|Bad Religion|Melodic Hardcore;Skate Punk;Hardcore Punk;Punk Rock;Rock",
+"Bad Religion|Suffer|1988|PLcZMZxR9uxC_E1pb7jFJSlGHlIGCCsX5F|A3217|Suffer (album)|Bad Religion|Melodic Hardcore;Skate Punk;Hardcore Punk;Punk Rock;Rock",
 "Herbie Hancock|Mwandishi|1971|PLBypzeQDUetxHFgvCh83Rwwz_3xD0b8Io|A1999|Mwandishi|Herbie Hancock|Jazz Fusion;Jazz",
 "Ariana Grande|Sweetener|2018|PLT5kE8dBKiP7hCAfkVzoi8TmbGbyZKZa8|A6053|Sweetener (album)|Ariana Grande|Contemporary R&B;Electropop;Electronic;Pop;R&B",
 "Sleater-Kinney|The Hot Rock|1999|PLQvL6GLJiX90RwWoUpO7CF_V6RbMgLfXZ|A3762|The Hot Rock (album)|Sleater-Kinney|Indie Rock;Alternative Rock;Rock",
