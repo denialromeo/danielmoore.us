@@ -413,7 +413,7 @@ const songs = [
 "The Police|Roxanne|1978|3T1c7GkzRQQ|The Police|S620|New Wave;Pop Rock;Pop;Rock",
 "John Coltrane|A Love Supreme, Part 1: Acknowledgement|1965|fth9UUa1Mfw|John Coltrane|S2824|Spiritual Jazz;Avant-Garde Jazz;Jazz",
 "Echo and the Bunnymen|The Killing Moon|1984|LWz0JC7afNQ|Echo & the Bunnymen|S424|Post-Punk;Rock",
-"Queen|Under Pressure|1981|YoDh_gHDvkk|Queen (band)|S1871|Pop Rock;Pop;Rock",
+"Queen|Under Pressure|1981|a01QQZyl-_I|Queen (band)|S1871|Pop Rock;Pop;Rock",
 "The Five Satins|In the Still of the Nite|1956|MRb1-SAAIzs|The Five Satins|S1275|Doo-Wop;Descriptor;R&B;Vocal Group",
 "U2|Pride (In the Name of Love)|1984|LHcP4MWABGY|U2|S423|Pop Rock;Pop;Rock",
 "The Crystals|Da Doo Ron Ron (When He Walked Me Home)|1963|L0dikX80Ed8|The Crystals|S1054|Brill Building;Girl Group;Pop",

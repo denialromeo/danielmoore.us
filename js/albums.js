@@ -1438,7 +1438,7 @@ const albums = [
 "Jackson Browne|Jackson Browne (Saturate Before Using)|1972|PLpLh6jTfTvRjPCI_bhx1Sbq-t-ktfuHHR|A1364|Jackson Browne (album)|Jackson Browne|Singer/Songwriter",
 "Jerry Lee Lewis|Jerry Lee Lewis|1958|PLbqlYXEyLVwbIvkQBVemVtsEsScCiwQ36|A2261|Jerry Lee Lewis (album)|Jerry Lee Lewis|Rock & Roll;Rock",
 "Prince and The Revolution|Around the World in a Day|1985|PL3g5O1BDAPj2-azFVspPldkwtCKC7O73j|A658|Around the World in a Day|Prince (musician)|Neo-Psychedelia;Pop Rock;Psychedelic Soul;Pop;Psychedelic Rock;R&B;Rock;Soul",
-"Rickie Lee Jones|Rickie Lee Jones|1979|PLZV_qi-v4BOprDro_F6wxzjB6oImXnC-k|A474|Rickie Lee Jones (album)|Rickie Lee Jones|Jazz Pop;Singer/Songwriter;Pop",
+"Rickie Lee Jones|Rickie Lee Jones|1979|PLfGibfZATlGpQGFueoE_CcIgcuxmn6_FD|A474|Rickie Lee Jones (album)|Rickie Lee Jones|Jazz Pop;Singer/Songwriter;Pop",
 "Spacemen 3|Playing with Fire|1989|PLYaPn7JBGbO6FMv21X1oxyZol8iau2TwV|A1700|Playing with Fire (Spacemen 3 album)|Spacemen 3|Neo-Psychedelia;Space Rock;Psychedelic Rock;Rock",
 "Lou Reed and John Cale|Songs for Drella|1990|PLiN-7mukU_REZTRDAdHeytFh36bmcBc9J|A788|Songs for Drella|John Cale|Art Rock;Rock",
 "Muse|Origin of Symmetry|2001|PL6z4sRxaRQCXOjOhXvs-lzdwAYzT5IFsl|A3873|Origin of Symmetry|Muse (band)|Alternative Rock;Rock",
