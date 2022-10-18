@@ -139,6 +139,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#historical-documents}
 **Historical Documents**
 
+* "[The ABC of Communism](https://www.marxists.org/archive/bukharin/works/1920/abc/)" by [Nikolai Bukharin](https://en.wikipedia.org/wiki/Nikolai_Bukharin) (Primer on what tens of millions died for.)
 * "[From a China Traveler](https://www.nytimes.com/1973/08/10/archives/from-a-china-traveler.html)" by [David Rockefeller](https://en.wikipedia.org/wiki/David_Rockefeller) (Neoliberal honeymoon.)
 * "[Modernize and Never Seek Hegemony](https://dengxiaopingworks.wordpress.com/2013/02/25/realize-the-four-modernizations-and-never-seek-hegemony)" by [Deng Xiaoping](https://en.wikipedia.org/wiki/Deng_Xiaoping) (Father of globalization.)
 * "[On the Historical Unity of Russians and Ukrainians](http://en.kremlin.ru/events/president/news/66181)" by [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) (Tsardom reborn.)
