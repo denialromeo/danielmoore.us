@@ -6507,7 +6507,7 @@ const songs = [
 "Odd Future|Oldie|2012|fzi24Nssiow|Odd Future|S7789|Abstract Hip Hop;Boom Bap;Jazz Rap;West Coast Hip Hop;Hip Hop",
 "Editors|Papillon|2009|Wq4tyDRhU_4|Editors (band)|S4796|Electronic;Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock",
 "Johnny Preston|Running Bear|1959|1PfrpcqLyzY|Johnny Preston|S6990|Pop",
-"Tom Browne|Funkin' For Jamaica|1980|m-yaWMvpeUU|Tom Browne (trumpeter)|S8782|Funk;R&B",
+"Tom Browne|Funkin' For Jamaica|1980|XYclWyC4qQo|Tom Browne (trumpeter)|S8782|Funk;R&B",
 "Joe South|Walk a Mile in My Shoes|1969|ofhw0lWpVZc|Joe South|S4142|Country Soul;R&B;Soul",
 "Prince|Adore|1987|v8fLjiar1c8|Prince (musician)|S11942|Contemporary R&B;Smooth Soul;R&B;Soul",
 "Billy Murray|You're a Grand Old Rag|1906|7DqGCMu37Ow|Billy Murray (singer)|S9149|Vaudeville;Musical Theatre and Entertainment",
