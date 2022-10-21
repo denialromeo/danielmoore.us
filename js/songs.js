@@ -342,7 +342,7 @@ const songs = [
 "Lynyrd Skynyrd|Free Bird|1973|QxIWDmmqZzY|Lynyrd Skynyrd|S725|Hard Rock;Southern Rock;Rock",
 "Cardi B|Bodak Yellow|2017|PEGccV-NOm8|Cardi B|S16349|East Coast Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Iggy Pop|Lust for Life|1977|jQvUBf5l7Vw|Iggy Pop|S660|Garage Rock;Rock",
-"Neil Young|Heart of Gold|1972|Eh44QPT1mPE|Neil Young|S797|Country Rock;Folk Rock;Singer/Songwriter;Rock",
+"Neil Young|Heart of Gold|1972|PUQXQLUXYII|Neil Young|S797|Country Rock;Folk Rock;Singer/Songwriter;Rock",
 "Kendrick Lamar|HUMBLE.|2017|tvTRZJ-4EyI|Kendrick Lamar|S16415|Pop Rap;Trap;West Coast Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "David Bowie|Ashes to Ashes|1980|HyMm4rJemtI|David Bowie|S549|Art Pop;New Wave;Pop;Rock",
 "Kendrick Lamar|King Kunta|2015|hRK7PVJFbS8|Kendrick Lamar|S9803|West Coast Hip Hop;Hip Hop",
