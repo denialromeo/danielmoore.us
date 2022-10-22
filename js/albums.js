@@ -1316,7 +1316,7 @@ const albums = [
 "Gil Scott-Heron|Pieces of a Man|1971|PLDIxWXRU4UDp7Vh9L2MV6tLml7kmdgpXP|A2477|Pieces of a Man|Gil Scott-Heron|Soul;R&B",
 "Pulp|His 'n' Hers|1994|PLyWB0TxTMmTlYAuK0CfJdM0kelrm7wD1H|A1595|His 'n' Hers|Pulp (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "Grizzly Bear|Yellow House|2006|PLA1688CD91B4B084D|A3074|Yellow House (album)|Grizzly Bear (band)|Indie Folk;Psychedelic Folk;Contemporary Folk;Folk",
-"Eric Clapton|Unplugged|1992|ERROR: Suitable playlist not found|A862|Unplugged (Eric Clapton album)|Eric Clapton|Acoustic Blues;Acoustic Rock;Blues;Rock",
+"Eric Clapton|Unplugged|1992|PL2A612F54967B18E6|A862|Unplugged (Eric Clapton album)|Eric Clapton|Acoustic Blues;Acoustic Rock;Blues;Rock",
 "The Verve|A Northern Soul|1995|PLyWB0TxTMmTm0WroYlKdPPunTjqWucdeb|A954|A Northern Soul|The Verve|Britpop;Neo-Psychedelia;Alternative Rock;Pop;Pop Rock;Psychedelic Rock;Rock",
 "Supertramp|Crime of the Century|1974|PL1X3qTzT40VmzzFhUkYDruSUrV7CW9bRh|A1153|Crime of the Century (album)|Supertramp|Art Rock;Progressive Rock;Rock",
 "Spoon|Girls Can Tell|2001|PLVPIjoifeKuYuMfJp1f2gmPQQpfK1QAPJ|A3877|Girls Can Tell|Spoon (band)|Indie Rock;Alternative Rock;Rock",
