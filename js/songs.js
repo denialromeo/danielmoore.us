@@ -260,7 +260,7 @@ const songs = [
 "The Beach Boys|Don't Worry Baby|1964|AG6KU1F8RbI|The Beach Boys|S1660|Doo-Wop;Vocal Surf;Descriptor;Pop;Pop Rock;R&B;Rock;Surf Music;Vocal Group",
 "Pixies|Debaser|1989|PVyS9JwtFoQ|Pixies (band)|S2433|Indie Rock;Alternative Rock;Rock",
 "The Velvet Underground|Sweet Jane|1970|uHxLawJONeQ|The Velvet Underground|S838|Pop Rock;Pop;Rock",
-"Frankie Lymon and the Teenagers|Why Do Fools Fall in Love|1955|O3NpKQPSlGc|The Teenagers|S1263|Doo-Wop;Descriptor;R&B;Vocal Group",
+"Frankie Lymon and the Teenagers|Why Do Fools Fall in Love|1955|jFr89i8SmnI|The Teenagers|S1263|Doo-Wop;Descriptor;R&B;Vocal Group",
 "Kate Bush|Running Up That Hill|1985|wp43OdtAAkM|Kate Bush|S393|Art Pop;Pop",
 "Michael Jackson|Beat It|1982|oRdxUFDoQe0?start=22|Michael Jackson|S457|Pop Rock;Pop;Rock",
 "Pink Floyd|Wish You Were Here|1975|hjpF8ukSrvk?start=57|Pink Floyd|S2589|Art Rock;Rock",
