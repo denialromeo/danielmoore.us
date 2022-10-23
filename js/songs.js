@@ -6053,7 +6053,7 @@ const songs = [
 "Suede|The Wild Ones|1994|NphkKvkGvaI|Suede (band)|S3866|Art Rock;Britpop;Glam Rock;Alternative Rock;Pop;Pop Rock;Rock",
 "Pavement|Range Life|1994|1VVj1zqbWpU|Pavement (band)|S9317|Indie Rock;Alternative Rock;Rock",
 "Ash|Goldfinger|1996|anFrYG410S8|Ash (band)|S5250|Britpop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock",
-"Bob B. Soxx & BlueJeans|Why Do Lovers Break Each Other's Heart?|1963|n2-loYhkOGQ?start=113|Bob B. Soxx & the Blue Jeans|S3835|Brill Building;Girl Group;Teen Pop;Pop",
+"Bob B. Soxx & BlueJeans|Why Do Lovers Break Each Other's Heart?|1963|M_hDscmvRQY|Bob B. Soxx & the Blue Jeans|S3835|Brill Building;Girl Group;Teen Pop;Pop",
 "First Aid Kit|My Silver Lining|2014|DKL4X0PZz7M|First Aid Kit (band)|S9617|Alt-Country;Folk Pop;Indie Folk;Contemporary Folk;Country;Folk;Pop",
 "David Axelrod|The Human Abstract|1969|5nurl0YewBA|David Axelrod (musician)|S5959|Baroque Pop;Psychedelic Pop;Pop",
 "Elton John|Someone Saved My Life Tonight|1975|2TfuRv4Wa_g|Elton John|S6241|Piano Rock;Pop;Pop Rock;Rock",
