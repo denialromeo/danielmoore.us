@@ -2143,7 +2143,7 @@ const albums = [
 "Elvis Costello and The Attractions|Punch the Clock|1983|PLmFE8JMdodQOJZ6gVGNl0J1crJLAGDvFT|A576|Punch the Clock|Elvis Costello|New Wave;Pop Soul;Pop;R&B;Rock;Soul",
 "Bat for Lashes|The Haunted Man|2012|PLgsEZYLIK7ywnxUexKaTJBlDwnP9CZZoL|A5193|The Haunted Man (album)|Bat for Lashes|Art Pop;Pop",
 "Pet Shop Boys|Please|1986|PLWh4AB0FIuESNoeEraEANq4Am5SX4hRMG|A676|Please (Pet Shop Boys album)|Pet Shop Boys|Dance-Pop;Synthpop;Dance;Electronic;Pop",
-"Radio Futura|La canción de Juan Perro|1987|PL3kbtU1iyFMV59HAHMRn708-Wn1pR6M42|A4722|https://en.wikipedia.org/wiki/Radio_Futura#Quintet:_%22La_Canci%C3%B3n_de_Juan_Perro%22|Radio Futura|New Wave;Pop Rock;Pop;Rock",
+"Radio Futura|La canción de Juan Perro|1987|PL6nLYGcomlTU_86-6otwoM7SBkgC2DI4N|A4722|https://en.wikipedia.org/wiki/Radio_Futura#Quintet:_%22La_Canci%C3%B3n_de_Juan_Perro%22|Radio Futura|New Wave;Pop Rock;Pop;Rock",
 "Kurt Vile|b'lieve i'm goin down|2015|PLkbQ1IWDmzDwEjYAeSgK8Tr7QZLEBWqZl|A5554|B'lieve I'm Goin Down...|Kurt Vile|Folk Rock;Singer/Songwriter;Rock",
 "Chris Isaak|Chris Isaak|1987|PLwhAEl-ufO2v743c7T9_U1pszLUEKLl-V|A1694|Chris Isaak (album)|Chris Isaak|Pop Rock;Pop;Rock",
 "Donny Hathaway|Everything Is Everything|1970|PLD4437D0492AB9B41|A2630|Everything Is Everything (Donny Hathaway album)|Donny Hathaway|Chicago Soul;R&B;Soul",
