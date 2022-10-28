@@ -2433,7 +2433,7 @@ const albums = [
 "Element of Crime|Weißes Papier|1993|PL8E981BDD227C89D3|A2941|Element of Crime|Element of Crime|Indie Pop;Liedermacher;Pop;Singer/Songwriter",
 "M. Ward|Post-War|2006|PLTo7dQWqLVihyB7_ptyN1nYn-vR7vlQfu|A3052|Post-War|M. Ward|Folk Rock;Indie Folk;Singer/Songwriter;Contemporary Folk;Folk;Rock",
 "Allen Toussaint|Southern Nights|1975|PLbqlfXp6o7YDVX8JDxdB4m-U-bdU2hVcx|A2578|Southern Nights (Allen Toussaint album)|Allen Toussaint|New Orleans R&B;Southern Soul;R&B;Soul",
-"Sloan|One Chord to Another|1996|PL7epfunGutqnCw2xd6kk3V9WywzMtc7Sb|A2999|One Chord to Another|Sloan (band)|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
+"Sloan|One Chord to Another|1996|PLvYjIhfu274jPHTHkUDZZrM6mNaU0-s-N|A2999|One Chord to Another|Sloan (band)|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
 "Marillion|Misplaced Childhood|1985|PLDD6nAEVVZxFumOISzBdoRneqI3-CipIY|A3055|Misplaced Childhood|Marillion|Neo-Prog;Progressive Rock;Rock",
 "Labelle|Nightbirds|1974|PL0vHvi9eF9UOE6KQyG8mHGUdv5FNqMOV_|A2525|Nightbirds|Labelle|Soul;R&B",
 "Bill Evans and Jim Hall|Undercurrent|1962|PL0q2VleZJVEkdnrXofZQNZ1lWRK7xHIJ1|A1912|Undercurrent (Bill Evans and Jim Hall album)|Bill Evans|Cool Jazz;Modal Jazz;Jazz",
