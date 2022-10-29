@@ -1,58 +1,22 @@
 {
 	"pages": [
 		{
-			"author": "Alan Moore",
-			"title": "DC Universe",
+			"author": "Neil Gaiman",
+			"title": "The Sandman",
 			"amazon": "",
-			"link": "assets/img/comics/green-lantern/01.jpg"
+			"link": "assets/img/comics/sandman3/01.jpg"
 		},
 		{
-			"author": "Alan Moore",
-			"title": "DC Universe",
+			"author": "Neil Gaiman",
+			"title": "The Sandman",
 			"amazon": "",
-			"link": "assets/img/comics/green-lantern/02.jpg"
+			"link": "assets/img/comics/sandman3/02.jpg"
 		},
 		{
-			"author": "Alan Moore",
-			"title": "DC Universe",
+			"author": "Neil Gaiman",
+			"title": "The Sandman",
 			"amazon": "",
-			"link": "assets/img/comics/green-lantern/03.jpg"
-		},
-		{
-			"author": "Alan Moore",
-			"title": "DC Universe",
-			"amazon": "",
-			"link": "assets/img/comics/green-lantern/04.jpg"
-		},
-		{
-			"author": "Alan Moore",
-			"title": "DC Universe",
-			"amazon": "",
-			"link": "assets/img/comics/green-lantern/05.jpg"
-		},
-		{
-			"author": "Alan Moore",
-			"title": "DC Universe",
-			"amazon": "",
-			"link": "assets/img/comics/green-lantern/06.jpg"
-		},
-		{
-			"author": "Alan Moore",
-			"title": "DC Universe",
-			"amazon": "",
-			"link": "assets/img/comics/green-lantern/07.jpg"
-		},
-		{
-			"author": "Alan Moore",
-			"title": "DC Universe",
-			"amazon": "",
-			"link": "assets/img/comics/green-lantern/08.jpg"
-		},
-		{
-			"author": "Alan Moore",
-			"title": "DC Universe",
-			"amazon": "",
-			"link": "assets/img/comics/green-lantern/09.jpg"
+			"link": "assets/img/comics/sandman3/03.jpg"
 		}
 	]
 }
