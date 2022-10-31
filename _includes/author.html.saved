@@ -74,6 +74,7 @@
       const charlotte = '"A spider\'s life can\'t help being something of a mess, with all this trapping and eating &nbsp;flies. By helping you, perhaps I was trying to lift up my own life a trifle."'
       const foyle = '"Foyle, the stereotype Common Man, was no more. The key turned in the lock of his &nbsp;soul and the door was opened. What emerged expunged the Common Man forever."'
       const livermore = '"People who look for easy money invariably pay for the privilege of proving &nbsp;conclusively that it cannot be found on this sordid earth."'
+      const khrushchev = '"We valued Gandhi\'s nobility of spirit, but we didn\'t understand him. In today\'s world, &nbsp;we felt, it was impossible to win freedom by such methods."'
 
       const imagesAndVideos = [
                                  {% if page.box == 'race' %}
@@ -90,6 +91,7 @@
                                  // ["/assets/img/imgur/IF244tM.jpg", "https://www.rferl.org/a/1103170.html", holodomor],
                                  // ["/assets/img/imgur/07qJW9K.jpg", "https://www.foreignaffairs.com/articles/china/2021-04-02/chinas-unrestricted-war-india", hackers],
                                  ["/assets/img/imgur/white-tiger2.jpg", "https://www.goodreads.com/notes/32574786-the-white-tiger/71655209-daniel-moore", balram5],
+                                 ["/assets/img/imgur/khrushchev.jpg", "https://www.rbth.com/blogs/2014/07/05/nikita_khrushchev_on_early_russian_impressions_of_india_36465", khrushchev, 'Nikita Khrushchev'],
                                  ["/assets/img/imgur/zVTJc2Q.jpg", "https://janataweekly.org/why-neoliberalism-needs-neofascists/", patnaik, 'Prabhat Patnaik'],
                                  ["/assets/img/imgur/e7WpR10.png", "https://www.mckinsey.com/business-functions/sustainability/our-insights/will-india-get-too-hot-to-work#", mckinsey],
                                  // ["/assets/img/imgur/GgCPRXR.jpg", "https://www.indianpunchline.com/us-plays-quad-card-during-beijing-olympics/#content", bhadrakumar],
