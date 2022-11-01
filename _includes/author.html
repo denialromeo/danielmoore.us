@@ -16,6 +16,7 @@
       const sagan = '"Every saint and sinner in the history of our species lived there &ndash; on a mote of dust &nbsp;suspended in a sunbeam."'
       const xaro = '"The justice of your cause means naught to the common men of Qarth. Why should &nbsp;my sailors care who sits on the throne of some kingdom at the edge of the world?”'
       const walk = '"Even when you\'re walking with no warnings, there\'s only two minutes between you &nbsp;and the inside of a cemetery fence. That\'s not much time."'
+      const walk2 = '"You\'re better to take it a day at a time, is all I\'m saying. If people just took it a day at &nbsp;a time, they\'d be a lot happier."'
       const yakko = '"United States, Canada, Mexico, Panama, Haiti, Jamaica, Peru! &nbsp;Republic&nbsp;Dominican, Cuba, Caribbean, Greenland, El Salvador too!"'
       const haldane = '"India may of course break up, but it is a wonderful experiment. So, I want to be &nbsp;labeled as a citizen of India."'
       const orwell = '"Theoretically &mdash; and secretly, of course &mdash; I was all for the Burmese and all against &nbsp;their oppressors, the British."'
@@ -71,6 +72,9 @@
       const long = '"There\'s a ceiling to the amount of sex that will fulfill your life, and it\'s quite low, and &nbsp;a place once reached, pretty disheartening."'
       const balram5 = '"My whole life, I have been treated like a donkey. All I want is that one son of mine&ndash;&nbsp;at least one&ndash;should live like a man."'
       const charlotte = '"A spider\'s life can\'t help being something of a mess, with all this trapping and eating &nbsp;flies. By helping you, perhaps I was trying to lift up my own life a trifle."'
+      const foyle = '"Foyle, the stereotype Common Man, was no more. The key turned in the lock of his &nbsp;soul and the door was opened. What emerged expunged the Common Man forever."'
+      const livermore = '"People who look for easy money invariably pay for the privilege of proving &nbsp;conclusively that it cannot be found on this sordid earth."'
+      const khrushchev = '"We valued Gandhi\'s nobility of spirit, but we didn\'t understand him. In today\'s world, &nbsp;we felt, it was impossible to win freedom by such methods."'
 
       const imagesAndVideos = [
                                  {% if page.box == 'race' %}
@@ -87,6 +91,7 @@
                                  // ["/assets/img/imgur/IF244tM.jpg", "https://www.rferl.org/a/1103170.html", holodomor],
                                  // ["/assets/img/imgur/07qJW9K.jpg", "https://www.foreignaffairs.com/articles/china/2021-04-02/chinas-unrestricted-war-india", hackers],
                                  ["/assets/img/imgur/white-tiger2.jpg", "https://www.goodreads.com/notes/32574786-the-white-tiger/71655209-daniel-moore", balram5],
+                                 ["/assets/img/imgur/khrushchev.jpg", "https://www.rbth.com/blogs/2014/07/05/nikita_khrushchev_on_early_russian_impressions_of_india_36465", khrushchev, 'Nikita Khrushchev'],
                                  ["/assets/img/imgur/zVTJc2Q.jpg", "https://janataweekly.org/why-neoliberalism-needs-neofascists/", patnaik, 'Prabhat Patnaik'],
                                  ["/assets/img/imgur/e7WpR10.png", "https://www.mckinsey.com/business-functions/sustainability/our-insights/will-india-get-too-hot-to-work#", mckinsey],
                                  // ["/assets/img/imgur/GgCPRXR.jpg", "https://www.indianpunchline.com/us-plays-quad-card-during-beijing-olympics/#content", bhadrakumar],
@@ -113,6 +118,8 @@
                                  ["/assets/img/imgur/wyJwnBa.jpg", "https://www.esquire.com/entertainment/music/interviews/a26330/gene-simmons-future-of-rock/", kiss, 'Gene Simmons'],
                                  ["/assets/img/imgur/OFoEt3E.jpg", "https://medium.com/cuepoint/like-it-is-bob-dylan-explains-what-really-killed-rock-n-roll-f6a4b6587a1a", dylan, 'Bob Dylan'],
                                  {% elsif page.box == 'schopenhauer' %}
+                                 ["/assets/img/imgur/livermore.jpg", "https://beleggersblueprint.nl/jesse-livermore-quotes/", livermore, "Jesse Livermore"],
+                                 // ["/assets/img/imgur/long.jpg", "https://nextshark.com/jeremy-long-final-statement/#primary", foyle],
                                  ["/assets/img/imgur/long.jpg", "https://nextshark.com/jeremy-long-final-statement/#primary", long],
                                  ["/assets/img/imgur/cioran.png", "https://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore", cioran2, 'Emil Cioran'],
                                  // ["/assets/img/imgur/pig.jpg", "https://bsidneysmith.com/writings/essays/all-the-bunnies-in-the-meadow-die", rabbit],
@@ -124,6 +131,7 @@
                                  // ["/assets/img/imgur/hGwPYVo.jpg", "http://www.mathpages.com/home/quotes.htm", einstein, 'Albert Einstein'],
                                  // ["/assets/img/imgur/YzqRXJI.jpg", "https://www.goodreads.com/notes/19196310-river-out-of-eden/71655209-daniel-moore", dawkins, 'Richard Dawkins'],
                                  ["/assets/img/imgur/kPIXsbI.jpg", "https://www.goodreads.com/notes/28165439-the-long-walk/71655209-daniel-moore", walk],
+                                 ["/assets/img/imgur/kPIXsbI.jpg", "https://www.goodreads.com/notes/28165439-the-long-walk/71655209-daniel-moore", walk2],
                                  ["/assets/img/imgur/lgACrR3.jpg", "https://www.goodreads.com/notes/31197112-the-book-of-five-rings/71655209-daniel-moore", musashi, 'Miyamoto Musashi'],
                                  ["/assets/img/imgur/lDcaM4o.jpg", "https://www.commonwealmagazine.org/interview-woody-allen", allen, 'Woody Allen'],
                                  // ["/assets/img/imgur/DXvy4Fc.jpg", "https://www.goodreads.com/notes/45030607-pet-sematary/71655209-daniel-moore", sematary, 'Stephen King'],
@@ -135,10 +143,19 @@
                                  {% elsif page.box == 'chess-puzzles' %}
                                  ["/assets/img/imgur/gbpTFJ5.png", "https://en.wikipedia.org/wiki/Immortal_Game#content", immortal],
                                  {% elsif page.box == 'index' %}
-                                 ["/assets/img/imgur/dF31gyi.jpg", "https://www.goodreads.com/notes/30238165-coders-at-work/71655209-daniel-moore", crockford, 'Douglas Crockford'],
+                                 // ["/assets/img/imgur/Sq64l3n.jpg", "https://www.goodreads.com/notes/18581676-be-slightly-evil/71655209-daniel-moore", rao],
+                                 // ["/assets/img/imgur/hp2MdWL.png", "https://www.goodreads.com/notes/30238165-coders-at-work/71655209-daniel-moore", bloch],
+                                 // ["/assets/img/imgur/oKGhUXQ.jpg", "https://braid.fandom.com/wiki/Storyline#World_2", braid, 'https://en.wikipedia.org/wiki/Braid_(video_game)#Development'],
+                                 ["/assets/img/imgur/oKGhUXQ.jpg", "https://braid.fandom.com/wiki/Storyline#World_2", braid2, 'https://en.wikipedia.org/wiki/Braid_(video_game)#Development'],
+                                 // ["/assets/img/imgur/oKGhUXQ.jpg", "https://braid.fandom.com/wiki/Storyline#World_2", braid4, 'https://en.wikipedia.org/wiki/Braid_(video_game)#Development'],
+                                 // ["/assets/img/imgur/oKGhUXQ.jpg", "https://braid.fandom.com/wiki/Storyline#World_2", braid3, 'https://en.wikipedia.org/wiki/Braid_(video_game)#Development'],
+                                 ["/assets/img/imgur/pu1hHqA.jpg", "https://dcanimated.com/WF/staticshock/backstage/interviews/mcduffiewf.php", mcduffie, 'Dwayne McDuffie'],
+                                 ["/assets/img/imgur/white-tiger.jpg", "https://www.goodreads.com/notes/32574786-the-white-tiger/71655209-daniel-moore", balram2],
+                                 ["/assets/img/imgur/white-tiger.jpg", "https://www.netflix.com/title/80202877", balram3],
+                                 ["/assets/img/imgur/0o2Pqi0.jpg", "http://shmuplations.com/justiceforall/", takumi, 'Shu Takumi'],
                                  {% elsif page.box == 'contact' %}
                                  ["/assets/img/imgur/gwXE0Ed.jpg", "https://en.wikiquote.org/wiki/Donald_Knuth#firstHeading", knuth, 'Donald Knuth'],
-                                 // ["/assets/img/imgur/charlotte.jpg", "https://www.youtube.com/watch?v=z7MAiU2E4ls", charlotte],
+                                 ["/assets/img/imgur/charlotte.jpg", "https://www.youtube.com/watch?v=z7MAiU2E4ls", charlotte],
                                  // ["/assets/img/imgur/dF31gyi.jpg", "https://www.goodreads.com/notes/30238165-coders-at-work/71655209-daniel-moore", crockford, 'Douglas Crockford'],
                                  {% else %}
                                  {% endif %}
