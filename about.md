@@ -143,6 +143,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Modernize and Never Seek Hegemony](https://dengxiaopingworks.wordpress.com/2013/02/25/realize-the-four-modernizations-and-never-seek-hegemony)" by [Deng Xiaoping](https://en.wikipedia.org/wiki/Deng_Xiaoping) (Father of globalization.)
 * "[On the Historical Unity of Russians and Ukrainians](http://en.kremlin.ru/events/president/news/66181)" by [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) (Tsardom reborn.)
 * "[The Social Responsibility of Business](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html)" by [Milton Friedman](https://en.wikipedia.org/wiki/Milton_Friedman) (Death knell for the welfare state.)
+* "[We Don't Want to Decouple From China](https://www.politico.eu/article/olaf-scholz-we-dont-want-to-decouple-from-china-but-cant-be-overreliant/)" by [Olaf Scholz](https://en.wikipedia.org/wiki/Olaf_Scholz) (Game over for Germany.)
 * "[Why I'm Leading a Congressional Delegation to Taiwan](https://www.washingtonpost.com/opinions/2022/08/02/nancy-pelosi-taiwan-visit-op-ed/)" by [Nancy Pelosi](https://en.wikipedia.org/wiki/Nancy_Pelosi) (Why, indeed.)
 
 {:#autobiographies}
