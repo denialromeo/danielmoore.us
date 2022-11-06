@@ -3312,7 +3312,7 @@ const songs = [
 "Tom Waits|Innocent When You Dream|1987|95gu6758320|Tom Waits|S3928|Cabaret;Singer/Songwriter;Musical Theatre and Entertainment",
 "U2|Gloria|1981|Bu-jwwgtBwE|U2|S8874|Post-Punk;Rock",
 "The Temptations|Get Ready|1966|FQUPcM1niSc|The Temptations|S3889|Motown Sound;Pop;Pop Soul;R&B;Soul",
-"The Rivingtons|Papa-Oom-Mow-Mow|1962|EQrQjNNZCAo|The Rivingtons|S1101|Doo-Wop;Descriptor;R&B;Vocal Group",
+"The Rivingtons|Papa-Oom-Mow-Mow|1962|NFv-uc90-FM|The Rivingtons|S1101|Doo-Wop;Descriptor;R&B;Vocal Group",
 "Cat Power|Cross Bones Style|1998|aW2PcOyAWwM|Cat Power|S4589|Indie Rock;Singer/Songwriter;Alternative Rock;Rock",
 "Tommy Dorsey|I'm Getting Sentimental Over You|1932|cKQc-cbAvdQ|Tommy Dorsey|S2674|Swing;Jazz",
 "The Association|Never My Love|1967|UzgpB9xpyT8|The Association|S3158|Psychedelic Pop;Sunshine Pop;Pop",

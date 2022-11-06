@@ -1907,7 +1907,7 @@ const albums = [
 "Michael Jackson|Dangerous|1991|PL15ty5GYCv5u0_w7pusvZtUP225slLmRT|A3375|Dangerous (Michael Jackson album)|Michael Jackson|Contemporary R&B;Pop;R&B",
 "Dizzy Gillespie|Groovin' High|1955|PL27ABCEAD08282B83|A1784|Groovin' High (Dizzy Gillespie album)|Dizzy Gillespie|Bebop;Jazz",
 "Son Volt|Trace|1995|PLX66jEixZe1y7v-O5J8Rz0MO22Awyuiz-|A959|Trace (Son Volt album)|Son Volt|Alt-Country;Americana;Country",
-"The Original Broadway Cast|Kiss Me Kate|1949|PL3wG3rTybUFQBzWhCeyWkJ0jmGjQzJAop|A1748|Kiss Me, Kate|Bella and Samuel Spewack|Show Tunes;Descriptor;Musical Theatre and Entertainment;Soundtracks",
+"The Original Broadway Cast|Kiss Me Kate|1949|PLnvXUJVX-eYnMK-foiP58p2pz94Br3Pmh|A1748|Kiss Me, Kate|Bella and Samuel Spewack|Show Tunes;Descriptor;Musical Theatre and Entertainment;Soundtracks",
 "Ennio Morricone|Il buono, il brutto, il cattivo / The Good, the Bad and the Ugly|1966|PLmvTwuOfElKymhoLQ7khpUeIiECpsI5Tk|A3277|The Good, the Bad and the Ugly (soundtrack)|Ennio Morricone|Film Score;Spaghetti Western;Cinematic Classical;Classical Music;Descriptor;Film Soundtrack;Soundtracks",
 "The Black Keys|Thickfreakness|2003|PLA5E225DE87D359B1|A5527|Thickfreakness|The Black Keys|Blues Rock;Rock",
 "Prefab Sprout|Jordan: The Comeback|1990|PL6Wj-0UghSdsTMTks8CVUBa_K3zq1w68A|A795|Jordan: The Comeback|Prefab Sprout|Art Pop;Sophisti-Pop;Pop",
