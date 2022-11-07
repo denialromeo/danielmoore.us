@@ -243,6 +243,7 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/portal.jpg" itemprop="contentUrl" data-size="800x1236"><img src="/assets/img/comics/showcase/portal.jpg"/></a><p><i>Portal 2: Lab Rat</i> by Ted Kosmatka</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/strange_embrace.jpg" itemprop="contentUrl" data-size="1074x1650"><img src="/assets/img/comics/showcase/strange_embrace.jpg"/></a><p><i>Strange Embrace</i> by David Hine</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/all_star_superman.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/showcase/all_star_superman.jpg"/></a><p><i>All-Star Superman</i> by Grant Morrison</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/superman.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/showcase/superman.jpg"/></a><p><i>DC Universe</i> by Alan Moore</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/swamp_thing.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/showcase/swamp_thing.jpg"/></a><p><i>Swamp Thing</i> by Alan Moore</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/showcase/sandman.jpg"/></a><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman2.5.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/showcase/sandman2.5.jpg"/></a><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
@@ -265,7 +266,6 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/watchmen4.5.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/showcase/watchmen4.5.jpg"/></a><p><i>Watchmen</i> by Alan Moore</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/watchmen4.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/showcase/watchmen4.jpg"/></a><p><i>Watchmen</i> by Alan Moore</p></figcaption></figure>
 </div>
-
 
 <div id="clear"></div>
 

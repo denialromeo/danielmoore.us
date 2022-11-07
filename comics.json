@@ -110,6 +110,12 @@
 		},
 		{
 			"author": "Alan Moore",
+			"title": "DC Universe",
+			"amazon": "https://www.amazon.com/dp/1596435739",
+			"link": "assets/img/comics/showcase/superman.jpg"
+		},
+		{
+			"author": "Alan Moore",
 			"title": "Swamp Thing",
 			"amazon": "https://www.amazon.com/dp/1596435739",
 			"link": "assets/img/comics/showcase/swamp_thing.jpg"
