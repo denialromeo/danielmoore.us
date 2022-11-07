@@ -1356,7 +1356,7 @@ const albums = [
 "Serge Gainsbourg|Aux armes et caetera|1979|PLAyqE9JL0JKMYc2zO5BOEj9rJDS9Zxjbt|A4615|Aux armes et cætera (album)|Serge Gainsbourg|Reggae;Caribbean Music;Jamaican Music;Regional Music",
 "Dexter Gordon|Our Man in Paris|1963|PLyVALLXezqcdxpToZpOggdDHMo14uw17z|A1931|Our Man in Paris|Dexter Gordon|Hard Bop;Bebop;Jazz",
 "The Jesus Lizard|Goat|1991|PLEE5EF49CD0D05C46|A3377|Goat (album)|The Jesus Lizard|Noise Rock;Rock",
-"Elvis Presley|Elvis (Original Soundtrack Recording From His NBC-TV Special)|1968|PL7QKd_tdMo8bVOT7pho9nF_5aRCLOlAas|A1240|Elvis Presley (album)|Elvis Presley|Pop Rock;Rock & Roll;Pop;Rock",
+"Elvis Presley|Elvis (Original Soundtrack Recording From His NBC-TV Special)|1968|PLtgiPVWmOlIbgyf1kGyZ6GUqT-NXwPK2a|A1240|Elvis Presley (album)|Elvis Presley|Pop Rock;Rock & Roll;Pop;Rock",
 "Art Blakey Quintet|A Night at Birdland Vol. 1|1954|PLUJ7V33M1wR24o6ZE760w2tk3s_PjwrEL|A1771|A Night at Birdland Vol. 1|Art Blakey|Hard Bop;Bebop;Jazz",
 "Arcade Fire|Reflektor|2013|PLQobi7mhQw1NYYiTgbHzSD7JjkbMQiCW0|A5270|Reflektor|Arcade Fire|Alternative Dance;Indie Rock;Alternative Rock;Dance;Rock",
 "Ornette Coleman|Change of the Century|1960|PL26E7604B1A8FC8F0|A1876|Change of the Century|Ornette Coleman|Avant-Garde Jazz;Jazz",
