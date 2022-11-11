@@ -29,6 +29,27 @@ I hope you have a good time here. Thanks for dropping by.
 
 {{ site.photoswipe }}
 
+<a href="javascript:;" id="dropdown" target="_self"><b>Investing Rules</b></a>
+<div id="instructions" style="display:none;">
+    <p>Just some quick beliefs that guide my investing acumen &ndash;</p>
+    <ul>
+        <li>Only invest in stocks or bonds. Real estate, gold, Bitcoin, etc. are all scams long-term.</li>
+        <li>Insider trading is rampant. Never buy individual stocks. Only index funds like VOO or SQQQ.</li>
+        <li>Work out if it's a bull market or a bear market. In a bull market, dollar-cost average into VOO. In a bear market, go to all-cash and put 10% of total funds into SQQQ to profit from the crash.</li>
+        <li>In a bear market, like 2022/2023, be vigilant of chances to take profit. Markets can remain irrational longer than you can remain solvent, so gaining 10% shorting a crash is excellent.</li>
+    </ul>
+</div>
+
+<a href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
+<div id="instructions2" style="display:none;">
+    <p>Some statements I believe &ndash;</p>
+    <ul>
+        <li>The 20th century's most influential people were Joseph Stalin, Mao Zedong, Lyndon Johnson, Richard Nixon, Nikita Khrushchev, Mikhail Gorbachev, Deng Xiaoping, and Bill Clinton.</li>
+        <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Barack Obama, and Donald Trump.</li>
+        <li>Everything boils down to industrial output. The future belongs to whomever runs the factories.</li>
+    </ul>
+</div>
+
 # Favorite
 
 {:#music}
@@ -189,6 +210,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Kaze Tachinu*](https://play.hbomax.com/page/urn:hbo:page:GXsQzAw8HPITCwgEAAAAM:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
 * [*Nope*](https://www.amazon.com/dp/B0B8V3YZ85) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Resurrects and deconstructs the classic blockbuster.)
 * [*Oldboy*](https://www.amazon.com/gp/product/B08LNLCL35) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (Intensely, painfully relatable.)
+* [*Shot Caller*](https://www.starz.com/us/en/play/64101) by [Ric Waugh](https://en.wikipedia.org/wiki/Ric_Roman_Waugh) (Watching this made me stop driving.)
 * [*Squid Game*](https://www.netflix.com/title/81040344) by [Hwang Dong-hyuk](https://en.wikipedia.org/wiki/Hwang_Dong-hyuk) (Thinly-veiled allegory for corporate life.)
 * [*Sweeney Todd*](https://play.hbomax.com/page/urn:hbo:page:GYGQJNwOcH4W2XgEAAABg:type:feature) by [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) (Probably the peak of film musicals.)
 * [*Synecdoche, New York*](https://www.hulu.com/movie/synecdoche-new-york-e28dfc74-a383-44da-b6ae-7ec7744286f6) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)

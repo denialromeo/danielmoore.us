@@ -160,6 +160,12 @@ src = `https://www.google.com/maps/embed/v1/view?key=AIzaSyBg5esZrKJYIXrvFfgu1TI
 document.getElementById("india-map").src = src
 </script>
 {% endif %}
+{% if page.title == 'Welcome to my website!' %}
+<script type="text/javascript">
+    $("#dropdown").click(() => $( "#instructions" ).slideToggle( "slow"))
+    $("#dropdown2").click(() => $( "#instructions2" ).slideToggle( "slow"))
+</script>
+{% endif %}
 {% if page.title == 'Random Acclaimed Song' %}
 <script type="text/javascript">
     $("#dropdown").click(() => $( "#instructions" ).slideToggle( "slow"))
