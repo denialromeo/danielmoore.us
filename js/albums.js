@@ -1105,7 +1105,7 @@ const albums = [
 "The Soft Boys|Underwater Moonlight|1980|PLo-CVFFA0DtUjfORio5MIXUsRT_qr_dzn|A1174|Underwater Moonlight|The Soft Boys|Jangle Pop;Neo-Psychedelia;Alternative Rock;Pop;Pop Rock;Psychedelic Rock;Rock",
 "The Police|Zenyatta Mondatta|1980|PLrpyDacBCh7CtSVA-XbsiLbMK6KU9zhCI|A1173|Zenyatta Mondatta|The Police|New Wave;Pop Rock;Pop;Rock",
 "Hercules and Love Affair|Hercules and Love Affair|2008|PLqGJJiYsnquxnX9DiN7QzfzWFgWC5Bzmq|A4345|Hercules and Love Affair (album)|Hercules and Love Affair|Electro-Disco;Dance;Disco;Electronic;Electronic Dance Music",
-"Danger Mouse|The Grey Album|2004|PL1X3qTzT40VmLZP-ULfJMxA4yyzSQsu1S|A4090|The Grey Album|Danger Mouse (musician)|Hip Hop;Mashup;Experimental;Plunderphonics;Sound Collage;Tape Music",
+"Danger Mouse|The Grey Album|2004|PLS5QeUQYxzna_v8cU0DnoPYTU5Ahl4cVl|A4090|The Grey Album|Danger Mouse (musician)|Hip Hop;Mashup;Experimental;Plunderphonics;Sound Collage;Tape Music",
 "ZZ Top|Eliminator|1983|PLo6knEvfbnHHKfKeN7BEieD7fgiXY75nV|A575|Eliminator (album)|ZZ Top|Hard Rock;Southern Rock;Rock",
 "Cornershop|When I Was Born for the 7th Time|1997|PLeaMbS6OBzkLE9AblAIQoPq5WP0bEPBAi|A995|When I Was Born for the 7th Time|Cornershop|Indie Pop;Indie Rock;Indietronica;Alternative Rock;Electronic;Pop;Rock",
 "Eels|Beautiful Freak|1996|PLiN-7mukU_RFm4kQ71Bm__DcsVBOHV1f-|A980|Beautiful Freak|Eels (band)|Alternative Rock;Indie Pop;Pop;Rock",
