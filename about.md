@@ -34,7 +34,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>Just some quick beliefs that guide my investing acumen &ndash;</p>
     <ul>
         <li>Only invest in stocks or bonds. Real estate, gold, Bitcoin, etc. are all scams long-term.</li>
-        <li>Insider trading is rampant. Never buy individual stocks. Only index funds like VOO or SQQQ.</li>
+        <li>Insider trading is rampant. Never buy individual stocks. Only index funds like <a href="https://investor.vanguard.com/investment-products/etfs/profile/voo#overview">VOO</a> or <a href="https://www.proshares.com/our-etfs/leveraged-and-inverse/sqqq">SQQQ</a>.</li>
         <li>Work out if it's a bull market or a bear market. In a bull market, dollar-cost average into VOO. In a bear market, go to all-cash and put 10% of total funds into SQQQ to profit from the crash.</li>
         <li>In a bear market, like 2022/2023, be vigilant of chances to take profit. Markets can remain irrational longer than you can remain solvent, so gaining 10% shorting a crash is excellent.</li>
     </ul>
