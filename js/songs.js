@@ -7072,7 +7072,7 @@ const songs = [
 "Animal Collective|What Would I Want? Sky|2009|-n0_C8uIjp0|Animal Collective|S5200|Art Pop;Neo-Psychedelia;Progressive Pop;Pop;Psychedelic Rock;Rock",
 "Bobby Vee|The Night Has a Thousand Eyes|1962|3GQAmTznY2o|Bobby Vee|S5579|Pop",
 "Bush|Swallowed|1996|8FIBPKRV3kk|Bush (British band)|S14204|Post-Grunge;Alternative Rock;Rock",
-"Ruby|Paraffin|1995|J5O56vmE_s8|Ruby (band)|S8262|Trip Hop;Downtempo;Electronic",
+"Ruby|Paraffin|1995|J5O56vmE_s8|Ruby (British band)|S8262|Trip Hop;Downtempo;Electronic",
 "Nick Drake|At the Chime of the City Clock|1971|9qlNDTfecGY|Nick Drake|S11750|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Peter Gabriel|Digging in the Dirt|1992|X0C3DHp36zc|Peter Gabriel|S11886|Art Rock;Rock",
 "Paul McCartney and Wings|Let Me Roll It|1973|kWFehaQEMYI|Paul McCartney and Wings|S11861|Blues Rock;Rock",
