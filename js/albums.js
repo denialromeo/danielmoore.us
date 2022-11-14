@@ -2788,7 +2788,7 @@ const albums = [
 "Paul McCartney|Chaos and Creation in the Backyard|2005|PLrQdLhFTcOSfwZGzluQZd9pblTN-1Yat7|A4212|Chaos and Creation in the Backyard|Paul McCartney|Pop;Singer/Songwriter",
 "Stars Of The Lid|And Their Refinement Of The Decline|2007|PLjx2E-myUmA475W_kZxvBmw9fkqiBEPeM|A4283|And Their Refinement of the Decline|Stars of the Lid|Ambient;Drone;Experimental",
 "The Gabby Pahinui Hawaiian Band|The Gabby Pahinui Hawaiian Band|1975|PLXozQUzMPLL1y5KlDVXmJu6d7sYefElkw|A2704|Gabby Pahinui|Gabby Pahinui|Slack-Key Guitar;Hawaiian Music;Polynesian Music;Regional Music",
-"Oasis|Be Here Now|1997|ERROR: Suitable playlist not found|A1011|Be Here Now (album)|Oasis (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
+"Oasis|Be Here Now|1997|PL0QiByZI-oerRHdDDmm7gOdibwhdJgt_o|A1011|Be Here Now (album)|Oasis (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "Echo and the Bunnymen|Porcupine|1983|PLy4u88AKUauKLT6xUBYDzWlzvPuzOf6PU|A595|Echo & the Bunnymen (album)|Echo & the Bunnymen|Post-Punk;Rock",
 "Ali Farka Touré|The River|1990|PLetv3SCC-r3aIIYw89HKH8-1vngYpgYf3|A4758|The River (Ali Farka Touré album)|Ali Farka Touré|Mande Music;Songhai Music;African Music;Regional Music;West African Music",
 "Cameo|Word Up!|1986|PL7418A09AED6DD425|A682|Word Up! (album)|Cameo (band)|Contemporary R&B;Synth Funk;Funk;R&B",
