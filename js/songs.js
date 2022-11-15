@@ -10732,7 +10732,7 @@ const songs = [
 "Richard Thompson|I Feel So Good|1991|vdvi8cB2Pt8|Richard Thompson (musician)|S8148|Folk Rock;Singer/Songwriter;Rock",
 "La Casa Azul|La revolución sexual|2007|juNxwa6H3lI|La Casa Azul|S7165|Indie Pop;Pop",
 "Sam Sparro|Black and Gold|2007|eHuebHTD-lY|Sam Sparro|S4744|Electropop;Synthpop;Electronic;Pop",
-"Marshall Crenshaw|Someday, Someday|1982|YKZkhdvSNSI|Marshall Crenshaw|S7441|Power Pop;Pop;Pop Rock;Rock",
+"Marshall Crenshaw|Someday, Someway|1982|YKZkhdvSNSI|Marshall Crenshaw|S7441|Power Pop;Pop;Pop Rock;Rock",
 "The Breeders|Divine Hammer|1993|tUiP5eyx3NM|The Breeders|S3238|Indie Rock;Alternative Rock;Rock",
 "Dion|Lonely Teenager|1960|WKj0UZqvhF4|Dion DiMucci|S4385|Doo-Wop;Teen Pop;Descriptor;Pop;R&B;Vocal Group",
 "John Kongos|He's Gonna Step on You Again|1971|8wTxjJrn2g4|John Kongos|S2561|Glam Rock;Pop Rock;Psychedelic Pop;Pop;Rock",
