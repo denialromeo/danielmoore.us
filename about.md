@@ -45,6 +45,12 @@ I hope you have a good time here. Thanks for dropping by.
         <li>In a bear market, like 2022/2023, be vigilant of chances to take profit. Markets can remain irrational longer than you can remain solvent, so gaining 10% shorting a crash is excellent.</li>
         <li>In bear markets, investments are limited to 10% of net worth. If money is lost, no refills! (Though feel free to re-invest gains.)</li>
     </ul>
+    <p>Further bull market rules &ndash;</p>
+    <ul>
+        <li>Pay attention to the Federal Reserve. In 2021, they <a href="https://www.reuters.com/business/finance/fed-officials-sell-stocks-avoid-apparent-conflict-interest-2021-09-09/">sold at the peak</a>. If they sell, you sell.</li>
+        <li>Also listen to Warren Buffett, Charlie Munger, Ray Dalio, and Jeff Bezos. They are oracles.</li>
+        <li>Feel free to invest 80% of net worth. But follow up with above indicators at least monthly.</li>
+    </ul>
 </div>
 
 <a href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
