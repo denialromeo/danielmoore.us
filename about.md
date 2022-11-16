@@ -37,6 +37,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Insider trading is rampant. Never buy individual stocks. Only index funds like <a href="https://investor.vanguard.com/investment-products/etfs/profile/voo#overview">VOO</a> or <a href="https://www.proshares.com/our-etfs/leveraged-and-inverse/sqqq">SQQQ</a>.</li>
         <li>Work out if it's a bull market or a bear market. In a bull market, dollar-cost average into VOO. In a bear market, go to all-cash and put 10% of total funds into SQQQ to profit from the crash.</li>
         <li>Never go counter-trend. Only invest sincerely in bull markets. Only short during bear markets.</li>
+        <li>"Set your own rules and stick to them. Never argue with the market. Never make a play you &nbsp;can’t afford. Never give way to irrational exuberance. Above all, don’t be a sucker."</li>
     </ul>
     <p>Further bear market rules &ndash;</p>
     <ul>
