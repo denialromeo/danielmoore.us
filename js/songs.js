@@ -4168,7 +4168,7 @@ const songs = [
 "Yo La Tengo|Tom Courtenay|1995|lrALeoN18bw|Yo La Tengo|S4228|Indie Rock;Noise Pop;Alternative Rock;Rock",
 "The Go-Betweens|Bachelor Kisses|1984|C_nn90p-tIg|The Go-Betweens|S2347|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Lorde|Perfect Places|2017|J0DjcsK_-HY|Lorde|S16438|Electropop;Synthpop;Electronic;Pop",
-"Bryan Ferry|Slave to Love|1985|9kp3N3wQPO0|Bryan Ferry|S5664|Pop Rock;Sophisti-Pop;Pop;Rock",
+"Bryan Ferry|Slave to Love|1985|UH1CMCtV4to|Bryan Ferry|S5664|Pop Rock;Sophisti-Pop;Pop;Rock",
 "Bob Marley and the Wailers|Concrete Jungle|1973|RIoBi1U-ASo|Bob Marley|S3598|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Miami Sound Machine|Conga|1985|54ItEmCnP80?start=58|Miami Sound Machine|S7528|Latin Freestyle;Latin Pop;Dance;Dance-Pop;Electronic;Electronic Dance Music;Freestyle;Hispanic Music;Latin American Music;Pop;Regional Music",
 "Daryl Hall & John Oates|Maneater|1982|yRYFKcMa_Ek|Hall & Oates|S6673|Pop Rock;Pop;Rock",
