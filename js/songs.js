@@ -6342,7 +6342,7 @@ const songs = [
 "The Kinks|Autumn Almanac|1967|p_u0gn1I8xQ|The Kinks|S14628|Pop Rock;Pop;Rock",
 "Charlie Parker|Billie's Bounce|1946|S4mRaEzwTYo|Charlie Parker|S9186|Bebop;Jazz",
 "Mark Ronson|Valerie|2007|bixuI_GV5I0|Mark Ronson|S7434|Jazz Pop;Pop Soul;Pop;R&B;Soul",
-"Camille|Ta douleur|2005|OPGNWFQy_gg|Camille (singer)|S10344|A cappella;Art Pop;French Pop;Nouvelle chanson française;Chanson;Descriptor;Pop;Regional Music",
+"Camille|Ta douleur|2005|OPGNWFQy_gg|Camille (French singer)|S10344|A cappella;Art Pop;French Pop;Nouvelle chanson française;Chanson;Descriptor;Pop;Regional Music",
 "Skip James|Hard Time Killing Floor Blues|1931|mYALBzfY5QY|Skip James|S15873|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music",
 "Kendrick Lamar|Untitled 07 2014 - 2016 (levitate)|2016|WlVT5bvAlcY|Kendrick Lamar|S16123|Trap;West Coast Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Madonna|Where's the Party|1986|Usp6NVrpKHI|Madonna (entertainer)|S2623|Dance-Pop;Synthpop;Dance;Electronic;Pop",
