@@ -50,6 +50,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Pay attention to the Federal Reserve. In 2021, they <a href="https://www.reuters.com/business/finance/fed-officials-sell-stocks-avoid-apparent-conflict-interest-2021-09-09/">sold at the peak</a>. If they sell, you sell.</li>
         <li>Also listen to Warren Buffett, Charlie Munger, Ray Dalio, and Jeff Bezos. They are oracles.</li>
         <li>Feel free to invest 80% of net worth. But follow up with above indicators at least monthly.</li>
+        <li>The cost to retire to India permanently is $500,000. Always remember this.</li>
     </ul>
 </div>
 
