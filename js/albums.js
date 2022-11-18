@@ -2240,7 +2240,7 @@ const albums = [
 "Rufus Wainwright|Want Two|2004|PLNGvf_eVw1TvNt4Ez6fiCUYSSt3spSuB_|A4105|Want Two|Rufus Wainwright|Art Pop;Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop",
 "Mogwai|Rock Action|2001|PLJG31QhtsKBxf0QheKQN4VHhHb-cUeYL9|A3857|Rock Action (album)|Mogwai|Post-Rock;Rock",
 "The Residents|The Third Reich 'n' Roll|1976|PLBD72906BEEDDB498|A2627|The Third Reich 'n Roll|The Residents|Experimental Rock;Musical Parody;Satire;Comedy;Descriptor;Musical Comedy;Rock",
-"Eric Dolphy|At the Five Spot, Vol. 1|1961|PLWuqeV9DLDprYAzIEWVpoV5dAStCZslr1|A1897|At the Five Spot|Eric Dolphy|Avant-Garde Jazz;Post-Bop;Bebop;Jazz",
+"Eric Dolphy|At the Five Spot, Vol. 1|1961|PL5-6xWXT6Tg4nnIW2grmBJ0qXSwyytpP-|A1897|At the Five Spot|Eric Dolphy|Avant-Garde Jazz;Post-Bop;Bebop;Jazz",
 "Henry Mancini|The Music from Peter Gunn|1959|PLxaDMaaSod7_9umu_-heWCXkSb6wUo73-|A1847|Peter Gunn|Henry Mancini|Jazz Pop;Television Music;Descriptor;Pop;Soundtracks",
 "Helmet|Meantime|1992|PLFV4Gr8OvH_OR8EITOLftfxYS8FMEmF66|A3420|Meantime (album)|Helmet (band)|Alternative Metal;Metal;Rock",
 "Journey|Escape|1981|PLSTBTvGGPW4CGr566a0FX-W7cXDZ1PIwN|A538|Escape (Journey album)|Journey (band)|AOR;Pop Rock;Pop;Rock",

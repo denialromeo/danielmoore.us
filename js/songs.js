@@ -5671,7 +5671,7 @@ const songs = [
 "Aretha Franklin|Until You Come Back to Me (That's What I'm Gonna Do)|1973|bJZwcaWResA|Aretha Franklin|S766|Pop Soul;Pop;R&B;Soul",
 "The Everly Brothers|Love Hurts|1960|hFE2SnliiV0|The Everly Brothers|S6318|Close Harmony;Pop;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music",
 "Duran Duran|Save a Prayer|1982|6Uxc9eFcZyM|Duran Duran|S6172|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock",
-"Paul McCartney|Mull of Kintyre|1977|EH7I-WV0LZA|Paul McCartney and Wings|S3609|Folk Pop;Contemporary Folk;Folk;Pop",
+"Paul McCartney|Mull of Kintyre|1977|OrbuDWit1Co|Paul McCartney and Wings|S3609|Folk Pop;Contemporary Folk;Folk;Pop",
 "Jimmie Lunceford|For Dancers Only|1937|ddiObTnaXk4|Jimmie Lunceford|S11206|Swing;Jazz",
 "Captain Beefheart and His Magic Band|Electricity|1967|S8eRDkiwGMM|Captain Beefheart|S5709|Experimental Rock;Psychedelic Rock;Rock",
 "Talking Heads|Crosseyed and Painless|1980|z92avHmgDRA|Talking Heads|S3881|Funk Rock;New Wave;Post-Punk;Rock",
