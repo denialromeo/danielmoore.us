@@ -63,6 +63,19 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Everything boils down to industrial output. The future belongs to whomever owns the factories.</li>
     </ul>
 </div>
+ 
+{%comment%}
+<a href="javascript:;" id="dropdown3" target="_self"><b>Goals</b></a>
+<div id="instructions3" style="display:none;">
+    <p>Some long-term goals &ndash;</p>
+    <ul>
+        <li>Learn Telugu and Tagalog.</li>
+        <li>Rent apartments in Hyderabad and the Philippines. Spend half the year in each.</li>
+        <li>Learn to draw competently enough to storyboard comics/short films.</li>
+        <li>Watch the following films at the <a href="https://www.criterionchannel.com/my-list">Criterion Channel</a> &ndash;<ul><li><i>The Third Man</i></li> <li><i>Night of the Living Dead</i></li> <li><i>From the Life of the Marionettes</i></li> <li><i>Alexander Nevsky</i></li> <li><i>Eight Hours Don’t Make a Day</i></li> <li><i>Kuroneko</i></li> <li><i>The Spirit of the Beehive</i></li> <li><i>The Human Condition I</i></li> <li><i>WAR AND PEACE: Part 1</i></li> <li><i>When We Were Kings</i></li> <li><i>Where Now Are the Dreams of Youth?</i></li> <li><i>Wild Strawberries</i></li> <li><i>Woman of Tokyo</i></li> <li><i>Yojimbo</i></li> <li><i>Yi Yi</i></li> <li><i>Fantastic Planet</i></li> <li><i>FANNY AND ALEXANDER: Episode 1</i></li> <li><i>Europa Europa</i></li> <li><i>Eraserhead</i></li> <li><i>An Enemy of the People</i></li> <li><i>Early Summer</i></li> <li><i>Early Spring</i></li> <li><i>Danton</i></li> <li><i>Daguerréotypes</i></li> <li><i>Cries and Whispers</i></li> <li><i>City Lights</i></li> <li><i>The Circus</i></li> <li><i>Chop Shop</i></li> <li><i>Carnival of Souls</i></li> <li><i>Calcutta</i></li> <li><i>A Brief History of Time</i></li> <li><i>Blood Simple</i></li> <li><i>The Ballad of Narayama</i></li> <li><i>An Autumn Afternoon</i></li> <li><i>Autumn Sonata</i></li> <li><i>Black Girl</i></li> <li><i>The Big City</i></li> <li><i>Bicycle Thieves</i></li> <li><i>After Life</i></li> <li><i>Jules and Jim</i></li> <li><i>Twin Peaks: Fire Walk with Me</i></li> <li><i>Walkabout</i></li> <li><i>Watership Down</i></li> <li><i>Andrei Rublev</i></li> <li><i>Tokyo Story</i></li> <li><i>Rashomon</i></li> <li><i>Hoop Dreams</i></li> <li><i>I vitelloni</i></li> <li><i>Late Spring</i></li> <li><i>The 400 Blows</i></li> <li><i>Pather Panchali</i></li> <li><i>The Exterminating Angel</i></li> <li><i>Belle de jour</i></li> <li><i>Ali: Fear Eats the Soul</i></li> <li><i>Veronika Voss</i></li> <li><i>Dersu Uzala</i></li> <li><i>Red Beard</i></li> <li><i>8½</i></li> <li><i>Police Story</i></li> <li><i>Man Push Cart</i></li> <li><i>Breathless</i></li> <li><i>Battleship Potemkin</i></li></ul></li>
+    </ul>
+</div>
+{%endcomment%}
 
 # Favorite
 
