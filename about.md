@@ -64,7 +64,7 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
 </div>
  
-{%comment%}
+{% if site.url contains site.local_url %}
 <a href="javascript:;" id="dropdown3" target="_self"><b>Goals</b></a>
 <div id="instructions3" style="display:none;">
     <p>Some long-term goals &ndash;</p>
@@ -75,7 +75,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Watch the following films at the <a href="https://www.criterionchannel.com/my-list">Criterion Channel</a> &ndash;<ul><li><i>The Third Man</i></li> <li><i>Night of the Living Dead</i></li> <li><i>From the Life of the Marionettes</i></li> <li><i>Alexander Nevsky</i></li> <li><i>Eight Hours Don’t Make a Day</i></li> <li><i>Kuroneko</i></li> <li><i>The Spirit of the Beehive</i></li> <li><i>The Human Condition I</i></li> <li><i>WAR AND PEACE: Part 1</i></li> <li><i>When We Were Kings</i></li> <li><i>Where Now Are the Dreams of Youth?</i></li> <li><i>Wild Strawberries</i></li> <li><i>Woman of Tokyo</i></li> <li><i>Yojimbo</i></li> <li><i>Yi Yi</i></li> <li><i>Fantastic Planet</i></li> <li><i>FANNY AND ALEXANDER: Episode 1</i></li> <li><i>Europa Europa</i></li> <li><i>Eraserhead</i></li> <li><i>An Enemy of the People</i></li> <li><i>Early Summer</i></li> <li><i>Early Spring</i></li> <li><i>Danton</i></li> <li><i>Daguerréotypes</i></li> <li><i>Cries and Whispers</i></li> <li><i>City Lights</i></li> <li><i>The Circus</i></li> <li><i>Chop Shop</i></li> <li><i>Carnival of Souls</i></li> <li><i>Calcutta</i></li> <li><i>A Brief History of Time</i></li> <li><i>Blood Simple</i></li> <li><i>The Ballad of Narayama</i></li> <li><i>An Autumn Afternoon</i></li> <li><i>Autumn Sonata</i></li> <li><i>Black Girl</i></li> <li><i>The Big City</i></li> <li><i>Bicycle Thieves</i></li> <li><i>After Life</i></li> <li><i>Jules and Jim</i></li> <li><i>Twin Peaks: Fire Walk with Me</i></li> <li><i>Walkabout</i></li> <li><i>Watership Down</i></li> <li><i>Andrei Rublev</i></li> <li><i>Tokyo Story</i></li> <li><i>Rashomon</i></li> <li><i>Hoop Dreams</i></li> <li><i>I vitelloni</i></li> <li><i>Late Spring</i></li> <li><i>The 400 Blows</i></li> <li><i>Pather Panchali</i></li> <li><i>The Exterminating Angel</i></li> <li><i>Belle de jour</i></li> <li><i>Ali: Fear Eats the Soul</i></li> <li><i>Veronika Voss</i></li> <li><i>Dersu Uzala</i></li> <li><i>Red Beard</i></li> <li><i>8½</i></li> <li><i>Police Story</i></li> <li><i>Man Push Cart</i></li> <li><i>Breathless</i></li> <li><i>Battleship Potemkin</i></li></ul></li>
     </ul>
 </div>
-{%endcomment%}
+{%endif%}
 
 # Favorite
 
@@ -253,13 +253,11 @@ I hope you have a good time here. Thanks for dropping by.
 **Comic Books**
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha2/1.png" itemprop="contentUrl" data-size="807x1080"><img style="border: 1px solid black;" src="/assets/img/comics/buddha2/1.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p><p><a href="https://archive.org/details/manga_Buddha-v02">Full Comic</a></p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha2/2.png" itemprop="contentUrl" data-size="807x1080"><img src="/assets/img/comics/buddha2/2.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha2/3.png" itemprop="contentUrl" data-size="807x1080"><img src="/assets/img/comics/buddha2/3.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha2/4.png" itemprop="contentUrl" data-size="807x1080"><img src="/assets/img/comics/buddha2/4.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha2/5.png" itemprop="contentUrl" data-size="807x1080"><img src="/assets/img/comics/buddha2/5.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha2/6.png" itemprop="contentUrl" data-size="807x1080"><img src="/assets/img/comics/buddha2/6.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha2/7.png" itemprop="contentUrl" data-size="807x1080"><img src="/assets/img/comics/buddha2/7.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/2.jpg" itemprop="contentUrl" data-size="684x1024"><img style="border: 1px solid black;" src="/assets/img/comics/zot/2.jpg"/></a><figcaption itemprop="caption description"><p><i>The Adventures of Zot in Dimension 10&#x00BD;</i> by Matt Feazell</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/3.jpg" itemprop="contentUrl" data-size="689x1024"><img src="/assets/img/comics/zot/3.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/4.jpg" itemprop="contentUrl" data-size="688x1024"><img src="/assets/img/comics/zot/4.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/5.jpg" itemprop="contentUrl" data-size="669x1024"><img src="/assets/img/comics/zot/5.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/6.jpg" itemprop="contentUrl" data-size="659x1024"><img src="/assets/img/comics/zot/6.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
@@ -327,20 +325,22 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="clear"></div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha2/1.png" itemprop="contentUrl" data-size="807x1080"><img style="border: 1px solid black;" src="/assets/img/comics/buddha2/1.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p><p><a href="https://archive.org/details/manga_Buddha-v02">Full Comic</a></p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha2/2.png" itemprop="contentUrl" data-size="807x1080"><img src="/assets/img/comics/buddha2/2.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha2/3.png" itemprop="contentUrl" data-size="807x1080"><img src="/assets/img/comics/buddha2/3.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha2/4.png" itemprop="contentUrl" data-size="807x1080"><img src="/assets/img/comics/buddha2/4.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha2/5.png" itemprop="contentUrl" data-size="807x1080"><img src="/assets/img/comics/buddha2/5.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha2/6.png" itemprop="contentUrl" data-size="807x1080"><img src="/assets/img/comics/buddha2/6.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha2/7.png" itemprop="contentUrl" data-size="807x1080"><img src="/assets/img/comics/buddha2/7.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha/1.png" itemprop="contentUrl" data-size="1300x1800"><img style="border: 1px solid black;" src="/assets/img/comics/buddha/1.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha/2.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha/2.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha/3.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha/3.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha/4.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha/4.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha/5.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha/5.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha/6.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha/6.png"/></a><figcaption itemprop="caption description"></figcaption></figure>
-</div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/2.jpg" itemprop="contentUrl" data-size="684x1024"><img style="border: 1px solid black;" src="/assets/img/comics/zot/2.jpg"/></a><figcaption itemprop="caption description"><p><i>The Adventures of Zot in Dimension 10&#x00BD;</i> by Matt Feazell</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/3.jpg" itemprop="contentUrl" data-size="689x1024"><img src="/assets/img/comics/zot/3.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/4.jpg" itemprop="contentUrl" data-size="688x1024"><img src="/assets/img/comics/zot/4.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/5.jpg" itemprop="contentUrl" data-size="669x1024"><img src="/assets/img/comics/zot/5.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/zot/6.jpg" itemprop="contentUrl" data-size="659x1024"><img src="/assets/img/comics/zot/6.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
