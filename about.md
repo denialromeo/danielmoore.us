@@ -62,6 +62,11 @@ I hope you have a good time here. Thanks for dropping by.
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Barack Obama, and Donald Trump.</li>
         <li>Everything boils down to industrial output. The future belongs to whomever owns the factories.</li>
     </ul>
+    <p>Some more personal statements I believe &ndash;</p>
+    <ul>
+        <li>White women are the only reason life has improved for non-white Americans. They run the Democratic Party that ended segregation and elected Obama. God bless white women.</li>
+        <li>Long-term, automation will force most Americans into unemployment and eventually prison. College will grow so expensive that debt will become life-long. The future is fascist.</li>
+    </ul>
 </div>
  
 {% if site.url contains site.local_url %}
