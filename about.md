@@ -56,17 +56,21 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
+    {%comment%}
     <p>Globally &ndash;</p>
+    {%endcomment%}
     <ul>
         <li>The 20th century's most influential people were Joseph Stalin, Mao Zedong, Lyndon Johnson, Richard Nixon, Nikita Khrushchev, Mikhail Gorbachev, Deng Xiaoping, and Bill Clinton.</li>
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Barack Obama, and Donald Trump.</li>
         <li>Everything boils down to industrial output. The future belongs to whomever owns the factories.</li>
     </ul>
+    {%comment%}
     <p>Locally &ndash;</p>
     <ul>
         <li>White women are the only reason life has improved for non-white Americans. They run the Democratic Party that ended segregation and elected Obama. God bless white women.</li>
         <li>Long-term, automation will force most male Americans into unemployment, then prison. Colleges will be 90% female and grow so expensive that debt will become life-long.</li>
     </ul>
+    {%endcomment%}
 </div>
  
 {% if site.url contains site.local_url %}
