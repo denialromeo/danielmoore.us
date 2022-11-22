@@ -60,7 +60,6 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li>The 20th century's most influential people were Joseph Stalin, Mao Zedong, Lyndon Johnson, Richard Nixon, Nikita Khrushchev, Mikhail Gorbachev, Deng Xiaoping, and Bill Clinton.</li>
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Barack Obama, and Donald Trump.</li>
-        <li>Western women receiving voting rights was the most important change of the 20th century. Desegregation and globalization would have been unlikely otherwise. Thank you, women!</li>
         <li>Everything boils down to industrial output. The future belongs to whomever owns the factories.</li>
     </ul>
 </div>
