@@ -56,11 +56,11 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
+    <p>I have very typical views for my location (California) and demographic (Indian-American male).</p>
     <p>Some statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Joseph Stalin, Mao Zedong, Lyndon Johnson, Richard Nixon, Nikita Khrushchev, Mikhail Gorbachev, Deng Xiaoping, and Bill Clinton.</li>
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Barack Obama, and Donald Trump.</li>
-        <li>Western women receiving voting rights was the most important change of the 20th century. Desegregation and globalization would have been unlikely otherwise. Thank you, women!</li>
         <li>Everything boils down to industrial output. The future belongs to whomever owns the factories.</li>
     </ul>
 </div>
