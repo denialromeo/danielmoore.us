@@ -47,7 +47,7 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
     <p>Further bull market rules &ndash;</p>
     <ul>
-        <li>Pay attention to the Federal Reserve. In 2021, they <a href="https://www.reuters.com/business/finance/fed-officials-sell-stocks-avoid-apparent-conflict-interest-2021-09-09/">sold at the peak</a>. If they sell, you sell. Also&nbsp;pay attention to the Chinese government. They banned Bitcoin <a href="https://www.theverge.com/2021/9/24/22691472/china-central-bank-cryptocurrency-illegal-bitcoin">at its peak</a>.</li>
+        <li>Pay attention to the Federal Reserve. In 2021, they <a href="https://www.reuters.com/business/finance/fed-officials-sell-stocks-avoid-apparent-conflict-interest-2021-09-09/">sold at the peak</a>. If they sell, you sell. Also&nbsp;/pay attention to the Chinese government. They banned Bitcoin <a href="https://www.theverge.com/2021/9/24/22691472/china-central-bank-cryptocurrency-illegal-bitcoin">at its peak</a>.</li>
         <li>Also listen to Warren Buffett, Charlie Munger, Ray Dalio, and Jeff Bezos. They are oracles.</li>
         <li>Feel free to invest 80% of net worth. But follow up with above indicators at least monthly.</li>
         <li>$500,000 is more than enough to retire to India permanently. Always remember this.</li>
@@ -56,7 +56,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
-    <p>I have very typical views for my location (California) and demographic (non-white male).</p>
+    <p>I have very typical views for my location (California) and demographic (non-white male). Probably the one issue I'm passionate about is feminism. (Women have the numbers to effect real change.)</p>
     <p>Some statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Joseph Stalin, Mao Zedong, Lyndon Johnson, Richard Nixon, Nikita Khrushchev, Mikhail Gorbachev, Deng Xiaoping, and Bill Clinton.</li>
@@ -244,7 +244,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Schindler's List*](https://www.amazon.com/gp/video/detail/B00BEN0V8S) by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) (Still the best film ever made about racism.)
 * [*Shot Caller*](https://www.starz.com/us/en/movies/shot-caller-64101) by [Ric Waugh](https://en.wikipedia.org/wiki/Ric_Roman_Waugh) (Watching this made me stop driving.)
 * [*Squid Game*](https://www.netflix.com/title/81040344) by [Hwang Dong-hyuk](https://en.wikipedia.org/wiki/Hwang_Dong-hyuk) (Thinly-veiled allegory for corporate life.)
-* [*Sweeney Todd*](https://play.hbomax.com/page/urn:hbo:page:GYGQJNwOcH4W2XgEAAABg:type:feature) by [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) (Probably the peak of film musicals.)
+* [*Sweeney Todd*](https://play.hbomax.com/page/urn:hbo:page:GYGQJNwOcH4W2XgEAAABg:type:feature) by [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) (Peak of film musicals.)
 * [*Synecdoche, New York*](https://www.hulu.com/movie/synecdoche-new-york-e28dfc74-a383-44da-b6ae-7ec7744286f6) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
 * [*Turning Red*](https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m) by [Domee Shi](https://en.wikipedia.org/wiki/Domee_Shi) (Written by women for women.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
