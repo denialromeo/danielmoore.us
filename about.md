@@ -99,15 +99,11 @@ I hope you have a good time here. Thanks for dropping by.
 * [StriveZen 2-Month View Wall Calendar](https://www.amazon.com/Calendar-2019-2020-StriveZen-Monthly-Vertical/dp/B07T6C13JD) (Record weight, reps/sets, diet, important dates, etc.)
 * [TeamMe Computer Desk](https://www.walmart.com/ip/Computer-Desk-Storage-Hutch-Pull-Out-Keyboard-Tray-Several-Bookshelves-63-4-L-x-18-1-W-46-1-H-Cabinet-Study-Workstation-Home-Office-White/445234806) (Maximum productivity.)
 * [Vive Wrist Brace](https://www.amazon.com/gp/product/B077BPYK5S/) (Type for ten hours a day.)
-* [Wihool External Blu-ray Drive](https://www.amazon.com/gp/product/B07TS5SHHY) (Allows Blu-ray use on PC.)
 * [YouTen Adjustable Weight Bench](https://www.amazon.com/dp/B07VYXH22Q) (Who needs a gym membership?)
-{%comment%}* [Gun Oil H2O Lubricant](https://www.gunoil.com/gun-oil-h2o) (Important part of a healthy life.){%endcomment%}
 
 {:#desktop-software}
 **Desktop Software**
 
-* "[AnyDVD HD](https://www.redfox.bz/anydvdhd.html)" by RedFox (Strips DVDs and Blu-rays of encryption for PC use.)
-* "[LibreOffice](https://www.libreoffice.org/)" by The Document Foundation (Open-source Microsoft Office replacement.)
 * "[NoVote](https://chrome.google.com/webstore/detail/novote/kepihiliocoofjjbgmcmalnjmeclpnga?hl=en)" by Dan Lovelace (Makes Reddit usable.)
 * "[OBS Studio](https://obsproject.com/)" by Hugh Bailey (Screen recording tool.)
 * "[Scoop](https://scoop.sh/)" by Luke Sampson (Windows command-line installer.)
