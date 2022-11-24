@@ -68,7 +68,7 @@ I hope you have a good time here. Thanks for dropping by.
 {% if site.url contains site.local_url %}
 <a href="javascript:;" id="dropdown3" target="_self"><b>Goals</b></a>
 <div id="instructions3" style="display:none;">
-    <p>Some long-term goals &ndash;</p>
+    <p>Some long-term goals &ndash; </p>
     <ul>
         <li>Learn Telugu and Tagalog.</li>
         <li>Rent apartments in Hyderabad and the Philippines. Spend half the year in each.</li>
