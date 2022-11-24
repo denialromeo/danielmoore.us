@@ -202,6 +202,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Live Young Forever*](https://www.amazon.com/gp/product/1552100642) by [Jack LaLanne](https://en.wikipedia.org/wiki/Jack_LaLanne) (Maintained vehicles last twice as long.)
 * [*Nickel and Dimed*](https://www.goodreads.com/notes/8893315-nickel-and-dimed/71655209-daniel-moore) by [Barbara Ehrenreich](https://en.wikipedia.org/wiki/Barbara_Ehrenreich) (Poverty is expensive.)
 * [*Revolutionary Suicide*](https://www.goodreads.com/notes/8176686-revolutionary-suicide/71655209-daniel-moore) by [Huey Newton](https://en.wikipedia.org/wiki/Huey_P._Newton) (Effective activists are doomed men.)
+* [*What Happened*](https://www.goodreads.com/notes/34114362-what-happened/71655209-daniel-moore) by [Hillary Clinton](https://en.wikipedia.org/wiki/Hillary_Clinton) (Her electoral losses defined the 21st century.)
 
 {:#novels}
 **Novels**
