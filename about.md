@@ -45,6 +45,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Bear markets tend to have a series of booms and busts trending lower. Try to buy booms and sell busts. If you mistime, just wait for the market to fall back. Follow price &ndash; ignore events.</li>
         <li>Pay attention to media outlets and avoid trading in sync with them. If they're claiming a recession is imminent, expect a rally.</li>
         <li>In bear markets, investments are limited to 10% of net worth. If money is lost, no refills! (Though feel free to re-invest gains.)</li>
+        <li>Winning such small sums may make trading bear markets pointless. Feel free to go all-cash and wait for the next bull market in a few years.</li>
     </ul>
     <p>Further bull market rules &ndash;</p>
     <ul>
