@@ -34,7 +34,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>Just some quick beliefs that guide my investing acumen &ndash;</p>
     <ul>
         <li>Only invest in stocks or bonds. Real estate, gold, Bitcoin, etc. are all scams long-term.</li>
-        <li>Insider trading is rampant. Never buy individual stocks. Only index funds like <a href="https://investor.vanguard.com/investment-products/etfs/profile/voo#overview">VOO</a> or <a href="https://www.proshares.com/our-etfs/leveraged-and-inverse/sqqq">SQQQ</a>.</li>
+        <li>Insider trading is rampant. Never buy individual stocks. Only index funds like <a href="https://investor.vanguard.com/investment-products/etfs/profile/voo#overview">VOO</a>.</li>
         <li>Work out if it's a bull market or a bear market. In a bull market, dollar-cost average into VOO. In a bear market, buy T-Bills for a guaranteed 4-5% return over six months.</li>
         <li>Never go counter-trend. Only invest sincerely in bull markets. Only T-Bills in bear markets.</li>
         <li>"Set your own rules and stick to them. Never argue with the market. Never make a play you &nbsp;can’t afford. Never give way to irrational exuberance. Above all, don’t be a sucker."</li>
