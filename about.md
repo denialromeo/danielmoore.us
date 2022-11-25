@@ -43,6 +43,7 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li>In a bear market, like 2022/2023, be vigilant of chances to take profit. Markets can remain irrational longer than you can remain solvent, so gaining 10% shorting a crash is excellent.</li>
         <li>Bear markets tend to have a series of booms and busts trending lower. Try to buy booms and sell busts. If you mistime, just wait for the market to fall back. Follow price &ndash; ignore events.</li>
+        <li>Pay attention to media outlets and avoid trading in sync with them. If they're claiming a recession is imminent, expect a rally.</li>
         <li>In bear markets, investments are limited to 10% of net worth. If money is lost, no refills! (Though feel free to re-invest gains.)</li>
     </ul>
     <p>Further bull market rules &ndash;</p>
