@@ -49,7 +49,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
-    <p>I have very typical views for my location (California) and demographic (minority male). Probably the one issue I'm passionate about is feminism. (Women have the numbers to force real change.)</p>
+    <p>I have very typical views for my location (California) and demographic (minority male). Probably the one cause I'm passionate about is feminism. (Women have the numbers to force real change.)</p>
     <p>Some statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Joseph Stalin, Mao Zedong, Lyndon Johnson, Richard Nixon, Nikita Khrushchev, Mikhail Gorbachev, Deng Xiaoping, and Bill Clinton.</li>
