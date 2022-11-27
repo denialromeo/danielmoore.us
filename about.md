@@ -108,7 +108,6 @@ I hope you have a good time here. Thanks for dropping by.
 {:#blog-posts}
 **Blog Posts**
 
-* "[A Bollywood Movie Doesn't Need a Hollywood Director](https://www.globaltimes.cn/page/202210/1276895.shtml?id=11)" by Xin Ping (The future beckons!)
 * "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (My parents' generation really got shafted.)
 * "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkatesh Rao (Organizational politics demystified.)
 * "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
@@ -158,6 +157,14 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Light on the Yoga Sutras of Patanjali*](https://www.goodreads.com/notes/18903748-light-on-the-yoga-sutras-of-patanjali/71655209-daniel-moore) by [B.K.S. Iyengar](https://en.wikipedia.org/wiki/B._K._S._Iyengar) (Exerting control over the mind.)
 * [*Straw Dogs*](https://www.goodreads.com/notes/29767507-straw-dogs/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (Breaking free of monotheistic orthodoxy.)
 
+{:#news-articles}
+**News Articles**
+
+* "[2016: The Most Important Election Since 1932](https://www.brookings.edu/opinions/2016-the-most-important-election-since-1932/)" by Hank J. Aaron (It actually was.)
+* "[The Age of Social Media Is Ending](https://www.theatlantic.com/technology/archive/2022/11/twitter-facebook-social-media-decline/672074/)" by Ian Bogost (Silicon Valley's last hurrah.)
+* "[India's March on the Road of Decolonization](https://www.globaltimes.cn/page/202210/1276895.shtml?id=11)" by Xin Ping (Sino-Indian rapprochement.)
+* "[We Don't Want to Decouple From China](https://www.politico.eu/article/olaf-scholz-we-dont-want-to-decouple-from-china-but-cant-be-overreliant/)" by [Olaf Scholz](https://en.wikipedia.org/wiki/Olaf_Scholz) (Game over for Germany.)
+
 {:#history-books}
 **History Books**
 
@@ -181,7 +188,6 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Modernize and Never Seek Hegemony](https://dengxiaopingworks.wordpress.com/2013/02/25/realize-the-four-modernizations-and-never-seek-hegemony)" by [Deng Xiaoping](https://en.wikipedia.org/wiki/Deng_Xiaoping) (Father of globalization.)
 * "[On the Historical Unity of Russians and Ukrainians](http://en.kremlin.ru/events/president/news/66181)" by [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) (Tsardom reborn.)
 * "[The Social Responsibility of Business](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html)" by [Milton Friedman](https://en.wikipedia.org/wiki/Milton_Friedman) (Death knell for the welfare state.)
-* "[We Don't Want to Decouple From China](https://www.politico.eu/article/olaf-scholz-we-dont-want-to-decouple-from-china-but-cant-be-overreliant/)" by [Olaf Scholz](https://en.wikipedia.org/wiki/Olaf_Scholz) (Game over for Germany.)
 * "[Why I'm Leading a Congressional Delegation to Taiwan](https://www.washingtonpost.com/opinions/2022/08/02/nancy-pelosi-taiwan-visit-op-ed/)" by [Nancy Pelosi](https://en.wikipedia.org/wiki/Nancy_Pelosi) (Why, indeed.)
 
 {:#autobiographies}
