@@ -100,7 +100,6 @@ I hope you have a good time here. Thanks for dropping by.
 * "[NoVote](https://chrome.google.com/webstore/detail/novote/kepihiliocoofjjbgmcmalnjmeclpnga?hl=en)" by Dan Lovelace (Makes Reddit usable.)
 * "[OBS Studio](https://obsproject.com/)" by Hugh Bailey (Screen recording tool.)
 * "[Scoop](https://scoop.sh/)" by Luke Sampson (Windows command-line installer.)
-* "[ScreenToGif](https://github.com/NickeManarin/ScreenToGif#readme)" by Nicke Manarin (Animated screenshots.)
 * "[Video Screenshot](https://chrome.google.com/webstore/detail/video-screenshot/ppkojackhibeogijphhfnamhemklmial?hl=en)" by Martin Strauss (Generate desktop wallpapers from streaming sites.)
 * "[Vimium](https://github.com/philc/vimium#readme)" by Phil Crosby (Mouse-less browsing.)
 * "[youtube-dl](https://github.com/yt-dlp/yt-dlp#readme)" by Ricardo Garc&iacute;a (Download YouTube videos.)
