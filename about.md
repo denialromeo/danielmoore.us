@@ -161,7 +161,6 @@ I hope you have a good time here. Thanks for dropping by.
 **News Articles**
 
 * "[The Age of Social Media Is Ending](https://www.theatlantic.com/technology/archive/2022/11/twitter-facebook-social-media-decline/672074/)" by Ian Bogost (Silicon Valley's last hurrah.)
-* "[India's March on the Road of Decolonization](https://www.globaltimes.cn/page/202210/1276895.shtml?id=11)" by Xin Ping (Sino-Indian rapprochement.)
 * "[Quantitative Easing Was a Massive Policy Mistake](https://archive.ph/zAxbD)" by Allison Scharger (End of easy money.)
 * "[We Don't Want to Decouple From China](https://www.politico.eu/article/olaf-scholz-we-dont-want-to-decouple-from-china-but-cant-be-overreliant/)" by [Olaf Scholz](https://en.wikipedia.org/wiki/Olaf_Scholz) (Game over for Germany.)
 
