@@ -37,6 +37,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Insider trading is rampant. Never buy individual stocks. Only index funds like <a href="https://investor.vanguard.com/investment-products/etfs/profile/voo#overview">VOO</a>.</li>
         <li>Work out if it's a bull market or a bear market. In a bull market, dollar-cost average into VOO. In a bear market (like present), buy T-Bills for a guaranteed 4-5% return over six months.</li>
         <li>Never go counter-trend. Only invest sincerely in bull markets. Only T-Bills in bear markets.</li>
+        <li>"One of the most helpful things that anybody can learn is to give up trying to catch the last &nbsp;eighth or the first. These are the two most expensive eighths in the world."</li>
     </ul>
     <p>Further bull market rules &ndash;</p>
     <ul>
