@@ -160,7 +160,6 @@ I hope you have a good time here. Thanks for dropping by.
 {:#news-articles}
 **News Articles**
 
-* "[2016: The Most Important Election Since 1932](https://www.brookings.edu/opinions/2016-the-most-important-election-since-1932/)" by Hank J. Aaron (It actually was.)
 * "[The Age of Social Media Is Ending](https://www.theatlantic.com/technology/archive/2022/11/twitter-facebook-social-media-decline/672074/)" by Ian Bogost (Silicon Valley's last hurrah.)
 * "[India's March on the Road of Decolonization](https://www.globaltimes.cn/page/202210/1276895.shtml?id=11)" by Xin Ping (Sino-Indian rapprochement.)
 * "[Quantitative Easing Was a Massive Policy Mistake](https://archive.ph/zAxbD)" by Allison Scharger (End of easy money.)
