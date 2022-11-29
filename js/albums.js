@@ -1032,7 +1032,7 @@ const albums = [
 "Red Hot Chili Peppers|Californication|1999|PL8P8cl_DddmdfMpYJx-52udauhZvFnAfq|A3752|Californication (album)|Red Hot Chili Peppers|Alternative Rock;Pop Rock;Pop;Rock",
 "Big Black|Atomizer|1986|PLF56F94BE1CDFF4DD|A1508|Atomizer (album)|Big Black|Noise Rock;Post-Hardcore;Punk Rock;Rock",
 "The Pop Group|Y|1979|PLD5JPcnL768HmOpD1rj82Xnmia5aVYEYK|A1458|Y (album)|The Pop Group|Art Punk;Experimental Rock;Post-Punk;Punk Rock;Rock",
-"Mobb Deep|The Infamous...|1995|PLX68ZEYlh74v4xxEMA6tE9Zs2-zxIY6cn|A3580|The Infamous Mobb Deep|Mobb Deep|Boom Bap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
+"Mobb Deep|The Infamous...|1995|PLrbFUdbfepXVdqvYo7PgOsrpwBJneDZa6|A3580|The Infamous Mobb Deep|Mobb Deep|Boom Bap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Sinéad O'Connor|The Lion and the Cobra|1987|PLI6kLIhBBwmSglTf3qhLD27o0kax6fIIw|A713|The Lion and the Cobra|Sinéad O'Connor|Alternative Rock;Pop Rock;Singer/Songwriter;Pop;Rock",
 "The Rolling Stones|No. 2/The Rolling Stones Now!|1965|PLL44kuYYS8ynqoHlprGsislw-WujCKyEz|A47|The Rolling Stones (album)|The Rolling Stones|Blues Rock;Rhythm & Blues;R&B;Rock",
 "Blind Faith|Blind Faith|1969|PLz6cAheObZcgC3cr1wCp5hf90GWWW85Bw|A1228|Blind Faith (Blind Faith album)|Blind Faith|Blues Rock;British Blues;Blues;Electric Blues;Rock",
