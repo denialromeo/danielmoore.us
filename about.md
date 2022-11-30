@@ -37,7 +37,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Insider trading is rampant. Never buy individual stocks. Only index funds like <a href="https://investor.vanguard.com/investment-products/etfs/profile/voo#overview">VOO</a>.</li>
         <li>Work out if it's a bull market or a bear market. In a bull market, dollar-cost average into VOO. In a bear market (like present), buy T-Bills for a guaranteed 4-5% return over six months.</li>
         <li>Never go counter-trend. Only invest sincerely in bull markets. Only T-Bills in bear markets.</li>
-        <li>"There is timing in the Way of the merchant, in the rise and fall of capital. All things entail rising &nbsp;and falling timing. You must be able to discern this." &ndash; <a href="https://www.goodreads.com/notes/31197112-the-book-of-five-rings/71655209-daniel-moore">Miyamoto Musashi</a></li>
+        <li>"There is timing in the Way of the merchant, in the rise and fall of capital. All things entail rising &nbsp;and falling timing. You must be able to discern this." &ndash; Miyamoto Musashi</li>
     </ul>
     <p>Further bull market rules &ndash;</p>
     <ul>
@@ -153,6 +153,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Philosophy Books**
 
 * [*The Analects of Confucius*](http://wengu.tartarie.com/wg/wengu.php?l=Lunyu&no=0) by [Kong Fuzi](https://en.wikipedia.org/wiki/Confucius) (Building a society that works starts from the bottom.)
+* [*The Book of Five Rings*](https://www.goodreads.com/notes/31197112-the-book-of-five-rings/71655209-daniel-moore) by [Miyamoto Musashi](https://en.wikipedia.org/wiki/Miyamoto_Musashi) (From one thing, know ten thousand things.)
 * [*The Complete Works*](https://www.goodreads.com/notes/29997711-the-collected-works-of-arthur-schopenhauer/71655209-daniel-moore) by [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (Ancient wisdom in a modern context.)
 * [*Light on the Yoga Sutras of Patanjali*](https://www.goodreads.com/notes/18903748-light-on-the-yoga-sutras-of-patanjali/71655209-daniel-moore) by [B.K.S. Iyengar](https://en.wikipedia.org/wiki/B._K._S._Iyengar) (Exerting control over the mind.)
 * [*Straw Dogs*](https://www.goodreads.com/notes/29767507-straw-dogs/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (Breaking free of monotheistic orthodoxy.)
