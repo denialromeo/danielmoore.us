@@ -1806,7 +1806,7 @@ const albums = [
 "Black Uhuru|Red|1981|PLdB2qly-JTgDpl-WnCMHZvgItIAtMxNMB|A512|Red (Black Uhuru album)|Black Uhuru|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Arthur Russell|World of Echo|1986|PLm1szpOehiwO5rmTJqgNq6qsEf0864z70|A4716|World of Echo|Arthur Russell (musician)|Ambient Pop;Art Pop;Pop",
 "The Tragically Hip|Fully Completely|1992|PLz6cAheObZcixiAHcG_Vb3jL3O1krtmFp|A2938|Fully Completely|The Tragically Hip|Rock",
-"The Birthday Party|Junkyard|1982|PLkk4H5DzKt915MfHkeqXhfIh7XwaEgMr0|A563|Junkyard (album)|The Birthday Party (band)|Noise Rock;Post-Punk;Punk Blues;Punk Rock;Rock",
+"The Birthday Party|Junkyard|1982|PLHP7bAjOIkpBVOLmQbra7p1LWDY8IwB6n|A563|Junkyard (album)|The Birthday Party (band)|Noise Rock;Post-Punk;Punk Blues;Punk Rock;Rock",
 "Morphine|Cure for Pain|1993|PL2l5LbNNFMvp4SXMjdfrn3IXpdT2sgZw5|A3481|Cure for Pain|Morphine (band)|Alternative Rock;Jazz-Rock;Rock",
 "The Dandy Warhols|Thirteen Tales from Urban Bohemia|2000|PLiN-7mukU_RGIvX_f9suajkBE0Vi8sB0i|A1098|Thirteen Tales from Urban Bohemia|The Dandy Warhols|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock",
 "Miles Davis|A Tribute to Jack Johnson|1971|PL7PoLThzHckLGkkiGaTMYMu0UcJ4_pGci|A1997|Jack Johnson (album)|Miles Davis|Jazz Fusion;Jazz-Rock;Jazz;Rock",
