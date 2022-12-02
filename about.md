@@ -164,7 +164,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * "[The Age of Social Media Is Ending](https://www.theatlantic.com/technology/archive/2022/11/twitter-facebook-social-media-decline/672074/)" by Ian Bogost (Silicon Valley's last hurrah.)
 * "[Quantitative Easing Was a Colossal Policy Mistake](https://archive.ph/zAxbD)" by Allison Scharger (End of an era.)
-* "[Sunak Faces a Fractious Party](https://www.ft.com/content/1b330aa1-d267-4c0d-88cf-cea6015cafa6)" by Stephen Bush (Divide and rule.)
+* "[Sunak Faces a Fractious Party](https://12ft.io/https://www.ft.com/content/1b330aa1-d267-4c0d-88cf-cea6015cafa6)" by Stephen Bush (Divide and rule.)
 * "[We Don't Want to Decouple From China](https://www.politico.eu/article/olaf-scholz-we-dont-want-to-decouple-from-china-but-cant-be-overreliant/)" by [Olaf Scholz](https://en.wikipedia.org/wiki/Olaf_Scholz) (Game over for Germany.)
 
 {:#history-books}
