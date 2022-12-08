@@ -122,6 +122,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)" by Peter Norvig (No royal road to geometry.)
 * "[Welcome to the Ruzzkiy Mir](https://yasha.substack.com/p/welcome-to-the-ruzzkiy-mir)" by Evgenia Korda (Understanding modern Russia.)
 * "[What if You Only Invested at Market Peaks?](https://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/#main)" by Ben Carlson (Slow and steady.)
+* "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 
 {:#programming-books}
 **Programming Books**
