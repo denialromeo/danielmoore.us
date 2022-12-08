@@ -7559,7 +7559,7 @@ const songs = [
 "Travi$ Scott|Antidote|2015|KnZ8h3MRuYg|Travis Scott (rapper)|S9862|Cloud Rap;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Bryan Adams|Heaven|1984|s6TtwR2Dbjg|Bryan Adams|S10320|AOR;Soft Rock;Pop;Pop Rock;Rock",
 "Pearl Jam|Wishlist|1998|2EIwGDPph9Q|Pearl Jam|S7922|Alternative Rock;Rock",
-"Jack Scott|My True Love|1958|0sXPjoWjJHo|Jack Scott (singer)|S6819|Rockabilly;Rock;Rock & Roll",
+"Jack Scott|My True Love|1958|Ihczg3RFZ-E|Jack Scott (singer)|S6819|Rockabilly;Rock;Rock & Roll",
 "Stampeders|Sweet City Woman|1971|2CPt3eSBJiQ|The Stampeders|S8542|Pop Rock;Pop;Rock",
 "Klaxons|Gravity's Rainbow|2006|PXgjdhLnufo|Klaxons|S7137|Alternative Dance;Dance-Punk;Post-Punk Revival;Alternative Rock;Dance;Indie Rock;Post-Punk;Rock",
 "Sarah Vaughan|Summertime|1950|mmofX0rE6CQ|Sarah Vaughan|S15851|Vocal Jazz;Jazz",
