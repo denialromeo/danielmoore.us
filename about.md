@@ -148,6 +148,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*The Case Against Education*](https://www.goodreads.com/notes/52147324-the-case-against-education/71655209-daniel-moore) by [Bryan Caplan](http://www.bcaplan.com/) (We waste a third of our lives social signaling.)
 * [*The India Way*](https://www.goodreads.com/notes/54627411-the-india-way/71655209-daniel-moore) by [Subrahmanyam Jaishankar](https://en.wikipedia.org/wiki/S._Jaishankar) (Moving up in the world as a middle power.)
+* [*The Neoliberal Endgame*](https://www.goodreads.com/notes/20574045-the-falling-rate-of-learning-and-the-neoliberal-endgame/71655209-daniel-moore) by [David Blacker](https://www.cehd.udel.edu/faculty-bio/david-blacker/) (America's destiny, as set forth by Nixon.)
 * [*Open Borders*](https://www.amazon.com/dp/1250316960) by [Bryan Caplan](https://en.wikipedia.org/wiki/Bryan_Caplan) (Immigration restrictions make no economic sense.)
 * [*River Out of Eden*](https://www.goodreads.com/notes/19196310-river-out-of-eden/71655209-daniel-moore) by [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) (Suffering and scarcity are built into the system.)
 * [*Untrue: Women, Lust, and Infidelity*](https://www.goodreads.com/notes/38907660-untrue/71655209-daniel-moore) by [Wednesday Martin](https://en.wikipedia.org/wiki/Wednesday_Martin) (Primate sexual market dynamics.)
@@ -160,15 +161,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Complete Works*](https://www.goodreads.com/notes/29997711-the-collected-works-of-arthur-schopenhauer/71655209-daniel-moore) by [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (Ancient wisdom in a modern context.)
 * [*Light on the Yoga Sutras of Patanjali*](https://www.goodreads.com/notes/18903748-light-on-the-yoga-sutras-of-patanjali/71655209-daniel-moore) by [B.K.S. Iyengar](https://en.wikipedia.org/wiki/B._K._S._Iyengar) (Exerting control over the mind.)
 * [*Straw Dogs*](https://www.goodreads.com/notes/29767507-straw-dogs/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (Breaking free of monotheistic orthodoxy.)
-
-{:#news-articles}
-**News Articles**
-
-* "[The Age of Social Media Is Ending](https://www.theatlantic.com/technology/archive/2022/11/twitter-facebook-social-media-decline/672074/)" by Ian Bogost (Silicon Valley's last hurrah.)
-* "[Quantitative Easing Was a Colossal Policy Mistake](https://archive.ph/zAxbD)" by Allison Scharger (End of empire.)
-* "[Sajid Javid and Rishi Sunak](https://www.bbc.com/news/uk-politics-62058324)" by Brian Wheeler (A model for diaspora relations.)
-* "[Sunak Faces a Fractious Party](https://12ft.io/https://www.ft.com/content/1b330aa1-d267-4c0d-88cf-cea6015cafa6)" by Stephen Bush (Divide and rule.)
-* "[We Don't Want to Decouple From China](https://www.politico.eu/article/olaf-scholz-we-dont-want-to-decouple-from-china-but-cant-be-overreliant/)" by [Olaf Scholz](https://en.wikipedia.org/wiki/Olaf_Scholz) (Game over for Germany.)
 
 {:#history-books}
 **History Books**
