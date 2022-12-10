@@ -8,13 +8,13 @@
 		},
 		{
 			"author": "Frank Miller",
-			"title": "Batman: The Dark Knight Returns",
+			"title": "The Dark Knight Returns",
 			"amazon": "https://www.amazon.com/dp/1596435739",
 			"link": "assets/img/comics/showcase/batman_dark_knight_returns.jpg"
 		},
 		{
 			"author": "Frank Miller",
-			"title": "Batman: The Dark Knight Returns",
+			"title": "The Dark Knight Returns",
 			"amazon": "https://www.amazon.com/dp/1596435739",
 			"link": "assets/img/comics/showcase/batman_dark_knight_returns2.jpg"
 		},
@@ -38,7 +38,7 @@
 		},
 		{
 			"author": "Alan Moore",
-			"title": "Batman: The Killing Joke",
+			"title": "The Killing Joke",
 			"amazon": "https://www.amazon.com/dp/1596435739",
 			"link": "assets/img/comics/showcase/batman_killing_joke.jpg"
 		},
@@ -79,16 +79,10 @@
 			"link": "assets/img/comics/showcase/judge_dredd.jpg"
 		},
 		{
-			"author": "Alan Moore",
-			"title": "The League of Extraordinary Gentlemen",
-			"amazon": "https://www.amazon.com/dp/1596435739",
-			"link": "assets/img/comics/showcase/league.jpg"
-		},
-		{
-			"author": "Grant Morrison",
-			"title": "New X-Men",
-			"amazon": "https://www.amazon.com/dp/1596435739",
-			"link": "assets/img/comics/showcase/new-xmen.jpg"
+		  "author": "Kevin Conroy",
+		  "title": "Finding Batman",
+		  "amazon": "https://www.amazon.com/dp/1596435739",
+		  "link": "assets/img/comics/showcase/finding_batman.jpg"
 		},
 		{
 		  "author": "Bryan Caplan",
@@ -227,6 +221,12 @@
 			"title": "Watchmen",
 			"amazon": "https://www.amazon.com/dp/1596435739",
 			"link": "assets/img/comics/showcase/watchmen2.jpg"
+		},
+		{
+			"author": "Alan Moore",
+			"title": "Watchmen",
+			"amazon": "https://www.amazon.com/dp/1596435739",
+			"link": "assets/img/comics/showcase/watchmen3.2.jpg"
 		},
 		{
 			"author": "Alan Moore",
