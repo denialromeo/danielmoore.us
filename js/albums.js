@@ -322,7 +322,7 @@ const albums = [
 "Serge Gainsbourg|Histoire de Melody Nelson|1971|PLAyqE9JL0JKNDxPc15aBzFLbFSj3JkrpE|A1358|Histoire de Melody Nelson|Serge Gainsbourg|Art Pop;French Pop;Pop",
 "Prefab Sprout|Steve McQueen/Two Wheels Good|1985|PLMynaxX_I0z9QxsbwviqOkxNYTHnHxHOY|A634|Steve McQueen (album)|Prefab Sprout|Pop Rock;Sophisti-Pop;Pop;Rock",
 "Slayer|Reign in Blood|1986|PL6ogdCG3tAWgAxIkxam6IcXJpBeEayeag|A673|Reign in Blood|Slayer|Thrash Metal;Metal;Rock",
-"Nick Cave and The Bad Seeds|Ghosteen|2019|PLiN-7mukU_RHVyDn5reuOlcEliRC7lAaa|A6310|Ghosteen|Nick Cave and the Bad Seeds|Ambient Pop;Singer/Songwriter;Pop",
+"Nick Cave and The Bad Seeds|Ghosteen|2019|PLcXviRsCvzrCV7vCTUWGt4Ti5-5DsUjAc|A6310|Ghosteen|Nick Cave and the Bad Seeds|Ambient Pop;Singer/Songwriter;Pop",
 "Daft Punk|Random Access Memories|2013|PLxws1M2-zjAPNbXeJrH_TTstwSQdm9KZ4|A5292|Random Access Memories|Daft Punk|Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House",
 "Dave Brubeck Quartet|Time Out|1959|PLB35C44F2FB28E90A|A1857|Time Out (album)|Dave Brubeck|Cool Jazz;Jazz",
 "FKA twigs|LP1|2014|PLZqsyBiYZFQ0O33igtZ2vNJXQGDfMkyLD|A5391|LP1 (FKA Twigs album)|FKA Twigs|Alternative R&B;Art Pop;Contemporary R&B;Pop;R&B",
