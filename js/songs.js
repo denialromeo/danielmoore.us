@@ -1546,7 +1546,7 @@ const songs = [
 "The Beatles|For No One|1966|ELlLIwhvknk|The Beatles|S3187|Baroque Pop;Pop",
 "Neil Diamond|Sweet Caroline (Good Times Never Seemed So Good)|1969|1vhFnTjia_I|Neil Diamond|S3329|Singer/Songwriter;Sunshine Pop;Pop",
 "Bob Dylan|Shelter from the Storm|1975|12rUOLtbQDk|Bob Dylan|S3376|Contemporary Folk;Singer/Songwriter;Folk",
-"Kaiser Chiefs|I Predict a Riot|2004|QtZssakZLzM|Kaiser Chiefs|S3015|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock",
+"Kaiser Chiefs|I Predict a Riot|2004|hamKl-su8PE|Kaiser Chiefs|S3015|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock",
 "Animal Collective|Summertime Clothes|2009|GxhaRgJUMl8|Animal Collective|S4785|Neo-Psychedelia;Psychedelic Pop;Synthpop;Electronic;Pop;Psychedelic Rock;Rock",
 "The Isley Brothers|That Lady|1973|S1Mvy3E8P2U|The Isley Brothers|S1748|Funk;Soul;R&B",
 "Robyn|Missing U|2018|8o5BHH9U2Mg|Robyn|S16523|Dance-Pop;Electropop;Synthpop;Dance;Electronic;Pop",

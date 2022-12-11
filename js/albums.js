@@ -1300,7 +1300,7 @@ const albums = [
 "The National|Sleep Well Beast|2017|PLiN-7mukU_REUR3qXmoT01mnSyhLWkVw_|A6001|Sleep Well Beast|The National (band)|Art Rock;Indie Rock;Alternative Rock;Rock",
 "Elvis Costello and The Attractions|Blood & Chocolate|1986|PLmFE8JMdodQM25TuGNdx7QqQxn2BoiyqW|A665|Blood & Chocolate|Elvis Costello|Pop Rock;Pop;Rock",
 "Korn|Korn|1994|PLE475FA385A3A0F72|A1598|Korn (album)|Korn|Nu Metal;Alternative Metal;Metal;Rock",
-"Orange Juice|You Can't Hide Your Love Forever|1982|PLlsZHYnNM0pYctENx6nyh2NrbDtkC1p1w|A1476|You Can't Hide Your Love Forever|Orange Juice (band)|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
+"Orange Juice|You Can't Hide Your Love Forever|1982|PLy4u88AKUauIroK32YI6dk5SypuKwsSOi|A1476|You Can't Hide Your Love Forever|Orange Juice (band)|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Terry Riley|In C|1968|PL6GN7Ej4um2aQJNJBIzTIhqNDmb3HUYJ4|A1986|In C|Terry Riley|Indeterminacy;Minimalism;Classical Music;Experimental;Modern Classical",
 "Neil Young & Crazy Horse|Zuma|1975|PL_5DzaS57TVgpCOSrlfek2ERIZCIzy7wz|A349|Zuma (album)|Neil Young|Folk Rock;Singer/Songwriter;Rock",
 "Kate Bush|The Dreaming|1982|PLQ_Bo3hOPv9iHzoDUQDfG1kD4Oj20aiWz|A1485|The Dreaming (album)|Kate Bush|Art Pop;Progressive Pop;Pop",
