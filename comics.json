@@ -55,28 +55,22 @@
 			"link": "assets/img/comics/showcase/batman_year_one.jpg"
 		},
 		{
+		  "author": "Kevin Conroy",
+		  "title": "Finding Batman",
+		  "amazon": "https://www.amazon.com/dp/1596435739",
+		  "link": "assets/img/comics/showcase/finding_batman.jpg"
+		},
+		{
 			"author": "Osamu Tezuka",
 			"title": "Buddha",
 			"amazon": "https://www.amazon.com/dp/1596435739",
 			"link": "assets/img/comics/showcase/buddha.png"
 		},
 		{
-			"author": "Scott Adams",
-			"title": "Dilbert",
-			"amazon": "https://www.amazon.com/dp/1596435739",
-			"link": "assets/img/comics/showcase/dilbert.gif"
-		},
-		{
 			"author": "John Wagner",
 			"title": "Judge Dredd: America",
 			"amazon": "https://www.amazon.com/dp/1596435739",
 			"link": "assets/img/comics/showcase/judge_dredd.jpg"
-		},
-		{
-		  "author": "Kevin Conroy",
-		  "title": "Finding Batman",
-		  "amazon": "https://www.amazon.com/dp/1596435739",
-		  "link": "assets/img/comics/showcase/finding_batman.jpg"
 		},
 		{
 		  "author": "Bryan Caplan",
