@@ -2702,7 +2702,7 @@ const albums = [
 "Gillian Welch|Revival|1996|PL3U74zdtX_iMX_YLfnsSBx1zOyFKseqIO|A3628|Revival (Gillian Welch album)|Gillian Welch|Americana;Contemporary Folk;Country;Folk",
 "Yeasayer|All Hour Cymbals|2007|PLS6YFU7e9xApR0BgTW0_i6rpKBLQyUklJ|A4985|All Hour Cymbals|Yeasayer|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock",
 "Garth Brooks|No Fences|1990|PL8BoSR8p2Eo9ESRovF9JhWvz182lps_p-|A3321|No Fences|Garth Brooks|Contemporary Country;Country Pop;Country;Pop",
-"Bob Dylan|Tempest|2012|PLGlqHtLjSsRERtuIyEnbe3y34XOiHepUC|A5210|Tempest (Bob Dylan album)|Bob Dylan|Singer/Songwriter",
+"Bob Dylan|Tempest|2012|PLx252NeXW5_oNPCLVZ7cZ-3HNzB92B1AZ|A5210|Tempest (Bob Dylan album)|Bob Dylan|Singer/Songwriter",
 "The Raconteurs|Consolers of the Lonely|2008|PL7PWLL6clNsQWC4-eNcWqVxBmxQzyIiCD|A4372|Consolers of the Lonely|The Raconteurs|Alternative Rock;Garage Rock Revival;Garage Rock;Rock",
 "Plastikman|Musik|1994|PLP74oKisA0L8j5n2WCXQYe1joKXsZZvxM|A3523|Musik (album)|Richie Hawtin|Minimal Techno;Dance;Electronic;Electronic Dance Music;Techno",
 "Cate Le Bon|Reward|2019|PL-S3pTxNuvX0E7NyFG4eyqQ0Bqra4m0f6|A6235|Reward (album)|Cate Le Bon|Art Pop;Pop",
