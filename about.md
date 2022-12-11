@@ -53,7 +53,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>I have very typical views for my location (California) and demographic (minority male). Probably the one cause I'm passionate about is feminism. (Women have the numbers to force real change.)</p>
     <p>Some statements I believe &ndash;</p>
     <ul>
-        <li>The late 20th century's most influential people were Bill Clinton, Deng Xiaoping, Mao Zedong, Richard Nixon, Lyndon Johnson, Joseph Stalin, Nikita Khrushchev, and Mikhail Gorbachev.</li>
+        <li>The 20th century's most influential people were Joseph Stalin, Mao Zedong, Lyndon Johnson, Richard Nixon, Nikita Khrushchev, Mikhail Gorbachev, Deng Xiaoping, and Bill Clinton.</li>
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, and Donald Trump.</li>
         <li>Everything boils down to industrial output. The future belongs to whomever owns the factories.</li>
     </ul>
