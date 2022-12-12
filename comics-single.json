@@ -1,34 +1,22 @@
 {
 	"pages": [
 		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
+			"author": "Chuck Dixon",
+			"title": "Batman: Knightfall",
 			"amazon": "",
-			"link": "assets/img/comics/sandman4/01.jpg"
+			"link": "assets/img/comics/knightfall/01.jpg"
 		},
 		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
+			"author": "Chuck Dixon",
+			"title": "Batman: Knightfall",
 			"amazon": "",
-			"link": "assets/img/comics/sandman4/02.jpg"
+			"link": "assets/img/comics/knightfall/02.jpg"
 		},
 		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
+			"author": "Chuck Dixon",
+			"title": "Batman: Knightfall",
 			"amazon": "",
-			"link": "assets/img/comics/sandman4/03.jpg"
-		},
-		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
-			"amazon": "",
-			"link": "assets/img/comics/sandman4/04.jpg"
-		},
-		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
-			"amazon": "",
-			"link": "assets/img/comics/sandman4/05.jpg"
+			"link": "assets/img/comics/knightfall/03.jpg"
 		}
 	]
 }
