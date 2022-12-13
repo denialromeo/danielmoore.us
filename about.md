@@ -161,6 +161,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Analects of Confucius*](http://wengu.tartarie.com/wg/wengu.php?l=Lunyu&no=0) by [Kong Fuzi](https://en.wikipedia.org/wiki/Confucius) (Building a society that works starts from the bottom.)
 * [*The Book of Five Rings*](https://www.goodreads.com/notes/31197112-the-book-of-five-rings/71655209-daniel-moore) by [Miyamoto Musashi](https://en.wikipedia.org/wiki/Miyamoto_Musashi) (From one thing, know ten thousand things.)
 * [*The Complete Works*](https://www.goodreads.com/notes/29997711-the-collected-works-of-arthur-schopenhauer/71655209-daniel-moore) by [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (Ancient wisdom in a modern context.)
+* [*Disciplined Minds*](/disciplined-minds) by [Jeff Schmidt](https://disciplinedminds.tripod.com/) (Thriving in the white-collar workplace.)
 * [*Light on the Yoga Sutras of Patanjali*](https://www.goodreads.com/notes/18903748-light-on-the-yoga-sutras-of-patanjali/71655209-daniel-moore) by [B.K.S. Iyengar](https://en.wikipedia.org/wiki/B._K._S._Iyengar) (Exerting control over the mind.)
 * [*Straw Dogs*](https://www.goodreads.com/notes/29767507-straw-dogs/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (Breaking free of monotheistic orthodoxy.)
 
@@ -193,7 +194,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Adventures in the Screen Trade*](https://www.goodreads.com/notes/18883261-adventures-in-the-screen-trade/71655209-daniel-moore) by [William Goldman](https://en.wikipedia.org/wiki/William_Goldman) (Hollywood at its zenith.)
 * [*Championship Fighting*](https://newschoolsinger.com/wp-content/uploads/2018/11/jack-dempsey-championship-fighting-1.pdf) by [Jack Dempsey](https://en.wikipedia.org/wiki/Jack_Dempsey) (Learning to throw a punch takes a lifetime.)
-* [*Disciplined Minds*](/disciplined-minds) by [Jeff Schmidt](https://disciplinedminds.tripod.com/) (Thriving in the white-collar workplace.)
 * [*Four Star Reviews, 1967-2007*](https://www.goodreads.com/notes/9517283-roger-ebert-s-four-star-reviews-1967-2007/71655209-daniel-moore) by [Roger Ebert](https://en.wikipedia.org/wiki/Roger_Ebert) (Forty years at the movies.)
 * [*The Governance of China*](https://www.goodreads.com/notes/24309365-xi-jinping-the-governance-of-china/71655209-daniel-moore) by [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping) (Perhaps the 21st century's most influential person.)
 * [*Live Young Forever*](https://www.amazon.com/gp/product/1552100642) by [Jack LaLanne](https://en.wikipedia.org/wiki/Jack_LaLanne) (Maintained vehicles last twice as long.)
