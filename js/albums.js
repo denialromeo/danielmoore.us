@@ -2492,7 +2492,7 @@ const albums = [
 "Cecil Taylor|Live at the Cafe Montmartre / Nefertiti, the Beautiful One Has Come|1963|PLBi2P-TVKrQ9d5HnR4Ji1XAXqDD5Cohjb|A1922|Nefertiti, the Beautiful One Has Come|Cecil Taylor|Free Jazz;Avant-Garde Jazz;Jazz",
 "Prince|Lovesexy|1988|PLVZiSGNMlM0vRiwgWG9OsgEoHB05taRY-|A732|Lovesexy|Prince (musician)|Contemporary R&B;Funk;Pop Rock;Pop;R&B;Rock",
 "Beth Orton|Trailer Park|1996|PLAS9X6RK54_pyDuhl1774OF5CCUKkhuxp|A987|Trailer Park (album)|Beth Orton|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop",
-"Angelo Badalamenti|Soundtrack from Twin Peaks|1990|PL7sq1kx5RgKjIP-fON22SXQ8ubrUMiseu|A4751|Soundtrack from Twin Peaks|Angelo Badalamenti|Ambient Pop;Dark Jazz;Television Music;Ambient;Dark Ambient;Descriptor;Jazz;Pop;Soundtracks",
+"Angelo Badalamenti|Soundtrack from Twin Peaks|1990|PLX66jEixZe1zCOXW24orSSyOGUJHMdFp_|A4751|Soundtrack from Twin Peaks|Angelo Badalamenti|Ambient Pop;Dark Jazz;Television Music;Ambient;Dark Ambient;Descriptor;Jazz;Pop;Soundtracks",
 "The Afghan Whigs|1965|1998|PL64A0FB58C6E340E6|A3703|1965 (album)|The Afghan Whigs|Alternative Rock;Rock",
 "Christine and The Queens|Chaleur Humaine / Christine and The Queens|2014|PL61CSmcjUDL6bxdR-TbLRVB9SysyvlMHD|A5710|Christine and the Queens (album)|Christine and the Queens|Electropop;Nouvelle chanson française;Chanson;Electronic;Pop;Regional Music",
 "Radio Futura|La ley del desierto, La ley del mar|1984|PLCqUhcy-kx8HnG5LAPR7nWE2iDOJVOy66|A4698|https://es.wikipedia.org/wiki/La_ley_del_desierto_/_La_ley_del_mar|Radio Futura|New Wave;Pop Rock;Pop;Rock",
