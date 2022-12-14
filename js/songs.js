@@ -8651,7 +8651,7 @@ const songs = [
 "Superpitcher|Tomorrow|2001|M9n7QLJvWZg|Superpitcher|S8640|Deep House;Microhouse;Dance;Electronic;Electronic Dance Music;House",
 "Serge Gainsbourg|Variations sur Marilou|1976|0XRL6S7qrx8|Serge Gainsbourg|S8361|Chanson;French Pop;Pop;Regional Music",
 "Jack Nitzsche|The Lonely Surfer|1963|1o_5z6-OIPY|Jack Nitzsche|S3669|Baroque Pop;Surf Rock;Pop;Rock;Surf Music",
-"Nazareth|Hair of the Dog|1975|x-Bg0jjJhgQ|Nazareth (band)|S11722|Hard Rock;Rock",
+"Nazareth|Hair of the Dog|1975|Ef2SLZdhNrY|Nazareth (band)|S11722|Hard Rock;Rock",
 "Queens of the Stone Age|Regular John|1998|wb-57OuONjQ|Queens of the Stone Age|S14912|Stoner Rock;Hard Rock;Rock",
 "Nick Cave|Stagger Lee|1996|Nbe5RERDh4k|Nick Cave and the Bad Seeds|S7728|Alternative Rock;Punk Blues;Punk Rock;Rock",
 "Young Thug Feat. Elton John|High|2018|qqIyH_9uaOQ|Young Thug|S16602|Pop Rap;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
