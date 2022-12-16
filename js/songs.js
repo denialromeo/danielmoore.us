@@ -3287,7 +3287,7 @@ const songs = [
 "Weyes Blood|Everyday|2019|AJ-BFlTo5ag|Weyes Blood|S16894|Art Pop;Chamber Pop;Baroque Pop;Indie Pop;Pop",
 "Pearl Jam|Black|1991|qgaRVvAKoqQ|Pearl Jam|S3691|Grunge;Alternative Rock;Rock",
 "Carlos Gardel|Volver|1935|0TPtsf8nSpQ|Carlos Gardel|S5719|Tango;Hispanic Music;Latin American Music;Regional Music",
-"SOS Band|Take Your Time (Do It Right)|1980|v4o8LhysL2Y|The S.O.S. Band|S3791|Boogie;Dance;Disco;R&B",
+"SOS Band|Take Your Time (Do It Right)|1980|s_gqLJfd-jI|The S.O.S. Band|S3791|Boogie;Dance;Disco;R&B",
 "Max Steiner|Tara's Theme|1939|N_Z4DmualTc|Max Steiner|S7478|Film Score;Descriptor;Film Soundtrack;Soundtracks",
 "Amos Milburn|Chicken-Shack Boogie|1948|7GvfIx_-Xm4|Amos Milburn|S5189|Rhythm & Blues;R&B",
 "Leonard Cohen|Bird on a Wire|1969|K8fT7rnRotY|Leonard Cohen|S7239|Contemporary Folk;Singer/Songwriter;Folk",
