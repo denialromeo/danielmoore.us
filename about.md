@@ -54,7 +54,7 @@ I hope you have a good time here. Thanks for dropping by.
     <center><img src="/assets/img/imgur/democracy.jpg" height="250px" title="In practice, it's more like 1 in 5."/></center>
     <p>Some statements I believe &ndash;</p>
     <ul>
-        <li>The 20th century's most influential people were Mao Zedong, Joseph Stalin, Lyndon Johnson, Richard Nixon, Nikita Khrushchev, Mikhail Gorbachev, Deng Xiaoping, and Bill Clinton.</li>
+        <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Nikita Khrushchev, Mikhail Gorbachev, Deng Xiaoping, and Bill Clinton.</li>
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, and Donald Trump.</li>
         <li>Honorable mentions go to Leonid Brezhnev, Indira Gandhi, Ronald Reagan, Boris Yeltsin, Jiang Zemin, Adolf Hitler, Albert Einstein, and Barack Obama.</li>
         <li>Everything boils down to industrial output. The future belongs to whomever owns the factories.</li>
