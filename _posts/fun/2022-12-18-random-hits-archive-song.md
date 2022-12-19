@@ -14,7 +14,7 @@ box: random-hits-archive-song
 <iframe id="song" frameborder="0" allowfullscreen></iframe>
 ' %}
 
-<p id="description">Since 2019, Bob Moke has maintained Hits Archive, a set of YouTube channels dedicated to major U.S. hits released between 1905 and 1971. This song was randomly chosen from his channels.</p>
+<p id="description">Since 2019, Bob Moke has maintained Hits Archive, a set of YouTube channels dedicated to major U.S. hits released between 1905 and 1975. This song was randomly chosen from his channels.</p>
 
 <p id="next-song"></p>
 
