@@ -2184,7 +2184,7 @@ const albums = [
 "Manitoba/Caribou|Up in Flames|2003|PL0oWJhzmgVQei14kiszWzdazY077zCds-|A3920|Up in Flames (album)|Dan Snaith|Folktronica;Indietronica;Psychedelic Pop;Electronic;Pop",
 "MGMT|Congratulations|2010|PLOb07s3VvxWcVOekGNUNxldY_2oyZEgAf|A5085|Congratulations (album)|MGMT|Indie Pop;Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock",
 "Camera Obscura|Let's Get Out Of This Country|2006|PLec8CSyZsXwbvQevvcysITVme_JfKDdq2|A3047|Let's Get Out of This Country|Camera Obscura (band)|Twee Pop;Indie Pop;Pop",
-"Grant Green|Idle Moments|1965|PLpDpKKqFH5KJK6Mp_N_ypthRFp82Csgyi|A3303|Idle Moments|Grant Green|Hard Bop;Bebop;Jazz",
+"Grant Green|Idle Moments|1965|PLP0IenmeCOtwOGAi1Fzxr9QDiaOgGGI2R|A3303|Idle Moments|Grant Green|Hard Bop;Bebop;Jazz",
 "The Jon Spencer Blues Explosion|Now I Got Worry|1996|PLcBPFG0zN-Jj0-SzgVUhHlZnKPS_5kpZr|A977|Now I Got Worry|Jon Spencer Blues Explosion|Alternative Rock;Garage Punk;Punk Blues;Garage Rock;Punk Rock;Rock",
 "Oneohtrix Point Never|Garden of Delete|2015|PLXkVcKLmwb2BfOYS0tawskVlxGiJkEocn|A5556|Garden of Delete|Oneohtrix Point Never|Progressive Electronic;Electronic",
 "Julia Holter|Loud City Song|2013|PLPaztBWnatciekdfv7f2bSQRIKvNDnUV_|A5318|Loud City Song|Julia Holter|Ambient Pop;Art Pop;Pop",
