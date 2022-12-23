@@ -2198,7 +2198,7 @@ const albums = [
 "David Ackles|American Gothic|1972|PLW1w8neoXejsGjBULb3NGnK9k4dhKxWTU|A1667|American Gothic (album)|David Ackles|Americana;Singer/Songwriter;Country",
 "Bob Marley and The Wailers|Uprising|1980|PLXUOoLol9dVNouOGzV_hgxtsw65Ww84v5|A1172|Uprising (Bob Marley and the Wailers album)|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Megadeth|Rust in Peace|1990|PLLHyHi7NUwSY4RMEFG9CDMrPcr-EbSDLH|A3330|Rust in Peace|Megadeth|Speed Metal;Thrash Metal;Metal;Rock",
-"Robbie Robertson|Robbie Robertson|1987|PLX66jEixZe1wrJxYALU_p92hzuF_Eb0cj|A708|Robbie Robertson (album)|Robbie Robertson|Rock;Singer/Songwriter",
+"Robbie Robertson|Robbie Robertson|1987|PLX66jEixZe1we_HM0TRiiVkbuv_VzvI9n|A708|Robbie Robertson (album)|Robbie Robertson|Rock;Singer/Songwriter",
 "Ry Cooder|Chicken Skin Music|1976|PL9jPBskY8PnRwrH6B2b6y1vJl-c5PZbyr|A373|Chicken Skin Music|Ry Cooder|Blues;Country Rock;Roots Rock;Rock",
 "Eels|Blinking Lights and Other Revelations|2005|PLcTz7Wlk_9U0cv0im0CQpCK2ikaZF6kKK|A4173|Blinking Lights and Other Revelations|Eels (band)|Indie Pop;Singer/Songwriter;Pop",
 "Bill Withers|Still Bill|1972|PLTTHtJpr2obb7NTn2jQiSqf-Ser-3Ixnb|A2431|Still Bill|Bill Withers|Soul;R&B",
