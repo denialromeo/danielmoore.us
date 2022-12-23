@@ -217,7 +217,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#short-stories}
 **Short Stories**
 
-* "[American Gold Mine](https://windupstories.com/books-short-stories/american-gold-mine/)" by [Paolo Bacigalupi](https://windupstories.com/) (Political polarization's logical end.)
+* "[American Gold Mine](https://windupstories.com/books-short-stories/american-gold-mine/)" by [Paolo Bacigalupi](https://windupstories.com/) (Any professional can relate.)
 * "[Coding Machines](https://www.teamten.com/lawrence/writings/coding-machines/#coding_machines)" by [Lawrence Kesteloot](https://www.teamten.com/lawrence/) (Debugging meets cosmic horror.)
 * "[The Cold Equations](http://www.spacewesterns.com/articles/105/#content)" by [Tom Godwin](https://en.wikipedia.org/wiki/Tom_Godwin) (Haunting metaphor for peak oil.)
 * "[Frost and Fire](http://web.archive.org/web/20170918083727/https://charlton6.weebly.com/uploads/1/0/6/2/10621939/frost_and_fire.pdf)" by [Ray Bradbury](https://en.wikipedia.org/wiki/Ray_Bradbury) (Man that is born of a woman is of few days.)
