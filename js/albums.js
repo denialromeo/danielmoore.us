@@ -1643,7 +1643,7 @@ const albums = [
 "Sleigh Bells|Treats|2010|PLMae1YtyNal0GEOcdyumh8wx62xs-9elE|A5096|Treats (album)|Sleigh Bells (band)|Noise Pop;Alternative Rock;Rock",
 "Paul Weller|Wild Wood|1993|PL7mrY0ZDcfRTcfU3KK_bckGilCfZBnvxd|A884|Wild Wood|Paul Weller|Pop Rock;Singer/Songwriter;Pop;Rock",
 "Peter Gabriel|Peter Gabriel (IV)/Security|1982|PL0RNmJPHxmg8Gn0ol0XUsJwKJMDdnD_vn|A558|Peter Gabriel (1982 album)|Peter Gabriel|Art Rock;Rock",
-"Peter Tosh|Legalize It|1976|PLExnTmw4f4x0atwktoga8KRe3Uzdaegyp|A1673|Legalize It|Peter Tosh|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
+"Peter Tosh|Legalize It|1976|PLORSNiuopBANS4iUTqyACHDNSZUcb6L7z|A1673|Legalize It|Peter Tosh|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Donny Hathaway|Live|1972|PLNt3vETSy2lky9jBfqCUq_juyLSvKz0wI|A2440|Live (Donny Hathaway album)|Donny Hathaway|Deep Soul;R&B;Soul;Southern Soul",
 "Maxwell|Maxwell's Urban Hang Suite|1996|PL5MiW--FNyCjAD_tdyKbTLggtOiT1KsaY|A4837|Maxwell's Urban Hang Suite|Maxwell (musician)|Contemporary R&B;Neo-Soul;R&B;Soul",
 "The Chemical Brothers|Surrender|1999|PLA2BA5B17D2D1FBAE|A1051|Surrender (The Chemical Brothers album)|The Chemical Brothers|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music",
