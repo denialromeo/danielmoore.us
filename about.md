@@ -145,6 +145,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Les Halles Cookbook*](https://www.goodreads.com/notes/33361472-anthony-bourdain-s-les-halles-cookbook/71655209-daniel-moore) by [Anthony Bourdain](https://en.wikipedia.org/wiki/Anthony_Bourdain) (Anyone can cook!)
 * [*Logical Chess*](https://archive.org/details/logicalchess_movebymove) by [Irving Chenev](https://en.wikipedia.org/wiki/Irving_Chernev) (Teaches the consequences of small changes.)
+* [*Poker For Dummies*](https://www.goodreads.com/notes/19378414-poker-for-dummies/71655209-daniel-moore) by [Richard Harroch](https://www.linkedin.com/in/richard-d-harroch-15253a3/) (Life is poker.)
 * [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Diet is half the battle.)
 * [*Starting Strength*](https://www.goodreads.com/notes/15746753-starting-strength/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Form is the other half. Pair with the [DVD](https://www.amazon.com/dp/B001U9FDP2) for best results.)
 
@@ -248,7 +249,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Synecdoche, New York*](https://www.hulu.com/movie/synecdoche-new-york-e28dfc74-a383-44da-b6ae-7ec7744286f6) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
 * [*Turning Red*](https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m) by [Domee Shi](https://en.wikipedia.org/wiki/Domee_Shi) (Written by women for women.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
-* [*World's Greatest Dad*](https://www.hulu.com/movie/worlds-greatest-dad-1cac4efa-b404-49bb-be58-bd25fb9998b0) by [Bobcat Goldthwait](https://en.wikipedia.org/wiki/Bobcat_Goldthwait) (Lampoons the superficiality of American life.)
+* [*World's Greatest Dad*](https://www.hulu.com/movie/worlds-greatest-dad-1cac4efa-b404-49bb-be58-bd25fb9998b0) by [Bobcat Goldthwait](https://en.wikipedia.org/wiki/Bobcat_Goldthwait) (Hell is other people.)
 * [*Zhang Jin Hu*](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=battle+at+lake+changjin) by [Wu Jing](https://en.wikipedia.org/wiki/Wu_Jing_(actor)) (Resist U.S. aggression and aid Korea!)
 
 {:#comic-books}
