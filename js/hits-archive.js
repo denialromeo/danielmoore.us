@@ -18,7 +18,7 @@ const songs = [
 "oeKffCgu3VU|1938|Van Alexander - On The Road To Mandalay",
 "XY5jJSLwme0|1927|Zez Confrey - Kitten On The Keys",
 "uW9mmFOlPwQ|1922|Zez Confrey - Kitten On The Keys",
-"yXLTc13O8A4|1921|Zez Confrey - Kitten On The Keys (Brunswick--piano solo)",
+"yXLTc13O8A4|1921|Zez Confrey - Kitten On The Keys",
 "jpNZmpdToz0|1942|Charlie Barnet - Things Ain’t What They Used To Be",
 "2iNZI26Byxc|1940|Charlie Barnet - Redskin Rhumba",
 "jJfiOpmyUNc|1936|Charlie Barnet - Sing, Baby, Sing",
