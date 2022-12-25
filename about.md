@@ -240,7 +240,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Jiro Dreams of Sushi*](https://www.amazon.com/gp/video/detail/B009178OQA) by [Ono Jiro](https://en.wikipedia.org/wiki/Jiro_Ono_(chef)) (There is bliss in doing any job well.)
 * [*Kaze Tachinu*](https://play.hbomax.com/page/urn:hbo:page:GXsQzAw8HPITCwgEAAAAM:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
 * [*Mononoke Hime*](https://play.hbomax.com/page/urn:hbo:page:GXrHUCwY3E6u9KwEAAAAO:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (There's no good or evil - only upbringing and incentives.)
-* [*Nope*](https://www.peacocktv.com/watch/asset/movies/nope/e6fe0906-490b-3634-9f13-f03a7e94eab3) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Resurrects and deconstructs the classic blockbuster.)
+* [*Nope*](https://www.peacocktv.com/watch/asset/movies/nope/e6fe0906-490b-3634-9f13-f03a7e94eab3) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Resurrects and deconstructs the Spielbergian blockbuster.)
 * [*Oldboy*](https://www.amazon.com/gp/product/B08LNLCL35) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (Intensely, painfully relatable.)
 * [*Schindler's List*](https://www.amazon.com/gp/video/detail/B00BEN0V8S) by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) (Still the best film ever made about racism.)
 * [*Shot Caller*](https://play.hbomax.com/page/urn:hbo:page:GY212Zg2HvUthwgEAAAJl:type:feature) by [Ric Waugh](https://en.wikipedia.org/wiki/Ric_Roman_Waugh) (Watching this made me stop driving.)
