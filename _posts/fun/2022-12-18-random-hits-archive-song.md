@@ -28,6 +28,9 @@ box: random-hits-archive-song
         <li>
             <a target="_self" href="?artist=Glenn Miller">Songs by Glenn Miller.</a>
         </li>
+        <li>
+            <a target="_self" href="?song=christmas">Songs with "Christmas" in the title.</a>
+        </li>
     </ul>
 </div>
 
