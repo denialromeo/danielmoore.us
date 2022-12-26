@@ -9766,7 +9766,7 @@ const songs = [
 "Main Source|Looking at the Front Door|1990|RNRCQ9eagWQ|Main Source|S11525|Boom Bap;East Coast Hip Hop;Hip Hop",
 "Miss Toni Fisher|The Big Hurt|1959|IlE6eHEENg4|Toni Fisher|S15140|Traditional Pop;Pop",
 "Chuck Berry|Sweet Little Rock 'n' Roller|1958|XjRHuCkXHts|Chuck Berry|S14244|Rock & Roll;Rock",
-"The Trammps|That's Where the Happy People Go|1975|dmptOko-id0|The Trammps|S12903|Disco;Philly Soul;Dance;R&B;Soul",
+"The Trammps|That's Where the Happy People Go|1975|tXx1SQhOhhI|The Trammps|S12903|Disco;Philly Soul;Dance;R&B;Soul",
 "Metallica|Hero of the Day|1996|XkfO8c8MlKU|Metallica|S11604|Alternative Metal;Hard Rock;Metal;Rock",
 "Bruce Springsteen|Hello Sunshine|2019|icJjlg5e6l8|Bruce Springsteen|S16747|Chamber Folk;Country Pop;Singer/Songwriter;Contemporary Folk;Country;Folk;Pop",
 "The Cruel Sea|The Honeymoon Is Over|1993|xeHI5G2cY8M|The Cruel Sea (band)|S10472|Alternative Rock;Rock",
