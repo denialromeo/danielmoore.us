@@ -1,22 +1,22 @@
 {
 	"pages": [
 		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
+			"author": "Alan Moore",
+			"title": "Watchmen",
 			"amazon": "",
-			"link": "assets/img/comics/sandman7/01.jpg"
+			"link": "assets/img/comics/watchmen/01.jpg"
 		},
 		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
+			"author": "Alan Moore",
+			"title": "Watchmen",
 			"amazon": "",
-			"link": "assets/img/comics/sandman7/02.jpg"
+			"link": "assets/img/comics/watchmen/02.jpg"
 		},
 		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
+			"author": "Alan Moore",
+			"title": "Watchmen",
 			"amazon": "",
-			"link": "assets/img/comics/sandman7/03.jpg"
+			"link": "assets/img/comics/watchmen/03.jpg"
 		}
 	]
 }
