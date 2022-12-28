@@ -9892,7 +9892,7 @@ const songs = [
 "OuXtzhCePSc|1969|Glad She’s A Woman - Bobby Goldsboro",
 "lYCeRfmVYPI|1969|Muddy Mississippi Line - Bobby Goldsboro",
 "JCv4AlikzHM|1965|Bobby Goldsboro - If You’ve Got A Heart",
-"kvQlrWuHf0A|1965|Bobby Goldsboro - Broomstick Cowboy y",
+"kvQlrWuHf0A|1965|Bobby Goldsboro - Broomstick Cowboy",
 "vIvZeiJCQXI|1970|Cinnamon Girl - Gentrys",
 "Z4JTsFTQqWk|1968|Bobbie Gentry - Louisiana Man",
 "E26MGwI7x3k|1967|Okolona River Bottom Band - Bobbie Gentry",
