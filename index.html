@@ -9,7 +9,7 @@ box: index
     {% assign sorted_categories = site.categories | sort %}
     {% for category in sorted_categories %}
 
-      {% if category.first == '~~history' or category.first == 'tutorials' %}
+      {% if category.first == '~~history' or category.first == '~tutorials' %}
       {%continue%}
       {%endif%}
 
