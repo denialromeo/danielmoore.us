@@ -156,7 +156,7 @@ const albums = [
 "The Rolling Stones|Aftermath|1966|PLjb5kMzP2zok_TwUZbbPl8-1UlIEAYERL|A64|Aftermath (Rolling Stones album)|The Rolling Stones|Blues Rock;Rock",
 "Bob Marley and The Wailers|Catch a Fire|1973|PLnvVNd96RFMSNymze31EqtNLxLHqwnrKD|A248|Catch a Fire|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Crosby, Stills, Nash & Young|Déjà Vu|1970|PLXRKTcRs-Xs4z3fKUMm4Kdyu6KSpTdhLC|A189|Déjà Vu (Crosby, Stills, Nash & Young album)|Crosby, Stills, Nash & Young|Folk Rock;Rock",
-"Neil Young & Crazy Horse|Rust Never Sleeps|1979|PLTUBBL81umsEpu3v-jrxSrnqI4y7-ee5N|A453|Rust Never Sleeps|Neil Young|Country Rock;Folk Rock;Singer/Songwriter;Rock",
+"Neil Young & Crazy Horse|Rust Never Sleeps|1979|PLSzQ5tXtxOEYqkSwew-J2hbwIwuhh1dY9|A453|Rust Never Sleeps|Neil Young|Country Rock;Folk Rock;Singer/Songwriter;Rock",
 "Björk|Debut|1993|PL_PD_RD4vvcimUYPFPt8c5AgMqZMnnvbt|A871|Debut (Björk album)|Björk|Alternative Dance;Art Pop;Alternative Rock;Dance;Pop;Rock",
 "Black Sabbath|Paranoid|1970|PL6ogdCG3tAWhIvo8PA7Ks0dGFClaJcVEw|A196|Paranoid (album)|Black Sabbath|Hard Rock;Heavy Metal;Metal;Rock",
 "The Original Soundtrack|Saturday Night Fever|1977|PL8Lpw39GxwbMuSZ13zF7ErQgbXsW1Sb3U|A1189|Saturday Night Fever (soundtrack)|Bee Gees|Disco;Film Soundtrack;Dance;Descriptor;Soundtracks",
