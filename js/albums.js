@@ -2621,7 +2621,7 @@ const albums = [
 "New Order|Movement|1981|PL-5vftI1R5QbyIm7qBCIEixqW-CZojiDX|A2858|Movement (New Order album)|New Order (band)|Post-Punk;Rock",
 "Girl Talk|Feed the Animals|2008|PL6B8C641A648C60F0|A4368|Feed the Animals|Talk Talk|Mashup;Experimental;Plunderphonics;Sound Collage;Tape Music",
 "Real Estate|Atlas|2014|PL2m7gWv1Y-kUkD38i2TM1uiQFwlrEzCCc|A5414|Atlas (Real Estate album)|Real Estate (band)|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
-"Sepultura|Chaos A.D.|1993|PLu_kVGhp-PgMfyH-I1y772DCAAJg8jxeZ|A3491|Chaos A.D.|Sepultura|Groove Metal;Thrash Metal;Metal;Rock",
+"Sepultura|Chaos A.D.|1993|PL53cAstm8yhaF0UD95Gx30k3Ry5toGoIl|A3491|Chaos A.D.|Sepultura|Groove Metal;Thrash Metal;Metal;Rock",
 "X|Under the Big Black Sun|1982|OLAK5uy_kqNP7jcMKw271wMWgscvmKaf2FowJXGZo|A1478|Under the Big Black Sun|X (American band)|Punk Rock;Rock",
 "Hoodoo Gurus|Stoneage Romeos|1984|PL3Mr5LJr23a_3Hc_nBSUhfjm4Tr1qORPq|A3017|Stoneage Romeos|Hoodoo Gurus|Garage Rock;Power Pop;Pop;Pop Rock;Rock",
 "Los Planetas|Una semana en el motor de un autobús|1998|PL6mpyAioMZGh88G03Pg3ZpZ_RAr1lNA0O|A4866|https://es.wikipedia.org/wiki/Una_semana_en_el_motor_de_un_autob%C3%BAs|https://es.wikipedia.org/wiki/Los_Planetas_(banda)|Indie Rock;Alternative Rock;Rock",
