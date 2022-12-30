@@ -1,28 +1,22 @@
 {
 	"pages": [
 		{
-			"author": "Alan Moore",
-			"title": "Neonomicon",
+			"author": "Neil Gaiman",
+			"title": "The Sandman: The Dream Hunters",
 			"amazon": "",
-			"link": "assets/img/comics/neonomicon/01.jpg"
+			"link": "assets/img/comics/sandman-dream-hunters/01.jpg"
 		},
 		{
-			"author": "Alan Moore",
-			"title": "Neonomicon",
+			"author": "Neil Gaiman",
+			"title": "The Sandman: The Dream Hunters",
 			"amazon": "",
-			"link": "assets/img/comics/neonomicon/02.jpg"
+			"link": "assets/img/comics/sandman-dream-hunters/02.jpg"
 		},
 		{
-			"author": "Alan Moore",
-			"title": "Neonomicon",
+			"author": "Neil Gaiman",
+			"title": "The Sandman: The Dream Hunters",
 			"amazon": "",
-			"link": "assets/img/comics/neonomicon/03.jpg"
-		},
-		{
-			"author": "Alan Moore",
-			"title": "Neonomicon",
-			"amazon": "",
-			"link": "assets/img/comics/neonomicon/04.jpg"
+			"link": "assets/img/comics/sandman-dream-hunters/03.jpg"
 		}
 	]
 }
