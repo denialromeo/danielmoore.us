@@ -198,7 +198,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Adventures in the Screen Trade*](https://www.goodreads.com/notes/18883261-adventures-in-the-screen-trade/71655209-daniel-moore) by [William Goldman](https://en.wikipedia.org/wiki/William_Goldman) (Hollywood at its zenith.)
 * [*Championship Fighting*](https://newschoolsinger.com/wp-content/uploads/2018/11/jack-dempsey-championship-fighting-1.pdf) by [Jack Dempsey](https://en.wikipedia.org/wiki/Jack_Dempsey) (Learning to throw a punch takes a lifetime.)
-* [*Cinema Speculation*](https://www.goodreads.com/notes/61198870-cinema-speculation/71655209-daniel-moore) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (We never escape our childhoods.)
+* [*Cinema Speculation*](https://www.goodreads.com/notes/61198870-cinema-speculation/71655209-daniel-moore) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Our childhoods define us.)
 * [*Four Star Reviews, 1967-2007*](https://www.goodreads.com/notes/9517283-roger-ebert-s-four-star-reviews-1967-2007/71655209-daniel-moore) by [Roger Ebert](https://en.wikipedia.org/wiki/Roger_Ebert) (Forty years at the movies.)
 * [*The Governance of China*](https://www.goodreads.com/notes/24309365-xi-jinping-the-governance-of-china/71655209-daniel-moore) by [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping) (Perhaps the 21st century's most influential person.)
 * [*Live Young Forever*](https://www.amazon.com/gp/product/1552100642) by [Jack LaLanne](https://en.wikipedia.org/wiki/Jack_LaLanne) (Maintained vehicles last twice as long.)
