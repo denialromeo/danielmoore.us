@@ -188,6 +188,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Historical Documents**
 
 * "[The ABC of Communism](https://www.marxists.org/archive/bukharin/works/1920/abc/)" by [Nikolai Bukharin](https://en.wikipedia.org/wiki/Nikolai_Bukharin) (Primer on what tens of millions died for.)
+* "[Asia After Viet Nam](https://cdn.nixonlibrary.org/01/wp-content/uploads/2017/01/11113807/Asia-After-Viet-Nam.pdf)" by [Richard Nixon](https://en.wikipedia.org/wiki/Richard_Nixon) (Sino-American rapprochement.)
 * "[From a China Traveler](https://www.nytimes.com/1973/08/10/archives/from-a-china-traveler.html)" by [David Rockefeller](https://en.wikipedia.org/wiki/David_Rockefeller) (Neoliberal honeymoon.)
 * "[Modernize and Never Seek Hegemony](https://dengxiaopingworks.wordpress.com/2013/02/25/realize-the-four-modernizations-and-never-seek-hegemony)" by [Deng Xiaoping](https://en.wikipedia.org/wiki/Deng_Xiaoping) (Father of globalization.)
 * "[On the Historical Unity of Russians and Ukrainians](http://en.kremlin.ru/events/president/news/66181)" by [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) (Tsardom reborn.)
