@@ -1601,7 +1601,7 @@ const albums = [
 "Lana Del Rey|Ultraviolence|2014|PLkVpz3DcYa26K5VV8Rm1r-Bhl9R0cLxBP|A5411|Ultraviolence (album)|Lana Del Rey|Art Pop;Dream Pop;Alternative Rock;Pop;Rock",
 "Anthony Braxton|For Alto|1971|PL20iOj9g23x1EpEm7DZxG9oTP5w-Mlrzn|A1980|For Alto|Anthony Braxton|Free Jazz;Avant-Garde Jazz;Jazz",
 "Deutsch Amerikanische Freundschaft|Alles ist gutt|1981|PLUMsH7a2oRygQvqNjAVjBnRIvKmeK9SU2|A540|Alles Ist Gut|Deutsch Amerikanische Freundschaft|EBM;Neue Deutsche Welle;Synth Punk;Dance;Electronic;Electronic Dance Music;Industrial Music;Punk Rock;Rock",
-"The Meters|Look-Ka Py Py|1970|PLbWWpjpAQLRJIUrJgJ67xkNhaRMHdp5Ar|A2339|Look-Ka Py Py|The Meters|Funk;R&B",
+"The Meters|Look-Ka Py Py|1970|PLfw-WxpVsmIbFGrxQfbM4FESFEn50MYhC|A2339|Look-Ka Py Py|The Meters|Funk;R&B",
 "Matthew Sweet|Girlfriend|1991|PL-V3c4gKd0rT89b9fi-NglaWO5oOxXfr3|A840|Girlfriend (album)|Matthew Sweet|Jangle Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Chick Corea|Now He Sings, Now He Sobs|1968|PL072336F3168FE5D8|A1982|Now He Sings, Now He Sobs|Chick Corea|Post-Bop;Bebop;Jazz",
 "Counting Crows|August and Everything After|1993|PLljkOevBdZQU-NcRwWg94huBE-ZxM-sdo|A897|August and Everything After|Counting Crows|Alternative Rock;Folk Rock;Rock",
