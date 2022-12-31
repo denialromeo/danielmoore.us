@@ -119,29 +119,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 (For more fun, check out [this list](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-langs.html) by the Free Ebook Foundation.)
 
-{:#blog-posts}
-**Blog Posts**
-
-* "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html)" by Seshadri Kumar (To be an ally is fatal.)
-* "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Apres Boomers, le deluge.)
-* "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkatesh Rao (Organizational politics demystified.)
-* "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
-* "[Story Structure 101](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)" by Dan Harmon (Narrative-writing for humans.)
-* "[Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)" by Peter Norvig (No royal road to geometry.)
-* "[Welcome to the Ruzzkiy Mir](https://yasha.substack.com/p/welcome-to-the-ruzzkiy-mir)" by Evgenia Korda (Understanding modern Russia.)
-* "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
-{% comment %}
-* "[2024 Election Polls](https://projects.fivethirtyeight.com/polls/president-general/2024/national/)" by FiveThirtyEight (Who will be this season's commander-in-chief?)
-* "[How to Send and Reply to Email](http://matt.might.net/articles/how-to-email/#abstract-container)" by Matt Might (Professional etiquette.)
-* "[A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)" by Paul Lockhart (All children should read this.)
-* "[Ross Perot: Election Spoiler](https://millercenter.org/ross-perot-election-spoiler-or-message-shaper)" by The Miller Center (Donald Trump's post-presidential future?)
-* "[The Stack Overflow Age](https://www.joelonsoftware.com/2018/04/06/the-stack-overflow-age/)" by Joel Spolsky (Recollections of the Internet gold rush.)
-* "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Amazon's secret to world domination.)
-* "[The Taiwan Strait Joint Exercise](https://www.guancha.cn/ChenFeng3/2022_08_18_654142_s.shtml)" by Chen Feng (How the next big war will likely start.)
-* "[Welcome to Hell, Elon](https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation)" by Nilay Patel (A fool and his money are soon parted.)
-* "[What if You Only Invested at Market Peaks?](https://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/#main)" by Ben Carlson (Slow and steady.)
-{% endcomment %}
-
 {:#hobbyist-books}
 **Hobbyist Books**
 
@@ -170,6 +147,29 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Open Borders*](https://www.amazon.com/dp/1250316960) by [Bryan Caplan](https://en.wikipedia.org/wiki/Bryan_Caplan) (Immigration restrictions make no economic sense.)
 * [*River Out of Eden*](https://www.goodreads.com/notes/19196310-river-out-of-eden/71655209-daniel-moore) by [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) (Suffering and scarcity are built into the system.)
 * [*Untrue: Women, Lust, and Infidelity*](https://www.goodreads.com/notes/38907660-untrue/71655209-daniel-moore) by [Wednesday Martin](https://en.wikipedia.org/wiki/Wednesday_Martin) (Primate sexual market dynamics.)
+
+{:#blog-posts}
+**Blog Posts**
+
+* "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html)" by Seshadri Kumar (To be an ally is fatal.)
+* "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Apres Boomers, le deluge.)
+* "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkatesh Rao (Organizational politics demystified.)
+* "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
+* "[Story Structure 101](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)" by Dan Harmon (Narrative-writing for humans.)
+* "[Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)" by Peter Norvig (No royal road to geometry.)
+* "[Welcome to the Ruzzkiy Mir](https://yasha.substack.com/p/welcome-to-the-ruzzkiy-mir)" by Evgenia Korda (Understanding modern Russia.)
+* "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
+{% comment %}
+* "[2024 Election Polls](https://projects.fivethirtyeight.com/polls/president-general/2024/national/)" by FiveThirtyEight (Who will be this season's commander-in-chief?)
+* "[How to Send and Reply to Email](http://matt.might.net/articles/how-to-email/#abstract-container)" by Matt Might (Professional etiquette.)
+* "[A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)" by Paul Lockhart (All children should read this.)
+* "[Ross Perot: Election Spoiler](https://millercenter.org/ross-perot-election-spoiler-or-message-shaper)" by The Miller Center (Donald Trump's post-presidential future?)
+* "[The Stack Overflow Age](https://www.joelonsoftware.com/2018/04/06/the-stack-overflow-age/)" by Joel Spolsky (Recollections of the Internet gold rush.)
+* "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Amazon's secret to world domination.)
+* "[The Taiwan Strait Joint Exercise](https://www.guancha.cn/ChenFeng3/2022_08_18_654142_s.shtml)" by Chen Feng (How the next big war will likely start.)
+* "[Welcome to Hell, Elon](https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation)" by Nilay Patel (A fool and his money are soon parted.)
+* "[What if You Only Invested at Market Peaks?](https://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/#main)" by Ben Carlson (Slow and steady.)
+{% endcomment %}
 
 {:#history-books}
 **History Books**
