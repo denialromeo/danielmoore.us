@@ -247,6 +247,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Nope*](https://www.peacocktv.com/watch/asset/movies/nope/e6fe0906-490b-3634-9f13-f03a7e94eab3) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Resurrects and deconstructs the Spielbergian blockbuster.)
 * [*Oldboy*](https://www.amazon.com/gp/product/B08LNLCL35) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (Intensely, painfully relatable.)
 * [*The Personal History of David Copperfield*](https://www.hulu.com/watch/4f9b8514-adb5-4cc1-abe8-76dfa2bd9a34) by [Armando Ianucci](https://en.wikipedia.org/wiki/Armando_Ianucci) (My favorite comedy.)
+* [*Reservoir Dogs*](https://www.amazon.com/gp/video/detail/B008Y5O6OO) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Takes itself seriously, forcing the viewer to as well.)
 * [*Schindler's List*](https://www.amazon.com/gp/video/detail/B00BEN0V8S) by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) (Still the best film ever made about racism.)
 * [*Shot Caller*](https://play.hbomax.com/page/urn:hbo:page:GY212Zg2HvUthwgEAAAJl:type:feature) by [Ric Waugh](https://en.wikipedia.org/wiki/Ric_Roman_Waugh) (Watching this made me stop driving.)
 * [*Squid Game*](https://www.netflix.com/title/81040344) by [Hwang Dong-hyuk](https://en.wikipedia.org/wiki/Hwang_Dong-hyuk) (Thinly-veiled allegory for corporate life.)
