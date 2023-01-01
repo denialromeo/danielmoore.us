@@ -2988,7 +2988,7 @@ const albums = [
 "Wayne Shorter|The All Seeing Eye|1966|PLvi2o7pgqcHAq4eNvVCzsRysWu09Oc0Wq|A2360|The All Seeing Eye|Wayne Shorter|Avant-Garde Jazz;Jazz",
 "Canned Heat|Boogie with Canned Heat|1968|PL38082D94347DFA6A|A1657|Boogie with Canned Heat|Canned Heat|Boogie Rock;Blues Rock;Rock",
 "Ol' Dirty Bastard|Return to the 36 Chambers: The Dirty Version|1995|PLAE200B1D79A8EE85|A1720|Return to the 36 Chambers: The Dirty Version|Ol' Dirty Bastard|Hardcore Hip Hop;Hip Hop",
-"Don Henley|Building the Perfect Beast|1984|ERROR: Suitable playlist not found|A630|Building the Perfect Beast|Don Henley|Pop Rock;Pop;Rock",
+"Don Henley|Building the Perfect Beast|1984|PLSJPquRLE0wT8v6LMDicMWOZvw7CGoidB|A630|Building the Perfect Beast|Don Henley|Pop Rock;Pop;Rock",
 "Blondie|Plastic Letters|1977|PLo2RWRPzyNRrk46DufYegoyEA2Pvtu1Ls|A1434|Plastic Letters|Debbie Harry|New Wave;Pop Rock;Pop;Rock",
 "Ulrich Schnauss|A Strangely Isolated Place|2003|PLH64JLgf6WP77Z_Vll5x2ghapJya86Z-h|A4966|A Strangely Isolated Place|Ulrich Schnauss|Downtempo;Electronic",
 "Nick Lowe|Labour of Lust|1979|PL0VQVFM4ctAmhL3jFDdZAbkTFchH-S0PH|A478|Labour of Lust|Nick Lowe|Power Pop;Pub Rock;Pop;Pop Rock;Rock",
