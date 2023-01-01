@@ -461,6 +461,12 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="clear"></div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman8/01.jpg" itemprop="contentUrl" data-size="1920x2894"><img style="border: 1px solid black;" src="/assets/img/comics/sandman8/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman8/02.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/sandman8/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman8/03.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/sandman8/03.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman7/01.jpg" itemprop="contentUrl" data-size="1920x2894"><img style="border: 1px solid black;" src="/assets/img/comics/sandman7/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman7/02.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/sandman7/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman7/03.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/sandman7/03.jpg"/></a></figcaption></figure>
@@ -479,19 +485,19 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/watchmen2/04.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/watchmen2/04.jpg"/></a></figcaption></figure>
 </div>
 
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/01.jpg" itemprop="contentUrl" data-size="1280x1990"><img style="border: 1px solid black;" src="/assets/img/comics/neonomicon/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Neonomicon</i> by Alan Moore</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/02.jpg" itemprop="contentUrl" data-size="1280x1989"><img src="/assets/img/comics/neonomicon/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/03.jpg" itemprop="contentUrl" data-size="1280x1988"><img src="/assets/img/comics/neonomicon/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/04.jpg" itemprop="contentUrl" data-size="1280x2004"><img src="/assets/img/comics/neonomicon/04.jpg"/></a></figcaption></figure>
-</div>
-
 <div id="clear"></div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman-dream-hunters/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/sandman-dream-hunters/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman: The Dream Hunters</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman-dream-hunters/02.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/sandman-dream-hunters/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman-dream-hunters/03.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/sandman-dream-hunters/03.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/01.jpg" itemprop="contentUrl" data-size="1280x1990"><img style="border: 1px solid black;" src="/assets/img/comics/neonomicon/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Neonomicon</i> by Alan Moore</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/02.jpg" itemprop="contentUrl" data-size="1280x1989"><img src="/assets/img/comics/neonomicon/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/03.jpg" itemprop="contentUrl" data-size="1280x1988"><img src="/assets/img/comics/neonomicon/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/04.jpg" itemprop="contentUrl" data-size="1280x2004"><img src="/assets/img/comics/neonomicon/04.jpg"/></a></figcaption></figure>
 </div>
 
 <div id="clear"></div>
