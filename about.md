@@ -151,7 +151,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#blog-posts}
 **Blog Posts**
 
-* "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html)" by Seshadri Kumar (Trump f\*cked everything.)
+* "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html)" by Seshadri Kumar (This is the end.)
 * "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Apres Boomers, le deluge.)
 * "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkatesh Rao (Organizational politics demystified.)
 * "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
