@@ -62,6 +62,18 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Everything boils down to industrial output. The future belongs to whomever owns the factories.</li>
     </ul>
 </div>
+
+<a href="javascript:;" id="dropdown3" target="_self"><b>Trivia</b></a>
+<div id="instructions3" style="display:none;">
+    <p>My favorite group activity is playing poker (<a href="https://en.wikipedia.org/wiki/Texas_hold_'em">Texas Hold'em</a>). Here's the rules at my house &ndash;</p>
+    <ul>
+        <li>2-dollar buy-in from each player. Red chips are 10 cents, white chips are 5 cents.</li>
+        <li>Small blind is 5 cents, big blind is 10 cents.</li>
+        <li>Limits are 10 cents for the first two rounds of betting, 20 cents for the second two.</li>
+        <li>For somewhat higher stakes, all values above can be multiplied by 10.</li>
+        <li>Time limit is one hour. After an hour, all chips are tallied and cashed in.</li>
+    </ul>
+</div>
  
 {% if site.url contains site.local_url %}
 <a href="javascript:;" id="dropdown3" target="_self"><b>Goals</b></a>
