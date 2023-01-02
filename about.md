@@ -151,7 +151,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#blog-posts}
 **Blog Posts**
 
-* "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html)" by Seshadri Kumar (This is the end.)
+* "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html#main)" by Seshadri Kumar (This is the end.)
 * "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Apres Boomers, le deluge.)
 * "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkatesh Rao (Organizational politics demystified.)
 * "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
@@ -290,6 +290,7 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/batman_all_star.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/showcase/batman_all_star.jpg"/></a><p><i>All-Star Batman and Robin the Boy Wonder</i> by Frank Miller</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/batman_knightfall.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/showcase/batman_knightfall.jpg"/></a><p><i>Batman: Knightfall</i> by Chuck Dixon</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/batman_whatever_happened.jpg" itemprop="contentUrl" data-size="1985x3056"><img src="/assets/img/comics/showcase/batman_whatever_happened.jpg"/></a><p><i>Whatever Happened to the Caped Crusader?</i> by Neil Gaiman</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/batman_whatever_happened2.jpg" itemprop="contentUrl" data-size="1985x3056"><img src="/assets/img/comics/showcase/batman_whatever_happened2.jpg"/></a><p><i>Whatever Happened to the Caped Crusader?</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/batman_killing_joke.jpg" itemprop="contentUrl" data-size="1680x2584"><img src="/assets/img/comics/showcase/batman_killing_joke.jpg"/></a><p><i>The Killing Joke</i> by Alan Moore</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/superman_red_son.jpg" itemprop="contentUrl" data-size="1987x3054"><img src="/assets/img/comics/showcase/superman_red_son.jpg"/></a><p><i>Superman: Red Son</i> by Mark Millar</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/batman_year_one.jpg" itemprop="contentUrl" data-size="2119x3263"><img src="/assets/img/comics/showcase/batman_year_one.jpg"/></a><p><i>Batman: Year One</i> by Frank Miller</p></figcaption></figure>
@@ -492,6 +493,12 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman-dream-hunters/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/sandman-dream-hunters/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman: The Dream Hunters</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman-dream-hunters/02.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/sandman-dream-hunters/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman-dream-hunters/03.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/sandman-dream-hunters/03.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/whatever-happened/01.jpg" itemprop="contentUrl" data-size="1985x3056"><img style="border: 1px solid black;" src="/assets/img/comics/whatever-happened/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Whatever Happened to the Caped Crusader?</i> by Neil Gaiman</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/whatever-happened/02.jpg" itemprop="contentUrl" data-size="1985x3056"><img src="/assets/img/comics/whatever-happened/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/whatever-happened/03.jpg" itemprop="contentUrl" data-size="1985x3056"><img src="/assets/img/comics/whatever-happened/03.jpg"/></a></figcaption></figure>
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
