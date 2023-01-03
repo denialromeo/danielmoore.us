@@ -1089,7 +1089,7 @@ const albums = [
 "Terry Riley|A Rainbow in Curved Air|1969|PLXfd3lfQjoB4dIW_DpHXfo5g4ShGRWqHI|A1992|A Rainbow in Curved Air|Terry Riley|Electronic;Minimalism;Classical Music;Modern Classical",
 "Noir Désir|Tostaky|1992|PLiN-7mukU_RHDyfE4ABAzelMbh3UFJXQn|A4771|Tostaky|Noir Désir|Alternative Rock;Rock",
 "The Waterboys|Fisherman's Blues|1988|PLX66jEixZe1zA2-2m5oNuI5HKgtHp4td9|A731|Fisherman's Blues|The Waterboys|Celtic Rock;Folk Rock;Rock",
-"The Waterboys|This Is the Sea|1985|ERROR: Suitable playlist not found|A646|This Is the Sea|The Waterboys|Folk Rock;Pop Rock;Pop;Rock",
+"The Waterboys|This Is the Sea|1985|https://www.youtube.com/embed/eIE-ln2vEF4|A646|This Is the Sea|The Waterboys|Folk Rock;Pop Rock;Pop;Rock",
 "Kiss|Destroyer|1976|PLqBuZsPcSir4j-P_c0GoQZXequ956Gjz9|A386|Destroyer (Kiss album)|Kiss (band)|Hard Rock;Rock",
 "Eurythmics|Sweet Dreams (Are Made of This...)|1983|PLAvwWvZ1EH1VcbaO3llhKB2TOWs2r-xGr|A581|Sweet Dreams (Are Made of This) (album)|Eurythmics|New Wave;Synthpop;Electronic;Pop;Rock",
 "Guided by Voices|Alien Lanes|1995|PLpQTbUxaLL5OBv7lem1QnVjDyR5osPFG0|A3562|Alien Lanes|Guided by Voices|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock",
