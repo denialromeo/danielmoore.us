@@ -63,7 +63,7 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
 </div>
 
-<a href="javascript:;" id="dropdown3" target="_self"><b>Trivia</b></a>
+<a href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
 <div id="instructions3" style="display:none;">
     <p>My favorite group activity is playing poker (<a href="https://en.wikipedia.org/wiki/Texas_hold_'em">Texas Hold'em</a>). Here's the rules at my house &ndash;</p>
     <ul>
