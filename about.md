@@ -35,7 +35,7 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li>Only invest in stocks or bonds. Real estate, gold, Bitcoin, etc. are all scams long-term.</li>
         <li>Insider trading is rampant. Never buy individual stocks. Only index funds like <a href="https://investor.vanguard.com/investment-products/etfs/profile/voo#overview">VOO</a>.</li>
-        <li>Work out if it's a bull market or a bear market. In a bull market, dollar-cost average into VOO. In a bear market (like present), cash out and buy T-Bills for a 4-5% return over a year.</li>
+        <li>Work out if it's a bull market or a bear market. In a bull market, dollar-cost average into VOO. In a bear market (like present), cash out and buy <a href="https://invest.ameritrade.com/grid/p/site#r=jPage/https://valubond.ameritrade.com/Dotnet/PrivateOffers/T-Auction.aspx?c_name=invest_VENDOR">T-Bills</a> for a 4-5% return over a year.</li>
         <li>Never go counter-trend. Only invest sincerely in bull markets. Only T-Bills in bear markets.</li>
         <li>"There is timing in the Way of the merchant, in the rise and fall of capital. All things entail rising &nbsp;and falling timing. You must be able to discern this." &ndash; Miyamoto Musashi</li>
     </ul>
