@@ -70,7 +70,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>2-dollar buy-in from each player. Red chips are 10 cents, white chips are 5 cents.</li>
         <li>Small blind is 5 cents, big blind is 10 cents.</li>
         <li>Limits are 10 cents for the first two rounds of betting, 20 cents for the second two.</li>
-        <li>For somewhat higher stakes, all values above can be multiplied by 10.</li>
+        <li>For higher stakes, all values above can be multiplied by 10.</li>
         <li>Time limit is one hour. After an hour, all chips are tallied and cashed in.</li>
     </ul>
 </div>
