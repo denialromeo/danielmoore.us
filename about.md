@@ -58,7 +58,7 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Donald Trump, and Joe Biden.</li>
-        <li>Honorable mentions go to Leonid Brezhnev, Indira Gandhi, <a href="/assets/img/imgur/rosenberg.jpg" target="_blank">Julius Rosenberg</a>, Qian Xuesen, Ronald Reagan, Boris Yeltsin, Jiang Zemin, Adolf Hitler, Albert Einstein, and Barack Obama.</li>
+        <li>Honorable mentions go to Leonid Brezhnev, Indira Gandhi, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Qian Xuesen, Ronald Reagan, Boris Yeltsin, Jiang Zemin, Adolf Hitler, Albert Einstein, and Barack Obama.</li>
         <li>Everything boils down to industrial output. The future belongs to whomever owns the factories.</li>
     </ul>
 </div>
