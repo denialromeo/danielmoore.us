@@ -126,7 +126,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Poker For Dummies*](https://www.goodreads.com/notes/19378414-poker-for-dummies/71655209-daniel-moore) by [Richard Harroch](https://www.linkedin.com/in/richard-d-harroch-15253a3/) (Face reality and deal with it head-on.)
 * [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Diet is half the battle.)
 * [*Starting Strength*](https://www.goodreads.com/notes/15746753-starting-strength/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Form is the other half. Pair with the [DVD](https://www.youtube.com/watch?v=EXZ46_-uwss&list=PLEB5rVJv_L5k0Tr5qvZ6GcK5cpJRLjMa-) for best results.)
-* [*We Have No Idea*](https://www.goodreads.com/notes/32885051-we-have-no-idea/71655209-daniel-moore) by [Jorge Cham](https://phdcomics.com/) (Open questions in contemporary physics research.)
 
 {:#philosophy-books}
 **Philosophy Books**
@@ -138,6 +137,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Disciplined Minds*](/disciplined-minds) by [Jeff Schmidt](https://disciplinedminds.tripod.com/) (Thriving in the white-collar workplace.)
 * [*Light on the Yoga Sutras of Patanjali*](https://www.goodreads.com/notes/18903748-light-on-the-yoga-sutras-of-patanjali/71655209-daniel-moore) by [B.K.S. Iyengar](https://en.wikipedia.org/wiki/B._K._S._Iyengar) (Exerting control over the mind.)
 * [*Straw Dogs*](https://www.goodreads.com/notes/29767507-straw-dogs/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (Breaking free of monotheistic orthodoxy.)
+* [*We Have No Idea*](https://www.goodreads.com/notes/32885051-we-have-no-idea/71655209-daniel-moore) by [Jorge Cham](https://phdcomics.com/) (Open questions in contemporary physics research.)
 
 {:#economics-books}
 **Economics Books**
