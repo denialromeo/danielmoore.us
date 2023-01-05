@@ -69,7 +69,7 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li>20-dollar buy-in from each player. White chips are 50 cents, red chips are a dollar.</li>
         <li>Small blind is 50 cents, big blind is a dollar.</li>
-        <li>Limits are a dollar for the first two rounds of betting, 2 dollars for the second two.</li>
+        <li>Limits are a dollar for the first two rounds of betting, two dollars for the second two.</li>
         <li>Each player receives 20 white chips and 10 red chips.</li>
         <li>Time limit is one hour. After an hour, all chips are tallied and cashed in.</li>
     </ul>
