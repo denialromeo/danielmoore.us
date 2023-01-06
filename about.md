@@ -138,7 +138,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Disciplined Minds*](/disciplined-minds) by [Jeff Schmidt](https://disciplinedminds.tripod.com/) (Thriving in the white-collar workplace.)
 * [*Light on the Yoga Sutras of Patanjali*](https://www.goodreads.com/notes/18903748-light-on-the-yoga-sutras-of-patanjali/71655209-daniel-moore) by [B.K.S. Iyengar](https://en.wikipedia.org/wiki/B._K._S._Iyengar) (Exerting control over the mind.)
 * [*Straw Dogs*](https://www.goodreads.com/notes/29767507-straw-dogs/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (Breaking free of monotheistic orthodoxy.)
-* [*We Have No Idea*](https://www.goodreads.com/notes/32885051-we-have-no-idea/71655209-daniel-moore) by [Jorge Cham](https://phdcomics.com/) (Open questions in contemporary physics research.)
 
 {:#economics-books}
 **Economics Books**
