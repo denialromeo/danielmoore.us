@@ -110,7 +110,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#programming-books}
 **Programming Books**
 
-* [*Coders at Work*](https://github.com/ndina/acm/raw/master/coders-at-work.pdf) by [Peter Seibel](https://gigamonkeys.com) (Wisdom from the greats &ndash; Knuth, Bloch, Eich, and more.)
+* [*Coders at Work*](https://github.com/ndina/acm/raw/master/coders-at-work.pdf) by [Peter Seibel](https://gigamonkeys.com) (Mentorship from the great programmers of our time.)
 * [*Game Programming Patterns*](http://gameprogrammingpatterns.com/contents.html) by [Bob Nystrom](http://stuffwithstuff.com/) (Notes on building maintainable software.)
 * [*Learn C++*](https://www.learncpp.com/) by Alex (For those of us who went to [JavaSchools](https://www.joelonsoftware.com/category/reading-lists/top-10/#post-912).)
 * [*Learn OpenGL*](https://learnopengl.com/book/book_pdf.pdf) by [Joey de Vries](https://twitter.com/JoeyDeVriez) (Graphics from scratch.)
@@ -125,6 +125,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Poker For Dummies*](https://www.goodreads.com/notes/19378414-poker-for-dummies/71655209-daniel-moore) by [Richard Harroch](https://www.linkedin.com/in/richard-d-harroch-15253a3/) (Face reality and deal with it head-on.)
 * [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Diet is half the battle.)
 * [*Starting Strength*](https://www.goodreads.com/notes/15746753-starting-strength/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Form is the other half. Pair with the [DVD](https://www.youtube.com/watch?v=EXZ46_-uwss&list=PLEB5rVJv_L5k0Tr5qvZ6GcK5cpJRLjMa-) for best results.)
+* [*Thursday-Night Poker*](https://www.goodreads.com/notes/19181632-thursday-night-poker/71655209-daniel-moore) by [Peter O. Steiner](https://en.wikipedia.org/wiki/Peter_O._Steiner) (Ball-parking probabilities is an essential skill.)
 
 {:#philosophy-books}
 **Philosophy Books**
