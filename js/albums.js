@@ -1478,7 +1478,7 @@ const albums = [
 "Mary J. Blige|What's the 411?|1992|PL46AB6F8F362DDFF6|A3425|What's the 411%3F|Mary J. Blige|New Jack Swing;Contemporary R&B;R&B",
 "Junior Boys|So This Is Goodbye|2006|PLtjGrSmXgiC5d4l0v4MzMFIbeLXDh9wGX|A3076|So This Is Goodbye|Junior Boys|Electropop;Synthpop;Electronic;Pop",
 "Philip Glass|Einstein on the Beach|1979|PLgKNXP4i98Kn_hFhr73sJP6ZfQT-X2rC9|A2029|Einstein on the Beach|Philip Glass|Minimalism;Opera;Classical Music;Modern Classical;Western Classical Music",
-"Ali Farka Touré with Ry Coode|Talking Timbuktu|1994|PLB83152CA86FADC5B|A2203|Talking Timbuktu|Ali Farka Touré|Blues;Mande Music;Songhai Music;African Music;Regional Music;West African Music",
+"Ali Farka Touré with Ry Cooder|Talking Timbuktu|1994|PLB83152CA86FADC5B|A2203|Talking Timbuktu|Ali Farka Touré|Blues;Mande Music;Songhai Music;African Music;Regional Music;West African Music",
 "Neil Young and Crazy Horse|Sleeps with Angels|1994|PLIJmYQvaDU3HKVzPjZPeb5-zg0uctpf0a|A908|Sleeps with Angels|Neil Young|Rock",
 "Neil Young|Harvest Moon|1992|PL6ogdCG3tAWhK2kzKKVzTIpGmhJudA72N|A855|Harvest Moon (album)|Neil Young|Acoustic Rock;Country Rock;Folk Rock;Singer/Songwriter;Rock",
 "David Sylvian|Secrets of the Beehive|1987|PLDC43934ADEF19DF4|A3163|Secrets of the Beehive|David Sylvian|Ambient Pop;Art Pop;Pop",
