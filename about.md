@@ -253,7 +253,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Schindler's List*](https://www.amazon.com/gp/video/detail/B00BEN0V8S) by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) (Still the best film ever made about racism.)
 * [*Shot Caller*](https://play.hbomax.com/page/urn:hbo:page:GY212Zg2HvUthwgEAAAJl:type:feature) by [Ric Waugh](https://en.wikipedia.org/wiki/Ric_Roman_Waugh) (Watching this made me stop driving.)
 * [*Squid Game*](https://www.netflix.com/title/81040344) by [Hwang Dong-hyuk](https://en.wikipedia.org/wiki/Hwang_Dong-hyuk) (Thinly-veiled allegory for corporate life.)
-* [*Sweeney Todd*](https://play.hbomax.com/page/urn:hbo:page:GYGQJNwOcH4W2XgEAAABg:type:feature) by [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) (Peak of film musicals.)
+* [*Sweeney Todd: The Demon Barber of Fleet Street*](https://play.hbomax.com/page/urn:hbo:page:GYGQJNwOcH4W2XgEAAABg:type:feature) by [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) (Peak of film musicals.)
 * [*Synecdoche, New York*](https://www.hulu.com/movie/synecdoche-new-york-e28dfc74-a383-44da-b6ae-7ec7744286f6) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
 * [*Turning Red*](https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m) by [Domee Shi](https://en.wikipedia.org/wiki/Domee_Shi) (Written by women for women.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
