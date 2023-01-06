@@ -783,7 +783,7 @@ const albums = [
 "Can|Future Days|1973|PLyO1EJqBIah4Lcl-wlLTvJqHwTD7giTjS|A1150|Future Days|Can (band)|Krautrock;Experimental Rock;Progressive Rock;Rock",
 "The Incredible String Band|The Hangman's Beautiful Daughter|1968|PLkkVhQpGemX4ZrqoiQ1_pCR8VyCpiXEA7|A1237|The Hangman's Beautiful Daughter|The Incredible String Band|Psychedelic Folk;Contemporary Folk;Folk",
 "Black Sabbath|Master of Reality|1971|PLo2VF3ux4qcbTzx1df---2oB2d07gkjFr|A1348|Master of Reality|Black Sabbath|Hard Rock;Heavy Metal;Metal;Rock",
-"Gnarls Barkley|St. Elsewhere|2006|PLx0q7abKXxa_ZuXP7K7ZEPA58XNjawEhj|A2123|St. Elsewhere (album)|Gnarls Barkley|Experimental Hip Hop;Neo-Soul;Hip Hop;R&B;Soul",
+"Gnarls Barkley|St. Elsewhere|2006|PLdV03nrs7urMnToqc3dMTBp1pocDaof0_|A2123|St. Elsewhere (album)|Gnarls Barkley|Experimental Hip Hop;Neo-Soul;Hip Hop;R&B;Soul",
 "Madonna|Like a Virgin|1984|PLF0AhMBAen_tXS9qb8jYpz5DWXIj7FqNK|A623|Like a Virgin (album)|Madonna (entertainer)|Pop",
 "The Go-Betweens|16 Lovers Lane|1988|PLC8753AB9D674AFA5|A741|16 Lovers Lane|The Go-Betweens|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Marvin Gaye|Here, My Dear|1978|PLKeitSHv3sK1nAS5lJdNpDnsNx_iRN3H_|A438|Here, My Dear|Marvin Gaye|Smooth Soul;R&B;Soul",
