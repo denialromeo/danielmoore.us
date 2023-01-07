@@ -2905,7 +2905,7 @@ const albums = [
 "Max Romeo & The Upsetters|War ina Babylon|1976|PL_4EBx3IuIZrDVlSbp3kM5WDCAue5AQsS|A4589|War ina Babylon|The Upsetters|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Tom Verlaine|Dreamtime|1981|PLQjahBkCR6vFZf5B4h6PL_gfb6kDCzatX|A529|Dreamtime (Tom Verlaine album)|Tom Verlaine|Art Punk;Post-Punk;Punk Rock;Rock",
 "John Coltrane|Coltrane Plays the Blues|1962|PL7gp579CMkT-uIBeNDGeI1jURk4yJzXUZ|A1908|Coltrane Plays the Blues|John Coltrane|Hard Bop;Bebop;Jazz",
-"The Chieftains|The Chieftains 4|1973|PLB5759065FF663F75|A2660|The Chieftains 4|The Chieftains|Irish Folk Music;Celtic Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music",
+"The Chieftains|The Chieftains 4|1973|PLm4I8tP6UbWZla3tVdQbnQ_AyOZqC8NhT|A2660|The Chieftains 4|The Chieftains|Irish Folk Music;Celtic Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music",
 "Cheap Trick|Cheap Trick|1977|PLEvr99j7ruPwojLNE_WgM_mgZAZzWhnIV|A2679|Cheap Trick (1977 album)|Cheap Trick|Hard Rock;Power Pop;Pop;Pop Rock;Rock",
 "Kim Gordon|No Home Record|2019|PLZqsyBiYZFQ2Ju3zozDjDehsj-ZpzC7cX|A6285|No Home Record|Kim Gordon|Industrial;Noise Rock;Experimental;Industrial Music;Rock",
 "La Femme|Psycho Tropical Berlin|2013|PLjApp6Lljo-MylWCniAUpuVUCb6enE9Ka|A6745|Psycho Tropical Berlin|La Femme (band)|French Pop;Synthpop;Electronic;Pop",

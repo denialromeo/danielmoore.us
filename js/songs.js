@@ -7917,7 +7917,7 @@ const songs = [
 "Big Thief|Shark Smile|2017|dosQWJ9ORHQ|Big Thief|S16340|Indie Rock;Alternative Rock;Rock",
 "Snail Mail|Heat Wave|2018|-d91Qn8QUks|Snail Mail (musician)|S16586|Indie Rock;Alternative Rock;Rock",
 "Louise Attaque|Je t'emmene au vent|1997|xsl0tqDoCys|Louise Attaque|S7333|Chanson alternative;Folk Punk;Chanson;Punk Rock;Regional Music;Rock",
-"De La Soul|The Magic Number|1989|jC_ya2n2BSE|De La Soul|S5988|East Coast Hip Hop;Hip Hop",
+"De La Soul|The Magic Number|1989|cLo84G1ftls|De La Soul|S5988|East Coast Hip Hop;Hip Hop",
 "College feat. Electric Youth|A Real Hero|2009|-DSVDcw6iW8|David Grellier|S10449|Synthpop;Synthwave;Electronic;Pop",
 "AC/DC|Jailbreak|1976|WHtWs4wiFCs|AC/DC|S9915|Hard Rock;Rock",
 "Metallica|...And Justice For All|1988|QnXOSUQ5HJY|Metallica|S15700|Progressive Metal;Thrash Metal;Metal;Rock",
