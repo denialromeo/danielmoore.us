@@ -1,22 +1,28 @@
 {
 	"pages": [
 		{
-			"author": "Neil Gaiman",
-			"title": "Whatever Happened to the Caped Crusader?",
+			"author": "John Wagner",
+			"title": "Judge Dredd: America",
 			"amazon": "",
-			"link": "assets/img/comics/whatever-happened/01.jpg"
+			"link": "assets/img/comics/judge-dredd-america/01.jpg"
 		},
 		{
-			"author": "Neil Gaiman",
-			"title": "Whatever Happened to the Caped Crusader?",
+			"author": "John Wagner",
+			"title": "Judge Dredd: America",
 			"amazon": "",
-			"link": "assets/img/comics/whatever-happened/02.jpg"
+			"link": "assets/img/comics/judge-dredd-america/02.jpg"
 		},
 		{
-			"author": "Neil Gaiman",
-			"title": "Whatever Happened to the Caped Crusader?",
+			"author": "John Wagner",
+			"title": "Judge Dredd: America",
 			"amazon": "",
-			"link": "assets/img/comics/whatever-happened/03.jpg"
+			"link": "assets/img/comics/judge-dredd-america/03.jpg"
+		},
+		{
+			"author": "John Wagner",
+			"title": "Judge Dredd: America",
+			"amazon": "",
+			"link": "assets/img/comics/judge-dredd-america/04.jpg"
 		}
 	]
 }

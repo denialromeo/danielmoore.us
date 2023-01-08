@@ -500,6 +500,13 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/judge-dredd-america/01.jpg" itemprop="contentUrl" data-size="1341x2073"><img style="border: 1px solid black;" src="/assets/img/comics/judge-dredd-america/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Judge Dredd: America</i> by John Wagner</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/judge-dredd-america/02.jpg" itemprop="contentUrl" data-size="1338x2066"><img src="/assets/img/comics/judge-dredd-america/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/judge-dredd-america/03.jpg" itemprop="contentUrl" data-size="1305x2037"><img src="/assets/img/comics/judge-dredd-america/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/judge-dredd-america/04.jpg" itemprop="contentUrl" data-size="1308x2059"><img src="/assets/img/comics/judge-dredd-america/04.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/whatever-happened/01.jpg" itemprop="contentUrl" data-size="1985x3056"><img style="border: 1px solid black;" src="/assets/img/comics/whatever-happened/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Whatever Happened to the Caped Crusader?</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/whatever-happened/02.jpg" itemprop="contentUrl" data-size="1985x3056"><img src="/assets/img/comics/whatever-happened/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/whatever-happened/03.jpg" itemprop="contentUrl" data-size="1985x3056"><img src="/assets/img/comics/whatever-happened/03.jpg"/></a></figcaption></figure>
