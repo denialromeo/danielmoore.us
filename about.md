@@ -189,6 +189,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Historical Documents**
 
 * "[The ABC of Communism](https://www.marxists.org/archive/bukharin/works/1920/abc/)" by [Nikolai Bukharin](https://en.wikipedia.org/wiki/Nikolai_Bukharin) (Primer on what tens of millions died for.)
+* "[Address to the Nation After 9/11](https://press.uchicago.edu/Misc/Chicago/481921texts.html)" by [George W. Bush](https://en.wikipedia.org/wiki/George_W._Bush) (Triggered 20 years of war.)
 * "[Asia After Viet Nam](https://cdn.nixonlibrary.org/01/wp-content/uploads/2017/01/11113807/Asia-After-Viet-Nam.pdf)" by [Richard Nixon](https://en.wikipedia.org/wiki/Richard_Nixon) (Sino-American rapprochement.)
 * "[From a China Traveler](https://www.nytimes.com/1973/08/10/archives/from-a-china-traveler.html)" by [David Rockefeller](https://en.wikipedia.org/wiki/David_Rockefeller) (Neoliberal honeymoon.)
 * "[Modernize and Never Seek Hegemony](https://dengxiaopingworks.wordpress.com/2013/02/25/realize-the-four-modernizations-and-never-seek-hegemony)" by [Deng Xiaoping](https://en.wikipedia.org/wiki/Deng_Xiaoping) (Father of globalization.)
@@ -196,7 +197,6 @@ I hope you have a good time here. Thanks for dropping by.
 * "[On the Historical Unity of Russians and Ukrainians](http://en.kremlin.ru/events/president/news/66181)" by [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) (Tsardom reborn.)
 * "[The Social Responsibility of Business](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html)" by [Milton Friedman](https://en.wikipedia.org/wiki/Milton_Friedman) (Death knell for the welfare state.)
 * "[Speech on the Accession of China to the WTO](https://www.iatp.org/sites/default/files/Full_Text_of_Clintons_Speech_on_China_Trade_Bi.htm)" by [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) (Birth of the Chinese Century.)
-* "[Videotape Claiming Responsibility for 9/11](https://press.uchicago.edu/Misc/Chicago/481921texts.html)" by [Osama bin Laden](https://en.wikipedia.org/wiki/Osama_bin_Laden) (Triggered 20 years of war.)
 
 {:#autobiographies}
 **Autobiographies**
