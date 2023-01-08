@@ -22,7 +22,6 @@ I hope you have a good time here. Thanks for dropping by.
           <img style="border: 1px solid black;" src="{{site.img_dir}}qyrIWUJ.png" alt="Image description" />
       </a>
       <figcaption itemprop="caption description">
-        <p>B.S. Computer Engineering from UC San Diego (2016)</p>
       </figcaption>
     </figure>
 </div>
