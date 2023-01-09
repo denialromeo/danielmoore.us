@@ -2,7 +2,7 @@ import json
 
 from PIL import Image
 
-JSON = 'comics-single.json'
+JSON = 'comics.json'
 
 def get_dim(img):
     im = Image.open(img);
