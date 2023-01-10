@@ -75,7 +75,7 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
     <p>Some (long-term) planned open-source projects &ndash;</p>
     <ul>
-        <li>A configurable version of <a href="https://store.steampowered.com/app/234710/Poker_Night_2"><i>Poker Night 2</i></a> featuring many card games and allowing AI attributes to be tweaked by the player. No dialogue. NPCs are mannequins of varying skin tone.</li>
+        <li>A configurable version of <a href="https://store.steampowered.com/app/234710/Poker_Night_2"><i>Poker Night 2</i></a> featuring many card games and allowing AI attributes to be tweaked by the player. No dialogue.</li>
         <li>A series of short films adapting the Mahabharata, focusing on its political aspects.</li>
         <li>An in-browser version of <a href="https://store.steampowered.com/app/897820/Reigns_Game_of_Thrones"><i>Reigns</i></a> where you play as major political figures in Chinese history. Draws directly from primary sources and Chinese-written biographies.</li>
     </ul>
