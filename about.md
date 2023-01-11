@@ -282,7 +282,7 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/maus/Maus_2_094.jpg" itemprop="contentUrl" data-size="884x1212"><img style="border: 1px solid black;" src="/assets/img/comics/maus/Maus_2_094.jpg"/></a><figcaption itemprop="caption description"><p><i>Maus</i> by Art Spiegelman</p><p><a href="https://getcomics.info/other-comics/the-complete-maus-2003/">Full Comic</a></p></figcaption></figure>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/maus/Maus_2_094.jpg" itemprop="contentUrl" data-size="884x1212"><img style="border: 1px solid black;" src="/assets/img/comics/maus/Maus_2_094.jpg"/></a><figcaption itemprop="caption description"><p><i>Maus</i> by Art Spiegelman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/maus/Maus_2_095.jpg" itemprop="contentUrl" data-size="876x1228"><img src="/assets/img/comics/maus/Maus_2_095.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/maus/Maus_2_096.jpg" itemprop="contentUrl" data-size="884x1220"><img src="/assets/img/comics/maus/Maus_2_096.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
 </div>
