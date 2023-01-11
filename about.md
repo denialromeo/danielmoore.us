@@ -36,7 +36,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Insider trading is rampant. Never buy individual stocks. Only index funds like <a href="https://investor.vanguard.com/investment-products/etfs/profile/voo#overview">VOO</a>.</li>
         <li>Work out if it's a bull market or a bear market. In a bull market, dollar-cost average into VOO. In a bear market (like present), cash out and buy <a href="https://invest.ameritrade.com/grid/p/site#r=jPage/https://valubond.ameritrade.com/Dotnet/PrivateOffers/T-Auction.aspx?c_name=invest_VENDOR">T-Bills</a> for a 4-5% return over a year.</li>
         <li>Never go counter-trend. Only invest sincerely in bull markets. Only T-Bills in bear markets. Remember, you make money by buying into uptrends and avoiding drawdowns.</li>
-        <li>"There is timing in the Way of the merchant, in the rise and fall of capital. All things entail rising &nbsp;and falling timing. You must be able to discern this." &ndash; Miyamoto Musashi</li>
+        <li>"There is timing in the Way of the merchant, in the rise and fall of capital. All things entail rising &nbsp;and falling timing. You must be able to discern this." &ndash; <a href="https://www.goodreads.com/notes/31197112-the-book-of-five-rings/71655209-daniel-moore">Miyamoto Musashi</a></li>
     </ul>
     <p>Further bull market rules &ndash;</p>
     <ul>
@@ -72,6 +72,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Spread limits are a dollar for the first two rounds of betting, 2 dollars for the second two.</li>
         <li>When only two players remain, the pot can be split and the game ended at any time.</li>
         <li>Time limit is one hour. After an hour, all chips are tallied and cashed in.</li>
+        <li>"Evaluate each holding at the flop in the right frame of mind. Don’t ask: Can I improve? &nbsp;Instead ask: What are my chances of being the clear winner at the end?" &ndash; <a href="https://www.goodreads.com/notes/19181632-thursday-night-poker/71655209-daniel-moore">Peter O. Steiner</a></li>
     </ul>
     <p>Some (long-term) planned open-source projects &ndash;</p>
     <ul>
@@ -132,7 +133,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Poker Tells*](https://www.goodreads.com/notes/18951325-caro-s-book-of-poker-tells/71655209-daniel-moore) by [Mike Caro](https://en.wikipedia.org/wiki/Mike_Caro) (Reading body language for fun and profit. Comes with [videos](https://www.youtube.com/watch?v=NeyglBBYqtE&list=UUuywjfVen04luJsU8cn68jQ&index=9).)
 * [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Planning is half the battle.)
 * [*Starting Strength*](https://www.goodreads.com/notes/15746753-starting-strength/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Form is the other half. Pair with the [DVD](https://www.youtube.com/watch?v=EXZ46_-uwss&list=PLEB5rVJv_L5k0Tr5qvZ6GcK5cpJRLjMa-) for best results.)
-* [*Thursday-Night Poker*](https://www.goodreads.com/notes/19181632-thursday-night-poker/71655209-daniel-moore) by [Peter O. Steiner](https://en.wikipedia.org/wiki/Peter_O._Steiner) (Estimating probabilities is an essential skill.)
 
 {:#philosophy-books}
 **Philosophy Books**
