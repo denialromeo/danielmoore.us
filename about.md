@@ -537,4 +537,6 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/spiderman2/03.jpg" itemprop="contentUrl" data-size="1236x1839"><img src="/assets/img/comics/spiderman2/03.jpg"/></a></figcaption></figure>
 </div>
 
+<div id="clear"></div>
+
 <p class="photoswipe-caption-comic"><i>Click the pictures!</i></p>
