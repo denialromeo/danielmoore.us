@@ -1,28 +1,22 @@
 {
 	"pages": [
 		{
-			"author": "John Wagner",
-			"title": "Judge Dredd: America",
+			"author": "Gerry Conway",
+			"title": "The Night Gwen Stacy Died",
 			"amazon": "",
-			"link": "assets/img/comics/judge-dredd-america/01.jpg"
+			"link": "assets/img/comics/spiderman2/01.jpg"
 		},
 		{
-			"author": "John Wagner",
-			"title": "Judge Dredd: America",
+			"author": "Gerry Conway",
+			"title": "The Night Gwen Stacy Died",
 			"amazon": "",
-			"link": "assets/img/comics/judge-dredd-america/02.jpg"
+			"link": "assets/img/comics/spiderman2/02.jpg"
 		},
 		{
-			"author": "John Wagner",
-			"title": "Judge Dredd: America",
+			"author": "Gerry Conway",
+			"title": "The Night Gwen Stacy Died",
 			"amazon": "",
-			"link": "assets/img/comics/judge-dredd-america/03.jpg"
-		},
-		{
-			"author": "John Wagner",
-			"title": "Judge Dredd: America",
-			"amazon": "",
-			"link": "assets/img/comics/judge-dredd-america/04.jpg"
+			"link": "assets/img/comics/spiderman2/03.jpg"
 		}
 	]
 }
