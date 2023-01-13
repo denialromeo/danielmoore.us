@@ -537,6 +537,12 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/spiderman2/03.jpg" itemprop="contentUrl" data-size="1236x1839"><img src="/assets/img/comics/spiderman2/03.jpg"/></a></figcaption></figure>
 </div>
 
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/batman/01.jpg" itemprop="contentUrl" data-size="1987x3055"><img style="border: 1px solid black;" src="/assets/img/comics/batman/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Dark Knight Returns</i> by Frank Miller</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/batman/02.jpg" itemprop="contentUrl" data-size="1987x3055"><img src="/assets/img/comics/batman/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/batman/03.jpg" itemprop="contentUrl" data-size="1987x3055"><img src="/assets/img/comics/batman/03.jpg"/></a></figcaption></figure>
+</div>
+
 <div id="clear"></div>
 
 <p class="photoswipe-caption-comic"><i>Click the pictures!</i></p>

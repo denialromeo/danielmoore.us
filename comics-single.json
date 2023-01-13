@@ -1,22 +1,22 @@
 {
 	"pages": [
 		{
-			"author": "Gerry Conway",
-			"title": "The Night Gwen Stacy Died",
+			"author": "Frank Miller",
+			"title": "The Dark Knight Returns",
 			"amazon": "",
-			"link": "assets/img/comics/spiderman2/01.jpg"
+			"link": "assets/img/comics/batman/01.jpg"
 		},
 		{
-			"author": "Gerry Conway",
-			"title": "The Night Gwen Stacy Died",
+			"author": "Frank Miller",
+			"title": "The Dark Knight Returns",
 			"amazon": "",
-			"link": "assets/img/comics/spiderman2/02.jpg"
+			"link": "assets/img/comics/batman/02.jpg"
 		},
 		{
-			"author": "Gerry Conway",
-			"title": "The Night Gwen Stacy Died",
+			"author": "Frank Miller",
+			"title": "The Dark Knight Returns",
 			"amazon": "",
-			"link": "assets/img/comics/spiderman2/03.jpg"
+			"link": "assets/img/comics/batman/03.jpg"
 		}
 	]
 }
