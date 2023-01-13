@@ -76,7 +76,7 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
     <p>Some (long-term) planned open-source projects &ndash;</p>
     <ul>
-        <li>A series of short films adapting the Mahabharata, focusing on its political aspects.</li>
+        <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Practical effects/green-screen. Darker-skinned actors, shot on location in India.</li>
         <li><a href="https://store.steampowered.com/app/897820/Reigns_Game_of_Thrones"><i>Reigns</i></a>, but you play as major figures from Chinese history. In-browser, HTML5/CSS.</li>
         <li>A configurable version of <a href="https://store.steampowered.com/app/234710/Poker_Night_2"><i>Poker Night 2</i></a> featuring many card games and allowing AI attributes to be tweaked by the player. No dialogue. In-browser, Unity/WebGL.</li>
     </ul>
