@@ -51,7 +51,7 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="instructions2" style="display:none;">
     <p>I have very typical views for my location (California) and demographic (minority male). Probably the one cause I'm passionate about is feminism. (Women have the numbers to force real change.)</p>
     {%comment%}
-    <center><img src="/assets/img/imgur/democracy.jpg" height="250px" title="In practice, it's more like 1 in 5."/></center>
+    <center> <img src="/assets/img/imgur/democracy.jpg" height="250px" title="In practice, it's more like 1 in 5."/></center>
     {%endcomment%}
     <p>Some statements I believe &ndash;</p>
     <ul>
