@@ -50,8 +50,8 @@ I hope you have a good time here. Thanks for dropping by.
 <a href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
     <p>I have very typical views for my location (California) and demographic (minority male). Probably the one cause I'm passionate about is feminism. (Women have the numbers to force real change.)</p>
-    <p>Issues I'm concerned about include software-driven mass unemployment, global climate change, depleting groundwater, and political polarization. It may all be downhill from here.</p>
     {%comment%}
+    <p>Issues I'm concerned about include environmental destruction, global climate change, depleting groundwater, and political polarization. It may all be downhill from here.</p>
     <center> <img src="/assets/img/imgur/democracy.jpg" height="250px" title="In practice, it's more like 1 in 5."/></center>
     {%endcomment%}
     <p>Some statements I believe &ndash;</p>
@@ -59,6 +59,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, <a target="_blank" href="https://truthsocial.com/@realDonaldTrump">Donald Trump</a>, and Joe Biden.</li>
         <li>Honorable mentions go to Leonid Brezhnev, Indira Gandhi, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Qian Xuesen, Ronald Reagan, Boris Yeltsin, Jiang Zemin, Adolf Hitler, Albert Einstein, and Barack Obama.</li>
+        <li>On February 17, 1972, Richard Nixon flew to China and, with Mao, started 50 years of peace. On February 24, 2022, Vladimir Putin invaded Ukraine and ushered in a new era of war.</li>
         <li>Everything boils down to industrial output. The future belongs to whomever owns the factories.</li>
     </ul>
 </div>
