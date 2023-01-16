@@ -80,7 +80,6 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Practical effects. Darker-skinned actors, shot on location in India.</li>
         <li><a href="https://store.steampowered.com/app/897820/Reigns_Game_of_Thrones"><i>Reigns</i></a>, but you play as major figures from Chinese history. In-browser, HTML5/CSS.</li>
-        <li>A configurable version of <a href="https://store.steampowered.com/app/234710/Poker_Night_2"><i>Poker Night 2</i></a> featuring many card games and allowing AI attributes to be tweaked by the player. No dialogue. In-browser, Unity/WebGL.</li>
     </ul>
 </div>
  
@@ -132,7 +131,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Lectures on Physics*](https://www.feynmanlectures.caltech.edu/) by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (Still the gold standard.)
 * [*Les Halles Cookbook*](https://www.goodreads.com/notes/33361472-anthony-bourdain-s-les-halles-cookbook/71655209-daniel-moore) by [Anthony Bourdain](https://en.wikipedia.org/wiki/Anthony_Bourdain) (Anyone can cook!)
 * [*Logical Chess*](https://archive.org/details/logicalchess_movebymove) by [Irving Chenev](https://en.wikipedia.org/wiki/Irving_Chernev) (Teaches the consequences of small changes.)
-* [*The Penguin Book of Card Games*](https://www.goodreads.com/notes/19169344-the-penguin-book-of-card-games/71655209-daniel-moore) by [David Parlett](https://en.wikipedia.org/wiki/David_Parlett) (A lifetime of fun.)
+* [*The Penguin Book of Card Games*](https://www.goodreads.com/notes/19169344-the-penguin-book-of-card-games/71655209-daniel-moore) by [David Parlett](https://en.wikipedia.org/wiki/David_Parlett) (A lifetime of fun. Also see [pagat.com](https://www.pagat.com/).)
 * [*Poker Tells*](https://www.goodreads.com/notes/18951325-caro-s-book-of-poker-tells/71655209-daniel-moore) by [Mike Caro](https://en.wikipedia.org/wiki/Mike_Caro) (Reading body language for fun and profit. Comes with [videos](https://www.youtube.com/watch?v=NeyglBBYqtE&list=UUuywjfVen04luJsU8cn68jQ&index=9).)
 * [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Planning is half the battle.)
 * [*Starting Strength*](https://www.goodreads.com/notes/15746753-starting-strength/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Form is the other half. Pair with the [DVD](https://www.youtube.com/watch?v=EXZ46_-uwss&list=PLEB5rVJv_L5k0Tr5qvZ6GcK5cpJRLjMa-) for best results.)
