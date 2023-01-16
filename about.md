@@ -72,7 +72,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>20-dollar buy-in from each player. White chips are 50 cents, red chips are a dollar.</li>
         <li>Every player receives 20 white chips and 10 red chips.</li>
         <li>Small blind is 50 cents, big blind is a dollar.</li>
-        <li>Spread limits are two dollars for all four rounds of betting.</li>
+        <li>Spread limits are two dollars for the first two rounds of betting, four dollars for the second two.</li>
         <li>When only two players remain, the pot can be split and the game ended at any time.</li>
         <li>Time limit is one hour. After an hour, all chips are tallied and cashed in.</li>
         <li>"Evaluate each holding at the flop in the right frame of mind. Don’t ask: Can I improve? &nbsp;Instead ask: What are my chances of being the clear winner at the end?" &ndash; <a href="https://www.goodreads.com/notes/19181632-thursday-night-poker/71655209-daniel-moore">Peter O. Steiner</a></li>
