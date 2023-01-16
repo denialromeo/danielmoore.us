@@ -1,22 +1,22 @@
 {
 	"pages": [
 		{
-			"author": "Frank Miller",
-			"title": "All-Star Batman and Robin the Boy Wonder",
+			"author": "Scott McCloud",
+			"title": "The Sculptor",
 			"amazon": "",
-			"link": "assets/img/comics/batman2/01.jpg"
+			"link": "assets/img/comics/sculptor/01.jpg"
 		},
 		{
-			"author": "Frank Miller",
-			"title": "All-Star Batman and Robin the Boy Wonder",
+			"author": "Scott McCloud",
+			"title": "The Sculptor",
 			"amazon": "",
-			"link": "assets/img/comics/batman2/02.jpg"
+			"link": "assets/img/comics/sculptor/02.jpg"
 		},
 		{
-			"author": "Frank Miller",
-			"title": "All-Star Batman and Robin the Boy Wonder",
+			"author": "Scott McCloud",
+			"title": "The Sculptor",
 			"amazon": "",
-			"link": "assets/img/comics/batman2/03.jpg"
+			"link": "assets/img/comics/sculptor/03.jpg"
 		}
 	]
 }
