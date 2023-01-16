@@ -1,22 +1,22 @@
 {
 	"pages": [
 		{
-			"author": "Scott McCloud",
-			"title": "The Sculptor",
+			"author": "Alan Moore",
+			"title": "The Adventures of Tom Strong",
 			"amazon": "",
-			"link": "assets/img/comics/sculptor/01.jpg"
+			"link": "assets/img/comics/tom-strong/01.jpg"
 		},
 		{
-			"author": "Scott McCloud",
-			"title": "The Sculptor",
+			"author": "Alan Moore",
+			"title": "The Adventures of Tom Strong",
 			"amazon": "",
-			"link": "assets/img/comics/sculptor/02.jpg"
+			"link": "assets/img/comics/tom-strong/02.jpg"
 		},
 		{
-			"author": "Scott McCloud",
-			"title": "The Sculptor",
+			"author": "Alan Moore",
+			"title": "The Adventures of Tom Strong",
 			"amazon": "",
-			"link": "assets/img/comics/sculptor/03.jpg"
+			"link": "assets/img/comics/tom-strong/03.jpg"
 		}
 	]
 }
