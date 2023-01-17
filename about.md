@@ -56,7 +56,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>On February 17, 1972, Richard Nixon flew to China and, with Mao, started 50 years of peace. On February 24, 2022, Vladimir Putin invaded Ukraine and ushered in a new era of war.</li>
     <center> <img src="/assets/img/imgur/democracy.jpg" height="250px" title="In practice, it's more like 1 in 5."/></center>
     {%endcomment%}
-    <p>Some statements I believe &ndash;</p>
+    <p>Some historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, <a target="_blank" href="https://truthsocial.com/@realDonaldTrump">Donald Trump</a>, and Joe Biden.</li>
