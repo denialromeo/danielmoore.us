@@ -19,7 +19,7 @@ I hope you have a good time here. Thanks for dropping by.
 <div class="gallery my-gallery" data-pswp-uid="certs" itemscope itemtype="http://schema.org/ImageGallery">
     <figure style="padding-right:1%" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="{{site.img_dir}}qyrIWUJ.png" itemprop="contentUrl" data-size="918x711">
-          <img style="border: 1px solid black;" src="{{site.img_dir}}qyrIWUJ.png" alt="Image description" />
+          <img style="border: 1px solid black;" src="{{site.img_dir}}qyrIWUJ.png" />
       </a>
       <figcaption itemprop="caption description">
       </figcaption>
@@ -165,6 +165,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Welcome to the Ruzzkiy Mir](https://yasha.substack.com/p/welcome-to-the-ruzzkiy-mir)" by Evgenia Korda (Understanding modern Russia.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
+* [*Accelerando*](https://goodreads.com/notes/6606323-accelerando/71655209-daniel-moore) by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross) (Is all of human history a footnote to the creation of AI?)
 * "[2024 Election Polls](https://projects.fivethirtyeight.com/polls/president-general/2024/national/)" by FiveThirtyEight (Who will be this season's commander-in-chief?)
 * "[How to Send and Reply to Email](http://matt.might.net/articles/how-to-email/#abstract-container)" by Matt Might (Professional etiquette.)
 * "[A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)" by Paul Lockhart (All children should read this.)
