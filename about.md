@@ -152,7 +152,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Neoliberal Endgame*](https://www.goodreads.com/notes/20574045-the-falling-rate-of-learning-and-the-neoliberal-endgame/71655209-daniel-moore) by [David Blacker](https://www.cehd.udel.edu/faculty-bio/david-blacker/) (America's destiny, as set forth by Nixon.)
 * [*Open Borders*](https://www.amazon.com/dp/1250316960) by [Bryan Caplan](https://en.wikipedia.org/wiki/Bryan_Caplan) (Immigration restrictions make no economic sense.)
 * [*River Out of Eden*](https://www.goodreads.com/notes/19196310-river-out-of-eden/71655209-daniel-moore) by [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) (Suffering and scarcity are built into the system.)
-* [*Untrue: Women, Lust, and Infidelity*](https://www.goodreads.com/notes/38907660-untrue/71655209-daniel-moore) by [Wednesday Martin](https://en.wikipedia.org/wiki/Wednesday_Martin) (Primate sexual market dynamics.)
+* [*Untrue: Women, Lust, and Infidelity*](https://www.goodreads.com/notes/38907660-untrue/71655209-daniel-moore) by [Wednesday Martin](https://en.wikipedia.org/wiki/Wednesday_Martin) (Primate dating market dynamics.)
 
 {:#blog-posts}
 **Blog Posts**
@@ -161,6 +161,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Apres Boomers, le deluge.)
 * "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkatesh Rao (Organizational politics demystified.)
 * "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
+* "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Microsoft's path to world domination.)
 * "[Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)" by Peter Norvig (No royal road to geometry.)
 * "[Welcome to the Ruzzkiy Mir](https://yasha.substack.com/p/welcome-to-the-ruzzkiy-mir)" by Evgenia Korda (Understanding modern Russia.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
@@ -171,7 +172,6 @@ I hope you have a good time here. Thanks for dropping by.
 * "[A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)" by Paul Lockhart (All children should read this.)
 * "[Ross Perot: Election Spoiler](https://millercenter.org/ross-perot-election-spoiler-or-message-shaper)" by The Miller Center (Donald Trump's post-presidential future?)
 * "[The Stack Overflow Age](https://www.joelonsoftware.com/2018/04/06/the-stack-overflow-age/)" by Joel Spolsky (Recollections of the Internet gold rush.)
-* "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Amazon's secret to world domination.)
 * "[Story Structure 101](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)" by Dan Harmon (Narrative-writing for humans.)
 * "[The Taiwan Strait Joint Exercise](https://www.guancha.cn/ChenFeng3/2022_08_18_654142_s.shtml)" by Chen Feng (How the next big war will likely start.)
 * "[Welcome to Hell, Elon](https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation)" by Nilay Patel (A fool and his money are soon parted.)
