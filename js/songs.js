@@ -1222,7 +1222,7 @@ const songs = [
 "The Psychedelic Furs|Pretty in Pink|1981|RuWmsg-ihLg|The Psychedelic Furs|S1577|New Wave;Post-Punk;Rock",
 "The Specials|A Message to You Rudy|1979|cntvEDbagAw|The Specials|S1498|2 Tone;Rocksteady;Caribbean Music;Jamaican Music;Regional Music;Ska",
 "Todd Terje|Inspector Norse|2012|ebjXsc0UjdQ|Todd Terje|S5046|Nu-Disco;Space Disco;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;House",
-"Desmond Dekker|007 (Shanty Town)|1967|UsHYEiUiTaU|Desmond Dekker|S960|Jamaican Ska;Rocksteady;Caribbean Music;Jamaican Music;Regional Music;Ska",
+"Desmond Dekker|007 (Shanty Town)|1967|kpVxwWQjIy0|Desmond Dekker|S960|Jamaican Ska;Rocksteady;Caribbean Music;Jamaican Music;Regional Music;Ska",
 "Nat King Cole|(Get Your Kicks On) Route 66|1946|dCYApJtsyd0|Nat King Cole|S2664|Vocal Jazz;Jazz",
 "ANOHNI|Drone Bomb Me|2016|aUEoic7ro_o|Anohni|S16027|Art Pop;Electropop;Electronic;Pop",
 "Gotye|Somebody That I Used to Know|2011|8UVNT4wvIGY|Gotye|S5012|Art Pop;Indie Pop;Pop",
