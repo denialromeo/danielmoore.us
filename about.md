@@ -166,7 +166,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Welcome to the Ruzzkiy Mir](https://yasha.substack.com/p/welcome-to-the-ruzzkiy-mir)" by Evgenia Korda (Understanding modern Russia.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
-* [*Accelerando*](https://goodreads.com/notes/6606323-accelerando/71655209-daniel-moore) by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross) (Is all of human history a footnote to the creation of AI?)
+* [*Accelerando*](https://goodreads.com/notes/6606323-accelerando/71655209-daniel-moore) by [Charles Stross](http://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando-intro.html) (Is all of human history a footnote to the creation of AI?)
 * "[2024 Election Polls](https://projects.fivethirtyeight.com/polls/president-general/2024/national/)" by FiveThirtyEight (Who will be this season's commander-in-chief?)
 * "[How to Send and Reply to Email](http://matt.might.net/articles/how-to-email/#abstract-container)" by Matt Might (Professional etiquette.)
 * "[A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)" by Paul Lockhart (All children should read this.)
@@ -204,7 +204,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[On Contradiction](https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm)" by [Mao Zedong](https://en.wikipedia.org/wiki/Mao_Zedong) (Set the DNA of modern Chinese thought.)
 * "[On the Historical Unity of Russians and Ukrainians](http://en.kremlin.ru/events/president/news/66181)" by [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) (Tsardom reborn.)
 * "[The Social Responsibility of Business](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html)" by [Milton Friedman](https://en.wikipedia.org/wiki/Milton_Friedman) (Death knell for the welfare state.)
-* "[Speech on the Accession of China to the WTO](https://www.iatp.org/sites/default/files/Full_Text_of_Clintons_Speech_on_China_Trade_Bi.htm)" by [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) (Birth of the Chinese Century.)
+* "[Speech on the Accession of China to the WTO](https://archive.nytimes.com/www.nytimes.com/library/world/asia/030900clinton-china-text.html)" by [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) (Birth of the Chinese Century.)
 
 {:#autobiographies}
 **Autobiographies**
