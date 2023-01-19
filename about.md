@@ -53,7 +53,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>Some historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
-        <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Mark Zuckerberg, <a target="_blank" href="https://truthsocial.com/@realDonaldTrump">Donald Trump</a>, Barack Obama, Joe Biden, and <a href="https://www.youtube.com/watch?v=UNbyT7wPwk4">Satya Nadella</a>.</li>
+        <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Mark Zuckerberg, <a target="_blank" href="https://truthsocial.com/@realDonaldTrump">Donald Trump</a>, Barack Obama, Joe Biden, and <a href="https://www.youtube.com/watch?v=UNbyT7wPwk4" title="I've always felt like why is there such disparity today in the job, in the labor market between let's say some care worker and let's call it sort of a software developer. And it's because we think of, we as a society have decided to give it different, I'd say premium. Those premiums will adjust as some of these technologies really truly get diffused.">Satya Nadella</a>.</li>
         <li>Honorable mentions go to Leonid Brezhnev, Indira Gandhi, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Qian Xuesen, Ronald Reagan, Boris Yeltsin, Jiang Zemin, Adolf Hitler, and Albert Einstein.</li>
     </ul>
 </div>
