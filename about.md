@@ -127,7 +127,8 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Penguin Book of Card Games*](https://www.goodreads.com/notes/19169344-the-penguin-book-of-card-games/71655209-daniel-moore) by [David Parlett](https://en.wikipedia.org/wiki/David_Parlett) (A lifetime of fun. Also see [pagat.com](https://www.pagat.com/).)
 * [*Poker Tells*](https://www.goodreads.com/notes/18951325-caro-s-book-of-poker-tells/71655209-daniel-moore) by [Mike Caro](https://en.wikipedia.org/wiki/Mike_Caro) (Reading body language for fun and profit. Comes with [videos](https://www.youtube.com/watch?v=NeyglBBYqtE&list=UUuywjfVen04luJsU8cn68jQ&index=9).)
 * [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Planning is half the battle.)
-* [*Starting Strength*](https://www.goodreads.com/notes/15746753-starting-strength/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Form is the other half. Pair with the [DVD](https://www.youtube.com/watch?v=EXZ46_-uwss&list=PLEB5rVJv_L5k0Tr5qvZ6GcK5cpJRLjMa-) for best results.)
+* [*The Royal Road to Card Magic*](https://www.goodreads.com/notes/18931201-the-royal-road-to-card-magic/71655209-daniel-moore) by [Jean Hugard](https://en.wikipedia.org/wiki/Jean_Hugard) (Spice up game night.)
+* [*Starting Strength*](https://www.goodreads.com/notes/15746753-starting-strength/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Pair with the [DVD](https://www.youtube.com/watch?v=EXZ46_-uwss&list=PLEB5rVJv_L5k0Tr5qvZ6GcK5cpJRLjMa-) for best results.)
 
 {:#philosophy-books}
 **Philosophy Books**
@@ -215,6 +216,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Cinema Speculation*](https://www.goodreads.com/notes/61198870-cinema-speculation/71655209-daniel-moore) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Watch the films as you read to fully get it.)
 * [*Four Star Reviews, 1967-2007*](https://www.goodreads.com/notes/9517283-roger-ebert-s-four-star-reviews-1967-2007/71655209-daniel-moore) by [Roger Ebert](https://en.wikipedia.org/wiki/Roger_Ebert) (Forty years at the movies.)
 * [*The Governance of China*](https://www.goodreads.com/notes/24309365-xi-jinping-the-governance-of-china/71655209-daniel-moore) by [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping) (Perhaps the 21st century's most influential person.)
+* [*Hit Refresh*](https://www.goodreads.com/notes/31139580-hit-refresh/71655209-daniel-moore) by [Satya Nadella](https://en.wikipedia.org/wiki/Satya_Nadella) (Turned AI from vaporware joke to terrifying reality.)
 * [*Live Young Forever*](https://www.amazon.com/gp/product/1552100642) by [Jack LaLanne](https://en.wikipedia.org/wiki/Jack_LaLanne) (Maintained vehicles last twice as long.)
 * [*Nickel and Dimed*](https://www.goodreads.com/notes/8893315-nickel-and-dimed/71655209-daniel-moore) by [Barbara Ehrenreich](https://en.wikipedia.org/wiki/Barbara_Ehrenreich) (Poverty is expensive.)
 * [*Revolutionary Suicide*](https://www.goodreads.com/notes/8176686-revolutionary-suicide/71655209-daniel-moore) by [Huey Newton](https://en.wikipedia.org/wiki/Huey_P._Newton) (Effective activists are doomed men.)
