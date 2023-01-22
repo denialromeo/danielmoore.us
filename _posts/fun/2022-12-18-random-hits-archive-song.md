@@ -26,7 +26,7 @@ box: random-hits-archive-song
             <a target="_self" href="?year=19[2-3][0-9]">Songs released in the 1920's and 1930's.</a>
         </li>
         <li>
-            <a target="_self" href="?artist=Fats+Domino">Songs by Fats Domino.</a>
+            <a target="_self" href="?artist=Louis+Armstrong">Songs by Louis Armstrong.</a>
         </li>
         <li>
             <a target="_self" href="?song=christmas">Songs with "Christmas" in the title.</a>
