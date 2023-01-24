@@ -250,6 +250,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#movies}
 **Movies**
 
+* [*Batman Beyond: Return of the Joker*](https://play.hbomax.com/page/urn:hbo:page:GXdu2UAxklaXCPQEAADfJ:type:feature) by [Paul Dini](https://en.wikipedia.org/wiki/Paul_Dini) (Definitive versions of the Bat-Family.)
 * [*Black Panther: Wakanda Forever*](https://www.disneyplus.com/movies/black-panther-wakanda-forever/7MAONYZ92wDT) by [Ryan Coogler](https://en.wikipedia.org/wiki/Ryan_Coogler) (Modern myth-making.)
 * [*Get Out*](https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1L8T75) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Every non-white can relate.)
 * [*Gisaengchung*](https://www.hulu.com/watch/2fd691a0-f66b-467f-8635-00d7f151f3d4) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (Class struggle is swiftly returning.)
