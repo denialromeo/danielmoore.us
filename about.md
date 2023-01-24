@@ -74,6 +74,7 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Practical effects. Darker-skinned actors, shot on location in India.</li>
         <li><a href="https://store.steampowered.com/app/474750/Reigns"><i>Reigns</i></a>, but you play as major figures from Chinese history. In-browser, HTML5/CSS.</li>
+         <li>A configurable version of <a href="https://store.steampowered.com/app/234710/Poker_Night_2"><i>Poker Night 2</i></a> featuring multiple card games and allowing NPC attributes to be tweaked by the player. No dialogue.</li>
     </ul>
 </div>
  
@@ -252,6 +253,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Batman Beyond: Return of the Joker*](https://play.hbomax.com/page/urn:hbo:page:GXdu2UAxklaXCPQEAADfJ:type:feature) by [Paul Dini](https://en.wikipedia.org/wiki/Paul_Dini) (Definitive versions of the Bat-Family.)
 * [*Black Panther: Wakanda Forever*](https://www.disneyplus.com/movies/black-panther-wakanda-forever/7MAONYZ92wDT) by [Ryan Coogler](https://en.wikipedia.org/wiki/Ryan_Coogler) (Modern myth-making.)
+* [*The Dark Knight Returns*](https://play.hbomax.com/page/urn:hbo:page:GXdu2UQBElaXCPQEAADfM:type:feature) by [Frank Miller](https://en.wikipedia.org/wiki/Frank_Miller) (The rare adaptation that's superior to the source.)
 * [*Get Out*](https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1L8T75) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Every non-white can relate.)
 * [*Gisaengchung*](https://www.hulu.com/watch/2fd691a0-f66b-467f-8635-00d7f151f3d4) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (Class struggle is swiftly returning.)
 * [*The Green Knight*](https://www.amazon.com/dp/B09CP38JQ5) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (It really is all a game.)
