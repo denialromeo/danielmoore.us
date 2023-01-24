@@ -261,7 +261,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Jiro Dreams of Sushi*](https://www.amazon.com/gp/video/detail/B009178OQA) by [Ono Jiro](https://en.wikipedia.org/wiki/Jiro_Ono_(chef)) (There is bliss in doing any job well.)
 * [*Kaze Tachinu*](https://play.hbomax.com/page/urn:hbo:page:GXsQzAw8HPITCwgEAAAAM:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
 * [*Mononoke Hime*](https://play.hbomax.com/page/urn:hbo:page:GXrHUCwY3E6u9KwEAAAAO:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (Everyone's the hero of their own story.)
-* [*Nope*](https://www.peacocktv.com/watch/asset/movies/nope/e6fe0906-490b-3634-9f13-f03a7e94eab3) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Resurrects and deconstructs the Spielbergian blockbuster.)
+* [*Nope*](https://www.amazon.com/Nope-Daniel-Kaluuya/dp/B0B8V71GPC) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Resurrects and deconstructs the Spielbergian blockbuster.)
 * [*Oldboy*](https://www.amazon.com/gp/product/B08LNLCL35) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (Intensely, painfully relatable.)
 * [*The Personal History of David Copperfield*](https://www.hulu.com/watch/4f9b8514-adb5-4cc1-abe8-76dfa2bd9a34) by [Armando Ianucci](https://en.wikipedia.org/wiki/Armando_Ianucci) (My favorite comedy.)
 * [*Reservoir Dogs*](https://www.amazon.com/gp/video/detail/B008Y5O6OO) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Takes itself seriously, forcing the viewer to as well.)
