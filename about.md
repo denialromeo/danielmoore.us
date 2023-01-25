@@ -203,6 +203,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Address to the Nation After 9/11](https://press.uchicago.edu/Misc/Chicago/481921texts.html)" by [George W. Bush](https://en.wikipedia.org/wiki/George_W._Bush) (Prelude to 20 years of war.)
 * "[Asia After Viet Nam](https://cdn.nixonlibrary.org/01/wp-content/uploads/2017/01/11113807/Asia-After-Viet-Nam.pdf)" by [Richard Nixon](https://en.wikipedia.org/wiki/Richard_Nixon) (Sino-American rapprochement.)
 * "[From a China Traveler](https://www.nytimes.com/1973/08/10/archives/from-a-china-traveler.html)" by [David Rockefeller](https://en.wikipedia.org/wiki/David_Rockefeller) (Neoliberal honeymoon.)
+* "[The Minority Nationalities in the Southwest](https://dengxiaopingworks.wordpress.com/2013/02/22/the-question-of-minority-nationalities-in-the-southwest/)" by [Deng Xiaoping](https://en.wikipedia.org/wiki/Deng_Xiaoping) (How to build a nation.)
 * "[Modernize and Never Seek Hegemony](https://dengxiaopingworks.wordpress.com/2013/02/25/realize-the-four-modernizations-and-never-seek-hegemony)" by [Deng Xiaoping](https://en.wikipedia.org/wiki/Deng_Xiaoping) (Father of globalization.)
 * "[On Contradiction](https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm)" by [Mao Zedong](https://en.wikipedia.org/wiki/Mao_Zedong) (Set the DNA of modern Chinese thought.)
 * "[On the Historical Unity of Russians and Ukrainians](http://en.kremlin.ru/events/president/news/66181)" by [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) (Tsardom reborn.)
