@@ -1,22 +1,28 @@
 {
 	"pages": [
 		{
-			"author": "Alan Moore",
-			"title": "The Adventures of Tom Strong",
+			"author": "Garth Ennis",
+			"title": "The Boys",
 			"amazon": "",
-			"link": "assets/img/comics/tom-strong/01.jpg"
+			"link": "assets/img/comics/boys2/01.jpg"
 		},
 		{
-			"author": "Alan Moore",
-			"title": "The Adventures of Tom Strong",
+			"author": "Garth Ennis",
+			"title": "The Boys",
 			"amazon": "",
-			"link": "assets/img/comics/tom-strong/02.jpg"
+			"link": "assets/img/comics/boys2/02.jpg"
 		},
 		{
-			"author": "Alan Moore",
-			"title": "The Adventures of Tom Strong",
+			"author": "Garth Ennis",
+			"title": "The Boys",
 			"amazon": "",
-			"link": "assets/img/comics/tom-strong/03.jpg"
+			"link": "assets/img/comics/boys2/03.jpg"
+		},
+		{
+			"author": "Garth Ennis",
+			"title": "The Boys",
+			"amazon": "",
+			"link": "assets/img/comics/boys2/04.jpg"
 		}
 	]
 }
