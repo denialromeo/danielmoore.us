@@ -4753,7 +4753,7 @@ const songs = [
 "Paul Revere & The Raiders|Kicks|1966|IP8G4clUJBY|Paul Revere & the Raiders|S3757|Garage Rock;Pop Rock;Pop;Rock",
 "Pere Ubu|30 Seconds over Tokyo|1975|Rs3kKHhG4m0|Pere Ubu|S11877|Art Rock;Post-Punk;Rock",
 "Belle and Sebastian|I'm a Cuckoo|2003|GuKuw71YBbI|Belle and Sebastian|S2469|Jangle Pop;Twee Pop;Alternative Rock;Indie Pop;Pop;Pop Rock;Rock",
-"Tom Tom Club|Wordy Rappinghood|1981|6Vl1m5FYlAo|Tom Tom Club|S2895|Disco Rap;New Wave;Hip Hop;Rock",
+"Tom Tom Club|Wordy Rappinghood|1981|fHL8Vi8Edt4|Tom Tom Club|S2895|Disco Rap;New Wave;Hip Hop;Rock",
 "Cannonball Adderley|Autumn Leaves|1958|u37RF5xKNq8|Cannonball Adderley|S10350|Hard Bop;Bebop;Jazz",
 "Wolf Parade|I'll Believe in Anything|2005|7G1eLTV89dM|Wolf Parade|S9056|Indie Rock;Alternative Rock;Rock",
 "Pete Wingfield|Eighteen with a Bullet|1975|_3av44_Tf38|Pete Wingfield|S3968|Blue Eyed Soul;Pop",
