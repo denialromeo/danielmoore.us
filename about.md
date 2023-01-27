@@ -50,6 +50,7 @@ I hope you have a good time here. Thanks for dropping by.
 <a href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
     <p>I'm excited to use tools like <a href="https://chat.openai.com/chat">ChatGPT</a> and <a href="https://labs.openai.com/">DALL-E</a>, but fear we may have reached "<a href="http://hipcrimevocab.com/2016/04/19/automation-and-the-future-of-work-black-lives-matter/#content">Peak Human</a>". Though since Trump, COVID-19, and Ukraine, I've given up on trying to predict the future.</p>
+    <p>"The basis of society, of any society, is a certain pride in obedience. When this pride no longer &nbsp;exists, the society collapses." &ndash; <a href="ihttps://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore">Emil Cioran</a></p>
     {%comment%}
     <p>I'm mostly convinced people don't really know what's best for them, and so place a low value on individual freedom. Ideologies I approve of include Salafi Islam and Chinese Communism.</p>
     <p>Like most immigrants (I was born here, but still), I tried to conform to "American" values. In practice, I found nothing but greed, racism, and mean-spirited boredom. I do not envy my countrymen.</p>
