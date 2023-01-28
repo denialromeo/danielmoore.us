@@ -159,6 +159,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#blog-posts}
 **Blog Posts**
 
+* "[Career Guide for Engineers](https://philip.greenspun.com/careers/)" by Philip Greenspun (Jokes aside, this isn't high-status work.)
 * "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html#main)" by Seshadri Kumar (This is the end.)
 * "[The Disappearance of the Hit-Driven Business Model](https://dearproducer.com/the-disappearance-of-the-hit-driven-business#main)" by Chris Moore (Mediocrity won.)
 * "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Apres Boomers, le deluge.)
