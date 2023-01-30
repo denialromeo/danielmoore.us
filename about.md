@@ -49,6 +49,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
+    <p>I'm excited to use tools like <a href="https://chat.openai.com/chat">ChatGPT</a> and <a href="https://labs.openai.com/">DALL-E</a>, but fear we may have reached "<a href="http://hipcrimevocab.com/2016/04/19/automation-and-the-future-of-work-black-lives-matter/#content">Peak Human</a>". Though since Trump, COVID-19, and Ukraine, I've given up on trying to predict the future.</p>
     <p>"The basis of society, of any society, is a certain pride in obedience. When this pride no longer &nbsp;exists, the society collapses." &ndash; <a href="ihttps://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore">Emil Cioran</a></p>
     <p>"Under stress, disoriented people become demoralized and panicked. Once in this condition, they &nbsp;can easily be defeated, whatever weapons remain in their possession." &ndash; <a href="https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore">Chet Richards</a></p>
     <p>"Broken-down civilizations have not met their death from an assassin’s hand; in almost every &nbsp;instance, we have been led to return a verdict of suicide." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
