@@ -49,6 +49,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
+    <hr>
     <p>I'm excited to use tools like <a href="https://chat.openai.com/chat">ChatGPT</a> and <a href="https://labs.openai.com/">DALL-E</a>, but fear we may have reached "<a href="http://hipcrimevocab.com/2016/04/19/automation-and-the-future-of-work-black-lives-matter/#content">Peak Human</a>". Though since Trump, COVID-19, and Ukraine, I've given up on trying to predict the future.</p>
     <hr>
     <p>"The basis of society, of any society, is a certain pride in obedience. When this pride no longer &nbsp;exists, the society collapses." &ndash; <a href="ihttps://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore">Emil Cioran</a></p>
@@ -61,6 +62,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Mark Zuckerberg, <a target="_blank" href="https://truthsocial.com/@realDonaldTrump">Donald Trump</a>, Barack Obama, Mitch McConnell, Joe Biden, and Satya Nadella<a href="https://www.youtube.com/watch?v=UNbyT7wPwk4" title="I've always felt like why is there such disparity today in the job, in the labor market between let's say some care worker and let's call it sort of a software developer. And it's because we think of, we as a society have decided to give it different, I'd say premium. Those premiums will adjust as some of these technologies really truly get diffused."></a>.</li>
         <li>Honorable mentions go to Leonid Brezhnev, Indira Gandhi, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Qian Xuesen, Ronald Reagan, Boris Yeltsin, Jiang Zemin, Ho Chi Minh, Adolf Hitler, and Albert Einstein.</li>
     </ul>
+    <hr>
 </div>
 
 <a href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
