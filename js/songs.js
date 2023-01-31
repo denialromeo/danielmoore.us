@@ -2447,7 +2447,7 @@ const songs = [
 "Destiny's Child|Independent Women Part 1|2000|0lPQZni7I18|Destiny's Child|S1409|Contemporary R&B;Film Soundtrack;Descriptor;R&B;Soundtracks",
 "The Rolling Stones|Play with Fire|1965|FhzCnZ1vAvw|The Rolling Stones|S3775|Baroque Pop;Pop",
 "The Smiths|Hand in Glove|1983|WgHnMh-DHMQ|The Smiths|S471|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
-"Junior Parker|Mystery Train|1953|uakSvVQSc3s|Junior Parker|S3531|Blues;Rhythm & Blues;R&B",
+"Junior Parker|Mystery Train|1953|7KbjWK6kTQg|Junior Parker|S3531|Blues;Rhythm & Blues;R&B",
 "Los Bravos|Black Is Black|1966|9TN_NieR8lc|Los Bravos|S7306|Beat Music;Pop;Pop Rock;Rock",
 "Shirley and Co.|Shame, Shame, Shame|1975|YEzQV75LDL0|Shirley Goodman|S696|Disco;Dance",
 "Mungo Jerry|In the Summertime|1970|wvUQcnfwUUM|Mungo Jerry|S1309|Folk Pop;Contemporary Folk;Folk;Pop",

@@ -1452,7 +1452,7 @@ const albums = [
 "Elvis Costello and The Attractions|Trust|1981|PL19AC110CF41A80C7|A519|Trust (Elvis Costello album)|Elvis Costello|Pop Rock;Pop;Rock",
 "Joni Mitchell|For the Roses|1972|PLy6Q3iBr9Mr2YemvzXAhWu_TcktgANcGA|A1143|For the Roses|Joni Mitchell|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop",
 "Steve Miller Band|Fly Like an Eagle|1976|PLexoNUKqpjdbymV4a9KffEVoyBtJfWcRb|A384|Fly Like an Eagle (album)|Steve Miller Band|Pop Rock;Pop;Rock",
-"Rubén Blades|Buscando América|1984|PLEf9PO5q3JkBb2ct8FUQgllN-lpOvMDML|A2040|Buscando América|Rubén Blades|Afro-Cuban Jazz;Salsa;Hispanic Music;Jazz;Latin American Music;Latin Jazz;Regional Music",
+"Rubén Blades|Buscando América|1984|PLCC9676E8C7EA8ACF|A2040|Buscando América|Rubén Blades|Afro-Cuban Jazz;Salsa;Hispanic Music;Jazz;Latin American Music;Latin Jazz;Regional Music",
 "Charlie Haden|Liberation Music Orchestra|1970|PLvxWibFr0wiJL6LEcGchG3BatVC5hlv6O|A2350|Liberation Music Orchestra (album)|Charlie Haden|Experimental Big Band;Avant-Garde Jazz;Big Band;Jazz",
 "Eurythmics|Touch|1983|PL887A4CD18A352B5A|A580|Touch (Eurythmics album)|Eurythmics|New Wave;Synthpop;Electronic;Pop;Rock",
 "Living Colour|Vivid|1988|PLBnJv6rImVe8XuaO2E45nNJR9070lHY3l|A1534|Vivid (Living Colour album)|Living Colour|Funk Metal;Hard Rock;Alternative Metal;Metal;Rock",
