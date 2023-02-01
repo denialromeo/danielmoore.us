@@ -52,6 +52,7 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="instructions2" style="display:none;">
     <hr>
     <p>I'm excited to use tools like <a href="https://chat.openai.com/chat">ChatGPT</a> and <a href="https://labs.openai.com/">DALL-E</a>, but fear we may have reached "<a href="http://hipcrimevocab.com/2016/04/19/automation-and-the-future-of-work-black-lives-matter/#content">Peak Human</a>". Though since Trump, COVID-19, and Ukraine, I've given up on trying to predict the future.</p>
+    <p>Most American political issues boil down to race, and white supremacy is essentially our religion. Building a society and social norms based around skin color works about as well as you'd expect.</p>
     <hr>
     <p>"The basis of society, of any society, is a certain pride in obedience. When this pride no longer &nbsp;exists, the society collapses." &ndash; <a href="ihttps://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore">Emil Cioran</a></p>
     <p>"Under stress, disoriented people become demoralized and panicked. Once in this condition, they &nbsp;can easily be defeated, whatever weapons remain in their possession." &ndash; <a href="https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore">Chet Richards</a></p>
