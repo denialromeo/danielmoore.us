@@ -36,7 +36,6 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Insider trading is rampant. Never buy individual stocks. Only index funds like <a href="https://investor.vanguard.com/investment-products/etfs/profile/voo#overview">VOO</a>.</li>
         <li>Work out if it's a bull market or a bear market. In a bull market, dollar-cost average into VOO. In a bear market (like present), cash out and buy <a href="https://invest.ameritrade.com/grid/p/site#r=jPage/https://valubond.ameritrade.com/Dotnet/PrivateOffers/T-Auction.aspx?c_name=invest_VENDOR">T-Bills</a> for a <a href="https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_bill_rates&field_tdr_date_value_month=202301#views-exposed-form-dfu-tool-page-dfu-page">4-5%</a> return over a year.</li>
         <li>Never go counter-trend. Only invest sincerely in bull markets. Only T-Bills in bear markets. Remember, you make money by buying into uptrends and avoiding drawdowns.</li>
-        <li>Also keep in mind that the past 50 years of stock market returns have been predicated on more or less stealing from China. Post-Trump, this may no longer be possible.</li>
         <li>"There is timing in the Way of the merchant, in the rise and fall of capital. All things entail rising &nbsp;and falling timing. You must be able to discern this." &ndash; <a href="https://www.goodreads.com/notes/31197112-the-book-of-five-rings/71655209-daniel-moore">Miyamoto Musashi</a></li>
     </ul>
     <p>Further bull market rules &ndash;</p>
@@ -44,6 +43,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Pay attention to the Federal Reserve. In 2021, they <a href="https://www.reuters.com/business/finance/fed-officials-sell-stocks-avoid-apparent-conflict-interest-2021-09-09/">sold at the peak</a>. If they sell, you sell. Also&nbsp;pay attention to the Chinese government. They banned Bitcoin <a href="https://www.theverge.com/2021/9/24/22691472/china-central-bank-cryptocurrency-illegal-bitcoin">at its peak</a>.</li>
         <li>Also listen to Warren Buffett, Charlie Munger, Ray Dalio, and Jeff Bezos. They are oracles.</li>
         <li>Feel free to invest 80% of net worth. But follow up with above indicators at least monthly.</li>
+        <li>That said, keep in mind that the past 50 years of stock market returns have been predicated on more or less stealing from China. Post-Trump, this may no longer be possible.</li>
         <li>$500,000 is more than enough to permanently retire to India. Eventually, the U.S. will devise some scheme to steal everyone's savings, so your days here are likely numbered anyways.</li>
     </ul>
 </div>
