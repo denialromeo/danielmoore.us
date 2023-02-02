@@ -262,7 +262,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Black Panther: Wakanda Forever*](https://www.disneyplus.com/movies/black-panther-wakanda-forever/7MAONYZ92wDT) by [Ryan Coogler](https://en.wikipedia.org/wiki/Ryan_Coogler) (Modern myth-making.)
 * [*The Dark Knight Returns*](https://play.hbomax.com/page/urn:hbo:page:GXdu2UQBElaXCPQEAADfM:type:feature) by [Frank Miller](https://en.wikipedia.org/wiki/Frank_Miller) (The rare adaptation that's superior to the source.)
-* [*Forrest Gump*](https://www.netflix.com/title/60000724) by [Robert Zemeckis](https://en.wikipedia.org/wiki/Robert_Zemeckis) (Being good-natured pays off over the long-term.)
 * [*Get Out*](https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1L8T75) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Every non-white can relate.)
 * [*Gisaengchung*](https://www.hulu.com/watch/2fd691a0-f66b-467f-8635-00d7f151f3d4) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (Class struggle is swiftly returning.)
 * [*The Green Knight*](https://www.amazon.com/dp/B09CP38JQ5) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (It really is all a game.)
