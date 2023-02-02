@@ -44,7 +44,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Also listen to Warren Buffett, Charlie Munger, Ray Dalio, and Jeff Bezos. They are oracles.</li>
         <li>Feel free to invest 80% of net worth. But follow up with above indicators at least monthly.</li>
         <li>Further, keep in mind that the past 50 years of stock market returns have been predicated on more or less stealing from China. Post-Trump, this may no longer be possible.</li>
-        <li>$500,000 is more than enough to permanently retire to India. Eventually, the U.S. will devise some scheme to steal everyone's savings, so your days here are likely numbered anyways.</li>
+        <li>$500,000 is more than enough to permanently retire to India. Eventually, the U.S. will devise some scheme to <a href="https://youtube.com/watch?v=LoGmMi6Wi4Q">steal everyone's savings</a>, so your days here are likely numbered anyways.</li>
     </ul>
 </div>
 
