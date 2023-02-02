@@ -50,8 +50,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
-    <p>I'm excited to use tools like <a href="https://chat.openai.com/chat">ChatGPT</a> and <a href="https://labs.openai.com/">DALL-E</a>, but fear we may have reached "<a href="http://hipcrimevocab.com/2016/04/19/automation-and-the-future-of-work-black-lives-matter/#content">Peak Human</a>". Though since Trump, COVID-19, and Ukraine, I've given up on trying to predict the future.</p>
-    <hr>
     <p>"The basis of society, of any society, is a certain pride in obedience. When this pride no longer &nbsp;exists, the society collapses." &ndash; <a href="ihttps://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore">Emil Cioran</a></p>
     <p>"Under stress, disoriented people become demoralized and panicked. Once in this condition, they &nbsp;can easily be defeated, whatever weapons remain in their possession." &ndash; <a href="https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore">Chet Richards</a></p>
     <p>"Broken-down civilizations have not met their death from an assassin’s hand; in almost every &nbsp;instance, we have been led to return a verdict of suicide." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
@@ -226,7 +224,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Cinema Speculation*](https://www.goodreads.com/notes/61198870-cinema-speculation/71655209-daniel-moore) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Watch the films as you read to fully get it.)
 * [*Four Star Reviews, 1967-2007*](https://www.goodreads.com/notes/9517283-roger-ebert-s-four-star-reviews-1967-2007/71655209-daniel-moore) by [Roger Ebert](https://en.wikipedia.org/wiki/Roger_Ebert) (Forty years at the movies.)
 * [*The Governance of China*](https://www.goodreads.com/notes/24309365-xi-jinping-the-governance-of-china/71655209-daniel-moore) by [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping) (Perhaps the 21st century's most influential person.)
-* [*Hit Refresh*](https://www.goodreads.com/notes/31139580-hit-refresh/71655209-daniel-moore) by [Satya Nadella](https://en.wikipedia.org/wiki/Satya_Nadella) (He turned AI from a vaporware joke to terrifying reality.)
+* [*Hit Refresh*](https://www.goodreads.com/notes/31139580-hit-refresh/71655209-daniel-moore) by [Satya Nadella](https://en.wikipedia.org/wiki/Satya_Nadella) (He turned AI from a vaporware joke to [terrifying reality](https://chat.openai.com/chat).)
 * [*Live Young Forever*](https://www.amazon.com/gp/product/1552100642) by [Jack LaLanne](https://en.wikipedia.org/wiki/Jack_LaLanne) (Maintained vehicles last twice as long.)
 * [*Nickel and Dimed*](https://www.goodreads.com/notes/8893315-nickel-and-dimed/71655209-daniel-moore) by [Barbara Ehrenreich](https://en.wikipedia.org/wiki/Barbara_Ehrenreich) (Poverty is expensive.)
 * [*Revolutionary Suicide*](https://www.goodreads.com/notes/8176686-revolutionary-suicide/71655209-daniel-moore) by [Huey Newton](https://en.wikipedia.org/wiki/Huey_P._Newton) (Effective activists are doomed men.)
