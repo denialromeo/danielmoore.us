@@ -43,7 +43,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Pay attention to the Federal Reserve. In 2021, they <a href="https://www.reuters.com/business/finance/fed-officials-sell-stocks-avoid-apparent-conflict-interest-2021-09-09/">sold at the peak</a>. If they sell, you sell. Also&nbsp;pay attention to the Chinese government. They banned Bitcoin <a href="https://www.theverge.com/2021/9/24/22691472/china-central-bank-cryptocurrency-illegal-bitcoin">at its peak</a>.</li>
         <li>Also listen to Warren Buffett, Charlie Munger, Ray Dalio, and Jeff Bezos. They are oracles.</li>
         <li>Feel free to invest 80% of net worth. But follow up with above indicators at least monthly.</li>
-        <li>Further keep in mind that the past 50 years of stock market returns have been predicated on more or less stealing from China. Post-Trump, this may no longer be possible.</li>
+        <li>Further, keep in mind that the past 50 years of stock market returns have been predicated on more or less stealing from China. Post-Trump, this may no longer be possible.</li>
         <li>$500,000 is more than enough to permanently retire to India. Eventually, the U.S. will devise some scheme to steal everyone's savings, so your days here are likely numbered anyways.</li>
     </ul>
 </div>
