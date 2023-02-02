@@ -38,7 +38,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Never go counter-trend. Only invest sincerely in bull markets. Only T-Bills in bear markets. Remember, you make money by buying into uptrends and avoiding drawdowns.</li>
         <li>"There is timing in the Way of the merchant, in the rise and fall of capital. All things entail rising &nbsp;and falling timing. You must be able to discern this." &ndash; <a href="https://www.goodreads.com/notes/31197112-the-book-of-five-rings/71655209-daniel-moore">Miyamoto Musashi</a></li>
     </ul>
-    <p>Further bull market rules &ndash;</p>
+    <p>More bull market rules &ndash;</p>
     <ul>
         <li>Pay attention to the Federal Reserve. In 2021, they <a href="https://www.reuters.com/business/finance/fed-officials-sell-stocks-avoid-apparent-conflict-interest-2021-09-09/">sold at the peak</a>. If they sell, you sell. Also&nbsp;pay attention to the Chinese government. They banned Bitcoin <a href="https://www.theverge.com/2021/9/24/22691472/china-central-bank-cryptocurrency-illegal-bitcoin">at its peak</a>.</li>
         <li>Also listen to Warren Buffett, Charlie Munger, Ray Dalio, and Jeff Bezos. They are oracles.</li>
