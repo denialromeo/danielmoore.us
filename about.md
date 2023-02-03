@@ -34,14 +34,6 @@ I hope you have a good time here. Thanks for dropping by.
     <p>"Under stress, disoriented people become demoralized and panicked. Once in this condition, they &nbsp;can easily be defeated, whatever weapons remain in their possession." &ndash; <a href="https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore">Chet Richards</a></p>
     <p>"Broken-down civilizations have not met their death from an assassin’s hand; in almost every &nbsp;instance, we have been led to return a verdict of suicide." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
     <hr>
-    {% comment %}
-    <p>I believe my views are strongly influenced by my life circumstances &ndash;</p>
-    <ul>
-        <li>I entered college in 2013, just as the U.S. tech economy started taking off for the first time since the dot-com bust. This influenced my choice of vocation and subsequent wealth.</li>
-        <li>As a non-white, I mistrust the U.S., and white males more generally. Generally speaking, being mistrustful of others is the correct course of action, so this has worked out well for me.</li>
-    </ul>
-    <hr>
-    {% endcomment %}
     <p>Some historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
@@ -192,7 +184,6 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Story Structure 101](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)" by Dan Harmon (Narrative-writing for humans.)
 * "[The Taiwan Strait Joint Exercise](https://www.guancha.cn/ChenFeng3/2022_08_18_654142_s.shtml)" by Chen Feng (How the next big war will likely start.)
 * "[Welcome to Hell, Elon](https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation)" by Nilay Patel (A fool and his money are soon parted.)
-* "[What if You Only Invested at Market Peaks?](https://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/#main)" by Ben Carlson (Slow and steady.)
 {% endcomment %}
 
 {:#history-books}
