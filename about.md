@@ -34,6 +34,14 @@ I hope you have a good time here. Thanks for dropping by.
     <p>"Under stress, disoriented people become demoralized and panicked. Once in this condition, they &nbsp;can easily be defeated, whatever weapons remain in their possession." &ndash; <a href="https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore">Chet Richards</a></p>
     <p>"Broken-down civilizations have not met their death from an assassin’s hand; in almost every &nbsp;instance, we have been led to return a verdict of suicide." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
     <hr>
+    {% comment %}
+    <p>I believe my views are strongly influenced by my life circumstances &ndash;</p>
+    <ul>
+        <li>I entered college in 2013, just as the U.S. tech economy started taking off for the first time since the dot-com bust. This influenced my choice of vocation and subsequent wealth.</li>
+        <li>As a non-white, I mistrust the U.S., and white males more generally. Generally speaking, being mistrustful of others is the correct course of action, so this has worked out well for me.</li>
+    </ul>
+    <hr>
+    {% endcomment %}
     <p>Some historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
@@ -281,6 +289,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*To Be*](https://www.youtube.com/watch?v=ocgFkHElzgQ) by [John Weldon](http://www.weldonalley.ca/) (Small errors in judgment can ruin everything. Also read this [comic](https://existentialcomics.com/comic/1).)
 * [*Turning Red*](https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m) by [Domee Shi](https://en.wikipedia.org/wiki/Domee_Shi) (Written by women for women.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
+* [*The Wolf of Wall Street*](https://www.paramountplus.com/movies/video/r_f3sYrm5VnjVJz1fQfYN3D_rxus_4y4/) by [Martin Scorsese](https://en.wikipedia.org/wiki/Martin_Scorsese) (Markets don't reward what's best for society.)
 * [*World's Greatest Dad*](https://www.hulu.com/movie/worlds-greatest-dad-1cac4efa-b404-49bb-be58-bd25fb9998b0) by [Bobcat Goldthwait](https://en.wikipedia.org/wiki/Bobcat_Goldthwait) (Hell is other people.)
 * [*Zhang Jin Hu*](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=battle+at+lake+changjin) by [Wu Jing](https://en.wikipedia.org/wiki/Wu_Jing_(actor)) (Resist U.S. aggression and aid Korea!)
 
