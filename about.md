@@ -45,7 +45,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a href="javascript:;" id="dropdown" target="_self"><b>Investing Rules</b></a>
 <div id="instructions" style="display:none;">
-    <p>Just some quick beliefs that guide my investing acumen &ndash;</p>
+    <p>Some quick beliefs that guide my investing acumen &ndash;</p>
     <ul>
         <li>Only invest in stocks or bonds. Real estate, gold, Bitcoin, etc. are all scams long-term.</li>
         <li>Insider trading is rampant. Never buy individual stocks. Only index funds like <a href="https://investor.vanguard.com/investment-products/etfs/profile/voo#overview">VOO</a>.</li>
