@@ -79,7 +79,6 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Low&#8209;cost but effective CGI. Darker-skinned actors, shot on location in India.</li>
         <li><a href="https://store.steampowered.com/app/474750/Reigns"><i>Reigns</i></a>, but you play as major figures from Chinese history. In-browser, HTML5/CSS.</li>
-         <li>A configurable version of <a href="https://store.steampowered.com/app/234710/Poker_Night_2"><i>Poker Night 2</i></a> featuring multiple card games and allowing NPC attributes to be tweaked by the player. No dialogue. In-browser, Unity/WebGL.</li>
     </ul>
 </div>
  
