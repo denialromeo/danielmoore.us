@@ -77,7 +77,7 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
     <p>Some (long-term) planned open-source projects &ndash;</p>
     <ul>
-        <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Effective but low-cost CGI. Darker-skinned actors, shot on location in India.</li>
+        <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Low&#8209;cost but effective CGI. Darker-skinned actors, shot on location in India.</li>
         <li><a href="https://store.steampowered.com/app/474750/Reigns"><i>Reigns</i></a>, but you play as major figures from Chinese history. In-browser, HTML5/CSS.</li>
          <li>A configurable version of <a href="https://store.steampowered.com/app/234710/Poker_Night_2"><i>Poker Night 2</i></a> featuring multiple card games and allowing NPC attributes to be tweaked by the player. No dialogue. In-browser, Unity/WebGL.</li>
     </ul>
@@ -265,6 +265,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Green Knight*](https://www.amazon.com/dp/B09CP38JQ5) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (It really is all a game.)
 * [*Ikiru*](https://play.hbomax.com/page/urn:hbo:page:GXmlRtQZGhcNVoAEAAAMj:type:feature) by [Kurosawa Akira](https://en.wikipedia.org/wiki/Akira_Kurosawa) (The world is a museum of passion projects.)
 * [*Jiro Dreams of Sushi*](https://www.amazon.com/gp/video/detail/B009178OQA) by [Ono Jiro](https://en.wikipedia.org/wiki/Jiro_Ono_(chef)) (There is bliss in doing any job well.)
+* [*Joker*](https://play.hbomax.com/page/urn:hbo:page:GYGOrjQfhvKCWowEAAAAE:type:feature) by [Joaquin Phoenix](https://en.wikipedia.org/wiki/Joaquin_Phoenix) (It's getting crazier out here.)
 * [*Kaze Tachinu*](https://play.hbomax.com/page/urn:hbo:page:GXsQzAw8HPITCwgEAAAAM:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
 * [*Mononoke Hime*](https://play.hbomax.com/page/urn:hbo:page:GXrHUCwY3E6u9KwEAAAAO:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (Everyone's the hero of their own story.)
 * [*Nope*](https://www.amazon.com/Nope-Daniel-Kaluuya/dp/B0B8V71GPC) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Resurrects and deconstructs the Spielbergian blockbuster.)
