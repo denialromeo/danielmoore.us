@@ -268,6 +268,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Joker*](https://play.hbomax.com/page/urn:hbo:page:GYGOrjQfhvKCWowEAAAAE:type:feature) by [Joaquin Phoenix](https://en.wikipedia.org/wiki/Joaquin_Phoenix) (It's getting crazier out here.)
 * [*Kaze Tachinu*](https://play.hbomax.com/page/urn:hbo:page:GXsQzAw8HPITCwgEAAAAM:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
 * [*Mononoke Hime*](https://play.hbomax.com/page/urn:hbo:page:GXrHUCwY3E6u9KwEAAAAO:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (Everyone's the hero of their own story.)
+* [*Nightcrawler*](https://play.hbomax.com/page/urn:hbo:feature:GYxEc3Q1-HcJboAEAAAk4) by [Dan Gilroy](https://en.wikipedia.org/wiki/Dan_Gilroy) (In the end, you're alone.)
 * [*Nope*](https://www.amazon.com/Nope-Daniel-Kaluuya/dp/B0B8V71GPC) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Resurrects and deconstructs the Spielbergian blockbuster.)
 * [*Oldboy*](https://www.amazon.com/gp/product/B08LNLCL35) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (Intensely, painfully relatable.)
 * [*The Personal History of David Copperfield*](https://www.hulu.com/watch/4f9b8514-adb5-4cc1-abe8-76dfa2bd9a34) by [Armando Ianucci](https://en.wikipedia.org/wiki/Armando_Ianucci) (My favorite comedy.)
