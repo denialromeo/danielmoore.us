@@ -668,7 +668,7 @@ const songs = [
 "Jeff Buckley|Last Goodbye|1994|3MMXjunSx80|Jeff Buckley|S2428|Alternative Rock;Singer/Songwriter;Rock",
 "Charli XCX feat. Christine and the Queens|Gone|2019|chSZCtLrgz8|Charli XCX|S16758|Dance-Pop;Electropop;Synthpop;Dance;Electronic;Pop",
 "Lady Gaga|Bad Romance|2009|qrO4YZeyl0I|Lady Gaga|S4813|Dance-Pop;Electropop;Dance;Electronic;Pop",
-"De La Soul|Me Myself and I|1989|zKqU3jTa6tk|De La Soul|S247|Conscious Hip Hop;Disco Rap;East Coast Hip Hop;Hip Hop",
+"De La Soul|Me Myself and I|1989|tD_crXNhzKs|De La Soul|S247|Conscious Hip Hop;Disco Rap;East Coast Hip Hop;Hip Hop",
 "Sex Pistols|Pretty Vacant|1977|CwpyZ48MawQ|Sex Pistols|S634|Punk Rock;Rock",
 "Magazine|Shot by Both Sides|1978|ybUqM8jf3mU|Magazine (band)|S607|Post-Punk;Rock",
 "John Lee Hooker|Boom Boom|1962|X70VMrH3yBg|John Lee Hooker|S1098|Chicago Blues;Rhythm & Blues;Blues;Electric Blues;R&B",
