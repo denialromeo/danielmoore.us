@@ -7889,7 +7889,7 @@ const songs = [
 "Westerman|Confirmation|2018|Ch1lNNwwa90|https://www.discogs.com/artist/6360693-Westerman-2|S16620|Art Pop;Dream Pop;Alternative Rock;Pop;Rock",
 "The Kinks|Till the End of the Day|1965|Ua8OsW9bMk0|The Kinks|S7119|Garage Rock;Mod;Rock",
 "Master P feat. Fiend, Silkk the Shocker, Mia X and Mystikal|Make 'Em Say Uhh!|1997|vCHslR29o9E|Master P|S11571|Southern Hip Hop;Hip Hop",
-"The Jimi Hendrix Experience|If 6 Was 9|1967|vZuFq4CfRR8|Jimi Hendrix|S11202|Blues Rock;Psychedelic Rock;Rock",
+"The Jimi Hendrix Experience|If 6 Was 9|1967|Zhrcf0szbXg|Jimi Hendrix|S11202|Blues Rock;Psychedelic Rock;Rock",
 "America|Ventura Highway|1972|tnV7dTXlXxs|America (band)|S9984|Folk Pop;Folk Rock;Soft Rock;Contemporary Folk;Folk;Pop;Pop Rock;Rock",
 "Elvis Presley|Good Luck Charm|1962|Z0gx4kPDW0w|Elvis Presley|S6262|Pop Rock;Rock & Roll;Pop;Rock",
 "Oneohtrix Point Never|Replica|2011|AvEm3a20Yc4|Oneohtrix Point Never|S7810|Ambient;Electronic",
