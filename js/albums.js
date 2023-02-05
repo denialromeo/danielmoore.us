@@ -1420,7 +1420,7 @@ const albums = [
 "The Decemberists|Picaresque|2005|PL6KwzgIePF4DUFOx33HJ_tDKzePqvyQEM|A4160|Picaresque (album)|The Decemberists|Chamber Pop;Indie Folk;Baroque Pop;Contemporary Folk;Folk;Indie Pop;Pop",
 "Sufjan Stevens|The Age of Adz|2010|PLiWVBzY6Oeo2Ek1BBG819aqpmHRvyW8dc|A5098|The Age of Adz|Sufjan Stevens|Art Pop;Chamber Pop;Progressive Pop;Baroque Pop;Indie Pop;Pop",
 "Can|Monster Movie|1969|PLHBhQDKfeduRAFa79DqLwL7kSEuEN6djw|A2293|Monster Movie (Can album)|Can (band)|Krautrock;Psychedelic Rock;Experimental Rock;Progressive Rock;Rock",
-"Beastie Boys|Hello Nasty|1998|PLs18g2iJu0yN3X5Lw9Zh84p1R1MVitD2b|A1027|Hello Nasty|Beastie Boys|Hip Hop",
+"Beastie Boys|Hello Nasty|1998|PLk83Uk_KUSSeegV8V8JexoWgV9ZDRJUm8|A1027|Hello Nasty|Beastie Boys|Hip Hop",
 "Girls|Album|2009|PLpGCJz85iG22CR4j6xpzhdfsCuHLfZkpG|A4999|Album (Girls album)|Girls (band)|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
 "Nine Inch Nails|The Fragile|1999|PLbmTrF3K6gB1q26lgBX8a_7MbR_GZEwFu|A1068|The Fragile|Nine Inch Nails|Alternative Rock;Industrial Rock;Industrial Music;Rock",
 "Palace Brothers|There Is No-One What Will Take Care of You|1993|PL_ktim5wMqguZB6z36DmK8JyD29AjxONV|A900|There Is No-One What Will Take Care of You|Will Oldham|Alt-Country;Indie Folk;Contemporary Folk;Country;Folk",
