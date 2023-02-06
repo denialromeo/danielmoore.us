@@ -119,6 +119,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Coders at Work*](https://github.com/ndina/acm/raw/master/coders-at-work.pdf) by [Peter Seibel](https://gigamonkeys.com) (Mentorship from the great programmers of our time.)
 * [*Designing Data-Intensive Applications*](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063) by [Martin Kleppmann](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html) (How to serve billions of users.)
 * [*Game Programming Patterns*](http://gameprogrammingpatterns.com/contents.html) by [Bob Nystrom](http://stuffwithstuff.com/) (Notes on building maintainable software.)
+* "[The Grind 75](https://www.techinterviewhandbook.org/grind75)" by Yangshun Tay (Data structure refresher and interview prep.)
 * [*Learn C++*](https://www.learncpp.com/) by Alex (For those of us who went to [JavaSchools](https://www.joelonsoftware.com/category/reading-lists/top-10/#post-912).)
 * [*Learn OpenGL*](https://learnopengl.com/book/book_pdf.pdf) by [Joey de Vries](https://twitter.com/JoeyDeVriez) (Graphics from scratch.)
 
@@ -167,7 +168,6 @@ I hope you have a good time here. Thanks for dropping by.
 * "[The Disappearance of the Hit-Driven Business Model](https://dearproducer.com/the-disappearance-of-the-hit-driven-business#main)" by Chris Moore (Mediocrity won.)
 * "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Apres Boomers, le deluge.)
 * "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkatesh Rao (Organizational politics demystified.)
-* "[The Grind 75](https://www.techinterviewhandbook.org/grind75)" by Yangshun Tay (Data structure refresher and interview prep.)
 * "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
 * "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch)" by Scott Siskind (Why we run ever-faster just to stay in place.)
 * "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Microsoft's path to world domination.)
