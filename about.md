@@ -59,7 +59,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Also listen to Warren Buffett, Charlie Munger, Ray Dalio, and Jeff Bezos. They are oracles.</li>
         <li>Feel free to invest 80% of net worth. But follow up with above indicators at least monthly.</li>
         <li>Further, keep in mind that the past 50 years of stock market returns have been predicated on globalization and good relations with China. Post-Trump, this may no longer be possible.</li>
-        <li>$500,000 is more than enough to permanently retire to India. Inflation poses a <a href="https://youtube.com/watch?v=f2FZDFSIpZc">serious danger</a> to the U.S. dollar, so your days here are likely numbered anyways.</li>
+        <li>$500,000 is more than enough to permanently retire to India. Inflation poses a <a href="https://youtube.com/watch?v=f2FZDFSIpZc">serious danger</a> to the U.S. dollar long-term, so your days here are likely numbered anyways.</li>
     </ul>
 </div>
 
