@@ -169,13 +169,14 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Apres Boomers, le deluge.)
 * "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkatesh Rao (Organizational politics demystified.)
 * "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
-* "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch)" by Scott Siskind (Why we run ever-faster just to stay in place.)
+* "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch)" by Scott Alexander (Why we run ever-faster just to stay in place.)
+* "[Return From U.S. To India](https://cubicledog.substack.com/p/ive-started-my-fire-journey-in-india)" by CubicleDog (As globalization unwinds, time to go home.)
 * "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Microsoft's path to world domination.)
 * "[Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)" by Peter Norvig (No royal road to geometry.)
 * "[Welcome to the Ruzzkiy Mir](https://yasha.substack.com/p/welcome-to-the-ruzzkiy-mir)" by Evgenia Korda (Understanding modern Russia.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
-    <p>"For to him who has will more be given, and from him who has not, even what he thinks that he has will be taken away." &ndash; <a href="https://en.wikipedia.org/wiki/Matthew_effect">Luke 8:18</a></p>
+    <p>"For to him who has will more be given, and from him who has not, even what he thinks that he has &nbsp;will be taken away." &ndash; <a href="https://en.wikipedia.org/wiki/Matthew_effect">Luke 8:18</a></p>
 * [YouTen Adjustable Weight Bench](https://www.amazon.com/dp/B07VYXH22Q) (Who needs a gym membership?)
 * [*Accelerando*](https://goodreads.com/notes/6606323-accelerando/71655209-daniel-moore) by [Charles Stross](http://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando-intro.html) (Is all of human history a footnote to the creation of AI?)
 * "[2024 Election Polls](https://projects.fivethirtyeight.com/polls/president-general/2024/national/)" by FiveThirtyEight (Who will be this season's commander-in-chief?)
