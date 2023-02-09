@@ -69,8 +69,7 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li>20-dollar buy-in from each player. White chips are 50 cents, red chips are a dollar.</li>
         <li>Every player receives 20 white chips and 10 red chips.</li>
-        <li>Small blind is 50 cents, big blind is a dollar.</li>
-        <li>Spread limits are two dollars for the first two rounds of betting, four dollars for the second two.</li>
+        <li>Small blind is 50 cents, big blind is a dollar. No limits to betting!</li>
         <li>When only two players remain, the pot can be split and the game ended at any time.</li>
         <li>Time limit is one hour. After an hour, all chips are tallied and cashed in.</li>
         <li>"Evaluate each holding at the flop in the right frame of mind. Don’t ask: Can I improve? &nbsp;Instead ask: What are my chances of being the clear winner at the end?" &ndash; <a href="https://www.goodreads.com/notes/19181632-thursday-night-poker/71655209-daniel-moore">Peter O. Steiner</a></li>
@@ -177,6 +176,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Welcome to the Ruzzkiy Mir](https://yasha.substack.com/p/welcome-to-the-ruzzkiy-mir)" by Evgenia Korda (Understanding modern Russia.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
+        <li>Spread limits are two dollars for the first two rounds of betting, four dollars for the second two.</li>
     <p>"For to him who has will more be given, and from him who has not, even what he thinks that he has &nbsp;will be taken away." &ndash; <a href="https://en.wikipedia.org/wiki/Matthew_effect">Luke 8:18</a></p>
 * [YouTen Adjustable Weight Bench](https://www.amazon.com/dp/B07VYXH22Q) (Who needs a gym membership?)
 * [*Accelerando*](https://goodreads.com/notes/6606323-accelerando/71655209-daniel-moore) by [Charles Stross](http://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando-intro.html) (Is all of human history a footnote to the creation of AI?)
