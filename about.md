@@ -566,18 +566,12 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sculptor/01.jpg" itemprop="contentUrl" data-size="1454x2060"><img style="border: 1px solid black;" src="/assets/img/comics/sculptor/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sculptor</i> by Scott McCloud</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sculptor/02.jpg" itemprop="contentUrl" data-size="1454x2060"><img src="/assets/img/comics/sculptor/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sculptor/03.jpg" itemprop="contentUrl" data-size="1454x2060"><img src="/assets/img/comics/sculptor/03.jpg"/></a></figcaption></figure>
-</div>
-
-<div id="clear"></div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/tom-strong/01.jpg" itemprop="contentUrl" data-size="1000x1551"><img style="border: 1px solid black;" src="/assets/img/comics/tom-strong/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Adventures of Tom Strong</i> by Alan Moore</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/tom-strong/02.jpg" itemprop="contentUrl" data-size="1000x1551"><img src="/assets/img/comics/tom-strong/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/tom-strong/03.jpg" itemprop="contentUrl" data-size="1000x1545"><img src="/assets/img/comics/tom-strong/03.jpg"/></a></figcaption></figure>
 </div>
+
+<div id="clear"></div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/green-lantern/01.jpg" itemprop="contentUrl" data-size="1987x3056"><img style="border: 1px solid black;" src="/assets/img/comics/green-lantern/01.jpg"/></a><figcaption itemprop="caption description"><p><i>DC Universe</i> by Alan Moore</p></figcaption></figure>
@@ -595,6 +589,25 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman9/01.jpg" itemprop="contentUrl" data-size="1920x2894"><img style="border: 1px solid black;" src="/assets/img/comics/sandman9/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman9/02.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/sandman9/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman9/03.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/sandman9/03.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/dark-knight-returns/01.jpg" itemprop="contentUrl" data-size="1987x3055"><img style="border: 1px solid black;" src="/assets/img/comics/dark-knight-returns/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Dark Knight Returns</i> by Frank Miller</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/dark-knight-returns/02.jpg" itemprop="contentUrl" data-size="1987x3055"><img src="/assets/img/comics/dark-knight-returns/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/dark-knight-returns/03.jpg" itemprop="contentUrl" data-size="1987x3055"><img src="/assets/img/comics/dark-knight-returns/03.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/dark-knight-returns2/01.jpg" itemprop="contentUrl" data-size="1987x3055"><img style="border: 1px solid black;" src="/assets/img/comics/dark-knight-returns2/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Dark Knight Returns</i> by Frank Miller</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/dark-knight-returns2/02.jpg" itemprop="contentUrl" data-size="1987x3055"><img src="/assets/img/comics/dark-knight-returns2/02.jpg"/></a></figcaption></figure>
+</div>
+
+<div id="clear"></div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sculptor/01.jpg" itemprop="contentUrl" data-size="1454x2060"><img style="border: 1px solid black;" src="/assets/img/comics/sculptor/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sculptor</i> by Scott McCloud</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sculptor/02.jpg" itemprop="contentUrl" data-size="1454x2060"><img src="/assets/img/comics/sculptor/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sculptor/03.jpg" itemprop="contentUrl" data-size="1454x2060"><img src="/assets/img/comics/sculptor/03.jpg"/></a></figcaption></figure>
 </div>
 
 <div id="clear"></div>

@@ -1,22 +1,16 @@
 {
 	"pages": [
 		{
-			"author": "Garth Ennis",
-			"title": "The Sandman",
+			"author": "Frank Miller",
+			"title": "The Dark Knight Returns",
 			"amazon": "",
-			"link": "assets/img/comics/sandman9/01.jpg"
+			"link": "assets/img/comics/dark-knight-returns2/01.jpg"
 		},
 		{
-			"author": "Garth Ennis",
-			"title": "The Sandman",
+			"author": "Frank Miller",
+			"title": "The Dark Knight Returns",
 			"amazon": "",
-			"link": "assets/img/comics/sandman9/02.jpg"
-		},
-		{
-			"author": "Garth Ennis",
-			"title": "The Sandman",
-			"amazon": "",
-			"link": "assets/img/comics/sandman9/03.jpg"
+			"link": "assets/img/comics/dark-knight-returns2/02.jpg"
 		}
 	]
 }
