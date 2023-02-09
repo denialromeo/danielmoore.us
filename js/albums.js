@@ -2951,7 +2951,7 @@ const albums = [
 "Coleman Hawkins & Ben Webster|Coleman Hawkins Encounters Ben Webster/Blue Saxophones|1959|PL8BvQM-ayPDqb5S9-_bDhGgEk2vRL3XiM|A2413|Coleman Hawkins Encounters Ben Webster|Coleman Hawkins|Post-Bop;Bebop;Jazz",
 "Malcolm McLaren|Duck Rock|1983|PLlw1zJ0BjQ1xThx1n261QnoWpTF57h1l8|A591|Duck Rock|Malcolm McLaren|New Wave;Rock",
 "Kid Creole and The Coconuts|Wise Guy/Tropical Gangsters|1982|PLY8MTYO40DGzLATeb0gJv9YB8D9Mf190i|A1486|Tropical Gangsters|Kid Creole and the Coconuts|Disco;Pop;Dance",
-"Lonnie Johnson with Elmer Snowden|Blues and Ballads|1960|PLYjpLpF6KffuXxDnbfy1B34cHr83pa0rB|A1274|Blues & Ballads|Lonnie Johnson (musician)|Acoustic Blues;Blues",
+"Lonnie Johnson with Elmer Snowden|Blues and Ballads|1960|PLDgBzgC-0kcdxdyGmtz_oMQ5wdNdfa5C-|A1274|Blues & Ballads|Lonnie Johnson (musician)|Acoustic Blues;Blues",
 "Steve Roach|Dreamtime Return|1988|PLo9v8aKp-_64vTQjBvWOTkcsE3VSA4waA|A2895|Dreamtime Return|Steve Roach (musician)|Tribal Ambient;Ambient",
 "Neu!|Neu! 2|1973|PLX98xw6azUoYbfAqlO6b1Jen9m2umYLOt|A2667|Neu! 2|Neu!|Krautrock;Experimental Rock;Progressive Rock;Rock",
 "Planxty|The Well Below the Valley|1973|PLJrzBJAX5z4buR1ceyZBaC-cnd1f_uhEp|A2669|The Well Below the Valley (album)|Planxty|Irish Folk Music;Celtic Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music",
