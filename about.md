@@ -147,7 +147,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Certain to Win*](https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore) by [Chet Richards](https://slightlyeastofnew.com/page-1/) (How to outmaneuver and defeat much larger enemies.)
 * [*The Complete Works*](https://www.goodreads.com/notes/29997711-the-collected-works-of-arthur-schopenhauer/71655209-daniel-moore) by [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (Patron saint of intellectuals.)
 * [*Disciplined Minds*](/disciplined-minds) by [Jeff Schmidt](https://disciplinedminds.tripod.com/) (Thriving in the white-collar workplace.)
-* [*Light on the Yoga Sutras of Patanjali*](https://www.goodreads.com/notes/18903748-light-on-the-yoga-sutras-of-patanjali/71655209-daniel-moore) by [B.K.S. Iyengar](https://en.wikipedia.org/wiki/B._K._S._Iyengar) (Exerting control over the mind.)
 * [*Poker For Dummies*](https://www.goodreads.com/notes/19378414-poker-for-dummies/71655209-daniel-moore) by [Richard Harroch](https://www.linkedin.com/in/richard-d-harroch-15253a3/) (Works as a metaphor for pretty much everything.)
 * [*Straw Dogs*](https://www.goodreads.com/notes/29767507-straw-dogs/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (Breaking free of monotheistic orthodoxy.)
 * [*The Trouble with Being Born*](https://www.goodreads.com/notes/50757709-the-trouble-with-being-born/71655209-daniel-moore) by [Emil Cioran](https://en.wikipedia.org/wiki/Emil_Cioran) (Resignation is only the beginning.)
@@ -189,6 +188,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Story Structure 101](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)" by Dan Harmon (Narrative-writing for humans.)
 * "[The Taiwan Strait Joint Exercise](https://www.guancha.cn/ChenFeng3/2022_08_18_654142_s.shtml)" by Chen Feng (How the next big war will likely start.)
 * "[Welcome to Hell, Elon](https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation)" by Nilay Patel (A fool and his money are soon parted.)
+* [*Light on the Yoga Sutras of Patanjali*](https://www.goodreads.com/notes/18903748-light-on-the-yoga-sutras-of-patanjali/71655209-daniel-moore) by [B.K.S. Iyengar](https://en.wikipedia.org/wiki/B._K._S._Iyengar) (Exerting control over the mind.)
 {% endcomment %}
 
 {:#history-books}
