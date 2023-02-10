@@ -218,7 +218,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[On Contradiction](https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm)" by [Mao Zedong](https://en.wikipedia.org/wiki/Mao_Zedong) (Set the DNA of modern Chinese thought.)
 * "[On the Historical Unity of Russians and Ukrainians](http://en.kremlin.ru/events/president/news/66181)" by [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) (Tsardom reborn.)
 * "[The Social Responsibility of Business](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html)" by [Milton Friedman](https://en.wikipedia.org/wiki/Milton_Friedman) (Death knell for the welfare state.)
-* "[Speech on the Accession of China to the WTO](https://archive.nytimes.com/www.nytimes.com/library/world/asia/030900clinton-china-text.html)" by [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) (Birth of the Chinese Century.)
+* "[Speech on China Trade Bill](https://archive.nytimes.com/www.nytimes.com/library/world/asia/030900clinton-china-text.html)" by [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) (Birth of the Chinese Century.)
 
 {:#autobiographies}
 **Autobiographies**
