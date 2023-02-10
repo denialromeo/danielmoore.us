@@ -2264,7 +2264,7 @@ const albums = [
 "The Cranberries|Everybody Else Is Doing It, So Why Can't We|1993|PLHyR7AeDqEe5vXIUxfDVUbpG6JKgtqxiU|A3417|Everybody Else Is Doing It, So Why Can't We%3F|The Cranberries|Alternative Rock;Pop Rock;Pop;Rock",
 "Boards of Canada|Tomorrow's Harvest|2013|PL-l00yKtg8-XCfWAhvup59KM4qkRjsS0R|A5280|Tomorrow's Harvest|Boards of Canada|Ambient Techno;IDM;Dance;Electronic;Electronic Dance Music;Techno",
 "Ween|Chocolate and Cheese|1994|PLDED61B6492A368A8|A3520|Chocolate and Cheese|Ween|Alternative Rock;Rock",
-"Steve Earle|El Corazon|1997|PLCof2UKa_bCrNhFBpPHQ3N528QHoUI8UE|A1016|El Corazón (Steve Earle album)|Steve Earle|Alt-Country;Americana;Country Rock;Singer/Songwriter;Country;Rock",
+"Steve Earle|El Corazon|1997|PLa_JCBYlK-IRjnK9AViqE5TmBB3i8Cltb|A1016|El Corazón (Steve Earle album)|Steve Earle|Alt-Country;Americana;Country Rock;Singer/Songwriter;Country;Rock",
 "The Roches|The Roches|1979|PLz7WmJidBXvAz4sRe_AJc-UvGB2TRLRpi|A1166|The Roches (album)|The Roches|Folk Pop;Contemporary Folk;Folk;Pop",
 "Sons of Kemet|Your Queen is a Reptile|2018|PLOl2cf7NAZ65AcDedULZdbS5ascfPdmlf|A6055|Your Queen Is a Reptile|Sons of Kemet|Afro-Jazz;African Music;Jazz;Regional Music",
 "Barbra Streisand|The Barbra Streisand Album|1963|PLECD9F0A6A16BB298|A1936|The Barbra Streisand Album|Barbra Streisand|Standards;Pop;Traditional Pop",
