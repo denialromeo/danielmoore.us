@@ -1647,7 +1647,7 @@ const albums = [
 "Donny Hathaway|Live|1972|PLNt3vETSy2lky9jBfqCUq_juyLSvKz0wI|A2440|Live (Donny Hathaway album)|Donny Hathaway|Deep Soul;R&B;Soul;Southern Soul",
 "Maxwell|Maxwell's Urban Hang Suite|1996|PL5MiW--FNyCjAD_tdyKbTLggtOiT1KsaY|A4837|Maxwell's Urban Hang Suite|Maxwell (musician)|Contemporary R&B;Neo-Soul;R&B;Soul",
 "The Chemical Brothers|Surrender|1999|PLA2BA5B17D2D1FBAE|A1051|Surrender (The Chemical Brothers album)|The Chemical Brothers|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music",
-"The Adverts|Crossing the Red Sea with The Adverts|1978|PLFJaNKbla2lnhsMu7Chf9TaBizc9j5Upb|A1249|Crossing the Red Sea with The Adverts|The Adverts|Punk Rock;Rock",
+"The Adverts|Crossing the Red Sea with The Adverts|1978|ERROR: Suitable playlist not found|A1249|Crossing the Red Sea with The Adverts|The Adverts|Punk Rock;Rock",
 "Adam and The Ants|Kings of the Wild Frontier|1980|PL5F6E9C34CC142DC5|A506|Kings of the Wild Frontier|Adam and the Ants|New Wave;Rock",
 "Aldous Harding|Designer|2019|PLqrDYLvMD54wtf35BSCUM-Q9FtURQSgkK|A6200|Designer (album)|Aldous Harding|Contemporary Folk;Singer/Songwriter;Folk",
 "Elvis Costello with Burt Bacharach|Painted from Memory|1998|PLjO4QRS_y93M-1TdUldqpgYvPlyrkMzhr|A1037|Painted from Memory|Elvis Costello|Adult Contemporary;Pop",
