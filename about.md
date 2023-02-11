@@ -169,7 +169,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkatesh Rao (Organizational politics demystified.)
 * "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
 * "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch)" by Scott Alexander (Why we run ever-faster just to stay in place.)
-* "[Return From U.S. To India](https://cubicledog.substack.com/p/ive-started-my-fire-journey-in-india)" by CubicleDog (As globalization unwinds, time to go home.)
+* "[Return From U.S. To India](https://cubicledog.substack.com/p/ive-started-my-fire-journey-in-india)" by CubicleDog (As globalization transforms, time to go home.)
 * "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Microsoft's path to world domination.)
 * "[Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)" by Peter Norvig (No royal road to geometry.)
 * "[Welcome to the Ruzzkiy Mir](https://yasha.substack.com/p/welcome-to-the-ruzzkiy-mir)" by Evgenia Korda (Understanding modern Russia.)
