@@ -284,7 +284,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Squid Game*](https://www.netflix.com/title/81040344) by [Hwang Dong-hyuk](https://en.wikipedia.org/wiki/Hwang_Dong-hyuk) (Thinly-veiled allegory for corporate life.)
 * [*Sweeney Todd: The Demon Barber of Fleet Street*](https://play.hbomax.com/page/urn:hbo:page:GYGQJNwOcH4W2XgEAAABg:type:feature) by [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) (Peak of film musicals.)
 * [*Synecdoche, New York*](https://www.hulu.com/movie/synecdoche-new-york-e28dfc74-a383-44da-b6ae-7ec7744286f6) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
-* [*There Will Be Blood*](https://www.amazon.com/There-Will-Blood-Paul-Dano/dp/B0017I91LI) by [Paul Anderson](https://en.wikipedia.org/wiki/Paul_Thomas_Anderson) (Inspirational? Pathetic? Both?)
+* [*There Will Be Blood*](https://www.paramountplus.com/movies/video/GmreDvX9oZ8lfCfwXiFsZhjR0tTEdn4Y/) by [Paul Anderson](https://en.wikipedia.org/wiki/Paul_Thomas_Anderson) (Inspirational? Pathetic? Both?)
 * [*To Be*](https://www.youtube.com/watch?v=ocgFkHElzgQ) by [John Weldon](http://www.weldonalley.ca/) (Small errors in judgment can ruin everything. Also read this [comic](https://existentialcomics.com/comic/1).)
 * [*Turning Red*](https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m) by [Domee Shi](https://en.wikipedia.org/wiki/Domee_Shi) (Written by women for women.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
