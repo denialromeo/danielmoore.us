@@ -67,7 +67,7 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="instructions3" style="display:none;">
     <p>My favorite group activity is playing poker (<a href="https://en.wikipedia.org/wiki/Texas_hold_'em">Texas hold'em</a>). Here's the rules at my house &ndash;</p>
     <ul>
-        <li>20-dollar buy-in from each player. White chips are 50 cents, red chips are a dollar.</li>
+        <li>20-dollar buy-in from each player. White <a href="https://www.amazon.com/gp/product/B0003I68RS">chips</a> are 50 cents, red chips are a dollar.</li>
         <li>Every player receives 20 white chips and 10 red chips.</li>
         <li>Small blind is 50 cents, big blind is a dollar. No limits to betting!</li>
         <li>When only two players remain, the pot can be split and the game ended at any time.</li>
