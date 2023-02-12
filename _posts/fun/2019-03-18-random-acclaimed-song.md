@@ -32,7 +32,7 @@ box: random-acclaimed-song
             <a target="_self" href="?song=never.gonna.give.you">The greatest song of all time.</a>
         </li>
         <li>
-            <a target="_self" href="?genre=disco&year=197.">Disco songs from the 1970's.</a>
+            <a target="_self" href="?genre=new.wave&year=198.">New wave songs from the 1980's.</a>
         </li>
     </ul>
    <p>Also note that each artist's name is a link to their Wikipedia page. To see a song's genres, hit <code class="language-plaintext highlighter-rouge">Ctrl + Shift + J</code> to open the browser console.</p>
