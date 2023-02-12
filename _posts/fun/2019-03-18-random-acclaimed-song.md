@@ -26,7 +26,7 @@ box: random-acclaimed-song
             <a target="_self" href="?year=19[6-7][0-9]">Songs released in the 1960's and 1970's.</a>
         </li>
         <li>
-            <a target="_self" href="?artist=Bob+Marley|The.Wailers">Songs by Bob Marley.</a>
+            <a target="_self" href="?artist=Jimi+Hendrix">Songs by Jimi Hendrix.</a>
         </li>
         <li>
             <a target="_self" href="?song=never.gonna.give.you">The greatest song of all time.</a>
