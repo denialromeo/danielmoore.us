@@ -2737,7 +2737,7 @@ const albums = [
 "Travis Scott|Astroworld|2018|PL9tY0BWXOZFvdeHbEJr7Wiztcue35IStT|A6050|Astroworld (album)|Travis Scott|Pop Rap;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Buffy Sainte-Marie|It's My Way!|1964|PLpZWeuwflRbtdpK5c_gtbTy1Gcwu-fxbU|A1291|It's My Way!|Buffy Sainte-Marie|Folk Revival;Singer/Songwriter;Contemporary Folk;Folk",
 "Mel Tormé|Swings Shubert Alley|1960|PL95F62162CE227C67|A2423|Mel Tormé Swings Shubert Alley|Mel Tormé|Vocal Jazz;Jazz",
-"Scott Walker|Scott|1967|PLwrdsvKbJF10ksyLha7Mn0_70hLms8ejh|A1297|Scott (album)|Scott Walker (singer)|Baroque Pop;Pop",
+"Scott Walker|Scott|1967|PLUPdGVF6ESU9S8XPp3ccox9sx8Byk0V7r|A1297|Scott (album)|Scott Walker (singer)|Baroque Pop;Pop",
 "Billy Joel|52nd Street|1978|PLraUXdMOSKKGRtYEufJHeKbDwh0z29rgE|A2738|52nd Street (album)|Billy Joel|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock",
 "Public Image Ltd.|Album/Compact Disc/Cassette|1986|PLvIV0o8uReK46dh1Zn5nOQvXMbVLUED_H|A3127|Album (Public Image Ltd album)|Public Image Ltd|Alternative Rock;Post-Punk;Rock",
 "!!!|Louden Up Now|2004|PLo-CVFFA0DtXcIKdG6gmHnS2wxOYelY14|A4094|Louden Up Now|!!!|Dance-Punk;Indie Rock;Alternative Rock;Post-Punk;Rock",
