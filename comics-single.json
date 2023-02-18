@@ -1,16 +1,22 @@
 {
 	"pages": [
 		{
-			"author": "Frank Miller",
-			"title": "The Dark Knight Returns",
+			"author": "Neil Gaiman",
+			"title": "The Sandman",
 			"amazon": "",
-			"link": "assets/img/comics/dark-knight-returns2/01.jpg"
+			"link": "assets/img/comics/sandman10/01.jpg"
 		},
 		{
-			"author": "Frank Miller",
-			"title": "The Dark Knight Returns",
+			"author": "Neil Gaiman",
+			"title": "The Sandman",
 			"amazon": "",
-			"link": "assets/img/comics/dark-knight-returns2/02.jpg"
+			"link": "assets/img/comics/sandman10/02.jpg"
+		},
+		{
+			"author": "Neil Gaiman",
+			"title": "The Sandman",
+			"amazon": "",
+			"link": "assets/img/comics/sandman10/03.jpg"
 		}
 	]
 }
