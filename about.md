@@ -566,15 +566,14 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/batman2/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/batman2/01.jpg"/></a><figcaption itemprop="caption description"><p><i>All-Star Batman and Robin the Boy Wonder</i> by Frank Miller</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/batman2/02.jpg" itemprop="contentUrl" data-size="3975x3056"><img src="/assets/img/comics/batman2/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/batman2/03.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/batman2/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/dark-knight-returns/01.jpg" itemprop="contentUrl" data-size="1987x3055"><img style="border: 1px solid black;" src="/assets/img/comics/dark-knight-returns/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Dark Knight Returns</i> by Frank Miller</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/dark-knight-returns/02.jpg" itemprop="contentUrl" data-size="1987x3055"><img src="/assets/img/comics/dark-knight-returns/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/dark-knight-returns/03.jpg" itemprop="contentUrl" data-size="1987x3055"><img src="/assets/img/comics/dark-knight-returns/03.jpg"/></a></figcaption></figure>
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/tom-strong/01.jpg" itemprop="contentUrl" data-size="1000x1551"><img style="border: 1px solid black;" src="/assets/img/comics/tom-strong/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Adventures of Tom Strong</i> by Alan Moore</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/tom-strong/02.jpg" itemprop="contentUrl" data-size="1000x1551"><img src="/assets/img/comics/tom-strong/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/tom-strong/03.jpg" itemprop="contentUrl" data-size="1000x1545"><img src="/assets/img/comics/tom-strong/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/dark-knight-returns2/01.jpg" itemprop="contentUrl" data-size="1987x3055"><img style="border: 1px solid black;" src="/assets/img/comics/dark-knight-returns2/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Dark Knight Returns</i> by Frank Miller</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/dark-knight-returns2/02.jpg" itemprop="contentUrl" data-size="1987x3055"><img src="/assets/img/comics/dark-knight-returns2/02.jpg"/></a></figcaption></figure>
 </div>
 
 <div id="clear"></div>
@@ -598,14 +597,15 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/dark-knight-returns/01.jpg" itemprop="contentUrl" data-size="1987x3055"><img style="border: 1px solid black;" src="/assets/img/comics/dark-knight-returns/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Dark Knight Returns</i> by Frank Miller</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/dark-knight-returns/02.jpg" itemprop="contentUrl" data-size="1987x3055"><img src="/assets/img/comics/dark-knight-returns/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/dark-knight-returns/03.jpg" itemprop="contentUrl" data-size="1987x3055"><img src="/assets/img/comics/dark-knight-returns/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/tom-strong/01.jpg" itemprop="contentUrl" data-size="1000x1551"><img style="border: 1px solid black;" src="/assets/img/comics/tom-strong/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Adventures of Tom Strong</i> by Alan Moore</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/tom-strong/02.jpg" itemprop="contentUrl" data-size="1000x1551"><img src="/assets/img/comics/tom-strong/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/tom-strong/03.jpg" itemprop="contentUrl" data-size="1000x1545"><img src="/assets/img/comics/tom-strong/03.jpg"/></a></figcaption></figure>
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/dark-knight-returns2/01.jpg" itemprop="contentUrl" data-size="1987x3055"><img style="border: 1px solid black;" src="/assets/img/comics/dark-knight-returns2/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Dark Knight Returns</i> by Frank Miller</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/dark-knight-returns2/02.jpg" itemprop="contentUrl" data-size="1987x3055"><img src="/assets/img/comics/dark-knight-returns2/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/batman2/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/batman2/01.jpg"/></a><figcaption itemprop="caption description"><p><i>All-Star Batman and Robin the Boy Wonder</i> by Frank Miller</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/batman2/02.jpg" itemprop="contentUrl" data-size="3975x3056"><img src="/assets/img/comics/batman2/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/batman2/03.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/batman2/03.jpg"/></a></figcaption></figure>
 </div>
 
 <div id="clear"></div>
