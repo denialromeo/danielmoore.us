@@ -1,22 +1,22 @@
 {
 	"pages": [
 		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
+			"author": "David Hine",
+			"title": "Strange Embrace",
 			"amazon": "",
-			"link": "assets/img/comics/sandman10/01.jpg"
+			"link": "assets/img/comics/strange-embrace/01.jpg"
 		},
 		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
+			"author": "David Hine",
+			"title": "Strange Embrace",
 			"amazon": "",
-			"link": "assets/img/comics/sandman10/02.jpg"
+			"link": "assets/img/comics/strange-embrace/02.jpg"
 		},
 		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
+			"author": "David Hine",
+			"title": "Strange Embrace",
 			"amazon": "",
-			"link": "assets/img/comics/sandman10/03.jpg"
+			"link": "assets/img/comics/strange-embrace/03.jpg"
 		}
 	]
 }

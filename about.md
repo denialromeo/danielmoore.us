@@ -617,6 +617,12 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/strange-embrace/01.jpg" itemprop="contentUrl" data-size="1074x1650"><img style="border: 1px solid black;" src="/assets/img/comics/strange-embrace/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Strange Embrace</i> by David Hine</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/strange-embrace/02.jpg" itemprop="contentUrl" data-size="1074x1650"><img src="/assets/img/comics/strange-embrace/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/strange-embrace/03.jpg" itemprop="contentUrl" data-size="1074x1650"><img src="/assets/img/comics/strange-embrace/03.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman10/01.jpg" itemprop="contentUrl" data-size="1920x2951"><img style="border: 1px solid black;" src="/assets/img/comics/sandman10/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman10/02.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman10/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman10/03.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman10/03.jpg"/></a></figcaption></figure>
