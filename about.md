@@ -45,7 +45,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>Some predictions for the near future &ndash;</p>
     <ul>
         <li>Interest rates will remain elevated indefinitely. <a href="https://fred.stlouisfed.org/series/FEDFUNDS">Historically</a>, rates have averaged at around 6%. The housing market may crash and never recover. So may most tech stocks.</li>
-        <li>America's demographic decline will continue. Remote work being feasible at-scale means there's no longer any reason to bring skilled immigrants here. Hiring will largely shift overseas.</li>
+        <li>America's <a href="https://www.theatlantic.com/newsletters/archive/2022/03/american-population-growth-rate-slow/629392/">demographic decline</a> will continue. Remote work being feasible at-scale means there's no longer any reason to bring skilled immigrants here. Hiring will largely shift overseas.</li>
         <li>The 2022 Russian invasion of Ukraine was the beginning of World War 3, which will unfold over the next decade. This is not unlike the 1914 assassination of Archduke Franz Ferdinand.</li>
     </ul>
     <hr>
