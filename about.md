@@ -32,7 +32,7 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="instructions2" style="display:none;">
     <p>"The basis of society, of any society, is a certain pride in obedience. When this pride no longer &nbsp;exists, the society collapses." &ndash; <a href="ihttps://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore">Emil Cioran</a></p>
     <p>"Under stress, disoriented people become demoralized and panicked. Once in this condition, they &nbsp;can easily be defeated, whatever weapons remain in their possession." &ndash; <a href="https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore">Chet Richards</a></p>
-    <p>"If your opponent is of choleric temper, irritate him. <a href="https://www.quora.com/When-did-Deng-Xiaoping-say-hide-your-strength-bide-your-time">Pretend to be weak</a>, that he may grow arrogant. &nbsp;If he is taking his ease, give him no rest. If his forces are united, separate them." &ndash; <a href="http://classics.mit.edu/Tzu/artwar.html">Sun Tzu</a></p>
+    <p>"If your opponent is of choleric temper, irritate him. <a href="https://qr.ae/praKhq">Pretend to be weak</a>, that he may grow arrogant. &nbsp;If he is taking his ease, give him no rest. If his forces are united, separate them." &ndash; <a href="http://classics.mit.edu/Tzu/artwar.html">Sun Tzu</a></p>
     <p>"Broken-down civilizations have not met their death from an assassin’s hand; in almost every &nbsp;instance, we have been led to return a verdict of suicide." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
     <hr>
     <p>Some historical statements I believe &ndash;</p>
