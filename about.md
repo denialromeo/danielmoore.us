@@ -44,9 +44,9 @@ I hope you have a good time here. Thanks for dropping by.
     <hr>
     <p>Some predictions for the near future &ndash;</p>
     <ul>
-        <li>The average salary for a software engineer in the UK is $60,000 a year. Now that remote work has been proven to work and AI like ChatGPT exists, U.S. salaries will drop to match the UK.</li>
         <li>Interest rates will remain elevated indefinitely. <a href="https://fred.stlouisfed.org/series/FEDFUNDS">Historically</a>, rates have averaged at around 6%. The housing market may crash and never recover. So may most tech stocks.</li>
-        <li>The 2022 Russian invasion of Ukraine is the beginning of World War 3, which will unfold over the next decade. This is not unlike the 1914 assassination of Archduke Franz Ferdinand.</li>
+        <li>America's demographic decline will continue. Remote work being feasible at-scale means there's no longer any reason to bring skilled immigrants here. Hiring will largely shift overseas.</li>
+        <li>The 2022 Russian invasion of Ukraine was the beginning of World War 3, which will unfold over the next decade. This is not unlike the 1914 assassination of Archduke Franz Ferdinand.</li>
     </ul>
     <hr>
 </div>
