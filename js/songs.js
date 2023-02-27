@@ -5302,7 +5302,7 @@ const songs = [
 "Green Day|Welcome to Paradise|1994|OR7R9Kuw2fY|Green Day|S6638|Pop Punk;Punk Rock;Rock",
 "The Statler Brothers|Flowers on the Wall|1965|1s8nRL2bPCU|The Statler Brothers|S8551|Close Harmony;Country Pop;American Folk Music;Country;Folk;Pop;Regional Music;Traditional Country;Traditional Folk Music",
 "Parliament|Up for the Down Stroke|1974|urhJ81E-Bog|Parliament (band)|S11838|P-Funk;Funk;R&B",
-"The Whispers|And The Beat Goes On|1979|fOaxEa5ONJw|The Whispers|S8986|Boogie;Dance;Disco;R&B",
+"The Whispers|And The Beat Goes On|1979|pEmX5HR9ZxU|The Whispers|S8986|Boogie;Dance;Disco;R&B",
 "Stevie Wonder|I Just Called to Say I Love You|1984|1bGOgY1CmiU|Stevie Wonder|S8584|Film Soundtrack;Pop Soul;Descriptor;Pop;R&B;Soul;Soundtracks",
 "Mano Negra|Pas assez de toi|1989|eSxoxqDB0OI|Mano Negra (band)|S7406|Folk Punk;Pop Rock;Pop;Punk Rock;Rock",
 "Blondie|X-Offender|1976|PjvpLiS2gKA|Debbie Harry|S4181|New Wave;Rock",
