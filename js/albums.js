@@ -2126,7 +2126,7 @@ const albums = [
 "Art Blakey Quintet|A Night at Birdland Vol. 2|1954|PLUJ7V33M1wR23EpzFsG3OTGSG30mVmrDa|A1772|A Night at Birdland Vol. 2|Art Blakey|Hard Bop;Bebop;Jazz",
 "Purity Ring|Shrines|2012|PLCWXIh7vWQTLKPCN_QB26ja2pyUcsnkT5|A5233|Shrines (album)|Purity Ring (band)|Synthpop;Electronic;Pop",
 "These New Puritans|Field of Reeds|2013|PLZqsyBiYZFQ0Ot0GDw8mQzmLetaj1jRyZ|A5373|Field of Reeds|These New Puritans|Art Rock;Post-Rock;Rock",
-"Wes Montgomery|Full House: Recorded 'Live' at Tsubo - Berkeley, California|1962|ERROR: Suitable playlist not found|A1919|Full House (Wes Montgomery album)|Wes Montgomery|Hard Bop;Bebop;Jazz",
+"Wes Montgomery|Full House: Recorded 'Live' at Tsubo - Berkeley, California|1962|PL4ypuAMic-Gjt__GWB5Y8xYyt5HUT5PdB|A1919|Full House (Wes Montgomery album)|Wes Montgomery|Hard Bop;Bebop;Jazz",
 "Bon Iver|i,i|2019|PLZqsyBiYZFQ2E5c3V-Viw8vLHI1geHK02|A6225|I, I|Bon Iver|Art Pop;Pop",
 "Dr. Feelgood|Stupidity|1976|PLFqJsWx6HVkxw524ZGHfeJkGfZyuSUa1E|A1417|Stupidity (Dr. Feelgood album)|Dr. Feelgood (band)|British Blues;Pub Rock;Blues;Electric Blues;Rock",
 "Iron & Wine|The Shepherd's Dog|2007|PLbOGt8cOph4Vk0b3FY11pGOLhZ4cPSh7w|A4254|The Shepherd's Dog|Iron & Wine|Americana;Folk Rock;Indie Folk;Singer/Songwriter;Contemporary Folk;Country;Folk;Rock",
