@@ -9520,7 +9520,7 @@ const songs = [
 "Marilyn Monroe|Diamonds Are a Girl's Best Friend|1953|bfsnebJd-BI|Marilyn Monroe|S12956|Film Soundtrack;Traditional Pop;Descriptor;Pop;Soundtracks",
 "Eminem|Just the Two of Us/'97 Bonnie & Clyde|1997|fqXYdChOi7k|Eminem|S10728|Boom Bap;Hip Hop",
 "Aretha Franklin|A Change Is Gonna Come|1967|amVCS5ttGcE|Aretha Franklin|S13667|Deep Soul;R&B;Soul;Southern Soul",
-"The 101ers|Keys to Your Heart|1976|Lz8_PZgXxUo|The 101ers|S5060|Proto-Punk;Pub Rock;Rock",
+"The 101ers|Keys to Your Heart|1976|6w9P3BX5UyM|The 101ers|S5060|Proto-Punk;Pub Rock;Rock",
 "Gil Scott-Heron|Winter in America|1974|m2zKdIcOV5s|Gil Scott-Heron|S4270|Jazz-Funk;Soul;Soul Jazz;Funk;Jazz;R&B",
 "Golden Gate Orchestra|Charleston|1925|f8lQyAD2jX4|https://www.discogs.com/artist/1990693-Golden-Gate-Orchestra|S15523|Big Band;Jazz",
 "Pet Shop Boys|So Hard|1990|jFAA6Z_YIEM|Pet Shop Boys|S7937|Dance-Pop;Synthpop;Dance;Electronic;Pop",
