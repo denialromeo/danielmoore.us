@@ -174,7 +174,6 @@ I hope you have a good time here. Thanks for dropping by.
 * "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html#main)" by Seshadri Kumar (This is the end.)
 * "[The Disappearance of the Hit-Driven Business Model](https://dearproducer.com/the-disappearance-of-the-hit-driven-business#main)" by Chris Moore (Mediocrity won.)
 * "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Apres Boomers, le deluge.)
-* "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkatesh Rao (Organizational politics demystified.)
 * "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
 * "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch)" by Scott Alexander (Why we run ever-faster just to stay in place.)
 * "[Return From U.S. To India](https://cubicledog.substack.com/p/ive-started-my-fire-journey-in-india)" by CubicleDog (As globalization transforms, time to cash out.)
@@ -184,6 +183,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Will ChatGPT Replace Human Software Developers?](https://aista.hashnode.dev/will-chatgpt-replace-human-software-developers)" by Aista (The short answer is yes.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
+* "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkatesh Rao (Organizational politics demystified.)
         <li>Time limit is one hour. After an hour, all chips are tallied and cashed in.</li>
         <li>Spread limits are two dollars for the first two rounds of betting, four dollars for the second two.</li>
     <p>"For to him who has will more be given, and from him who has not, even what he thinks that he has &nbsp;will be taken away." &ndash; <a href="https://en.wikipedia.org/wiki/Matthew_effect">Luke 8:18</a></p>
@@ -249,7 +249,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*A Clash of Kings*](https://www.goodreads.com/notes/6584437-a-clash-of-kings/71655209-daniel-moore) by [George R. R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin) (Living history is written in blood.)
 * [*The Long Walk*](https://www.goodreads.com/notes/28165439-the-long-walk/71655209-daniel-moore) by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) (Masculinity in a nutshell.)
 * [*Pet Sematary*](https://www.goodreads.com/notes/45030607-pet-sematary/71655209-daniel-moore) by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) (Death makes a mockery of everything.)
-* [*The Stars My Destination*](https://www.goodreads.com/notes/61330329-the-stars-my-destination/71655209-daniel-moore) by [Alfred Bester](https://en.wikipedia.org/wiki/Alfred_Bester) (
+* [*The Stars My Destination*](https://www.goodreads.com/notes/61330329-the-stars-my-destination/71655209-daniel-moore) by [Alfred Bester](https://en.wikipedia.org/wiki/Alfred_Bester) (Hypnotic in its intensity.)
 * [*Submission*](https://www.goodreads.com/notes/25349247-submission/71655209-daniel-moore) by [Michel Houellebecq](https://en.wikipedia.org/wiki/Michel_Houellebecq) (Prescient satire of the "end of history".)
 * [*Things Fall Apart*](https://www.goodreads.com/notes/55468022-things-fall-apart/71655209-daniel-moore) by [Chinua Achebe](https://en.wikipedia.org/wiki/Chinua_Achebe) (Surreal reflections on Western imperialism.)
 * [*The White Tiger*](https://www.goodreads.com/notes/32574786-the-white-tiger/71655209-daniel-moore) by [Aravind Adiga](https://en.wikipedia.org/wiki/Aravind_Adiga) (Required reading for the Indian diaspora.)
