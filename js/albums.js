@@ -2631,7 +2631,7 @@ const albums = [
 "Tori Amos|From the Choirgirl Hotel|1998|PLPaztBWnatciK7hRbjw7cBZgZN5BYU3Pq|A3719|From the Choirgirl Hotel|Tori Amos|Art Pop;Singer/Songwriter;Pop",
 "Boredoms|Vision Creation Newsun|1999|PLD907EDCA6977DFF4|A4872|Vision Creation Newsun|Boredoms|Experimental Rock;Psychedelic Rock;Rock",
 "The Incredible String Band|The 5000 Spirits or the Layers of the Onion|1967|PLkkVhQpGemX5KYNgCiK6SOxb63XOLYn_I|A2174|The 5000 Spirits or the Layers of the Onion|The Incredible String Band|Psychedelic Folk;Contemporary Folk;Folk",
-"The Supremes|The Supremes Sing Holland-Dozier-Holland/The Supremes Sing Motown|1967|PLAL6esrXaUi1OpLLkSuvzmeznenKxNWGW|A1298|The Supremes Sing Motown|Diana Ross|Girl Group;Pop Soul;Pop;R&B;Soul",
+"The Supremes|The Supremes Sing Holland-Dozier-Holland|1967|PLAL6esrXaUi1OpLLkSuvzmeznenKxNWGW|A1298|The Supremes Sing Motown|Diana Ross|Girl Group;Pop Soul;Pop;R&B;Soul",
 "LTJ Bukem|Logical Progression|1996|PLq2kODvoN0eUvuK_uqSi0zk3_q9scE0hy|A2996|LTJ Bukem|LTJ Bukem|Atmospheric Drum and Bass;Dance;Drum and Bass;Electronic;Electronic Dance Music",
 "The Fall|Live at the Witch Trials|1979|PLa7DwXF9n16GVVcejN4PY31QfHOeVQyNv|A2770|Live at the Witch Trials|The Fall (band)|Post-Punk;Rock",
 "The Hives|Veni Vidi Vicious|2000|PLVhcsdnuRjKz4sA47X_oznI5AcUsLHel0|A3813|Veni Vidi Vicious|The Hives|Garage Punk;Garage Rock Revival;Garage Rock;Punk Rock;Rock",
