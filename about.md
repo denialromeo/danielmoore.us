@@ -249,7 +249,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*A Clash of Kings*](https://www.goodreads.com/notes/6584437-a-clash-of-kings/71655209-daniel-moore) by [George R. R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin) (Living history is written in blood.)
 * [*The Long Walk*](https://www.goodreads.com/notes/28165439-the-long-walk/71655209-daniel-moore) by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) (Masculinity in a nutshell.)
 * [*Pet Sematary*](https://www.goodreads.com/notes/45030607-pet-sematary/71655209-daniel-moore) by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) (Death makes a mockery of everything.)
-* [*The Stars My Destination*](https://www.goodreads.com/notes/61330329-the-stars-my-destination/71655209-daniel-moore) by [Alfred Bester](https://en.wikipedia.org/wiki/Alfred_Bester) (Hypnotic in its intensity.)
 * [*Submission*](https://www.goodreads.com/notes/25349247-submission/71655209-daniel-moore) by [Michel Houellebecq](https://en.wikipedia.org/wiki/Michel_Houellebecq) (Prescient satire of the "end of history".)
 * [*Things Fall Apart*](https://www.goodreads.com/notes/55468022-things-fall-apart/71655209-daniel-moore) by [Chinua Achebe](https://en.wikipedia.org/wiki/Chinua_Achebe) (Surreal reflections on Western imperialism.)
 * [*The White Tiger*](https://www.goodreads.com/notes/32574786-the-white-tiger/71655209-daniel-moore) by [Aravind Adiga](https://en.wikipedia.org/wiki/Aravind_Adiga) (Required reading for the Indian diaspora.)
