@@ -4720,7 +4720,7 @@ const songs = [
 "Destiny's Child|Bills, Bills, Bills|1999|NiF6-0UTqtc|Destiny's Child|S2376|Contemporary R&B;Pop;R&B",
 "The Human Beinz|Nobody But Me|1967|f3HpZNE1Z9k|The Human Beinz|S6753|Garage Rock;Rhythm & Blues;R&B;Rock",
 "Nada Surf|Popular|1996|hAFuD-S-e_E|Nada Surf|S7659|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
-"De La Soul|Buddy|1989|vNVdnNvo9Xk|De La Soul|S2001|East Coast Hip Hop;Hip Hop",
+"De La Soul|Buddy|1989|NTkxCwEZx3A|De La Soul|S2001|East Coast Hip Hop;Hip Hop",
 "Paul McCartney|Another Day|1971|hhoiwDLVTnE|Linda McCartney|S7870|Pop Rock;Pop;Rock",
 "Sinéad O'Connor|Troy|1987|0c4v7fp5GC8|Sinéad O'Connor|S3674|Art Pop;Pop",
 "OMC|How Bizarre|1995|C2cMG33mWVY|OMC (band)|S3679|Dance-Pop;Dance;Pop",
