@@ -1,22 +1,28 @@
 {
 	"pages": [
 		{
-			"author": "David Hine",
-			"title": "Strange Embrace",
+			"author": "Alan Moore",
+			"title": "Providence",
 			"amazon": "",
-			"link": "assets/img/comics/strange-embrace/01.jpg"
+			"link": "assets/img/comics/providence/01.jpg"
 		},
 		{
-			"author": "David Hine",
-			"title": "Strange Embrace",
+			"author": "Alan Moore",
+			"title": "Providence",
 			"amazon": "",
-			"link": "assets/img/comics/strange-embrace/02.jpg"
+			"link": "assets/img/comics/providence/02.jpg"
 		},
 		{
-			"author": "David Hine",
-			"title": "Strange Embrace",
+			"author": "Alan Moore",
+			"title": "Providence",
 			"amazon": "",
-			"link": "assets/img/comics/strange-embrace/03.jpg"
+			"link": "assets/img/comics/providence/03.jpg"
+		},
+		{
+			"author": "Alan Moore",
+			"title": "Providence",
+			"amazon": "",
+			"link": "assets/img/comics/providence/04.jpg"
 		}
 	]
 }
