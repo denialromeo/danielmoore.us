@@ -554,10 +554,9 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/01.jpg" itemprop="contentUrl" data-size="1280x1990"><img style="border: 1px solid black;" src="/assets/img/comics/neonomicon/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Neonomicon</i> by Alan Moore</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/02.jpg" itemprop="contentUrl" data-size="1280x1989"><img src="/assets/img/comics/neonomicon/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/03.jpg" itemprop="contentUrl" data-size="1280x1988"><img src="/assets/img/comics/neonomicon/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/04.jpg" itemprop="contentUrl" data-size="1280x2004"><img src="/assets/img/comics/neonomicon/04.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/batman2/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/batman2/01.jpg"/></a><figcaption itemprop="caption description"><p><i>All-Star Batman and Robin the Boy Wonder</i> by Frank Miller</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/batman2/02.jpg" itemprop="contentUrl" data-size="3975x3056"><img src="/assets/img/comics/batman2/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/batman2/03.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/batman2/03.jpg"/></a></figcaption></figure>
 </div>
 
 <div id="clear"></div>
@@ -612,9 +611,10 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/batman2/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/batman2/01.jpg"/></a><figcaption itemprop="caption description"><p><i>All-Star Batman and Robin the Boy Wonder</i> by Frank Miller</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/batman2/02.jpg" itemprop="contentUrl" data-size="3975x3056"><img src="/assets/img/comics/batman2/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/batman2/03.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/batman2/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/01.jpg" itemprop="contentUrl" data-size="1280x1990"><img style="border: 1px solid black;" src="/assets/img/comics/neonomicon/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Neonomicon</i> by Alan Moore</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/02.jpg" itemprop="contentUrl" data-size="1280x1989"><img src="/assets/img/comics/neonomicon/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/03.jpg" itemprop="contentUrl" data-size="1280x1988"><img src="/assets/img/comics/neonomicon/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/04.jpg" itemprop="contentUrl" data-size="1280x2004"><img src="/assets/img/comics/neonomicon/04.jpg"/></a></figcaption></figure>
 </div>
 
 <div id="clear"></div>
