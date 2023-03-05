@@ -147,7 +147,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#philosophy-books}
 **Philosophy Books**
 
-* [*The Analects*](http://wengu.tartarie.com/wg/wengu.php?l=Lunyu&no=0) by [Kong Fuzi](https://en.wikipedia.org/wiki/Confucius) (Building a society that works starts from the bottom.)
+* [*The Analects*](http://classics.mit.edu/Confucius/analects.1.1.html) by [Kong Fuzi](https://en.wikipedia.org/wiki/Confucius) (Building a society that works starts from the bottom.)
 * [*The Art of War*](http://classics.mit.edu/Tzu/artwar.html) by [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu) (Conflict is the default state for all life.)
 * [*The Book of Five Rings*](https://www.goodreads.com/notes/31197112-the-book-of-five-rings/71655209-daniel-moore) by [Miyamoto Musashi](https://en.wikipedia.org/wiki/Miyamoto_Musashi) (From one thing, know ten thousand things.)
 * [*Certain to Win*](https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore) by [Chet Richards](https://slightlyeastofnew.com/page-1/) (How to outmaneuver and defeat much larger enemies.)
