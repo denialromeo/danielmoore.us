@@ -3195,7 +3195,7 @@ const songs = [
 "Steely Dan|Peg|1977|LI7NDDQLvbo|Steely Dan|S8556|Jazz-Rock;Yacht Rock;Pop;Pop Rock;Rock",
 "DJ Jazzy Jeff & The Fresh Prince|Summertime|1991|Kr0tTbTbmVA|DJ Jazzy Jeff & The Fresh Prince|S3340|East Coast Hip Hop;Pop Rap;Hip Hop",
 "Nas|Made You Look|2002|DhPtRA7zieE|Nas|S3654|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop",
-"Super Furry Animals|The Man Don't Give a Fuck|1996|KkdYpD6-VXU|Super Furry Animals|S2127|Indie Pop;Neo-Psychedelia;Power Pop;Pop;Pop Rock;Psychedelic Rock;Rock",
+"Super Furry Animals|The Man Don't Give a Fuck|1996|a5N68RIZM8c|Super Furry Animals|S2127|Indie Pop;Neo-Psychedelia;Power Pop;Pop;Pop Rock;Psychedelic Rock;Rock",
 "Erroll Garner|Misty|1954|P_tAU3GM9XI|Erroll Garner|S2774|Bebop;Stride;American Folk Music;Folk;Jazz;Ragtime;Regional Music;Traditional Folk Music",
 "The Rolling Stones|Let It Bleed|1969|8j1vE-SBPLg|The Rolling Stones|S8218|Blues Rock;Rock",
 "Frankie Ford|Sea Cruise|1958|i5tIHtbctFQ?start=22|Frankie Ford|S1195|New Orleans R&B;Rock & Roll;R&B;Rock",
