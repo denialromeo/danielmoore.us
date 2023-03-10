@@ -154,6 +154,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Certain to Win*](https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore) by [Chet Richards](https://slightlyeastofnew.com/page-1/) (How to outmaneuver and defeat much larger enemies.)
 * [*The Complete Works*](https://www.goodreads.com/notes/29997711-the-collected-works-of-arthur-schopenhauer/71655209-daniel-moore) by [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (Patron saint of intellectuals.)
 * [*Disciplined Minds*](/disciplined-minds) by [Jeff Schmidt](https://disciplinedminds.tripod.com/) (Thriving in the white-collar workplace.)
+* [*The 48 Laws of Power*](https://www.goodreads.com/notes/36548138-the-48-laws-of-power/71655209-daniel-moore) by [Robert Greene](https://en.wikipedia.org/wiki/Robert_Greene) (Either exercise power or have it exercised on you.)
 * [*Poker For Dummies*](https://www.goodreads.com/notes/19378414-poker-for-dummies/71655209-daniel-moore) by [Richard Harroch](https://www.linkedin.com/in/richard-d-harroch-15253a3/) (Works as a metaphor for pretty much everything.)
 * [*Straw Dogs*](https://www.goodreads.com/notes/29767507-straw-dogs/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (Breaking free of monotheistic orthodoxy.)
 * [*The Trouble with Being Born*](https://www.goodreads.com/notes/50757709-the-trouble-with-being-born/71655209-daniel-moore) by [Emil Cioran](https://en.wikipedia.org/wiki/Emil_Cioran) (Resignation is only the beginning.)
@@ -162,7 +163,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Economics Books**
 
 * [*The Case Against Education*](https://www.goodreads.com/notes/52147324-the-case-against-education/71655209-daniel-moore) by [Bryan Caplan](http://www.bcaplan.com/) (We waste a third of our lives social signaling.)
-* [*The Great Convergence*](https://www.goodreads.com/notes/33287012-the-great-convergence/71655209-daniel-moore) by [Richard Baldwin](https://en.wikipedia.org/wiki/Richard_Baldwin_(economist)) (Outsourced remote work and AI are the future.)
+* [*The Great Convergence*](https://www.goodreads.com/notes/33287012-the-great-convergence/71655209-daniel-moore) by [Richard Baldwin](https://en.wikipedia.org/wiki/Richard_Baldwin_(economist)) (Wealth's journey from East to West and back.)
 * [*The India Way*](https://www.goodreads.com/notes/54627411-the-india-way/71655209-daniel-moore) by [Subrahmanyam Jaishankar](https://en.wikipedia.org/wiki/S._Jaishankar) (Moving up in the world as a middle power.)
 * [*The Neoliberal Endgame*](https://www.goodreads.com/notes/20574045-the-falling-rate-of-learning-and-the-neoliberal-endgame/71655209-daniel-moore) by [David Blacker](https://www.cehd.udel.edu/faculty-bio/david-blacker/) (America's destiny, as set forth by Nixon.)
 * [*Open Borders*](https://www.amazon.com/dp/1250316960) by [Bryan Caplan](https://en.wikipedia.org/wiki/Bryan_Caplan) (Immigration restrictions make no economic sense.)
