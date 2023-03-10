@@ -885,7 +885,7 @@ const albums = [
 "Belle and Sebastian|Tigermilk|1996|PLECC595F1DA16B7C3|A981|Tigermilk|Belle and Sebastian|Chamber Pop;Twee Pop;Baroque Pop;Indie Pop;Pop",
 "Simon and Garfunkel|Sounds of Silence|1966|PLL-NbN8uTOiitYaDdzabbfJLMMB4wAvCe|A77|Sounds of Silence|Simon & Garfunkel|Folk Pop;Folk Rock;Contemporary Folk;Folk;Pop;Rock",
 "The Beatles|Beatles for Sale/Beatles '65|1964|PLzTW6ph_i-KTo8gC_IV7m00TqJ8-Sug2x|A7|Beatles for Sale|The Beatles|Merseybeat;Beat Music;Pop;Pop Rock;Rock",
-"The Weeknd|House of Balloons/Trilogy|2011|PL_ZnCc_3LyhmvIAZoY80JbgNkMyWivEOq|A5180|Trilogy (The Weeknd album)|The Weeknd|Alternative R&B;Contemporary R&B;R&B",
+"The Weeknd|House of Balloons/Trilogy|2011|PLks3NpQP6i_bTGNnxONBNi0TbwMR9VYbo|A5180|Trilogy (The Weeknd album)|The Weeknd|Alternative R&B;Contemporary R&B;R&B",
 "Grandaddy|The Sophtware Slump|2000|PLmeF3g_kh5ylAkxgIpPQLZhsnhP-jr2Kn|A1096|The Sophtware Slump|Grandaddy|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
 "Horace Silver|Song for My Father|1965|PL68FF74CDEBB152A2|A1950|Song for My Father (album)|Horace Silver|Hard Bop;Bebop;Jazz",
 "R.E.M.|Green|1988|PLX6zIVM97wXASqcTA-JSBbjat6DIe000d|A726|Green (R.E.M. album)|R.E.M.|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",

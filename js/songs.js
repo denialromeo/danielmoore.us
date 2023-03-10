@@ -6448,7 +6448,7 @@ const songs = [
 "Laurent Voulzy|Belle-Île-en-Mer, Marie-Galante|1985|B7ia4z4snDY|Laurent Voulzy|S11375|French Pop;Synthpop;Electronic;Pop",
 "Valee feat. Jeremih|Womp Womp|2018|mZz7sfwnz-o|Valee|S16566|Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "The Supremes|Back in My Arms Again|1965|hSkHFc240nY|Diana Ross|S8648|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul",
-"Charles Aznavour|La Mamma|1963|mCDbvxeJVhc?start=10|Charles Aznavour|S10373|Chanson à texte;Chanson;Regional Music;Singer/Songwriter",
+"Charles Aznavour|La Mamma|1963|ADYDZMc1GbU|Charles Aznavour|S10373|Chanson à texte;Chanson;Regional Music;Singer/Songwriter",
 "The Andrews Sisters|Rum and Coca-Cola|1944|WiayZdPESno|The Andrews Sisters|S14065|Calypso;Vocal Group;Caribbean Music;Descriptor;Regional Music",
 "Grace Jones|Nightclubbing|1981|grJiFTEGWAg|Grace Jones|S4561|Art Pop;Dub;Caribbean Music;Jamaican Music;Pop;Reggae;Regional Music",
 "Wild Beasts|Wanderlust|2014|9IIbbFIQTKI|Wild Beasts|S9589|Art Pop;Synthpop;Electronic;Pop",
