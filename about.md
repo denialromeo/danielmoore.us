@@ -163,6 +163,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Economics Books**
 
 * [*The Case Against Education*](https://www.goodreads.com/notes/52147324-the-case-against-education/71655209-daniel-moore) by [Bryan Caplan](http://www.bcaplan.com/) (We waste a third of our lives social signaling.)
+* [*Debt: The First 5,000 Years*](https://www.goodreads.com/notes/23814811-debt---updated-and-expanded/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (Modern finance is rooted in medieval Europe.)
 * [*The Great Convergence*](https://www.goodreads.com/notes/33287012-the-great-convergence/71655209-daniel-moore) by [Richard Baldwin](https://en.wikipedia.org/wiki/Richard_Baldwin_(economist)) (Wealth's journey from East to West and back.)
 * [*The India Way*](https://www.goodreads.com/notes/54627411-the-india-way/71655209-daniel-moore) by [Subrahmanyam Jaishankar](https://en.wikipedia.org/wiki/S._Jaishankar) (Moving up in the world as a middle power.)
 * [*The Neoliberal Endgame*](https://www.goodreads.com/notes/20574045-the-falling-rate-of-learning-and-the-neoliberal-endgame/71655209-daniel-moore) by [David Blacker](https://www.cehd.udel.edu/faculty-bio/david-blacker/) (America's destiny, as set forth by Nixon.)
@@ -207,7 +208,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*American Kompromat*](https://www.goodreads.com/notes/56605449-american-kompromat/71655209-daniel-moore) by [Craig Unger](https://en.wikipedia.org/wiki/Craig_Unger) (Trump being a Russian asset explains a lot.)
 * [*The Book of Islamic Dynasties*](https://www.goodreads.com/notes/25056329-the-book-of-islamic-dynasties/71655209-daniel-moore) by [Luqman Nagy](https://www.tahapublishers.com/search.asp?brand=Luqman+Nagy) (Eurasia's past, present, and future.)
-* [*Debt: The First 5,000 Years*](https://www.goodreads.com/notes/23814811-debt---updated-and-expanded/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (Modern finance is rooted in medieval Europe.)
 * [*The Great Speeches of Modern India*](https://www.goodreads.com/notes/20558716-the-great-speeches-of-modern-india/71655209-daniel-moore) by [Rudrangshu Mukherjee](https://en.wikipedia.org/wiki/Rudrangshu_Mukherjee) (Such squandered potential.)
 * [*Late Victorian Holocausts*](https://www.goodreads.com/notes/19323009-late-victorian-holocausts/71655209-daniel-moore) by [Mike Davis](https://en.wikipedia.org/wiki/Mike_Davis_(scholar)) (50 million forgotten murders.)
 * [*A Most Holy War*](https://www.goodreads.com/notes/19261923-a-most-holy-war/71655209-daniel-moore) by [Mark Pegg](https://en.wikipedia.org/wiki/Mark_Gregory_Pegg) (Western civilization's roots.)
