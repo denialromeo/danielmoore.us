@@ -42,6 +42,13 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Honorable mentions go to Leonid Brezhnev, Indira Gandhi, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Qian Xuesen, Ronald Reagan, Boris Yeltsin, Jiang Zemin, Ho Chi Minh, Adolf Hitler, and Albert Einstein.</li>
     </ul>
     <hr>
+    {%comment%}
+    <p>Some political statements I believe &ndash;</p>
+    <ul>
+        <li>The U.S. Constitution is an explicitly white supremacist document which grants the same number of senators to North and South Dakota as it does to California and New York.</li>
+        <li>Benevolent dictatorship is the best form of government. Democracy is simply vulgar mob rule.</li>
+    </ul>
+    {%endcomment%}
     <p>Some predictions for the near future &ndash;</p>
     <ul>
         <li>Interest rates will remain elevated indefinitely. <a href="https://fred.stlouisfed.org/series/FEDFUNDS">Historically</a>, rates have averaged at around 6%. The housing market may crash and never recover. So may most tech stocks.</li>
