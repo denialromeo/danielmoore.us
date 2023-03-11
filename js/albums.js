@@ -1935,7 +1935,7 @@ const albums = [
 "Sonny Rollins|Freedom Suite|1958|PLccpwGk_xup8qojzNolDWJZHcFYwwR70y|A1850|Freedom Suite (Sonny Rollins album)|Sonny Rollins|Hard Bop;Bebop;Jazz",
 "Herbie Hancock|Takin' Off|1962|PL406ACC72092EF26C|A1916|Takin' Off|Herbie Hancock|Hard Bop;Modal Jazz;Post-Bop;Bebop;Jazz",
 "Donny Hathaway|Extension of a Man|1973|PLMD9X0rJLX6YwCFnlJDhP4EcW9G1ntcPY|A2492|Extension of a Man|Donny Hathaway|Soul;R&B",
-"Albert Collins|Ice Pickin'|1978|PL2FLxajeSGID25Dkj1vQmWCfeO0F5rUeH|A1451|Ice Pickin'|Albert Collins|Electric Texas Blues;Blues;Electric Blues",
+"Albert Collins|Ice Pickin'|1978|PLOFsCPXqLYfqu4tI0hDdoBKX6-NQkOHJs|A1451|Ice Pickin'|Albert Collins|Electric Texas Blues;Blues;Electric Blues",
 "Alain Bashung|Play Blessures|1982|PLq7MWRGJO0XytVhYQgaFlMEBAFxQ-_38K|A4668|Play blessures|Alain Bashung|Coldwave;New Wave;Post-Punk;Rock",
 "Rahsaan Roland Kirk|The Inflated Tear|1968|PL9GoNJY3YRyNaMnSrY8RNXhpLrKZgHk44|A1985|The Inflated Tear|Rahsaan Roland Kirk|Post-Bop;Bebop;Jazz",
 "Flipper|Album - Generic Flipper|1982|PLCx_l3FfC444zcXX4LnNTav_KHOM0XGpc|A532|Album – Generic Flipper|Flipper (band)|Noise Rock;Punk Rock;Rock",
