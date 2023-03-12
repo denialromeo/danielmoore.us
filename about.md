@@ -48,7 +48,6 @@ I hope you have a good time here. Thanks for dropping by.
         <li>The U.S. Constitution is an explicitly white supremacist document which grants the same number of senators to North and South Dakota as it does to California and New York.</li>
         <li>Benevolent dictatorship is the best form of government. Democracy is simply vulgar mob rule.</li>
     </ul>
-    {%endcomment%}
     <p>Some predictions for the near future &ndash;</p>
     <ul>
         <li>Interest rates will remain elevated indefinitely. <a href="https://fred.stlouisfed.org/series/FEDFUNDS">Historically</a>, rates have averaged at around 6%. The housing market may crash and never recover. So may most tech stocks.</li>
@@ -56,6 +55,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>The 2022 Russian invasion of Ukraine was the beginning of World War 3, which will unfold over the next decade. This is not unlike the 1914 assassination of Archduke Franz Ferdinand.</li>
     </ul>
     <hr>
+    {%endcomment%}
 </div>
 
 <a href="javascript:;" id="dropdown" target="_self"><b>Investing Rules</b></a>
