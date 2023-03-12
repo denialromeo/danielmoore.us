@@ -1091,7 +1091,7 @@ const albums = [
 "The Waterboys|Fisherman's Blues|1988|PLX66jEixZe1zA2-2m5oNuI5HKgtHp4td9|A731|Fisherman's Blues|The Waterboys|Celtic Rock;Folk Rock;Rock",
 "The Waterboys|This Is the Sea|1985|https://www.youtube.com/embed/eIE-ln2vEF4|A646|This Is the Sea|The Waterboys|Folk Rock;Pop Rock;Pop;Rock",
 "Kiss|Destroyer|1976|PLqBuZsPcSir4j-P_c0GoQZXequ956Gjz9|A386|Destroyer (Kiss album)|Kiss (band)|Hard Rock;Rock",
-"Eurythmics|Sweet Dreams (Are Made of This...)|1983|PLAvwWvZ1EH1VcbaO3llhKB2TOWs2r-xGr|A581|Sweet Dreams (Are Made of This) (album)|Eurythmics|New Wave;Synthpop;Electronic;Pop;Rock",
+"Eurythmics|Sweet Dreams (Are Made of This...)|1983|PLiMAkjqsDYt6qjGgTIMsleAf-qUCq6Z8G|A581|Sweet Dreams (Are Made of This) (album)|Eurythmics|New Wave;Synthpop;Electronic;Pop;Rock",
 "Guided by Voices|Alien Lanes|1995|PLpQTbUxaLL5OBv7lem1QnVjDyR5osPFG0|A3562|Alien Lanes|Guided by Voices|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock",
 "Peter Brötzmann|Machine Gun|1968|PLvoZaiJxlNqiQENTjsa5CfiQels6OO6tA|A2232|Machine Gun (Peter Brötzmann album)|Peter Brötzmann|European Free Jazz;Avant-Garde Jazz;Free Jazz;Jazz",
 "The Libertines|The Libertines|2004|PLMNp8JUUBY1bn23rDtHaVKflJRrYIRn_u|A4060|The Libertines (album)|The Libertines|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock",
