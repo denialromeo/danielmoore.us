@@ -94,6 +94,12 @@ I hope you have a good time here. Thanks for dropping by.
         <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Low&#8209;cost but effective CGI. Darker-skinned actors, shot on location in India.</li>
         <li><a href="https://store.steampowered.com/app/474750/Reigns"><i>Reigns</i></a>, but you play as major figures from Chinese history. In-browser, HTML5/CSS.</li>
     </ul>
+    <p>Some pie-in-the-sky non-profit ideas &ndash;</p>
+    <ul>
+        <li>One that conducts mass IQ testing of low-income children in India and provides free schooling and accommodation for the families of top performers.</li>
+        <li>One that sets up marriages between low-income American women and educated foreign men to circumvent U.S. immigration laws.</li>
+    </ul>
+    <p>For above, all financial details should be transparent and public. Every dollar accounted for.</p>
 </div>
  
 # Favorite
