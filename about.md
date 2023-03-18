@@ -123,7 +123,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [iBUYPOWER Pre-Built Gaming PC](https://www.ibuypower.com/gaming-pcs) (For work and play.)
 * [Redify Jump Rope](https://www.amazon.com/gp/product/B086XC32L2) (Rainy-day cardio.)
 * [StriveZen 2-Month View Wall Calendar](https://www.amazon.com/Calendar-2019-2020-StriveZen-Monthly-Vertical/dp/B07T6C13JD) (Record weight, reps/sets, diet, important dates, etc.)
-* [TeamMe Computer Desk](https://www.walmart.com/ip/Computer-Desk-Storage-Hutch-Pull-Out-Keyboard-Tray-Several-Bookshelves-63-4-L-x-18-1-W-46-1-H-Cabinet-Study-Workstation-Home-Office-White/445234806) (Maximum productivity.)
 * [Vive Wrist Brace](https://www.amazon.com/gp/product/B077BPYK5S/) (Type for ten hours a day.)
 
 {:#desktop-software}
@@ -200,6 +199,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Will ChatGPT Replace Human Software Developers?](https://aista.hashnode.dev/will-chatgpt-replace-human-software-developers)" by Aista (The short answer is yes.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
+* [TeamMe Computer Desk](https://www.walmart.com/ip/Computer-Desk-Storage-Hutch-Pull-Out-Keyboard-Tray-Several-Bookshelves-63-4-L-x-18-1-W-46-1-H-Cabinet-Study-Workstation-Home-Office-White/445234806) (Maximum productivity.)
 * "[The Disappearance of the Hit-Driven Business Model](https://dearproducer.com/the-disappearance-of-the-hit-driven-business#main)" by Chris Moore (Mediocrity won.)
 * "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkatesh Rao (Organizational politics demystified.)
         <li>Time limit is one hour. After an hour, all chips are tallied and cashed in.</li>
