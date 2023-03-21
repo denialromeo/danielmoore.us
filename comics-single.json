@@ -1,16 +1,28 @@
 {
 	"pages": [
 		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
+			"author": "Osamu Tezuka",
+			"title": "Buddha",
 			"amazon": "",
-			"link": "assets/img/comics/sandman11/01.jpg"
+			"link": "assets/img/comics/buddha4/01.png"
 		},
 		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
+			"author": "Osamu Tezuka",
+			"title": "Buddha",
 			"amazon": "",
-			"link": "assets/img/comics/sandman11/02.jpg"
+			"link": "assets/img/comics/buddha4/02.png"
+		},
+		{
+			"author": "Osamu Tezuka",
+			"title": "Buddha",
+			"amazon": "",
+			"link": "assets/img/comics/buddha4/03.png"
+		},
+		{
+			"author": "Osamu Tezuka",
+			"title": "Buddha",
+			"amazon": "",
+			"link": "assets/img/comics/buddha4/04.png"
 		}
 	]
 }
