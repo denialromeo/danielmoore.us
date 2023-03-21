@@ -1,28 +1,22 @@
 {
 	"pages": [
 		{
-			"author": "Alan Moore",
-			"title": "Providence",
+			"author": "Osamu Tezuka",
+			"title": "Buddha",
 			"amazon": "",
-			"link": "assets/img/comics/providence/01.jpg"
+			"link": "assets/img/comics/buddha3/01.png"
 		},
 		{
-			"author": "Alan Moore",
-			"title": "Providence",
+			"author": "Osamu Tezuka",
+			"title": "Buddha",
 			"amazon": "",
-			"link": "assets/img/comics/providence/02.jpg"
+			"link": "assets/img/comics/buddha3/02.png"
 		},
 		{
-			"author": "Alan Moore",
-			"title": "Providence",
+			"author": "Osamu Tezuka",
+			"title": "Buddha",
 			"amazon": "",
-			"link": "assets/img/comics/providence/03.jpg"
-		},
-		{
-			"author": "Alan Moore",
-			"title": "Providence",
-			"amazon": "",
-			"link": "assets/img/comics/providence/04.jpg"
+			"link": "assets/img/comics/buddha3/03.png"
 		}
 	]
 }

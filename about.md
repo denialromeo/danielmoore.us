@@ -670,4 +670,12 @@ I hope you have a good time here. Thanks for dropping by.
 
 <div id="clear"></div>
 
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha3/01.png" itemprop="contentUrl" data-size="1300x1800"><img style="border: 1px solid black;" src="/assets/img/comics/buddha3/01.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha3/02.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha3/02.png"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha3/03.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha3/03.png"/></a></figcaption></figure>
+</div>
+
+<div id="clear"></div>
+
 <p class="photoswipe-caption-comic"><i>Click the pictures!</i></p>
