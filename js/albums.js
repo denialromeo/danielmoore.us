@@ -1303,7 +1303,7 @@ const albums = [
 "Orange Juice|You Can't Hide Your Love Forever|1982|PLy4u88AKUauIroK32YI6dk5SypuKwsSOi|A1476|You Can't Hide Your Love Forever|Orange Juice (band)|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Terry Riley|In C|1968|PL6GN7Ej4um2aQJNJBIzTIhqNDmb3HUYJ4|A1986|In C|Terry Riley|Indeterminacy;Minimalism;Classical Music;Experimental;Modern Classical",
 "Neil Young & Crazy Horse|Zuma|1975|PL_5DzaS57TVgpCOSrlfek2ERIZCIzy7wz|A349|Zuma (album)|Neil Young|Folk Rock;Singer/Songwriter;Rock",
-"Kate Bush|The Dreaming|1982|ERROR: Suitable playlist not found|A1485|The Dreaming (album)|Kate Bush|Art Pop;Progressive Pop;Pop",
+"Kate Bush|The Dreaming|1982|PLbouzmFCyUKadOXuaTupu3wGkwiYluiBJ|A1485|The Dreaming (album)|Kate Bush|Art Pop;Progressive Pop;Pop",
 "Santana|Santana|1969|PLcFBEzNiYPIh6QeETCRvvsjG0wa9P0uVX|A1230|Santana (1969 album)|Carlos Santana|Latin Rock;Hispanic Music;Latin American Music;Regional Music;Rock",
 "John Coltrane|John Coltrane and Johnny Hartman|1963|PLBb8tqXzZ4AQT3y4Js4YLGO6GaYG2MMmI|A1926|John Coltrane and Johnny Hartman|John Coltrane|Vocal Jazz;Jazz",
 "Blood, Sweat & Tears|Blood, Sweat & Tears|1969|PLbKhc0zgstPSgK_1DCZozw0pH7LhY3RD0|A1117|Blood, Sweat & Tears (Blood, Sweat & Tears album)|Blood, Sweat & Tears|Jazz-Rock;Rock",
