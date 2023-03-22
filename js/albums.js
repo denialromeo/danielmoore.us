@@ -121,7 +121,7 @@ const albums = [
 "Arcade Fire|The Suburbs|2010|PLLYRSl-pvlzCY4TcMoNBG8SD8LYWNud7M|A5053|The Suburbs|Arcade Fire|Indie Rock;Alternative Rock;Rock",
 "Dr. Dre|The Chronic|1992|PLxs2jjSwI-sJVEHh_mdGgQUtPKodtJnpe|A853|The Chronic|Dr. Dre|G-Funk;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "David Bowie|Low|1977|PLiN-7mukU_REnx_JyyDIB0ZnV7i6c6mIv|A397|Low (David Bowie album)|David Bowie|Art Rock;Experimental Rock;Rock",
-"Pixies|Surfer Rosa|1988|PLdB2qly-JTgCFQ7fFQv0hJUh_5zf3dEGS|A722|Surfer Rosa|Pixies (band)|Indie Rock;Alternative Rock;Rock",
+"Pixies|Surfer Rosa|1988|PL2Kt87NbIXSX2-eD_LBXN5j_9cXeZEwpx|A722|Surfer Rosa|Pixies (band)|Indie Rock;Alternative Rock;Rock",
 "Jay-Z|The Blueprint|2001|PL1rbGi5bgBEHJ8Xc242vBijWNRQcXNEVX|A1206|The Blueprint 3|Jay-Z|Hip Hop",
 "Beyoncé|Lemonade|2016|PLZenj3su2HEp_MXS5LdptrNHRRcx4nRED|A5701|Lemonade (Beyoncé album)|Beyoncé|Contemporary R&B;Pop;R&B",
 "Iggy and The Stooges|Raw Power|1973|PLI21Mpk0oq-X8jUT55qPHLvZns-mXRhEw|A274|Raw Power|The Stooges|Garage Rock;Hard Rock;Proto-Punk;Rock",
