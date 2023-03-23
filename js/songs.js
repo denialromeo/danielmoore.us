@@ -1958,7 +1958,7 @@ const songs = [
 "Yes|Owner of a Lonely Heart|1983|SVOuYquXuuc|Yes (band)|S1892|AOR;Pop Rock;Pop;Rock",
 "The Champs|Tequila|1958|U_JFLb1IItM|The Champs|S1227|Rock & Roll;Rock",
 "John Prine|Sam Stone|1971|Sl9ZkYViEIs|John Prine|S3732|Contemporary Folk;Country;Singer/Songwriter;Folk",
-"T. Rex|Metal Guru|1972|MQr9WbBfoD8|T. Rex (band)|S8664|Glam Rock;Rock",
+"T. Rex|Metal Guru|1972|tUqAGoPtfto|T. Rex (band)|S8664|Glam Rock;Rock",
 "Pixies|Here Comes Your Man|1989|tPgf_btTFlc|Pixies (band)|S3708|Indie Rock;Alternative Rock;Rock",
 "Cream|Badge|1969|0FGxH50WS7Q|Cream (band)|S3306|Blues Rock;Pop Rock;Pop;Rock",
 "Chick Webb|A-Tisket, A-Tasket|1938|o-jE2dV1e9g|Chick Webb|S2759|Swing;Vocal Jazz;Jazz",
