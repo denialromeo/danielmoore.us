@@ -83,6 +83,7 @@ I hope you have a good time here. Thanks for dropping by.
 <a href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
 <div id="instructions3" style="display:none;">
     <p>I take biweekly Telugu lessons through <a href="https://preply.com/en/tutor/906051">Preply</a>. I'm also thinking of learning Swahili and Tagalog. Eventually, I'd like to retire to India while spending the occasional year in Kenya or the Philippines.</p>
+    {%comment%}
     <p>My favorite group activity is playing poker (<a href="https://en.wikipedia.org/wiki/Texas_hold_'em">Texas hold'em</a>). Here's the rules at my house &ndash;</p>
     <ul>
         <li>20-dollar buy-in from each player. White <a href="https://www.amazon.com/gp/product/B0003I68RS">chips</a> are 50 cents, red chips are a dollar.</li>
@@ -91,6 +92,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>When only two players remain, the pot can be split and the game ended at any time.</li>
         <li>"Evaluate each holding at the flop in the right frame of mind. Don’t ask: Can I improve? &nbsp;Instead ask: What are my chances of being the clear winner at the end?" &ndash; <a href="https://www.goodreads.com/notes/19181632-thursday-night-poker/71655209-daniel-moore">Peter O. Steiner</a></li>
     </ul>
+    {%endcomment%}
     <p>Some (long-term) planned open-source projects &ndash;</p>
     <ul>
         <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Low&#8209;cost but effective CGI. Darker-skinned actors, shot on location in India.</li>
