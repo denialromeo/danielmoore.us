@@ -1,28 +1,34 @@
 {
 	"pages": [
 		{
-			"author": "Grant Morrison",
-			"title": "All-Star Superman",
+			"author": "Alan Moore",
+			"title": "The League of Extraordinary Gentlemen",
 			"amazon": "",
-			"link": "assets/img/comics/superman/1.jpg"
+			"link": "assets/img/comics/league/01.jpg"
 		},
 		{
 			"author": "Grant Morrison",
-			"title": "All-Star Superman",
+			"title": "All-Star league",
 			"amazon": "",
-			"link": "assets/img/comics/superman/2.jpg"
+			"link": "assets/img/comics/league/02.jpg"
 		},
 		{
 			"author": "Grant Morrison",
-			"title": "All-Star Superman",
+			"title": "All-Star league",
 			"amazon": "",
-			"link": "assets/img/comics/superman/3.jpg"
+			"link": "assets/img/comics/league/03.jpg"
 		},
 		{
 			"author": "Grant Morrison",
-			"title": "All-Star Superman",
+			"title": "All-Star league",
 			"amazon": "",
-			"link": "assets/img/comics/superman/4.jpg"
+			"link": "assets/img/comics/league/04.jpg"
+		},
+		{
+			"author": "Grant Morrison",
+			"title": "All-Star league",
+			"amazon": "",
+			"link": "assets/img/comics/league/05.jpg"
 		}
 	]
 }
