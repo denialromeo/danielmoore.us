@@ -907,7 +907,7 @@ const albums = [
 "Charles Mingus|Pithecanthropus Erectus|1956|PLvxWibFr0wiKGehvMWYz8qdGP_poDjaoq|A1797|Pithecanthropus Erectus (album)|Charles Mingus|Post-Bop;Bebop;Jazz",
 "Frankie Goes to Hollywood|Welcome to the Pleasuredome|1984|PLrpyDacBCh7CoOkt1otz8tphczKvJCOoC|A607|Welcome to the Pleasuredome|Frankie Goes to Hollywood|New Wave;Synthpop;Electronic;Pop;Rock",
 "Elastica|Elastica|1995|PLUo1lRxNwvLU-zPNFm_hmQHUYrJT_gUJ6|A935|Elastica (album)|Elastica|Britpop;Indie Rock;Alternative Rock;Pop;Pop Rock;Rock",
-"De La Soul|De La Soul Is Dead|1991|https://www.youtube.com/embed/m64AzWMVvXY|A1559|De La Soul Is Dead|De La Soul|Conscious Hip Hop;Hip Hop",
+"De La Soul|De La Soul Is Dead|1991|PLDqU_qDK23dtqJM9X55tRMRTdJ3w0wMkq|A1559|De La Soul Is Dead|De La Soul|Conscious Hip Hop;Hip Hop",
 "Linda Ronstadt|Heart Like a Wheel|1974|PLEditHKlAe036vCbDSLFjcYZO4wRa2L3t|A311|Heart Like a Wheel|Linda Ronstadt|Country Rock;Soft Rock;Pop;Pop Rock;Rock",
 "LCD Soundsystem|American Dream|2017|PLh_TeswTk7TSNLSJRs4psQpaaCCsLaYZr|A5936|American Dream (LCD Soundsystem album)|LCD Soundsystem|Dance-Punk;New Wave;Post-Punk;Rock",
 "Alice Cooper|Killer|1971|PLFOEKt6bIrVdCapgiX1oqB9t3LsgmoGN3|A237|Killer (Alice Cooper album)|Alice Cooper|Glam Rock;Hard Rock;Rock",

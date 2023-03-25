@@ -5027,7 +5027,7 @@ const songs = [
 "Cat Stevens|Matthew & Son|1966|2aZE6IUT408|Cat Stevens|S2279|Baroque Pop;Folk Pop;Contemporary Folk;Folk;Pop",
 "Acen|Trip II the Moon|1992|E8v7dRXuzEw|Acen Razvi|S2058|Breakbeat Hardcore;Breakbeat;Dance;Electronic;Electronic Dance Music;Hardcore [EDM]",
 "Judy Collins|Send in the Clowns|1975|KCE-Bijdvv0?start=5|Judy Collins|S7016|Adult Contemporary;Pop",
-"The Lightning Seeds|Pure|1989|TB7E4JEztds|The Lightning Seeds|S7261|Indie Pop;Synthpop;Electronic;Pop",
+"The Lightning Seeds|Pure|1989|HZFJVAaSOrE|The Lightning Seeds|S7261|Indie Pop;Synthpop;Electronic;Pop",
 "PJ Harvey|50 Ft. Queenie|1993|jKLiU7Hq93w|PJ Harvey|S2373|Alternative Rock;Noise Rock;Rock",
 "The Byrds|My Back Pages|1967|1G9TJk853ps|The Byrds|S9173|Folk Rock;Rock",
 "Flume feat. Kai|Never Be Like You|2016|-KPnyf8vwXI|Flume (musician)|S16085|Alternative R&B;Future Bass;Glitch Pop;Contemporary R&B;Dance;Electronic;Electronic Dance Music;Pop;R&B",
