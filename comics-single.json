@@ -2,33 +2,15 @@
 	"pages": [
 		{
 			"author": "Alan Moore",
-			"title": "The League of Extraordinary Gentlemen",
+			"title": "DC Universe",
 			"amazon": "",
-			"link": "assets/img/comics/league/01.jpg"
+			"link": "assets/img/comics/big-chill/01.jpg"
 		},
 		{
 			"author": "Grant Morrison",
 			"title": "All-Star league",
 			"amazon": "",
-			"link": "assets/img/comics/league/02.jpg"
-		},
-		{
-			"author": "Grant Morrison",
-			"title": "All-Star league",
-			"amazon": "",
-			"link": "assets/img/comics/league/03.jpg"
-		},
-		{
-			"author": "Grant Morrison",
-			"title": "All-Star league",
-			"amazon": "",
-			"link": "assets/img/comics/league/04.jpg"
-		},
-		{
-			"author": "Grant Morrison",
-			"title": "All-Star league",
-			"amazon": "",
-			"link": "assets/img/comics/league/05.jpg"
+			"link": "assets/img/comics/big-chill/02.jpg"
 		}
 	]
 }

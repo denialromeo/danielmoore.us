@@ -647,14 +647,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 <div id="clear"></div>
 
-{%comment%}
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sculptor/01.jpg" itemprop="contentUrl" data-size="1454x2060"><img style="border: 1px solid black;" src="/assets/img/comics/sculptor/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sculptor</i> by Scott McCloud</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sculptor/02.jpg" itemprop="contentUrl" data-size="1454x2060"><img src="/assets/img/comics/sculptor/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sculptor/03.jpg" itemprop="contentUrl" data-size="1454x2060"><img src="/assets/img/comics/sculptor/03.jpg"/></a></figcaption></figure>
-</div>
-{%endcomment%}
-
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/league/01.jpg" itemprop="contentUrl" data-size="1107x1670"><img style="border: 1px solid black;" src="/assets/img/comics/league/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The League of Extraordinary Gentlemen</i> by Alan Moore</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/league/02.jpg" itemprop="contentUrl" data-size="1107x1670"><img src="/assets/img/comics/league/02.jpg"/></a></figcaption></figure>
@@ -707,6 +699,19 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/superman/2.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/superman/2.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/superman/3.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/superman/3.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/superman/4.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/superman/4.jpg"/></a></figcaption></figure>
+</div>
+
+<div id="clear"></div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sculptor/01.jpg" itemprop="contentUrl" data-size="1454x2060"><img style="border: 1px solid black;" src="/assets/img/comics/sculptor/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sculptor</i> by Scott McCloud</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sculptor/02.jpg" itemprop="contentUrl" data-size="1454x2060"><img src="/assets/img/comics/sculptor/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sculptor/03.jpg" itemprop="contentUrl" data-size="1454x2060"><img src="/assets/img/comics/sculptor/03.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/big-chill/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/big-chill/01.jpg"/></a><figcaption itemprop="caption description"><p><i>DC Universe</i> by Alan Moore</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/big-chill/02.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/big-chill/02.jpg"/></a></figcaption></figure>
 </div>
 
 <div id="clear"></div>
