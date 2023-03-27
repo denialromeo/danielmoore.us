@@ -296,7 +296,6 @@ I hope you have a good time here. Thanks for dropping by.
 **Television**
 
 * [*Black Panther: Wakanda Forever*](https://www.disneyplus.com/movies/black-panther-wakanda-forever/7MAONYZ92wDT) by [Ryan Coogler](https://en.wikipedia.org/wiki/Ryan_Coogler) (Modern myth-making.)
-* [*Call Me by Your Name*](https://www.netflix.com/watch/80169498) by [Luca Guadagnino](https://en.wikipedia.org/wiki/Luca_Guadagnino) (Probes Western culture's homoeroticism.)
 * [*The Dark Knight Returns*](https://play.hbomax.com/page/urn:hbo:page:GXdu2TwrCwZuAuwEAADaR:type:feature) by [Frank Miller](https://en.wikipedia.org/wiki/Frank_Miller) (The rare adaptation that's superior to the source.)
 * [*Django Unchained*](https://www.paramountplus.com/movies/video/iNNNwA7EFAX3Tlrj8Eb6NyCKdbDtE5lt/) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Started a new wave of race-conscious cinema.)
 * [*Get Out*](https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1L8T75) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Every non-white can relate.)
