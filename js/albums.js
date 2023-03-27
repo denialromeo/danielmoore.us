@@ -1578,7 +1578,7 @@ const albums = [
 "Calexico|Feast of Wire|2003|PLA81CBD243CE98BB3|A3911|Feast of Wire|Calexico (band)|Alt-Country;Americana;Country",
 "Jessie Ware|Devotion|2012|PLQ8-2Oov9dwxUwaH9sOoK9Qrvx6q503Ib|A5248|Devotion (Jessie Ware album)|Jessie Ware|Alternative R&B;Contemporary R&B;R&B",
 "The Black Keys|El Camino|2011|PL81_CtYCym28wjmLK7DadBj3TVZB-FpMQ|A5129|El Camino (The Black Keys album)|The Black Keys|Blues Rock;Garage Rock;Rock",
-"The Good, the Bad & the Queen|The Good, the Bad and the Queen|2007|PLXa1bVJ8jv4-uZiR5x67hC2cfG_rzoMZ6|A4252|The Good, the Bad & the Queen (album)|The Good, the Bad & the Queen|Indie Rock;Alternative Rock;Rock",
+"The Good, the Bad & the Queen|The Good, the Bad and the Queen|2007|PLyxrGQX-rD8GHwyeew3j60Wf33BON53C4|A4252|The Good, the Bad & the Queen (album)|The Good, the Bad & the Queen|Indie Rock;Alternative Rock;Rock",
 "Gene Vincent and His Blue Caps|Gene Vincent and the Blue Caps|1957|PLNf28LT9IOhG48wcTd6xk4TIqmuGOCtvU|A27|Gene Vincent and the Blue Caps|Gene Vincent|Rockabilly;Rock;Rock & Roll",
 "Parliament|Funkentelechy vs. the Placebo Syndrome|1977|PL6RfHnUA3FwVx77-jloOK6h7iP3Nogjfh|A1156|Funkentelechy vs. the Placebo Syndrome|Parliament (band)|P-Funk;Funk;R&B",
 "Jethro Tull|Thick As a Brick|1972|PLz8rGWhQZSBbHd24Tnt15992siJAUeZC4|A1176|Thick as a Brick|Jethro Tull (band)|Progressive Rock;Rock",
