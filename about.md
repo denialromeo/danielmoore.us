@@ -189,6 +189,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Will ChatGPT Replace Human Software Developers?](https://aista.hashnode.dev/will-chatgpt-replace-human-software-developers)" by Aista (The short answer is yes.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
+* [*Nickel and Dimed*](https://www.goodreads.com/notes/8893315-nickel-and-dimed/71655209-daniel-moore) by [Barbara Ehrenreich](https://en.wikipedia.org/wiki/Barbara_Ehrenreich) (Poverty is expensive.)
 * [TeamMe Computer Desk](https://www.walmart.com/ip/Computer-Desk-Storage-Hutch-Pull-Out-Keyboard-Tray-Several-Bookshelves-63-4-L-x-18-1-W-46-1-H-Cabinet-Study-Workstation-Home-Office-White/445234806) (Maximum productivity.)
 * "[The Disappearance of the Hit-Driven Business Model](https://dearproducer.com/the-disappearance-of-the-hit-driven-business#main)" by Chris Moore (Mediocrity won.)
 * "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkatesh Rao (Organizational politics demystified.)
@@ -247,7 +248,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Governance of China*](https://www.goodreads.com/notes/24309365-xi-jinping-the-governance-of-china/71655209-daniel-moore) by [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping) (Perhaps the 21st century's most influential person.)
 * [*Hit Refresh*](https://www.goodreads.com/notes/31139580-hit-refresh/71655209-daniel-moore) by [Satya Nadella](https://en.wikipedia.org/wiki/Satya_Nadella) (He turned AI from a vaporware joke to [terrifying](https://chat.openai.com/chat) [reality](https://labs.openai.com/).)
 * [*Live Young Forever*](https://www.amazon.com/gp/product/1552100642) by [Jack LaLanne](https://en.wikipedia.org/wiki/Jack_LaLanne) (Maintained vehicles last twice as long.)
-* [*Nickel and Dimed*](https://www.goodreads.com/notes/8893315-nickel-and-dimed/71655209-daniel-moore) by [Barbara Ehrenreich](https://en.wikipedia.org/wiki/Barbara_Ehrenreich) (Poverty is expensive.)
 * [*Revolutionary Suicide*](https://www.goodreads.com/notes/8176686-revolutionary-suicide/71655209-daniel-moore) by [Huey Newton](https://en.wikipedia.org/wiki/Huey_P._Newton) (Effective activists are doomed men.)
 * [*What Happened*](https://www.goodreads.com/notes/34114362-what-happened/71655209-daniel-moore) by [Hillary Clinton](https://en.wikipedia.org/wiki/Hillary_Clinton) (Her electoral losses defined the 21st century.)
 * [*Working*](https://www.goodreads.com/notes/43219063-working/71655209-daniel-moore) by [Robert Caro](https://en.wikipedia.org/wiki/Robert_Caro) (Vita brevis, ars longa.)
