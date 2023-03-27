@@ -82,7 +82,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
 <div id="instructions3" style="display:none;">
-    <p>I take biweekly Telugu lessons through <a href="https://preply.com/en/tutor/906051">Preply</a>. I'm also thinking of learning Swahili and Tagalog. Eventually, I'd like to retire to India while spending the occasional year in Kenya or the Philippines.</p>
     {%comment%}
     <p>My favorite group activity is playing poker (<a href="https://en.wikipedia.org/wiki/Texas_hold_'em">Texas hold'em</a>). Here's the rules at my house &ndash;</p>
     <ul>
