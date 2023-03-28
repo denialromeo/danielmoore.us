@@ -1310,7 +1310,7 @@ const albums = [
 "Paul Simon|Still Crazy After All These Years|1975|PLKr8eNwbshFItM1OhdsgXfNHTTjGxPoIZ|A352|Still Crazy After All These Years|Paul Simon|Singer/Songwriter",
 "Loretta Lynn|Van Lear Rose|2004|PLkEx8_pFoyQQ9UhoAQyMsMxMTnarg03Wn|A4045|Van Lear Rose|Loretta Lynn|Alt-Country;Country",
 "Burial|Burial|2006|PLjIuADMrDKIZ2oWjWJGcOnRI56c0ajTXP|A3146|Burial (Burial album)|Burial (musician)|Dubstep;Future Garage;Dance;Electronic;Electronic Dance Music;UK Garage",
-"James Brown|The Payback|1973|PL0J4Ga9SrbpJMLlciZU5J6lr7ir1pW6ju|A1396|The Payback|James Brown|Funk;Soul;R&B",
+"James Brown|The Payback|1973|PLZv6xnm6clDZcdNVkt5_47eE-BWgqi7br|A1396|The Payback|James Brown|Funk;Soul;R&B",
 "Motörhead|Overkill|1979|PLcQfM4LCpP5qrC9i2zm88I1AbNMB1YYxC|A2773|Overkill (Motörhead album)|Motörhead|Hard Rock;Heavy Metal;Metal;Rock",
 "Ariel Pink's Haunted Graffiti|Before Today|2010|PL36DB0DAB8723C5AD|A5054|Before Today|Ariel Pink|Hypnagogic Pop;Psychedelic Pop;Neo-Psychedelia;Pop;Psychedelic Rock;Rock",
 "Gil Scott-Heron|Pieces of a Man|1971|PLDIxWXRU4UDp7Vh9L2MV6tLml7kmdgpXP|A2477|Pieces of a Man|Gil Scott-Heron|Soul;R&B",
