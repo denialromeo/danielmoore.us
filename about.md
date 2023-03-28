@@ -54,7 +54,6 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Insider trading is rampant. Never buy individual stocks. Only index funds like <a href="https://investor.vanguard.com/investment-products/etfs/profile/voo#overview">VOO</a>.</li>
         <li>Work out if it's a bull market or a bear market. In a bull market, dollar-cost average into VOO. In a bear market (like present), cash out and buy <a href="https://invest.ameritrade.com/grid/p/site#r=jPage/https://valubond.ameritrade.com/Dotnet/PrivateOffers/T-Auction.aspx?c_name=invest_VENDOR">T-Bills</a> for a <a href="https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_bill_rates&field_tdr_date_value_month=202301#views-exposed-form-dfu-tool-page-dfu-page">4-5%</a> return over a year.</li>
         <li>Never go counter-trend. Only invest sincerely in bull markets. Only T-Bills in bear markets. Remember, you make money by buying into uptrends and avoiding drawdowns.</li>
-        <li>Everything is temporary. Companies, careers, cultures, currencies, countries. Do not become overly invested in anything. Be able to cut and run at a moment's notice.</li>
         <li>"There is timing in the Way of the merchant, in the rise and fall of capital. All things entail rising &nbsp;and falling timing. You must be able to discern this." &ndash; <a href="https://www.goodreads.com/notes/31197112-the-book-of-five-rings/71655209-daniel-moore">Miyamoto Musashi</a></li>
     </ul>
     <p>More bull market rules &ndash;</p>
@@ -70,6 +69,7 @@ I hope you have a good time here. Thanks for dropping by.
 <a href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
 <div id="instructions3" style="display:none;">
     {%comment%}
+    <li>Everything is temporary. Companies, careers, cultures, currencies, countries. Do not become overly invested in anything. Be able to cut and run at a moment's notice.</li>
     <p>My favorite group activity is playing poker (<a href="https://en.wikipedia.org/wiki/Texas_hold_'em">Texas hold'em</a>). Here's the rules at my house &ndash;</p>
     <ul>
         <li>20-dollar buy-in from each player. White <a href="https://www.amazon.com/gp/product/B0003I68RS">chips</a> are 50 cents, red chips are a dollar.</li>
