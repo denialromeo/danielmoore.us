@@ -34,6 +34,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>"In multiracial societies, you don't vote in accordance with your economic interests and social &nbsp;interests, you vote in accordance with race and religion." &ndash; <a href="https://en.wikipedia.org/wiki/Lee_Kuan_Yew">Lee Kuan Yew</a></p>
     <p>"Under stress, disoriented people become demoralized and panicked. Once in this condition, they &nbsp;can easily be defeated, whatever weapons remain in their possession." &ndash; <a href="https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore">Chet Richards</a></p>
     <p>"If your opponent is of choleric temper, irritate him. <a href="https://qr.ae/praKhq">Pretend to be weak</a>, that he may grow arrogant. &nbsp;If he is taking his ease, give him no rest. If his forces are united, separate them." &ndash; <a href="http://classics.mit.edu/Tzu/artwar.html">Sun Tzu</a></p>
+    <p>"If you asked me any year what was the most important thing that happened that year, I probably &nbsp;would have no answer, but over five years' time the whole field changes." &ndash; <a href="https://web.cs.dal.ca/~eem/fea-knuth.pdf">Donald Knuth</a></p>
     <p>"Broken-down civilizations have not met their death from an assassin’s hand; in almost every &nbsp;instance, we have been led to return a verdict of suicide." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
     <hr>
     <p>Historical statements I believe &ndash;</p>
