@@ -57,9 +57,7 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
     <p>More bull market rules &ndash;</p>
     <ul>
-        <li>Pay attention to the Federal Reserve. In 2021, they <a href="https://www.reuters.com/business/finance/fed-officials-sell-stocks-avoid-apparent-conflict-interest-2021-09-09/">sold at the peak</a>. If they sell, you sell. Also&nbsp;pay attention to the Chinese government. They banned Bitcoin <a href="https://www.theverge.com/2021/9/24/22691472/china-central-bank-cryptocurrency-illegal-bitcoin">at its peak</a>.</li>
-        <li>Also listen to Warren Buffett, Charlie Munger, Ray Dalio, and Jeff Bezos. They are oracles.</li>
-        <li>Further, keep in mind that the past 30 years of stock market returns have been predicated on globalization and good relations with China. Post-Trump, this may no longer be possible.</li>
+        <li>Keep in mind that the past 30 years of stock market returns have been predicated on globalization and good relations with China. Post-Trump, this may no longer be possible.</li>
         <li>$500,000 is more than enough to permanently retire to India. Apps like <a href="https://translate.google.com/about/">Google Translate</a> have largely obviated language differences, so feel free to try out a year in Africa or Latin America.</li>
     </ul>
 </div>
@@ -67,6 +65,8 @@ I hope you have a good time here. Thanks for dropping by.
 <a href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
 <div id="instructions3" style="display:none;">
     {%comment%}
+        <li>Pay attention to the Federal Reserve. In 2021, they <a href="https://www.reuters.com/business/finance/fed-officials-sell-stocks-avoid-apparent-conflict-interest-2021-09-09/">sold at the peak</a>. If they sell, you sell. Also&nbsp;pay attention to the Chinese government. They banned Bitcoin <a href="https://www.theverge.com/2021/9/24/22691472/china-central-bank-cryptocurrency-illegal-bitcoin">at its peak</a>.</li>
+        <li>Also listen to Warren Buffett, Charlie Munger, Ray Dalio, and Jeff Bezos. They are oracles.</li>
     <li>Everything is temporary. Companies, careers, cultures, currencies, countries. Do not become overly invested in anything. Be able to cut and run at a moment's notice.</li>
     <p>My favorite group activity is playing poker (<a href="https://en.wikipedia.org/wiki/Texas_hold_'em">Texas hold'em</a>). Here's the rules at my house &ndash;</p>
     <ul>
