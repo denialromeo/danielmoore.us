@@ -32,7 +32,6 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="instructions2" style="display:none;">
     <p>"The basis of society, of any society, is a certain pride in obedience. When this pride no longer &nbsp;exists, the society collapses." &ndash; <a href="ihttps://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore">Emil Cioran</a></p>
     <p>"In multiracial societies, you don't vote in accordance with your economic interests and social &nbsp;interests, you vote in accordance with race and religion." &ndash; <a href="https://en.wikipedia.org/wiki/Lee_Kuan_Yew">Lee Kuan Yew</a></p>
-    <p>"If your opponent is of choleric temper, irritate him. <a href="https://qr.ae/praKhq">Pretend to be weak</a>, that he may grow arrogant. &nbsp;If he is taking his ease, give him no rest. If his forces are united, separate them." &ndash; <a href="http://classics.mit.edu/Tzu/artwar.html">Sun Tzu</a></p>
     <p>"If you asked me any year what was the most important thing that happened that year, I probably &nbsp;would have no answer, but over five years' time the whole field changes." &ndash; <a href="https://web.cs.dal.ca/~eem/fea-knuth.pdf">Donald Knuth</a></p>
     <p>"Under stress, disoriented people become demoralized and panicked. Once in this condition, they &nbsp;can easily be defeated, whatever weapons remain in their possession." &ndash; <a href="https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore">Chet Richards</a></p>
     <p>"Broken-down civilizations have not met their death from an assassin’s hand; in almost every &nbsp;instance, we have been led to return a verdict of suicide." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
@@ -65,6 +64,7 @@ I hope you have a good time here. Thanks for dropping by.
 <a href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
 <div id="instructions3" style="display:none;">
     {%comment%}
+    <p>"If your opponent is of choleric temper, irritate him. <a href="https://qr.ae/praKhq">Pretend to be weak</a>, that he may grow arrogant. &nbsp;If he is taking his ease, give him no rest. If his forces are united, separate them." &ndash; <a href="http://classics.mit.edu/Tzu/artwar.html">Sun Tzu</a></p>
         <li>Pay attention to the Federal Reserve. In 2021, they <a href="https://www.reuters.com/business/finance/fed-officials-sell-stocks-avoid-apparent-conflict-interest-2021-09-09/">sold at the peak</a>. If they sell, you sell. Also&nbsp;pay attention to the Chinese government. They banned Bitcoin <a href="https://www.theverge.com/2021/9/24/22691472/china-central-bank-cryptocurrency-illegal-bitcoin">at its peak</a>.</li>
         <li>Also listen to Warren Buffett, Charlie Munger, Ray Dalio, and Jeff Bezos. They are oracles.</li>
     <li>Everything is temporary. Companies, careers, cultures, currencies, countries. Do not become overly invested in anything. Be able to cut and run at a moment's notice.</li>
