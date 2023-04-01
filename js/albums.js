@@ -70,7 +70,7 @@ const albums = [
 "Carole King|Tapestry|1971|PLjb5kMzP2zomRoCB03C8HsfUkXpaS6g81|A220|Tapestry (Carole King album)|Carole King|Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock",
 "R.E.M.|Murmur|1983|PLv8ZCmeG525Z-52p4HgdIq4N7-uEnfo5X|A572|Murmur (album)|R.E.M.|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Paul Simon|Graceland|1986|PLgD_2-Ds0_gpHnMOnyYpuVCdAJ_9Olkv-|A662|Graceland (album)|Paul Simon|Pop Rock;Singer/Songwriter;Pop;Rock",
-"David Bowie|Blackstar|2016|PLql5iS_v4447Sg6n1AD7uq4RF-8Daxlav|A5715|Blackstar (album)|David Bowie|Art Rock;Rock",
+"David Bowie|Blackstar|2016|PL_VDqxGpwYjUPsYUReXDVZM67bJd40na9|A5715|Blackstar (album)|David Bowie|Art Rock;Rock",
 "De La Soul|3 Feet High and Rising|1989|PL3kqegtUBaMhxBnr5mF7LxDnU3HaWoNiq|A752|3 Feet High and Rising|De La Soul|Conscious Hip Hop;Hip Hop",
 "Otis Redding|Otis Blue/Otis Redding Sings Soul|1965|PLL-NbN8uTOigpUKhk4bWIIVPhzjtxjCTj|A33|Otis Blue/Otis Redding Sings Soul|Otis Redding|Deep Soul;R&B;Soul;Southern Soul",
 "David Bowie|Hunky Dory|1971|PLfIDINzT3xf0PCHAwYIAu2JJDxYcVt42Z|A214|Hunky Dory|David Bowie|Art Rock;Glam Rock;Pop Rock;Pop;Rock",
