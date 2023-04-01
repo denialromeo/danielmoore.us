@@ -81,9 +81,9 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Low&#8209;cost but effective CGI. Darker-skinned actors, shot on location in India.</li>
         <li><a href="https://store.steampowered.com/app/474750/Reigns"><i>Reigns</i></a>, but you play as major figures from Chinese history. In-browser, HTML/CSS.</li>
-        <li>Variants of <a href="https://store.steampowered.com/app/234710/Poker_Night_2/"><i>Poker Night 2</i></a> featuring multiple card games (e.g. <i>Bridge Night</i> with the protagonists of famous 19th-century adventure fiction). In-browser, Unity/WebGL.</li>
     </ul>
     {%comment%}
+        <li>Variants of <a href="https://store.steampowered.com/app/234710/Poker_Night_2/"><i>Poker Night 2</i></a> featuring multiple card games (e.g. <i>Bridge Night</i> with the protagonists of famous 19th-century adventure fiction). In-browser, Unity/WebGL.</li>
     <p>Some pie-in-the-sky non-profit ideas &ndash;</p>
     <ul>
         <li>One that conducts mass IQ testing of low-income children in India and provides free schooling and accommodation for the families of top performers.</li>
