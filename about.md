@@ -28,7 +28,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 {{ site.photoswipe }}
 
-<a href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
+<a id="political-views" href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
     <p>"The basis of society, of any society, is a certain pride in obedience. When this pride no longer &nbsp;exists, the society collapses." &ndash; <a href="ihttps://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore">Emil Cioran</a></p>
     <p>"In multiracial societies, you don't vote in accordance with your economic interests and social &nbsp;interests, you vote in accordance with race and religion." &ndash; <a href="https://en.wikipedia.org/wiki/Lee_Kuan_Yew">Lee Kuan Yew</a></p>
@@ -46,7 +46,7 @@ I hope you have a good time here. Thanks for dropping by.
     <hr>
 </div>
 
-<a href="javascript:;" id="dropdown" target="_self"><b>Investing Rules</b></a>
+<a id="investing-rules" href="javascript:;" id="dropdown" target="_self"><b>Investing Rules</b></a>
 <div id="instructions" style="display:none;">
     <p>A few quick beliefs that guide my investing acumen &ndash;</p>
     <ul>
@@ -62,7 +62,7 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
 </div>
 
-<a href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
+<a id="hobbies" href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
 <div id="instructions3" style="display:none;">
     {%comment%}
     <p>"If your opponent is of choleric temper, irritate him. <a href="https://qr.ae/praKhq">Pretend to be weak</a>, that he may grow arrogant. &nbsp;If he is taking his ease, give him no rest. If his forces are united, separate them." &ndash; <a href="http://classics.mit.edu/Tzu/artwar.html">Sun Tzu</a></p>
