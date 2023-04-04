@@ -55,6 +55,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Work out if <a href="https://fred.stlouisfed.org/series/MORTGAGE30US">interest rates</a> are rising or falling. When falling, dollar-cost average into VOO. When rising (like present), cash out and buy <a href="https://invest.ameritrade.com/grid/p/site#r=jPage/https://valubond.ameritrade.com/Dotnet/PrivateOffers/T-Auction.aspx?c_name=invest_VENDOR">T-Bills</a> for a <a href="https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_bill_rates&field_tdr_date_value_month=202301#views-exposed-form-dfu-tool-page-dfu-page">4-5%</a> return over a year.</li>
         <li>"There is timing in the Way of the merchant, in the rise and fall of capital. All things entail rising &nbsp;and falling timing. You must be able to discern this." &ndash; <a href="https://www.goodreads.com/notes/31197112-the-book-of-five-rings/71655209-daniel-moore">Miyamoto Musashi</a></li>
     </ul>
+    <blockquote>"We should prepare ourselves for the possibility that this new economic reality will continue for many years. &nbsp;Higher interest rates lead to the economy running leaner, more geopolitical instability leads to more volatility, &nbsp;and increased regulation leads to slower growth and increased costs of innovation." &ndash; <a href="https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/">Mark Zuckerberg</a></blockquote>
     <p>More bull market rules &ndash;</p>
     <ul>
         <li>Keep in mind that the past 30 years of stock market returns have been predicated on globalization and good relations with China. Post-Trump, this may no longer be possible.</li>
@@ -64,34 +65,11 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="hobbies" href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
 <div id="instructions3" style="display:none;">
-    {%comment%}
-    <p>"If your opponent is of choleric temper, irritate him. <a href="https://qr.ae/praKhq">Pretend to be weak</a>, that he may grow arrogant. &nbsp;If he is taking his ease, give him no rest. If his forces are united, separate them." &ndash; <a href="http://classics.mit.edu/Tzu/artwar.html">Sun Tzu</a></p>
-        <li>Pay attention to the Federal Reserve. In 2021, they <a href="https://www.reuters.com/business/finance/fed-officials-sell-stocks-avoid-apparent-conflict-interest-2021-09-09/">sold at the peak</a>. If they sell, you sell. Also&nbsp;pay attention to the Chinese government. They banned Bitcoin <a href="https://www.theverge.com/2021/9/24/22691472/china-central-bank-cryptocurrency-illegal-bitcoin">at its peak</a>.</li>
-        <li>Also listen to Warren Buffett, Charlie Munger, Ray Dalio, and Jeff Bezos. They are oracles.</li>
-    <li>Everything is temporary. Companies, careers, cultures, currencies, countries. Do not become overly invested in anything. Be able to cut and run at a moment's notice.</li>
-    <p>My favorite group activity is playing poker (<a href="https://en.wikipedia.org/wiki/Texas_hold_'em">Texas hold'em</a>). Here's the rules at my house &ndash;</p>
-    <ul>
-        <li>20-dollar buy-in from each player. White <a href="https://www.amazon.com/gp/product/B0003I68RS">chips</a> are 50 cents, red chips are a dollar.</li>
-        <li>Every player receives 20 white chips and 10 red chips.</li>
-        <li>Little blind is 50 cents, big blind is a dollar. No betting limits!</li>
-        <li>When only two players remain, the pot can be split and the game ended at any time.</li>
-        <li>"Evaluate each holding at the flop in the right frame of mind. Don’t ask: Can I improve? &nbsp;Instead ask: What are my chances of being the clear winner at the end?" &ndash; <a href="https://www.goodreads.com/notes/19181632-thursday-night-poker/71655209-daniel-moore">Peter O. Steiner</a></li>
-    </ul>
-    {%endcomment%}
     <p>Some (long-term) planned open-source projects &ndash;</p>
     <ul>
         <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Low&#8209;cost but effective CGI. Darker-skinned actors, shot on location in India.</li>
         <li><a href="https://store.steampowered.com/app/474750/Reigns"><i>Reigns</i></a>, but you play as major figures from Chinese history. In-browser, HTML/CSS.</li>
     </ul>
-    {%comment%}
-        <li>Variants of <a href="https://store.steampowered.com/app/234710/Poker_Night_2/"><i>Poker Night 2</i></a> featuring multiple card games (e.g. <i>Bridge Night</i> with the protagonists of famous 19th-century adventure fiction). In-browser, Unity/WebGL.</li>
-    <p>Some pie-in-the-sky non-profit ideas &ndash;</p>
-    <ul>
-        <li>One that conducts mass IQ testing of low-income children in India and provides free schooling and accommodation for the families of top performers.</li>
-        <li>One that sets up marriages between low-income American women and educated foreign men to circumvent U.S. immigration laws.</li>
-    </ul>
-    <p>For above, all financial details should be transparent and public. Every dollar accounted for.</p>
-    {%endcomment%}
 </div>
  
 # Favorite
