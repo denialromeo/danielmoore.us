@@ -54,7 +54,6 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Insider trading is rampant. Never buy individual stocks. Only index funds like <a href="https://investor.vanguard.com/investment-products/etfs/profile/voo#overview">VOO</a>.</li>
         <li>Work out if <a href="https://fred.stlouisfed.org/series/MORTGAGE30US">interest rates</a> are rising or falling. When falling, dollar-cost average into VOO. When rising (like present), cash out and buy <a href="https://invest.ameritrade.com/grid/p/site#r=jPage/https://valubond.ameritrade.com/Dotnet/PrivateOffers/T-Auction.aspx?c_name=invest_VENDOR">T-Bills</a> for a <a href="https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_bill_rates&field_tdr_date_value_month=202301#views-exposed-form-dfu-tool-page-dfu-page">4-5%</a> return over a year.</li>
         <li>Keep in mind that the past 30 years of stock market returns have been predicated on globalization and good relations with China. Post-Trump, this may no longer be possible.</li>
-        <li>"There is timing in the Way of the merchant, in the rise and fall of capital. All things entail rising &nbsp;and falling timing. You must be able to discern this." &ndash; <a href="https://www.goodreads.com/notes/31197112-the-book-of-five-rings/71655209-daniel-moore">Miyamoto Musashi</a></li>
     </ul>
     <blockquote>"We should prepare ourselves for the possibility that this new economic reality will continue for many years. &nbsp;Higher interest rates lead to the economy running leaner, more geopolitical instability leads to more volatility, &nbsp;and increased regulation leads to slower growth and increased costs of innovation." &ndash; <a href="https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/">Mark Zuckerberg</a></blockquote>
 </div>
@@ -164,6 +163,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Will ChatGPT Replace Human Software Developers?](https://aista.hashnode.dev/will-chatgpt-replace-human-software-developers)" by Aista (The short answer is yes.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
+        <li>"There is timing in the Way of the merchant, in the rise and fall of capital. All things entail rising &nbsp;and falling timing. You must be able to discern this." &ndash; <a href="https://www.goodreads.com/notes/31197112-the-book-of-five-rings/71655209-daniel-moore">Miyamoto Musashi</a></li>
 * [*Nickel and Dimed*](https://www.goodreads.com/notes/8893315-nickel-and-dimed/71655209-daniel-moore) by [Barbara Ehrenreich](https://en.wikipedia.org/wiki/Barbara_Ehrenreich) (Poverty is expensive.)
 * [TeamMe Computer Desk](https://www.walmart.com/ip/Computer-Desk-Storage-Hutch-Pull-Out-Keyboard-Tray-Several-Bookshelves-63-4-L-x-18-1-W-46-1-H-Cabinet-Study-Workstation-Home-Office-White/445234806) (Maximum productivity.)
 * "[The Disappearance of the Hit-Driven Business Model](https://dearproducer.com/the-disappearance-of-the-hit-driven-business#main)" by Chris Moore (Mediocrity won.)
