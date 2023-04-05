@@ -2340,7 +2340,7 @@ const albums = [
 "Bill Callahan|Apocalypse|2011|PLD5JPcnL768GmpF_0nH1efFC9chiOutmx|A5133|Apocalypse (Bill Callahan album)|Bill Callahan (musician)|Americana;Contemporary Folk;Singer/Songwriter;Country;Folk",
 "Gabinete Caligari|Cuatro rosas|1984|PLxhfCY00zUPBTQTF1ezotbC9aMBEIQDCb|A4695|Gabinete Caligari|Gabinete Caligari|New Wave;Rock",
 "Iron Maiden|Powerslave|1984|PLEivWbown2xTzEIYM1ZKANg9MSpsfSZxp|A4696|Powerslave|Iron Maiden|NWOBHM;Heavy Metal;Metal;Rock",
-"Pearls Before Swine|One Nation Underground|1967|PLa3HlKFsnLvZHKLsv7A8YZf-paq5iwZWR|A2585|One Nation Underground (Pearls Before Swine album)|Pearls Before Swine (band)|Psychedelic Folk;Contemporary Folk;Folk",
+"Pearls Before Swine|One Nation Underground|1967|ERROR: Suitable playlist not found|A2585|One Nation Underground (Pearls Before Swine album)|Pearls Before Swine (band)|Psychedelic Folk;Contemporary Folk;Folk",
 "Crystal Castles|Crystal Castles (II)|2010|PLCWXIh7vWQTK8IOOBtEV24mN-vqvcW5EH|A5061|Crystal Castles II|Crystal Castles|Synthpop;Electronic;Pop",
 "Captain Beefheart & The Magic Band|Lick My Decals Off, Baby|1970|PLE5DAC6B23C6D2614|A2330|Lick My Decals Off, Baby|Captain Beefheart|Art Rock;Experimental Rock;Rock",
 "American Music Club|California|1988|PLNUohHmj0S8O4AN4YgKVmQOMEX942Xs1C|A3218|California (American Music Club album)|American Music Club|Folk Rock;Slowcore;Alternative Rock;Indie Rock;Rock",
