@@ -2326,7 +2326,7 @@ const albums = [
 "Beck|Morning Phase|2014|PLX0wu3Da6IobjBJw8yy8iXhc4Yrh6f9UT|A5404|Morning Phase|Beck|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Red Hot Chili Peppers|By the Way|2002|PLyWB0TxTMmTk-BkqJn13hFDtKioUSFlpE|A3904|The Getaway (Red Hot Chili Peppers album)|Red Hot Chili Peppers|Alternative Rock;Pop Rock;Pop;Rock",
 "WU LYF|Go Tell Fire to the Mountain|2011|PLq8ytzkJbM503DYTKV2DiUpFevxscYKqD|A5530|Go Tell Fire to the Mountain|WU LYF|Art Rock;Indie Rock;Alternative Rock;Rock",
-"Billie Holiday|Songs for Distingué Lovers|1958|PLroZ27KFbQnluSEKpuQpNb7fmwq4T3rUZ|A1823|Songs for Distingué Lovers|Billie Holiday|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
+"Billie Holiday|Songs for Distingué Lovers|1958|PLArpKJA0hY4q-2C06oglNbDEgAiAY0NYq|A1823|Songs for Distingué Lovers|Billie Holiday|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "Panda Bear|Tomboy|2011|PL64D8AE125ABEC56C|A5257|Tomboy (album)|Panda Bear (musician)|Psychedelic Pop;Pop",
 "Air|Air Lore|1979|PL1X3qTzT40VnX1yfr7Xu4UgUnzfkuJGJH|A4610|Air Lore|Air (free jazz trio)|Avant-Garde Jazz;Jazz",
 "Bilderbuch|Schick Schock|2015|PLEBk4P_D79JNI495C6EkbfbkatHY8Rw08|A5639|Bilderbuch|Bilderbuch|Indie Pop;Pop",
