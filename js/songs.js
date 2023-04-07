@@ -9350,7 +9350,7 @@ const songs = [
 "Three Dog Night|Mama Told Me (Not to Come)|1970|9DZvJQ0PTEg|Three Dog Night|S8747|Pop Rock;Pop;Rock",
 "The Crystals|He Hit Me (And It Felt Like a Kiss)|1962|f20Oz9Yr_So|The Crystals|S5919|Brill Building;Girl Group;Pop",
 "Sublime|Santeria|1996|AEYN5w4T_aM|Sublime (band)|S15907|Alternative Rock;Pop Reggae;Third Wave Ska;Caribbean Music;Jamaican Music;Reggae;Regional Music;Rock;Ska",
-"Alphaville|Forever Young|1984|t1TcDHrkQYg|Alphaville (band)|S9979|Synthpop;Electronic;Pop",
+"Alphaville|Forever Young|1984|oNjQXmoxiQ8|Alphaville (band)|S9979|Synthpop;Electronic;Pop",
 "2Pac|Brenda's Got a Baby|1991|NRWUs0KtB-I|Tupac Shakur|S5068|Conscious Hip Hop;West Coast Hip Hop;Hip Hop",
 "Shaggy|It Wasn't Me|2000|sTMgX1PDGAE|Shaggy (musician)|S9348|Contemporary R&B;Pop Reggae;Caribbean Music;Jamaican Music;R&B;Reggae;Regional Music",
 "The Rolling Stones|Ventilator Blues|1972|zwsl-SuOEXc|The Rolling Stones|S12103|Blues Rock;Rock",
