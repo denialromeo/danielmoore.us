@@ -154,6 +154,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html#main)" by Seshadri Kumar (This is the end.)
 * "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Apres Boomers, le deluge.)
+* "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkat Rao (Pair with [*The Office*](https://www.peacocktv.com/watch/asset/tv/the-office-superfan-episodes/8229469043710582112) to forever alter your life goals.)
 * "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
 * "[How the Taliban Did It](https://www.atlanticcouncil.org/blogs/new-atlanticist/how-the-taliban-did-it-inside-the-operational-art-of-its-military-victory/)" by Benjamin Jensen (Teamwork and resolve trump everything.)
 * "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch)" by Scott Alexander (Why we run ever-faster just to stay in place.)
@@ -168,7 +169,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Nickel and Dimed*](https://www.goodreads.com/notes/8893315-nickel-and-dimed/71655209-daniel-moore) by [Barbara Ehrenreich](https://en.wikipedia.org/wiki/Barbara_Ehrenreich) (Poverty is expensive.)
 * [TeamMe Computer Desk](https://www.walmart.com/ip/Computer-Desk-Storage-Hutch-Pull-Out-Keyboard-Tray-Several-Bookshelves-63-4-L-x-18-1-W-46-1-H-Cabinet-Study-Workstation-Home-Office-White/445234806) (Maximum productivity.)
 * "[The Disappearance of the Hit-Driven Business Model](https://dearproducer.com/the-disappearance-of-the-hit-driven-business#main)" by Chris Moore (Mediocrity won.)
-* "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkatesh Rao (Organizational politics demystified.)
         <li>Time limit is one hour. After an hour, all chips are tallied and cashed in.</li>
         <li>Spread limits are two dollars for the first two rounds of betting, four dollars for the second two.</li>
     <p>"For to him who has will more be given, and from him who has not, even what he thinks that he has &nbsp;will be taken away." &ndash; <a href="https://en.wikipedia.org/wiki/Matthew_effect">Luke 8:18</a></p>
@@ -258,7 +258,6 @@ I hope you have a good time here. Thanks for dropping by.
 **Television**
 
 * [*Black Panther: Wakanda Forever*](https://www.disneyplus.com/movies/black-panther-wakanda-forever/7MAONYZ92wDT) by [Ryan Coogler](https://en.wikipedia.org/wiki/Ryan_Coogler) (Modern myth-making.)
-* [*The Dark Knight Returns*](https://play.hbomax.com/page/urn:hbo:page:GXdu2TwrCwZuAuwEAADaR:type:feature) by [Frank Miller](https://en.wikipedia.org/wiki/Frank_Miller) (The rare adaptation that's superior to the source.)
 * [*Django Unchained*](https://www.paramountplus.com/movies/video/iNNNwA7EFAX3Tlrj8Eb6NyCKdbDtE5lt/) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Started a new wave of race-conscious cinema.)
 * [*Get Out*](https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1L8T75) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Every non-white can relate.)
 * [*Gisaengchung*](https://www.hulu.com/movie/2fd691a0-f66b-467f-8635-00d7f151f3d4) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (Class struggle is swiftly returning.)
