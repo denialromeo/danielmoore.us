@@ -34,7 +34,6 @@ I hope you have a good time here. Thanks for dropping by.
     <p>"In multiracial societies, you don't vote in accordance with your economic interests and social &nbsp;interests, you vote in accordance with race and religion." &ndash; <a href="https://en.wikipedia.org/wiki/Lee_Kuan_Yew">Lee Kuan Yew</a></p>
     <p>"If you asked me any year what was the most important thing that happened that year, I probably &nbsp;would have no answer, but over five years' time the whole field changes." &ndash; <a href="https://web.cs.dal.ca/~eem/fea-knuth.pdf">Donald Knuth</a></p>
     <p>"The race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches &nbsp;to men of understanding, but time and chance happeneth to them all." &ndash; <a href="https://www.biblegateway.com/passage/?search=Ecclesiastes%209&version=KJV">Ecclesiastes 9:11</a></p>
-    <p>"Under stress, disoriented people become demoralized and panicked. Once in this condition, they &nbsp;can easily be defeated, whatever weapons remain in their possession." &ndash; <a href="https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore">Chet Richards</a></p>
     <p>"Broken-down civilizations have not met their death from an assassin’s hand; in almost every &nbsp;instance, we have been led to return a verdict of suicide." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
     <hr>
     <p>Historical statements I believe &ndash;</p>
@@ -183,6 +182,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[The Taiwan Strait Joint Exercise](https://www.guancha.cn/ChenFeng3/2022_08_18_654142_s.shtml)" by Chen Feng (How the next big war will likely start.)
 * "[Welcome to Hell, Elon](https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation)" by Nilay Patel (A fool and his money are soon parted.)
 * [*Light on the Yoga Sutras of Patanjali*](https://www.goodreads.com/notes/18903748-light-on-the-yoga-sutras-of-patanjali/71655209-daniel-moore) by [B.K.S. Iyengar](https://en.wikipedia.org/wiki/B._K._S._Iyengar) (Exerting control over the mind.)
+    <p>"Under stress, disoriented people become demoralized and panicked. Once in this condition, they &nbsp;can easily be defeated, whatever weapons remain in their possession." &ndash; <a href="https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore">Chet Richards</a></p>
 {% endcomment %}
 
 {:#history-books}
