@@ -28,6 +28,18 @@ I hope you have a good time here. Thanks for dropping by.
 
 {{ site.photoswipe }}
 
+<a id="investing-rules" href="javascript:;" id="dropdown" target="_self"><b>Investing Rules</b></a>
+<div id="instructions" style="display:none;">
+    <p>A few quick beliefs that guide my investing acumen &ndash;</p>
+    <ul>
+        <li>Only invest in stocks or bonds. Real estate, gold, Bitcoin, etc. are all scams long-term.</li>
+        <li>Insider trading is rampant. Never buy individual stocks. Only index funds like <a href="https://investor.vanguard.com/investment-products/etfs/profile/voo#overview">VOO</a>.</li>
+        <li>Work out if <a href="https://fred.stlouisfed.org/series/MORTGAGE30US">interest rates</a> are rising or falling. When falling, dollar-cost average into VOO. When rising (like present), cash out and buy <a href="https://invest.ameritrade.com/grid/p/site#r=jPage/https://valubond.ameritrade.com/Dotnet/PrivateOffers/T-Auction.aspx?c_name=invest_VENDOR">T-Bills</a> for a <a href="https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_bill_rates&field_tdr_date_value_month=202301#views-exposed-form-dfu-tool-page-dfu-page">4-5%</a> return over a year.</li>
+        <li>Keep in mind that the past 30 years of stock market returns have been predicated on globalization and good relations with China. Post-Trump, this may no longer be possible.</li>
+    </ul>
+    <blockquote>"We should prepare ourselves for the possibility that this new economic reality will continue for many years. &nbsp;Higher interest rates lead to the economy running leaner, more geopolitical instability leads to more volatility, &nbsp;and increased regulation leads to slower growth and increased costs of innovation." &ndash; <a href="https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/">Mark Zuckerberg</a></blockquote>
+</div>
+
 <a id="political-views" href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
     <p>"The basis of society, of any society, is a certain pride in obedience. When this pride no longer &nbsp;exists, the society collapses." &ndash; <a href="ihttps://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore">Emil Cioran</a></p>
@@ -43,18 +55,6 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Honorable mentions go to Leonid Brezhnev, Indira Gandhi, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Qian Xuesen, Ronald Reagan, Boris Yeltsin, Jiang Zemin, Ho Chi Minh, Adolf Hitler, and Albert Einstein.</li>
     </ul>
     <hr>
-</div>
-
-<a id="investing-rules" href="javascript:;" id="dropdown" target="_self"><b>Investing Rules</b></a>
-<div id="instructions" style="display:none;">
-    <p>A few quick beliefs that guide my investing acumen &ndash;</p>
-    <ul>
-        <li>Only invest in stocks or bonds. Real estate, gold, Bitcoin, etc. are all scams long-term.</li>
-        <li>Insider trading is rampant. Never buy individual stocks. Only index funds like <a href="https://investor.vanguard.com/investment-products/etfs/profile/voo#overview">VOO</a>.</li>
-        <li>Work out if <a href="https://fred.stlouisfed.org/series/MORTGAGE30US">interest rates</a> are rising or falling. When falling, dollar-cost average into VOO. When rising (like present), cash out and buy <a href="https://invest.ameritrade.com/grid/p/site#r=jPage/https://valubond.ameritrade.com/Dotnet/PrivateOffers/T-Auction.aspx?c_name=invest_VENDOR">T-Bills</a> for a <a href="https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_bill_rates&field_tdr_date_value_month=202301#views-exposed-form-dfu-tool-page-dfu-page">4-5%</a> return over a year.</li>
-        <li>Keep in mind that the past 30 years of stock market returns have been predicated on globalization and good relations with China. Post-Trump, this may no longer be possible.</li>
-    </ul>
-    <blockquote>"We should prepare ourselves for the possibility that this new economic reality will continue for many years. &nbsp;Higher interest rates lead to the economy running leaner, more geopolitical instability leads to more volatility, &nbsp;and increased regulation leads to slower growth and increased costs of innovation." &ndash; <a href="https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/">Mark Zuckerberg</a></blockquote>
 </div>
 
 <a id="hobbies" href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
