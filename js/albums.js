@@ -1099,7 +1099,7 @@ const albums = [
 "Emmylou Harris|Wrecking Ball|1995|PLThIZGW9UKl3PQmt6fYmL5epFddeJT3Rr|A952|Wrecking Ball (Emmylou Harris album)|Emmylou Harris|Alt-Country;Country",
 "The KLF|Chill Out|1990|PLa8IXsuu_ujg3WqK9yir4t9SyNBpdVikc|A1550|Chill Out (KLF album)|The KLF|Ambient",
 "Karen Dalton|It's So Hard to Tell Who's Going to Love You the Best|1969|PLzwsdun_bPP9K1uJPy46oQYYBkqs1EJ1q|A4480|It's So Hard to Tell Who's Going to Love You the Best|Karen Dalton|Contemporary Folk;Folk",
-"Simple Minds|New Gold Dream (81-82-83-84)|1982|PLlhCyoLz03-oEkEwIx-56DgBAoNavjOXo|A555|New Gold Dream (81–82–83–84)|Simple Minds|New Wave;Synthpop;Electronic;Pop;Rock",
+"Simple Minds|New Gold Dream (81-82-83-84)|1982|PLeRz6hPRrSpdRbq8uSTo6C3pFXXSztn0Y|A555|New Gold Dream (81–82–83–84)|Simple Minds|New Wave;Synthpop;Electronic;Pop;Rock",
 "Gil Evans|Out of the Cool|1961|PLVG1KRr_9ktFPDolNocVHs3YDmI6XngEb|A1880|Out of the Cool|Gil Evans|Big Band;Cool Jazz;Jazz",
 "Fiona Apple|Extraordinary Machine|2005|PLVPGzOHIIgz_9RlBOa8gtfK7qyx47Cxa_|A4220|Extraordinary Machine|Fiona Apple|Baroque Pop;Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock",
 "The Soft Boys|Underwater Moonlight|1980|PLo-CVFFA0DtUjfORio5MIXUsRT_qr_dzn|A1174|Underwater Moonlight|The Soft Boys|Jangle Pop;Neo-Psychedelia;Alternative Rock;Pop;Pop Rock;Psychedelic Rock;Rock",
