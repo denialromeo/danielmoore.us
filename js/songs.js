@@ -9387,7 +9387,7 @@ const songs = [
 "AC/DC|Problem Child|1976|nng92efL2f8|AC/DC|S9917|Hard Rock;Rock",
 "Neil Diamond|America|1980|wTSLRbm8L9E|Neil Diamond|S14796|Film Soundtrack;Pop Rock;Descriptor;Pop;Rock;Soundtracks",
 "Blur|No Distance Left to Run|1999|czSZ2djVRdI|Blur (band)|S5528|Alternative Rock;Art Rock;Rock",
-"Junip|Line of Fire|2013|W9V-Hh0uTaI|Junip|S11283|Indie Folk;Contemporary Folk;Folk",
+"Junip|Line of Fire|2013|pq-G3EWO9XM|Junip|S11283|Indie Folk;Contemporary Folk;Folk",
 "Prefab Sprout|The Best Jewel Thief in the World|2013|5WnATZLcXuA|Prefab Sprout|S9509|Jangle Pop;Sophisti-Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Gaëtan Roussel|Help Myself (Nous ne faisons que passer)|2009|Py5AKfC5kV4|Gaëtan Roussel|S15504|Alternative Dance;Alternative Rock;Dance;Rock",
 "Andy Williams|Can't Get Used to Losing You|1963|WQKh9m20XI8|Andy Williams|S5197|Traditional Pop;Pop",
