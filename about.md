@@ -158,6 +158,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
 * "[How the Taliban Did It](https://www.atlanticcouncil.org/blogs/new-atlanticist/how-the-taliban-did-it-inside-the-operational-art-of-its-military-victory/)" by Benjamin Jensen (Teamwork and resolve trump everything.)
 * "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch)" by Scott Alexander (Why we run ever-faster just to stay in place.)
+* "[Overshoot](https://medium.com/@CollapseSurvival/overshoot-why-its-already-too-late-to-save-civilization-e834cb4ec694)" by Alan Urban (Like most people, I'm happy not to be younger.)
 * "[Return From U.S. To India](https://cubicledog.substack.com/p/ive-started-my-fire-journey-in-india)" by Shuddha Kannadiga (As globalization ends, time to cash out.)
 * "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Microsoft's path to world domination.)
 * "[Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)" by Peter Norvig (No royal road to geometry.)
