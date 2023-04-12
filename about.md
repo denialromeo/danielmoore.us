@@ -252,6 +252,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[A Full Life](https://www.technologyreview.com/2019/04/24/135741/a-full-life/)" by [Paolo Bacigalupi](https://windupstories.com/) (Dystopia arrived faster than expected.)
 * "[Golden](https://nickbostrom.com/fable/retriever.html)" by [Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom) (Animals are trapped in a real-life horror movie.)
 * "[A Hunger Artist](https://www.kafka-online.info/a-hunger-artist.html)" by [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka) (The best gifts find the fewest admirers.)
+* "[Sandcastle](https://www.amazon.com/Sandcastle-new-preface-Original-Fiction-ebook/dp/B097YWJMQF)" by [Pierre Oscar Levy](https://fr.wikipedia.org/wiki/Pierre_Oscar_L%C3%A9vy) (Life's a beach and then you die.)
 * "[To Build a Fire](https://americanliterature.com/author/jack-london/short-story/to-build-a-fire)" by [Jack London](https://en.wikipedia.org/wiki/Jack_London) (To ignore reality is to court death.)
 * "[Yellow Card Man](https://www.goodreads.com/notes/41758281-pump-six-and-other-stories/71655209-daniel-moore)" by [Paolo Bacigalupi](https://windupstories.com/) (No man knows the future.)
 * "[Yossel: April 19, 1943](https://archive.org/details/yosselapril1919400joek/mode/2up)" by [Joe Kubert](https://en.wikipedia.org/wiki/Joe_Kubert) (Long live the Jewish people.)
