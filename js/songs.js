@@ -660,7 +660,7 @@ const songs = [
 "Daft Punk|Digital Love|2001|FxzBvqY5PP0|Daft Punk|S1476|French House;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House",
 "The Buggles|Video Killed the Radio Star|1979|W8r-tXRLazs|The Buggles|S2338|New Wave;Synthpop;Electronic;Pop;Rock",
 "Lauryn Hill|Doo Wop (That Thing)|1998|T6QKqFPRZSA|Lauryn Hill|S274|Conscious Hip Hop;Neo-Soul;Hip Hop;R&B;Soul",
-"Aerosmith|Dream On|1973|sZfZ8uWaOFI|Aerosmith|S770|Hard Rock;Rock",
+"Aerosmith|Dream On|1973|89dGC8de0CA|Aerosmith|S770|Hard Rock;Rock",
 "King Crimson|21st Century Schizoid Man|1969|3028oDEKZo4|King Crimson|S3538|Jazz-Rock;Progressive Rock;Rock",
 "The Rolling Stones|Miss You|1978|hic-dnps6MU|The Rolling Stones|S609|Pop Rock;Pop;Rock",
 "Bob Dylan|Positively 4th Street|1965|WOP6R3JvNHg|Bob Dylan|S1014|Folk Rock;Singer/Songwriter;Rock",
