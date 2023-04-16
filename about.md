@@ -185,6 +185,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Welcome to Hell, Elon](https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation)" by Nilay Patel (A fool and his money are soon parted.)
 * [*Light on the Yoga Sutras of Patanjali*](https://www.goodreads.com/notes/18903748-light-on-the-yoga-sutras-of-patanjali/71655209-daniel-moore) by [B.K.S. Iyengar](https://en.wikipedia.org/wiki/B._K._S._Iyengar) (Exerting control over the mind.)
     <p>"Under stress, disoriented people become demoralized and panicked. Once in this condition, they &nbsp;can easily be defeated, whatever weapons remain in their possession." &ndash; <a href="https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore">Chet Richards</a></p>
+* [*Live Young Forever*](https://www.amazon.com/gp/product/1552100642) by [Jack LaLanne](https://en.wikipedia.org/wiki/Jack_LaLanne) (Maintained vehicles last twice as long.)
 {% endcomment %}
 
 {:#history-books}
@@ -226,7 +227,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Four Star Reviews, 1967-2007*](https://www.goodreads.com/notes/9517283-roger-ebert-s-four-star-reviews-1967-2007/71655209-daniel-moore) by [Roger Ebert](https://en.wikipedia.org/wiki/Roger_Ebert) (Forty years at the movies.)
 * [*The Governance of China*](https://www.goodreads.com/notes/24309365-xi-jinping-the-governance-of-china/71655209-daniel-moore) by [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping) (Perhaps the 21st century's most influential person.)
 * [*Hit Refresh*](https://www.goodreads.com/notes/31139580-hit-refresh/71655209-daniel-moore) by [Satya Nadella](https://en.wikipedia.org/wiki/Satya_Nadella) (He turned AI from a vaporware joke to [terrifying](https://chat.openai.com/chat) [reality](https://labs.openai.com/).)
-* [*Live Young Forever*](https://www.amazon.com/gp/product/1552100642) by [Jack LaLanne](https://en.wikipedia.org/wiki/Jack_LaLanne) (Maintained vehicles last twice as long.)
 * [*Revolutionary Suicide*](https://www.goodreads.com/notes/8176686-revolutionary-suicide/71655209-daniel-moore) by [Huey Newton](https://en.wikipedia.org/wiki/Huey_P._Newton) (Effective activists are doomed men.)
 * [*What Happened*](https://www.goodreads.com/notes/34114362-what-happened/71655209-daniel-moore) by [Hillary Clinton](https://en.wikipedia.org/wiki/Hillary_Clinton) (Her electoral losses defined the 21st century.)
 * [*Working*](https://www.goodreads.com/notes/43219063-working/71655209-daniel-moore) by [Robert Caro](https://en.wikipedia.org/wiki/Robert_Caro) (Vita brevis, ars longa.)
@@ -267,7 +267,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Gisaengchung*](https://www.hulu.com/movie/2fd691a0-f66b-467f-8635-00d7f151f3d4) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (Class struggle is swiftly returning.)
 * [*The Green Knight*](https://www.amazon.com/dp/B09CP38JQ5) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (It really is all a game.)
 * [*Ikiru*](https://play.hbomax.com/page/urn:hbo:page:GXmlRtQZGhcNVoAEAAAMj:type:feature) by [Kurosawa Akira](https://en.wikipedia.org/wiki/Akira_Kurosawa) (The world is a museum of passion projects.)
-* [*Inglourious Basterds*](https://www.amazon.com/Inglourious-Basterds-Brad-Pitt/dp/B002UEW31I) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (History is but the biography of great men.)
+* [*Inglourious Basterds*](https://www.amazon.com/Inglourious-Basterds-Brad-Pitt/dp/B002UEW31I) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (History is but the biography of great women.)
 * [*Jiro Dreams of Sushi*](https://www.hulu.com/movie/jiro-dreams-of-sushi-ca4ffa60-88a5-4fc6-bd00-597a0441dc35) by [Ono Jiro](https://en.wikipedia.org/wiki/Jiro_Ono_(chef)) (There is bliss in doing your job well.)
 * [*Joker*](https://play.hbomax.com/page/urn:hbo:page:GYGOrjQfhvKCWowEAAAAE:type:feature) by [Joaquin Phoenix](https://en.wikipedia.org/wiki/Joaquin_Phoenix) (It's getting crazier out here.)
 * [*Justice League Unlimited*](https://play.hbomax.com/page/urn:hbo:page:GYA80NAFd4LrDwgEAAAID:type:series) by [Dwayne McDuffie](https://en.wikipedia.org/wiki/Dwayne_McDuffie) (Probably the last great children's cartoon.)
