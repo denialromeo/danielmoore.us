@@ -8811,7 +8811,7 @@ const songs = [
 "Heart|Magic Man|1975|A99bkAcLIas|Heart (band)|S11017|Pop Rock;Pop;Rock",
 "Linda Ronstadt|When Will I Be Loved|1974|9iBgTqz_-vY|Linda Ronstadt|S7268|Country Rock;Rock",
 "The Bell Notes|I've Had It|1959|F-ut2rAx14I|The Bell Notes|S3207|Rock & Roll;Rock",
-"Bob Dylan|Ain't Talkin'|2006|hu6fWsfNHyE|Bob Dylan|S15312|Americana;Country",
+"Bob Dylan|Ain't Talkin'|2006|fcHJsW8V5uo|Bob Dylan|S15312|Americana;Country",
 "Tinariwen|Cler Achel|2007|qa7C2Z3PZak|Tinariwen|S8768|Tishoumaren;African Music;Berber Music;North African Music;Regional Music;Tuareg Music",
 "Siouxsie and the Banshees|Kiss Them for Me|1991|VdSorRYIdp4?start=5|Siouxsie and the Banshees|S12215|Alternative Dance;Art Pop;Alternative Rock;Dance;Pop;Rock",
 "Elton John|Take Me to the Pilot|1970|jcK9GxJFGj4|Elton John|S3523|Piano Rock;Pop;Pop Rock;Rock",
