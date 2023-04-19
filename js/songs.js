@@ -9686,7 +9686,7 @@ const songs = [
 "Otis Clay|Trying to Live My Life Without You|1972|wcPe4ale96U|Otis Clay|S7827|Southern Soul;R&B;Soul",
 "ScHoolboy Q|Collard Greens|2013|_L2vJEb6lVE|Schoolboy Q|S9520|West Coast Hip Hop;Hip Hop",
 "Blur|Go Out|2015|Sp1ks7PTzng|Blur (band)|S16304|Alternative Rock;Rock",
-"Manuel Göttsching|E2-E4|1984|ys0HyevZpQg|Manuel Göttsching|S11540|Progressive Electronic;Electronic",
+"Manuel Göttsching|E2-E4|1984|Vq-kovIr2BE|Manuel Göttsching|S11540|Progressive Electronic;Electronic",
 "Wavves|King of the Beach|2010|u6dEfAedJpg|Wavves|S12555|Indie Rock;Surf Punk;Alternative Rock;Punk Rock;Rock;Surf Music",
 "DJ Koze|Zuviel Zeit?|2005|NmPqqAs04dM|DJ Koze|S6105|House;Dance;Electronic;Electronic Dance Music",
 "Jimmy Soul|If You Wanna Be Happy|1963|MH_PANCU9oQ|Jimmy Soul|S6918|Pop Soul;Pop;R&B;Soul",
