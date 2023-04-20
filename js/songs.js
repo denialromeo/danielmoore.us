@@ -5427,7 +5427,7 @@ const songs = [
 "The Supremes|Reflections|1967|2uwSVDOWh4Y|Diana Ross|S2833|Girl Group;Motown Sound;Psychedelic Soul;Pop;Pop Soul;R&B;Soul",
 "A$AP Ferg|Shabba|2013|iXZxipry6kE|ASAP Rocky|S9402|East Coast Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Pharoah Sanders|The Creator Has a Masterplan|1969|eZswXa9fbn8|Pharoah Sanders|S12703|Spiritual Jazz;Avant-Garde Jazz;Jazz",
-"Rainbow|Stargazer|1976|W6CjO0H2j0s|Rainbow (rock band)|S12013|Heavy Metal;Metal;Rock",
+"Rainbow|Stargazer|1976|YmJIccPWnEk|Rainbow (rock band)|S12013|Heavy Metal;Metal;Rock",
 "The Rolling Stones|Dandelion|1967|Z9mlVhJQgTw|The Rolling Stones|S12090|Psychedelic Pop;Psychedelic Rock;Pop;Rock",
 "Gene Pitney|Twenty Four Hours from Tulsa|1963|zugy2rkSM7g?start=6|Gene Pitney|S4087|Brill Building;Pop",
 "Cold War Kids|Hang Me Up to Dry|2006|rsKGWbFpLv0|Cold War Kids|S5852|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock",
