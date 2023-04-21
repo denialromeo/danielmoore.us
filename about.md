@@ -58,7 +58,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="hobbies" href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
 <div id="instructions3" style="display:none;">
-    <p>100% of my non-work-related Internet time is split between this website, YouTube, Amazon, Steam, Goodreads, Reddit, Google News, FiveThirtyEight, ChatGPT, and AI-enabled Bing.</p>
     <p>Some (long-term) planned open-source projects &ndash;</p>
     <ul>
         <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Low&#8209;cost but effective CGI. Darker-skinned actors, shot on location in India.</li>
