@@ -8,7 +8,7 @@ ps_dim: 500x500
 modifiedMsg: false
 ---
 
-<center><img src="https://www.fundraisingbrick.com/thermometer/thermgenerate.php?goal=1000000&current=554000&color=green&label=3" width="400" height="600"/></center>
+<center><img src="https://www.fundraisingbrick.com/thermometer/thermgenerate.php?goal=1000000&current=558000&color=green&label=3" width="400" height="600"/></center>
 
 <br>
 {% include yt.html width='77%' embed='
