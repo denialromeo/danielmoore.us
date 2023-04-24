@@ -1952,7 +1952,7 @@ const songs = [
 "Betty Wright|Clean Up Woman|1971|TPVk-m1Pr4s|Betty Wright|S835|Southern Soul;R&B;Soul",
 "Mary J. Blige|Real Love|1992|90c9pEtZquw|Mary J. Blige|S3220|New Jack Swing;Contemporary R&B;R&B",
 "Bachman-Turner Overdrive|Takin' Care of Business|1973|aJprEyXMrIk?start=14|Bachman–Turner Overdrive|S737|Rock",
-"Diana Ross|I'm Coming Out|1980|9oKGNL4iFlY|Diana Ross|S2341|Disco;Dance",
+"Diana Ross|I'm Coming Out|1980|F-mjl63e0ms|Diana Ross|S2341|Disco;Dance",
 "System of a Down|Chop Suey!|2001|CSvFpBOe8eY|System of a Down|S1464|Alternative Metal;Metal;Rock",
 "Whitney|No Woman|2016|CGKN6qiDqnk|Whitney (band)|S16214|Chamber Folk;Indie Folk;Contemporary Folk;Folk",
 "Yes|Owner of a Lonely Heart|1983|SVOuYquXuuc|Yes (band)|S1892|AOR;Pop Rock;Pop;Rock",
