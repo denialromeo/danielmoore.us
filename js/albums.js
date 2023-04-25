@@ -116,7 +116,7 @@ const albums = [
 "Sufjan Stevens|Carrie & Lowell|2015|PL67VKSNJdY_XBvoFECHFKyesxnDhTVM8N|A5542|Carrie & Lowell|Sufjan Stevens|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "AC/DC|Back in Black|1980|PLzqsoINOR51ZNYuuINo2XVKJu9PQtAcdK|A488|Back in Black|AC/DC|Hard Rock;Rock",
 "Kraftwerk|Trans Europa Express/Trans-Europe Express|1977|PLjIuADMrDKIb3Vkzy31broht0ZHsXfaFE|A396|Trans-Europe Express (album)|Kraftwerk|Electronic",
-"Bruce Springsteen|Darkness on the Edge of Town|1978|PLuLzcYr9FZ7pAnBJpVA1t-c4zBLqWsfsg|A422|Darkness on the Edge of Town|Bruce Springsteen|Heartland Rock;Singer/Songwriter;Rock",
+"Bruce Springsteen|Darkness on the Edge of Town|1978|PLX66jEixZe1w-60nMwFuSbaxftwbMBW4i|A422|Darkness on the Edge of Town|Bruce Springsteen|Heartland Rock;Singer/Songwriter;Rock",
 "LCD Soundsystem|Sound of Silver|2007|PLDIxWXRU4UDq5rPhv-P-dHXFadb0FSBjQ|A4237|Sound of Silver|LCD Soundsystem|Dance-Punk;Indietronica;Electronic;Post-Punk;Rock",
 "Arcade Fire|The Suburbs|2010|PLLYRSl-pvlzCY4TcMoNBG8SD8LYWNud7M|A5053|The Suburbs|Arcade Fire|Indie Rock;Alternative Rock;Rock",
 "Dr. Dre|The Chronic|1992|PLxs2jjSwI-sJVEHh_mdGgQUtPKodtJnpe|A853|The Chronic|Dr. Dre|G-Funk;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
