@@ -274,7 +274,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Joker*](https://play.hbomax.com/page/urn:hbo:page:GYGOrjQfhvKCWowEAAAAE:type:feature) by [Joaquin Phoenix](https://en.wikipedia.org/wiki/Joaquin_Phoenix) (It's getting crazier out here.)
 * [*Justice League Unlimited*](https://play.hbomax.com/page/urn:hbo:page:GYA80NAFd4LrDwgEAAAID:type:series) by [Dwayne McDuffie](https://en.wikipedia.org/wiki/Dwayne_McDuffie) (Probably the last great children's cartoon.)
 * [*Kaze Tachinu*](https://play.hbomax.com/page/urn:hbo:page:GXsQzAw8HPITCwgEAAAAM:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
-* [*The Menu*](https://play.hbomax.com/player/urn:hbo:feature:GY6HeoQwl0MPCLwEAAAgW) by [David Gelb](https://en.wikipedia.org/wiki/David_Gelb) (Eating is not the same as cooking.)
+* [*The Menu*](https://play.hbomax.com/player/urn:hbo:feature:GY6HeoQwl0MPCLwEAAAgW) by [Will Tracy](https://web.archive.org/web/20221116163831/https://www.youtube.com/watch?v=unKAJH5AlRQ) (Eating is not the same as cooking.)
 * [*Mononoke Hime*](https://play.hbomax.com/page/urn:hbo:page:GXrHUCwY3E6u9KwEAAAAO:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (Everyone's the hero of their own story.)
 * [*Nightcrawler*](https://play.hbomax.com/page/urn:hbo:feature:GYxEc3Q1-HcJboAEAAAk4) by [Dan Gilroy](https://en.wikipedia.org/wiki/Dan_Gilroy) (In the end, you're alone.)
 * [*Nope*](https://www.amazon.com/Nope-Daniel-Kaluuya/dp/B0B8V71GPC) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Resurrects and deconstructs the Spielbergian blockbuster.)
