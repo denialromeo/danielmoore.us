@@ -328,7 +328,7 @@ const albums = [
 "FKA twigs|LP1|2014|PLZqsyBiYZFQ0O33igtZ2vNJXQGDfMkyLD|A5391|LP1 (FKA Twigs album)|FKA Twigs|Alternative R&B;Art Pop;Contemporary R&B;Pop;R&B",
 "Kraftwerk|Autobahn|1974|PL803B2522308D3DA9|A328|Autobahn (album)|Kraftwerk|Krautrock;Progressive Electronic;Electronic;Experimental Rock;Progressive Rock;Rock",
 "Joanna Newsom|Ys|2006|PLYNXcgRtGK8Ej3BYnkd13dufY4miEU-U6|A3091|Ys (Joanna Newsom album)|Joanna Newsom|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk",
-"PJ Harvey|Rid of Me|1993|PLiN-7mukU_RHIHRv_RfGzKlbD2_-tczjk|A872|Rid of Me|PJ Harvey|Alternative Rock;Alternative Singer/Songwriter;Rock;Singer/Songwriter",
+"PJ Harvey|Rid of Me|1993|PLMxy067kbpQidqsxnajB_2-hSPEsJrsyC|A872|Rid of Me|PJ Harvey|Alternative Rock;Alternative Singer/Songwriter;Rock;Singer/Songwriter",
 "John Coltrane|Giant Steps|1960|PL5rn4dznj_QSo72TZFfWb0rLpEEq-k49r|A1859|Giant Steps (composition)|John Coltrane|Hard Bop;Bebop;Jazz",
 "Madonna|Like a Prayer|1989|PLF0AhMBAen_vohFthLzvnYZjJ_Q0tE0RL|A758|Like a Prayer (album)|Madonna (entertainer)|Pop",
 "The Who|The Who Sell Out|1967|PL6C9F2BAE9FA0EE04|A1234|The Who Sell Out|The Who|Freakbeat;Mod;Beat Music;Pop;Pop Rock;Rock",
