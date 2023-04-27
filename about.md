@@ -290,7 +290,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Turning Red*](https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m) by [Domee Shi](https://en.wikipedia.org/wiki/Domee_Shi) (Written by women for women.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
 * [*The Wolf of Wall Street*](https://www.paramountplus.com/movies/video/r_f3sYrm5VnjVJz1fQfYN3D_rxus_4y4/) by [Martin Scorsese](https://en.wikipedia.org/wiki/Martin_Scorsese) (Markets don't reward what's best for society.)
-* [*World's Greatest Dad*](https://www.hulu.com/movie/worlds-greatest-dad-1cac4efa-b404-49bb-be58-bd25fb9998b0) by [Bobcat Goldthwait](https://en.wikipedia.org/wiki/Bobcat_Goldthwait) (Hell is other people.)
+* [*World's Greatest Dad*](https://www.amazon.com/gp/video/detail/B00C0J535Q) by [Bobcat Goldthwait](https://en.wikipedia.org/wiki/Bobcat_Goldthwait) (Hell is other people.)
 * [*Zhang Jin Hu*](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=battle+at+lake+changjin) by [Wu Jing](https://en.wikipedia.org/wiki/Wu_Jing_(actor)) (Resist U.S. aggression and aid Korea!)
 
 {:#comic-books}
