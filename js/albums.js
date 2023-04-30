@@ -2293,7 +2293,7 @@ const albums = [
 "George Michael|Listen Without Prejudice Vol. 1|1990|PL8Lpw39GxwbNohiGTsJEfgBgAVGKdJEJp|A808|Listen Without Prejudice Vol. 1|George Michael|Pop",
 "Feist|Let It Die|2004|PL-IAyYJf7vvlJBncZ7vfJJKzqu1S7ez8U|A4107|Let It Die (album)|Feist (singer)|Indie Pop;Singer/Songwriter;Pop",
 "Julia Holter|Aviary|2018|PLqITtzxxtItE6n4Td3kYelJTBKop2Qxei|A6049|Aviary (album)|Julia Holter|Ambient Pop;Art Pop;Experimental;Progressive Pop;Pop",
-"George Russell|New York N.Y.|1959|PLayf8SykLSK-KzeTvZsr1phX28zWIrHT_|A2273|New York, N.Y. (album)|George Russell (composer)|Big Band;Jazz",
+"George Russell|New York N.Y.|1959|PL0q2VleZJVEmqADP-yASWIBI3xWYFjzxS|A2273|New York, N.Y. (album)|George Russell (composer)|Big Band;Jazz",
 "Willie Nelson|Phases and Stages|1974|PL3YjT--U7ZohaBm0V8KJ3YSlG7PXWU6E5|A1151|Phases and Stages|Willie Nelson|Outlaw Country;Country;Progressive Country",
 "U2|How to Dismantle an Atomic Bomb|2004|PLA39E1C2BFBD39B4E|A4076|How to Dismantle an Atomic Bomb|U2|Alternative Rock;Pop Rock;Pop;Rock",
 "Herbert|Around the House|1998|PLaPk5HmSdGn-VZN0K0cnh52m88nj2r626|A3736|Around the House|Matthew Herbert|Microhouse;Dance;Electronic;Electronic Dance Music;House",
