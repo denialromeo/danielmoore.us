@@ -166,6 +166,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Will ChatGPT Replace Human Software Developers?](https://aista.hashnode.dev/will-chatgpt-replace-human-software-developers)" by Aista (The short answer is yes.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
+    <p>I have little interest in catering to Western consumers, whom I consider lazy and bigoted. I'm happy to not make any money from my art so long as my recipients appreciate and understand it.</p>
     <p>"The leaders may infect themselves with the hypnotism which they have induced in their followers. &nbsp;In that event, the docility of the rank and file will have been purchased at the disastrous price of a &nbsp;loss of intitiative in the officers." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
     <p>"Broken-down civilizations have not met their death from an assassin’s hand; in almost every &nbsp;instance, we have been led to return a verdict of suicide." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
 * [*Designing Data-Intensive Applications*](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063) by [Martin Kleppmann](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html) (How to serve billions of users.)
