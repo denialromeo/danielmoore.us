@@ -7386,7 +7386,7 @@ const songs = [
 "Garbage|Special|1998|raRGnueg8Lo|Garbage (band)|S6500|Alternative Rock;Pop Rock;Pop;Rock",
 "Ruth Etting|Ten Cents a Dance|1930|6k4E9bPpMXE|Ruth Etting|S8283|Traditional Pop;Pop",
 "My Bloody Valentine|Sometimes|1991|1c8Selr9Aec|My Bloody Valentine (band)|S13043|Dream Pop;Shoegaze;Alternative Rock;Rock",
-"Black|Sweetest Smile|1987|dpS9A_nS2ho|Black (singer)|S1970|Sophisti-Pop;Pop",
+"Black|Sweetest Smile|1987|5_k3XCb_rWQ|Black (singer)|S1970|Sophisti-Pop;Pop",
 "Kirsty MacColl|Walking Down Madison|1991|1ploIlurVZ8|Kirsty MacColl|S7131|Alternative Dance;Alternative Rock;Dance;Rock",
 "Cher|Alfie|1966|mQ3XsTmKzVk|Cher|S5774|Traditional Pop;Pop",
 "Talking Heads|Nothing But Flowers|1988|2iiGqBfyLaw|Talking Heads|S12396|Art Pop;Pop Rock;Pop;Rock",
