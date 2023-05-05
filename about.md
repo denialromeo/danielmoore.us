@@ -166,6 +166,8 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Will ChatGPT Replace Human Software Developers?](https://aista.hashnode.dev/will-chatgpt-replace-human-software-developers)" by Aista (The short answer is yes.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
+    <p>I did quite well for myself during the recent COVID-19 tech boom, enough so that I can live off passive income indefinitely (frugally in the Bay Area and lavishly outside the West).</p>
+    <p>Long-term, I can't see myself growing old in the U.S. I intend to base myself in Hyderabad, India, while maintaining pied-a-terres in some other cheaper locales (Nairobi? Mexico City? Manila?).</p>
     <p>I have little interest in catering to Western consumers, whom I consider lazy and bigoted. I'm happy to not make any money from my art so long as my recipients appreciate and understand it.</p>
     <p>"The leaders may infect themselves with the hypnotism which they have induced in their followers. &nbsp;In that event, the docility of the rank and file will have been purchased at the disastrous price of a &nbsp;loss of intitiative in the officers." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
     <p>"Broken-down civilizations have not met their death from an assassin’s hand; in almost every &nbsp;instance, we have been led to return a verdict of suicide." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
