@@ -92,6 +92,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * "[FFmpeg](https://ffmpeg.org/)" by Fabrice Bellard (Lightning-fast video editing.)
 * "[Scoop](https://scoop.sh/)" by Luke Sampson (Windows command-line installer.)
+* "[Unhook](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid?hl=en)" by Unhook App (Removes YouTube's social media aspects.)
 * "[Video Screenshot](https://chrome.google.com/webstore/detail/video-screenshot/ppkojackhibeogijphhfnamhemklmial?hl=en)" by Martin Strauss (Generate desktop wallpapers from streaming sites.)
 * "[Vimium](https://github.com/philc/vimium#readme)" by Phil Crosby (Mouse-less browsing.)
 * "[youtube-dl](https://github.com/yt-dlp/yt-dlp#readme)" by Ricardo Garc&iacute;a (Download YouTube videos.)
