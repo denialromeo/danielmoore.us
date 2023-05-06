@@ -166,8 +166,8 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Will ChatGPT Replace Human Software Developers?](https://aista.hashnode.dev/will-chatgpt-replace-human-software-developers)" by Aista (The short answer is yes.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
-    <p>I did quite well for myself during the recent COVID-19 tech boom, enough so that I can live off passive income indefinitely (frugally in the Bay Area and lavishly outside the West).</p>
-    <p>Long-term, I can't see myself growing old in the U.S. I intend to base myself in Hyderabad, India, while maintaining pied-a-terres in some other cheaper locales (Nairobi? Mexico City? Manila?).</p>
+    <p>I did quite well for myself during the COVID-19 tech boom, enough so that I can indefinitely live off passive income (frugally in the San Francisco Bay Area and lavishly outside the West).</p>
+    <p>Long-term, I can't see myself growing old in the U.S. I intend to base myself in Hyderabad, India, while maintaining pied-à-terres in some other cheaper locales (Nairobi? Mexico City? Manila?).</p>
     <p>I have little interest in catering to Western consumers, whom I consider lazy and bigoted. I'm happy to not make any money from my art so long as my recipients appreciate and understand it.</p>
     <p>"The leaders may infect themselves with the hypnotism which they have induced in their followers. &nbsp;In that event, the docility of the rank and file will have been purchased at the disastrous price of a &nbsp;loss of intitiative in the officers." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
     <p>"Broken-down civilizations have not met their death from an assassin’s hand; in almost every &nbsp;instance, we have been led to return a verdict of suicide." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
@@ -276,6 +276,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Inglourious Basterds*](https://www.amazon.com/Inglourious-Basterds-Brad-Pitt/dp/B002UEW31I) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (History is but the biography of great men.)
 * [*Jiro Dreams of Sushi*](https://www.amazon.com/gp/video/detail/B00BR1FD26) by [Ono Jiro](https://en.wikipedia.org/wiki/Jiro_Ono_(chef)) (There is bliss in doing your job well.)
 * [*Joker*](https://play.hbomax.com/page/urn:hbo:page:GYGOrjQfhvKCWowEAAAAE:type:feature) by [Joaquin Phoenix](https://en.wikipedia.org/wiki/Joaquin_Phoenix) (It's getting crazier out here.)
+* [*Justice League: Gods and Monsters*](https://play.hbomax.com/page/urn:hbo:page:GXeRM3QMWQsPCwwEAADxa:type:feature) by [Bruce Timm](https://en.wikipedia.org/wiki/Bruce_Timm) (Distillates American comics' Silver Age.)
 * [*Justice League Unlimited*](https://play.hbomax.com/page/urn:hbo:page:GYA80NAFd4LrDwgEAAAID:type:series) by [Dwayne McDuffie](https://en.wikipedia.org/wiki/Dwayne_McDuffie) (Probably the last great children's cartoon.)
 * [*Kaze Tachinu*](https://play.hbomax.com/page/urn:hbo:page:GXsQzAw8HPITCwgEAAAAM:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
 * [*The Menu*](https://play.hbomax.com/player/urn:hbo:feature:GY6HeoQwl0MPCLwEAAAgW) by [Will Tracy](https://www.creativescreenwriting.com/seth-reiss-and-will-tracy-take-a-look-at-the-menu/) (Eating is not the same as cooking.)
