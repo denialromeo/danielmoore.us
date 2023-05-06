@@ -273,7 +273,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Gisaengchung*](https://www.hulu.com/movie/2fd691a0-f66b-467f-8635-00d7f151f3d4) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (Class struggle is swiftly returning.)
 * [*The Green Knight*](https://www.amazon.com/dp/B09CP38JQ5) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (It really is all a game.)
 * [*Ikiru*](https://play.hbomax.com/page/urn:hbo:page:GXmlRtQZGhcNVoAEAAAMj:type:feature) by [Kurosawa Akira](https://en.wikipedia.org/wiki/Akira_Kurosawa) (The world is a museum of passion projects.)
-* [*Inglourious Basterds*](https://www.amazon.com/Inglourious-Basterds-Brad-Pitt/dp/B002UEW31I) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (History is but the biography of great men.)
 * [*Jiro Dreams of Sushi*](https://www.amazon.com/gp/video/detail/B00BR1FD26) by [Ono Jiro](https://en.wikipedia.org/wiki/Jiro_Ono_(chef)) (There is bliss in doing your job well.)
 * [*Justice League: Gods and Monsters*](https://play.hbomax.com/page/urn:hbo:page:GXeRM3QMWQsPCwwEAADxa:type:feature) by [Bruce Timm](https://en.wikipedia.org/wiki/Bruce_Timm) (Distills American comics' Silver Age.)
 * [*Justice League Unlimited*](https://play.hbomax.com/page/urn:hbo:page:GYA80NAFd4LrDwgEAAAID:type:series) by [Dwayne McDuffie](https://en.wikipedia.org/wiki/Dwayne_McDuffie) (Probably the last great children's cartoon.)
