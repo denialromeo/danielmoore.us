@@ -52,6 +52,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="hobbies" href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
 <div id="instructions3" style="display:none;">
+    <p>Now that the low interest rate driven tech boom of the past decade is waning, I may switch from web development to become a contract game engine programmer.</p>
     <p>Some (long-term) planned open-source projects &ndash;</p>
     <ul>
         <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Low&#8209;cost but effective CGI. Darker-skinned actors, shot on location in India.</li>
@@ -111,7 +112,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Logical Chess*](https://archive.org/details/logicalchess_movebymove) by [Irving Chenev](https://en.wikipedia.org/wiki/Irving_Chernev) (Teaches the consequences of small changes.)
 * [*The Penguin Book of Card Games*](https://www.goodreads.com/notes/19169344-the-penguin-book-of-card-games/71655209-daniel-moore) by [David Parlett](https://en.wikipedia.org/wiki/David_Parlett) (A lifetime of fun. Also see [pagat.com](https://www.pagat.com/).)
 * [*Poker Tells*](https://www.goodreads.com/notes/18951325-caro-s-book-of-poker-tells/71655209-daniel-moore) by [Mike Caro](https://en.wikipedia.org/wiki/Mike_Caro) (Reading body language for fun and profit. Comes with [videos](https://www.youtube.com/watch?v=NeyglBBYqtE&list=UUuywjfVen04luJsU8cn68jQ&index=9).)
-* [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Planning is half the battle.)
 * [*The Royal Road to Card Magic*](https://www.goodreads.com/notes/18931201-the-royal-road-to-card-magic/71655209-daniel-moore) by [Jean Hugard](https://en.wikipedia.org/wiki/Jean_Hugard) (Spice up game night.)
 * [*Starting Strength*](https://www.goodreads.com/notes/15746753-starting-strength/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Pair with the [DVD](https://www.youtube.com/watch?v=EXZ46_-uwss&list=PLEB5rVJv_L5k0Tr5qvZ6GcK5cpJRLjMa-) for best results.)
 
@@ -119,11 +119,12 @@ I hope you have a good time here. Thanks for dropping by.
 **Philosophy Books**
 
 * [*The Analects*](http://classics.mit.edu/Confucius/analects.1.1.html) by [Kong Fuzi](https://en.wikipedia.org/wiki/Confucius) (Building a society that works starts from the bottom.)
-* [*The Art of War*](http://classics.mit.edu/Tzu/artwar.html) by [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu) (Conflict is the default state for all life.)
+* [*The Art of War*](https://www.goodreads.com/notes/20112728-the-art-of-war/71655209-daniel-moore) by [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu) (Conflict is the default state for all life.)
 * [*The Book of Five Rings*](https://www.goodreads.com/notes/31197112-the-book-of-five-rings/71655209-daniel-moore) by [Miyamoto Musashi](https://en.wikipedia.org/wiki/Miyamoto_Musashi) (From one thing, know ten thousand things.)
 * [*Certain to Win*](https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore) by [Chet Richards](https://slightlyeastofnew.com/page-1/) (How to outmaneuver and defeat much larger enemies.)
 * [*The Complete Works*](https://www.goodreads.com/notes/29997711-the-collected-works-of-arthur-schopenhauer/71655209-daniel-moore) by [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (Patron saint of intellectuals.)
 * [*Disciplined Minds*](/disciplined-minds) by [Jeff Schmidt](https://disciplinedminds.tripod.com/) (Thriving in the white-collar workplace.)
+* [*Feline Philosophy*](https://www.goodreads.com/notes/54106568-feline-philosophy/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (There is no higher goal than becoming a cat.)
 * [*The 48 Laws of Power*](https://www.goodreads.com/notes/36548138-the-48-laws-of-power/71655209-daniel-moore) by [Robert Greene](https://en.wikipedia.org/wiki/Robert_Greene_(American_author)) (Either exercise power or have it exercised on you.)
 * [*Poker For Dummies*](https://www.goodreads.com/notes/19378414-poker-for-dummies/71655209-daniel-moore) by [Richard Harroch](https://www.linkedin.com/in/richard-d-harroch-15253a3/) (Works as a metaphor for pretty much everything.)
 * [*Straw Dogs*](https://www.goodreads.com/notes/29767507-straw-dogs/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (Breaking free of monotheistic orthodoxy.)
@@ -161,6 +162,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Will ChatGPT Replace Human Software Developers?](https://aista.hashnode.dev/will-chatgpt-replace-human-software-developers)" by Aista (The short answer is yes.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
+* [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Planning is half the battle.)
     <p>"In multiracial societies, you don't vote in accordance with your economic interests and social &nbsp;interests, you vote in accordance with race and religion." &ndash; <a href="https://en.wikipedia.org/wiki/Lee_Kuan_Yew">Lee Kuan Yew</a></p>
     <p>"The basis of society, of any society, is a certain pride in obedience. When this pride no longer &nbsp;exists, the society collapses." &ndash; <a href="ihttps://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore">Emil Cioran</a></p>
     <p>"If you asked me any year what was the most important thing that happened that year, I probably &nbsp;would have no answer, but over five years' time the whole field changes." &ndash; <a href="https://web.cs.dal.ca/~eem/fea-knuth.pdf">Donald Knuth</a></p>
