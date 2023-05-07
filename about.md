@@ -102,7 +102,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Learn C++*](https://www.learncpp.com/) by Alex (For those of us who went to [JavaSchools](https://www.joelonsoftware.com/category/reading-lists/top-10/#post-912).)
 * [*Learn OpenGL*](https://learnopengl.com/book/book_pdf.pdf) by [Joey de Vries](https://twitter.com/JoeyDeVriez) (Graphics from scratch.)
 
-(For more fun, check out [this list](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-langs.html) by the Free Ebook Foundation.)
+(For more fun, check out [this list](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-subjects.html) by the Free Ebook Foundation.)
 
 {:#hobbyist-books}
 **Hobbyist Books**
