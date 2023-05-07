@@ -44,7 +44,6 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="instructions2" style="display:none;">
     <p>"The basis of society, of any society, is a certain pride in obedience. When this pride no longer &nbsp;exists, the society collapses." &ndash; <a href="ihttps://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore">Emil Cioran</a></p>
     <p>"In multiracial societies, you don't vote in accordance with your economic interests and social &nbsp;interests, you vote in accordance with race and religion." &ndash; <a href="https://en.wikipedia.org/wiki/Lee_Kuan_Yew">Lee Kuan Yew</a></p>
-    <p>"If you asked me any year what was the most important thing that happened that year, I probably &nbsp;would have no answer, but over five years' time the whole field changes." &ndash; <a href="https://web.cs.dal.ca/~eem/fea-knuth.pdf">Donald Knuth</a></p>
     <p>"The race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches &nbsp;to men of understanding, but time and chance happeneth to them all." &ndash; <a href="https://www.biblegateway.com/passage/?search=Ecclesiastes%209&version=KJV">Ecclesiastes 9:11</a></p>
     <hr>
     <p>Historical statements I believe &ndash;</p>
@@ -167,6 +166,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Will ChatGPT Replace Human Software Developers?](https://aista.hashnode.dev/will-chatgpt-replace-human-software-developers)" by Aista (The short answer is yes.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
+    <p>"If you asked me any year what was the most important thing that happened that year, I probably &nbsp;would have no answer, but over five years' time the whole field changes." &ndash; <a href="https://web.cs.dal.ca/~eem/fea-knuth.pdf">Donald Knuth</a></p>
     <p>I did quite well for myself during the COVID-19 tech boom, enough so that I can indefinitely live off passive income (frugally in the San Francisco Bay Area and lavishly outside the West).</p>
     <p>Long-term, I can't see myself growing old in the U.S. I intend to base myself in Hyderabad, India, while maintaining pied-à-terres in some other cheaper locales (Nairobi? Mexico City? Manila?).</p>
     <p>I have little interest in catering to Western consumers, whom I consider lazy and bigoted. I'm happy to not make any money from my art so long as my recipients appreciate and understand it.</p>
