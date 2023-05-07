@@ -46,7 +46,7 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Mark Zuckerberg, <a target="_blank" href="https://truthsocial.com/@realDonaldTrump">Donald Trump</a>, Barack Obama, Mitch McConnell, Joe Biden, and Satya Nadella<a href="https://www.youtube.com/watch?v=UNbyT7wPwk4" title="I've always felt like why is there such disparity today in the job, in the labor market between let's say some care worker and let's call it sort of a software developer. And it's because we think of, we as a society have decided to give it different, I'd say premium. Those premiums will adjust as some of these technologies really truly get diffused."></a>.</li>
-        <li>Honorable mentions go to Ronald Reagan, Boris Yeltsin, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Qian Xuesen, Leonid Brezhnev, Indira Gandhi, Jiang Zemin, Ho Chi Minh, Adolf Hitler, and Albert Einstein.</li>
+        <li>Honorable mentions go to Ronald Reagan, Boris Yeltsin, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Qian Xuesen, Leonid Brezhnev, Indira Gandhi, Jiang Zemin, and Ho Chi Minh.</li>
     </ul>
 </div>
 
@@ -162,6 +162,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Will ChatGPT Replace Human Software Developers?](https://aista.hashnode.dev/will-chatgpt-replace-human-software-developers)" by Aista (The short answer is yes.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
+        <li>The early 20th century's most influential people were Franklin Roosevelt, Vladimir Lenin, Adolf Hitler, Albert Einstein.</li>
 * [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Planning is half the battle.)
     <p>"In multiracial societies, you don't vote in accordance with your economic interests and social &nbsp;interests, you vote in accordance with race and religion." &ndash; <a href="https://en.wikipedia.org/wiki/Lee_Kuan_Yew">Lee Kuan Yew</a></p>
     <p>"The basis of society, of any society, is a certain pride in obedience. When this pride no longer &nbsp;exists, the society collapses." &ndash; <a href="ihttps://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore">Emil Cioran</a></p>
