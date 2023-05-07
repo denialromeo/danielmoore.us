@@ -371,7 +371,7 @@ const songs = [
 "Pet Shop Boys|West End Girls|1985|p3j2NYZ8FKs|Pet Shop Boys|S419|Synthpop;Electronic;Pop",
 "Jackie Brenston|Rocket 88|1951|Gbfnh1oVTk0|Jackie Brenston|S1338|Jump-Blues;Rhythm & Blues;Rock & Roll;Blues;R&B;Rock",
 "Sufjan Stevens|Chicago|2005|c_-cUdmdWgU|Sufjan Stevens|S4265|Chamber Pop;Baroque Pop;Indie Pop;Pop",
-"Muddy Waters|Manish Boy|1955|bSfqNEvykv0|Muddy Waters|S1302|Chicago Blues;Blues;Electric Blues",
+"Muddy Waters|Mannish Boy|1955|bSfqNEvykv0|Muddy Waters|S1302|Chicago Blues;Blues;Electric Blues",
 "Chuck Berry|Roll Over Beethoven|1956|kKlzUKLOm_U|Chuck Berry|S1271|Rock & Roll;Rock",
 "John Lennon|Instant Karma (We All Shine On)|1970|xLy2SaSQAtA|John Lennon|S851|Pop Rock;Pop;Rock",
 "Cab Calloway|Minnie the Moocher|1931|8suquDgg0dw|Cab Calloway|S2655|Swing;Jazz",
