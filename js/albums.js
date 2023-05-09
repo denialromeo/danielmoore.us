@@ -1067,7 +1067,7 @@ const albums = [
 "Johnny Cash|American IV: The Man Comes Around|2002|PLiN-7mukU_RGMjeWBlpbZP5y3sjPYeymN|A1737|American IV: The Man Comes Around|Johnny Cash|Americana;Country",
 "Fleet Foxes|Helplessness Blues|2011|PL55A2CBE5C0659B32|A5143|Helplessness Blues|Fleet Foxes|Chamber Folk;Indie Folk;Contemporary Folk;Folk",
 "Metallica|Ride the Lightning|1984|PL_Dm-xhk4f3HgEyYE9bC1YQsdHTMKmseP|A3010|Ride the Lightning|Metallica|Thrash Metal;Metal;Rock",
-"Billy Bragg & Wilco|Mermaid Avenue|1998|PLuFrIncMdIQxoTv7pBy5fPe8Mzq-aeRjd|A1039|Mermaid Avenue|Wilco|Alt-Country;Americana;Folk Rock;Country;Rock",
+"Billy Bragg & Wilco|Mermaid Avenue|1998|PLN-8yeXgk1ADCYR70s8IE195a45ChN_Rv|A1039|Mermaid Avenue|Wilco|Alt-Country;Americana;Folk Rock;Country;Rock",
 "Aztec Camera|High Land, Hard Rain|1983|PLq3x4Lz2f2S06txN0AEvzulf2ktOEBOci|A589|High Land, Hard Rain|Aztec Camera|Jangle Pop;New Wave;Alternative Rock;Pop;Pop Rock;Rock",
 "The Jayhawks|Hollywood Town Hall|1992|PLX66jEixZe1yjmgSmhAKvOQzaO0mPz_fE|A857|Hollywood Town Hall|The Jayhawks|Alt-Country;Americana;Country Rock;Country;Rock",
 "Built to Spill|Keep It Like a Secret|1999|PL3sxvIKmd5fE_IpUOVqsTz3yUriJ6i_dP|A1054|Keep It Like a Secret|Built to Spill|Indie Rock;Alternative Rock;Rock",
