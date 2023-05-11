@@ -48,6 +48,14 @@ I hope you have a good time here. Thanks for dropping by.
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Mark Zuckerberg, <a target="_blank" href="https://truthsocial.com/@realDonaldTrump">Donald Trump</a>, Barack Obama, Mitch McConnell, Joe Biden, and Satya Nadella<a href="https://www.youtube.com/watch?v=UNbyT7wPwk4" title="I've always felt like why is there such disparity today in the job, in the labor market between let's say some care worker and let's call it sort of a software developer. And it's because we think of, we as a society have decided to give it different, I'd say premium. Those premiums will adjust as some of these technologies really truly get diffused."></a>.</li>
         <li>Honorable mentions go to Ronald Reagan, Milton Friedman, Boris Yeltsin, Jiang Zemin, Qian&nbsp;Xuesen, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Leonid Brezhnev, Indira Gandhi, and Ho Chi Minh.</li>
     </ul>
+    {% comment %}
+    <hr>
+    <p>Some predictions for the near future &ndash;</p>
+    <ul>
+        <li>Now that the COVID-19 pandemic has proven that remote work is feasible, we're going to see most white-collar work which AI can't complete offshored. Immigrants will come to Canada and Latin America to work remotely for U.S. companies to prevent time zone issues.</li>
+        <li>The U.S. and our allies will become increasingly isolated as China makes further inroads with most of the world. Property and stock prices will plummet as the world economy's center moves from New York to Shanghai. War with China would probably only accelerate this.</li>
+    </ul>
+    {% endcomment %}
 </div>
 
 <a id="hobbies" href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
