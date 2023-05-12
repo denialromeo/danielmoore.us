@@ -6612,7 +6612,7 @@ const songs = [
 "INXS|Original Sin|1983|PTULqzrhBWA|INXS|S6795|Pop Rock;Pop;Rock",
 "The Coral|In the Morning|2005|KErHjXpsfwA|The Coral|S3049|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Roxanne Shanté|Go On Girl|1988|0V_9LunHXtk|Roxanne Shante|S1978|East Coast Hip Hop;Hip Hop",
-"Rainbow|Since You've Been Gone|1979|1P17ct4e5OE|Rainbow (rock band)|S2339|Hard Rock;Pop Rock;Pop;Rock",
+"Rainbow|Since You Been Gone|1979|1P17ct4e5OE|Rainbow (rock band)|S2339|Hard Rock;Pop Rock;Pop;Rock",
 "Aretha Franklin|A Rose Is Still a Rose|1998|gtMUQbnT_Lo|Aretha Franklin|S3423|Contemporary R&B;Soul;R&B",
 "Neneh Cherry|Woman|1996|pAYSAYg9kPI|Neneh Cherry|S4230|Contemporary R&B;Trip Hop;Downtempo;Electronic;R&B",
 "Foo Fighters|Walk|2011|4PkcfQtibmU|Foo Fighters|S10841|Alternative Rock;Rock",
