@@ -245,7 +245,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Cinema Speculation*](https://www.goodreads.com/notes/61198870-cinema-speculation/71655209-daniel-moore) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Watch the films as you read to fully get it.)
 * [*Four Star Reviews, 1967-2007*](https://www.goodreads.com/notes/9517283-roger-ebert-s-four-star-reviews-1967-2007/71655209-daniel-moore) by [Roger Ebert](https://en.wikipedia.org/wiki/Roger_Ebert) (Forty years at the movies.)
 * [*The Governance of China*](https://www.goodreads.com/notes/24309365-xi-jinping-the-governance-of-china/71655209-daniel-moore) by [Xi Jinping](https://en.wikipedia.org/wiki/Xi_Jinping) (Perhaps the 21st century's most influential person.)
-* [*Hit Refresh*](https://www.goodreads.com/notes/31139580-hit-refresh/71655209-daniel-moore) by [Satya Nadella](https://en.wikipedia.org/wiki/Satya_Nadella) (He turned AI from a vaporware joke to [terrifying](https://chat.openai.com/chat) [reality](https://labs.openai.com/).)
+* [*Hit Refresh*](https://www.goodreads.com/notes/31139580-hit-refresh/71655209-daniel-moore) by [Satya Nadella](https://en.wikipedia.org/wiki/Satya_Nadella) (His talent for acquisitions put Microsoft back on the map.)
 * [*What Happened*](https://www.goodreads.com/notes/34114362-what-happened/71655209-daniel-moore) by [Hillary Clinton](https://en.wikipedia.org/wiki/Hillary_Clinton) (Her electoral losses defined the 21st century.)
 * [*Working*](https://www.goodreads.com/notes/43219063-working/71655209-daniel-moore) by [Robert Caro](https://en.wikipedia.org/wiki/Robert_Caro) (Vita brevis, ars longa.)
 
