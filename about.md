@@ -42,7 +42,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="political-views" href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
-    <p>I'm of the opinion that World War 3 started on February 24, 2022, when Russia invaded Ukraine. Multipolarity, global climate change, and ChatGPT loom. We are all living on borrowed time.</p>
+    <p>I'm of the opinion that World War 3 started on February 24, 2022, when Russia invaded Ukraine. Multipolarity, global climate change, and AI loom. We are all living on borrowed time.</p>
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
