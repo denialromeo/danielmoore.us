@@ -20,10 +20,10 @@ modifiedMsg: false
 ```javascript
 function yearsUntilDepletion(principal, returnRate, expenses) {
   returnRate /= 100;
-  let years = 0;
+  let years = 1;
   while (principal > 0) {
     principal += principal * returnRate - expenses;
-    console.log(years + 1 + ", " + principal);
+    console.log(`${years}, ${principal}`);
     years++;
     if (years > 33) { break; }
   }
