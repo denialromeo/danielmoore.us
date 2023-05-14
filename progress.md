@@ -24,7 +24,8 @@ function yearsUntilDepletion(principal, returnRate, expenses) {
   while (principal > 0) {
     principal += principal * returnRate - expenses;
     console.log(years + 1 + ", " + principal);
-    years++; if (years > 33) { return years; }
+    years++;
+    if (years > 33) { break; }
   }
   return years;
 }
