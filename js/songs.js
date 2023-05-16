@@ -5264,7 +5264,7 @@ const songs = [
 "David Bowie|Panic in Detroit|1973|SKoIPk5Za0A|David Bowie|S10526|Glam Rock;Rock",
 "The Staple Singers|Uncloudy Day|1956|qkfCkW_VkTs|The Staple Singers|S9365|Gospel;American Folk Music;Folk;Regional Music;Traditional Folk Music",
 "Bob Dylan|Maggie's Farm|1965|G8yU8wk67gY|Bob Dylan|S5543|Blues Rock;Folk Rock;Singer/Songwriter;Rock",
-"Filter|Hey Man Nice Shot|1995|axTmVs3BTbg|Filter (band)|S10808|Alternative Rock;Industrial Rock;Industrial Music;Rock",
+"Filter|Hey Man Nice Shot|1995|o9mJ82x_l-E|Filter (band)|S10808|Alternative Rock;Industrial Rock;Industrial Music;Rock",
 "Perry Como|Till the End of Time|1945|KFXA_-2cIYU|Perry Como|S7933|Traditional Pop;Pop",
 "The Rolling Stones|Undercover of the Night|1983|DVJkfXeTs9Q|The Rolling Stones|S1910|Pop Rock;Pop;Rock",
 "Bon Iver|Blood Bank|2009|OwtkV9EOcdE|Bon Iver|S4790|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk",
