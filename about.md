@@ -46,6 +46,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>I'm of the opinion that World War 3 started on February 24, 2022, when Russia invaded Ukraine. Multipolarity, global climate change, and artificial intelligence loom. Plan accordingly.</p>
     <p>In general, I trust institutions more than I trust people. When given autonomy, most people I've met slack off at best and are actively malicious at worst. Standards, bureaucracy, etc. are desirable.</p>
     <p>In this age of artificial intelligence, great power competition, and global climate change, I'm not sure that creating new people is a worthwhile goal. We may be a cancer on the verge of killing our host.</p>
+    <p>Most people aren't worth the price of the food they eat, and have mostly been kept around because disposing of them would be too much trouble.</p>
 {%endcomment%}
     <p>Historical statements I believe &ndash;</p>
     <ul>
