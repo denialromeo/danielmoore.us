@@ -44,12 +44,14 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="instructions2" style="display:none;">
 {%comment%}
     <p>I'm of the opinion that World War 3 started on February 24, 2022, when Russia invaded Ukraine. Multipolarity, global climate change, and artificial intelligence loom. Plan accordingly.</p>
+    <p>In general, I trust institutions more than I trust people. When given autonomy, most people I've met slack off at best and are actively malicious at worst. Standards, bureaucracy, etc. are desirable.</p>
+    <p>In this age of artificial intelligence, great power competition, and global climate change, I'm not sure that creating new people is a worthwhile goal. We may be a cancer on the verge of killing our host.</p>
 {%endcomment%}
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Mark Zuckerberg, <a target="_blank" href="https://truthsocial.com/@realDonaldTrump">Donald Trump</a>, Barack Obama, Mitch McConnell, Joe Biden, and Satya Nadella<a href="https://www.youtube.com/watch?v=UNbyT7wPwk4" title="I've always felt like why is there such disparity today in the job, in the labor market between let's say some care worker and let's call it sort of a software developer. And it's because we think of, we as a society have decided to give it different, I'd say premium. Those premiums will adjust as some of these technologies really truly get diffused."></a>.</li>
-        <li>Honorable mentions go to Ronald Reagan, Milton Friedman, Boris Yeltsin, Jiang Zemin, Qian&nbsp;Xuesen, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Leonid Brezhnev, Indira Gandhi, and Ho Chi Minh.</li>
+        <li>Honorable mentions go to Ronald Reagan, Milton Friedman, Boris Yeltsin, Jiang Zemin, Qian&nbsp;Xuesen, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Leonid Brezhnev, Indira Gandhi, and Norman Borlaug.</li>
     </ul>
     {% comment %}
     <hr>
@@ -64,7 +66,8 @@ I hope you have a good time here. Thanks for dropping by.
 <a id="hobbies" href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
 <div id="instructions3" style="display:none;">
 {%comment%}
-    <p>Now that the low interest rate driven tech boom of the past decade is waning, I may switch from web development to become a contract game engine programmer.</p>
+    <p>If the ongoing recession gets bad enough, I may switch from web development to become a contract game engine programmer.</p>
+    <p>To be totally honest, I've not been that happy with my life in the U.S. The money's been great, but the people are pretty terrible. If this next recession's as bad as they say it'll be, I'm probably leaving.</p>
 {%endcomment%}
     <p>Some (long-term) planned open-source projects &ndash;</p>
     <ul>
@@ -110,7 +113,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Coders at Work*](https://github.com/ndina/acm/raw/master/coders-at-work.pdf) by [Peter Seibel](https://gigamonkeys.com) (Mentorship from the great programmers of our time.)
 * [*Game Programming Patterns*](http://gameprogrammingpatterns.com/contents.html) by [Bob Nystrom](http://stuffwithstuff.com/) (Notes on building maintainable software.)
-* [*The Grind 75*](https://www.techinterviewhandbook.org/grind75) by Yangshun Tay (Data structure/algorithm refresher and interview prep.)
 * [*Knock &#8217;em Dead Job Interview*](https://www.goodreads.com/notes/21519592-knock-em-dead-job-interview/71655209-daniel-moore) by [Martin Yate](https://www.linkedin.com/in/expertresumewritercareercoach/) (Easily the most important professional skill.)
 * [*Learn C++*](https://www.learncpp.com/) by Alex (For those of us who went to [JavaSchools](https://www.joelonsoftware.com/category/reading-lists/top-10/#post-912).)
 * [*Learn OpenGL*](https://learnopengl.com/book/book_pdf.pdf) by [Joey de Vries](https://twitter.com/JoeyDeVriez) (Graphics from scratch.)
@@ -174,6 +176,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Will ChatGPT Replace Human Software Developers?](https://aista.hashnode.dev/will-chatgpt-replace-human-software-developers)" by Aista (The short answer is yes.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
+* [*The Grind 75*](https://www.techinterviewhandbook.org/grind75) by Yangshun Tay (Data structure/algorithm refresher and interview prep.)
 * [*Les Halles Cookbook*](https://www.goodreads.com/notes/33361472-anthony-bourdain-s-les-halles-cookbook/71655209-daniel-moore) by [Anthony Bourdain](https://en.wikipedia.org/wiki/Anthony_Bourdain) (Anyone can cook!)
         <li>The early 20th century's most influential people were Franklin Roosevelt, John Keynes, Vladimir Lenin, Adolf Hitler, Albert Einstein.</li>
 * [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Planning is half the battle.)
