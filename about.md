@@ -47,12 +47,16 @@ I hope you have a good time here. Thanks for dropping by.
     <p>In general, I trust institutions more than I trust people. When given autonomy, most people I've met slack off at best and are actively malicious at worst. Standards, bureaucracy, etc. are desirable.</p>
     <p>In this age of artificial intelligence, great power competition, and global climate change, I'm not sure that creating new people is a worthwhile goal. We may be a cancer on the verge of killing our host.</p>
     <p>Most people aren't worth the price of the food they eat, and have mostly been kept around because disposing of them would be too much trouble.</p>
+    <p>I think the U.S. is a crazy country. I would never make a long-term investment here, and think anyone who takes out a 30-year mortgage in a nation this unstable is a fool.</p>
+    <p>"The basis of society, of any society, is a certain pride in obedience. When this pride no longer &nbsp;exists, the society collapses." &ndash; <a href="ihttps://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore">Emil Cioran</a></p>
+    <p>U.S. media propaganda is so effective that I regularly find myself sneered at by poor white people. "I can't afford rent and food, but I have white skin, so I win!" Living here is pretty surreal.</p>
+    <p>Happiness and success are choices. Ones you make by getting up every day and working hard. Especially in a country as rich as the U.S., if you find yourself failing, it's probably on you.</p>
 {%endcomment%}
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Mark Zuckerberg, <a target="_blank" href="https://truthsocial.com/@realDonaldTrump">Donald Trump</a>, Barack Obama, Mitch McConnell, Joe Biden, and Satya Nadella<a href="https://www.youtube.com/watch?v=UNbyT7wPwk4" title="I've always felt like why is there such disparity today in the job, in the labor market between let's say some care worker and let's call it sort of a software developer. And it's because we think of, we as a society have decided to give it different, I'd say premium. Those premiums will adjust as some of these technologies really truly get diffused."></a>.</li>
-        <li>Honorable mentions go to Ronald Reagan, Norman Borlaug, Boris Yeltsin, Jiang Zemin, Qian&nbsp;Xuesen, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Leonid Brezhnev, Indira Gandhi, and Ho Chi Minh.</li>
+        <li>Honorable mentions go to Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Jiang Zemin, Qian&nbsp;Xuesen, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Ho Chi Minh, and Norman Borlaug.</li>
     </ul>
     {% comment %}
     <hr>
@@ -182,7 +186,6 @@ I hope you have a good time here. Thanks for dropping by.
         <li>The early 20th century's most influential people were Franklin Roosevelt, John Keynes, Vladimir Lenin, Adolf Hitler, Albert Einstein.</li>
 * [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Planning is half the battle.)
     <p>"In multiracial societies, you don't vote in accordance with your economic interests and social &nbsp;interests, you vote in accordance with race and religion." &ndash; <a href="https://en.wikipedia.org/wiki/Lee_Kuan_Yew">Lee Kuan Yew</a></p>
-    <p>"The basis of society, of any society, is a certain pride in obedience. When this pride no longer &nbsp;exists, the society collapses." &ndash; <a href="ihttps://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore">Emil Cioran</a></p>
     <p>"If you asked me any year what was the most important thing that happened that year, I probably &nbsp;would have no answer, but over five years' time the whole field changes." &ndash; <a href="https://web.cs.dal.ca/~eem/fea-knuth.pdf">Donald Knuth</a></p>
     <p>I did quite well for myself during the COVID-19 tech boom, enough so that I can indefinitely live off passive income (frugally in the San Francisco Bay Area and lavishly outside the West).</p>
     <p>Long-term, I can't see myself growing old in the U.S. I intend to base myself in Hyderabad, India, while maintaining pied-à-terres in some other cheaper locales (Nairobi? Mexico City? Manila?).</p>
