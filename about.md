@@ -51,6 +51,8 @@ I hope you have a good time here. Thanks for dropping by.
     <p>"The basis of society, of any society, is a certain pride in obedience. When this pride no longer &nbsp;exists, the society collapses." &ndash; <a href="ihttps://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore">Emil Cioran</a></p>
     <p>U.S. media propaganda is so effective that I regularly find myself sneered at by poor white people. "I can't afford rent and food, but I have white skin, so I win!" Living here is pretty surreal.</p>
     <p>Happiness and success are choices. Ones you make by getting up every day and working hard. Especially in a country as rich as the U.S., if you find yourself failing, it's probably on you.</p>
+    <p>U.S. media propaganda is so effective that I regularly find myself sneered at by poor white people. "I can't afford rent and food, but I have white skin, so I win!" Living here is pretty surreal.</p>
+    <p>I'm quite happy with the overall trajectory of U.S. politics. There's nowhere else I'd rather be.</p>
 {%endcomment%}
     <p>Historical statements I believe &ndash;</p>
     <ul>
@@ -118,7 +120,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Coders at Work*](https://github.com/ndina/acm/raw/master/coders-at-work.pdf) by [Peter Seibel](https://gigamonkeys.com) (Mentorship from the great programmers of our time.)
 * [*Game Programming Patterns*](http://gameprogrammingpatterns.com/contents.html) by [Bob Nystrom](http://stuffwithstuff.com/) (Notes on building maintainable software.)
-* [*Knock &#8217;em Dead Job Interview*](https://www.goodreads.com/notes/21519592-knock-em-dead-job-interview/71655209-daniel-moore) by [Martin Yate](https://www.linkedin.com/in/expertresumewritercareercoach/) (Easily the most important professional skill.)
 * [*Learn C++*](https://www.learncpp.com/) by Alex (For those of us who went to [JavaSchools](https://www.joelonsoftware.com/category/reading-lists/top-10/#post-912).)
 * [*Learn OpenGL*](https://learnopengl.com/book/book_pdf.pdf) by [Joey de Vries](https://twitter.com/JoeyDeVriez) (Graphics from scratch.)
 
@@ -181,6 +182,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Will ChatGPT Replace Human Software Developers?](https://aista.hashnode.dev/will-chatgpt-replace-human-software-developers)" by Aista (The short answer is yes.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
+* [*Knock &#8217;em Dead Job Interview*](https://www.goodreads.com/notes/21519592-knock-em-dead-job-interview/71655209-daniel-moore) by [Martin Yate](https://www.linkedin.com/in/expertresumewritercareercoach/) (Easily the most important professional skill.)
 * [*The Grind 75*](https://www.techinterviewhandbook.org/grind75) by Yangshun Tay (Data structure/algorithm refresher and interview prep.)
 * [*Les Halles Cookbook*](https://www.goodreads.com/notes/33361472-anthony-bourdain-s-les-halles-cookbook/71655209-daniel-moore) by [Anthony Bourdain](https://en.wikipedia.org/wiki/Anthony_Bourdain) (Anyone can cook!)
         <li>The early 20th century's most influential people were Franklin Roosevelt, John Keynes, Vladimir Lenin, Adolf Hitler, Albert Einstein.</li>
