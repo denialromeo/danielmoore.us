@@ -53,6 +53,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>Happiness and success are choices. Ones you make by getting up every day and working hard. Especially in a country as rich as the U.S., if you find yourself failing, it's probably on you.</p>
     <p>U.S. media propaganda is so effective that I regularly find myself sneered at by poor white people. "I can't afford rent and food, but I have white skin, so I win!" Living here is pretty surreal.</p>
     <p>I'm quite happy with the overall trajectory of U.S. politics. There's nowhere else I'd rather be.</p>
+    <p>I don't have a very high opinion of the average person. Democratic systems which put him in charge probably won't last very long.</p>
 {%endcomment%}
     <p>Historical statements I believe &ndash;</p>
     <ul>
@@ -79,6 +80,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>Some (long-term) planned open-source projects &ndash;</p>
     <ul>
         <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Low&#8209;cost but effective CGI. Darker-skinned actors, shot on location in India.</li>
+        <li>A desktop utility which continually records the screen and discards all but the last X seconds. Designed to capture otherwise lost rare gaming moments.</li>
         <li><a href="https://store.steampowered.com/app/474750/Reigns"><i>Reigns</i></a>, but you play as major figures from Chinese history. In-browser, HTML/CSS.</li>
         <li>Variants of <a href="https://store.steampowered.com/app/234710/Poker_Night_2/"><i>Poker Night 2</i></a> featuring famous political figures, classic fictional characters, and multiple card games. Mobile/in-browser/Steam, Unity.</li>
         <li>Something large-scale with a paid team of 3-5 people in India. Mobile/Steam, Unreal.</li>
