@@ -54,6 +54,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>U.S. media propaganda is so effective that I regularly find myself sneered at by poor white people. "I can't afford rent and food, but I have white skin, so I win!" Living here is pretty surreal.</p>
     <p>I'm quite happy with the overall trajectory of U.S. politics. There's nowhere else I'd rather be.</p>
     <p>I don't have a very high opinion of the average person. Democratic systems which put him in charge probably won't last very long.</p>
+    <p>America's a funny place. You can make all the money you want here, but the society is toxic and the people often terrifying. It's unsustainable. I'm optimizing for a speedy retirement abroad.</p>
 {%endcomment%}
     <p>Historical statements I believe &ndash;</p>
     <ul>
@@ -168,6 +169,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#blog-posts}
 **Blog Posts**
 
+* "[2024 Election Polls](https://projects.fivethirtyeight.com/polls/president-general/2024/)" by FiveThirtyEight (Who will be this season's commander-in-chief?)
 * "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html#main)" by Seshadri Kumar (This is the end.)
 * "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Apres Boomers, le deluge.)
 * "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkat Rao (Pair with [*The Office*](https://www.peacocktv.com/watch/asset/tv/the-office-superfan-episodes/8229469043710582112) to forever alter your life goals.)
