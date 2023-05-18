@@ -638,7 +638,7 @@ const albums = [
 "Young Marble Giants|Colossal Youth|1980|PL8eRaHvJ2FIUnS1h5cXH-rMGE3jNnxP8q|A510|Colossal Youth|Young Marble Giants|Post-Punk;Rock",
 "The Smiths|Hatful of Hollow|1984|PLDPgbLgBVdSwxULZohJYIDbf1FTxeLtUs|A616|Hatful of Hollow|The Smiths|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Deafheaven|Sunbather|2013|PLZqsyBiYZFQ0da3amOC_4Kr5flqbIVLEH|A5295|Sunbather (album)|Deafheaven|Blackgaze;Atmospheric Black Metal;Black Metal;Metal;Rock",
-"Leonard Cohen|You Want It Darker|2016|PL4SnPCOcKRxZzfa0Mn8y32mr2AR6hOqMx|A5765|You Want It Darker|Leonard Cohen|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk",
+"Leonard Cohen|You Want It Darker|2016|PLjTXPb77BjV6cu_LjfMU0sqh06Q3SQM8h|A5765|You Want It Darker|Leonard Cohen|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Stereolab|Emperor Tomato Ketchup|1996|PLs9zwqXsceUgmbKm0I_wmEu5YwDQ0fEZ2|A970|Emperor Tomato Ketchup (album)|Stereolab|Art Pop;Experimental Rock;Pop;Rock",
 "Oliver Nelson|The Blues and the Abstract Truth|1961|PLb2Y6NVXNIAZdY_5poKq7_bdvz0qasHyB|A1906|The Blues and the Abstract Truth|Oliver Nelson|Hard Bop;Bebop;Jazz",
 "John Martyn|Solid Air|1973|PL6y75aTMtg6SLQnPVmfdsUplDd_Ig2vqJ|A1147|Solid Air|John Martyn|British Folk Rock;Singer/Songwriter;Folk Rock;Rock",
