@@ -42,20 +42,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="political-views" href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
-{%comment%}
-    <p>I'm of the opinion that World War 3 started on February 24, 2022, when Russia invaded Ukraine. Multipolarity, global climate change, and artificial intelligence loom. Plan accordingly.</p>
-    <p>In general, I trust institutions more than I trust people. When given autonomy, most people I've met slack off at best and are actively malicious at worst. Standards, bureaucracy, etc. are desirable.</p>
-    <p>In this age of artificial intelligence, great power competition, and global climate change, I'm not sure that creating new people is a worthwhile goal. We may be a cancer on the verge of killing our host.</p>
-    <p>Most people aren't worth the price of the food they eat, and have mostly been kept around because disposing of them would be too much trouble.</p>
-    <p>I think the U.S. is a crazy country. I would never make a long-term investment here, and think anyone who takes out a 30-year mortgage in a nation this unstable is a fool.</p>
-    <p>"The basis of society, of any society, is a certain pride in obedience. When this pride no longer &nbsp;exists, the society collapses." &ndash; <a href="ihttps://www.goodreads.com/notes/24457126-drawn-and-quartered/71655209-daniel-moore">Emil Cioran</a></p>
-    <p>U.S. media propaganda is so effective that I regularly find myself sneered at by poor white people. "I can't afford rent and food, but I have white skin, so I win!" Living here is pretty surreal.</p>
-    <p>Happiness and success are choices. Ones you make by getting up every day and working hard. Especially in a country as rich as the U.S., if you find yourself failing, it's probably on you.</p>
-    <p>U.S. media propaganda is so effective that I regularly find myself sneered at by poor white people. "I can't afford rent and food, but I have white skin, so I win!" Living here is pretty surreal.</p>
-    <p>I'm quite happy with the overall trajectory of U.S. politics. There's nowhere else I'd rather be.</p>
-    <p>I don't have a very high opinion of the average person. Democratic systems which put him in charge probably won't last very long.</p>
-    <p>America's a funny place. You can make all the money you want here, but the society is toxic and the people often terrifying. It's unsustainable. I'm optimizing for a speedy retirement abroad.</p>
-{%endcomment%}
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
@@ -74,14 +60,9 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="hobbies" href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
 <div id="instructions3" style="display:none;">
-{%comment%}
-    <p>If the ongoing recession gets bad enough, I may switch from web development to become a contract game engine programmer.</p>
-    <p>To be totally honest, I've not been that happy with my life in the U.S. The money's been great, but the people are pretty terrible. If this next recession's as bad as they say it'll be, I'm probably leaving.</p>
-{%endcomment%}
     <p>Some (long-term) planned open-source projects &ndash;</p>
     <ul>
         <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Low&#8209;cost but effective CGI. Darker-skinned actors, shot on location in India.</li>
-        <li>A desktop utility which continually records the screen and discards all but the last X seconds. Designed to capture otherwise lost rare gaming moments.</li>
         <li><a href="https://store.steampowered.com/app/474750/Reigns"><i>Reigns</i></a>, but you play as major figures from Chinese history. In-browser, HTML/CSS.</li>
         <li>Variants of <a href="https://store.steampowered.com/app/234710/Poker_Night_2/"><i>Poker Night 2</i></a> featuring famous political figures, classic fictional characters, and multiple card games. Mobile/in-browser/Steam, Unity.</li>
         <li>Something large-scale with a paid team of 3-5 people in India. Mobile/Steam, Unreal.</li>
