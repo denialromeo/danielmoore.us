@@ -42,20 +42,16 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="political-views" href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
+{%comment%}
+    <p>Since <a href="https://chat.openai.com/">ChatGPT</a> came out, I've stopped caring about others' opinions, and feel like an individual instead of a part of anything bigger. This may be dangerous.</p>
+    <p>Humanity's purpose is to create an artificial intelligence smarter than us. Then we can live out our remaining lives happily, secure in the knowledge that our immortal digital children will live on.</p>
+{%endcomment%}
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Mark Zuckerberg, <a target="_blank" href="https://truthsocial.com/@realDonaldTrump">Donald Trump</a>, Barack Obama, Mitch McConnell, Joe Biden, and Satya Nadella<a href="https://www.youtube.com/watch?v=UNbyT7wPwk4" title="I've always felt like why is there such disparity today in the job, in the labor market between let's say some care worker and let's call it sort of a software developer. And it's because we think of, we as a society have decided to give it different, I'd say premium. Those premiums will adjust as some of these technologies really truly get diffused."></a>.</li>
         <li>Honorable mentions go to Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Jiang Zemin, Qian&nbsp;Xuesen, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Ho Chi Minh, and Norman Borlaug.</li>
     </ul>
-    {% comment %}
-    <hr>
-    <p>Some predictions for the near future &ndash;</p>
-    <ul>
-        <li>Now that the COVID-19 pandemic has proven that remote work is feasible, we're going to see most white-collar work which AI can't complete offshored. Immigrants will come to Canada and Latin America to work remotely for U.S. companies to prevent time zone issues.</li>
-        <li>The U.S. and our allies will become increasingly isolated as China makes further inroads with most of the world. Property and stock prices will plummet as the world economy's center moves from New York to Shanghai. War with China would probably only accelerate this.</li>
-    </ul>
-    {% endcomment %}
 </div>
 
 <a id="hobbies" href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
@@ -176,7 +172,6 @@ I hope you have a good time here. Thanks for dropping by.
     <p>"If you asked me any year what was the most important thing that happened that year, I probably &nbsp;would have no answer, but over five years' time the whole field changes." &ndash; <a href="https://web.cs.dal.ca/~eem/fea-knuth.pdf">Donald Knuth</a></p>
     <p>I did quite well for myself during the COVID-19 tech boom, enough so that I can indefinitely live off passive income (frugally in the San Francisco Bay Area and lavishly outside the West).</p>
     <p>Long-term, I can't see myself growing old in the U.S. I intend to base myself in Hyderabad, India, while maintaining pied-à-terres in some other cheaper locales (Nairobi? Mexico City? Manila?).</p>
-    <p>I have little interest in catering to Western consumers, whom I consider lazy and bigoted. I'm happy to not make any money from my art so long as my recipients appreciate and understand it.</p>
     <p>"The leaders may infect themselves with the hypnotism which they have induced in their followers. &nbsp;In that event, the docility of the rank and file will have been purchased at the disastrous price of a &nbsp;loss of intitiative in the officers." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
     <p>"Broken-down civilizations have not met their death from an assassin’s hand; in almost every &nbsp;instance, we have been led to return a verdict of suicide." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
 * [*Designing Data-Intensive Applications*](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063) by [Martin Kleppmann](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html) (How to serve billions of users.)
