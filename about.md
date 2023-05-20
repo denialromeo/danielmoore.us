@@ -42,10 +42,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="political-views" href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
-{%comment%}
-    <p>Since <a href="https://chat.openai.com/">ChatGPT</a> came out, I've stopped caring about others' opinions, and feel like an individual instead of a part of anything bigger. This may be dangerous.</p>
-    <p>Humanity's purpose is to create an artificial intelligence smarter than us. Then we can live out our remaining lives happily, secure in the knowledge that our immortal digital children will live on.</p>
-{%endcomment%}
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
@@ -119,7 +115,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Philosophy Books**
 
 * [*The Analects*](http://classics.mit.edu/Confucius/analects.1.1.html) by [Kong Fuzi](https://en.wikipedia.org/wiki/Confucius) (Building a society that works starts from the bottom.)
-* [*The Art of War*](https://www.goodreads.com/notes/20112728-the-art-of-war/71655209-daniel-moore) by [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu) (Conflict is the default state for all life.)
+* [*The Art of War*](https://www.goodreads.com/notes/20112728-the-art-of-war/71655209-daniel-moore) by [Sun Zi](https://en.wikipedia.org/wiki/Sun_Tzu) (Conflict is the default state for all life.)
 * [*The Book of Five Rings*](https://www.goodreads.com/notes/31197112-the-book-of-five-rings/71655209-daniel-moore) by [Miyamoto Musashi](https://en.wikipedia.org/wiki/Miyamoto_Musashi) (From one thing, know ten thousand things.)
 * [*Certain to Win*](https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore) by [Chet Richards](https://slightlyeastofnew.com/page-1/) (How to outmaneuver and defeat much larger enemies.)
 * [*The Complete Works*](https://www.goodreads.com/notes/29997711-the-collected-works-of-arthur-schopenhauer/71655209-daniel-moore) by [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (Patron saint of intellectuals.)
@@ -148,11 +144,12 @@ I hope you have a good time here. Thanks for dropping by.
 
 * "[2024 Election Polls](https://projects.fivethirtyeight.com/polls/president-general/2024/)" by FiveThirtyEight (Who will be this season's commander-in-chief?)
 * "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html#main)" by Seshadri Kumar (This is the end.)
+* "[The End of the Hit-Driven Business Model](https://dearproducer.com/the-disappearance-of-the-hit-driven-business#main)" by Chris Moore (Why movies are worse now.)
 * "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Apres Boomers, le deluge.)
 * "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkat Rao (Pair with [*The Office*](https://www.peacocktv.com/watch/asset/tv/the-office-superfan-episodes/8229469043710582112) to forever alter your life goals.)
 * "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
 * "[How the Taliban Did It](https://www.atlanticcouncil.org/blogs/new-atlanticist/how-the-taliban-did-it-inside-the-operational-art-of-its-military-victory/)" by Benjamin Jensen (Teamwork and resolve trump everything.)
-* "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch)" by Scott Alexander (Why we run ever-faster just to stay in place.)
+* "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch)" by Scott Alexander (We run ever-faster just to stay in place.)
 * "[Overshoot](https://medium.com/@CollapseSurvival/overshoot-why-its-already-too-late-to-save-civilization-e834cb4ec694)" by Alan Urban (Like most people, I'm happy not to be younger.)
 * "[Return From U.S. To India](https://cubicledog.substack.com/p/ive-started-my-fire-journey-in-india)" by Shuddha Kannadiga (As globalization ends, time to cash out.)
 * "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Microsoft's path to world domination.)
@@ -170,15 +167,10 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Planning is half the battle.)
     <p>"In multiracial societies, you don't vote in accordance with your economic interests and social &nbsp;interests, you vote in accordance with race and religion." &ndash; <a href="https://en.wikipedia.org/wiki/Lee_Kuan_Yew">Lee Kuan Yew</a></p>
     <p>"If you asked me any year what was the most important thing that happened that year, I probably &nbsp;would have no answer, but over five years' time the whole field changes." &ndash; <a href="https://web.cs.dal.ca/~eem/fea-knuth.pdf">Donald Knuth</a></p>
-    <p>I did quite well for myself during the COVID-19 tech boom, enough so that I can indefinitely live off passive income (frugally in the San Francisco Bay Area and lavishly outside the West).</p>
-    <p>Long-term, I can't see myself growing old in the U.S. I intend to base myself in Hyderabad, India, while maintaining pied-à-terres in some other cheaper locales (Nairobi? Mexico City? Manila?).</p>
-    <p>"The leaders may infect themselves with the hypnotism which they have induced in their followers. &nbsp;In that event, the docility of the rank and file will have been purchased at the disastrous price of a &nbsp;loss of intitiative in the officers." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
-    <p>"Broken-down civilizations have not met their death from an assassin’s hand; in almost every &nbsp;instance, we have been led to return a verdict of suicide." &ndash; <a href="https://discoversocialsciences.files.wordpress.com/2017/08/toynbee-study-of-history.pdf">Arnold Toynbee</a></p>
 * [*Designing Data-Intensive Applications*](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063) by [Martin Kleppmann](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html) (How to serve billions of users.)
         <li>"There is timing in the Way of the merchant, in the rise and fall of capital. All things entail rising &nbsp;and falling timing. You must be able to discern this." &ndash; <a href="https://www.goodreads.com/notes/31197112-the-book-of-five-rings/71655209-daniel-moore">Miyamoto Musashi</a></li>
 * [*Nickel and Dimed*](https://www.goodreads.com/notes/8893315-nickel-and-dimed/71655209-daniel-moore) by [Barbara Ehrenreich](https://en.wikipedia.org/wiki/Barbara_Ehrenreich) (Poverty is expensive.)
 * [TeamMe Computer Desk](https://www.walmart.com/ip/Computer-Desk-Storage-Hutch-Pull-Out-Keyboard-Tray-Several-Bookshelves-63-4-L-x-18-1-W-46-1-H-Cabinet-Study-Workstation-Home-Office-White/445234806) (Maximum productivity.)
-* "[The Disappearance of the Hit-Driven Business Model](https://dearproducer.com/the-disappearance-of-the-hit-driven-business#main)" by Chris Moore (Mediocrity won.)
         <li>Time limit is one hour. After an hour, all chips are tallied and cashed in.</li>
         <li>Spread limits are two dollars for the first two rounds of betting, four dollars for the second two.</li>
     <p>"For to him who has will more be given, and from him who has not, even what he thinks that he has &nbsp;will be taken away." &ndash; <a href="https://en.wikipedia.org/wiki/Matthew_effect">Luke 8:18</a></p>
