@@ -183,12 +183,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[The Stack Overflow Age](https://www.joelonsoftware.com/2018/04/06/the-stack-overflow-age/)" by Joel Spolsky (Recollections of the Internet gold rush.)
 * "[Story Structure 101](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)" by Dan Harmon (Narrative-writing for humans.)
 * "[The Taiwan Strait Joint Exercise](https://www.guancha.cn/ChenFeng3/2022_08_18_654142_s.shtml)" by Chen Feng (How the next big war will likely start.)
-* "[Welcome to Hell, Elon](https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation)" by Nilay Patel (A fool and his money are soon parted.)
-* [*Light on the Yoga Sutras of Patanjali*](https://www.goodreads.com/notes/18903748-light-on-the-yoga-sutras-of-patanjali/71655209-daniel-moore) by [B.K.S. Iyengar](https://en.wikipedia.org/wiki/B._K._S._Iyengar) (Exerting control over the mind.)
-    <p>"Under stress, disoriented people become demoralized and panicked. Once in this condition, they &nbsp;can easily be defeated, whatever weapons remain in their possession." &ndash; <a href="https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore">Chet Richards</a></p>
-* [*Live Young Forever*](https://www.amazon.com/gp/product/1552100642) by [Jack LaLanne](https://en.wikipedia.org/wiki/Jack_LaLanne) (Maintained vehicles last twice as long.)
 * [*Championship Fighting*](https://newschoolsinger.com/wp-content/uploads/2018/11/jack-dempsey-championship-fighting-1.pdf) by [Jack Dempsey](https://en.wikipedia.org/wiki/Jack_Dempsey) (Learning to throw a punch takes a lifetime.)
-* [*Revolutionary Suicide*](https://www.goodreads.com/notes/8176686-revolutionary-suicide/71655209-daniel-moore) by [Huey Newton](https://en.wikipedia.org/wiki/Huey_P._Newton) (Effective activists are doomed men.)
 {% endcomment %}
 
 {:#history-books}
@@ -264,7 +259,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Black Panther: Wakanda Forever*](https://www.disneyplus.com/movies/black-panther-wakanda-forever/7MAONYZ92wDT) by [Ryan Coogler](https://en.wikipedia.org/wiki/Ryan_Coogler) (Modern myth-making.)
 * [*Django Unchained*](https://www.paramountplus.com/movies/video/iNNNwA7EFAX3Tlrj8Eb6NyCKdbDtE5lt/) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Started a new wave of race-conscious cinema.)
-* [*Get Out*](https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1L8T75) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Lampoons the Obama years' "post-racial lie".)
+* [*Get Out*](https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1L8T75) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Lampoons the Obama years' "[post-racial lie](https://www.vanityfair.com/hollywood/2017/10/jordan-peele-get-out-screening)".)
 * [*Gisaengchung*](https://play.hbomax.com/page/urn:hbo:page:GYcyQKgszxINPrQEAAAIV:type:feature) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (Class struggle is swiftly returning.)
 * [*The Green Knight*](https://www.amazon.com/dp/B09CP38JQ5) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (It really is all a game.)
 * [*Ikiru*](https://play.hbomax.com/page/urn:hbo:page:GXmlRtQZGhcNVoAEAAAMj:type:feature) by [Kurosawa Akira](https://en.wikipedia.org/wiki/Akira_Kurosawa) (The world is a museum of passion projects.)
