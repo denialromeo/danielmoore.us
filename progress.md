@@ -12,14 +12,15 @@ modifiedMsg: false
 
 <br>
 <br>
+
 {% include yt.html width='77%' embed='
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yURRmWtbTbo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 ' %}
 <br>
 
 ```javascript
-function yearsUntilDepletion(principal, returnRate, expenses) {
-  returnRate /= 100;
+function yearsLeft(principal, returnRate, expenses) {
+  if (returnRate > 1) { returnRate /= 100 };
   let years = 1;
   while (principal > 0) {
     principal += principal * returnRate - expenses;
