@@ -30,6 +30,6 @@ function yearsLeft(principal, returnRate, expenses) {
   }
   return years;
 }
-// Sample use: yearsUntilDepletion(500000, 5, 30000);
+// Sample use: yearsLeft(500000, 5, 30000);
 // Remember, no point remaining in U.S. past age 60. Healthcare mafia.
 ```
