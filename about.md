@@ -160,6 +160,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Will ChatGPT Replace Human Software Developers?](https://aista.hashnode.dev/will-chatgpt-replace-human-software-developers)" by Aista (The short answer is yes.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
+    <p>I'm economically right-wing. Everyone should earn their keep, and most people will suffer if idle. Most social ills are because people have too much time on their hands.</p>
 * [*Knock &#8217;em Dead Job Interview*](https://www.goodreads.com/notes/21519592-knock-em-dead-job-interview/71655209-daniel-moore) by [Martin Yate](https://www.linkedin.com/in/expertresumewritercareercoach/) (Easily the most important professional skill.)
 * [*The Grind 75*](https://www.techinterviewhandbook.org/grind75) by Yangshun Tay (Data structure/algorithm refresher and interview prep.)
 * [*Les Halles Cookbook*](https://www.goodreads.com/notes/33361472-anthony-bourdain-s-les-halles-cookbook/71655209-daniel-moore) by [Anthony Bourdain](https://en.wikipedia.org/wiki/Anthony_Bourdain) (Anyone can cook!)
