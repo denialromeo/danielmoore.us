@@ -171,12 +171,8 @@ I hope you have a good time here. Thanks for dropping by.
         <li>"There is timing in the Way of the merchant, in the rise and fall of capital. All things entail rising &nbsp;and falling timing. You must be able to discern this." &ndash; <a href="https://www.goodreads.com/notes/31197112-the-book-of-five-rings/71655209-daniel-moore">Miyamoto Musashi</a></li>
 * [*Nickel and Dimed*](https://www.goodreads.com/notes/8893315-nickel-and-dimed/71655209-daniel-moore) by [Barbara Ehrenreich](https://en.wikipedia.org/wiki/Barbara_Ehrenreich) (Poverty is expensive.)
 * [TeamMe Computer Desk](https://www.walmart.com/ip/Computer-Desk-Storage-Hutch-Pull-Out-Keyboard-Tray-Several-Bookshelves-63-4-L-x-18-1-W-46-1-H-Cabinet-Study-Workstation-Home-Office-White/445234806) (Maximum productivity.)
-        <li>Time limit is one hour. After an hour, all chips are tallied and cashed in.</li>
-        <li>Spread limits are two dollars for the first two rounds of betting, four dollars for the second two.</li>
-    <p>"For to him who has will more be given, and from him who has not, even what he thinks that he has &nbsp;will be taken away." &ndash; <a href="https://en.wikipedia.org/wiki/Matthew_effect">Luke 8:18</a></p>
 * [YouTen Adjustable Weight Bench](https://www.amazon.com/dp/B07VYXH22Q) (Who needs a gym membership?)
 * [*Accelerando*](https://goodreads.com/notes/6606323-accelerando/71655209-daniel-moore) by [Charles Stross](http://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando-intro.html) (Is all of human history a footnote to the creation of AI?)
-* "[2024 Election Polls](https://projects.fivethirtyeight.com/polls/president-general/2024/national/)" by FiveThirtyEight (Who will be this season's commander-in-chief?)
 * "[How to Send and Reply to Email](http://matt.might.net/articles/how-to-email/#abstract-container)" by Matt Might (Professional etiquette.)
 * "[A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)" by Paul Lockhart (All children should read this.)
 * "[Ross Perot: Election Spoiler](https://millercenter.org/ross-perot-election-spoiler-or-message-shaper)" by The Miller Center (Donald Trump's post-presidential future?)
@@ -276,7 +272,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Schindler's List*](https://www.amazon.com/gp/video/detail/B00BEN0V8S) by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) (Still the best film ever made about racism.)
 * [*Shot Caller*](https://play.hbomax.com/page/urn:hbo:page:GY212Zg2HvUthwgEAAAJl:type:feature) by [Ric Waugh](https://en.wikipedia.org/wiki/Ric_Roman_Waugh) (Watching this made me stop driving.)
 * [*Squid Game*](https://www.netflix.com/title/81040344) by [Hwang Dong-hyuk](https://en.wikipedia.org/wiki/Hwang_Dong-hyuk) (Thinly-veiled allegory for corporate life.)
-* [*Sweeney Todd: The Demon Barber of Fleet Street*](https://play.hbomax.com/page/urn:hbo:page:GYGQJNwOcH4W2XgEAAABg:type:feature) by [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) (Peak of film musicals.)
+* [*Sweeney Todd: The Demon Barber of Fleet Street*](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aab9172b-efa1-95a2-00e8-26ff0a461b2a) by [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) (Peak of film musicals.)
 * [*Synecdoche, New York*](https://www.amazon.com/gp/video/detail/B00BZAZYMI) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
 * [*Turning Red*](https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m) by [Domee Shi](https://en.wikipedia.org/wiki/Domee_Shi) (Written by women for women.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
