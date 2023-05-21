@@ -1,16 +1,22 @@
 {
 	"pages": [
 		{
-			"author": "Alan Moore",
-			"title": "DC Universe",
+			"author": "Robert Kirkman",
+			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/big-chill/01.jpg"
+			"link": "assets/img/comics/invincible/01.jpg"
 		},
 		{
-			"author": "Grant Morrison",
-			"title": "All-Star league",
+			"author": "Robert Kirkman",
+			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/big-chill/02.jpg"
+			"link": "assets/img/comics/invincible/02.jpg"
+		},
+		{
+			"author": "Robert Kirkman",
+			"title": "Invincible",
+			"amazon": "",
+			"link": "assets/img/comics/invincible/03.jpg"
 		}
 	]
 }

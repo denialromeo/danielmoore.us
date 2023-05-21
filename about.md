@@ -259,6 +259,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Gisaengchung*](https://play.hbomax.com/page/urn:hbo:page:GYcyQKgszxINPrQEAAAIV:type:feature) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (Class struggle is swiftly returning.)
 * [*The Green Knight*](https://www.amazon.com/dp/B09CP38JQ5) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (It really is all a game.)
 * [*Ikiru*](https://play.hbomax.com/page/urn:hbo:page:GXmlRtQZGhcNVoAEAAAMj:type:feature) by [Kurosawa Akira](https://en.wikipedia.org/wiki/Akira_Kurosawa) (The world is a museum of passion projects.)
+* [*Invincible*](https://www.amazon.com/gp/video/detail/B08WJMRHYZ) by [Robert Kirkman](https://en.wikipedia.org/wiki/Robert_Kirkman) (Refreshingly sincere.)
 * [*Jiro Dreams of Sushi*](https://www.amazon.com/gp/video/detail/B00BR1FD26) by [Ono Jiro](https://en.wikipedia.org/wiki/Jiro_Ono_(chef)) (There is bliss in doing your job well.)
 * [*Justice League: Gods and Monsters*](https://play.hbomax.com/page/urn:hbo:page:GXeRM3QMWQsPCwwEAADxa:type:feature) by [Bruce Timm](https://en.wikipedia.org/wiki/Bruce_Timm) (Distills American comics' Silver Age.)
 * [*Kaze Tachinu*](https://play.hbomax.com/page/urn:hbo:page:GXsQzAw8HPITCwgEAAAAM:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
@@ -666,6 +667,12 @@ I hope you have a good time here. Thanks for dropping by.
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/big-chill/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/big-chill/01.jpg"/></a><figcaption itemprop="caption description"><p><i>DC Universe</i> by Alan Moore</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/big-chill/02.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/big-chill/02.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/invincible/01.jpg" itemprop="contentUrl" data-size="1987x3056"><img style="border: 1px solid black;" src="/assets/img/comics/invincible/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Invincible</i> by Robert Kirkman</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/invincible/02.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/invincible/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/invincible/03.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/invincible/03.jpg"/></a></figcaption></figure>
 </div>
 
 <div id="clear"></div>
