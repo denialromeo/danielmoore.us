@@ -17,19 +17,3 @@ modifiedMsg: false
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yURRmWtbTbo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 ' %}
 <br>
-
-```javascript
-function yearsLeft(principal, returnRate, expenses) {
-  if (returnRate > 1) { returnRate /= 100 };
-  let years = 1;
-  while (principal > 0) {
-    principal += principal * returnRate - expenses;
-    console.log(`${years}, ${principal}`);
-    years++;
-    if (years > 33) { break; }
-  }
-  return years;
-}
-// Sample use: yearsLeft(500000, 5, 30000);
-// Remember, no point remaining in U.S. past age 60. Healthcare mafia.
-```
