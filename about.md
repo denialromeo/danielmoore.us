@@ -261,7 +261,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Gisaengchung*](https://play.hbomax.com/page/urn:hbo:page:GYcyQKgszxINPrQEAAAIV:type:feature) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (Class struggle is swiftly returning.)
 * [*The Green Knight*](https://www.amazon.com/dp/B09CP38JQ5) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (It really is all a game.)
 * [*Ikiru*](https://play.hbomax.com/page/urn:hbo:page:GXmlRtQZGhcNVoAEAAAMj:type:feature) by [Kurosawa Akira](https://en.wikipedia.org/wiki/Akira_Kurosawa) (The world is a museum of passion projects.)
-* [*Invincible*](https://www.amazon.com/gp/video/detail/B08WJMRHYZ) by [Robert Kirkman](https://en.wikipedia.org/wiki/Robert_Kirkman) (Refreshingly sincere.)
 * [*Jiro Dreams of Sushi*](https://www.amazon.com/gp/video/detail/B00BR1FD26) by [Ono Jiro](https://en.wikipedia.org/wiki/Jiro_Ono_(chef)) (There is bliss in doing your job well.)
 * [*Justice League: Gods and Monsters*](https://play.max.com/movie/79e2ad56-68ea-46ac-839d-43f3b97683b3) by [Bruce Timm](https://en.wikipedia.org/wiki/Bruce_Timm) (Distills American comics' Silver Age.)
 * [*Kaze Tachinu*](https://play.hbomax.com/page/urn:hbo:page:GXsQzAw8HPITCwgEAAAAM:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
