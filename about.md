@@ -176,12 +176,12 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Accelerando*](https://goodreads.com/notes/6606323-accelerando/71655209-daniel-moore) by [Charles Stross](http://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando-intro.html) (Is all of human history a footnote to the creation of AI?)
 * "[How to Send and Reply to Email](http://matt.might.net/articles/how-to-email/#abstract-container)" by Matt Might (Professional etiquette.)
 * "[A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)" by Paul Lockhart (All children should read this.)
-* "[Ross Perot: Election Spoiler](https://millercenter.org/ross-perot-election-spoiler-or-message-shaper)" by The Miller Center (Donald Trump's post-presidential future?)
 * "[The Stack Overflow Age](https://www.joelonsoftware.com/2018/04/06/the-stack-overflow-age/)" by Joel Spolsky (Recollections of the Internet gold rush.)
 * "[Story Structure 101](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)" by Dan Harmon (Narrative-writing for humans.)
 * "[The Taiwan Strait Joint Exercise](https://www.guancha.cn/ChenFeng3/2022_08_18_654142_s.shtml)" by Chen Feng (How the next big war will likely start.)
 * [*Championship Fighting*](https://newschoolsinger.com/wp-content/uploads/2018/11/jack-dempsey-championship-fighting-1.pdf) by [Jack Dempsey](https://en.wikipedia.org/wiki/Jack_Dempsey) (Learning to throw a punch takes a lifetime.)
     <p>In my ideal world, we'd adjust the gender ratio so 75% of the population was female. Most social ills are because of too many excess males walking around causing problems.</p>
+* [*Connections*](https://archive.org/details/ConnectionsByJamesBurke/Connections/Season+1/Connections+S01E01+-+The+Trigger+Effect.mp4) by [James Burke](https://en.wikipedia.org/wiki/James_Burke) (
 {% endcomment %}
 
 {:#history-books}
@@ -263,7 +263,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Ikiru*](https://play.hbomax.com/page/urn:hbo:page:GXmlRtQZGhcNVoAEAAAMj:type:feature) by [Kurosawa Akira](https://en.wikipedia.org/wiki/Akira_Kurosawa) (The world is a museum of passion projects.)
 * [*Invincible*](https://www.amazon.com/gp/video/detail/B08WJMRHYZ) by [Robert Kirkman](https://en.wikipedia.org/wiki/Robert_Kirkman) (Refreshingly sincere.)
 * [*Jiro Dreams of Sushi*](https://www.amazon.com/gp/video/detail/B00BR1FD26) by [Ono Jiro](https://en.wikipedia.org/wiki/Jiro_Ono_(chef)) (There is bliss in doing your job well.)
-* [*Justice League: Gods and Monsters*](https://play.hbomax.com/page/urn:hbo:page:GXeRM3QMWQsPCwwEAADxa:type:feature) by [Bruce Timm](https://en.wikipedia.org/wiki/Bruce_Timm) (Distills American comics' Silver Age.)
+* [*Justice League: Gods and Monsters*](https://play.max.com/movie/79e2ad56-68ea-46ac-839d-43f3b97683b3) by [Bruce Timm](https://en.wikipedia.org/wiki/Bruce_Timm) (Distills American comics' Silver Age.)
 * [*Kaze Tachinu*](https://play.hbomax.com/page/urn:hbo:page:GXsQzAw8HPITCwgEAAAAM:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
 * [*The Menu*](https://play.hbomax.com/player/urn:hbo:feature:GY6HeoQwl0MPCLwEAAAgW) by [Will Tracy](https://www.creativescreenwriting.com/seth-reiss-and-will-tracy-take-a-look-at-the-menu/) (Eating is not the same as cooking.)
 * [*Mononoke Hime*](https://play.hbomax.com/page/urn:hbo:page:GXrHUCwY3E6u9KwEAAAAO:type:feature) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (Everyone's the hero of their own story.)
@@ -273,7 +273,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Personal History of David Copperfield*](https://www.hulu.com/movie/4f9b8514-adb5-4cc1-abe8-76dfa2bd9a34) by [Armando Ianucci](https://en.wikipedia.org/wiki/Armando_Ianucci) (My favorite comedy.)
 * [*Reservoir Dogs*](https://www.amazon.com/gp/video/detail/B008Y5O6OO) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Takes itself seriously, forcing the viewer to as well.)
 * [*Schindler's List*](https://www.amazon.com/gp/video/detail/B00BEN0V8S) by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) (Still the best film ever made about racism.)
-* [*Shot Caller*](https://play.hbomax.com/page/urn:hbo:page:GY212Zg2HvUthwgEAAAJl:type:feature) by [Ric Waugh](https://en.wikipedia.org/wiki/Ric_Roman_Waugh) (Watching this made me stop driving.)
 * [*Squid Game*](https://www.netflix.com/title/81040344) by [Hwang Dong-hyuk](https://en.wikipedia.org/wiki/Hwang_Dong-hyuk) (Thinly-veiled allegory for corporate life.)
 * [*Sweeney Todd: The Demon Barber of Fleet Street*](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aab9172b-efa1-95a2-00e8-26ff0a461b2a) by [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) (Peak of film musicals.)
 * [*Synecdoche, New York*](https://www.amazon.com/gp/video/detail/B00BZAZYMI) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
