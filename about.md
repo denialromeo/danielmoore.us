@@ -257,10 +257,9 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Black Panther: Wakanda Forever*](https://www.disneyplus.com/movies/black-panther-wakanda-forever/7MAONYZ92wDT) by [Ryan Coogler](https://en.wikipedia.org/wiki/Ryan_Coogler) (Modern myth-making.)
 * [*Django Unchained*](https://www.paramountplus.com/movies/video/iNNNwA7EFAX3Tlrj8Eb6NyCKdbDtE5lt/) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Started a new wave of race-conscious cinema.)
-* [*Get Out*](https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1L8T75) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Lampoons the Obama years' "post-racial lie[](https://www.vanityfair.com/hollywood/2017/10/jordan-peele-get-out-screening)".)
+* [*Get Out*](https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1L8T75) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Lampoons the Obama years' racial weirdness.)
 * [*Gisaengchung*](https://play.max.com/movie/d5e3be11-eb8b-449f-89cf-db887ddee777) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (Class struggle is swiftly returning.)
 * [*The Green Knight*](https://www.amazon.com/dp/B09CP38JQ5) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (It really is all a game.)
-* [*Ikiru*](https://play.max.com/movie/f14d203a-067a-4ecb-9234-2f4ae1b709fd) by [Kurosawa Akira](https://en.wikipedia.org/wiki/Akira_Kurosawa) (The world is a museum of passion projects.)
 * [*Jiro Dreams of Sushi*](https://www.amazon.com/gp/video/detail/B00BR1FD26) by [Ono Jiro](https://en.wikipedia.org/wiki/Jiro_Ono_(chef)) (There is bliss in doing your job well.)
 * [*Kaze Tachinu*](https://play.max.com/movie/f769960a-91db-4e24-8ecc-de9bd41b8102) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
 * [*The Menu*](https://play.max.com/movie/9bcb57c8-b5c6-4a26-8305-fbb49e2258b9) by [Will Tracy](https://www.creativescreenwriting.com/seth-reiss-and-will-tracy-take-a-look-at-the-menu/) (Eating is not the same as cooking.)
@@ -277,7 +276,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Turning Red*](https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m) by [Domee Shi](https://en.wikipedia.org/wiki/Domee_Shi) (Written by women for women.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
 * [*The Wolf of Wall Street*](https://www.paramountplus.com/movies/video/r_f3sYrm5VnjVJz1fQfYN3D_rxus_4y4/) by [Martin Scorsese](https://en.wikipedia.org/wiki/Martin_Scorsese) (Markets don't reward what's best for society.)
-* [*World's Greatest Dad*](https://www.amazon.com/gp/video/detail/B00C0J535Q) by [Bobcat Goldthwait](https://en.wikipedia.org/wiki/Bobcat_Goldthwait) (Hell is other people.)
+* [*World's Greatest Dad*](https://www.amazon.com/gp/video/detail/B00C0J535Q) by [Bobcat Goldthwait](https://en.wikipedia.org/wiki/Bobcat_Goldthwait) (Quiet desperation is the American way.)
 * [*Zhang Jin Hu*](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=battle+at+lake+changjin) by [Wu Jing](https://en.wikipedia.org/wiki/Wu_Jing_(actor)) (Resist U.S. aggression and aid Korea!)
 
 {:#comic-books}
