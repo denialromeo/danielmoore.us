@@ -1837,7 +1837,7 @@ const albums = [
 "Beirut|The Flying Club Cup|2007|PLsbS88ChJFp-ORVVVq_x2tidD3WnyNh20|A4260|The Flying Club Cup|Beirut (band)|Indie Folk;Contemporary Folk;Folk",
 "Blumfeld|Old Nobody|1999|PLs1JbI_iBfnY2kEaImwqHrkDavAPHBS91|A3028|Blumfeld|Blumfeld|Indie Pop;Singer/Songwriter;Pop",
 "Toto|IV|1982|PLT4F1mMYyEz5O6F2ZAXuFmX2omi36Rn1G|A1484|Toto IV|Toto (band)|AOR;Pop Rock;Pop;Rock",
-"The 13th Floor Elevators|Easter Everywhere|1967|PLRaCiMh_Se6g8P1hgdWxiGCjUzppfXKKD|A1299|Easter Everywhere|The 13th Floor Elevators|Psychedelic Rock;Rock",
+"The 13th Floor Elevators|Easter Everywhere|1967|PLjZnpDlBzipKchZxJYYiPNSGo0MgC32dg|A1299|Easter Everywhere|The 13th Floor Elevators|Psychedelic Rock;Rock",
 "Mark Hollis|Mark Hollis|1998|PLiN-7mukU_RFZfMW7f8JxfUrJRr0tWZRP|A3704|Mark Hollis (album)|Mark Hollis|Ambient Pop;Singer/Songwriter;Pop",
 "Carl Craig|More Songs About Food and Revolutionary Art|1997|PLO3mL5FaWbWi4EKlvwtkqy_Y4I0ZwSSmk|A3680|Carl Craig|Carl Craig|Detroit Techno;Dance;Electronic;Electronic Dance Music;Techno",
 "Virgin Prunes|...If I Die, I Die|1982|PLkAHmaRkCcFq7jL7B_KoYzOcvLV5oLK5j|A2921|...If I Die, I Die|Virgin Prunes|Gothic Rock;Post-Punk;Rock",
