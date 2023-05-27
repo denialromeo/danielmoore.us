@@ -7783,7 +7783,7 @@ const songs = [
 "Freddie Gibbs & Madlib|Crime Pays|2019|u8R7fmLYgi4|Freddie Gibbs|S16782|Gangsta Rap;Jazz Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop",
 "Javiera Mena|Sol de Invierno|2006|B0bjaqoftTg|Javiera Mena|S13823|Singer/Songwriter;Twee Pop;Indie Pop;Pop",
 "Pearl Jam|Given to Fly|1998|satY_ofTNo4|Pearl Jam|S11872|Alternative Rock;Rock",
-"Sylvie Vartan|La Plus belle pour aller danser|1964|sfiuaOWjEkI?start=11|Sylvie Vartan|S13638|French Pop;Yé-yé;Pop",
+"Sylvie Vartan|La plus belle pour aller danser|1964|sfiuaOWjEkI?start=11|Sylvie Vartan|S13638|French Pop;Yé-yé;Pop",
 "Maggie Rogers|Alaska|2016|PNWsW6c6t8g|Maggie Rogers|S16139|Art Pop;Folktronica;Electronic;Pop",
 "Jim O'Rourke|Halfway to a Threeway|1999|OeKCOaRPflY|Jim O'Rourke (musician)|S6910|Chamber Pop;Indie Folk;Baroque Pop;Contemporary Folk;Folk;Indie Pop;Pop",
 "Rae Sremmurd feat. Juicy J|Powerglide|2018|95Rzsn-zjr0|Rae Sremmurd|S16583|Pop Rap;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",

@@ -23,7 +23,6 @@ While [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)'s 
 * "[Historical Influences](http://www.westeros.org/Citadel/SSM/Entry/Historical_Influences/)" by George R. R. Martin
 * "[Laws of Inheritance](http://www.westeros.org/Citadel/SSM/Entry/The_Hornwood_Inheritance_and_the_Whents)" by George R. R. Martin
 * "[Black Targaryens](https://grrm.livejournal.com/326474.html?thread=17888842#t17888842)" by George R. R. Martin
-* "[I Give Up on Finishing *The Winds of Winter*](https://georgerrmartin.com/notablog/2022/03/09/random-updates-and-bits-o-news/)" by George R. R. Martin
 * ["So Spake Martin" Archive](https://www.westeros.org/Citadel/SSM)
 * [Released *The Winds of Winter* Chapters](https://thehawke.github.io/twow-excerpts/)
 * [*Reigns: Game of Thrones*](https://steamcommunity.com/id/denialromeo/recommended/897820?snr=1_5_9__402)
