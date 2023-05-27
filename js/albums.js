@@ -1637,7 +1637,7 @@ const albums = [
 "The Rolling Stones|12 x 5|1964|PLXRKTcRs-Xs4qDksckv1_HyOKwPUrKiha|A2354|12 X 5|The Rolling Stones|Blues Rock;Rock",
 "Average White Band|AWB|1974|PLG9jLl6Ldd_iu2Tqpm3VBxuoo70qyb2gN|A327|AWB (album)|Average White Band|Smooth Soul;R&B;Soul",
 "Foals|Total Life Forever|2010|PLD7154416D86B424A|A5066|Total Life Forever|Foals (band)|Indie Rock;Alternative Rock;Rock",
-"Bob Dylan|Another Side of Bob Dylan|1964|PLRaCiMh_Se6hGh37TAqVIYhYnF-X6E-Yv|A12|Another Side of Bob Dylan|Bob Dylan|Contemporary Folk;Singer/Songwriter;Folk",
+"Bob Dylan|Another Side of Bob Dylan|1964|PLKZWLu6q09LNjwvtWl7fh0NCNJg-0pxWD|A12|Another Side of Bob Dylan|Bob Dylan|Contemporary Folk;Singer/Songwriter;Folk",
 "Joni Mitchell|Ladies of the Canyon|1970|PLUPdGVF6ESU-MKusqGoa2-ysp1lqi8mId|A1127|Ladies of the Canyon (album)|Joni Mitchell|Contemporary Folk;Singer/Songwriter;Folk",
 "Big Joe Turner|The Boss of the Blues|1956|PLvxWibFr0wiK7YoDjBL2jp63Xl8M3waqy|A1224|The Boss of the Blues|Big Joe Turner|Rhythm & Blues;R&B",
 "Sleigh Bells|Treats|2010|PLMae1YtyNal0GEOcdyumh8wx62xs-9elE|A5096|Treats (album)|Sleigh Bells (band)|Noise Pop;Alternative Rock;Rock",

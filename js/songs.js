@@ -9280,7 +9280,7 @@ const songs = [
 "The Animals|Inside - Looking Out|1966|H8M1MpkozJQ|The Animals|S13266|British Rhythm & Blues;R&B;Rhythm & Blues;Rock",
 "Pink Floyd|Lucifer Sam|1967|f35gUESUFvU|Pink Floyd|S11908|Psychedelic Rock;Rock",
 "Ramones|I Wanna Be Your Boyfriend|1976|6q_mHFfOMWE|Ramones|S12022|Pop Punk;Punk Rock;Rock",
-"Sting|If I Ever Lose My Faith in You|1993|cye8eT_eoqU|Sting (musician)|S3856|Pop Rock;Sophisti-Pop;Pop;Rock",
+"Sting|If I Ever Lose My Faith in You|1993|7km4EHgkQiw|Sting (musician)|S3856|Pop Rock;Sophisti-Pop;Pop;Rock",
 "Czerkinsky|Natacha|1998|2Y92q8rh5kk|https://fr.wikipedia.org/wiki/Gr%C3%A9gori_Czerkinsky|S5936|French Pop;Synthpop;Electronic;Pop",
 "Roberto Vecchioni|Luci a San Siro|1971|xHciCj8pi8s|Roberto Vecchioni|S13618|Canzone d'autore;Contemporary Folk;Folk;Singer/Songwriter",
 "Barbara|Le Mal de vivre|1965|huvNyRKMaO0?start=3|Barbara (singer)|S13390|Chanson;Regional Music",
