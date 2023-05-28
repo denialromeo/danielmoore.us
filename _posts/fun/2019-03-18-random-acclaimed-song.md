@@ -83,7 +83,7 @@ box: random-acclaimed-song
     for (let i = 0; i < infoLog.length; i++) { console.log(infoLog[i]) }
     iframe.src = info[3].startsWith("http") ? info[3] : `https://youtube.com/embed/${info[3]}`
     const wikiLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[4])}>${info[0]}</a>`
-    const songLink = `<a style='text-decoration:none;border-bottom:none;' href='http://acclaimedmusic.net/song/${info[5]}.htm'>${info[1]}</a>`
+    const songLink = `${info[1]}<a style='text-decoration:none;border-bottom:none;' href='http://acclaimedmusic.net/song/${info[5]}.htm'></a>`
     title.innerHTML = `${wikiLink} - ${songLink} (${info[2]})`
     document.title  = `${info[0]} - ${info[1]} (${info[2]})`
 </script>
