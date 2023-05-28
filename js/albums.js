@@ -1125,7 +1125,7 @@ const albums = [
 "The Police|Ghost in the Machine|1981|PLrpyDacBCh7DBTZPD_JLCY-EjQTGjCKQF|A523|Ghost in the Machine (album)|The Police|New Wave;Pop Rock;Pop;Rock",
 "Ella Fitzgerald and Louis Armstrong|Ella and Louis|1956|PLL-NbN8uTOijqTJxQ9BMFcDe7UiWDMVwc|A1792|Ella and Louis|Ella Fitzgerald|Vocal Jazz;Jazz",
 "Mano Negra|Puta's Fever|1989|PLA64_a73j3EhGRMTfXa9anxoLDHQ-xk6p|A3271|Puta's Fever|Mano Negra (band)|Alternative Rock;Latin Alternative;Hispanic Music;Latin American Music;Regional Music;Rock",
-"The Lemonheads|It's a Shame About Ray|1992|ERROR: Suitable playlist not found|A850|It's a Shame About Ray|The Lemonheads|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
+"The Lemonheads|It's a Shame About Ray|1992|https://www.youtube.com/embed/5n5mdh0MPFo|A850|It's a Shame About Ray|The Lemonheads|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
 "Janet Jackson|The Velvet Rope|1997|PLZROkT1-_ZH7foL13UK6BjI0NzUIDJ35c|A5265|The Velvet Rope|Janet Jackson|Contemporary R&B;Pop;R&B",
 "Pixies|Trompe le Monde|1991|PLC-zXwQhN7cqwpbn8k2A1kWlY8BRGmh3O|A831|Trompe le Monde|Pixies (band)|Indie Rock;Alternative Rock;Rock",
 "Animal Collective|Feels|2005|PL08E47316D552569C|A4199|Feels (album)|Animal Collective|Experimental Rock;Neo-Psychedelia;Psychedelic Rock;Rock",
