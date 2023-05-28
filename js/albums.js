@@ -1202,7 +1202,7 @@ const albums = [
 "Boogie Down Productions|By All Means Necessary|1988|PLrbFUdbfepXWehxcenrNVr4JRt9K88umc|A740|By All Means Necessary|Boogie Down Productions|Boom Bap;Conscious Hip Hop;Hardcore Hip Hop;Political Hip Hop;Hip Hop",
 "Aerosmith|Pump|1989|PL-VaSdW5Z5LfB_yUkajCSaH2IoP87XtsV|A773|Pump (album)|Aerosmith|Hard Rock;Rock",
 "Electric Light Orchestra|Out of the Blue|1977|PL6ogdCG3tAWiNDlZTuWfYO8GcEtXiJidF|A1159|Out of the Blue (Electric Light Orchestra album)|Electric Light Orchestra|Pop Rock;Symphonic Rock;Pop;Rock",
-"Lou Reed|Rock n Roll Animal|1974|PLvyBXHCRZVZxVC8zaZzhdMkNZIHmKPJpT|A321|Rock 'n' Roll Animal|Lou Reed|Glam Rock;Rock",
+"Lou Reed|Rock n Roll Animal|1974|PLGxaqBTVsgeM7F7IJYfWX8hb1RNZLT_n8|A321|Rock 'n' Roll Animal|Lou Reed|Glam Rock;Rock",
 "Nick Cave & The Bad Seeds|The Good Son|1990|PLPaztBWnatciAecscyH0WOPuavMIK3SPu|A794|The Good Son (album)|Nick Cave and the Bad Seeds|Gothic Rock;Singer/Songwriter;Rock",
 "Miles Davis|On the Corner|1972|PL4DCBE699E73A56B7|A2005|On the Corner|Miles Davis|Jazz Fusion;Jazz-Funk;Funk;Jazz;R&B",
 "The Antlers|Hospice|2009|PL6A7445036D500ACB|A5002|Hospice (The Antlers album)|The Antlers (band)|Indie Rock;Alternative Rock;Rock",
