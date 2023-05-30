@@ -42,7 +42,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="political-views" href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
-    <p>"We have Paleolithic emotions, medieval institutions and godlike technology." &ndash; E.O. Wilson<a href="https://en.wikipedia.org/wiki/E._O._Wilson"></a></p>
+    <p>"We have Paleolithic emotions, medieval institutions, and godlike technology." &ndash; E.O. Wilson<a href="https://en.wikipedia.org/wiki/E._O._Wilson"></a></p>
     <p>"People, ideas, and hardware—in that order!" &ndash; John Boyd</p>
     <p>Historical statements I believe &ndash;</p>
     <ul>
