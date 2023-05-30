@@ -191,6 +191,14 @@ document.getElementById("india-map").src = src
     }
 </script>
 {% endif %}
+{% if page.title == 'Random Classical Recording' %}
+<script type="text/javascript">
+    $("#dropdown").click(() => $( "#instructions" ).slideToggle( "slow"))
+    if ($(document).width() <= 760) {
+      document.querySelector("#description").innerHTML = `This song was randomly chosen from Bob Moke's archive of U.S. hits released between 1925 and 1971.`
+    }
+</script>
+{% endif %}
 {% if page.permalink == 'chess-puzzles' %}
 <script type="text/javascript">
     if ($(document).width() <= 760) {
