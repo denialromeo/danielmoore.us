@@ -14,7 +14,7 @@ box: random-acclaimed-song
 <iframe id="song" frameborder="0" allowfullscreen></iframe>
 ' %}
 
-<p id="description">In 2007, music critic Matthew Rye wrote <a href=""><i>1001 Classical Recordings You Must Hear Before You Die</i></a>. This recording was randomly chosen from his book.</p>
+<p id="description">In 2007, music critic Matthew Rye wrote <a href="https://www.amazon.com/1001-Classical-Recordings-Must-Before/dp/0785835822"><i>1001 Classical Recordings You Must Hear Before You Die</i></a>. This recording was randomly chosen from his book.</p>
 
 <p id="next-song"></p>
 
