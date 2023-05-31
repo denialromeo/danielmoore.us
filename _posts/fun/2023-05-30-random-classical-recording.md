@@ -5,7 +5,7 @@ layout: post
 category: fun
 permalink: random-classical-recording
 author: Daniel Moore
-box: random-acclaimed-song
+box: random-classical-recording
 ---
 
 <h3 id="song-title"></h3>
