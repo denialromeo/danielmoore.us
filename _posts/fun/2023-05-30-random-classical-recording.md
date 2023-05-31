@@ -26,7 +26,7 @@ box: random-acclaimed-song
             <a target="_self" href="?song=requiem&artist=mozart"><i>Requiem</i> by Mozart.</a>
         </li>
         <li>
-            <a target="_self" href="?year=17..">Recordings from the 1700's.</a>
+            <a target="_self" href="?year=17..">Compositions from the 1700's.</a>
         </li>
     </ul>
    <p>Also note that each artist's name is a link to their Wikipedia page.</p>
