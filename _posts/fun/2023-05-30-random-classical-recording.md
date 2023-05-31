@@ -29,7 +29,7 @@ box: random-acclaimed-song
             <a target="_self" href="?year=17..">Recordings from the 1700's.</a>
         </li>
     </ul>
-   <!-- <p>Also note that each artist's name is a link to their Wikipedia page.</p> -->
+   <p>Also note that each artist's name is a link to their Wikipedia page.</p>
 </div>
 
 <script src="/js/URI.js"></script>
@@ -76,8 +76,7 @@ box: random-acclaimed-song
     const infoLog = info.slice(0,3).concat(info.slice(6,7))
     for (let i = 0; i < infoLog.length; i++) { console.log(infoLog[i]) }
     iframe.src = info[3].startsWith("http") ? info[3] : `https://youtube.com/embed/${info[3]}`
-    // const wikiLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[4])}>${info[0]}</a>`
-    wikiLink = info[0]
+    const wikiLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[4])}>${info[0]}</a>`
     // const songLink = `${info[1]}<a style='text-decoration:none;border-bottom:none;' href='http://acclaimedmusic.net/song/${info[5]}.htm'></a>`
     const songLink = info[1]
     title.innerHTML = `${wikiLink} - ${songLink} (${info[2]})`
