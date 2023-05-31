@@ -14,7 +14,7 @@ box: random-acclaimed-song
 <iframe id="song" frameborder="0" allowfullscreen></iframe>
 ' %}
 
-<p id="description">In 2007, music critic Matthew Rye and cellist Steven Isserlis published <a href="https://www.amazon.com/1001-Classical-Recordings-Must-Before/dp/0785835822"><i>1001 Classical Recordings You Must Hear Before You Die</i></a>. This recording was randomly chosen from their book.</p>
+<p id="description">In 2007, Matthew Rye compiled <a href="https://www.amazon.com/1001-Classical-Recordings-Must-Before/dp/0785835822"><i>1001 Classical Recordings You Must Hear Before You Die</i></a>. This&nbsp;recording was randomly chosen from his book.</p>
 
 <p id="next-song"></p>
 
