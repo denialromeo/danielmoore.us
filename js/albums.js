@@ -381,7 +381,7 @@ const albums = [
 "Sonic Youth|Sister|1987|PLMxy067kbpQgq4BHxaBJqGm042YMbEq8m|A699|Sister (Sonic Youth album)|Sonic Youth|Alternative Rock;Noise Rock;Rock",
 "Aphex Twin|Selected Ambient Works 85-92|1992|PLiN-7mukU_RFooOYRV24OVaorPdJNcvSS|A868|Selected Ambient Works 85–92|Aphex Twin|Ambient Techno;IDM;Dance;Electronic;Electronic Dance Music;Techno",
 "Bob Dylan|Love and Theft|2001|PLJa9tNjcs3vKaMOl-VHhLfl1sAXvcUbP2|A1195|Love and Theft (Bob Dylan album)|Bob Dylan|Blues Rock;Folk Rock;Singer/Songwriter;Rock",
-"Sonny Rollins|Saxophone Colossus|1957|PLlxdnGV3wLNPuc4jXzyMcuGYiJHOrw0Di|A1800|Saxophone Colossus|Sonny Rollins|Hard Bop;Bebop;Jazz",
+"Sonny Rollins|Saxophone Colossus|1957|PLiHzq-TzyMjODQIrgwdGBgvN39LuzoC7e|A1800|Saxophone Colossus|Sonny Rollins|Hard Bop;Bebop;Jazz",
 "Creedence Clearwater Revival|Green River|1969|PLtzV2248lUVXOS4yAtdApLToMfpH-4dtH|A164|Green River (album)|Creedence Clearwater Revival|Swamp Rock;Rock;Roots Rock",
 "Bob Marley and The Wailers|Live!|1975|PLwivYHfvVP-qeuAMfGXLU0UIrmKKT2cQb|A337|Live! (Bob Marley & the Wailers album)|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Talking Heads|More Songs About Buildings and Food|1978|PLfimnwaZdumiiqczUzr2NXLZA9aR9KA1i|A427|More Songs About Buildings and Food|Talking Heads|Art Punk;New Wave;Post-Punk;Punk Rock;Rock",
