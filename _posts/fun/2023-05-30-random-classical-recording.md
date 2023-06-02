@@ -23,7 +23,10 @@ box: random-classical-recording
     <p>You can filter the recording selection! Examples &ndash;</p>
     <ul>
         <li>
-            <a target="_self" href="?song=requiem&artist=mozart"><i>Requiem</i> by Mozart.</a>
+            <a target="_self" href="?artist=mozart">Compositions by Mozart.</a>
+        </li>
+        <li>
+            <a target="_self" href="?song=requiem">Compositions of requiems.</a>
         </li>
         <li>
             <a target="_self" href="?year=17..">Compositions from the 1700's.</a>
