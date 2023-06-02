@@ -352,7 +352,7 @@ const classical = [
 "Edvard Grieg|Songs|1861-1905|R_5AwR27wj4|Edvard Grieg",
 "Gabriel Fauré|Mélodies|1861-1921|RRcfSNmm0c8|Gabriel Fauré",
 "Franz Liszt|A Faust Symphony|1861|3ZUQ7yZTFco|Franz Liszt",
-"Henry Vieuxtemps|Violin Concerto no. 5|1861|jyT-Jqwhvio|Henri Vieuxtemps",
+"Henri Vieuxtemps|Violin Concerto no. 5|1861|jyT-Jqwhvio|Henri Vieuxtemps",
 "Giuseppe Verdi|La forza del destino|1862-1869|drbHCt0lwzo|Giuseppe Verdi",
 "Henryk Wieniawski|Violin Concerto no. 2|1862|T7KNd6W5OXo|Henryk Wieniawski",
 "Johannes Brahms|Piano Quintet in F minor|1862-1864|b-DqO_D1g1g|Johannes Brahms",
