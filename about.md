@@ -47,7 +47,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
-        <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Mark Zuckerberg, <a target="_blank" href="https://truthsocial.com/@realDonaldTrump">Donald Trump</a>, Barack Obama, Mitch McConnell, Joe Biden, and Satya Nadella<a href="https://www.youtube.com/watch?v=UNbyT7wPwk4" title="I've always felt like why is there such disparity today in the job, in the labor market between let's say some care worker and let's call it sort of a software developer. And it's because we think of, we as a society have decided to give it different, I'd say premium. Those premiums will adjust as some of these technologies really truly get diffused."></a>.</li>
+        <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Mark Zuckerberg, <a target="_blank" href="https://truthsocial.com/@realDonaldTrump">Donald Trump</a>, Barack Obama, Mitch McConnell, Joe Biden, and Satya Nadella.</li>
         <li>Honorable mentions go to Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Jiang Zemin, Qian&nbsp;Xuesen, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Ho Chi Minh, and Norman Borlaug.</li>
     </ul>
 </div>
@@ -132,6 +132,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#economics-books}
 **Economics Books**
 
+* [*Bullshit Jobs*](https://www.goodreads.com/notes/38217638-bullshit-jobs/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (Trillions are spent on unnecessary professions.)
 * [*The Case Against Education*](https://www.goodreads.com/notes/52147324-the-case-against-education/71655209-daniel-moore) by [Bryan Caplan](http://www.bcaplan.com/) (We waste a third of our lives social signaling.)
 * [*Debt: The First 5,000 Years*](https://www.goodreads.com/notes/23814811-debt---updated-and-expanded/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (Modern finance is rooted in medieval Europe.)
 * [*The Great Convergence*](https://www.goodreads.com/notes/33287012-the-great-convergence/71655209-daniel-moore) by [Richard Baldwin](https://en.wikipedia.org/wiki/Richard_Baldwin_(economist)) (Wealth's journey from East to West and back.)
@@ -161,7 +162,6 @@ I hope you have a good time here. Thanks for dropping by.
 * "[What I Think Is Going On With U.S.-China Relations](https://www.linkedin.com/pulse/what-i-think-going-1-china-us-relations-2-other-countries-ray-dalio/)" by Ray Dalio (We're f\*\*ked.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Beginning of the end.)
 {% comment %}
-* [*Bullshit Jobs*](https://www.goodreads.com/notes/38217638-bullshit-jobs/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (Why I'm retiring early and don't want children.)
 * "[Will ChatGPT Replace Human Software Developers?](https://aista.hashnode.dev/will-chatgpt-replace-human-software-developers)" by Aista (The short answer is yes.)
 * [*Knock &#8217;em Dead Job Interview*](https://www.goodreads.com/notes/21519592-knock-em-dead-job-interview/71655209-daniel-moore) by [Martin Yate](https://www.linkedin.com/in/expertresumewritercareercoach/) (Easily the most important professional skill.)
 * [*The Grind 75*](https://www.techinterviewhandbook.org/grind75) by Yangshun Tay (Data structure/algorithm refresher and interview prep.)
@@ -215,7 +215,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Cinema Speculation*](https://www.goodreads.com/notes/61198870-cinema-speculation/71655209-daniel-moore) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Watch the films as you read to fully get it.)
 * [*The Governance of China*](https://www.goodreads.com/notes/24309365-xi-jinping-the-governance-of-china/71655209-daniel-moore) by [Xi Jinping](http://politics.people.com.cn/n1/2023/0505/c1001-32679282.html) (Perhaps the 21st century's most influential person.)
-* [*Hit Refresh*](https://www.goodreads.com/notes/31139580-hit-refresh/71655209-daniel-moore) by [Satya Nadella](https://en.wikipedia.org/wiki/Satya_Nadella) (His talent for acquisitions started a new AI arms race.)
+* [*Hit Refresh*](https://www.goodreads.com/notes/31139580-hit-refresh/71655209-daniel-moore) by [Satya Nadella](https://www.youtube.com/watch?v=UNbyT7wPwk4&t=791s) (His talent for acquisitions started a new AI arms race.)
 * [*What Happened*](https://www.goodreads.com/notes/34114362-what-happened/71655209-daniel-moore) by [Hillary Clinton](https://en.wikipedia.org/wiki/Hillary_Clinton) (Her electoral losses defined the 21st century.)
 * [*Working*](https://www.goodreads.com/notes/43219063-working/71655209-daniel-moore) by [Robert Caro](https://en.wikipedia.org/wiki/Robert_Caro) (Vita brevis, ars longa.)
 
