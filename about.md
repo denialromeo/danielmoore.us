@@ -53,13 +53,14 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
     <p>Some contemporary observations &ndash;</p>
     <ul>
-        <li>As costs rise in metropolitan coastal areas, there seems to be an unreported mass migration to cheaper Sunbelt red states (Texas to Florida). Once the recession hits, this may accelerate.</li>
+        <li>As costs rise in metropolitan coastal areas, there seems to be an unreported <a href="https://abc7.com/are-people-leaving-california-where-should-i-move-to-housing-in-moving/12826300/">mass migration</a> to cheaper Sunbelt red states (Arizona to Florida). As the recession hits, this may accelerate.</li>
         <li>U.S. tech companies seem to be throttling domestic hiring and instead opening offices abroad. With remote work now proven feasible at scale, Silicon Valley may go the way of Detroit.</li>
     </ul>
 </div>
 
 <a id="hobbies" href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
 <div id="instructions3" style="display:none;">
+    <p>Like most computer enthusiasts, I was drawn to the field by video games. If web development becomes less of a viable career, I may pivot to become a contract game engine programmer.</p>
     <p>Some (long-term) planned open-source projects &ndash;</p>
     <ul>
         <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Low&#8209;cost but effective CGI. Darker-skinned actors, shot on location in India.</li>
@@ -102,6 +103,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#programming-books}
 **Programming Books**
 
+* [*Beginning Game Programming with SDL*](https://lazyfoo.net/tutorials/SDL/) by Lazy Foo (Baby steps.)
 * [*Coders at Work*](https://github.com/ndina/acm/raw/master/coders-at-work.pdf) by [Peter Seibel](https://gigamonkeys.com) (Mentorship from the great programmers of our time.)
 * [*Game Programming Patterns*](http://gameprogrammingpatterns.com/contents.html) by [Bob Nystrom](http://stuffwithstuff.com/) (Notes on building maintainable software.)
 * [*Learn C++*](https://www.learncpp.com/) by Alex (For those of us who went to [JavaSchools](https://www.joelonsoftware.com/category/reading-lists/top-10/#post-912).)
