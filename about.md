@@ -51,6 +51,11 @@ I hope you have a good time here. Thanks for dropping by.
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Mark Zuckerberg, <a target="_blank" href="https://truthsocial.com/@realDonaldTrump">Donald Trump</a>, Barack Obama, Mitch McConnell, Joe Biden, and Satya Nadella.</li>
         <li>Honorable mentions go to Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Jiang Zemin, Qian&nbsp;Xuesen, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Ho Chi Minh, and Norman Borlaug.</li>
     </ul>
+    <p>Some contemporary observations &ndash;</p>
+    <ul>
+        <li>As costs rise in metropolitan coastal areas, there seems to be an unreported mass migration to cheaper Sunbelt red states (Texas to Florida). Once the recession hits, this may accelerate.</li>
+        <li>U.S. tech companies seem to be throttling domestic hiring and instead opening offices abroad. With remote work now proven feasible at scale, Silicon Valley may go the way of Detroit.</li>
+    </ul>
 </div>
 
 <a id="hobbies" href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
