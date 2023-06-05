@@ -61,6 +61,7 @@ I hope you have a good time here. Thanks for dropping by.
 <a id="hobbies" href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
 <div id="instructions3" style="display:none;">
     <p>Like most computer enthusiasts, I was drawn to the field by video games. If web development becomes less of a viable career, I may pivot to become a contract game engine programmer.</p>
+    <p>Other interests I'm excited to pursue include cooking, exercise, and history.</p>
     <p>Some (long-term) planned open-source projects &ndash;</p>
     <ul>
         <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Low&#8209;cost but effective CGI. Darker-skinned actors, shot on location in India.</li>
@@ -685,6 +686,16 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/superman.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/showcase/superman.jpg"/></a><p><i>DC Universe</i> by Alan Moore</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/swamp_thing.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/showcase/swamp_thing.jpg"/></a><p><i>Swamp Thing</i> by Alan Moore</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/swamp_thing2.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/showcase/swamp_thing2.jpg"/></a><p><i>Swamp Thing</i> by Alan Moore</p></figcaption></figure>
+</div>
+
+<div id="clear"></div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman12/01.jpg" itemprop="contentUrl" data-size="1920x2894"><img style="border: 1px solid black;" src="/assets/img/comics/sandman12/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman12/02.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/sandman12/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman12/03.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/sandman12/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman12/04.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/sandman12/04.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman12/05.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/sandman12/05.jpg"/></a></figcaption></figure>
 </div>
 
 <div id="clear"></div>
