@@ -45,6 +45,7 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="instructions2" style="display:none;">
     <p>"We have Paleolithic emotions, medieval institutions, and godlike technology." &ndash; E.O. Wilson<a href="https://en.wikipedia.org/wiki/E._O._Wilson"></a></p>
     <p>"People, ideas, and hardware—in that order!" &ndash; John Boyd</p>
+    <p>Most people I've met will output bad work even when given infinite resources, so I suspect the world's problems are caused by a lack of motivation and intelligence, not money.</p>
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
@@ -165,7 +166,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Return From U.S. To India](https://cubicledog.substack.com/p/ive-started-my-fire-journey-in-india)" by Shuddha Kannadiga (As globalization ends, time to cash out.)
 * "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Microsoft's path to world domination.)
 * "[Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)" by Peter Norvig (No royal road to geometry.)
-* "[Uncomfortable Truthosaurus](https://www.smbc-comics.com/comic/2010-11-30#cc-comicbody)" by Zach Weinersmith (There's no substitute for hard work.)
+* "[Uncomfortable Truthosaurus](https://www.smbc-comics.com/comic/2010-11-30#cc-comicbody)" by Zach Weinersmith (All relationships are transactional.)
 * "[Welcome to the Ruzzkiy Mir](https://yasha.substack.com/p/welcome-to-the-ruzzkiy-mir)" by Evgenia Kovda (Understanding modern Russia.)
 * "[What I Think Is Going On With U.S.-China Relations](https://www.linkedin.com/pulse/what-i-think-going-1-china-us-relations-2-other-countries-ray-dalio/)" by Ray Dalio (We're f\*\*ked.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Root of every political issue of the past 15 years.)
