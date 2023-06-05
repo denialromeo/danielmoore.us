@@ -45,18 +45,22 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="instructions2" style="display:none;">
     <p>"We have Paleolithic emotions, medieval institutions, and godlike technology." &ndash; E.O. Wilson<a href="https://en.wikipedia.org/wiki/E._O._Wilson"></a></p>
     <p>"People, ideas, and hardware—in that order!" &ndash; John Boyd</p>
+    {%comment%}
     <p>Most people I've met will output bad work even when given infinite resources, so I suspect the world's problems are caused by a lack of motivation and intelligence, not money.</p>
+    {%endcomment%}
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Mark Zuckerberg, <a target="_blank" href="https://truthsocial.com/@realDonaldTrump">Donald Trump</a>, Barack Obama, Mitch McConnell, Joe Biden, and Satya Nadella.</li>
         <li>Honorable mentions go to Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Jiang Zemin, Qian&nbsp;Xuesen, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Ho Chi Minh, and Norman Borlaug.</li>
     </ul>
+    {%comment%}
     <p>Some contemporary observations &ndash;</p>
     <ul>
         <li>As costs rise in metropolitan coastal areas, there seems to be an unreported <a href="https://abc7.com/are-people-leaving-california-where-should-i-move-to-housing-in-moving/12826300/">mass migration</a> to cheaper Sunbelt red states (Arizona to Florida). As the recession hits, this may accelerate.</li>
         <li>U.S. tech companies seem to be throttling domestic hiring and instead opening offices abroad. With remote work now proven feasible at scale, Silicon Valley may go the way of Detroit.</li>
     </ul>
+    {%endcomment%}
 </div>
 
 <a id="hobbies" href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
