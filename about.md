@@ -45,9 +45,6 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="instructions2" style="display:none;">
     <p>"We have Paleolithic emotions, medieval institutions, and godlike technology." &ndash; E.O. Wilson<a href="https://en.wikipedia.org/wiki/E._O._Wilson"></a></p>
     <p>"People, ideas, and hardware—in that order!" &ndash; John Boyd</p>
-    {%comment%}
-    <p>Most people I've met will output bad work even when given infinite resources, so I suspect the world's problems are caused by a lack of motivation and intelligence, not money.</p>
-    {%endcomment%}
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
@@ -271,7 +268,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Personal History of David Copperfield*](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10baee16-44cc-e332-e3c6-0796dd7162e9) by [Armando Ianucci](https://en.wikipedia.org/wiki/Armando_Ianucci) (My favorite comedy.)
 * [*Schindler's List*](https://www.amazon.com/gp/video/detail/B00BEN0V8S) by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) (Still the best film ever made about racism.)
 * [*Squid Game*](https://www.netflix.com/title/81040344) by [Hwang Dong-hyuk](https://en.wikipedia.org/wiki/Hwang_Dong-hyuk) (Thinly-veiled allegory for corporate life.)
-* [*Suicide Squad: Hell to Pay*](https://play.max.com/movie/bfb56b68-0e0e-4682-8701-29a7e6f4d1ca) by [Alan Burnett](https://en.wikipedia.org/wiki/Alan_Burnett) (You don't get to take anything with you.)
 * [*The Sunset Limited*](https://play.max.com/movie/45898ac7-06e9-4abe-b5ee-a6d2be63cfd3) by [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy) (Nobody's watching.)
 * [*Synecdoche, New York*](https://www.amazon.com/gp/video/detail/B00BZAZYMI) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
