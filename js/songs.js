@@ -8463,7 +8463,7 @@ const songs = [
 "Eminem|Mosh|2004|9wRLd5l7WYE|Eminem|S2482|Political Hip Hop;Hip Hop",
 "Earl Sweatshirt|Earl|2010|sSTQ4oKNmEo|Earl Sweatshirt|S10672|Horrorcore;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop",
 "Talk Talk|Desire|1988|gPuxrLAbONk|Talk Talk|S13137|Art Rock;Post-Rock;Rock",
-"UB40|One in Ten|1981|Ao2kRDqkNxU|UB40|S8887|Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
+"UB40|One in Ten|1981|lvcaxumeiKc|UB40|S8887|Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Def Leppard|Bringin' On the Heartbreak|1981|f_X5A-BYjO8|Def Leppard|S10561|Hard Rock;Rock",
 "Ray Parker Jr. & Raydio|Ghostbusters|1984|Fe93CLbHjxQ|Ray Parker Jr.|S8109|Dance-Pop;Film Soundtrack;Halloween Music;Dance;Descriptor;Holiday Music;Pop;Soundtracks",
 "Cesaria Evora|Petit Pays|1995|LbN8bk9ljQw|Cesária Évora|S5747|Morna;African Music;Cape Verdean Music;Regional Music",
