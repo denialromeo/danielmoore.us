@@ -269,7 +269,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Sunset Limited*](https://play.max.com/movie/45898ac7-06e9-4abe-b5ee-a6d2be63cfd3) by [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy) (Nobody's watching.)
 * [*Synecdoche, New York*](https://www.amazon.com/gp/video/detail/B00BZAZYMI) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
-* [*The Wolf of Wall Street*](https://www.paramountplus.com/movies/video/r_f3sYrm5VnjVJz1fQfYN3D_rxus_4y4/) by [Martin Scorsese](https://en.wikipedia.org/wiki/Martin_Scorsese) (Markets don't reward what's best for society.)
 * [*World's Greatest Dad*](https://www.amazon.com/gp/video/detail/B00C0J535Q) by [Bobcat Goldthwait](https://en.wikipedia.org/wiki/Bobcat_Goldthwait) (Quiet desperation is the American way.)
 * [*Zhang Jin Hu*](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=battle+at+lake+changjin) by [Wu Jing](https://en.wikipedia.org/wiki/Wu_Jing_(actor)) (Resist U.S. aggression and aid Korea!)
 
