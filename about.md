@@ -162,6 +162,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkat Rao (Pair with [*The Office*](https://www.peacocktv.com/watch/asset/tv/the-office-superfan-episodes/8229469043710582112) to forever alter your life goals.)
 * "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
 * "[How the Taliban Did It](https://www.atlanticcouncil.org/blogs/new-atlanticist/how-the-taliban-did-it-inside-the-operational-art-of-its-military-victory/)" by Benjamin Jensen (Teamwork and resolve trump everything.)
+* "[India: Another China or Another Brazil?](https://thenextrecession.wordpress.com/2019/05/19/india-another-china-or-another-brazil/)" by Michael Roberts (Riches, but only for a few.)
 * "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch)" by Scott Alexander (We run ever-faster just to stay in place.)
 * "[Overshoot](https://medium.com/@CollapseSurvival/overshoot-why-its-already-too-late-to-save-civilization-e834cb4ec694)" by Alan Urban (Everything lasts forever until it doesn't.)
 * "[Return From U.S. To India](https://cubicledog.substack.com/p/ive-started-my-fire-journey-in-india)" by Shuddha Kannadiga (As globalization ends, time to cash out.)
