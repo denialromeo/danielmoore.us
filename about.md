@@ -251,7 +251,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#television}
 **Television**
 
-* [*Django Unchained*](https://www.amazon.com/Django-Unchained-Jamie-Foxx/dp/B0B3NBCHMR) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Escaping from misery is a universal struggle.)
+* [*Django Unchained*](https://www.amazon.com/Django-Unchained-Jamie-Foxx/dp/B0B3NBCHMR) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Escaping misery is a universal struggle.)
 * [*Get Out*](https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1L8T75) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Lampoons the racial weirdness of the Obama years.)
 * [*Gisaengchung*](https://play.max.com/movie/d5e3be11-eb8b-449f-89cf-db887ddee777) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (Class struggle is swiftly returning.)
 * [*The Green Knight*](https://www.amazon.com/dp/B09CP38JQ5) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (It really is all a game.)
