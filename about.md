@@ -256,7 +256,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Get Out*](https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1L8T75) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Lampoons the racial weirdness of the Obama years.)
 * [*Gisaengchung*](https://play.max.com/movie/d5e3be11-eb8b-449f-89cf-db887ddee777) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (Class struggle is swiftly returning.)
 * [*The Green Knight*](https://www.amazon.com/dp/B09CP38JQ5) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (It really is all a game.)
-* [*Invincible*](https://www.amazon.com/Invincible-Season-1-Official-Trailer/dp/B08WJP55PR) by [Robert Kirkman](https://en.wikipedia.org/wiki/Robert_Kirkman) (Somehow even better than the source material.)
+* [*Invincible*](https://www.amazon.com/Invincible-Season-1-Official-Trailer/dp/B08WJP55PR) by [Robert Kirkman](https://en.wikipedia.org/wiki/Robert_Kirkman) (Life is both incredibly precious and dirt cheap.)
 * [*Jiro Dreams of Sushi*](https://www.amazon.com/gp/video/detail/B00BR1FD26) by [Ono Jiro](https://en.wikipedia.org/wiki/Jiro_Ono_(chef)) (There is bliss in doing your job well.)
 * [*Kaze Tachinu*](https://play.max.com/movie/f769960a-91db-4e24-8ecc-de9bd41b8102) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
 * [*The Menu*](https://play.max.com/movie/9bcb57c8-b5c6-4a26-8305-fbb49e2258b9) by [Will Tracy](https://www.creativescreenwriting.com/seth-reiss-and-will-tracy-take-a-look-at-the-menu/) (Eating is not the same as cooking.)
