@@ -62,8 +62,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="hobbies" href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
 <div id="instructions3" style="display:none;">
-    <p>Like most computer enthusiasts, I was drawn to the field by video games. If web development becomes less of a viable career, I may pivot to become a contract game engine programmer.</p>
-    <p>Other interests I'm excited to pursue include cooking, exercise, and history.</p>
     <p>Some (long-term) planned open-source projects &ndash;</p>
     <ul>
         <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Low&#8209;cost but effective CGI. Darker-skinned actors, shot on location in India.</li>
