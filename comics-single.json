@@ -1,34 +1,52 @@
 {
 	"pages": [
 		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
+			"author": "Robert Kirkman",
+			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/sandman12/01.jpg"
+			"link": "assets/img/comics/invincible4/01.jpg"
 		},
 		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
+			"author": "Robert Kirkman",
+			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/sandman12/02.jpg"
+			"link": "assets/img/comics/invincible4/02.jpg"
 		},
 		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
+			"author": "Robert Kirkman",
+			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/sandman12/03.jpg"
+			"link": "assets/img/comics/invincible4/03.jpg"
 		},
 		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
+			"author": "Robert Kirkman",
+			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/sandman12/04.jpg"
+			"link": "assets/img/comics/invincible4/04.jpg"
 		},
 		{
-			"author": "Neil Gaiman",
-			"title": "The Sandman",
+			"author": "Robert Kirkman",
+			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/sandman12/05.jpg"
+			"link": "assets/img/comics/invincible4/05.jpg"
+		},
+		{
+			"author": "Robert Kirkman",
+			"title": "Invincible",
+			"amazon": "",
+			"link": "assets/img/comics/invincible4/06.jpg"
+		},
+		{
+			"author": "Robert Kirkman",
+			"title": "Invincible",
+			"amazon": "",
+			"link": "assets/img/comics/invincible4/07.jpg"
+		},
+		{
+			"author": "Robert Kirkman",
+			"title": "Invincible",
+			"amazon": "",
+			"link": "assets/img/comics/invincible4/08.jpg"
 		}
 	]
 }
