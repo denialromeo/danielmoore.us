@@ -225,6 +225,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Novels**
 
 * [*A Clash of Kings*](https://www.goodreads.com/notes/6584437-a-clash-of-kings/71655209-daniel-moore) by [George R. R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin) (Living history is written in blood.)
+* [*The House of God*](https://www.goodreads.com/notes/10562200-the-house-of-god/71655209-daniel-moore) by [Samuel Shem](https://en.wikipedia.org/wiki/Samuel_Shem) (Only [57%](https://www.ama-assn.org/practice-management/physician-health/pandemic-s-wake-only-57-doctors-would-choose-medicine-again) of doctors would go into medicine again.)
 * [*The Long Walk*](https://www.goodreads.com/notes/28165439-the-long-walk/71655209-daniel-moore) by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) (Masculinity in a nutshell.)
 * [*Pet Sematary*](https://www.goodreads.com/notes/45030607-pet-sematary/71655209-daniel-moore) by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) (Death makes a mockery of everything.)
 * [*The Stars My Destination*](https://www.goodreads.com/notes/61330329-the-stars-my-destination/71655209-daniel-moore) by [Alfred Bester](https://en.wikipedia.org/wiki/Alfred_Bester) (Hypnotic in its intensity.)
