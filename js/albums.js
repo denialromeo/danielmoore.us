@@ -52,7 +52,7 @@ const albums = [
 "Pixies|Doolittle|1989|PLjYhpGCfoYYogQFaGUpbWhmkA1Lc2OEGl|A760|Doolittle (album)|Pixies (band)|Indie Rock;Alternative Rock;Rock",
 "John Coltrane|A Love Supreme|1965|PLWvco6AqKzf2OhGoRTyGO3OKQ42sAZFJe|A1951|A Love Supreme|John Coltrane|Spiritual Jazz;Avant-Garde Jazz;Jazz",
 "The Rolling Stones|Sticky Fingers|1971|PLu1hvmv2UyrqnZzJwPvEvA9PWIyo5M9bb|A217|Sticky Fingers|The Rolling Stones|Blues Rock;Rock",
-"My Bloody Valentine|Loveless|1991|PLWlUUT3f92csDFgwA95hJplpxTj1E0hhY|A816|Loveless (album)|My Bloody Valentine (band)|Noise Pop;Shoegaze;Alternative Rock;Rock",
+"My Bloody Valentine|Loveless|1991|PLc8QTmhJeIWthQ7unEmqHGw7fsthxp0qh|A816|Loveless (album)|My Bloody Valentine (band)|Noise Pop;Shoegaze;Alternative Rock;Rock",
 "Joy Division|Closer|1980|PLo_2VOCND-gDfWkTGjLTwU0XLaF18wmBu|A482|Closer (Joy Division album)|Joy Division|Post-Punk;Rock",
 "Love|Forever Changes|1967|PLHIX5OHxFh7ElIuW_QrCP7dcNPLlj6of2|A95|Forever Changes|Love (band)|Psychedelic Folk;Psychedelic Pop;Psychedelic Rock;Contemporary Folk;Folk;Pop;Rock",
 "The Band|The Band|1969|PLEvr99j7ruPwuZE9S2HgC0L6YUcRC44T4|A151|The Band (album)|The Band|Country Rock;Folk Rock;Roots Rock;Rock",
