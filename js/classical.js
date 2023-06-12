@@ -663,7 +663,7 @@ const classical = [
 "Sergie Prokofiev|Symphony no. 1|1917|WLT55kPIFCo|1997 in New Zealand",
 "Erik Satie|Parade|1917|IuZ4DYywqpw|Erik Satie",
 "Richard Strauss|Die Frau ohne Schatten|1917|-p6jiSLMavk|Richard Strauss",
-"Ottorino Respighi|Ancient Airs and Dances|1917-932|O_DlXAJ7zpM|Ottorino Respighi",
+"Ottorino Respighi|Ancient Airs and Dances|1917-1932|O_DlXAJ7zpM|Ottorino Respighi",
 "George Enescu|Symphony no. 3|1918|_7kohi6by-I|George Enescu",
 "Francis Poulenc|Mélodies|1918-1960|LnMIqM0Z918|Francis Poulenc",
 "Leos Janácek|Taras Bulba|1918|VOG-YDbe3JA|Leoš Janáček",
