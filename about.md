@@ -141,7 +141,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#economics-books}
 **Economics Books**
 
-* [*Bullshit Jobs*](https://www.goodreads.com/notes/38217638-bullshit-jobs/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (Trillions are spent on unnecessary professions.)
+* [*Bullshit Jobs*](https://www.goodreads.com/notes/38217638-bullshit-jobs/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (Are most white collar jobs really necessary?)
 * [*The Case Against Education*](https://www.goodreads.com/notes/52147324-the-case-against-education/71655209-daniel-moore) by [Bryan Caplan](http://www.bcaplan.com/) (We waste a third of our lives social signaling.)
 * [*Debt: The First 5,000 Years*](https://www.goodreads.com/notes/23814811-debt---updated-and-expanded/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (Modern finance is rooted in medieval Europe.)
 * [*The Great Convergence*](https://www.goodreads.com/notes/33287012-the-great-convergence/71655209-daniel-moore) by [Richard Baldwin](https://en.wikipedia.org/wiki/Richard_Baldwin_(economist)) (Wealth's journey from East to West and back.)
