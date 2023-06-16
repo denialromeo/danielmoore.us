@@ -482,7 +482,7 @@ const songs = [
 "The Walkmen|The Rat|2004|aWR1h-5EzUo|The Walkmen|S2451|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock",
 "James Taylor|Fire and Rain|1970|_1nKGVDhQ60?start=14|James Taylor|S860|Folk Rock;Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock",
 "James Brown|It's a Man's Man's Man's World|1966|H77fRz1rybs|James Brown|S983|Deep Soul;R&B;Soul;Southern Soul",
-"N.W.A|Fuck Tha Police|1988|qZuxPKUVGiw|N.W.A|S205|Gangsta Rap;Political Hip Hop;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop",
+"N.W.A|Fuck Tha Police|1988|fF3aPT7C51Y|N.W.A|S205|Gangsta Rap;Political Hip Hop;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop",
 "David Bowie|Young Americans|1975|oXjTnPHAlmk|David Bowie|S694|Blue Eyed Soul;Pop Rock;Pop Soul;Pop;R&B;Rock;Soul",
 "The Roots|The Seed 2.0|2002|ojC0mg2hJCc|The Roots|S2253|East Coast Hip Hop;Neo-Soul;Hip Hop;R&B;Soul",
 "Big Star|September Gurls|1974|pPzkFr-we3U|Big Star|S747|Power Pop;Pop;Pop Rock;Rock",

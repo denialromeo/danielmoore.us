@@ -45,6 +45,7 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="instructions2" style="display:none;">
     <p>"We have Paleolithic emotions, medieval institutions, and godlike technology." &ndash; E.O. Wilson<a href="https://en.wikipedia.org/wiki/E._O._Wilson"></a></p>
     <p>"People, ideas, and hardware—in that order!" &ndash; John Boyd</p>
+    <p>Living in the U.S. is a trip. The money's great, but the culture and media here are so toxic that many people I meet have gone insane. White service workers and homeless people look down on me over my skin color. I really can't wait for ChatGPT to replace them.</p>
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
