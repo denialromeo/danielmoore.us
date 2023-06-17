@@ -197,7 +197,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Struggle for the Eurasian Borderlands*](https://www.goodreads.com/notes/23864634-the-struggle-for-the-eurasian-borderlands/71655209-daniel-moore) by [Alfred Rieber](https://en.wikipedia.org/wiki/Alfred_Rieber) (As relevant now as ever.)
 * [*Vladimir Putin and Russian Statecraft*](https://www.goodreads.com/notes/19441321-vladimir-putin-and-russian-statecraft/71655209-daniel-moore) by [Allen Lynch](https://politics.virginia.edu/people/profile/al4u) (From failed state to world power.)
  
-(For more, check out the World History Association's [list](https://www.thewha.org/awards/bentley-book-prize/#committee) of Bentley Book Prize winners.)
+(For more, check out the World History Association's [list](https://www.thewha.org/wha-awards/wha-bentley-book-prize/#toc_1) of Bentley Book Prize winners.)
 
 {:#historical-documents}
 **Historical Documents**
