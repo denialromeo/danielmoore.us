@@ -4359,7 +4359,7 @@ const songs = [
 "Weezer|Hash Pipe|2001|_9BGLtqqkVI|Weezer|S2216|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
 "The Shirelles|Tonight's the Night|1960|Z4HVksFJ_1s|The Shirelles|S1159|Girl Group;Pop",
 "Bruce Springsteen|Glory Days|1984|6vQpW9XRiyM|Bruce Springsteen|S420|Heartland Rock;Pop Rock;Pop;Rock",
-"Koko Taylor|Wang Dang Doodle|1966|JHmLYT-IKrs|Koko Taylor|S7141|Chicago Blues;Soul Blues;Blues;Electric Blues",
+"Koko Taylor|Wang Dang Doodle|1966|qyUHkY0K8HE|Koko Taylor|S7141|Chicago Blues;Soul Blues;Blues;Electric Blues",
 "Sheck Wes|Mo Bamba|2017|VWoIpDVkOH0|Sheck Wes|S16557|East Coast Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Phoenix|Entertainment!|2013|tBsRvthVhdw|Phoenix (band)|S9506|Indie Pop;Pop",
 "Natalie Prass|My Baby Don't Understand Me|2015|rRg4WRJBqrk?start=12|Natalie Prass|S9819|Chamber Pop;Pop Soul;Baroque Pop;Indie Pop;Pop;R&B;Soul",
