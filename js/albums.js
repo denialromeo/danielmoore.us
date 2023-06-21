@@ -348,7 +348,7 @@ const albums = [
 "Frank Zappa|Hot Rats|1969|PLzEG2f9QAl8Mf58rIdXoNUe4jWwGcxEBg|A167|Hot Rats|Frank Zappa|Jazz Fusion;Jazz-Rock;Jazz;Rock",
 "Alanis Morissette|Jagged Little Pill|1995|PLxKHVMqMZqURCaSxevo2zSWGJw3S-J902|A947|Jagged Little Pill|Alanis Morissette|Pop Rock;Singer/Songwriter;Pop;Rock",
 "The Libertines|Up the Bracket|2002|PLMNp8JUUBY1bIO2cMJrJwTZwTnNjzM5ZK|A1645|Up the Bracket|The Libertines|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock",
-"R.E.M.|Out of Time|1991|PLtjD18cdUpxUZQqmJtXbLuSRzdtD9e6vB|A815|Out of Time (album)|R.E.M.|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
+"R.E.M.|Out of Time|1991|PLbmM_M6fjs7yk6aNY58zoZdiYAlm6m4o2|A815|Out of Time (album)|R.E.M.|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Big Star|The Third Album/Sister Lovers|1978|PLnJsh52n65cM_W34X-toxc9V2YVAsOE_H|A423|Third/Sister Lovers|Big Star|Power Pop;Pop;Pop Rock;Rock",
 "Beck|Mellow Gold|1994|PLrvkEGE7YpseJvj-duC7NlSfmwXEDvVc3|A910|Mellow Gold|Beck|Alternative Singer/Songwriter;Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock;Singer/Songwriter",
 "Beck|Sea Change|2002|PLC45874B285D8A72D|A1622|Sea Change (album)|Beck|Folk Rock;Singer/Songwriter;Rock",
