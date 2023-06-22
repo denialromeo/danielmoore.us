@@ -2460,7 +2460,7 @@ const albums = [
 "Gomez|Bring It On|1998|PLuWKDhdtDuliCnbiO7e2m5YmrRv8GCuHb|A1025|Bring It On (Gomez album)|Gomez (band)|Indie Rock;Alternative Rock;Rock",
 "The Go-Betweens|Before Hollywood|1983|PLy4u88AKUauK8wOQhIn2roP0-Tl84BeUJ|A1690|Before Hollywood|The Go-Betweens|Indie Pop;Jangle Pop;Post-Punk;Alternative Rock;Pop;Pop Rock;Rock",
 "Spiritualized|Let It Come Down|2001|PLCX_SlmERpRM5bjKz2kyW1WFapFJTqNAp|A1200|Let It Come Down (Spiritualized album)|Spiritualized|Neo-Psychedelia;Psychedelic Rock;Rock",
-"Wilco|The Whole Love|2011|PLHTo__bpnlYVNX8zSeshuLK2cLHSg7uXd|A5182|The Whole Love|Wilco|Indie Rock;Alternative Rock;Rock",
+"Wilco|The Whole Love|2011|PLB888A73A4B19F35B|A5182|The Whole Love|Wilco|Indie Rock;Alternative Rock;Rock",
 "John Coltrane|Meditations|1966|PL1217D5873CFEDA58|A1966|Meditations (John Coltrane album)|John Coltrane|Free Jazz;Avant-Garde Jazz;Jazz",
 "Bee Gees|Odessa|1969|PLEouLkiLHdSCLfmEDYpl213RqIrbNY_E4|A4475|Odessa (Bee Gees album)|Bee Gees|Baroque Pop;Pop Rock;Pop;Rock",
 "Jim O'Rourke|Insignificance|2001|PLGxyU_3RFNSQDdvZJBS5ViGjLtxsJMNX6|A4942|Insignificance (Jim O'Rourke album)|Jim O'Rourke (musician)|Alternative Singer/Songwriter;Indie Rock;Alternative Rock;Rock;Singer/Songwriter",
