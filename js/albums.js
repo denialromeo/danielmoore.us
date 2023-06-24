@@ -1026,7 +1026,7 @@ const albums = [
 "The Isley Brothers|3+3|1973|PL26tni6JWSPtCUWcHsRW1p89ETYMZhkXT|A298|3 + 3|The Isley Brothers|Funk;Psychedelic Soul;R&B;Soul",
 "Max Roach|We Insist! Max Roach's Freedom Now Suite|1961|PLUQMjA4aCygSs-V7aBuRittd-1_0AeCYy|A1887|We Insist!|Max Roach|Avant-Garde Jazz;Jazz",
 "Sleater-Kinney|No Cities to Love|2015|PLbOGt8cOph4Ux9cY0YOOLF7aPCDqiwLls|A5549|No Cities to Love|Sleater-Kinney|Indie Rock;Alternative Rock;Rock",
-"The Band|The Last Waltz|1978|PLih2LEf7kGke2heHwY--Xn7R0KCg1p5sK|A449|The Last Waltz (1978 album)|The Band|Folk Rock;Rock",
+"The Band|The Last Waltz|1978|PLVPGzOHIIgz_fCsVUREmvLgKceF3XzEoa|A449|The Last Waltz (1978 album)|The Band|Folk Rock;Rock",
 "Isaac Hayes|Shaft|1971|PLKqYbk41EfGUwxGW2X1rMvlwoIPFK7wUx|A226|Shaft (Isaac Hayes album)|Isaac Hayes|Film Score;Funk;Soul;Descriptor;Film Soundtrack;R&B;Soundtracks",
 "Bruce Springsteen|The Ghost of Tom Joad|1995|PLgaFNC_I_ZkmJ89AZvcPzCuQliBHe7LAt|A957|The Ghost of Tom Joad|Bruce Springsteen|Americana;Contemporary Folk;Singer/Songwriter;Country;Folk",
 "Red Hot Chili Peppers|Californication|1999|PL8P8cl_DddmdfMpYJx-52udauhZvFnAfq|A3752|Californication (album)|Red Hot Chili Peppers|Alternative Rock;Pop Rock;Pop;Rock",
