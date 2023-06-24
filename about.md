@@ -149,6 +149,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Neoliberal Endgame*](https://www.goodreads.com/notes/20574045-the-falling-rate-of-learning-and-the-neoliberal-endgame/71655209-daniel-moore) by [David Blacker](https://www.cehd.udel.edu/faculty-bio/david-blacker/) (America's destiny, as set forth by Nixon.)
 * [*Open Borders*](https://www.amazon.com/dp/1250316960) by [Bryan Caplan](https://en.wikipedia.org/wiki/Bryan_Caplan) (Immigration restrictions make no economic sense.)
 * [*River Out of Eden*](https://www.goodreads.com/notes/19196310-river-out-of-eden/71655209-daniel-moore) by [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) (Suffering and scarcity are built into the system.)
+* [*Screen Schooled*](https://www.goodreads.com/notes/36357274-screen-schooled/71655209-daniel-moore) by [Joe Clement](http://screenschooled.com/aboutauthors/) (Software has eaten the world.)
 * [*Untrue: Women, Lust, and Infidelity*](https://www.goodreads.com/notes/38907660-untrue/71655209-daniel-moore) by [Wednesday Martin](https://en.wikipedia.org/wiki/Wednesday_Martin) (Primate dating market dynamics.)
 
 {:#blog-posts}
