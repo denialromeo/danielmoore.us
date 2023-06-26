@@ -1743,7 +1743,7 @@ const albums = [
 "Muse|Black Holes & Revelations|2006|PLJyW25ChPBkIv85SMxhyVWpDA7eKMKsAp|A2147|Black Holes and Revelations|Muse (band)|Alternative Rock;Rock",
 "Bill Withers|Just As I Am|1971|PLTTHtJpr2obYLNiqPWonx0XU35jgwnKQ5|A1359|Just as I Am (Bill Withers album)|Bill Withers|Soul;R&B",
 "Lady Gaga|The Fame Monster|2009|PLvIcNJmwjdZkFfjOk3wn2Zclz2O9ZyXr9|A5526|The Fame Monster|Lady Gaga|Dance-Pop;Electropop;Dance;Electronic;Pop",
-"Big Youth|Screaming Target|1972|PLr4v8vPKXY617B2shIJ8KJkSkQblDAOAc|A1243|Screaming Target|Big Youth|Deejay;Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
+"Big Youth|Screaming Target|1972|PLbFh4CNLcHWxSmtxrjw5vKqaxlwsP3YJ5|A1243|Screaming Target|Big Youth|Deejay;Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "The Bug|London Zoo|2008|PLVvHxVOoOOU6lneUZzFYDnkMFs8_BA0Io|A4363|London Zoo (album)|Kevin Martin (British musician)|Dancehall;Dubstep;Caribbean Music;Dance;Electronic;Electronic Dance Music;Jamaican Music;Regional Music",
 "Depeche Mode|Black Celebration|1986|PLzFp3qeLQkzdP-Jza6cwYrli_2Wv65VpM|A1692|Black Celebration|Depeche Mode|Synthpop;Electronic;Pop",
 "dEUS|Worst Case Scenario|1994|PL12C084665FC2AD27|A3541|Worst Case Scenario (album)|Deus (band)|Art Rock;Indie Rock;Alternative Rock;Rock",
