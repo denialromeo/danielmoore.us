@@ -959,7 +959,7 @@ const albums = [
 "Thin Lizzy|Jailbreak|1976|PLZQOHzr5NW1POhr8gyTjYimdmlAiX41Nd|A382|Jailbreak (album)|Thin Lizzy|Hard Rock;Rock",
 "Aretha Franklin|Amazing Grace|1972|PLmXxqSJJq-yV1RlaoFulbUPqnomCSvVXD|A265|Amazing Grace (Aretha Franklin album)|Aretha Franklin|Gospel;Southern Soul;American Folk Music;Folk;R&B;Regional Music;Soul;Traditional Folk Music",
 "Salif Keita|Soro|1987|PLrcmGeelkw_mU5INAoMj0UjqNh7UIPDyN|A2151|Soro (album)|Salif Keita|Mande Music;African Music;Regional Music;West African Music",
-"ANOHNI|Hopelessness|2016|ERROR: Suitable playlist not found|A5695|Hopelessness (album)|Anohni|Art Pop;Electropop;Electronic;Pop",
+"ANOHNI|Hopelessness|2016|PL7jlxzdSyMJfIYZF8EMl5an0wNLXemCLn|A5695|Hopelessness (album)|Anohni|Art Pop;Electropop;Electronic;Pop",
 "Robyn|Honey|2018|PLyRknbIIGHvjYHmcEZ76iWq9UasMRXbyJ|A6026|Honey (Robyn album)|Robyn|Dance-Pop;Electropop;Dance;Electronic;Pop",
 "Sam Cooke|Night Beat|1963|PLCX_SlmERpRMEg8iAh1smTGdvTE4XEW_G|A21|Night Beat (Sam Cooke album)|Sam Cooke|Southern Soul;R&B;Soul",
 "Lucinda Williams|Lucinda Williams|1988|PLnEnlVSr-1iiXrNX8nXDHmTzueDV3nV1Y|A729|Lucinda Williams (album)|Lucinda Williams|Alt-Country;Americana;Singer/Songwriter;Country",
