@@ -26,7 +26,7 @@ While [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)'s 
 * ["So Spake Martin" Archive](https://www.westeros.org/Citadel/SSM)
 * [Released *The Winds of Winter* Chapters](https://thehawke.github.io/twow-excerpts/)
 * [A Complete Timeline of George R.R. Martin's Progress on *The Winds of Winter*](https://theweek.com/feature/briefing/1022767/a-complete-timeline-of-george-rr-martins-progress-on-the-winds-of-winter#main)
-* [*Reigns: Game of Thrones*](https://steamcommunity.com/id/denialromeo/recommended/897820?snr=1_5_9__402)
+* [*Reigns: Game of Thrones*](https://store.steampowered.com/app/897820/Reigns_Game_of_Thrones/)
 * [Ted Nasmith's Art](https://awoiaf.westeros.org/index.php/Category:Images_by_Ted_Nasmith)
 * [Character Fan Art](https://awoiaf.westeros.org/index.php/Category:Character_Images)
 * [A Search of Ice and Fire](https://asearchoficeandfire.com/)
