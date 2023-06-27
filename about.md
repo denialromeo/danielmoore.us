@@ -215,6 +215,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Remarks on the End of the War in Afghanistan](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/31/remarks-by-president-biden-on-the-end-of-the-war-in-afghanistan/#:~:text=After%20more%20than%20%242%20trillion,a%20day%20for%20two%20decades.)" by [Joe Biden](https://en.wikipedia.org/wiki/Joe_Biden) (Graveyard of empires.)
 * "[The Social Responsibility of Business](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html)" by [Milton Friedman](https://en.wikipedia.org/wiki/Milton_Friedman) (Death knell for the welfare state.)
 * "[Speech on China Trade Bill](https://archive.nytimes.com/www.nytimes.com/library/world/asia/030900clinton-china-text.html)" by [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) (Birth of the Chinese Century.)
+* "[Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/#main)" by [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreesen) (Be careful what you wish for.)
 
 {:#autobiographies}
 **Autobiographies**
