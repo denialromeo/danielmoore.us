@@ -7029,7 +7029,7 @@ const songs = [
 "Pink Floyd|Careful with That Axe, Eugene|1968|tMpGdG27K9o|Pink Floyd|S11904|Psychedelic Rock;Rock",
 "The Smiths|Stop Me If You Think You've Heard This One Before|1987|SckD99B51IA|The Smiths|S8465|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "The Rolling Stones|Torn and Frayed|1972|khRFhrhcJrs|The Rolling Stones|S8228|Blues Rock;Rock",
-"Pebbles|Mercedes Boy|1987|lQS0t5Hdc6M|Perri \"Pebbles\" Reid|S1986|Dance-Pop;Pop Soul;Dance;Pop;R&B;Soul",
+"Pebbles|Mercedes Boy|1987|RPZwbWZpyho|Perri \"Pebbles\" Reid|S1986|Dance-Pop;Pop Soul;Dance;Pop;R&B;Soul",
 "Amen Dunes|Miki Dora|2018|RONXqXaF8oI|Amen Dunes|S16596|Neo-Psychedelia;Psychedelic Rock;Rock",
 "E.U.|Da'Butt|1988|FShE0VifCYs|Experience Unlimited|S1977|Go-Go;Funk;R&B",
 "Teengirl Fantasy|Cheaters|2010|s_oNzk1q8F8|Teengirl Fantasy|S4925|Deep House;Dance;Electronic;Electronic Dance Music;House",
