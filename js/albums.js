@@ -2918,7 +2918,7 @@ const albums = [
 "Fleshtones|Roman Gods|1981|PLIxwjInMlFTGmVm67VbtnNRYhcAmtcCed|A4654|Roman Gods (album)|The Fleshtones|Garage Rock Revival;Garage Rock;Rock",
 "Mastodon|Blood Mountain|2006|PLTZ1sthjmS9YtgsfTTnq_-etRIOvOKJF8|A3077|Blood Mountain (album)|Mastodon (band)|Progressive Metal;Sludge Metal;Metal;Rock",
 "Scraping Foetus Off the Wheel|Hole|1984|PLQuAW_Ov_RlHxCwOZaZ8uUVlDaOUlYLzw|A3009|Hole (Foetus album)|Foetus (band)|Industrial;Industrial Rock;Experimental;Industrial Music;Rock",
-"Cold Chisel|East|1980|PLJdP6kZNQvK3dNgO9zmLCRdsiwv4kfYpz|A2759|East (Cold Chisel album)|Cold Chisel|Pub Rock;Rock",
+"Cold Chisel|East|1980|PLNjGq13tg_g7TD4R7qE1vz_Afqdw8FgCE|A2759|East (Cold Chisel album)|Cold Chisel|Pub Rock;Rock",
 "Squarepusher|Feed Me Weird Things|1996|PLwc_APaBz11U7bcdSiV46NjMYpW2ZF5os|A4842|Feed Me Weird Things|Squarepusher|Drill and Bass;Drum and Bass;Dance;Electronic;Electronic Dance Music;IDM",
 "Bill Callahan|Shepherd in a Sheepskin Vest|2019|PL2nkG_LEeBQHHXXCpDSmHQag8i_wbOWrK|A6219|Shepherd in a Sheepskin Vest|Bill Callahan (musician)|Americana;Singer/Songwriter;Country",
 "Mary J. Blige|Mary|1999|PLA1j_DOL2IPWScfCAHjVURWA_es0Kgiq4|A3753|Mary (Mary J. Blige album)|Mary J. Blige|Contemporary R&B;Neo-Soul;R&B;Soul",
