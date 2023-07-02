@@ -166,7 +166,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Welcome to the Ruzzkiy Mir](https://yasha.substack.com/p/welcome-to-the-ruzzkiy-mir)" by Evgenia Kovda (Understanding modern Russia.)
 * "[We're Gonna Need a Bigger Moat](https://steve-yegge.medium.com/were-gonna-need-a-bigger-moat-478a8df6a0d2)" by Steve Yegge (The AI genie is out of the bottle.)
 * "[What I Think Is Going On With U.S.-China Relations](https://www.linkedin.com/pulse/what-i-think-going-1-china-us-relations-2-other-countries-ray-dalio/)" by Ray Dalio (We're f\*\*ked.)
-* "[Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/#main)" by Marc Andreessen (Be careful what you wish for.)
+* "[Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/#main)" by Marc Andreessen (Unforeseen consequences.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Root of every political issue of the past 15 years.)
 {% comment %}
 * [*Knock &#8217;em Dead Job Interview*](https://www.goodreads.com/notes/21519592-knock-em-dead-job-interview/71655209-daniel-moore) by [Martin Yate](https://www.linkedin.com/in/expertresumewritercareercoach/) (Easily the most important professional skill.)
