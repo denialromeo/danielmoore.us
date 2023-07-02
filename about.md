@@ -270,7 +270,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Nightcrawler*](https://play.max.com/movie/130a3280-93bf-4907-a6c9-de7daa8a8de7) by [Dan Gilroy](https://en.wikipedia.org/wiki/Dan_Gilroy) (Markets don't reward what's best for society.)
 * [*Nope*](https://www.amazon.com/Nope-Daniel-Kaluuya/dp/B0B8V71GPC) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Resurrects and deconstructs the Spielbergian blockbuster.)
 * [*The Office*](https://www.peacocktv.com/watch/asset/tv/the-office-superfan-episodes/8229469043710582112) by [Greg Daniels](https://en.wikipedia.org/wiki/Greg_Daniels) (Pair with "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" to forever alter your life goals.)
-* [*Oldboy*](https://www.amazon.com/Oldboy-Blu-Ray-Min-sik-Choi/dp/B07SMMBY4R) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (Intensely, painfully relatable.)
+* [*Oldboy*](https://www.amazon.com/Oldboy-Blu-Ray-Min-sik-Choi/dp/B07SMMBY4R) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (We are playthings for the gods.)
 * [*The Personal History of David Copperfield*](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10baee16-44cc-e332-e3c6-0796dd7162e9) by [Armando Ianucci](https://en.wikipedia.org/wiki/Armando_Ianucci) (My favorite comedy.)
 * [*Schindler's List*](https://www.amazon.com/gp/video/detail/B00BEN0V8S) by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) (Still the best film ever made about racism.)
 * [*The Sunset Limited*](https://play.max.com/movie/45898ac7-06e9-4abe-b5ee-a6d2be63cfd3) by [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy) (Nobody's watching.)
