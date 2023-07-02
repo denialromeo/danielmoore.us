@@ -51,13 +51,6 @@ I hope you have a good time here. Thanks for dropping by.
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Mark Zuckerberg, <a target="_blank" href="https://truthsocial.com/@realDonaldTrump">Donald Trump</a>, Barack Obama, Mitch McConnell, Joe Biden, and Satya Nadella.</li>
         <li>Honorable mentions go to Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Jiang Zemin, Qian&nbsp;Xuesen, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Ho Chi Minh, and Norman Borlaug.</li>
     </ul>
-    {%comment%}
-    <p>Some contemporary observations &ndash;</p>
-    <ul>
-        <li>As costs rise in metropolitan coastal areas, there seems to be an unreported <a href="https://abc7.com/are-people-leaving-california-where-should-i-move-to-housing-in-moving/12826300/">mass migration</a> to cheaper Sunbelt red states (Arizona to Florida). As the recession hits, this may accelerate.</li>
-        <li>U.S. tech companies seem to be throttling domestic hiring and instead opening offices abroad. With remote work now proven feasible at scale, Silicon Valley may go the way of Detroit.</li>
-    </ul>
-    {%endcomment%}
 </div>
 
 <a id="hobbies" href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
@@ -173,17 +166,12 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Welcome to the Ruzzkiy Mir](https://yasha.substack.com/p/welcome-to-the-ruzzkiy-mir)" by Evgenia Kovda (Understanding modern Russia.)
 * "[We're Gonna Need a Bigger Moat](https://steve-yegge.medium.com/were-gonna-need-a-bigger-moat-478a8df6a0d2)" by Steve Yegge (The AI genie is out of the bottle.)
 * "[What I Think Is Going On With U.S.-China Relations](https://www.linkedin.com/pulse/what-i-think-going-1-china-us-relations-2-other-countries-ray-dalio/)" by Ray Dalio (We're f\*\*ked.)
+* "[Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/#main)" by Marc Andreessen (Be careful what you wish for.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Root of every political issue of the past 15 years.)
 {% comment %}
 * [*Knock &#8217;em Dead Job Interview*](https://www.goodreads.com/notes/21519592-knock-em-dead-job-interview/71655209-daniel-moore) by [Martin Yate](https://www.linkedin.com/in/expertresumewritercareercoach/) (Easily the most important professional skill.)
 * [*The Grind 75*](https://www.techinterviewhandbook.org/grind75) by Yangshun Tay (Data structure/algorithm refresher and interview prep.)
-* [*Championship Fighting*](https://newschoolsinger.com/wp-content/uploads/2018/11/jack-dempsey-championship-fighting-1.pdf) by [Jack Dempsey](https://en.wikipedia.org/wiki/Jack_Dempsey) (Learning to properly throw a punch takes a lifetime.)
 * [*Les Halles Cookbook*](https://www.goodreads.com/notes/33361472-anthony-bourdain-s-les-halles-cookbook/71655209-daniel-moore) by [Anthony Bourdain](https://en.wikipedia.org/wiki/Anthony_Bourdain) (Anyone can cook!)
-* [*Practical Programming for Strength Training*](https://www.goodreads.com/notes/21400613-practical-programming-for-strength-training/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Planning is half the battle.)
-        <li>The early 20th century's most influential people were Franklin Roosevelt, John Keynes, Sun Yat-Sen, Vladimir Lenin, Fritz Haber, Adolf Hitler, Albert Einstein, Robert Oppenheimer.</li>
-* [YouTen Adjustable Weight Bench](https://www.amazon.com/dp/B07VYXH22Q) (Who needs a gym membership?)
-* "[Story Structure 101](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)" by Dan Harmon (Narrative-writing for humans.)
-* "[The Taiwan Strait Joint Exercise](https://www.guancha.cn/ChenFeng3/2022_08_18_654142_s.shtml)" by Chen Feng (How the next big war will likely start.)
 {% endcomment %}
 
 {:#history-books}
@@ -215,7 +203,6 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Remarks on the End of the War in Afghanistan](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/31/remarks-by-president-biden-on-the-end-of-the-war-in-afghanistan/#:~:text=After%20more%20than%20%242%20trillion,a%20day%20for%20two%20decades.)" by [Joe Biden](https://en.wikipedia.org/wiki/Joe_Biden) (Graveyard of empires.)
 * "[The Social Responsibility of Business](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html)" by [Milton Friedman](https://en.wikipedia.org/wiki/Milton_Friedman) (Death knell for the welfare state.)
 * "[Speech on China Trade Bill](https://archive.nytimes.com/www.nytimes.com/library/world/asia/030900clinton-china-text.html)" by [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) (Birth of the Chinese Century.)
-* "[Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/#main)" by [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreesen) (Be careful what you wish for.)
 
 {:#autobiographies}
 **Autobiographies**
