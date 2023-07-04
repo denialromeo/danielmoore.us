@@ -1999,7 +1999,7 @@ const albums = [
 "Lambert, Hendricks and Ross|The Hottest New Group in Jazz|1959|PLvxWibFr0wiJUG_VcqwV0ucziCO7bVQRM|A1866|The Hottest New Group in Jazz|Lambert, Hendricks & Ross|Vocal Jazz;Jazz",
 "Pata Negra|Blues de la frontera|1988|PLBLXtHXQZ-bVPpbBEu6Iub4zRalyeKHhQ|A4732|https://en.wikipedia.org/wiki/Pata_Negra|Pata Negra|Flamenco Nuevo;European Folk Music;Flamenco;Folk;Hispanic Music;Regional Music;Spanish Folk Music;Spanish Music;Traditional Folk Music",
 "Lee Morgan|Search for the New Land|1966|PLNvcmUeQ60yTgQyDBWdhrPR1_aS_K6XB6|A1947|Search for the New Land|Lee Morgan|Post-Bop;Bebop;Jazz",
-"Mos Def|The Ecstatic|2009|PL3coXuxKMEH8IiTsOO81JvabhHEOo_FHc|A5013|The Ecstatic|Mos Def|Hip Hop",
+"Mos Def|The Ecstatic|2009|PLEYJynw_xzwBK-xa0kMKlnfCyjYO5807k|A5013|The Ecstatic|Mos Def|Hip Hop",
 "UB40|Signing Off|1980|PLxqSthnhQUAsXOb8UeU9VEDeuGddvzwNk|A1175|Signing Off|UB40|Reggae;Caribbean Music;Jamaican Music;Regional Music",
 "Frank Ocean|Nostalgia, Ultra|2011|PL3JPGA3BFYVceW50V61QRVn86b8P_Rwpi|A5162|Nostalgia, Ultra|Frank Ocean|Alternative R&B;Contemporary R&B;R&B",
 "Fugazi|Red Medicine|1995|PLiuWChik5_Y9WMGm63GN8sM-3sDq1S0e5|A3574|Red Medicine|Fugazi|Post-Hardcore;Punk Rock;Rock",

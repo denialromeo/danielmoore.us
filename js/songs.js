@@ -550,7 +550,7 @@ const songs = [
 "Phil Collins|In the Air Tonight|1981|YkADj0TPrJA|Phil Collins|S1578|Ambient Pop;Art Pop;Pop Rock;Pop;Rock",
 "Angel Olsen|Shut Up Kiss Me|2016|nleRCBhLr3k|Angel Olsen|S16024|Indie Rock;Alternative Rock;Rock",
 "The Hives|Hate to Say I Told You So|2000|Uz1Jwyxd4tE|The Hives|S1402|Garage Rock Revival;Garage Rock;Rock",
-"Aretha Franklin|I Never Loved a Man (The Way I Love You)|1967|PCeWiplvAzU?start=43|Aretha Franklin|S937|Deep Soul;R&B;Soul;Southern Soul",
+"Aretha Franklin|I Never Loved a Man (The Way I Love You)|1967|waS0rKeuzg8|Aretha Franklin|S937|Deep Soul;R&B;Soul;Southern Soul",
 "The Doors|Riders on the Storm|1971|lJZTgynPGT8|The Doors|S828|Blues Rock;Psychedelic Rock;Rock",
 "10cc|I'm Not in Love|1975|STugQ0X1NoI|10cc|S705|Ambient Pop;Art Pop;Pop",
 "Tammy Wynette|Stand by Your Man|1968|DwBirf4BWew|Tammy Wynette|S913|Nashville Sound;Country;Country Pop;Pop",
