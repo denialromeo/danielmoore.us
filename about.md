@@ -58,10 +58,9 @@ I hope you have a good time here. Thanks for dropping by.
     <p>Some (long-term) planned open-source projects &ndash;</p>
     <ul>
         <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Low&#8209;cost but effective CGI. Darker-skinned actors, shot on location in India.</li>
-        <li><a href="https://store.steampowered.com/app/474750/Reigns"><i>Reigns</i></a>, but you play as major figures from Chinese history. In-browser, HTML/CSS.</li>
-        <li>Variants of <a href="https://store.steampowered.com/app/234710/Poker_Night_2/"><i>Poker Night 2</i></a> featuring famous political figures, classic fictional characters, and multiple card games. Mobile/in-browser/Steam, Unity.</li>
-        <li>A first-person boxing game grounded in real-life theory. Cinematic angles, realistic matches. Goal is to force the player to think like a boxer to win.</li>
-        <li>Something large-scale with a paid team of 3-5 people in India. Mobile/Steam, Unreal.</li>
+        <li><a href="https://store.steampowered.com/app/474750/Reigns"><i>Reigns</i></a>, but you play as major figures from Chinese history.</li>
+        <li>Variants of <a href="https://store.steampowered.com/app/234710/Poker_Night_2/"><i>Poker Night 2</i></a> featuring famous political figures, classic fictional characters, and many card games. Should also include statistics engines.</li>
+        <li>A first-person boxing game grounded in real-life theory. Cinematic angles, realistic matches. The player must think like a boxer to win. Made with a paid team of 3-5 people in India.</li>
     </ul>
 </div>
  
@@ -263,6 +262,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Sunset Limited*](https://play.max.com/movie/45898ac7-06e9-4abe-b5ee-a6d2be63cfd3) by [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy) (Nobody's watching.)
 * [*Synecdoche, New York*](https://www.amazon.com/gp/video/detail/B00BZAZYMI) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
+* [*The Wolf of Wall Street*](https://www.amazon.com/Wolf-Wall-Street-Leonardo-DiCaprio/dp/B00IIU9FQY) by [Martin Scorsese](https://en.wikipedia.org/wiki/Martin_Scorsese) (Quit while you're ahead.)
 * [*World's Greatest Dad*](https://www.amazon.com/gp/video/detail/B00C0J535Q) by [Bobcat Goldthwait](https://en.wikipedia.org/wiki/Bobcat_Goldthwait) (Quiet desperation is the American way.)
 * [*Zhang Jin Hu*](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=battle+at+lake+changjin) by [Wu Jing](https://en.wikipedia.org/wiki/Wu_Jing_(actor)) (Resist U.S. aggression and aid Korea!)
 
