@@ -1145,7 +1145,7 @@ const songs = [
 "Smashing Pumpkins|Tonight, Tonight|1995|NOG3eus4ZSo|The Smashing Pumpkins|S3818|Alternative Rock;Symphonic Rock;Rock",
 "Warren Zevon|Werewolves of London|1978|qae25976UgA|Warren Zevon|S618|Halloween Music;Piano Rock;Singer/Songwriter;Descriptor;Holiday Music;Pop;Pop Rock;Rock",
 "Mitch Ryder and the Detroit Wheels|Devil with a Blue Dress On & Good Golly Miss Molly|1966|RAClxmXqX0M|Mitch Ryder|S973|Blue Eyed Soul;Rhythm & Blues;Rock & Roll;Pop;R&B;Rock",
-"Jimi Hendrix|The Wind Cries Mary|1967|r0EMrJTgqgM|Jimi Hendrix|S1689|Blues Rock;Psychedelic Rock;Rock",
+"Jimi Hendrix|The Wind Cries Mary|1967|1AyVXGHxHec|Jimi Hendrix|S1689|Blues Rock;Psychedelic Rock;Rock",
 "Arcade Fire|Neighborhood #1 (Tunnels)|2004|VU_2R1rjbD8|Arcade Fire|S4627|Chamber Pop;Indie Rock;Alternative Rock;Baroque Pop;Indie Pop;Pop;Rock",
 "Sonic Youth|Kool Thing|1990|SDTSUwIZdMk|Sonic Youth|S239|Alternative Rock;Noise Rock;Rock",
 "Manic Street Preachers|Motorcycle Emptiness|1992|gavcjNniIvk|Manic Street Preachers|S162|Alternative Rock;Rock",
