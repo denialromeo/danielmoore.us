@@ -150,7 +150,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[2007 USC Law School Address](https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger#title_1)" by Charlie Munger (Blueprints for personal success.)
 * "[2024 Election Polls](https://projects.fivethirtyeight.com/polls/president-general/2024/)" by FiveThirtyEight (Who will be this season's commander-in-chief?)
 * "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html#main)" by Seshadri Kumar (World War 3 has begun.)
-* "[The End of the Hit-Driven Business Model](https://dearproducer.com/the-disappearance-of-the-hit-driven-business#main)" by Chris Moore (Why movies are worse now.)
+* "[The End of the Hit-Driven Business Model](https://dearproducer.com/the-disappearance-of-the-hit-driven-business#main)" by Chris Moore (Streaming killed the video star.)
 * "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Après Boomers, le déluge.)
 * "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by Venkat Rao (Pair with [*The Office*](https://www.peacocktv.com/watch/asset/tv/the-office-superfan-episodes/8229469043710582112) to forever alter your life goals.)
 * "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
