@@ -10,7 +10,7 @@ description: A collection of quotes including every death scene in the books.
 permalink: /game-of-thrones
 ---
 
-While [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)'s [*A Song of Ice and Fire*](https://www.amazon.com/George-Martins-Thrones-5-Book-Boxed-ebook/dp/B00957T6X6) has sold some [90 million](https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire#Sales) copies, its adaptation [*Game of Thrones*](https://en.wikipedia.org/wiki/Game_of_Thrones) was a household name. I loved the books, but haven't watched either TV show.
+While [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)'s [*A Song of Ice and Fire*](https://www.amazon.com/George-Martins-Thrones-5-Book-Boxed-ebook/dp/B00957T6X6) has sold some [90 million](https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire#Sales) copies, its adaptation [*Game of Thrones*](https://en.wikipedia.org/wiki/Game_of_Thrones) was a household name. I love the books, but haven't watched either TV show.
 
 {% include toc.md %}
 
