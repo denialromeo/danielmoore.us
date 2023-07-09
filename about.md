@@ -167,11 +167,6 @@ I hope you have a good time here. Thanks for dropping by.
 * "[What I Think Is Going On With U.S.-China Relations](https://www.linkedin.com/pulse/what-i-think-going-1-china-us-relations-2-other-countries-ray-dalio/)" by Ray Dalio (We're f\*\*ked.)
 * "[Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/#main)" by Marc Andreessen (Unforeseen consequences.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Root of every political issue of the past 15 years.)
-{% comment %}
-* [*Knock &#8217;em Dead Job Interview*](https://www.goodreads.com/notes/21519592-knock-em-dead-job-interview/71655209-daniel-moore) by [Martin Yate](https://www.linkedin.com/in/expertresumewritercareercoach/) (Easily the most important professional skill.)
-* [*The Grind 75*](https://www.techinterviewhandbook.org/grind75) by Yangshun Tay (Data structure/algorithm refresher and interview prep.)
-* [*Les Halles Cookbook*](https://www.goodreads.com/notes/33361472-anthony-bourdain-s-les-halles-cookbook/71655209-daniel-moore) by [Anthony Bourdain](https://en.wikipedia.org/wiki/Anthony_Bourdain) (Anyone can cook!)
-{% endcomment %}
 
 {:#history-books}
 **History Books**
@@ -256,7 +251,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Nightcrawler*](https://play.max.com/movie/130a3280-93bf-4907-a6c9-de7daa8a8de7) by [Dan Gilroy](https://en.wikipedia.org/wiki/Dan_Gilroy) (Markets don't reward what's best for society.)
 * [*Nope*](https://www.amazon.com/Nope-Daniel-Kaluuya/dp/B0B8V71GPC) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Resurrects and deconstructs the Spielbergian blockbuster.)
 * [*The Office*](https://www.peacocktv.com/watch/asset/tv/the-office-superfan-episodes/8229469043710582112) by [Greg Daniels](https://en.wikipedia.org/wiki/Greg_Daniels) (Pair with "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" to forever alter your life goals.)
-* [*Oldboy*](https://www.amazon.com/Oldboy-Blu-Ray-Min-sik-Choi/dp/B07SMMBY4R) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (We are playthings for the gods.)
+* [*Oldboy*](https://www.amazon.com/Oldboy-Blu-Ray-Min-sik-Choi/dp/B07SMMBY4R) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (We are but playthings for the gods.)
 * [*The Personal History of David Copperfield*](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10baee16-44cc-e332-e3c6-0796dd7162e9) by [Armando Ianucci](https://en.wikipedia.org/wiki/Armando_Ianucci) (My favorite comedy.)
 * [*Schindler's List*](https://www.amazon.com/gp/video/detail/B00BEN0V8S) by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) (Still the best film ever made about racism.)
 * [*The Sunset Limited*](https://play.max.com/movie/45898ac7-06e9-4abe-b5ee-a6d2be63cfd3) by [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy) (Nobody's watching.)
