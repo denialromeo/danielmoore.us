@@ -1028,7 +1028,7 @@ const songs = [
 "Robyn|Honey|2018|Mru9GG3ur9U|Robyn|S16522|Dance-Pop;Electropop;Progressive House;Dance;Electronic;Electronic Dance Music;House;Pop",
 "Buddy Holly & The Crickets|Not Fade Away|1957|m7iPbqNla6Q|The Crickets|S1257|Rockabilly;Rock;Rock & Roll",
 "Katy Perry|Teenage Dream|2010|98WtmW-lfeE|Katy Perry|S7069|Dance-Pop;Electropop;Dance;Electronic;Pop",
-"Danny and the Juniors|At the Hop|1957|F3SrtN6tMyg|Danny & the Juniors|S1250|Doo-Wop;Rock & Roll;Teen Pop;Descriptor;Pop;R&B;Rock;Vocal Group",
+"Danny and the Juniors|At the Hop|1957|U3KjDpvmtwU|Danny & the Juniors|S1250|Doo-Wop;Rock & Roll;Teen Pop;Descriptor;Pop;R&B;Rock;Vocal Group",
 "Hank Williams|Your Cheatin' Heart|1953|Jg2oR91_r5I|Hank Williams|S1294|Honky Tonk;Country",
 "Kanye West|Black Skinhead|2013|q604eed4ad0|Kanye West|S9471|Hardcore Hip Hop;Industrial Hip Hop;Experimental Hip Hop;Hip Hop;Industrial Music",
 "Sam Cooke|Bring It On Home to Me|1962|QZT-eU4pizI|Sam Cooke|S1090|Soul;R&B",

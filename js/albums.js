@@ -1654,7 +1654,7 @@ const albums = [
 "Blood Orange|Freetown Sound|2016|PLxKHVMqMZqUS7chrq-OLeE4rX9hYyml5B|A5702|Freetown Sound|Dev Hynes|Alternative R&B;Synth Funk;Contemporary R&B;Funk;R&B",
 "Killer Mike|R.A.P. Music|2012|PLkVSzrKdeIKXsYcMUKAsl1uaFXoqA0wxP|A5225|R.A.P. Music|Killer Mike|Hardcore Hip Hop;Hip Hop",
 "The Shadows|The Shadows|1961|PLtYrelJ0ykkOqDAYTfSWE6_TIoWUwXUPn|A22|The Shadows (album)|The Shadows|Surf Rock;Rock;Surf Music",
-"Beirut|Gulag Orkestar|2006|PLVyehhUaGFdWUzH8Ah1EQSwHV2oCcoAPo|A3092|Gulag Orkestar|Beirut (band)|Indie Folk;Contemporary Folk;Folk",
+"Beirut|Gulag Orkestar|2006|PLZqsyBiYZFQ08cD_2Gq0IrO0gtXQHhTF_|A3092|Gulag Orkestar|Beirut (band)|Indie Folk;Contemporary Folk;Folk",
 "Sleater-Kinney|Call the Doctor|1996|PLQvL6GLJiX90sI3xdXnYeszJ8k_zazRIX|A989|Call the Doctor|Sleater-Kinney|Indie Rock;Riot Grrrl;Alternative Rock;Punk Rock;Rock",
 "Yo La Tengo|Painful|1993|PLMxy067kbpQge8If_FU-oKV3P2Gz-XOjZ|A893|Painful (album)|Yo La Tengo|Indie Rock;Noise Pop;Alternative Rock;Rock",
 "Pink Floyd|Animals|1977|PL8222483A9B0BF163|A2675|Animals (Pink Floyd album)|Pink Floyd|Art Rock;Progressive Rock;Rock",
