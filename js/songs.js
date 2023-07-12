@@ -3355,7 +3355,7 @@ const songs = [
 "The Doobie Brothers|Black Water|1974|m4oZCtfmh44|The Doobie Brothers|S6137|Folk Rock;Roots Rock;Rock",
 "Loretta Lynn|Don’t Come Home A’Drinkin’ (with Lovin’ on Your Mind)|1966|OBnkAkmLtaw|Loretta Lynn|S2278|Honky Tonk;Country",
 "Julian Casablancas|11th Dimension|2009|pl15PlIXHIk|Julian Casablancas|S4809|Synthpop;Electronic;Pop",
-"The Shirelles|Baby It's You|1961|oKgkDxnG9Z8|The Shirelles|S4391|Brill Building;Girl Group;Pop",
+"The Shirelles|Baby It's You|1961|8clnxViHdp8|The Shirelles|S4391|Brill Building;Girl Group;Pop",
 "Mike Oldfield|Tubular Bells|1973|_86Gm9iclAg?start=3|Mike Oldfield|S1765|Progressive Rock;Rock",
 "Lady Gaga|The Edge of Glory|2011|QeWBS0JBNzQ|Lady Gaga|S4971|Dance-Pop;Electropop;Dance;Electronic;Pop",
 "Peter Gabriel|Shock the Monkey|1982|CnVf1ZoCJSo|Peter Gabriel|S3432|Art Pop;New Wave;Pop;Rock",
