@@ -238,7 +238,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#television}
 **Television**
 
-* [*Coraline*](https://play.max.com/movie/2c315d70-082d-44e4-b5fc-1085a62e8d90) by [Henry Selick](https://en.wikipedia.org/wiki/Henry_Selick) (Thinly veiled metaphor for adult life.)
+* [*Coraline*](https://play.max.com/movie/2c315d70-082d-44e4-b5fc-1085a62e8d90) by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman) (Thinly veiled metaphor for adult life.)
 * [*Django Unchained*](https://www.amazon.com/Django-Unchained-Jamie-Foxx/dp/B0B3NBCHMR) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Escaping misery is a universal struggle.)
 * [*Get Out*](https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1L8T75) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Lampoons the racial weirdness of the Obama years.)
 * [*Gisaengchung*](https://play.max.com/movie/d5e3be11-eb8b-449f-89cf-db887ddee777) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (Class struggle is swiftly returning.)
