@@ -1531,7 +1531,7 @@ const albums = [
 "Gang Starr|Step in the Arena|1991|PLxNSUfx3is_CPTcLDXGP27VepG23ZsNFD|A1710|Step in the Arena (album)|Gang Starr|Jazz Rap;Hip Hop",
 "Serge Gainsbourg|Initials B. B.|1968|PLAyqE9JL0JKPd5tQGLqZ_Fb1AzEvcLNux|A4466|Initials B.B.|Serge Gainsbourg|Baroque Pop;Chanson;French Pop;Pop;Regional Music",
 "The Kinks|Muswell Hillbillies|1971|PLrgWFHgA0hq3Y7bwGBgriMW2Htv1OyIf9|A1355|Muswell Hillbillies|The Kinks|Country Rock;Pop Rock;Pop;Rock",
-"Louis Armstrong|Louis Armstrong Plays W.C. Handy|1954|PLC3EB23552CEB511A|A1769|Louis Armstrong Plays W.C. Handy|Louis Armstrong|Dixieland;Vocal Jazz;Jazz",
+"Louis Armstrong|Louis Armstrong Plays W.C. Handy|1954|PLvGS-eVHu3OmO5ZqZXd1A3JxE4M6n559X|A1769|Louis Armstrong Plays W.C. Handy|Louis Armstrong|Dixieland;Vocal Jazz;Jazz",
 "Otis Redding|Live in Europe|1967|PLc37VQKooQKLY37UP5WnoTuwXn59grpap|A110|Live in Europe (Otis Redding album)|Otis Redding|Southern Soul;R&B;Soul",
 "Luomo|Vocalcity|2000|PLA1eoy29ZKr_1piQJF7euZ0AVzAjC0kzL|A4926|Vocalcity|Vladislav Delay|Deep House;Microhouse;Dance;Electronic;Electronic Dance Music;House",
 "Shania Twain|Come On Over|1997|PL6Ltit7R5Zj86wNsFXXdAFttHNiYHaKwh|A3666|Come On Over|Shania Twain|Country Pop;Country;Pop",
