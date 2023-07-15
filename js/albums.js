@@ -2151,7 +2151,7 @@ const albums = [
 "Nick Cave & The Bad Seeds|Henry's Dream|1992|PLPaztBWnatcifls3UghBmsacFWTLBD14X|A864|Henry's Dream|Nick Cave and the Bad Seeds|Post-Punk;Punk Blues;Singer/Songwriter;Punk Rock;Rock",
 "Lindstrøm|Where You Go I Go Too|2008|PLCrD_GUemAStbag4J3f-LFWUHoO7MfG3V|A4369|Where You Go I Go Too|Hans-Peter Lindstrøm|Nu-Disco;Space Disco;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;House",
 "Sunn O)))|Monoliths And Dimensions|2009|PLHTo__bpnlYUTKF2Z5QpjeT4BFCwHcbMY|A5018|Monoliths & Dimensions|Sunn O)))|Drone;Drone Metal;Experimental;Metal;Rock",
-"Ministry|The Land of Rape and Honey|1988|PLUk4E6CzH41iaOdvhPWrD6jpW5n2xxvS0|A3219|The Land of Rape and Honey|Ministry (band)|Industrial;Industrial Metal;Industrial Rock;Experimental;Industrial Music;Metal;Rock",
+"Ministry|The Land of Rape and Honey|1988|PLHTo__bpnlYXaG0zfZAMhQPIaVdzQXplF|A3219|The Land of Rape and Honey|Ministry (band)|Industrial;Industrial Metal;Industrial Rock;Experimental;Industrial Music;Metal;Rock",
 "Louis Prima|The Wildest!|1956|PL01NBH7ivWKLen_m7U8T1WYjyqWIGStI2|A2236|The Wildest!|Louis Prima|Big Band;Swing;Traditional Pop;Jazz;Pop",
 "Bryan Adams|Reckless|1984|PLUvfsDHKjxwsq4qT2PAvvHsFr6AeBJTcq|A3012|Reckless (Bryan Adams album)|Bryan Adams|Pop Rock;Pop;Rock",
 "The Everly Brothers|Songs Our Daddy Taught Us|1958|PLNwSr-r_YO4pw5arSdzfAHttJJMrpjtJ_|A28|Songs Our Daddy Taught Us|The Everly Brothers|Close Harmony;Country Pop;Folk Pop;American Folk Music;Contemporary Folk;Country;Folk;Pop;Regional Music;Traditional Country;Traditional Folk Music",
