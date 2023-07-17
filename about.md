@@ -651,6 +651,7 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman6.jpg" itemprop="contentUrl" data-size="3840x2894"><img src="/assets/img/comics/showcase/sandman6.jpg"/></a><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman9.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/showcase/sandman9.jpg"/></a><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman10.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/showcase/sandman10.jpg"/></a><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman12.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/showcase/sandman12.jpg"/></a><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
