@@ -79,8 +79,9 @@ I hope you have a good time here. Thanks for dropping by.
 * [AccuCheck Digital Body Weight Scale](https://www.amazon.com/gp/product/B084SFRSBD) (Measure daily to avoid surprises.)
 * [Alera High Performance Task Chair](https://www.amazon.com/gp/product/B01IIGMMW6) (My spine's best friend.)
 * [Asus VS228H-P 21.5" 1080p Monitor](https://www.amazon.com/gp/product/B005BZNDOO) (Ideal bezel, size, and display ports for extended use.)
+* [Crazy Richard's Peanut Butter](https://www.crazyrichards.com/) (It's so good because he's crazy.)
 * [iBUYPOWER Pre-Built Gaming PC](https://www.ibuypower.com/gaming-pcs) (For work and play.)
-* [Redify Jump Rope](https://www.amazon.com/gp/product/B086XC32L2) (Rainy-day cardio.)
+* [Redify Jump Rope](https://www.amazon.com/gp/product/B086XC32L2) (Who needs a treadmill?)
 * [StriveZen 2-Month View Wall Calendar](https://www.amazon.com/Calendar-2019-2020-StriveZen-Monthly-Vertical/dp/B07T6C13JD) (Record weight, reps/sets, diet, important dates, etc.)
 * [Vive Wrist Brace](https://www.amazon.com/gp/product/B077BPYK5S/) (Type for ten hours a day.)
 
