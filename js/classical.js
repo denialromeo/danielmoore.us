@@ -680,7 +680,7 @@ const classical = [
 "Maurice Ravel|La valse|1920|TMSgWhIENSk|Maurice Ravel",
 "Igor Stravinsky|Pulcinella|1920|pVEcJnlHUMM|Igor Stravinsky",
 "Igor Stravinsky|Symphonies of Wind Instruments|1920-1947|72V_OTSiAkM|Igor Stravinsky",
-"Federico Mompou|Cançons i danses|1921-1979|RZeLaY3Vp54|Federico Mompou",
+"Federico Mompou|Cançons i danses|1921-1979|0CzRGlpUWh8|Federico Mompou",
 "Béla Bartók|Violin Sonatas nos. 1 &amp; 2|1921-1922|b_C9qQhApvE|Béla Bartók",
 "Leos Janácek|Kátya Kabanová|1921|Gti-Gqj0asY|Leoš Janáček",
 "Erwin Schulhoff|Suite for Chamber Orchestra|1921|cXpWcBKBoKc|Erwin Schulhoff",
