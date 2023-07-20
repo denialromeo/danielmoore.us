@@ -1922,7 +1922,7 @@ const albums = [
 "Håkan Hellström|Känn ingen sorg för mig Göteborg|2000|PLSkyjWishuq5bt-5v9PPhHD9Dd_6VQ70g|A3337|Känn ingen sorg för mig Göteborg|Håkan Hellström|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Faust|Faust|1971|PLFLuvRXuzfl_f85FUWMrFwf6GqH_Ufwi8|A2446|Faust (album)|Faust (band)|Krautrock;Experimental Rock;Progressive Rock;Rock",
 "Cat Power|Moon Pix|1998|PLqOKGVQV13umPbnlHDdqJhhfNMUWbXx3v|A3721|Moon Pix|Cat Power|Singer/Songwriter;Slowcore;Alternative Rock;Indie Rock;Rock",
-"Rufus Wainwright|Poses|2001|PLt4OFr8ILhlQLfRPtiAaBfTgPXLbjKcEd|A1216|Poses (album)|Rufus Wainwright|Chamber Pop;Pop Rock;Singer/Songwriter;Baroque Pop;Indie Pop;Pop;Rock",
+"Rufus Wainwright|Poses|2001|PL7Z-KT1_3_gDKkZq3fO9OUJaxFXDJ5NBM|A1216|Poses (album)|Rufus Wainwright|Chamber Pop;Pop Rock;Singer/Songwriter;Baroque Pop;Indie Pop;Pop;Rock",
 "George Russell|The Jazz Workshop|1957|PL0zxG_D12B-C11GlhggfII5ZlLwY-GN-p|A2259|The Jazz Workshop|George Russell (composer)|Jazz",
 "Flying Lotus|Until the Quiet Comes|2012|PLwGe1l5pwo-7c017Pa23tSzqJ_aBQhtdF|A5215|Until the Quiet Comes|Flying Lotus|IDM;Electronic",
 "Patti Smith|Gone Again|1996|PLYcuDqKgaxyURLknA3qtPwIvtPkr3Futb|A976|Gone Again|Patti Smith|Rock;Singer/Songwriter",
