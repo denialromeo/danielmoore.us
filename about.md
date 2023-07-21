@@ -14,7 +14,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 # Background
 
-**Education and Certificates**{:#education-and-certificates}
+**Education**{:#education}
 
 <div class="gallery my-gallery" data-pswp-uid="certs" itemscope itemtype="http://schema.org/ImageGallery">
     <figure style="padding-right:1%" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
