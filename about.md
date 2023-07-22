@@ -263,7 +263,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
 * [*The Wolf of Wall Street*](https://www.amazon.com/Wolf-Wall-Street-Leonardo-DiCaprio/dp/B00IIU9FQY) by [Martin Scorsese](https://en.wikipedia.org/wiki/Martin_Scorsese) (Quit while you're ahead.)
 * [*World's Greatest Dad*](https://www.amazon.com/gp/video/detail/B00C0J535Q) by [Bobcat Goldthwait](https://en.wikipedia.org/wiki/Bobcat_Goldthwait) (Quiet desperation is the American way.)
-* [*Zhang Jin Hu*](https://tv.apple.com/gb/movie/the-battle-at-lake-changjin/umc.cmc.lm8zaqzmh5tx52byi0ukqxuq) by [Chen Kaige](https://en.wikipedia.org/wiki/Chen_Kaige) (Resist U.S. aggression and aid Korea!)
+* [*Zhángjīn hú*](https://tv.apple.com/gb/movie/the-battle-at-lake-changjin/umc.cmc.lm8zaqzmh5tx52byi0ukqxuq) by [Chen Kaige](https://en.wikipedia.org/wiki/Chen_Kaige) (Resist U.S. aggression and aid Korea!)
 
 {:#comic-books}
 **Comic Books**
