@@ -1,22 +1,28 @@
 {
 	"pages": [
 		{
-			"author": "Alan Moore",
-			"title": "Swamp Thing",
+			"author": "Robert Kirkman",
+			"title": "The Walking Dead",
 			"amazon": "",
-			"link": "assets/img/comics/swamp-thing2/01.jpg"
+			"link": "assets/img/comics/walking-dead/01.jpg"
 		},
 		{
 			"author": "Robert Kirkman",
 			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/swamp-thing2/02.jpg"
+			"link": "assets/img/comics/walking-dead/02.jpg"
 		},
 		{
 			"author": "Robert Kirkman",
 			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/swamp-thing2/03.jpg"
+			"link": "assets/img/comics/walking-dead/03.jpg"
+		},
+		{
+			"author": "Robert Kirkman",
+			"title": "Invincible",
+			"amazon": "",
+			"link": "assets/img/comics/walking-dead/04.jpg"
 		}
 	]
 }
