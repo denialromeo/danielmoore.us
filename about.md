@@ -267,7 +267,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Buddha*](https://archive.org/details/manga_Buddha-v02) by [Osamu Tezuka](https://en.wikipedia.org/wiki/Osamu_Tezuka) (Existence is a fever dream, and the self is an illusion.)
 * [*Invincible*](https://getcomics.org/other-comics/invincible-compendium-vol-1-2013-2019/) by [Robert Kirkman](https://en.wikipedia.org/wiki/Robert_Kirkman) (The world is a living, ever-surprising, wondrous place.)
 * [*Sandcastle*](https://www.amazon.com/Sandcastle-new-preface-Original-Fiction-ebook/dp/B097YWJMQF) by [Pierre Oscar Levy](https://fr.wikipedia.org/wiki/Pierre_Oscar_L%C3%A9vy) (Life's a beach and then you die.)
-* [*The Sandman*](https://getcomics.org/dc/the-sandman-v01-v10-free-download/) by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman) (No matter how powerful you get, you're still mortal.)
+* [*The Sandman*](https://getcomics.org/dc/the-sandman-1-75-extras/) by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman) (No matter how powerful you get, you're still mortal.)
 * [*Swamp Thing*](https://getcomics.org/dc/saga-of-the-swamp-thing-vol-1-6/) by [Alan Moore](https://en.wikipedia.org/wiki/Alan_Moore) (It's better to be a plant than an animal.)
 * [*The Walking Dead*](https://getcomics.org/other-comics/the-walking-dead-deluxe-compendium-vol-1-2022-fan-made-tpb/) by [Robert Kirkman](https://en.wikipedia.org/wiki/Robert_Kirkman) (Started a post-apocalyptic craze that swept the U.S.)
 * [*Yossel: April 19, 1943*](https://archive.org/details/yosselapril1919400joek/mode/2up) by [Joe Kubert](https://en.wikipedia.org/wiki/Joe_Kubert) (Long live the Jewish people.)
