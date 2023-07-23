@@ -171,7 +171,6 @@ I hope you have a good time here. Thanks for dropping by.
 {:#history-books}
 **History Books**
 
-* [*American Kompromat*](https://www.goodreads.com/notes/56605449-american-kompromat/71655209-daniel-moore) by [Craig Unger](https://en.wikipedia.org/wiki/Craig_Unger) (Trump being a Russian asset explains a lot.)
 * [*The Book of Islamic Dynasties*](https://www.goodreads.com/notes/25056329-the-book-of-islamic-dynasties/71655209-daniel-moore) by [Luqman Nagy](https://www.tahapublishers.com/search.asp?brand=Luqman+Nagy) (Eurasia's past, present, and future.)
 * [*The Great Speeches of Modern India*](https://www.goodreads.com/notes/20558716-the-great-speeches-of-modern-india/71655209-daniel-moore) by [Rudrangshu Mukherjee](https://en.wikipedia.org/wiki/Rudrangshu_Mukherjee) (Such squandered potential.)
 * [*Late Victorian Holocausts*](https://www.goodreads.com/notes/19323009-late-victorian-holocausts/71655209-daniel-moore) by [Mike Davis](https://en.wikipedia.org/wiki/Mike_Davis_(scholar)) (50 million forgotten murders.)
