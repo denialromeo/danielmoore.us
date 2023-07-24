@@ -192,6 +192,7 @@ box: schopenhauer
 
 > The general history of art and literature shows that the highest achievements of the human mind are, as a rule, not favorably received at first; but remain in obscurity until they win notice from intelligence of a high order, by whose influence they are brought into a position which they then maintain, in virtue of the authority thus given them. If the reason of this should be asked, it will be found that ultimately, a man can really understand and appreciate those things only which are of like nature with himself. The dull person will like what is dull, and the common person what is common; a man whose ideas are mixed will be attracted by confusion of thought; and folly will appeal to him who has no brains at all; but best of all, a man will like his own works, as being of a character thoroughly at one with himself.
 
+{%comment%}
 > With young girls Nature seems to have had in view what, in the language of the drama, is called a striking effect; as for a few years she dowers them with a wealth of beauty and is lavish in her gift of charm, at the expense of all the rest of their life; so that during those years they may capture the fantasy of some man to such a degree that he is hurried away into undertaking the honorable care of them, in some form or other, as long as they live—a step for which there would not appear to be any sufficient warranty if reason only directed his thoughts.
 
 > Here, as elsewhere, Nature proceeds with her usual economy; for just as the female ant, after fecundation, loses her wings, which are then superfluous, nay, actually a danger to the business of breeding; so, after giving birth to one or two children, a woman generally loses her beauty; probably, indeed, for similar reasons.
@@ -213,6 +214,7 @@ box: schopenhauer
 > The first consideration which guides our choice and inclination is age. In general we accept the age from the years when menstruation begins to those when it ceases, yet we give the decided preference to the period from the eighteenth to the twenty-eighth year. Outside of those years, on the other hand, no woman can attract us: an old woman, i.e., one who no longer menstruates, excites our aversion. Youth without beauty has still always attraction; beauty without youth has none.
 
 > That woman is by nature meant to obey may be seen by the fact that every woman who is placed in the unnatural position of complete independence, immediately attaches herself to some man, by whom she allows herself to be guided and ruled. It is because she needs a lord and master. If she is young, it will be a lover; if she is old, a priest.
+{%endcomment%}
 
 > We should do well to remember old [Gellert’s](https://en.wikipedia.org/wiki/Christian_F%C3%BCrchtegott_Gellert) fine and touching lament, that the best gifts of all find the fewest admirers, and that most men mistake the bad for the good,–a daily evil that nothing can prevent, like a plague which no remedy can cure. There is but one thing to be done, though how difficult!–the foolish must become wise,–and that they can never be.
 
