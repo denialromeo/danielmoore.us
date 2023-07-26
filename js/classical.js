@@ -626,7 +626,7 @@ const classical = [
 "Edward Elgar|Falstaff|1913|8yM0c2J4x7g|Edward Elgar",
 "Ivor Gurney|Songs|1913-1922|_cA3gMjVwY0|Ivor Gurney",
 "Sergei Rachmaninov|The Bells|1913|UdUThLpuBJ4|Sergei Rachmaninoff",
-"Albert Roussel|Le festin d’araignée|1913|adyIeoit0MU|Albert Roussel",
+"Albert Roussel|Le festin d’araignée|1913|A15DUjwoong|Albert Roussel",
 "Igor Stravinsky|The Rite of Spring|1913|EkwqPJZe8ms|Igor Stravinsky",
 "Ralph Vaughan Williams|A London Symphony|1913-1933|0Uv4lJsu0Jw|Ralph Vaughan Williams",
 "Erno Dohnányi|Variations on a Nursery Song|1914|Bqx4oYOy85o|Ernst von Dohnányi",
