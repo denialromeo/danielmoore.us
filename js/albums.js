@@ -2334,7 +2334,7 @@ const albums = [
 "Air|10,000 Hz Legend|2001|PLaJfHjx4xX5b6xE21BKjtTyFkR_XRNJ2i|A1204|10 000 Hz Legend|Air (band)|Downtempo;Electronic",
 "The Beach Boys|Holland|1973|PLMxkpnetcodPO7SE9v4r0xPBlapx6VYAy|A1382|Holland (album)|The Beach Boys|Pop Rock;Pop;Rock",
 "Larry Young|Unity|1966|PL0q2VleZJVElsnXFRGNhOVz-J_0XnZKCt|A1962|Unity (Larry Young album)|Larry Young (musician)|Post-Bop;Bebop;Jazz",
-"Blur|The Magic Whip|2015|PLBT6x6s8sWY_KCknnyeG0Ywzx6CXy7oIJ|A5555|The Magic Whip|Blur (band)|Alternative Rock;Art Rock;Rock",
+"Blur|The Magic Whip|2015|PLuFrIncMdIQzDp8EQ_sf-IHV7JgyMzmSg|A5555|The Magic Whip|Blur (band)|Alternative Rock;Art Rock;Rock",
 "Kiko Veneno|Échate un cantecito|1992|PL2AVtjnLL3PEugcK5Vl7UfOnJ9EhPEXdC|A4776|https://es.wikipedia.org/wiki/%C3%89chate_un_cantecito|Kiko Veneno|Rumba Flamenca;Singer/Songwriter;European Folk Music;Flamenco;Folk;Hispanic Music;Regional Music;Spanish Folk Music;Spanish Music;Traditional Folk Music",
 "Ben Harper|Welcome to the Cruel World|1994|PLiN-7mukU_RH6QrC1nklX6kHz8bm-kFto|A3515|Welcome to the Cruel World|Ben Harper|Folk Rock;Singer/Songwriter;Rock",
 "Bill Callahan|Apocalypse|2011|PLD5JPcnL768GmpF_0nH1efFC9chiOutmx|A5133|Apocalypse (Bill Callahan album)|Bill Callahan (musician)|Americana;Contemporary Folk;Singer/Songwriter;Country;Folk",
