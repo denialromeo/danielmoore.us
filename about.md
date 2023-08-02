@@ -149,7 +149,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 * "[2007 USC Law School Address](https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger#title_1)" by Charlie Munger (Blueprints for personal success.)
 * "[2024 Election Polls](https://projects.fivethirtyeight.com/polls/president-general/2024/)" by FiveThirtyEight (Who will be this season's commander-in-chief?)
-* "[The Age of AI Has Begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun#ALChapter1)" by Bill Gates (The marginal value of intelligence is going to zero.)
 * "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html#main)" by Seshadri Kumar (World War 3 has begun.)
 * "[The End of the Hit-Driven Business Model](https://dearproducer.com/the-disappearance-of-the-hit-driven-business#main)" by Chris Moore (Streaming killed the video star.)
 * "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Après Boomers, le déluge.)
@@ -158,6 +157,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[How the Taliban Did It](https://www.atlanticcouncil.org/blogs/new-atlanticist/how-the-taliban-did-it-inside-the-operational-art-of-its-military-victory/)" by Benjamin Jensen (Teamwork and resolve trump everything.)
 * "[India: Another China or Another Brazil?](https://thenextrecession.wordpress.com/2019/05/19/india-another-china-or-another-brazil/)" by Michael Roberts (Riches, but only for a few.)
 * "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch)" by Scott Alexander (We run ever-faster just to stay in place.)
+* "[The Merge](https://blog.samaltman.com/the-merge)" by Sam Altman (The marginal value of intelligence is going to zero.)
 * "[Overshoot](https://medium.com/@CollapseSurvival/overshoot-why-its-already-too-late-to-save-civilization-e834cb4ec694)" by Alan Urban (Everything lasts forever until it doesn't.)
 * "[Return From U.S. To India](https://cubicledog.substack.com/p/ive-started-my-fire-journey-in-india)" by Shuddha Kannadiga (As globalization ends, time to cash out.)
 * "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Microsoft's path to world domination.)
