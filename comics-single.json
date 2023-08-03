@@ -1,28 +1,28 @@
 {
 	"pages": [
 		{
-			"author": "Robert Kirkman",
-			"title": "The Walking Dead",
+			"author": "Alan Moore",
+			"title": "The Courtyard",
 			"amazon": "",
-			"link": "assets/img/comics/walking-dead/01.jpg"
+			"link": "assets/img/comics/courtyard/01.jpg"
 		},
 		{
 			"author": "Robert Kirkman",
 			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/walking-dead/02.jpg"
+			"link": "assets/img/comics/courtyard/02.jpg"
 		},
 		{
 			"author": "Robert Kirkman",
 			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/walking-dead/03.jpg"
+			"link": "assets/img/comics/courtyard/03.jpg"
 		},
 		{
 			"author": "Robert Kirkman",
 			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/walking-dead/04.jpg"
+			"link": "assets/img/comics/courtyard/04.jpg"
 		}
 	]
 }
