@@ -672,7 +672,7 @@ const classical = [
 "Arnold Bax|Tintagel|1919|ixF5f2cqIKo|Arnold Bax",
 "Manuel de Falla|The Three-Cornered Hat|1919|Al68zeQQHlg|Manuel de Falla",
 "Edward Elgar|Cello Concerto|1919|lNVe_1Eb5dw|Edward Elgar",
-"Darius Milhaud|Le boeuf sur le toit|1919|9iqZ-lyUsNM|Darius Milhaud",
+"Darius Milhaud|Le boeuf sur le toit|1919|uf24HMfNxuA|Darius Milhaud",
 "Sergei Prokofiev|The Love for Three Oranges|1919|0eVTR3kYdSw|Sergei Prokofiev",
 "Maurice Ravel|Le tombeau du Couperin|1919|7NA4j3VhGY4|Maurice Ravel",
 "Joaquin Turina|Danzas fantásticas|1920|gLzU3-YvzPc|Joaquín Turina",
