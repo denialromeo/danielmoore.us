@@ -173,7 +173,7 @@ I hope you have a good time here. Thanks for dropping by.
 **History Books**
 
 * [*The Book of Islamic Dynasties*](https://www.goodreads.com/notes/25056329-the-book-of-islamic-dynasties/71655209-daniel-moore) by [Luqman Nagy](https://www.tahapublishers.com/author/luqman-nagy) (Eurasia's past, present, and future.)
-* [*Born in Blackness*](https://www.goodreads.com/notes/57777449-born-in-blackness/71655209-daniel-moore) by [Howard French](https://en.wikipedia.org/wiki/Howard_W._French) (Slaves built Western civilization.)
+* [*Born in Blackness*](https://www.goodreads.com/notes/57777449-born-in-blackness/71655209-daniel-moore) by [Howard French](https://en.wikipedia.org/wiki/Howard_W._French) (African slaves built Western civilization.)
 * [*The Great Speeches of Modern India*](https://www.goodreads.com/notes/20558716-the-great-speeches-of-modern-india/71655209-daniel-moore) by [Rudrangshu Mukherjee](https://en.wikipedia.org/wiki/Rudrangshu_Mukherjee) (Straight from the source.)
 * [*Late Victorian Holocausts*](https://www.goodreads.com/notes/19323009-late-victorian-holocausts/71655209-daniel-moore) by [Mike Davis](https://en.wikipedia.org/wiki/Mike_Davis_(scholar)) (50 million forgotten murders.)
 * [*Reconstruction*](https://www.goodreads.com/notes/11389556-reconstruction/71655209-daniel-moore) by [Eric Foner](https://en.wikipedia.org/wiki/Eric_Foner) (Ongoing ripples of Lincoln's assassination.)
