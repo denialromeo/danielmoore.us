@@ -5092,7 +5092,7 @@ const songs = [
 "Nick Cave|Straight to You|1992|CYbOHXMtelU|Nick Cave and the Bad Seeds|S7725|Alternative Rock;Art Rock;Singer/Songwriter;Rock",
 "Nelly Furtado|I'm Like a Bird|2001|roPQ_M3yJTA|Nelly Furtado|S2387|Contemporary R&B;Pop;R&B",
 "Faye Adams|Shake a Hand|1953|vjMgS0KaZz0|Faye Adams|S3064|Rhythm & Blues;R&B",
-"The Castaways|Liar, Liar|1965|DDEdFxUZ01s|The Castaways|S2828|Garage Rock;Rock",
+"The Castaways|Liar, Liar|1965|u71C10b7Ao8|The Castaways|S2828|Garage Rock;Rock",
 "The Beach Boys|'Till I Die|1971|eXZ_L6zJn1c|The Beach Boys|S5349|Art Pop;Progressive Pop;Psychedelic Pop;Pop",
 "Tom Petty and the Heartbreakers|I Need to Know|1978|qdMwneWwzEs|Tom Petty|S12452|Heartland Rock;Power Pop;Pop;Pop Rock;Rock",
 "Jeff Buckley|Everybody Here Wants You|1998|nrMwgTc69y4|Jeff Buckley|S4847|Contemporary R&B;Singer/Songwriter;R&B",
