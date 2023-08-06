@@ -5,7 +5,6 @@ date: Nov 16 2016
 photoswipe: true
 permalink: about
 ps_dim: 500x500
-modifiedMsg: false
 ---
 
 I hope you have a good time here. Thanks for dropping by.
@@ -158,10 +157,10 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
 * "[How the Taliban Did It](https://www.atlanticcouncil.org/blogs/new-atlanticist/how-the-taliban-did-it-inside-the-operational-art-of-its-military-victory/)" by Benjamin Jensen (Teamwork and resolve trump everything.)
 * "[India: Another China or Another Brazil?](https://thenextrecession.wordpress.com/2019/05/19/india-another-china-or-another-brazil/)" by Michael Roberts (Riches, but only for a few.)
+* "[Life In India After Returning From US](https://cubicledog.substack.com/p/part-1-life-in-india)" by Shuddha Kannadiga (All moves have trade-offs.)
 * "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch)" by Scott Alexander (We run ever-faster just to stay in place.)
 * "[The Merge](https://blog.samaltman.com/the-merge#main)" by Sam Altman (The marginal value of intelligence is going to zero.)
 * "[Overshoot](https://medium.com/@CollapseSurvival/overshoot-why-its-already-too-late-to-save-civilization-e834cb4ec694)" by Alan Urban (Everything lasts forever until it doesn't.)
-* "[Return From U.S. To India](https://cubicledog.substack.com/p/part-4-life-in-india)" by Shuddha Kannadiga (As globalization ends, time to cash out.)
 * "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Microsoft's path to world domination.)
 * "[Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)" by Peter Norvig (No royal road to geometry.)
 * "[Uncomfortable Truthasaurus](https://www.smbc-comics.com/comic/2010-11-30#cc-comicbody)" by Zach Weinersmith (All relationships are transactional.)
