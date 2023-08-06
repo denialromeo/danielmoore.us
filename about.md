@@ -52,7 +52,7 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
 </div>
 
-<a id="hobbies" href="javascript:;" id="dropdown3" target="_self"><b>Hobbies</b></a>
+<a id="goals" href="javascript:;" id="dropdown3" target="_self"><b>Goals</b></a>
 <div id="instructions3" style="display:none;">
     <p>Some (long-term) planned open-source projects &ndash;</p>
     <ul>
