@@ -108,6 +108,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#hobbyist-books}
 **Hobbyist Books**
 
+* [*CultureShock! Philippines*](https://www.goodreads.com/notes/19478316-cultureshock-philippines/71655209-daniel-moore) by [Alfredo Roces](https://books.google.com/books/about/CultureShock_Philippines.html?id=dYeyDQAAQBAJ&source=kp_author_description) (Retiring to Manila sounds nice.)
 * [*Lectures on Physics*](https://www.feynmanlectures.caltech.edu/) by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (Still the gold standard.)
 * [*Logical Chess*](https://archive.org/details/logicalchess_movebymove) by [Irving Chenev](https://en.wikipedia.org/wiki/Irving_Chernev) (Teaches the consequences of small changes.)
 * [*The Penguin Book of Card Games*](https://www.goodreads.com/notes/19169344-the-penguin-book-of-card-games/71655209-daniel-moore) by [David Parlett](https://en.wikipedia.org/wiki/David_Parlett) (A lifetime of fun. Also see [pagat.com](https://www.pagat.com/).)
