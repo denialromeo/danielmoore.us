@@ -52,18 +52,6 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
 </div>
 
-{%comment%}
-<a id="goals" href="javascript:;" id="dropdown3" target="_self"><b>Goals</b></a>
-<div id="instructions3" style="display:none;">
-    <p>Some (long-term) planned open-source projects &ndash;</p>
-    <ul>
-        <li><a href="https://store.steampowered.com/app/474750/Reigns"><i>Reigns</i></a>, but you play as major figures from Chinese history.</li>
-        <li>Variants of <a href="https://store.steampowered.com/app/234710/Poker_Night_2/"><i>Poker Night 2</i></a> featuring famous political figures, classic fictional characters, and many card games. Should also include statistics engines.</li>
-        <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Low&#8209;cost but effective CGI. Darker-skinned actors, shot on location in India.</li>
-    </ul>
-</div>
-{%endcomment%}
- 
 # Favorite
 
 {:#music}
