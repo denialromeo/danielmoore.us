@@ -52,6 +52,7 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
 </div>
 
+{%comment%}
 <a id="goals" href="javascript:;" id="dropdown3" target="_self"><b>Goals</b></a>
 <div id="instructions3" style="display:none;">
     <p>Some (long-term) planned open-source projects &ndash;</p>
@@ -61,6 +62,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>A series of short films adapting the Mahabharata, focusing on the epic's political aspects. Low&#8209;cost but effective CGI. Darker-skinned actors, shot on location in India.</li>
     </ul>
 </div>
+{%endcomment%}
  
 # Favorite
 
