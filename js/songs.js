@@ -10601,7 +10601,7 @@ const songs = [
 "The The|Perfect|1983|HZ0T2zLa4hM|The The|S13982|Art Pop;New Wave;Pop;Rock",
 "Paul McCartney|Temporary Secretary|1980|5EeTkF-SLxE|Paul McCartney|S12755|Minimal Synth;Synthpop;Zolo;Electronic;Minimal Wave;Pop;Rock",
 "Gwen Stefani feat. Akon|The Sweet Escape|2006|O0lf_fE3HwA|Gwen Stefani|S11002|Dance-Pop;Dance;Pop",
-"Cut Copy|Free Your Mind|2013|xPRJVKtrCCk|Cut Copy|S10476|Alternative Dance;Alternative Rock;Dance;Rock",
+"Cut Copy|Free Your Mind|2013|4BLwPWvTi9w|Cut Copy|S10476|Alternative Dance;Alternative Rock;Dance;Rock",
 "The Byrds|Triad|1968|sgfiN0rbdpI|The Byrds|S3258|Folk Rock;Psychedelic Rock;Rock",
 "Anthrax|I Am the Law|1987|2Bu5mnE65I8|Anthrax (American band)|S5212|Thrash Metal;Metal;Rock",
 "Rufus Wainwright|The Art Teacher|2004|Zr9NMQx0VzM|Rufus Wainwright|S8269|Art Pop;Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop",
