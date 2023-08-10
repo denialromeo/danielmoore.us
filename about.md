@@ -151,6 +151,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Life in India After Returning from US](https://cubicledog.substack.com/p/part-1-life-in-india)" by Shuddha Kannadiga (All moves have trade-offs.)
 * "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch)" by Scott Alexander (We run ever-faster just to stay in place.)
 * "[The Merge](https://blog.samaltman.com/the-merge#main)" by Sam Altman (The marginal value of intelligence is going to zero.)
+* "[The Obama Factor](https://www.tabletmag.com/sections/arts-letters/articles/david-garrow-interview-obama)" by David Samuels (To an extent, he paved the way for Trump.)
 * "[Overshoot](https://medium.com/@CollapseSurvival/overshoot-why-its-already-too-late-to-save-civilization-e834cb4ec694)" by Alan Urban (Everything lasts forever until it doesn't.)
 * "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Microsoft's path to world domination.)
 * "[Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)" by Peter Norvig (No royal road to geometry.)
