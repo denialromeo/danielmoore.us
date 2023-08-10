@@ -1576,7 +1576,7 @@ const albums = [
 "Kurt Vile|Wakin on a Pretty Daze|2013|PLkbQ1IWDmzDy1snn89zWYfBtqWXK9hoAE|A5383|Wakin on a Pretty Daze|Kurt Vile|Folk Rock;Singer/Songwriter;Rock",
 "Iron & Wine|Our Endless Numbered Days|2004|PLbOGt8cOph4XinQEZNhQXc2Aj54ETGs1c|A4049|Our Endless Numbered Days|Iron & Wine|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Calexico|Feast of Wire|2003|PLA81CBD243CE98BB3|A3911|Feast of Wire|Calexico (band)|Alt-Country;Americana;Country",
-"Jessie Ware|Devotion|2012|ERROR: Suitable playlist not found|A5248|Devotion (Jessie Ware album)|Jessie Ware|Alternative R&B;Contemporary R&B;R&B",
+"Jessie Ware|Devotion|2012|PL-LZ81oOCZc3RsxfZsn4PEF8Olk0cmjRa|A5248|Devotion (Jessie Ware album)|Jessie Ware|Alternative R&B;Contemporary R&B;R&B",
 "The Black Keys|El Camino|2011|PL81_CtYCym28wjmLK7DadBj3TVZB-FpMQ|A5129|El Camino (The Black Keys album)|The Black Keys|Blues Rock;Garage Rock;Rock",
 "The Good, the Bad & the Queen|The Good, the Bad and the Queen|2007|PLyxrGQX-rD8GHwyeew3j60Wf33BON53C4|A4252|The Good, the Bad & the Queen (album)|The Good, the Bad & the Queen|Indie Rock;Alternative Rock;Rock",
 "Gene Vincent and His Blue Caps|Gene Vincent and the Blue Caps|1957|PLNf28LT9IOhG48wcTd6xk4TIqmuGOCtvU|A27|Gene Vincent and the Blue Caps|Gene Vincent|Rockabilly;Rock;Rock & Roll",
