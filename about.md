@@ -325,7 +325,8 @@ I hope you have a good time here. Thanks for dropping by.
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/buddha3.png" itemprop="contentUrl" data-size="1300x1800"><img style="border: 1px solid black;" src="/assets/img/comics/showcase/buddha3.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/buddha.png" itemprop="contentUrl" data-size="1280x1651"><img src="/assets/img/comics/showcase/buddha.png"/></a><p><i>Habibi</i> by Craig Thompson</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/buddha4.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/showcase/buddha4.png"/></a><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/buddha.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/showcase/buddha.png"/></a><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/habibi2.png" itemprop="contentUrl" data-size="1280x1651"><img src="/assets/img/comics/showcase/habibi2.png"/></a><p><i>Habibi</i> by Craig Thompson</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/invincible2.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/showcase/invincible2.jpg"/></a><p><i>Invincible</i> by Robert Kirkman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/invincible.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/showcase/invincible.jpg"/></a><p><i>Invincible</i> by Robert Kirkman</p></figcaption></figure>
@@ -334,6 +335,33 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/portal.jpg" itemprop="contentUrl" data-size="800x1236"><img src="/assets/img/comics/showcase/portal.jpg"/></a><p><i>Portal 2: Lab Rat</i> by Ted Kosmatka</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/strange_embrace.jpg" itemprop="contentUrl" data-size="1074x1650"><img src="/assets/img/comics/showcase/strange_embrace.jpg"/></a><p><i>Strange Embrace</i> by David Hine</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sculptor.jpg" itemprop="contentUrl" data-size="1454x2060"><img src="/assets/img/comics/showcase/sculptor.jpg"/></a><p><i>The Sculptor</i> by Scott McCloud</p></figcaption></figure>
+</div>
+
+<div id="clear"></div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha5/01.png" itemprop="contentUrl" data-size="1300x1800"><img style="border: 1px solid black;" src="/assets/img/comics/buddha5/01.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha5/02.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha5/02.png"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha5/03.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha5/03.png"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha6/01.png" itemprop="contentUrl" data-size="1300x1800"><img style="border: 1px solid black;" src="/assets/img/comics/buddha6/01.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha6/02.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha6/02.png"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha6/03.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha6/03.png"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha6/04.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha6/04.png"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha7/01.png" itemprop="contentUrl" data-size="1300x1800"><img style="border: 1px solid black;" src="/assets/img/comics/buddha7/01.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha7/02.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha7/02.png"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha7/03.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha7/03.png"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha8/01.png" itemprop="contentUrl" data-size="1300x1800"><img style="border: 1px solid black;" src="/assets/img/comics/buddha8/01.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha8/02.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha8/02.png"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha8/03.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha8/03.png"/></a></figcaption></figure>
 </div>
 
 <div id="clear"></div>
