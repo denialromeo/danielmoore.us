@@ -2217,7 +2217,7 @@ const songs = [
 "Anita Ward|Ring My Bell|1979|vsBak0oCgdY|Anita Ward|S1824|Disco;Funk;Dance;R&B",
 "Donnie Trumpet & The Social Experiment|Sunday Candy|2015|i4ooH8frBWg|Nico Segal|S9741|Jazz Rap;Pop Rap;Hip Hop",
 "McFadden and Whitehead|Ain't No Stoppin' Us Now|1979|DY0tsKCB4lc|McFadden & Whitehead|S591|Disco;Dance",
-"The Supremes|Love Child|1968|CYzIPxjFBho|Diana Ross|S3874|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul",
+"The Supremes|Love Child|1968|JdmGO-GvHyo|Diana Ross|S3874|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul",
 "Dusty Springfield|The Look of Love|1967|mbaySb6HXqs|Dusty Springfield|S2281|Pop Soul;Pop;R&B;Soul",
 "XTC|Senses Working Overtime|1982|NrcemZpOmpI|XTC|S1885|Jangle Pop;New Wave;Alternative Rock;Pop;Pop Rock;Rock",
 "Os Mutantes|A Minha Menina|1968|XIbJylD_c84|Os Mutantes|S7826|Psychedelic Pop;Psychedelic Rock;Tropicália;Brazilian Music;MPB;Pop;Regional Music;Rock",
