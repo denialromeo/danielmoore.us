@@ -2677,7 +2677,7 @@ const albums = [
 "Elton John|Elton John|1970|PLWFF1ssLgyE3Mg9aRr34XxDZ_YPY22HVa|A2332|Elton John (album)|Elton John|Pop Rock;Singer/Songwriter;Pop;Rock",
 "Ray Charles|Ray Charles at Newport|1958|PLnKUsyUYbuBtQaRd5Av5ipyos-Zn8yEdE|A25|Ray Charles at Newport|Ray Charles|Rhythm & Blues;Soul Jazz;Jazz;R&B",
 "Little Feat|Waiting for Columbus|1978|PLp7teE-mXtw5ztmyaqs_YHs0EOV40zs6j|A2725|Waiting for Columbus|Little Feat|Southern Rock;Rock",
-"The Stranglers|The Raven|1979|PLijPiy4xM0heDoydiMiWE7iYZTqxweJe0|A4623|The Raven (The Stranglers album)|The Stranglers|New Wave;Post-Punk;Rock",
+"The Stranglers|The Raven|1979|PLAYfagZKy-REKEUH9fIeHO4C9tkrH0Wnj|A4623|The Raven (The Stranglers album)|The Stranglers|New Wave;Post-Punk;Rock",
 "The National|I Am Easy to Find|2019|PLiN-7mukU_RFdbf8dBHCJE3hVYUPRHeGc|A6350|I Am Easy to Find (album)|The National (band)|Chamber Pop;Baroque Pop;Indie Pop;Pop",
 "Miles Davis|E.S.P.|1965|PL0q2VleZJVEkfFQV9hk44Nb4LD4XkSur6|A1953|E.S.P. (Miles Davis album)|Miles Davis|Post-Bop;Bebop;Jazz",
 "Dave Edmunds|Repeat when Necessary|1979|PLGfqBYXqPcRX4O8DGMEJ3I9QsdxnEjVcD|A1452|Repeat When Necessary|Dave Edmunds|Rock & Roll;Roots Rock;Rock",
