@@ -3,3 +3,4 @@
 dir
 @python export_saved.py
 @popd
+@exit
