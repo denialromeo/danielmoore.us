@@ -8529,7 +8529,7 @@ const songs = [
 "Radiohead|2+2=5|2003|11oAXmVdEyQ|Radiohead|S8078|Alternative Rock;Rock",
 "Eddie Money|Two Tickets to Paradise|1978|MqnZ1RpmxBg|Eddie Money|S10680|AOR;Pop Rock;Pop;Rock",
 "Daniel Balavoine|Le Chanteur|1978|dlf8VAvo7oI|Daniel Balavoine|S13435|French Pop;Pop",
-"The Charlatans|One to Another|1996|lD8Surgpn2M|The Charlatans (English band)|S46|Britpop;Indie Rock;Alternative Rock;Pop;Pop Rock;Rock",
+"The Charlatans|One to Another|1996|uxyQ5ByKLfE|The Charlatans (English band)|S46|Britpop;Indie Rock;Alternative Rock;Pop;Pop Rock;Rock",
 "Red Hot Chili Peppers|Dark Necessities|2016|Q0oIoR9mLwc|Red Hot Chili Peppers|S16173|Alternative Rock;Funk Rock;Rock",
 "Tom Waits|Ruby's Arms|1980|MmM7B-M3LVg|Tom Waits|S13990|Singer/Songwriter",
 "Five Blind Boys|Our Father (Which Art in Heaven)|1950|dMyPQlKITTU|The Blind Boys of Alabama|S14402|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music",
