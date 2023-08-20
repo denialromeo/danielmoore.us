@@ -677,7 +677,7 @@ const songs = [
 "The Marvelettes|Please Mr. Postman|1961|425GpjTSlS4|The Marvelettes|S1121|Girl Group;Pop Soul;Pop;R&B;Soul",
 "Beyoncé|Single Ladies (Put a Ring on It)|2008|4m1EFMoRFvY|Beyoncé|S4702|Dance-Pop;Dance;Pop",
 "Bob Dylan|Just Like a Woman|1966|dRLXZVojdhQ|Bob Dylan|S1443|Folk Rock;Singer/Songwriter;Rock",
-"Don Henley|The Boys of Summer|1984|hoxEcD4PCco|Don Henley|S450|Pop Rock;Pop;Rock",
+"Don Henley|The Boys of Summer|1984|6RUIeX6UCT8|Don Henley|S450|Pop Rock;Pop;Rock",
 "Sparks|This Town Ain't Big Enough for Both of Us|1974|QAzESJ62irI|Sparks (band)|S734|Art Rock;Glam Rock;Rock",
 "James Carr|The Dark End of the Street|1967|HC3AXQ8dPJM|James Carr (musician)|S989|Deep Soul;R&B;Soul;Southern Soul",
 "Pearl Jam|Alive|1991|qM0zINtulhM|Pearl Jam|S167|Grunge;Alternative Rock;Rock",
