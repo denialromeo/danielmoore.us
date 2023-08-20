@@ -163,6 +163,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[What I Think Is Going On With U.S.-China Relations](https://www.linkedin.com/pulse/what-i-think-going-1-china-us-relations-2-other-countries-ray-dalio/)" by Ray Dalio (We're f\*\*ked.)
 * "[Will India Get Too Hot to Work?](https://www.mckinsey.com/capabilities/sustainability/our-insights/will-india-get-too-hot-to-work)" by the McKinsey Global Institute (Is there a future?)
 * "[Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/#main)" by Marc Andreessen (Unforeseen consequences.)
+* "[Women in Science](https://philip.greenspun.com/careers/women-in-science)" by Philip Greenspun (STEM careers may not be worth the sunk costs.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Root of every political issue of the past 15 years.)
 
 {:#history-books}
