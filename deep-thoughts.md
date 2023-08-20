@@ -21,7 +21,7 @@ If you're a citizen of a country that historically lost wars (e.g. India, Nigeri
 
 Even being in a historical winner isn't enough, since you have to keep winning. As the U.S. empire implodes, quality of life in the U.S. is fast approaching that of poorer countries (e.g. China has a higher lifespan than the U.S.). Being merely a millionaire here likely has diminishing returns.
 
-So, to escape all prisons, you have to be born in the U.S., strike it big during a time of economic expansion, then take your winnings and leave for a poorer country trapped in the U.S. orbit (e.g. the Philippines). And you have to do this all before biological conditions make it impossible.
+So, to escape these prisons, you have to be born in the U.S., strike it big during a time of economic expansion, then take your winnings and leave for a poorer country trapped in the U.S. orbit (e.g. the Philippines). And you have to do this all before biological conditions make it impossible.
 
 The horrific thing about being alive is that whatever you do or don't do, you will sooner or later die. If you're rich enough to avoid death by overwork or crime, you will still age into irrelevance as the world moves on and a younger, hardier set of people takes over.
 
