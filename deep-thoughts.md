@@ -9,6 +9,22 @@ permalink: /deep-thoughts
 
 <hr>
 
+In her [dissent](https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf) in *SFFA v. Harvard*, the 2022 Supreme Court case that banned affirmative action, justice Sonia Sotomayor noted that the U.S. is "an endemically segregated society".
+
+I barely care about affirmative action (most issues with racial disparities in academic outcomes are rooted in issues during early childhood and adolescence &ndash; college is too late to address them). But I can't stop thinking about this phrase &ndash; "endemically segregated society".
+
+It's really spot-on. Workplaces are segregated (I legally changed my name so I wouldn't be forced into Indian-majority IT sweatshops). Friend groups are segregated. I even receive poor service at restaurants if my waitress or cashier happens to be white (it's usually the uglier and poorer whites who are more racist &ndash; in practice, racism seems to be championed mostly by the lower classes).
+
+Half a century after the de jure end of segregation, with a [majority](https://www.pbs.org/newshour/nation/children-of-color-projected-to-be-majority-of-u-s-youth-this-year) of Americans under 18 now being non-white, white Americans still seem to champion an utterly obsolete racial identity.
+
+In many ways, their insistence on this is ruining their own lives. Electing Trump directly led to a bloodless transfer of hegemony to China and Russia. Poisoning virtual and real-life spaces with racial hate mostly drives whites insane.
+
+The younger white males even invent new racial slurs (e.g. "Pajeet"), which utterly baffles me. Insulting me will not improve your life. You cannot insult your way out of high cost-of-living. Outnumbering me means nothing if you cannot afford to live in my neighborhood.
+
+I read online once that hating others is like consuming poison and expecting your enemy to die. The white Americans are an excellent example of this.
+
+<hr>
+
 I think an accurate view of modern life might be as a series of nested prisons &ndash; penal, wage-based, nation-based, and biology-based.
 
 So you have actual prisons, right? Where you're enslaved to perform free labor as punishment for breaking the law. But supporting that system is a wage-based prison of high costs, low salaries, and degrading, often pointless labor where the goal is escaping the system through "retirement".
