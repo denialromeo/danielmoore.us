@@ -13,7 +13,7 @@ In her [dissent](https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf) i
 
 I barely care about affirmative action (most issues with racial disparities in academic outcomes are rooted in issues during early childhood and adolescence &ndash; college is too late to address them). But I can't stop thinking about this phrase &ndash; "endemically segregated society".
 
-It's really spot-on. Workplaces are segregated (I legally changed my name so I wouldn't be forced into Indian-majority IT sweatshops). Friend groups are segregated. I even receive poor service at restaurants if my waitress or cashier happens to be white (it's usually the uglier and poorer whites who are more racist &ndash; in practice, racism seems to be championed mostly by the lower classes).
+It's really spot-on. Workplaces are segregated (I legally changed my name so I wouldn't be forced into Indian-majority IT sweatshops). Friend groups are segregated. I even receive poor service at restaurants if my waitress or cashier happens to be white (it's usually the uglier and poorer whites who are more racist &ndash; in practice, racism seems to be supported mostly by the lower classes).
 
 Half a century after the de jure end of segregation, with a [majority](https://www.pbs.org/newshour/nation/children-of-color-projected-to-be-majority-of-u-s-youth-this-year) of Americans under 18 now being non-white, white Americans still seem to champion an utterly obsolete racial identity.
 
