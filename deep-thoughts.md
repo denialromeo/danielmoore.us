@@ -9,6 +9,14 @@ permalink: /deep-thoughts
 
 <hr>
 
+If you're interested in artificial intelligence and its upcoming effects on society, one argument you'll often find on the Internet is that mass unemployment is inevitable, but it won't be that bad, because the government will be forced to distribute a Universal Basic Income and everyone will still be fine.
+
+One prominent political candidate, Andrew Yang, actually gained quite a bit of popularity during the 2020 presidential election on this platform.
+
+But it's fundamentally mistaken. For two reasons &ndash; first, in today's gig economy, automation will only cause underemployment, not unemployment. Secondly, if people are no longer needed for production, the state would rather kill us off than give us free money.
+
+<hr>
+
 In her [dissent](https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf) in *SFFA v. Harvard*, the 2022 Supreme Court case that banned affirmative action, justice Sonia Sotomayor noted that the U.S. is "an endemically segregated society".
 
 I barely care about affirmative action (most issues with racial disparities in academic outcomes are rooted in issues during early childhood and adolescence &ndash; college is too late to address them). But I can't stop thinking about this phrase &ndash; "endemically segregated society".
