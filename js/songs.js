@@ -8126,7 +8126,7 @@ const songs = [
 "Zoé|No Me Destruyas|2006|z2QNVW-vwBE|Zoé|S14022|Pop Rock;Pop;Rock",
 "Peech Boys|Don't Make Me Wait|1982|WHF8tXaTIqg|Peech Boys|S7927|Electro-Disco;Garage House;Dance;Disco;Electronic;Electronic Dance Music;House",
 "Barry Manilow|I Write the Songs|1975|vHIdHIWfnl4|Barry Manilow|S5328|Adult Contemporary;Pop",
-"The Police|De Doo Doo, De Da Da Da|1980|7v2GDbEmjGE|The Police|S7986|New Wave;Pop Rock;Pop;Rock",
+"The Police|De Do Do Do, De Da Da Da|1980|7v2GDbEmjGE|The Police|S7986|New Wave;Pop Rock;Pop;Rock",
 "Ministry|N.W.O.|1992|imqvLToWH7k|Ministry (band)|S11652|Industrial Metal;Industrial Music;Metal;Rock",
 "Grateful Dead|China Cat Sunflower|1969|xCgZxrf8nrU|Grateful Dead|S3451|Psychedelic Rock;Rock",
 "Siouxsie and the Banshees|Christine|1980|Rtt_0OKzRek|Siouxsie and the Banshees|S8428|Post-Punk;Rock",
