@@ -2298,7 +2298,7 @@ const albums = [
 "U2|How to Dismantle an Atomic Bomb|2004|PLA39E1C2BFBD39B4E|A4076|How to Dismantle an Atomic Bomb|U2|Alternative Rock;Pop Rock;Pop;Rock",
 "Herbert|Around the House|1998|PLaPk5HmSdGn-VZN0K0cnh52m88nj2r626|A3736|Around the House|Matthew Herbert|Microhouse;Dance;Electronic;Electronic Dance Music;House",
 "Graham Parker & The Rumour|Heat Treatment|1976|PL0VQVFM4ctAnNuc0SgK3TKyvhcC54ENDl|A374|Heat Treatment|Graham Parker|Pub Rock;Roots Rock;Singer/Songwriter;Rock",
-"Johnny Cash|Johnny Cash with His Hot and Blue Guitar!|1957|PL-Atoge0zyrqrDoivaz1TWMhs06Q5paiJ|A2048|Johnny Cash with His Hot and Blue Guitar!|Johnny Cash|Country;Rockabilly;Rock;Rock & Roll",
+"Johnny Cash|Johnny Cash with His Hot and Blue Guitar!|1957|PLaWrmLFwYEFWd0B41v1-Vzk08lNUPIKPW|A2048|Johnny Cash with His Hot and Blue Guitar!|Johnny Cash|Country;Rockabilly;Rock;Rock & Roll",
 "Yo La Tengo|Electr-O-Pura|1995|PLfqWkY7RIxIUTJrK1iWB50lOBK_FjuWeS|A1609|Electr-O-Pura|Yo La Tengo|Indie Rock;Noise Pop;Alternative Rock;Rock",
 "Cabaret Voltaire|Mix-Up|1979|PLTfNCIk8uLZTg9lrsf0KcX70QaReUrLF7|A2747|Mix-Up|Cabaret Voltaire (band)|Industrial;Minimal Wave;Electronic;Experimental;Industrial Music",
 "Bob Mould|Workbook|1989|PL971FAD579CC5DFA7|A766|Workbook (album)|Bob Mould|Indie Rock;Alternative Rock;Rock",
