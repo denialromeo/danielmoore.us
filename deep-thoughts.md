@@ -21,18 +21,6 @@ As with most things, I think China will lead the way on this. To deal with their
 
 <hr>
 
-If you're interested in artificial intelligence and its upcoming effects on society, one argument you'll often find on the Internet is that mass unemployment is inevitable, but it won't be that bad, because the government will be forced to distribute a Universal Basic Income and everyone will still be fine.
-
-This is fundamentally mistaken. If people are no longer needed for production, the state would rather kill us off than give us free money.
-
-Every economic system insists that people work for a living. Communists take a dim view of "parasitism"; capitalists scorn welfare and would love to take away weekends and retirement.
-
-The whole justification for redistributing wealth is that its produced by farmers or factory workers who are only getting what they fairly deserve. If robots are doing all the work, there is no point to human beings, and they will be disposed of one way or another.
-
-This is, incidentally, the reason for China's very successful one-child policy. It is better to have a smaller population that can be cultivated well and united into a strong force than to have a mass of angry, hungry, unnecessary people who will need to be imprisoned, sent to war, or killed.
-
-<hr>
-
 In her [dissent](https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf) in *SFFA v. Harvard*, the 2022 Supreme Court case that banned affirmative action, justice Sonia Sotomayor noted that the U.S. is "an endemically segregated society".
 
 I barely care about affirmative action (most issues with racial disparities in academic outcomes are rooted in issues during early childhood and adolescence &ndash; college is too late to address them). But I can't stop thinking about this phrase &ndash; "endemically segregated society".
