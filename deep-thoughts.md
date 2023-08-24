@@ -9,6 +9,18 @@ permalink: /deep-thoughts
 
 <hr>
 
+A lot of the world's problems seem to stem from there being too many excess males.
+
+In our age of fossil fuels and artificial intelligence, we really don't need most men around at all. Women are intrinsically valuable (in part because they're naturally inclined to take orders rather than try to give them), but I've seen many good things (clubs, companies, countries) ruined because idiot males ran them into the ground to satisfy their egos or to humiliate other men.
+
+Religions like Islam are actually built on humiliating men. "Islam" literally translates to "submission", and policies like polygamy and circumcision are explicitly designed to cut most males out of all wealth and power. This is the main reason why Islam expanded the way it did &ndash; war captives were the only way for poor men to find wives. It's a religion built on male sexual frustration.
+
+All future children should be born through in-vitro fertilization, and only women should be born. There's probably enough frozen sperm to last for ten lifetimes, so we could get rid of men entirely. At most, maybe 10% of births could be male so that there's a leadership class.
+
+As with most things, I think China will lead the way on this. To deal with their demographic crisis, they'll need to create more children. Those children will likely be majority female. It'll be great.
+
+<hr>
+
 If you're interested in artificial intelligence and its upcoming effects on society, one argument you'll often find on the Internet is that mass unemployment is inevitable, but it won't be that bad, because the government will be forced to distribute a Universal Basic Income and everyone will still be fine.
 
 This is fundamentally mistaken. If people are no longer needed for production, the state would rather kill us off than give us free money.
@@ -18,8 +30,6 @@ Every economic system insists that people work for a living. Communists take a d
 The whole justification for redistributing wealth is that its produced by farmers or factory workers who are only getting what they fairly deserve. If robots are doing all the work, there is no point to human beings, and they will be disposed of one way or another.
 
 This is, incidentally, the reason for China's very successful one-child policy. It is better to have a smaller population that can be cultivated well and united into a strong force than to have a mass of angry, hungry, unnecessary people who will need to be imprisoned, sent to war, or killed.
-
-
 
 <hr>
 
