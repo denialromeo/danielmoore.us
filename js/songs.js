@@ -7954,7 +7954,7 @@ const songs = [
 "Michigan & Smiley|Nice Up the Dance|1979|1-fAy5_tb_0|Michigan & Smiley|S14748|Dancehall;Caribbean Music;Jamaican Music;Regional Music|Yellowman",
 "Toto|Rosanna|1982|qmOLtTGvsbM|Toto (band)|S12472|AOR;Rock|Rosanna (song)",
 "The Gaslight Anthem|The '59 Sound|2008|G1lq40tR72Q|The Gaslight Anthem|S6509|Alternative Rock;Heartland Rock;Punk Rock;Rock|",
-"Taraf de Haidouks|Balada conducatorolui|1991|IlWLuchrMuQ|Taraf de Haïdouks|S15105|L?ut?reasc?;Balkan Folk Music;Balkan Music;European Folk Music;Folk;Regional Music;Romanian Folk Music;Romanian Music;Traditional Folk Music|",
+"Taraf de Haidouks|Balada conducatorolui|1991|IlWLuchrMuQ|Taraf de Haïdouks|S15105|Lăutari;Balkan Folk Music;Balkan Music;European Folk Music;Folk;Regional Music;Romanian Folk Music;Romanian Music;Traditional Folk Music|",
 "Avi Buffalo|What's in It For?|2009|Ug56buPtZ_s|Avi Buffalo|S5277|Indie Pop;Pop|",
 "My Chemical Romance|I'm Not Okay (I Promise)|2004|dhZTNgAs4Fc|My Chemical Romance|S11703|Emo-Pop;Pop Punk;Alternative Rock;Emo;Punk Rock;Rock|",
 "MC Shan|The Bridge|1986|dS4RpBR0Zn0|MC Shan|S7488|East Coast Hip Hop;Hip Hop|MC Shan",
