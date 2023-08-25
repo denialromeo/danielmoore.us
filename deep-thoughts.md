@@ -9,13 +9,13 @@ permalink: /deep-thoughts
 
 <hr>
 
-A lot of the world's problems seem to stem from there being too many excess males.
+A lot of the world's problems are caused by there being too many excess males.
 
 In our age of fossil fuels and artificial intelligence, we really don't need most men around at all. Women are intrinsically valuable (in part because they're naturally inclined to take orders rather than try to give them), but I've seen many good things (clubs, companies, countries) ruined because idiot males ran them into the ground to satisfy their egos or to humiliate other men.
 
 Religions like Islam are actually built on humiliating men. "Islam" literally translates to "submission", and policies like polygamy and circumcision are explicitly designed to cut most males out of all wealth and power. This is the main reason why Islam expanded the way it did &ndash; war captives were the only way for poor men to find wives. It's a religion built on male sexual frustration.
 
-All future children should be born through in-vitro fertilization, and only women should be born. There's probably enough frozen sperm to last for ten lifetimes, so we could get rid of men entirely. At most, maybe 10% of births could be male so that there's a leadership class.
+All future children should be born through in-vitro fertilization, and only females should be born. There's probably enough frozen sperm to last for ten lifetimes, so we could get rid of men entirely, though maybe 10% of births could be male so that there's a leadership class.
 
 As with most things, I think China will lead the way on this. To deal with their demographic crisis, they'll need to create more children. Those children will likely be majority female. It'll be great.
 
@@ -23,13 +23,13 @@ As with most things, I think China will lead the way on this. To deal with their
 
 In her [dissent](https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf) in *SFFA v. Harvard*, the 2022 Supreme Court case that banned affirmative action, justice Sonia Sotomayor noted that the U.S. is "an endemically segregated society".
 
-I barely care about affirmative action (most issues with racial disparities in academic outcomes are rooted in issues during early childhood and adolescence &ndash; college is too late to address them). But I can't stop thinking about this phrase &ndash; "endemically segregated society".
+I can't stop thinking about this phrase &ndash; "endemically segregated society".
 
 It's really spot-on. Workplaces are segregated (I legally changed my name so I wouldn't be forced into Indian-majority IT sweatshops). Friend groups are segregated. I even receive poor service at restaurants if my waitress or cashier happens to be white (it's usually the uglier and poorer whites who are more racist &ndash; in practice, racism seems to be supported mostly by the lower classes).
 
 Half a century after the de jure end of segregation, with a [majority](https://www.pbs.org/newshour/nation/children-of-color-projected-to-be-majority-of-u-s-youth-this-year) of Americans under 18 now being non-white, white Americans still seem to champion an utterly obsolete racial identity.
 
-In many ways, their insistence on this is ruining their own lives. Electing Trump directly led to a bloodless transfer of hegemony to China and Russia. Poisoning virtual and real-life spaces with racial hate mostly drives whites insane.
+Their insistence on this is ruining their own lives. Electing Trump directly caused a new Cold War and transfer of hegemony to China and Russia. Poisoning virtual and real-life spaces with hate mostly drives the whites themselves insane.
 
 The younger white males even invent new racial slurs (e.g. "Pajeet"), which utterly baffles me. Insulting me will not improve your life. You cannot insult your way out of high cost-of-living. Outnumbering me means nothing if you cannot afford to live in my neighborhood.
 

@@ -35,7 +35,7 @@ box: random-acclaimed-song
             <a target="_self" href="?genre=new.wave&year=198.">New wave songs from the 1980's.</a>
         </li>
     </ul>
-   <p>Also note that each artist's name and most songs' names are a link to their Wikipedia page. To see a song's genres, hit <code class="language-plaintext highlighter-rouge">Ctrl + Shift + J</code> to open the browser console.</p>
+   <p>Also note that each artist's name and most songs' names are a link to their Wikipedia page. To see a song's genres, mouse over the song's title.</p>
 </div>
 
 <script src="/js/URI.js"></script>
@@ -83,7 +83,7 @@ box: random-acclaimed-song
     for (let i = 0; i < infoLog.length; i++) { console.log(infoLog[i]) }
     iframe.src = info[3].startsWith("http") ? info[3] : `https://youtube.com/embed/${info[3]}`
     const wikiLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[4])}>${info[0]}</a>`
-    const songLink = info[7] == '' ? info[1] : `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[7])}>${info[1]}</a>`
+    const songLink = info[7] == '' ? `<span title="${info[6].split(';').join(', ')}">${info[1]}</span>` : `<a title=${info[6]} style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[7])}>${info[1]}</a>`
     title.innerHTML = `${wikiLink} - ${songLink} (${info[2]})`
     document.title  = `${info[0]} - ${info[1]} (${info[2]})`
 </script>
