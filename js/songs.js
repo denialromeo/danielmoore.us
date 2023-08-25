@@ -6919,7 +6919,7 @@ const songs = [
 "Paul Anka|Put Your Head on My Shoulder|1959|kvazBqAlx58|Paul Anka|S7875|Brill Building;Teen Pop;Traditional Pop;Pop|Put Your Head on My Shoulder",
 "Eddie Vedder|Hard Sun|2007|m8NPNKZ9jB0|Eddie Vedder|S6200|Acoustic Rock;Film Soundtrack;Folk Rock;Descriptor;Rock;Soundtracks|All the Way (Eddie Vedder song)",
 "Blumfeld|Wir sind frei|2003|vrMTs1KwxhQ|Blumfeld|S5525|Hamburger Schule;Indie Pop;Alternative Rock;Indie Rock;Pop;Rock|",
-"Frank Sinatra|The Lady Is a Tramp|1958|4MMnAh23ys4?start=5|Frank Sinatra|S13484|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|",
+"Frank Sinatra|The Lady Is a Tramp|1958|4MMnAh23ys4?start=5|Frank Sinatra|S13484|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|The Lady Is a Tramp",
 "Chris Isaak|Blue Hotel|1987|pZbyQftBwOA|Chris Isaak|S5796|Pop Rock;Roots Rock;Surf Rock;Pop;Rock;Surf Music|Chris Isaak (album)",
 "George Jones & Tammy Wynette|Golden Ring|1976|Q9KniULwvjE|George Jones|S13794|Country|",
 "Elliott Smith|Say Yes|1997|-o35i6bIOZw|Elliott Smith|S9213|Indie Folk;Indie Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|",
