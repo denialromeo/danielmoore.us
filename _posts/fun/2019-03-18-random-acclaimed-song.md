@@ -79,8 +79,6 @@ box: random-acclaimed-song
         console.log(pool.map(s => s.split("|").slice(0,3).concat(s.split("|").slice(6,7))))
     }
     const info = choice(pool).split("|")
-    const infoLog = info.slice(0,3).concat(info.slice(6,7))
-    for (let i = 0; i < infoLog.length; i++) { console.log(infoLog[i]) }
     iframe.src = info[3].startsWith("http") ? info[3] : `https://youtube.com/embed/${info[3]}`
     const wikiLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[4])}>${info[0]}</a>`
     const songLink = info[7] == '' ? `<span title="${info[6].split(';').join(', ')}">${info[1]}</span>` : `<a title="${info[6].split(';').join(', ')}" style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[7])}>${info[1]}</a>`
