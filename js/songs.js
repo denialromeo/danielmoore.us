@@ -6525,7 +6525,7 @@ const songs = [
 "The Vaccines|If You Wanna|2011|uQKjI6395iU|The Vaccines|S8903|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|",
 "Tyler, the Creator|I Think|2019|crkYHUGHtZY|Tyler, the Creator|S16888|Neo-Soul;Psychedelic Soul;R&B;Soul|I Think",
 "Fall Out Boy|Sugar, We're Going Down|2005|uhG-vLZrb-g|Fall Out Boy|S6346|Emo-Pop;Pop Punk;Alternative Rock;Emo;Punk Rock;Rock|Sugar, We're Goin Down",
-"The Cranberries|Dreams|1992|Yam5uK6e-bQ|The Cranberries|S3304|Dream Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
+"The Cranberries|Dreams|1992|Yam5uK6e-bQ|The Cranberries|S3304|Dream Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Dreams (The Cranberries song)",
 "Nine Inch Nails feat. Saul Williams|Survivalism|2007|qSsRt_1l740|Nine Inch Nails|S11765|Industrial Rock;Industrial Music;Rock|",
 "Beatsteaks|I Don't Care as Long as You Sing|2004|iqlVPaZYOzQ|Beatsteaks|S14114|Alternative Rock;Rock|",
 "Christina Aguilera|Dirrty|2002|4Rg3sAb8Id8|Christina Aguilera|S5800|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|",
