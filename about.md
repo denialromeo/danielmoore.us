@@ -267,7 +267,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Sandman*](https://getcomics.org/dc/the-sandman-1-75-extras/) by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman) (No matter how powerful you get, you're still [mortal](http://comic-academic.00server.com/suspects.html).)
 * [*Swamp Thing*](https://getcomics.org/dc/saga-of-the-swamp-thing-vol-1-6/) by [Alan Moore](https://en.wikipedia.org/wiki/Alan_Moore) (It's better to be a plant than an animal.)
 * [*The Walking Dead*](https://getcomics.org/other-comics/the-walking-dead-deluxe-compendium-vol-1-2022-fan-made-tpb/) by [Robert Kirkman](https://en.wikipedia.org/wiki/Robert_Kirkman) (Started a post-apocalyptic craze that swept the U.S.)
-* [*Yossel: April 19, 1943*](https://archive.org/details/yosselapril1919400joek/mode/2up) by [Joe Kubert](https://en.wikipedia.org/wiki/Joe_Kubert) (Long live the Jewish people.)
+* [*Yossel: April 19, 1943*](https://www.amazon.com/gp/product/074347516X) by [Joe Kubert](https://en.wikipedia.org/wiki/Joe_Kubert) (Fascism is imperialism turned inwards.)
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha2/1.png" itemprop="contentUrl" data-size="807x1080"><img style="border: 1px solid black;" src="/assets/img/comics/buddha2/1.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p><p><a href="https://archive.org/details/manga_Buddha-v02">Full Comic</a></p></figcaption></figure>
