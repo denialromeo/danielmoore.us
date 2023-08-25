@@ -25,7 +25,7 @@ In her [dissent](https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf) i
 
 I can't stop thinking about this phrase &ndash; "endemically segregated society".
 
-It's really spot-on. Workplaces are segregated (I legally changed my name so I wouldn't be forced into Indian-majority IT sweatshops). Friend groups are segregated. I even receive poor service at restaurants if my waitress or cashier happens to be white (it's usually the uglier and poorer whites who are more racist &ndash; in practice, racism seems to be supported mostly by the lower classes).
+It's really spot-on. Workplaces are segregated (I legally changed my name so I wouldn't be forced into Indian-majority IT sweatshops). Dating and socializing are segregated. I receive poor service at restaurants if my waitress or cashier happens to be white.
 
 Half a century after the de jure end of segregation, with a [majority](https://www.pbs.org/newshour/nation/children-of-color-projected-to-be-majority-of-u-s-youth-this-year) of Americans under 18 now being non-white, white Americans still seem to champion an utterly obsolete racial identity.
 
@@ -33,7 +33,7 @@ Their insistence on this is ruining their own lives. Electing Trump directly cau
 
 The younger white males even invent new racial slurs (e.g. "Pajeet"), which utterly baffles me. Insulting me will not improve your life. You cannot insult your way out of high cost-of-living. Outnumbering me means nothing if you cannot afford to live in my neighborhood.
 
-I read online once that hating others is like consuming poison and expecting your enemy to die. The white Americans are an excellent example of this.
+There's an aphorism that hating others is like drinking poison and expecting your enemy to die. White Americans are an excellent example of this.
 
 <hr>
 
