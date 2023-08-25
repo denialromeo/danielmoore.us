@@ -4841,7 +4841,7 @@ const songs = [
 "Subway Sect|Ambition|1978|-yz5jvR9_Jo|Subway Sect|S1805|Punk Rock;Rock|",
 "Regina Spektor|Fidelity|2006|wigqKfLWjvM|Regina Spektor|S4019|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|Samson (Regina Spektor song)",
 "Lana Del Rey|High by the Beach|2015|QnxpHIl5Ynw|Lana Del Rey|S9809|Art Pop;Pop|List of songs recorded by Lana Del Rey",
-"Technotronic|Pump Up the Jam|1989|9EcjWd-O4jI|Technotronic|S2927|Euro House;Eurodance;Hip House;Dance;Dance-Pop;Electronic;Electronic Dance Music;Hip Hop;House;Pop|",
+"Technotronic|Pump Up the Jam|1989|9EcjWd-O4jI|Technotronic|S2927|Euro House;Eurodance;Hip House;Dance;Dance-Pop;Electronic;Electronic Dance Music;Hip Hop;House;Pop|Pump Up the Jam",
 "Triángulo de Amor Bizarro|De la monarquía a la criptocracia|2010|k45WRjCxiD4|Triángulo de Amor Bizarro|S4933|Indie Rock;Noise Pop;Shoegaze;Alternative Rock;Rock|",
 "The J. Geils Band|Must of Got Lost|1974|gW0hxbrmFhM|The J. Geils Band|S6808|Blues Rock;Pop Rock;Pop;Rock|Must of Got Lost",
 "The Seekers|The Carnival Is Over|1965|z4ZipKdI1sY|The Seekers|S8348|Folk Pop;Contemporary Folk;Folk;Pop|The Carnival Is Over",
