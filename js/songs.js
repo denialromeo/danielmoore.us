@@ -3346,7 +3346,7 @@ const songs = [
 "Super Furry Animals|Ice Hockey Hair|1998|Djto0wzCefY|Super Furry Animals|S293|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|",
 "Farley Jackmaster Funk|Love Can't Turn Around|1986|UzqhRicKCLM|Farley Keith|S367|Chicago House;Dance;Electronic;Electronic Dance Music;House|",
 "Bob Marley and the Wailers|War|1976|vPZydAotVOY|Bob Marley|S5561|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
-"Les Rita Mitsouko|C'est comme ça|1986|fGZRVGlGZ6A|Les Rita Mitsouko|S1973|French Pop;New Wave;Pop;Rock|Andy (song)",
+"Les Rita Mitsouko|C'est comme ça|1986|fGZRVGlGZ6A|Les Rita Mitsouko|S1973|French Pop;New Wave;Pop;Rock|",
 "The Byrds|Hickory Wind|1968|4D8-5w1gQHA|The Byrds|S2530|Country Rock;Rock|Hickory Wind",
 "Little Willie John|Need Your Love So Bad|1955|hFo7Z2fKTVk|Little Willie John|S1283|Rhythm & Blues;Soul;R&B|Need Your Love So Bad",
 "The Jesus and Mary Chain|Head On|1989|eGp47YwDZ48|The Jesus and Mary Chain|S4479|Alternative Rock;Rock|The Jesus and Mary Chain",
