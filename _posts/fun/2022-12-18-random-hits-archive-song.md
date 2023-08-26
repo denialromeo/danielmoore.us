@@ -60,7 +60,7 @@ box: random-hits-archive-song
         pool = pool.filter(s => new RegExp(params.artist, "i").exec(s.split("|")[2]) !== null)
     }
     if ("song" in params) {
-        pool = pool.filter(s => new RegExp(params.song, "i").exec(s.split("|")[2]) !== null)
+        pool = pool.filter(s => new RegExp(params.song, "i").exec(s.split("|")[3]) !== null)
     }
     if ("year" in params) {
         pool = pool.filter(s => new RegExp(params.year, "i").exec(s.split("|")[1]) !== null)
@@ -73,7 +73,7 @@ box: random-hits-archive-song
     }
     const info = choice(pool).split("|")
     iframe.src = `https://youtube.com/embed/${info[0]}`
-    title.innerHTML = `${info[2]} (${info[1]})`
+    title.innerHTML = `${info[2]} - ${info[3]} (${info[1]})`
     document.title  = `${info[2]} (${info[1]})`
 </script>
 
