@@ -9,7 +9,7 @@ permalink: /deep-thoughts
 
 <hr>
 
-A lot of the world's problems are caused by there being too many excess males.
+Most of the world's problems are caused by there being too many excess males.
 
 In our age of fossil fuels and artificial intelligence, we really don't need most men around at all. Women are intrinsically valuable (in part because they're naturally inclined to take orders rather than try to give them), but I've seen many good things (clubs, companies, countries) ruined because idiot males ran them into the ground to satisfy their egos or to humiliate other men.
 
