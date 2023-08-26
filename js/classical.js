@@ -264,7 +264,7 @@ const classical = [
 "Hector Berlioz|Symphonie fantastique|1830|5HgqPpjIH5c|Hector Berlioz|",
 "Gaetano Donizetti|Anna Bolena|1830|CXyN1qY2RTw|Gaetano Donizetti|Anna Bolena",
 "Felix Mendelssohn|The Hebrides, “Fingal’s Cave”|1830|zcogD-hHEYs|Felix Mendelssohn|The Hebrides (overture)",
-"Frédéric Chopin|Études|1830-1837|HfumVcza828|Frédéric Chopin|",
+"Frédéric Chopin|Études|1830-1837|HfumVcza828|Frédéric Chopin|Études (Chopin)",
 "Vincenzo Bellini|La sonnambula|1831|_rVVxQf3J5U|Vincenzo Bellini|La sonnambula",
 "Felix Mendelssohn|Piano Concerto no. 1|1831|2GGx8TRWFVA|Felix Mendelssohn|Piano Concerto No. 1 (Mendelssohn)",
 "Vincenzo Bellini|Norma|1831|GN75XDDm_DI|Vincenzo Bellini|Norma (opera)",
