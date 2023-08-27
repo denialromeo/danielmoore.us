@@ -76,17 +76,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [StriveZen 2-Month View Wall Calendar](https://www.amazon.com/Calendar-2019-2020-StriveZen-Monthly-Vertical/dp/B07T6C13JD) (Record weight, reps/sets, diet, important dates, etc.)
 * [Vive Wrist Brace](https://www.amazon.com/gp/product/B077BPYK5S/) (Type for ten hours a day.)
 
-{:#programming-books}
-**Programming Books**
-
-* [*Beginning Game Programming with SDL*](https://lazyfoo.net/tutorials/SDL/) by Lazy Foo (Baby steps.)
-* [*Coders at Work*](https://github.com/ndina/acm/raw/master/coders-at-work.pdf) by [Peter Seibel](https://gigamonkeys.com) (Mentorship from the great programmers of our time.)
-* [*Game Programming Patterns*](http://gameprogrammingpatterns.com/contents.html) by [Bob Nystrom](http://stuffwithstuff.com/) (Notes on building maintainable systems.)
-* [*Learn C++*](https://www.learncpp.com/) by Alex (For those of us who went to [JavaSchools](https://www.joelonsoftware.com/category/reading-lists/top-10/#post-912).)
-* [*Learn OpenGL*](https://learnopengl.com/book/book_pdf.pdf) by [Joey de Vries](https://twitter.com/JoeyDeVriez) (Graphics from scratch.)
-
-(For more fun, check out [this list](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-subjects.html) by the Free Ebook Foundation. Supplement with [ChatGPT](https://chat.openai.com/?model=gpt-4-code-interpreter).)
-
 {:#hobbyist-books}
 **Hobbyist Books**
 
@@ -97,6 +86,8 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Poker Tells*](https://www.goodreads.com/notes/18951325-caro-s-book-of-poker-tells/71655209-daniel-moore) by [Mike Caro](https://en.wikipedia.org/wiki/Mike_Caro) (Reading body language for fun and profit. Comes with [videos](https://www.youtube.com/watch?v=NeyglBBYqtE&list=PL1X3qTzT40VnPVq8022uxeNZTe7bUVx94&index=1).)
 * [*The Royal Road to Card Magic*](https://www.goodreads.com/notes/18931201-the-royal-road-to-card-magic/71655209-daniel-moore) by [Jean Hugard](https://en.wikipedia.org/wiki/Jean_Hugard) (Spice up game night.)
 * [*Starting Strength*](https://www.goodreads.com/notes/15746753-starting-strength/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Pair with the [DVD](https://www.youtube.com/watch?v=EXZ46_-uwss&list=PLEB5rVJv_L5k0Tr5qvZ6GcK5cpJRLjMa-) for best results.)
+
+(For computer programming books, check out [this list](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-subjects.html). Supplement with [ChatGPT](https://chat.openai.com/?model=gpt-4-code-interpreter).)
 
 {:#philosophy-books}
 **Philosophy Books**
