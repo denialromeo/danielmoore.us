@@ -100,7 +100,7 @@
 <script>
   // Opens all links in new tab unless tagged "self" or pointing to id on same page.
   $("a").each(function() {
-    if ($(this).attr("target") !== "_self" && $(this).attr("href").charAt(0) !== "#" && $(this).attr("itemprop") !== "contentUrl") {
+    if ($(this).attr("target") !== "_self" && $(this).attr("href").charAt(0) !== "/" && $(this).attr("href").charAt(0) !== "#" && $(this).attr("itemprop") !== "contentUrl") {
       $(this).attr("target", "_blank")
     }
   })

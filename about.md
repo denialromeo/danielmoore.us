@@ -76,15 +76,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [StriveZen 2-Month View Wall Calendar](https://www.amazon.com/Calendar-2019-2020-StriveZen-Monthly-Vertical/dp/B07T6C13JD) (Record weight, reps/sets, diet, important dates, etc.)
 * [Vive Wrist Brace](https://www.amazon.com/gp/product/B077BPYK5S/) (Type for ten hours a day.)
 
-{:#desktop-software}
-**Desktop Software**
-
-* "[Scoop](https://scoop.sh/)" by Luke Sampson (Windows command-line installer.)
-* "[Unhook](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid?hl=en)" by Unhook App (Removes YouTube's social media aspects.)
-* "[Video Screenshot](https://chrome.google.com/webstore/detail/video-screenshot/ppkojackhibeogijphhfnamhemklmial?hl=en)" by Martin Strauss (Generate desktop wallpapers from streaming sites.)
-* "[Vimium](https://github.com/philc/vimium#readme)" by Phil Crosby (Mouse-less browsing.)
-* "[youtube-dl](https://github.com/yt-dlp/yt-dlp#readme)" by Ricardo Garc&iacute;a (Download YouTube videos.)
-
 {:#programming-books}
 **Programming Books**
 
