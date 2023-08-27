@@ -1627,7 +1627,7 @@ const songs = [
 "Pet Shop Boys|Rent|1987|UfCg50a7RbE|Pet Shop Boys|S355|Synthpop;Electronic;Pop|Rent (song)",
 "Brenda Lee|I'm Sorry|1960|BGLR25EJtfE|Brenda Lee|S1160|Country Pop;Traditional Pop;Country;Pop|I'm Sorry (Brenda Lee song)",
 "The Cardigans|Lovefool|1996|NI6aOFI7hms|The Cardigans|S4514|Indie Pop;Pop|Lovefool",
-"The Sonics|Strychnine|1965|f7Nffq0bOgE|The Sonics|S4094|Garage Rock;Proto-Punk;Rock|Strychnine poisoning",
+"The Sonics|Strychnine|1965|f7Nffq0bOgE|The Sonics|S4094|Garage Rock;Proto-Punk;Rock|",
 "Funky Four Plus One|That's the Joint|1980|SVxk9PW62Vk|Funky 4 + 1|S539|Disco Rap;East Coast Hip Hop;Hip Hop|",
 "LCD Soundsystem|I Can Change|2010|tW8FKkVnqng|LCD Soundsystem|S4915|New Wave;Synthpop;Electronic;Pop;Rock|I Can Change (LCD Soundsystem song)",
 "Grimes|Flesh Without Blood|2015|Tv9YoYCKNoE|Grimes (musician)|S9771|Electropop;Electronic;Pop|Flesh Without Blood",
