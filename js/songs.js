@@ -8465,7 +8465,7 @@ const songs = [
 "Talk Talk|Desire|1988|gPuxrLAbONk|Talk Talk|S13137|Art Rock;Post-Rock;Rock|",
 "UB40|One in Ten|1981|lvcaxumeiKc|UB40|S8887|Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|One in Ten",
 "Def Leppard|Bringin' On the Heartbreak|1981|f_X5A-BYjO8|Def Leppard|S10561|Hard Rock;Rock|Bringin' On the Heartbreak",
-"Ray Parker Jr. & Raydio|Ghostbusters|1984|Fe93CLbHjxQ|Ray Parker Jr.|S8109|Dance-Pop;Film Soundtrack;Halloween Music;Dance;Descriptor;Holiday Music;Pop;Soundtracks|",
+"Ray Parker Jr. & Raydio|Ghostbusters|1984|Fe93CLbHjxQ|Ray Parker Jr.|S8109|Dance-Pop;Film Soundtrack;Halloween Music;Dance;Descriptor;Holiday Music;Pop;Soundtracks|Ghostbusters (song)",
 "Cesaria Evora|Petit Pays|1995|LbN8bk9ljQw|Cesária Évora|S5747|Morna;African Music;Cape Verdean Music;Regional Music|Cesária",
 "Bob Dylan|I Don't Believe You|1964|XuUXWG5dqnM|Bob Dylan|S3369|Contemporary Folk;Singer/Songwriter;Folk|I Want You (Bob Dylan song)",
 "Neil Young|When You Dance (I Can Really Love)|1970|ZUnyuYPth5Q|Neil Young|S11731|Country Rock;Hard Rock;Rock|",
