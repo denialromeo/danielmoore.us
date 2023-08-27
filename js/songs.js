@@ -9754,7 +9754,7 @@ const songs = [
 "Leila|Soda Stream|1999|29MYyf5JF2c|Leila Arab|S7222|Downtempo;Electronic|",
 "Stevie Wright|Evie|1974|lPveBD6WWXc|Stevie Wright|S12324|Hard Rock;Rock|Evie (song)",
 "David Seville|Witch Doctor|1958|9iA_TZ15ruA|David Seville|S5983|Novelty;Rock & Roll;Descriptor;Rock|Witch Doctor (song)",
-"Sheb Wooley|The Purple People Eater|1958|X9H_cI_WCnE|Sheb Wooley|S8386|Halloween Music;Novelty;Rock & Roll;Descriptor;Holiday Music;Rock|Sheb Wooley",
+"Sheb Wooley|The Purple People Eater|1958|X9H_cI_WCnE|Sheb Wooley|S8386|Halloween Music;Novelty;Rock & Roll;Descriptor;Holiday Music;Rock|The Purple People Eater",
 "Savages|The Answer|2015|kvvhHT0B5ck|Savages (band)|S16182|Post-Punk;Rock|",
 "Duane Eddy|Because They're Young|1960|bKm2_67xtVs|Duane Eddy|S3388|Rock & Roll;Rock|",
 "The Doors|Love Her Madly|1971|SLdvnQD_eio|The Doors|S10638|Blues Rock;Psychedelic Rock;Rock|Love Her Madly",
