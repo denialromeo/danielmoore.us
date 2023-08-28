@@ -13,7 +13,13 @@ In the dot-com bust of the early 2000's, [more than one million jobs were lost](
 
 Since mid-2022, a new bust is upon us. At least [400,000](https://layoffs.fyi/) jobs have been lost. I suspect it might actually be much higher. My father was laid off with 5% of his company from his job in June 2023 (and effectively forcibly retired), but his layoff doesn't seem to have been publicly announced.
 
-This new bust comes along at a fascinating point. 
+This new bust comes along at a fascinating point. Interest rates, which have been going down for my whole life, are suddenly back up to 1990's levels. Rent and food prices have skyrocketed.
+
+The U.S. is losing allies left and right while previously joke groups like BRICS rise to prominence. Saudi Arabia has now joined the bloc, effectively signaling the imminent demise of the U.S. dollar.
+
+Domestic politics is gridlocked. Joe Biden isn't up to the challenge, and his upcoming rematch with Donald Trump is already devolving into total farce.
+
+And then, on top of all this, ChatGPT has revolutionized computer programming, allowing one motivated engineer to do the work of four or five.
 
 <hr>
 
