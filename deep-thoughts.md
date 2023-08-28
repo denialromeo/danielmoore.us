@@ -9,6 +9,14 @@ permalink: /deep-thoughts
 
 <hr>
 
+In the dot-com bust of the early 2000's, [more than one million jobs were lost](https://www.nytimes.com/2023/01/20/technology/tech-layoffs-millennials-gen-x.html). It took 20 years for the job market to recover to the peak of the dot-com boom in 2021.
+
+Since mid-2022, a new bust is upon us. At least [400,000](https://layoffs.fyi/) jobs have been lost. I suspect it might actually be much higher. My father was laid off with 5% of his company from his job in June 2023 (and effectively forcibly retired), but his layoff doesn't seem to have been publicly announced.
+
+This new bust comes along at a fascinating point. 
+
+<hr>
+
 Most of the world's problems are caused by there being too many excess males.
 
 In our age of fossil fuels and artificial intelligence, we really don't need most men around at all. Women are intrinsically valuable (in part because they're naturally inclined to take orders rather than try to give them), but I've seen many good things (clubs, companies, countries) ruined because idiot males ran them into the ground to satisfy their egos or to humiliate other men.

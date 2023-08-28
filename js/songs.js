@@ -2712,7 +2712,7 @@ const songs = [
 "Sammi Smith|Help Me Make It Through the Night|1970|jLQAAxcBTQs|Sammi Smith|S1307|Nashville Sound;Country;Country Pop;Pop|Help Me Make It Through the Night",
 "Ketty Lester|Love Letters|1962|b00bRYZSRew|Ketty Lester|S1097|Rhythm & Blues;Soul;R&B|",
 "Blur|Coffee + TV|1999|6oqXVx3sBOk|Blur (band)|S2177|Alternative Rock;Art Rock;Rock|Coffee & TV",
-"Bobby Bare|Detroit City|1963|dXoez_ffhRc|Bobby Bare|S1079|Country Pop;Country;Pop|Bobby Bare",
+"Bobby Bare|Detroit City|1963|dXoez_ffhRc|Bobby Bare|S1079|Country Pop;Country;Pop|Detroit City (song)",
 "St. Vincent|Los Ageless|2017|h9TlaYxoOO8|St. Vincent (musician)|S16482|Art Pop;Synthpop;Electronic;Pop|Los Ageless",
 "The Sonics|Have Love Will Travel|1965|CwHOYJIRXw4|The Sonics|S12260|Garage Rock;Proto-Punk;Rock|Have Love, Will Travel",
 "Air|Kelly Watch the Stars|1998|Rui0hzN-EFE|Air (band)|S290|Ambient Pop;Art Pop;Downtempo;Electronic;Pop|Kelly Watch the Stars",
