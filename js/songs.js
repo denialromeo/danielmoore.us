@@ -8785,7 +8785,7 @@ const songs = [
 "Marvin Gaye|When Did You Stop Loving Me, When Did I Stop Loving You|1978|tpcSx4vKv8c|Marvin Gaye|S13887|Soul;R&B|",
 "John Denver|Annie's Song|1974|RNOTF-znQyw|John Denver|S6942|Baroque Pop;Country Pop;Soft Rock;Country;Pop;Pop Rock;Rock|Annie's Song",
 "Harry Nilsson|I Guess the Lord Must Be in New York City|1969|Qa4An7uzPeg|Harry Nilsson|S6689|Baroque Pop;Folk Pop;Contemporary Folk;Folk;Pop|I Guess the Lord Must Be in New York City",
-"Alicia Bridges|I Love the Nightlife (Disco 'Round)|1978|umAurdHLNzU|Alicia Bridges|S9973|Disco;Dance|Alicia Bridges",
+"Alicia Bridges|I Love the Nightlife (Disco 'Round)|1978|umAurdHLNzU|Alicia Bridges|S9973|Disco;Dance|I Love the Nightlife",
 "Young Thug feat. Gunna|Hot (Remix feat. Travis Scott)|2019|leJNDpm_G10|Young Thug|S16897|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
 "Cage the Elephant|Shake Me Down|2010|v27TRan1SBI|Cage the Elephant|S16231|Alternative Rock;Rock|",
 "The Strokes|What Ever Happened?|2003|-DAeR-OyabY|The Strokes|S8612|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|",
