@@ -17,9 +17,9 @@ This new bust comes along at a fascinating point. Interest rates, which have bee
 
 The U.S. is losing allies left and right while previously joke groups like BRICS rise to prominence. Saudi Arabia has now joined the bloc, effectively signaling the imminent demise of the U.S. dollar.
 
-Domestic politics is gridlocked. Joe Biden isn't up to the challenge, and his upcoming rematch with Donald Trump is already devolving into total farce.
+ChatGPT has also revolutionized computer programming, allowing one motivated engineer to do the work of four or five. Remote work has also been proven feasible at scale by the pandemic.
 
-And then, on top of all this, ChatGPT has revolutionized computer programming, allowing one motivated engineer to do the work of four or five.
+Some predictions I have for the future U.S. job market &ndash;
 
 <hr>
 
