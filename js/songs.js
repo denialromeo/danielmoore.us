@@ -2213,7 +2213,7 @@ const songs = [
 "Gilbert O'Sullivan|Alone Again (Naturally)|1972|D_P-v1BVQn8|Gilbert O'Sullivan|S3683|Baroque Pop;Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|Alone Again (Naturally)",
 "Yeah Yeah Yeahs|Sacrilege|2013|jmRI3Ew4BvA|Yeah Yeah Yeahs|S9546|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|",
 "J.J. Cale|Cocaine|1976|wNUJSuO-lgw|J. J. Cale|S6814|Blues Rock;Rock|J. J. Cale",
-"Duran Duran|Rio|1982|nTizYn3-QN0|Duran Duran|S3363|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock|",
+"Duran Duran|Rio|1982|nTizYn3-QN0|Duran Duran|S3363|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock|Rio (song)",
 "Anita Ward|Ring My Bell|1979|vsBak0oCgdY|Anita Ward|S1824|Disco;Funk;Dance;R&B|Ring My Bell",
 "Donnie Trumpet & The Social Experiment|Sunday Candy|2015|i4ooH8frBWg|Nico Segal|S9741|Jazz Rap;Pop Rap;Hip Hop|",
 "McFadden and Whitehead|Ain't No Stoppin' Us Now|1979|DY0tsKCB4lc|McFadden & Whitehead|S591|Disco;Dance|Ain't No Stoppin' Us Now",
