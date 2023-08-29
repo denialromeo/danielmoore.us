@@ -45,8 +45,6 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="instructions2" style="display:none;">
     <p>"We have Paleolithic emotions, medieval institutions, and godlike technology." &ndash; E.O. Wilson</p>
     <p>"People, ideas, and hardware—in that order!" &ndash; John Boyd</p>
-    <p>"Our sole responsibility is to produce something smarter than we are." &ndash; Eliezer Yudkowsky</p>
-    <p>It's my conviction that life without money isn't really worth living. I support any and all policies that put more money in my pocket. If this means the rich get richer, so be it.</p>
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
