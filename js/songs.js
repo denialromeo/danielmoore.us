@@ -2346,7 +2346,7 @@ const songs = [
 "Mickey and Sylvia|Love Is Strange|1956|5SwMB9v1pQ4|Mickey & Sylvia|S1276|Rhythm & Blues;Rock & Roll;Soul;R&B;Rock|",
 "Neil Young|Old Man|1972|OuVIJlSDOs0|Neil Young|S7684|Country Rock;Folk Rock;Singer/Songwriter;Rock|Old Man (song)",
 "Nick Cave & The Bad Seeds|I Need You|2016|BAMZYpZi_M4|Nick Cave and the Bad Seeds|S16156|Art Rock;Singer/Songwriter;Rock|",
-"Louis Armstrong|Star Dust|1931|WIE6U6Lrtrc|Louis Armstrong|S4869|Big Band;Jazz|Angeline",
+"Louis Armstrong|Stardust|1931|WIE6U6Lrtrc|Louis Armstrong|S4869|Big Band;Jazz|Stardust (1927 song)",
 "Feist|Mushaboom|2004|cYF0qU5WSew|Feist (singer)|S4633|Folk Pop;Indie Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|",
 "Nick Drake|Things Behind the Sun|1972|L1AkYgBTc4M|Nick Drake|S7732|Contemporary Folk;Singer/Songwriter;Folk|",
 "Glen Campbell|Galveston|1969|qBLboy3aXA0|Glen Campbell|S1712|Nashville Sound;Country;Country Pop;Pop|Galveston (song)",
