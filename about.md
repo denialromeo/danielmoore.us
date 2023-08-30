@@ -232,7 +232,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Oldboy*](https://www.amazon.com/Oldboy-Blu-Ray-Min-sik-Choi/dp/B07SMMBY4R) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (We are but playthings for the gods.)
 * [*The Personal History of David Copperfield*](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10baee16-44cc-e332-e3c6-0796dd7162e9) by [Armando Ianucci](https://en.wikipedia.org/wiki/Armando_Ianucci) (My favorite comedy.)
 * [*Schindler's List*](https://www.amazon.com/gp/video/detail/B00BEN0V8S) by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) (Still the best film ever made about racism.)
-* [*The Sunset Limited*](https://play.max.com/movie/45898ac7-06e9-4abe-b5ee-a6d2be63cfd3) by [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy) (Is not committing suicide rational?)
+* [*The Sunset Limited*](https://play.max.com/movie/45898ac7-06e9-4abe-b5ee-a6d2be63cfd3) by [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy) (Is not committing suicide [rational](https://philosophy.redzambala.com/leo-tolstoy/confession-leo-tolstoy-7.html)?)
 * [*Synecdoche, New York*](https://www.amazon.com/gp/video/detail/B00BZAZYMI) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
 * [*The Wolf of Wall Street*](https://www.amazon.com/Wolf-Wall-Street-Leonardo-DiCaprio/dp/B00IIU9FQY) by [Martin Scorsese](https://en.wikipedia.org/wiki/Martin_Scorsese) (Quit while you're ahead.)
