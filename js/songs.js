@@ -10788,7 +10788,7 @@ const songs = [
 "Japan|Visions of China|1981|WhC8LnFd2LE|Japan (band)|S1859|Art Pop;New Wave;Pop;Rock|Visions of China",
 "Schoolly D|Gucci Time|1985|zya2Z_dzeYI|Schoolly D|S3796|East Coast Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
 "Ray Price|Heartaches by the Number|1959|QzHtx8TXwfM|Ray Price (musician)|S4076|Nashville Sound;Country;Country Pop;Pop|Heartaches by the Number",
-"Euromasters|Alles Naar De Klote|1992|apBMYXcYFvI?start=3|Euromasters|S2941|Gabber;Dance;Electronic;Electronic Dance Music;Hardcore [EDM]|Who's Got the Last Laugh Now?",
+"Euromasters|Alles Naar De Klote|1992|apBMYXcYFvI?start=3|Euromasters|S2941|Gabber;Dance;Electronic;Electronic Dance Music;Hardcore [EDM]|",
 "Age of Chance|Kiss|1986|XEVB4dAw6jk|Age of Chance|S1951|Grebo;Alternative Dance;Alternative Rock;Dance;Rock|Kiss (Prince song)",
 "John Lennon|I Found Out|1970|5MqKXjclNHw|John Lennon|S2557|Hard Rock;Proto-Punk;Rock|I Found Out",
 "Spandau Ballet|Glow|1981|8OYmDxECj0U|Spandau Ballet|S1856|New Romantic;New Wave;Rock|Glow (Spandau Ballet song)",
