@@ -1224,7 +1224,7 @@ const albums = [
 "Liars|Drum's Not Dead|2006|PLlsZHYnNM0pauAdZ5GZrOUu4evRPz1xjP|A2087|Drum's Not Dead|Liars (band)|Art Rock;Experimental Rock;Rock",
 "Fugazi|13 Songs (Fugazi EP + Margin Walker EP)|1989|PLd0i3T7KS6MDBrzTT46k3KKWFVkWagZG6|A3272|Fugazi (EP)|Fugazi|Post-Hardcore;Punk Rock;Rock",
 "Kyuss|Blues for the Red Sun|1992|PLymNFxwBo3thXNZIOw8jD2Avyd7de8mUH|A3419|Blues for the Red Sun|Kyuss|Stoner Metal;Stoner Rock;Hard Rock;Metal;Rock",
-"Killing Joke|Killing Joke|1980|PLC80P4gsPr-ZcKy4JzAPITq3S4CApQOud|A2829|Killing Joke (1980 album)|Killing Joke|Post-Punk;Rock",
+"Killing Joke|Killing Joke|1980|PLC80P4gsPr-bfomizhLy92w2-9RHrzY2M|A2829|Killing Joke (1980 album)|Killing Joke|Post-Punk;Rock",
 "Paul Simon|There Goes Rhymin' Simon|1973|PL_IzBVwc567a9Xh_KG1BXKZ_T6_yaSaNR|A291|There Goes Rhymin' Simon|Paul Simon|Folk Pop;Folk Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock",
 "Mission of Burma|Vs.|1982|PLFH4HRzHTL0SIbGOKBHujschS_39vQztz|A2915|Vs. (Mission of Burma album)|Mission of Burma|Post-Punk;Rock",
 "Siouxsie and The Banshees|The Scream|1978|PLrBVTunBaGMattR6pWbJ2RbU-Q21p0CCj|A437|The Scream (album)|Siouxsie and the Banshees|Post-Punk;Rock",
