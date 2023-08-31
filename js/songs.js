@@ -6488,7 +6488,7 @@ const songs = [
 "Curtis Lee|Pretty Little Angel Eyes|1961|pZT__JFMUgU|Curtis Lee|S3554|Brill Building;Doo-Wop;Descriptor;Pop;R&B;Vocal Group|Pretty Little Angel Eyes",
 "The Monroe Brothers|What Would You Give in Exchange?|1936|364t7YVLj3s|Bill Monroe|S9300|Close Harmony;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|Bill Monroe",
 "Domenico Modugno|Piove (Ciao ciao bambina)|1959|n0enVNAU5sY|Domenico Modugno|S12937|Italo Pop;Traditional Pop;Pop|Piove (Ciao, ciao bambina)",
-"Charles Trenet|La Folle complainte|1945|wHqFzwpidYQ?start=29|Charles Trenet|S5759|Chanson;Regional Music|Charles Trenet",
+"Charles Trenet|La Folle complainte|1945|wHqFzwpidYQ?start=29|Charles Trenet|S5759|Chanson;Regional Music|https://fr.wikipedia.org/wiki/La_Folle_Complainte",
 "St. Louis Jimmy Oden|Going Down Slow|1941|l_E0mHDPwsM|St. Louis Jimmy Oden|S13631|Piano Blues;Blues|Goin' Down Slow",
 "Spandau Ballet|Chant No. 1 (I Don't Need This Pressure On)|1981|VIqMk5PvhT0|Spandau Ballet|S1862|New Romantic;New Wave;Rock|Chant No. 1 (I Don't Need This Pressure On)",
 "Fred Astaire|A Fine Romance (A Sarcastic Love Song)|1936|sRqK-KxNLAY|Fred Astaire|S6471|Traditional Pop;Vocal Jazz;Jazz;Pop|",
