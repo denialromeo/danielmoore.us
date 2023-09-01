@@ -4513,7 +4513,7 @@ const songs = [
 "Ian and Sylvia|Four Strong Winds|1963|B3m7ckGhnsc|Ian & Sylvia|S6763|Folk Pop;Contemporary Folk;Folk;Pop|Four Strong Winds",
 "Bee Gees|How Can You Mend a Broken Heart|1971|frA2K5oqm54|Bee Gees|S5396|Baroque Pop;Pop|How Can You Mend a Broken Heart",
 "Aphex Twin|Digeridoo|1992|H2ekOW5wp2g|Aphex Twin|S180|Acid Techno;Dance;Electronic;Electronic Dance Music;Techno|Classics (Aphex Twin album)",
-"The Rolling Stones|Doo Doo Doo Doo Doo (Heartbreaker)|1973|sqUiWpGGCmI|The Rolling Stones|S9338|Funk Rock;Hard Rock;Rock|",
+"The Rolling Stones|Doo Doo Doo Doo Doo (Heartbreaker)|1973|sqUiWpGGCmI|The Rolling Stones|S9338|Funk Rock;Hard Rock;Rock|Doo Doo Doo Doo Doo (Heartbreaker)",
 "Sixpence None the Richer|Kiss Me|1997|8N-qO3sPMjc|Sixpence None the Richer|S8436|Pop Rock;Pop;Rock|Kiss Me (Sixpence None the Richer song)",
 "Taylor Swift|We Are Never Ever Getting Back Together|2012|WA4iX5D9Z64|Taylor Swift|S5041|Teen Pop;Pop|We Are Never Ever Getting Back Together",
 "Diamond Head|Am I Evil?|1980|GnupfNwf62M|Diamond Head (English band)|S10585|NWOBHM;Heavy Metal;Metal;Rock|Am I Evil?",
