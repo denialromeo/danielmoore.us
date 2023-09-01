@@ -1308,7 +1308,7 @@ const songs = [
 "Talking Heads|Life During Wartime|1979|jLwZvg46jms|Talking Heads|S579|New Wave;Post-Punk;Rock|Life During Wartime (song)",
 "Johnny Kidd and the Pirates|Shakin' All Over|1960|n327ncoU_ZU|Johnny Kidd & the Pirates|S1142|Rock & Roll;Rock|Shakin' All Over",
 "Smashing Pumpkins|Today|1993|xmUZ6nCFNoU|The Smashing Pumpkins|S142|Alternative Rock;Rock|Today (The Smashing Pumpkins song)",
-"New Order|Ceremony|1981|NAmyMqL1AkI|New Order (band)|S533|Post-Punk;Rock|Ceremony (New Order song)",
+"New Order|Ceremony|1981|kkASIx9Xk6s|New Order (band)|S533|Post-Punk;Rock|Ceremony (New Order song)",
 "Thunderclap Newman|Something in the Air|1969|RTZoJ01FpD8|Thunderclap Newman|S881|Pop Rock;Psychedelic Pop;Pop;Rock|Something in the Air",
 "Van Morrison|Into the Mystic|1970|_6r2P4W9Yog|Van Morrison|S2559|Folk Rock;Rhythm & Blues;Singer/Songwriter;R&B;Rock|Into the Mystic",
 "OutKast|Rosa Parks|1998|drsQLEU0N1Y|Outkast|S299|Conscious Hip Hop;Southern Hip Hop;Hip Hop|Rosa Parks (song)",
