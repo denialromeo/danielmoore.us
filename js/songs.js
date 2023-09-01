@@ -2282,7 +2282,7 @@ const songs = [
 "Max Romeo|Chase the Devil|1976|XcMNfX5yh28|Max Romeo|S9291|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Chase the Devil",
 "The Police|Walking on the Moon|1979|mbv-LcdLY-Y|The Police|S598|New Wave;Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music;Rock|Walking on the Moon",
 "The Cadillacs|Speedoo|1955|p9uZvrsAoyE|The Cadillacs|S1303|Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|Speedoo",
-"Love|Seven and Seven Is|1966|fUii9c4GGRs|Love (band)|S3078|Garage Rock;Proto-Punk;Psychedelic Rock;Rock|Seven (Jungkook song)",
+"Love|Seven and Seven Is|1966|fUii9c4GGRs|Love (band)|S3078|Garage Rock;Proto-Punk;Psychedelic Rock;Rock|7 and 7 Is",
 "Wilco|I Am Trying to Break Your Heart|2002|zlxH9-TYseY|Wilco|S4252|Indie Rock;Alternative Rock;Rock|",
 "Frank Sinatra|It Was a Very Good Year|1965|Zh0rwbtI9Ro?start=103|Frank Sinatra|S3809|Standards;Pop;Traditional Pop|It Was a Very Good Year",
 "Pat Benatar|Love Is a Battlefield|1983|IGVZOLV9SPo|Pat Benatar|S3210|Pop Rock;Pop;Rock|Love Is a Battlefield",
