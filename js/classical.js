@@ -700,7 +700,7 @@ const classical = [
 "Joseph Canteloube|Chants d’Auvergne|1923-1954|-hLj8ws2syQ|Joseph Canteloube|",
 "Leos Janácek|String Quartets nos. 1 &amp; 2|1923-1928|y5wvFZDj37k|Leoš Janáček|",
 "Arthur Honegger|Three Symphonic Movements|1923-1933|R88o18b7Pk8|Arthur Honegger|",
-"Darius Milhaud|La création du monde|1923|nWpAQ6AWMDA|Darius Milhaud|La cheminée du roi René",
+"Darius Milhaud|La création du monde|1923|nWpAQ6AWMDA|Darius Milhaud|La création du monde",
 "Leos Janácek|The Cunning Little Vixen|1923|a79nSbmy69U|Leoš Janáček|",
 "Frances Poulenc|Les biches|1923-1947|W37t7X4uYeQ|Francis of Assisi|",
 "Arnold Schoenberg|Suite for Piano|1923|bQHR_Z8XVvI|Arnold Schoenberg|",
