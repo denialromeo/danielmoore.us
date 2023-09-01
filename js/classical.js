@@ -138,7 +138,7 @@ const classical = [
 "Wolfgang Amadeus Mozart|“Haydn” Quartets|1782-1785|ex7GJIRw3-I|Wolfgang Amadeus Mozart|",
 "Wolfgang Amadeus Mozart|Die Entführung aus dem Serail|1782|iYOTeHL14uQ|Wolfgang Amadeus Mozart|Die Entführung aus dem Serail",
 "Wolfgang Amadeus Mozart|Serenade in B flat major, “Gran partita”|1783|NecLh4YOT9M|Wolfgang Amadeus Mozart|",
-"Wolfgang Amadeus Mozart|Mass in C minor “Great”|1783|Ez0kqVShFEs|Wolfgang Amadeus Mozart|",
+"Wolfgang Amadeus Mozart|Great Mass in C minor|1783|Ez0kqVShFEs|Wolfgang Amadeus Mozart|Great Mass in C minor, K. 427",
 "Wolfgang Amadeus Mozart|Symphony no. 36, “Linz”|1783|hwxNp-LzDYo|Wolfgang Amadeus Mozart|Symphony No. 40 (Mozart)",
 "Joseph Haydn|Symphony no. 83, “La poule”|1785|6rD32fnEvyA|Joseph Haydn|",
 "Wolfgang Amadeus Mozart|Piano Concerto no. 20|1785|devtF2EoZDs|Wolfgang Amadeus Mozart|",
