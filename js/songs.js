@@ -8324,7 +8324,7 @@ const songs = [
 "Muddy Waters|You Need Love|1962|pM8_HuQ0b34|Muddy Waters|S14783|Chicago Blues;Blues;Electric Blues|You Need Love (Muddy Waters song)",
 "Juliette Gréco|Si tu t'imagines|1950|zcrujIHaNiU|Juliette Gréco|S11279|Chanson;Regional Music|",
 "Eric Weissberg and Steve Mandel|Dueling Banjos|1973|YchKLJGWJA4|Eric Weissberg|S14369|Bluegrass;Film Soundtrack;American Folk Music;Country;Descriptor;Folk;Regional Music;Soundtracks;Traditional Country;Traditional Folk Music|",
-"The Pretty Things|Rosalyn|1964|yUmtwq5F_tU|Pretty Things|S8004|British Rhythm & Blues;Freakbeat;Garage Rock;Mod;Beat Music;Pop;Pop Rock;R&B;Rhythm & Blues;Rock|Pretty Things",
+"The Pretty Things|Rosalyn|1964|yUmtwq5F_tU|Pretty Things|S8004|British Rhythm & Blues;Freakbeat;Garage Rock;Mod;Beat Music;Pop;Pop Rock;R&B;Rhythm & Blues;Rock|Rosalyn (song)",
 "The Rolling Stones|I Got the Blues|1971|FWWhX5BjVRw|The Rolling Stones|S12094|Blues Rock;Soul;R&B;Rock|",
 "Pulp|Mis-Shapes|1995|S0DRch3YLh0|Pulp (band)|S2633|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Mis-Shapes",
 "The National|Rylan|2019|CbXnnn8z1tE|The National (band)|S16883|Chamber Pop;Post-Punk Revival;Alternative Rock;Baroque Pop;Indie Pop;Indie Rock;Pop;Post-Punk;Rock|",
