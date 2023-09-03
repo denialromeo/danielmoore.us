@@ -4530,7 +4530,7 @@ const songs = [
 "Dr. Octagon|Blue Flowers|1996|V9VYzNUXGDA|Dr. Octagon|S3356|Abstract Hip Hop;East Coast Hip Hop;Hip Hop|",
 "John Lennon|Mind Games|1973|bVYXWVs0Prc|John Lennon|S6954|Pop Rock;Singer/Songwriter;Pop;Rock|Mind Games (John Lennon song)",
 "Les Paul & Mary Ford|Vaya Con Dios (May God Be with You)|1953|QqZ0Sdz_V40|Les Paul|S7248|Traditional Pop;Pop|Vaya con Dios (song)",
-"Evanescence|Bring Me to Life|2003|3YxaaGgTQYM|Evanescence|S3397|Nu Metal;Alternative Metal;Metal;Rock|",
+"Evanescence|Bring Me to Life|2003|3YxaaGgTQYM|Evanescence|S3397|Nu Metal;Alternative Metal;Metal;Rock|Bring Me to Life",
 "Deutsch Amerikanische Freundschaft|Der Mussolini|1981|vSgGNd6thrc|Deutsch Amerikanische Freundschaft|S534|EBM;Neue Deutsche Welle;Synth Punk;Dance;Electronic;Electronic Dance Music;Industrial Music;Punk Rock;Rock|",
 "Rick Ross|B.M.F. (Blowin' Money Fast)|2010|n2MVzP4MaJ0|Rick Ross|S8152|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
 "AC/DC|Let There Be Rock|1977|3f2g4RMfhS0|AC/DC|S5088|Hard Rock;Rock|",
