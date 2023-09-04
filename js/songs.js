@@ -9827,7 +9827,7 @@ const songs = [
 "Bryan Adams|Run to You|1984|nCBASt507WA|Bryan Adams|S5660|AOR;Pop Rock;Pop;Rock|Run to You (Bryan Adams song)",
 "Kate Bush|The Big Sky|1985|sV7w5TaYjRA|Kate Bush|S7064|Art Pop;Art Rock;Progressive Pop;Pop;Rock|The Big Sky (song)",
 "Stevie Wonder|Overjoyed|1985|_a1LogyX9Uw|Stevie Wonder|S8585|Contemporary R&B;Pop Soul;Pop;R&B;Soul|Overjoyed (Stevie Wonder song)",
-"Lil Wayne|6'7'|2010|c7tOAGY59uQ|Lil Wayne|S4973|Southern Hip Hop;Hip Hop|Lollipop (Lil Wayne song)",
+"Lil Wayne|6'7'|2010|c7tOAGY59uQ|Lil Wayne|S4973|Southern Hip Hop;Hip Hop|6 Foot 7 Foot",
 "Kano feat. D Double E & Ghetts|Class of Deja|2019|GqxlMqw8upQ|Kano (band)|S16808|Conscious Hip Hop;UK Hip Hop;Hip Hop|",
 "Jebediah|Leaving Home|1997|byYE_f_aFCc|Jebediah|S15577|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Leaving Home (Jebediah song)",
 "The Bob Seger System|2 + 2 = ?|1968|487t88pz-2Y|Bob Seger|S10260|Garage Rock;Rock|",
