@@ -978,7 +978,7 @@ const classical = [
 "Alfred Schnittke|String Trio|1985|kueXf27ecz8|Alfred Schnittke|String trio",
 "Milton Babbitt|Transfigured Notes|1986|o4ovTeWNPV4|Milton Babbitt|",
 "Peter Sculthorpe|Earth Cry|1986|FWuLo3wyWFQ|Peter Sculthorpe|",
-"Philip Glass|Violin Concerto|1987|5lGNtPXcA04|Philip Glass|",
+"Philip Glass|Violin Concerto|1987|5lGNtPXcA04|Philip Glass|Violin Concerto No. 1 (Glass)",
 "John Adams|Nixon in China|1987|G72JjpMEdKs|John Adams|Nixon in China",
 "John Tavener|The Protecting Veil|1987|xT0MF4XNjkA|John Tavener|",
 "Louis Andriessen|De Materie|1988|is_70pNy2l4|Louis Andriessen|",
