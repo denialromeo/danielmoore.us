@@ -818,7 +818,7 @@ const classical = [
 "Igor Stravinsky|Symphony in C|1940|bmnfwnfnKBA|Igor Stravinsky|Symphony in C (Stravinsky)",
 "Sergei Rachmaninov|Symphonic Dances|1940|otJmf3pyb1E|Sergei Rachmaninoff|Symphonic Dances (Rachmaninoff)",
 "Arthur Honegger|Symphony no. 2|1941|NfssYoRkY58|Arthur Honegger|Symphony No. 3 \"Symphonie Liturgique\" (Honegger)",
-"Olivier Messiaen|Quartet for the End of Time|1941|zYpBHc8px_U|Olivier Messiaen|",
+"Olivier Messiaen|Quartet for the End of Time|1941|zYpBHc8px_U|Olivier Messiaen|Quatuor pour la fin du temps",
 "Benjamin Britten|String Quartets|1941-1975|SdKcOm_3VJU|Benjamin Britten|String Quartet No. 2 (Britten)",
 "Manuel Ponce|Concierto del sur|1941|0OoFTYM-J2c|Manuel Ponce|",
 "Richard Strauss|Capriccio|1941|nnDcVSDnSU4|Richard Strauss|",
