@@ -845,7 +845,7 @@ const classical = [
 "Olivier Messiaen|Vingt regards sur l’Enfant-Jésus|1944|ovMnmIoZh74|Olivier Messiaen|",
 "Benjamin Britten|Peter Grimes|1945|VTd2aXLTA84|Benjamin Britten|Peter Grimes",
 "Béla Bartók|Piano Concerto no. 3|1945|l7J7L53b8U0|Béla Bartók|Piano Concerto No. 3 (Bartók)",
-"Erich Wolfgang Korngold|Violin Concerto|1945|lcGEGl5bdbk|Erich Wolfgang Korngold|",
+"Erich Wolfgang Korngold|Violin Concerto|1945|lcGEGl5bdbk|Erich Wolfgang Korngold|Violin Concerto (Korngold)",
 "Béla Bartók|Viola Concerto|1945|yu56HvCgdOU|Béla Bartók|Viola Concerto (Bartók)",
 "Frank Martin|Petite symphonie concertante|1945|hTkbjOzsLCI|Frank Martin|",
 "Bohuslav Martinu|Symphony no. 4|1945|2r-YJbhvhfM|Bohuslav Martinů|",
