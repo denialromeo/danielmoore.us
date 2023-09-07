@@ -662,7 +662,7 @@ const albums = [
 "Prince and The Revolution|Parade|1986|PLf1XUk-k2w5kBF5kxVBlE9l6vB8tALRYZ|A667|Parade (Prince album)|Prince (musician)|Film Soundtrack;Pop Rock;Psychedelic Soul;Descriptor;Pop;R&B;Rock;Soul;Soundtracks",
 "Steely Dan|Countdown to Ecstasy|1973|PLfGibfZATlGq3vBSxcoTQGwlU7GO31m3L|A283|Countdown to Ecstasy|Steely Dan|Pop Rock;Pop;Rock",
 "The Streets|A Grand Don't Come for Free|2004|PLgeuMZNnR_LiX7_S6058ZusOVtsAIrvrd|A4050|A Grand Don't Come for Free|The Streets|UK Hip Hop;Hip Hop",
-"Janet Jackson|Control|1986|PLCDbx_8fL8twjycVbjYCMvg7qflVsgb0v|A668|Control (Janet Jackson album)|Janet Jackson|Contemporary R&B;Dance-Pop;Dance;Pop;R&B",
+"Janet Jackson|Control|1986|PLH_QLWlQVieWf6v7xsuW_ZfAV4sdDFf6L|A668|Control (Janet Jackson album)|Janet Jackson|Contemporary R&B;Dance-Pop;Dance;Pop;R&B",
 "Quicksilver Messenger Service|Happy Trails|1969|PLRQKT-Cu2_2TDAEF8wY9vnKJGhZGXVgDw|A1121|Happy Trails (album)|Quicksilver Messenger Service|Acid Rock;Yacht Rock;Pop;Pop Rock;Psychedelic Rock;Rock",
 "The Smiths|Meat Is Murder|1985|PLdlKjfbzZGdlzCCit8NFbkxOdWQTDNhEG|A639|Meat Is Murder|The Smiths|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Flying Lotus|Cosmogramma|2010|PLwGe1l5pwo-78_9waaA-Q7iqOBtHFuI-J|A5065|Cosmogramma|Flying Lotus|IDM;Electronic",
