@@ -32,7 +32,7 @@ box: random-classical-recording
             <a target="_self" href="?year=^17..">Compositions from the 1700's.</a>
         </li>
     </ul>
-   <p>Also note that each artist's name is a link to their Wikipedia page.</p>
+   <p>Also note that each artist's name is a link to their Wikipedia page. Where available, composition names also link to Wikipedia.</p>
 </div>
 
 <script src="/js/URI.js"></script>

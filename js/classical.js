@@ -644,7 +644,7 @@ const classical = [
 "Charles Ives|Concord Sonata|1915|cDNPpsUaVYo|Charles Ives|",
 "Hans Pfitzner|Palestrina|1915|rKelUc2XxdM|Hans Pfitzner|Palestrina (opera)",
 "Franz Schreker|Die Gezeichneten|1915|1tdzUBIXDXg|Franz Schreker|",
-"Sergei Rachmaninov|All-Night Vigil (Vesper)|1915|U2NSfTXjEPI|Sergei Rachmaninoff|",
+"Sergei Rachmaninov|All-Night Vigil (Vesper)|1915|U2NSfTXjEPI|Sergei Rachmaninoff|All-Night Vigil (Rachmaninoff)",
 "Wilhelm Stenhammar|Symphony no. 2|1915|pLrPf1OEtxE|Wilhelm Stenhammar|",
 "Richard Strauss|Eine Alpensinfonie|1915|zsTo7QxxgYg|Richard Strauss|",
 "Karol Szymanowski|Myths|1915|M5UJmxd3ixo|Karol Szymanowski|",
