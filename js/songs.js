@@ -9576,7 +9576,7 @@ const songs = [
 "The Dixie Hummingbirds|I'll Live Again|1952|1qqNrPK9e-4|The Dixie Hummingbirds|S15426|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music|",
 "Bruce Springsteen|Devils and Dust|2005|cG8ZQkeZvzc|Bruce Springsteen|S14192|Contemporary Folk;Singer/Songwriter;Folk|",
 "Massive Attack feat. Hope Sandoval|Paradise Circus|2010|ZN1HuFgqABI|Massive Attack|S11569|Art Pop;Trip Hop;Downtempo;Electronic;Pop|",
-"The Chordettes|Lollipop|1958|o6civIRyRtw|The Chordettes|S14241|Doo-Wop;Girl Group;Descriptor;Pop;R&B;Vocal Group|Lollipop (1958 song)",
+"The Chordettes|Lollipop|1958|3rYoRaxgOE0|The Chordettes|S14241|Doo-Wop;Girl Group;Descriptor;Pop;R&B;Vocal Group|Lollipop (1958 song)",
 "The Wallflowers|6th Avenue Heartbreak|1996|kXDiGtgPL6E|The Wallflowers|S9387|Alternative Rock;Pop Rock;Pop;Rock|6th Avenue Heartache",
 "The Rolling Stones|Jigsaw Puzzle|1968|E8cJ1Wa6U3o|The Rolling Stones|S9340|Roots Rock;Rock|Jigsaw Puzzle (song)",
 "Neil Young and Crazy Horse|Change Your Mind|1994|45qX1VYONds|Neil Young|S11734|Country Rock;Rock|",
