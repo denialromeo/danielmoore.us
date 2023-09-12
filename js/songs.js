@@ -8334,7 +8334,7 @@ const songs = [
 "Salem|King Night|2010|fHiO2HTGUcA|Salem (American band)|S8304|Post-Industrial;Witch House;Electronic;Industrial Music|",
 "Liam Gallagher|Wall of Glass|2017|YdJc7-ZEuT0|Liam Gallagher|S16434|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Wall of Glass",
 "Sade|By Your Side|2000|C8QJmI_V3j4|Sade (band)|S4843|Smooth Soul;R&B;Soul|By Your Side (Sade song)",
-"Pavement|Major Leagues|1999|qWmXoHLF0LE|Pavement (band)|S7910|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|Pavement (band)|",
+"Pavement|Major Leagues|1999|qWmXoHLF0LE|Pavement (band)|S7910|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
 "Idris Muhammad|Could Heaven Ever Be Like This|1977|0skigTyA4NE|Idris Muhammad|S12795|Disco;Funk;Dance;R&B|Alright (Jamiroquai song)",
 "Kylie Minogue|Come into My World|2001|63vqob-MljQ|Kylie Minogue|S11355|Dance-Pop;Dance;Pop|Come into My World",
 "Frank Zappa/The Mothers of Invention|Hungry Freaks, Daddy|1966|0rhRhSx_jbM|The Mothers of Invention|S6448|Psychedelic Rock;Satire;Comedy;Descriptor;Rock|",
