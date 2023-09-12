@@ -3544,7 +3544,7 @@ const songs = [
 "Madonna|Don't Tell Me|2000|gLFWRDsx5AI|Madonna (entertainer)|S3583|Country Pop;Glitch Pop;Country;Electronic;Pop|Don't Tell Me (Madonna song)",
 "Lady Gaga|Telephone|2009|EVBsypHzF3U|Lady Gaga|S4914|Dance-Pop;Electropop;Dance;Electronic;Pop|Telephone (song)",
 "The Stylistics|I'm Stone in Love with You|1972|UVIZ0Fy-hfo|The Stylistics|S807|Philly Soul;Pop Soul;Pop;R&B;Soul|I'm Stone in Love with You",
-"Charli XCX|Track 10|2017|Rj6dwEBmBJA|Charli XCX|S16906|Art Pop;Bubblegum Bass;Glitch Pop;Dance;Electronic;Electronic Dance Music;Pop|1999 (Charli XCX and Troye Sivan song)",
+"Charli XCX|Track 10|2017|Rj6dwEBmBJA|Charli XCX|S16906|Art Pop;Bubblegum Bass;Glitch Pop;Dance;Electronic;Electronic Dance Music;Pop|",
 "The KLF|3 A.M. Eternal|1989|HDsCeC6f0zc|The KLF|S2032|House;Dance;Electronic;Electronic Dance Music|",
 "The Beatles|Michelle|1965|WoBLi5eE-wY|The Beatles|S10112|Folk Pop;Contemporary Folk;Folk;Pop|Michelle (song)",
 "KT Tunstall|Black Horse and the Cherry Tree|2004|PQmDUEv939A|KT Tunstall|S7155|Acoustic Rock;Pop Rock;Singer/Songwriter;Pop;Rock|Black Horse and the Cherry Tree",
