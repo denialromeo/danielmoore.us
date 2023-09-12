@@ -9316,7 +9316,7 @@ const songs = [
 "Grace Jones|La Vie en rose|1977|YEM8TspcCBY|Grace Jones|S12875|Disco;Pop Soul;Dance;Pop;R&B;Soul|La Vie en rose",
 "Public Image Ltd.|Memories|1979|P5VtuJROYc8|Public Image Ltd|S3736|Post-Punk;Rock|",
 "Sheila E.|A Love Bizarre|1985|56gpwl6cohc|Sheila E.|S8387|Contemporary R&B;Synth Funk;Funk;R&B|A Love Bizarre",
-"Patrick Wolf|The Libertine|2005|_Ww9tOALquY|Patrick Wolf|S7861|Chamber Pop;Folktronica;Singer/Songwriter;Baroque Pop;Electronic;Indie Pop;Pop|The Libertine",
+"Patrick Wolf|The Libertine|2005|_Ww9tOALquY|Patrick Wolf|S7861|Chamber Pop;Folktronica;Singer/Songwriter;Baroque Pop;Electronic;Indie Pop;Pop|The Libertine (song)",
 "Beirut|Nantes|2007|R781LDKOVJE|Beirut (band)|S4340|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
 "Sonic Youth|Tunic (Song for Karen)|1990|reSOp1domrU|Sonic Youth|S13135|Alternative Rock;Noise Rock;Rock|",
 "Jay-Jay Johanson|So Tell the Girls That I Am Back in Town|1996|_UJy2-TWKdI|Jay-Jay Johanson|S15571|Trip Hop;Downtempo;Electronic|",
