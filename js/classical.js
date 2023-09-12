@@ -197,7 +197,7 @@ const classical = [
 "Ludwig van Beethoven|Symphony no. 4|1806|Ec6i45d74nk|Ludwig van Beethoven|Symphony No. 4 (Beethoven)",
 "Ludwig van Beethoven|Violin Concertos|1806|0Cg_0jepxow|Ludwig van Beethoven|",
 "Ludwig van Beethoven|Symphony no. 5|1807|fOk8Tm815lE|Ludwig van Beethoven|Symphony No. 5 (Beethoven)",
-"Ludwig van Beethoven|Piano Trio in D major, op. 70, no. 1, “Ghost”|1808|ReZeyI8Z5wk|Ludwig van Beethoven|",
+"Ludwig van Beethoven|Piano Trio in D major, op. 70, no. 1, “Ghost”|1808|_XgK71JuBXA|Ludwig van Beethoven|",
 "Ludwig van Beethoven|Symphony no. 6, “Pastoral”|1808|nXgBtAD5daM|Ludwig van Beethoven|Symphony No. 6 (Beethoven)",
 "Ludwig van Beethoven|Piano Concerto no. 5 in E flat major|1809|qSeg69d3CQ8|Ludwig van Beethoven|Piano Concerto No. 5 (Beethoven)",
 "Fernando Sor|Guitar Works|1810-1830s|I2wTJAcRWg4|Fernando Sor|",
