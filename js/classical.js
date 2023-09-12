@@ -305,7 +305,7 @@ const classical = [
 "Giuseppe Verdi|Nabucco|1842|XttF0vg0MGo|Giuseppe Verdi|",
 "Robert Schumann|Piano Quintet|1842|UQQxpJ7Pn1g|Robert Schumann|Piano Quintet (Schumann)",
 "Mikhail Glinka|Ruslan and Lyudmila|1842|QW3IwWFkpfc|Mikhail Glinka|Ruslan and Lyudmila (opera)",
-"Gaetano Donizetti|Don Pasquale|1843|_RZ-pOOgbL4|Gaetano Donizetti|",
+"Gaetano Donizetti|Don Pasquale|1843|_RZ-pOOgbL4|Gaetano Donizetti|Don Pasquale",
 "Felix Mendelssohn|Violin Concerto in E minor|1844|I03Hs6dwj7E|Felix Mendelssohn|Violin Concerto (Mendelssohn)",
 "Hector Berlioz|Le carnaval romain|1844|j_3YoeLz7Rc|Hector Berlioz|",
 "Frédéric Chopin|Piano Sonata no. 3 in B minor|1844|xGJxmCOPFVM|Frédéric Chopin|Piano Sonata No. 2 (Chopin)",
