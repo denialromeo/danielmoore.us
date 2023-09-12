@@ -9,7 +9,7 @@ permalink: /deep-thoughts
 
 <hr>
 
-During the dot-com bust of the early 2000's, [more than one million jobs were lost](https://www.nytimes.com/2023/01/20/technology/tech-layoffs-millennials-gen-x.html). It took 20 years for the job market to recover to the peak of the dot-com boom in 2021.
+During the dot-com bust of the early 2000's, [more than one million jobs were lost](https://www.nytimes.com/2023/01/20/technology/tech-layoffs-millennials-gen-x.html). It took 20 years, until 2021, for the job market to recover to the peak of the dot-com boom.
 
 Since mid-2022, a new bust is upon us. At least [400,000](https://layoffs.fyi/) jobs have been lost. I suspect it might actually be much higher. My father was laid off with 5% of his company from his job in June 2023 (and effectively forcibly retired), but his layoff doesn't seem to have been publicly announced.
 
