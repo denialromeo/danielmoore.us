@@ -24,7 +24,7 @@ box: contact
 
 Some suggestions --
 
-* Video recommendations for "Random Acclaimed Song" are very welcome.
+* Video recommendations for the "Random Acclaimed" pages are very welcome.
 
 * Thank you notes and compliments are always appreciated!
 
