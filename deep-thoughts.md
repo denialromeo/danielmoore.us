@@ -25,7 +25,7 @@ Given all these developments, some predictions for the future U.S. software job 
 
     (As a side note, this is a good argument for investing in Canadian real estate, or at least for *not* investing in U.S. real estate. Without highly-paid software engineer jobs in San Francisco, nobody will be willing to purchase a house in the Bay Area.)
 
-* 
+* Artificial intelligence is going to gut the software industry. Being able to convert plain-language queries to 
 
 <hr>
 
