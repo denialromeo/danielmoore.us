@@ -178,7 +178,7 @@ const classical = [
 "Ludwig van Beethoven|Piano Sonata in C minor, op. 13, “Pathétique”|1798|91MTUXla-lE|Ludwig van Beethoven|",
 "Joseph Haydn|Mass in D minor, “Nelson”|1798|7EiefC0eesc|Joseph Haydn|",
 "Joseph Haydn|The Creation|1798|EuIs7R2BpvQ|Joseph Haydn|The Creation (Haydn)",
-"John Field|Piano Concertos|1799-1832|KRZuxaKlXkg|John Field|",
+"John Field|Piano Concertos|1799-1832|KRZuxaKlXkg|John Field (composer)|",
 "Joseph Haydn|String Quartets, op. 77|1799|J9G4foIL6zw|Joseph Haydn|",
 "Ludwig van Beethoven|String Quartets, op. 18|1800|de-NLJ0doao|Ludwig van Beethoven|String Quartets, Op. 59 (Beethoven)",
 "Ludwig van Beethoven|Symphony no. 1|1800|EVKdd-gI_aQ|Ludwig van Beethoven|Symphony No. 1 (Beethoven)",
