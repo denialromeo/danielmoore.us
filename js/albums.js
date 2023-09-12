@@ -1428,7 +1428,7 @@ const albums = [
 "Nick Cave feat. The Bad Seeds|From Her to Eternity|1984|PLHdyVcxc37NwRKtMiak-KX9M-e3iUxSIa|A618|From Her to Eternity|Nick Cave|Post-Punk;Rock",
 "Super Furry Animals|Rings Around the World|2001|PLGnOlnQU0VzDm06R0m5qSd-TRPU9uhsPS|A1207|Rings Around the World|Super Furry Animals|Neo-Psychedelia;Progressive Pop;Pop;Psychedelic Rock;Rock",
 "Country Joe & The Fish|Electric Music for the Mind and Body|1967|PLCRX5lnJmahGvVSrb2IhRhAQCGi_dyR4H|A118|Electric Music for the Mind and Body|Country Joe and the Fish|Acid Rock;Yacht Rock;Pop;Pop Rock;Psychedelic Rock;Rock",
-"Ash|1977|1996|PLB910D6CABB87FEB4|A969|1977 (Ash album)|Ash (band)|Britpop;Pop Punk;Alternative Rock;Pop;Pop Rock;Punk Rock;Rock",
+"Ash|1977|1996|PLgpZh22ASkrABKgllMmEySHwk_lhLq4dP|A969|1977 (Ash album)|Ash (band)|Britpop;Pop Punk;Alternative Rock;Pop;Pop Rock;Punk Rock;Rock",
 "Super Furry Animals|Radiator|1997|PLy4u88AKUauJ5VtFVaU2JK15k6wdRI2Ic|A1013|Radiator (album)|Super Furry Animals|Alternative Rock;Neo-Psychedelia;Psychedelic Rock;Rock",
 "Neil Young & Crazy Horse|Live Rust|1979|PLg29U2ShnGaxuHf6LS-FqcdAgINSPZKg1|A2774|Live Rust|Neil Young|Country Rock;Singer/Songwriter;Rock",
 "Astor Piazzolla|Tango: Zero Hour / Nuevo Tango: Hora Zero|1986|PLmZwalznhrkFkTnoA5ecMruISQqsaiEzD|A3128|Tango: Zero Hour|Astor Piazzolla|Tango Nuevo;Hispanic Music;Latin American Music;Regional Music;Tango",
