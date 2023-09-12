@@ -60,6 +60,9 @@ box: random-classical-recording
     if ("artist" in params) {
         pool = pool.filter(s => new RegExp(params.artist, "i").exec(s.split("|")[0]) !== null)
     }
+    if ("song" in params) {
+        pool = pool.filter(s => new RegExp(params.song, "i").exec(s.split("|")[1]) !== null)
+    }
     if ("composition" in params) {
         pool = pool.filter(s => new RegExp(params.composition, "i").exec(s.split("|")[1]) !== null)
     }
