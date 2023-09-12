@@ -5103,7 +5103,7 @@ const songs = [
 "U-Roy|Wear You to the Ball|1970|gh1mZnKff38|U-Roy|S8872|Deejay;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "The xx|Say Something Loving|2017|Rh2uNrIgGf4|The xx|S16504|Dream Pop;Indietronica;Alternative Rock;Electronic;Rock|",
 "Stray Cats|Rock This Town|1981|0RxBHRZpIdg|Stray Cats|S1857|Rockabilly;Rock;Rock & Roll|",
-"Kyu Sakamoto|Ue o muite aruko/Sukiyaki|1961|rbTsG9jrJsU|Kyu Sakamoto|S7160|Kay?kyoku;East Asian Music;Japanese Music;Regional Music|Sukiyaki (song)",
+"Kyu Sakamoto|Ue o Muite Arukō|1961|rbTsG9jrJsU|Kyu Sakamoto|S7160|Kay?kyoku;East Asian Music;Japanese Music;Regional Music|Sukiyaki (song)",
 "The Beatles|This Boy|1963|VhuU8KDLdO4|The Beatles|S10122|Merseybeat;Beat Music;Pop;Pop Rock;Rock|This Boy",
 "Lauryn Hill|Lost Ones|1998|NdNFFC0p7N4|Lauryn Hill|S7191|Conscious Hip Hop;Hip Hop|Lost Ones (Lauryn Hill song)",
 "Red Foley|Chattanoogie Shoe Shine Boy|1950|u6QaW0a7DeM|Red Foley|S8118|Country Boogie;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|Chattanoogie Shoe Shine Boy",
