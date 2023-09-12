@@ -26,13 +26,13 @@ box: random-classical-recording
             <a target="_self" href="?artist=tchaikovsky">Compositions by Tchaikovsky.</a>
         </li>
         <li>
-            <a target="_self" href="?song=requiem&artist=mozart"><i>Requiem</i> by Mozart.</a>
+            <a target="_self" href="?composition=requiem&artist=mozart"><i>Requiem</i> by Mozart.</a>
         </li>
         <li>
             <a target="_self" href="?year=^17..">Compositions from the 1700's.</a>
         </li>
     </ul>
-   <p>Also note that each artist's name is a link to their Wikipedia page. Where available, composition names also link to Wikipedia.</p>
+   <p>Note that each artist's name is a link to their Wikipedia page. Where available, composition names also link to Wikipedia.</p>
 </div>
 
 <script src="/js/URI.js"></script>
@@ -60,8 +60,8 @@ box: random-classical-recording
     if ("artist" in params) {
         pool = pool.filter(s => new RegExp(params.artist, "i").exec(s.split("|")[0]) !== null)
     }
-    if ("song" in params) {
-        pool = pool.filter(s => new RegExp(params.song, "i").exec(s.split("|")[1]) !== null)
+    if ("composition" in params) {
+        pool = pool.filter(s => new RegExp(params.composition, "i").exec(s.split("|")[1]) !== null)
     }
     if ("year" in params) {
         pool = pool.filter(s => new RegExp(params.year, "i").exec(s.split("|")[2]) !== null)
