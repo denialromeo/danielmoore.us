@@ -260,7 +260,7 @@ const classical = [
 "Frédéric Chopin|Piano Concertos|1829-1830|2bFo65szAP0|Frédéric Chopin|",
 "Frédéric Chopin|Waltzes|1829-1847|tiTu6g2TqC8|Frédéric Chopin|",
 "Felix Mendelssohn|String Quartets nos. 1 &amp; 2|1827-1829|r0F6tN6IMiI|Felix Mendelssohn|",
-"Gioachino Rossini|Guillaume Tell|1829|Rg5Pc7LDwYg|Gioachino Rossini|",
+"Gioachino Rossini|Guillaume Tell|1829|Rg5Pc7LDwYg|Gioachino Rossini|William Tell (opera)",
 "Hector Berlioz|Symphonie fantastique|1830|5HgqPpjIH5c|Hector Berlioz|",
 "Gaetano Donizetti|Anna Bolena|1830|CXyN1qY2RTw|Gaetano Donizetti|Anna Bolena",
 "Felix Mendelssohn|The Hebrides, “Fingal’s Cave”|1830|zcogD-hHEYs|Felix Mendelssohn|The Hebrides (overture)",
