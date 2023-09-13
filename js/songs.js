@@ -70,7 +70,7 @@ const songs = [
 "Kendrick Lamar|Alright|2015|Z-48u_uWMHY|Kendrick Lamar|S9804|Conscious Hip Hop;West Coast Hip Hop;Hip Hop|Alright (Kendrick Lamar song)",
 "The Animals|House of the Rising Sun|1964|4-43lLKaqBQ|The Animals|S1025|British Rhythm & Blues;R&B;Rhythm & Blues;Rock|The House of the Rising Sun",
 "Lou Reed|Walk on the Wild Side|1972|yOoXjYppyMM?start=3129|Lou Reed|S781|Art Rock;Glam Rock;Jazz Pop;Pop;Rock|Walk on the Wild Side (Lou Reed song)",
-"Eagles|Hotel California|1976|BciS5krYL80|Eagles (band)|S632|Country Rock;Pop Rock;Pop;Rock|",
+"Eagles|Hotel California|1976|09839DpTctU|Eagles (band)|S632|Country Rock;Pop Rock;Pop;Rock|",
 "Jay-Z|99 Problems|2003|31GjRnXfUjo|Jay-Z|S2443|East Coast Hip Hop;Rap Rock;Alternative Rock;Hip Hop;Rock|",
 "Robyn|Dancing on My Own|2010|CcNo07Xp8aQ|Robyn|S4920|Dance-Pop;Electropop;Synthpop;Dance;Electronic;Pop|Dancing On My Own",
 "Beyoncé|Formation|2016|WDZJPJV__bQ|Beyoncé|S16036|Pop Rap;Hip Hop|Formation (song)",
