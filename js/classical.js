@@ -824,7 +824,7 @@ const classical = [
 "Richard Strauss|Capriccio|1941|nnDcVSDnSU4|Richard Strauss|",
 "Michael Tippett|A Child of Our Time|1941|8dypyQY4MW4|Michael Tippett|A Child of Our Time",
 "Alberto Ginastera|Estancia|1941|8JqLOHzg1DQ|Alberto Ginastera|",
-"Dmitri Shostakovich|Symphony no. 7 “Leningrad”|1941|kwqZRhPXElQ|Dmitri Shostakovich|Symphony No. 7 (Shostakovich)",
+"Dmitri Shostakovich|Symphony no. 7 “Leningrad”|1941|HON-9Z1Greo|Dmitri Shostakovich|Symphony No. 7 (Shostakovich)",
 "Maurice Duruflé|Prélude et fugue sur le nom d’Alain|1942|Or147RQSBOM|Maurice Duruflé|",
 "Aaron Copland|Rodeo|1942|du4DrdGp9vM|Aaron Copland|Rodeo (ballet)",
 "Gerald Finzi|Let Us Garlands Bring|1942|ASSoVAFsx4M|Gerald Finzi|",
