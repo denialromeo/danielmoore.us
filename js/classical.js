@@ -971,7 +971,7 @@ const classical = [
 "Oliver Knussen|Where the Wild Things Are|1984|lDCsKAvjWn0|Oliver Knussen|Where the Wild Things Are",
 "Olivier Messiaen|Livre du Saint Sacrement|1984|RJ_x_8o80TI|Olivier Messiaen|",
 "Hans Werner Henze|Symphony no. 7|1984|QmRpoA74BME|Hans Werner Henze|",
-"Helmut Lachenmann|Mouvement (-vor der Erstarrun)|1984|zRLBdHR2L7c|Helmut Lachenmann|",
+"Helmut Lachenmann|Mouvement (-vor der Erstarrung)|1984|zRLBdHR2L7c|Helmut Lachenmann|Mouvement (– vor der Erstarrung)",
 "John Adams|Harmonielehre|1985|a74Cg0jdR0c|John Adams|",
 "György Ligeti|Études|1985-2004|XHhZ2TzHlow|György Ligeti|",
 "Witold Lutoslawski|Chain 2|1985|LHlD62R3E80|Witold Lutosławski|",
