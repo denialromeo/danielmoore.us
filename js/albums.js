@@ -774,7 +774,7 @@ const albums = [
 "The KLF|The White Room|1991|PLtki-dVaaJTVILkNtlTxLp9a4U8P5UbMT|A822|The White Room (KLF album)|The KLF|Acid House;Dance;Electronic;Electronic Dance Music;House",
 "The 13th Floor Elevators|The Psychedelic Sounds of the 13th Floor Elevators|1966|PLQRJ1O1QIxl_a4AWzBLR7HmqK-W3CPLHH|A83|The Psychedelic Sounds of the 13th Floor Elevators|The 13th Floor Elevators|Acid Rock;Psychedelic Rock;Rock",
 "Depeche Mode|Music for the Masses|1987|PLI4YlFgci4iJQ4L_GjyEAtiiq9Aw87zsH|A1520|Music for the Masses|Depeche Mode|Synthpop;Electronic;Pop",
-"Tina Turner|Private Dancer|1984|PLyhEF320VWxHyFGVmei50KTnddbi_F_Dc|A608|Private Dancer|Tina Turner|Pop Rock;Soul;Pop;R&B;Rock",
+"Tina Turner|Private Dancer|1984|PLDm575NYoAWdcUQB-wltBsynIN11eV9UR|A608|Private Dancer|Tina Turner|Pop Rock;Soul;Pop;R&B;Rock",
 "Car Seat Headrest|Teens of Denial|2016|PLMWjHTLmVUh-D93zRO9mTRpov6qdJrgvv|A5705|Teens of Denial|Car Seat Headrest|Indie Rock;Alternative Rock;Rock",
 "SOPHIE|Oil of Every Pearl's Un-Insides|2018|PLCw974C9OhB9JLxMe0cysRIRkN0NG0dZx|A6028|Oil of Every Pearl's Un-Insides|Sophie (musician)|Bubblegum Bass;Deconstructed Club;Dance;Electronic;Electronic Dance Music;Experimental;Industrial;Industrial Music",
 "Sly and the Family Stone|Fresh|1973|PL1RRNXldMeREyIQk1AIAvBf-Fmjj8GkUb|A292|Fresh (Sly and the Family Stone album)|Sly and the Family Stone|Funk;Psychedelic Soul;R&B;Soul",
