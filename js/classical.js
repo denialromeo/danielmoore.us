@@ -655,7 +655,7 @@ const classical = [
 "Percy Grainger|In a Nutshell|1916|nZxMHMx4X1o|Percy Grainger|",
 "Ottorino Respighi|Roman Trilogy|1916-1928|dWpQkNxGoGE|Ottorino Respighi|",
 "Carl Nielsen|Symphony no. 4, “Inextinguishable”|1916|niF6Y7ZNqys|Carl Nielsen|Symphony No. 4 (Nielsen)",
-"Richard Strauss|Ariadne auf Naxos|1916|VugbX5UgrLY|Richard Strauss|Ariadne",
+"Richard Strauss|Ariadne auf Naxos|1916|VugbX5UgrLY|Richard Strauss|Ariadne auf Naxos",
 "Charles Ives|Symphony no. 4|1916|aMT_EGXQwyk|Charles Ives|Symphony No. 3 (Ives)",
 "Gustav Holst|The Planets|1917|Isic2Z2e2xs|Gustav Holst|",
 "Lili Boulanger|Psalm 130, “Du fond de l’abîme”|1917|gYj3nP6l6DA|Lili Boulanger|",
