@@ -10725,7 +10725,7 @@ const songs = [
 "R. Kelly|Your Body's Callin'|1993|mgmme46OYAY|R. Kelly|S8052|Contemporary R&B;R&B|Your Body's Callin'",
 "The Diodes|Tired of Waking Up Tired|1978|KjcK3EmNKcA|The Diodes|S6081|New Wave;Power Pop;Punk Rock;Pop;Pop Rock;Rock|",
 "Triángulo de Amor Bizarro|Estrellas místicas|2013|PM6wtFWBqUE|Triángulo de Amor Bizarro|S9540|Noise Pop;Alternative Rock;Rock|",
-"Pet Shop Boys|Love Etc.|2009|InBiaRBUjUs|Pet Shop Boys|S4821|Dance-Pop;Synthpop;Dance;Electronic;Pop|",
+"Pet Shop Boys|Love Etc.|2009|InBiaRBUjUs|Pet Shop Boys|S4821|Dance-Pop;Synthpop;Dance;Electronic;Pop|Love Etc.",
 "Converge|Aimless Arrow|2012|CrcY9I-BbjM|Converge (band)|S5865|Metalcore;Post-Hardcore;Hardcore Punk;Metal;Punk Rock;Rock|",
 "La Costa Brava|Adoro a las pijas de mi ciudad|2004|-d2ly6H79fY|https://es.wikipedia.org/wiki/La_Costa_Brava|S7166|Indie Pop;Pop|",
 "The Everly Brothers|When Will I Be Loved|1960|VmJg7PpAqxg|The Everly Brothers|S1154|Close Harmony;Rock & Roll;American Folk Music;Country;Folk;Regional Music;Rock;Traditional Country;Traditional Folk Music|When Will I Be Loved (song)",
