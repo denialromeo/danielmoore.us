@@ -4317,7 +4317,7 @@ const songs = [
 "Trio|Da da da ich lieb dich nicht du liebst mich nicht aha aha aha|1982|lNYcviXK4rg|Trio (band)|S8849|Minimal Wave;Neue Deutsche Welle;Electronic;Rock|",
 "Tim Buckley|Buzzin' Fly|1969|n7SUqKJb7tk|Tim Buckley|S3253|Psychedelic Folk;Singer/Songwriter;Contemporary Folk;Folk|",
 "The Everly Brothers|Bird Dog|1958|6c3M2jGkzko|The Everly Brothers|S1226|Close Harmony;Pop;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|Bird Dog (song)",
-"Thompson Twins|Hold Me Now|1983|CZ9nPidefaQ|Thompson Twins|S3900|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock|Hold Me Now (Thompson Twins song)",
+"Thompson Twins|Hold Me Now|1983|TvzVTRK1nOY|Thompson Twins|S3900|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock|Hold Me Now (Thompson Twins song)",
 "Garth Brooks|Friends in Low Places|1990|t4X3ZRU5Ghg|Garth Brooks|S2016|Contemporary Country;Country|Friends in Low Places",
 "Linkin Park|In the End|2000|eVTXPUF4Oz4|Linkin Park|S7270|Nu Metal;Rap Rock;Alternative Metal;Alternative Rock;Metal;Rock|In the End",
 "Radiohead|You and Whose Army?|2001|c8ilZUx1LlY|Radiohead|S8077|Art Rock;Experimental Rock;Rock|",
