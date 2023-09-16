@@ -1,9 +1,8 @@
 ---
-title: Random Classical Recording
-description: Listen to 10,272 top-rated songs!
+title: Random Classical Composition
 layout: post
 category: fun
-permalink: random-classical-recording
+permalink: random-classical-composition
 author: Daniel Moore
 box: random-classical-recording
 ---
@@ -14,13 +13,13 @@ box: random-classical-recording
 <iframe id="song" frameborder="0" allowfullscreen></iframe>
 ' %}
 
-<p id="description">In 2007, Matthew Rye compiled <a href="https://www.amazon.com/1001-Classical-Recordings-Must-Before/dp/0785835822"><i>1001 Classical Recordings You Must Hear Before You Die</i></a>. This&nbsp;recording was randomly chosen from his book.</p>
+<p id="description">In 2007, Matthew Rye compiled <a href="https://www.amazon.com/1001-Classical-Recordings-Must-Before/dp/0785835822"><i>1001 Classical Recordings You Must Hear Before You Die</i></a>. This&nbsp;composition was randomly chosen from his book.</p>
 
 <p id="next-song"></p>
 
 <a href="javascript:;" id="dropdown" target="_self">Advanced Usage Instructions</a>
 <div id="instructions" style="display:none;">
-    <p>You can filter the recording selection! Examples &ndash;</p>
+    <p>You can filter the composition selection! Examples &ndash;</p>
     <ul>
         <li>
             <a target="_self" href="?artist=tchaikovsky">Compositions by Tchaikovsky.</a>
