@@ -4419,7 +4419,7 @@ const songs = [
 "The Beatles|I'm So Tired|1968|7cqHtGb9WYM|The Beatles|S2528|Pop Rock;Pop;Rock|I'm So Tired",
 "Father John Misty|Bored in the USA|2014|iNLYkFz8-VM|Josh Tillman|S9647|Chamber Pop;Piano Rock;Singer/Songwriter;Baroque Pop;Indie Pop;Pop;Pop Rock;Rock|",
 "Trio Matamoros|Lágrimas negras|1932|qeEqPWeWTAU|Trio Matamoros|S8850|Bolero son;Bolero;Cuban Music;Hispanic Music;Latin American Music;Regional Music;Son Cubano|Lágrimas negras (song)",
-"Patrick Wolf|The Magic Position|2007|SFI9s6INJPQ|Patrick Wolf|S4321|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|The Magic Position",
+"Patrick Wolf|The Magic Position|2007|SFI9s6INJPQ|Patrick Wolf|S4321|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|The Magic Position (song)",
 "Travis Scott & Young Thug feat. Quavo|Pick Up the Phone|2016|VAybGW3DI9Q|Travis Scott (rapper)|S16208|Pop Rap;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Pick Up the Phone (Young Thug and Travis Scott song)",
 "Led Zeppelin|Going to California|1971|PDIz4talyQk|Led Zeppelin|S7204|Contemporary Folk;Folk|Going to California",
 "Michael Jackson|Ben|1972|j_5501OzO4c|Michael Jackson|S7532|Film Soundtrack;Pop Soul;Descriptor;Pop;R&B;Soul;Soundtracks|",
