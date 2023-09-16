@@ -316,7 +316,7 @@ const classical = [
 "Robert Schumann|Piano Trios|1847-1851|FICfmSq9dWE|Robert Schumann|Piano Trio (Clara Schumann)",
 "Giuseppe Verdi|Macbeth|1947-1865|MI8V78mPsMA|Giuseppe Verdi|",
 "Charles-Valentin Alkan|Grande sonate “Les quatres âges”|1848|EUUgoJqVSFY|Charles-Valentin Alkan|",
-"Johann Strauss the Elder|Radetzky March|1848|eab_eFtTKFs|Johann Strauss I|",
+"Johann Strauss the Elder|Radetzky March|1848|eab_eFtTKFs|Johann Strauss I|Radetzky March",
 "Franz Liszt|Hungarian Rhapsodies|1848-1885|xRKT8BuMmqY|Franz Liszt|Hungarian Rhapsody No. 2",
 "Richard Wagner|Lohengrin|1848|lqk4bcnBqls|Richard Wagner|",
 "Robert Schumann|Concertstück for Four Horns|1849|mpfJ2ghmAsI|Robert Schumann|",
