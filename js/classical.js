@@ -188,7 +188,7 @@ const classical = [
 "Ludwig van Beethoven|Symphony no. 2|1802|bEiYmeeV6sI|Ludwig van Beethoven|Symphony No. 2 (Beethoven)",
 "Ludwig van Beethoven|Piano Concertos no. 3|1803|6zocO3Uoa_Y|Ludwig van Beethoven|Piano Concerto No. 5 (Beethoven)",
 "Ludwig van Beethoven|Symphony no. 3, “Eroica”|1803|nbGV-MVfgec|Ludwig van Beethoven|Symphony No. 3 (Beethoven)",
-"Ludwig van Beethoven|Violin Sonata in A major, op. 47, “Kreutzer”|1803|COGcCBJAC6I|Ludwig van Beethoven|",
+"Ludwig van Beethoven|Violin Sonata in A major, op. 47, “Kreutzer”|1803|COGcCBJAC6I|Ludwig van Beethoven|Violin Sonata No. 9 (Beethoven)",
 "Johann Nepomuk Hummel|Trumpet Concerto|1803|902St2UAmfA|Johann Nepomuk Hummel|",
 "Ludwig van Beethoven|Piano Sonata in F minor, op. 57, “Appassionata”|1805|QImFm4Y_QPM|Ludwig van Beethoven|",
 "Ludwig van Beethoven|Triple Concerto|1805|pkXGtE8_cig|Ludwig van Beethoven|",
