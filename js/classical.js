@@ -980,7 +980,7 @@ const classical = [
 "Peter Sculthorpe|Earth Cry|1986|FWuLo3wyWFQ|Peter Sculthorpe|",
 "Philip Glass|Violin Concerto|1987|5lGNtPXcA04|Philip Glass|Violin Concerto No. 1 (Glass)",
 "John Adams|Nixon in China|1987|G72JjpMEdKs|John Adams|Nixon in China",
-"John Tavener|The Protecting Veil|1987|xT0MF4XNjkA|John Tavener|",
+"John Tavener|The Protecting Veil|1987|xT0MF4XNjkA|John Tavener|The Protecting Veil",
 "Louis Andriessen|De Materie|1988|is_70pNy2l4|Louis Andriessen|",
 "Ross Edwards|Maninyas|1988|Kip8rQX0_BY|Ross Edwards|",
 "Steve Reich|Different Trains|1988|qcGqVynCPaw|Steve Reich|",
