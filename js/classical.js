@@ -110,7 +110,7 @@ const classical = [
 "Johann Sebastian Bach|Goldberg Variations|1741|15ezpwCHtJs|Johann Sebastian Bach|Goldberg Variations",
 "George Frideric Handel|Messiah|1742|JH3T6YwwU9s|George Frideric Handel|",
 "Carl Philipp Emanuel Bach|Keyboard Sonatas|1742-1744|B1vzh4lledU|Carl Philipp Emanuel Bach|",
-"Johann Sebastian Bach|A Musical Offering|1747|yhMAq2PhRaQ|Johann Sebastian Bach|List of compositions by Johann Sebastian Bach",
+"Johann Sebastian Bach|The Musical Offering|1747|yhMAq2PhRaQ|Johann Sebastian Bach|The Musical Offering",
 "George Frideric Handel|Judas Maccabaeus|1747|PeIhh9fQQjc|George Frideric Handel|Judas Maccabaeus (Handel)",
 "Johann Sebastian Bach|Mass in B minor|1749|3FLbiDrn8IE|Johann Sebastian Bach|",
 "George Frideric Handel|Music for the Royal Fireworks|1749|fNqJ8mED1VE|George Frideric Handel|Music for the Royal Fireworks",
