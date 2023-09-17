@@ -162,7 +162,7 @@ const classical = [
 "Wolfgang Amadeus Mozart|Clarinet Quintet|1789|xTNbclgU3h4|Wolfgang Amadeus Mozart|",
 "Joseph Haydn|String Quartets, op. 64|1790|rvwPaNg0IGE|Joseph Haydn|",
 "Wolfgang Amadeus Mozart|Così fan tutte|1790|Lf904C53-iA|Wolfgang Amadeus Mozart|",
-"Wolfgang Amadeus Mozart|Ave verum corpus|1791|gDKCK_6WLTg|Wolfgang Amadeus Mozart|",
+"Wolfgang Amadeus Mozart|Ave verum corpus|1791|gDKCK_6WLTg|Wolfgang Amadeus Mozart|Ave verum corpus (Mozart)",
 "Wolfgang Amadeus Mozart|The Magic Flute|1791|Vwub-9dZLFU|Wolfgang Amadeus Mozart|",
 "Joseph Haydn|Symphony no. 94, “Surprise”|1791|tF5kr251BRs|Joseph Haydn|",
 "Wolfgang Amadeus Mozart|La clemenza di Tito|1791|c0-1RWLrz4o|Wolfgang Amadeus Mozart|La clemenza di Tito",
