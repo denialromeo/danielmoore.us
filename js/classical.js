@@ -545,7 +545,7 @@ const classical = [
 "Richard Strauss|Symphonia domestica|1903|zvymcR85HPY|Richard Strauss|Symphonia Domestica",
 "Alexander Zemlinsky|Die Seejungfrau|1903|b53ihPZaMRQ|Alexander von Zemlinsky|",
 "Arnold Schoenberg|Pelleas und Melisande|1903|wis4ku1XBNg|Arnold Schoenberg|",
-"Alexander Glazunov|Violin Concerto in A minor|1904|jq8oxIgyp8E|Alexander Glazunov|Violin concerto",
+"Alexander Glazunov|Violin Concerto in A minor|1904|jq8oxIgyp8E|Alexander Glazunov|Violin Concerto (Glazunov)",
 "Leos Janácek|Jenufa|1904|DFbRCiChA1g|Leoš Janáček|",
 "Anatoly Lyadov|Fairytales|1904-1909|FCIGLb0eiEY|Anatoly Lyadov|",
 "Ferruccio Busoni|Piano Concerto|1904|ohPzurDZzZ4|Ferruccio Busoni|",
