@@ -84,6 +84,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*CultureShock! Philippines*](https://www.goodreads.com/notes/19478316-cultureshock-philippines/71655209-daniel-moore) by [Alfredo Roces](https://books.google.com/books/about/CultureShock_Philippines.html?id=dYeyDQAAQBAJ&source=kp_author_description#about_author) (Retiring to Manila sounds nice.)
 * [*How to Cook Everything: The Basics*](https://www.goodreads.com/notes/18897533-how-to-cook-everything/71655209-daniel-moore?ref=abp) by [Mark Bittman](https://markbittman.com/books) (Includes the steps most authors skip.)
+* [*How to Eat*](https://www.goodreads.com/notes/48746181-how-to-eat/71655209-daniel-moore) by [Mark Bittman](https://markbittman.com/books) (Healthy living is a choice you make every day.)
 * [*Lectures on Physics*](https://www.feynmanlectures.caltech.edu/) by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (Still the gold standard.)
 * [*Logical Chess*](https://archive.org/details/logicalchess_movebymove) by [Irving Chenev](https://en.wikipedia.org/wiki/Irving_Chernev) (Teaches the consequences of small changes.)
 * [*Poker Tells*](https://www.goodreads.com/notes/18951325-caro-s-book-of-poker-tells/71655209-daniel-moore) by [Mike Caro](https://en.wikipedia.org/wiki/Mike_Caro) (Reading body language for fun and profit. Comes with [videos](https://www.youtube.com/watch?v=NeyglBBYqtE&list=PL1X3qTzT40VnPVq8022uxeNZTe7bUVx94&index=1).)
