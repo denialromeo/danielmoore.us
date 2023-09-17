@@ -401,7 +401,7 @@ const classical = [
 "Johannes Brahms|Symphony no. 1|1876|FXGQ0Y45yQk|Johannes Brahms|Symphony No. 1 (Brahms)",
 "Alexander Borodin|Symphony no. 2|1876|FmUsL6biVro|Alexander Borodin|Symphony No. 2 (Borodin)",
 "Gabriel Fauré|Violin Sonata no. 1|1876|xIQwc-RxK8I|Gabriel Fauré|Violin Sonata No. 1 (Fauré)",
-"Amilcare Ponchielli|La Gioconda|1876|dyNY7hD7IGE|Amilcare Ponchielli|",
+"Amilcare Ponchielli|La Gioconda|1876|dyNY7hD7IGE|Amilcare Ponchielli|La Gioconda (opera)",
 "Bedrich Smetana|String Quartet no. 1, “From My Life”|1876|ZWW0dXCpTuA|Bedřich Smetana|",
 "Pyotr Ilyich Tchaikovsky|Rococo Variations|1876|_591VkMY4iQ|Pyotr Ilyich Tchaikovsky|",
 "Pyotr Ilyich Tchaikovsky|The Seasons|1876|ryxAe4B_3Pg|Pyotr Ilyich Tchaikovsky|",
