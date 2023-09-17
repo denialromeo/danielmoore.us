@@ -698,7 +698,7 @@ const classical = [
 "Alban Berg|Wozzeck|1922|jVmWimEX1gw|Alban Berg|Wozzeck",
 "Béla Bartók|Dance Suite|1923|nI1XE5ns3H8|Béla Bartók|Dance Suite (Bartók)",
 "Joseph Canteloube|Chants d’Auvergne|1923-1954|-hLj8ws2syQ|Joseph Canteloube|",
-"Leos Janácek|String Quartets nos. 1 &amp; 2|1923-1928|y5wvFZDj37k|Leoš Janáček|",
+"Leos Janácek|String Quartets nos. 1 &amp; 2|1923-1928|y5wvFZDj37k|Leoš Janáček|String Quartet No. 1 (Janáček)",
 "Arthur Honegger|Three Symphonic Movements|1923-1933|R88o18b7Pk8|Arthur Honegger|",
 "Darius Milhaud|La création du monde|1923|nWpAQ6AWMDA|Darius Milhaud|La création du monde",
 "Leos Janácek|The Cunning Little Vixen|1923|a79nSbmy69U|Leoš Janáček|",
