@@ -613,7 +613,7 @@ const classical = [
 "Sergey Taneyev|Piano Quintet|1911|YfU3iOKlH0w|Sergei Taneyev|",
 "Sergei Rachmaninoff|Études-tableaux|1911|AtObD71L8Ek|Sergei Rachmaninoff|Études-Tableaux, Op. 33",
 "Carl Nielsen|Symphony no. 3|1911|40-1Ww-uXJk|Carl Nielsen|Symphony No. 3 (Nielsen)",
-"Reinhold Glière|Symphony no. 3 “Ilya Muromets”|1911|WRpEt9FvTbU|Reinhold Glière|",
+"Reinhold Glière|Symphony no. 3 “Ilya Muromets”|1911|WRpEt9FvTbU|Reinhold Glière|Symphony No. 3 (Glière)",
 "Arnold Schoenberg|Gurrelieder|1911|xPXuHs3Ksow|Arnold Schoenberg|",
 "Igor Stravinsky|Petrushka|1911|esD90diWZds|Igor Stravinsky|Petrushka (ballet)",
 "Sergei Prokofiev|Piano Concerto no. 1|1912|JqCwQ9clHec|Sergei Prokofiev|Piano Concerto No. 3 (Prokofiev)",
