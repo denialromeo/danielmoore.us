@@ -393,7 +393,7 @@ const classical = [
 "Anton Bruckner|Symphony no. 4, “Romantic”|1874-1888|o0g82i784bw|Anton Bruckner|Symphony No. 4 (Bruckner)",
 "Modest Mussorgsky|Pictures at an Exhibition|1874-1922|kkC3chi_ysw|Modest Mussorgsky|Pictures at an Exhibition",
 "Richard Wagner|Der Ring des Nibelungen|1874|1PBhlPeTJ_g?start=713|Richard Wagner|",
-"Hugo Wolf|Lieder|1875-1897|d1uAcRPNSto|Hugo Wolf|",
+"Hugo Wolf|Lieder|1875-1897|FwjVBdoVaoY|Hugo Wolf|",
 "Edvard Grieg|Peer Gynt|1875|dyM2AnA96yE|Edvard Grieg|Peer Gynt (Grieg)",
 "Pyotr Ilyich Tchaikovsky|Piano Concerto no. 1|1875|hNfpMRSCFPE|Pyotr Ilyich Tchaikovsky|Piano Concerto No. 1 (Tchaikovsky)",
 "Anton Bruckner|Symphony no. 5|1875-1878|iOTzCgMxy_o|Anton Bruckner|Symphony No. 7 (Bruckner)",
