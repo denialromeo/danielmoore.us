@@ -810,7 +810,7 @@ const classical = [
 "Michael Tippett|Concerto for Double String Orchestra|1939|_5ihd3NYK3E|Michael Tippett|Concerto for Double String Orchestra (Tippett)",
 "Sergei Prokofiev|Alexander Nevsky|1939|KGqVogrLEE4|Sergei Prokofiev|Alexander Nevsky (Prokofiev)",
 "William Walton|Violin Concerto|1939-1943|fLVTTn_jPKk|William Walton|Violin Concerto (Walton)",
-"Samuel Barber|Violin Concerto|1940|MdRD6gEa9CY|Samuel Barber|",
+"Samuel Barber|Violin Concerto|1940|MdRD6gEa9CY|Samuel Barber|Violin Concerto (Barber)",
 "Benjamin Britten|Sinfonia da requiem|1940|IZAgYQSTTJA|Benjamin Britten|Sinfonia da Requiem",
 "Dmitri Shostakovich|Piano Quintet|1940|UEPiqK-jqTc|Dmitri Shostakovich|Piano Quintet (Shostakovich)",
 "Sergei Prokofiev|Piano Sonata no. 6|1940|p9GzBjB-YpA|Sergei Prokofiev|Piano Sonata No. 6 (Prokofiev)",
