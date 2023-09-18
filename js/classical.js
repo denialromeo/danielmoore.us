@@ -827,7 +827,7 @@ const classical = [
 "Dmitri Shostakovich|Symphony no. 7 “Leningrad”|1941|HON-9Z1Greo|Dmitri Shostakovich|Symphony No. 7 (Shostakovich)",
 "Maurice Duruflé|Prélude et fugue sur le nom d’Alain|1942|Or147RQSBOM|Maurice Duruflé|",
 "Aaron Copland|Rodeo|1942|du4DrdGp9vM|Aaron Copland|Rodeo (ballet)",
-"Gerald Finzi|Let Us Garlands Bring|1942|ASSoVAFsx4M|Gerald Finzi|",
+"Gerald Finzi|Let Us Garlands Bring|1942|ASSoVAFsx4M|Gerald Finzi|Let Us Garlands Bring (Finzi)",
 "Sergei Prokofiev|Piano Sonata no. 7|1942|h21KSLqj7HA|Sergei Prokofiev|Piano Sonata No. 7 (Prokofiev)",
 "Arnold Schoenberg|Piano Concerto|1942|977xqcl8DnE|Arnold Schoenberg|",
 "Richard Strauss|Horn Concerto no. 2|1942|wCPEZqIGnmA|Richard Strauss|Horn Concerto No. 2 (Strauss)",
