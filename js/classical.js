@@ -351,7 +351,7 @@ const classical = [
 "Johannes Brahms|Piano Quartets nos. 1 &amp; 3|1861-1874|7BifP-9elgE|Johannes Brahms|",
 "Edvard Grieg|Songs|1861-1905|R_5AwR27wj4|Edvard Grieg|",
 "Gabriel Fauré|Mélodies|1861-1921|RRcfSNmm0c8|Gabriel Fauré|Trois mélodies, Op. 7 (Fauré)",
-"Franz Liszt|A Faust Symphony|1861|3ZUQ7yZTFco|Franz Liszt|Faust",
+"Franz Liszt|A Faust Symphony|1861|3ZUQ7yZTFco|Franz Liszt|Faust Symphony",
 "Henri Vieuxtemps|Violin Concerto no. 5|1861|jyT-Jqwhvio|Henri Vieuxtemps|Violin Concerto No. 5 (Vieuxtemps)",
 "Giuseppe Verdi|La forza del destino|1862-1869|drbHCt0lwzo|Giuseppe Verdi|La forza del destino",
 "Henryk Wieniawski|Violin Concerto no. 2|1862|T7KNd6W5OXo|Henryk Wieniawski|",
