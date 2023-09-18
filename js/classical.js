@@ -466,7 +466,7 @@ const classical = [
 "Pyotr Ilyich Tchaikovsky|Symphony no. 5|1888|JUk0WZVCnk4|Pyotr Ilyich Tchaikovsky|Symphony No. 5 (Tchaikovsky)",
 "Nicolai Rimsky-Korsakov|Russian Easter Festival Overture|1888|z4e8CvxV4Ho|Nikolai Rimsky-Korsakov|",
 "Erik Satie|Gymnopédies &amp; Gnossiennes|1888-1897|5pyhBJzuixM|Erik Satie|",
-"Alexander Scriabin|Preludes|1888-1914|ry5L3_0XVuk|Alexander Scriabin|",
+"Alexander Scriabin|Preludes|1888-1914|ry5L3_0XVuk|Alexander Scriabin|24 Preludes, Op. 11 (Scriabin)",
 "Antonín Dvorák|Symphony no. 8|1889|QXAv-NGppFw|Antonín Dvořák|Symphony No. 8 (Dvořák)",
 "Hugo Wolf|Goethe Lieder|1889|c8eALT6ULpc|Hugo Wolf|",
 "Pyotr Ilyich Tchaikovsky|The Sleeping Beauty|1889|2Sb8WCPjPDs|Pyotr Ilyich Tchaikovsky|",
