@@ -405,7 +405,7 @@ const classical = [
 "Bedrich Smetana|String Quartet no. 1, “From My Life”|1876|ZWW0dXCpTuA|Bedřich Smetana|",
 "Pyotr Ilyich Tchaikovsky|Rococo Variations|1876|_591VkMY4iQ|Pyotr Ilyich Tchaikovsky|",
 "Pyotr Ilyich Tchaikovsky|The Seasons|1876|ryxAe4B_3Pg|Pyotr Ilyich Tchaikovsky|",
-"Pyotr Ilyich Tchaikovsky|Swan Lake|1876|9cNQFB0TDfY|Pyotr Ilyich Tchaikovsky|Swan Lake",
+"Pyotr Ilyich Tchaikovsky|Swan Lake|1876|9rJoB7y6Ncs|Pyotr Ilyich Tchaikovsky|Swan Lake",
 "Johannes Brahms|Symphony no. 2|1877|6nKd-ia7_Lc|Johannes Brahms|Symphony No. 2 (Brahms)",
 "Camille Saint-Saëns|Samson et Dalila|1877|vjRiLKSPbqc|Camille Saint-Saëns|",
 "Johannes Brahms|Violin Concerto|1878|UFl9xuYP5T8|Johannes Brahms|Violin Concerto (Brahms)",
