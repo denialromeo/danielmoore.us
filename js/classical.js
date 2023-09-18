@@ -257,7 +257,7 @@ const classical = [
 "Franz Schubert|Piano Sonata in A major, D959|1828|olmgg0y2o9A|Franz Schubert|",
 "Franz Schubert|Piano Sonata in B flat major, D960|1828|oCn0PjPHdrc|Franz Schubert|",
 "Frédéric Chopin|Nocturnes|1829-1847|-gDinVAmtA0|Frédéric Chopin|Nocturnes (Chopin)",
-"Frédéric Chopin|Piano Concertos|1829-1830|2bFo65szAP0|Frédéric Chopin|",
+"Frédéric Chopin|Piano Concertos|1829-1830|2bFo65szAP0|Frédéric Chopin|Chopin's compositions for piano and orchestra",
 "Frédéric Chopin|Waltzes|1829-1847|tiTu6g2TqC8|Frédéric Chopin|",
 "Felix Mendelssohn|String Quartets nos. 1 &amp; 2|1827-1829|r0F6tN6IMiI|Felix Mendelssohn|",
 "Gioachino Rossini|Guillaume Tell|1829|Rg5Pc7LDwYg|Gioachino Rossini|William Tell (opera)",
