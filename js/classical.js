@@ -859,7 +859,7 @@ const classical = [
 "Arthur Honegger|Symphony no. 3, “Symphonie liturgique”|1946|jK9mGN7KZg4|Arthur Honegger|Symphony No. 3 \"Symphonie Liturgique\" (Honegger)",
 "Xavier Montsalvatge|Canciones negras|1946|fCtnKLSVUlY|Xavier Montsalvatge|",
 "Sergei Prokofiev|Violin Sonata no. 1|1946|iQuiyEJ5iYQ|Sergei Prokofiev|Violin Sonata No. 1 (Prokofiev)",
-"Franz Waxman|Carmen Fantasy|1946|ZqYIdaZ0TwM|Franz Waxman|",
+"Franz Waxman|Carmen Fantasie|1946|ZqYIdaZ0TwM|Franz Waxman|Carmen Fantasie (Waxman)",
 "Kurt Weill|Street Scene|1946|xaCu-V3S7m8|Kurt Weill|Street Scene (opera)",
 "Ned Rorem|Songs|1946-1999|FA6MLjPvWRw|Ned Rorem|",
 "Arnold Schoenberg|A Survivor from Warsaw|1947|rGWai0SEpUQ|Arnold Schoenberg|A Survivor from Warsaw",
