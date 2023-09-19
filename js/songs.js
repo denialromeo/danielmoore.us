@@ -9433,7 +9433,7 @@ const songs = [
 "Dee Clark|Raindrops|1961|WUnwOwz6OvQ|Dee Clark|S6011|Rhythm & Blues;Soul;R&B|Raindrops (Dee Clark song)",
 "Blondie|Picture This|1978|QbdCpi4qTNY|Debbie Harry|S5506|New Wave;Rock|Picture This (song)",
 "Asian Dub Foundation|Free Satpal Ram|1997|lhCQeiQNIPo|Asian Dub Foundation|S5256|Breakbeat;UK Hip Hop;Dance;Electronic;Electronic Dance Music;Hip Hop|",
-"Nas|Life's a Bitch|1994|gheFrQ5X3mU|Nas|S4502|Conscious Hip Hop;East Coast Hip Hop;Hardcore Hip Hop;Jazz Rap;Hip Hop|",
+"Nas|Life's a Bitch|1994|gheFrQ5X3mU|Nas|S4502|Conscious Hip Hop;East Coast Hip Hop;Hardcore Hip Hop;Jazz Rap;Hip Hop|Life's a Bitch (song)",
 "Tom Waits|The Piano Has Been Drinking (Not Me) (An Evening With Pete King)|1976|0GjyGdDrXXs?start=48|Tom Waits|S13992|Piano Blues;Singer/Songwriter;Blues|The Piano Has Been Drinking (Not Me) (An Evening with Pete King)",
 "Johnny Kemp|Just Got Paid|1987|jl1mQASHc48|Johnny Kemp|S6983|Dance-Pop;New Jack Swing;Contemporary R&B;Dance;Pop;R&B|Just Got Paid (Johnny Kemp song)",
 "Antony and the Johnsons|You Are My Sister|2005|VhYiz9FRKAc|Antony and the Johnsons|S14074|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|",
