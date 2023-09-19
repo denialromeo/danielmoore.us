@@ -949,7 +949,7 @@ const classical = [
 "Benjamin Britten|Death in Venice|1973|bIm4jDmnKMQ|Benjamin Britten|Death in Venice",
 "Dmitri Shostakovich|String Quartet no. 15|1974|QccUkIhrrO8|Dmitri Shostakovich|String Quartet No. 8 (Shostakovich)",
 "Pierre Boulez|Rituel: in memorium Bruno Maderna|1975|3WuwS94WDRQ|Pierre Boulez|",
-"Steve Reich|Music for 18 Musicians|1976|ZXJWO2FQ16c|Steve Reich|",
+"Steve Reich|Music for 18 Musicians|1976|ZXJWO2FQ16c|Steve Reich|Music for 18 Musicians",
 "Philip Glass|Einstein on the Beach|1976|TiCH2WJ_lvY|Philip Glass|Einstein on the Beach",
 "Henryk Górecki|Symphony no. 3|1976|87DJF1_vwQA|Henryk Górecki|Symphony No. 3 (Górecki)",
 "György Ligeti|Le grand macabre|1977-1996|oUtZ5m1iKig|György Ligeti|",
