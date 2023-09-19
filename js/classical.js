@@ -592,7 +592,7 @@ const classical = [
 "Arnold Schoenberg|Five Orchestral Pieces, op. 16|1909|I9-_tVSrCqs|Arnold Schoenberg|",
 "Jean Sibelius|String Quartet “Voces intimae”|1909|J5zlNd-djlw|Jean Sibelius|String Quartet (Sibelius)",
 "Ralph Vaughan Williams|A Sea Symphony|1909-1923|2kR3FzJ1Hh4|Ralph Vaughan Williams|A Sea Symphony",
-"Ralph Vaughan Williams|On Wenlock Edge|1909|6-ZKFUBwL1w|Ralph Vaughan Williams|",
+"Ralph Vaughan Williams|On Wenlock Edge|1909|6-ZKFUBwL1w|Ralph Vaughan Williams|On Wenlock Edge (song cycle)",
 "Anton Webern|Six Orchestral Pieces, op. 6|1909|-EJLA8QAGCg|Anton Webern|",
 "Claude Debussy|Préludes, Books 1 &amp; 2|1910-1913|MWkxPtFS10I|Claude Debussy|",
 "Engelbert Humperdinck|Königskinder|1910|3FU-sbfd9j4|Engelbert Humperdinck (composer)|",
