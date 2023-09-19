@@ -30,7 +30,7 @@ const classical = [
 "John Dowland|Lachrimae or Seaven Teares|1604|6R9QrqPmKPY|John Dowland|Lachrimae, or Seaven Teares",
 "Claudio Monteverdi|Orfeo|1607|jUep3sqe35o|Claudio Monteverdi|",
 "Girolamo Frescobaldi|Keyboard Works|1608-1637|rQb_IHfMWko|Girolamo Frescobaldi|",
-"Claudio Monteverdi|Vespers|1610|9rC-4AmUg8I|Claudio Monteverdi|",
+"Claudio Monteverdi|Vespers|1610|9rC-4AmUg8I|Claudio Monteverdi|Vespro della Beata Vergine",
 "Thomas Weelkes|Anthems|1610s|XeQQyAg7rlw|Thomas Weelkes|",
 "Thomas Campion|Books of Ayres|1613-1617|aZHVVzhMhiE|Thomas Campion|",
 "Thomas Tomkins|Anthems|1620s|cSWMiXJkPgI|Thomas Tomkins|",
