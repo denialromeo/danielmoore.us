@@ -2750,7 +2750,7 @@ const albums = [
 "Barbra Streisand|The Broadway Album|1985|PLEHHo6fIV21jfTKd64FRbFWG_b1KSXYIB|A2044|The Barbra Streisand Album|Barbra Streisand|Show Tunes;Standards;Descriptor;Musical Theatre and Entertainment;Pop;Soundtracks;Traditional Pop",
 "Cheap Trick|Heaven Tonight|1978|PLEvr99j7ruPxLA4-6h8z4iPT5OVcT8qSk|A1446|Heaven Tonight|Cheap Trick|Hard Rock;Power Pop;Pop;Pop Rock;Rock",
 "Big Daddy Kane|Long Live the Kane|1988|PLka8SGB1NeMjkXd8SjdKDbtzGQBCsxFUD|A3228|Long Live the Kane|Big Daddy Kane|Boom Bap;Hardcore Hip Hop;Hip Hop",
-"Mudhoney|Superfuzz Bigmuff EP|1988|PLAxa0Xa_SfhO71yFRMo45TfnjEYHVRzI_|A3221|Superfuzz Bigmuff|Mudhoney|Garage Punk;Grunge;Alternative Rock;Garage Rock;Punk Rock;Rock",
+"Mudhoney|Superfuzz Bigmuff EP|1988|PLVxakxoWul5WcZlb3Mpwm_SBw0lY2aMuD|A3221|Superfuzz Bigmuff|Mudhoney|Garage Punk;Grunge;Alternative Rock;Garage Rock;Punk Rock;Rock",
 "Jlin|Dark Energy|2015|PLZqsyBiYZFQ3wz2yYLNIO-0QLYEFS23GZ|A5604|Dark Energy (album)|Jlin|Footwork;Dance;Electronic;Electronic Dance Music;Ghetto House;House;Juke",
 "Nina Simone|Pastel Blues|1965|PLKiEBsOXrNf5Pckmjvrecxtp_LHOLNUMh|A7297|Pastel Blues|Nina Simone|Rhythm & Blues;Soul;Vocal Jazz;Jazz;R&B",
 "David Murray|Ming|1980|PLwJ-lIv8iFwG7A3AjXn5oW3S1xmjCUCuh|A2032|Lovers (David Murray album)|Dee Murray|Avant-Garde Jazz;Jazz",
