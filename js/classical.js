@@ -174,7 +174,7 @@ const classical = [
 "Joseph Haydn|Trumpet Concerto|1795|ZUZYoVw7moc|Joseph Haydn|Trumpet Concerto (Haydn)",
 "Luigi Cherubini|Médée|1796|fW-gtPnslo8|Luigi Cherubini|",
 "Joseph Haydn|Trumpet Concerto|1797|ZUZYoVw7moc|Joseph Haydn|Trumpet Concerto (Haydn)",
-"Joseph Haydn|String Quartets, op. 76|1797|k5IR5Wt0yEw|Joseph Haydn|",
+"Joseph Haydn|String Quartets, op. 76|1797|k5IR5Wt0yEw|Joseph Haydn|String Quartets, Op. 76 (Haydn)",
 "Ludwig van Beethoven|Piano Sonata in C minor, op. 13, “Pathétique”|1798|91MTUXla-lE|Ludwig van Beethoven|Piano Sonata No. 8 (Beethoven)",
 "Joseph Haydn|Mass in D minor, “Nelson”|1798|7EiefC0eesc|Joseph Haydn|",
 "Joseph Haydn|The Creation|1798|EuIs7R2BpvQ|Joseph Haydn|The Creation (Haydn)",
