@@ -142,7 +142,6 @@ I hope you have a good time here. Thanks for dropping by.
 * "[The Merge](https://blog.samaltman.com/the-merge#main)" by Sam Altman (The marginal value of intelligence is going to zero.)
 * "[The Obama Factor](https://www.tabletmag.com/sections/arts-letters/articles/david-garrow-interview-obama)" by David Samuels (In some ways, he set the stage for Trump.)
 * "[Overshoot](https://medium.com/@CollapseSurvival/overshoot-why-its-already-too-late-to-save-civilization-e834cb4ec694)" by Alan Urban (Everything lasts forever until it doesn't.)
-* "[Rishi Sunak is No Son of India](https://unherd.com/2023/09/rishi-sunak-is-no-son-of-india)" by Razib Khan (Secret origins of the Indian diaspora.)
 * "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Microsoft's path to world domination.)
 * "[Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)" by Peter Norvig (No royal road to geometry.)
 * "[Uncomfortable Truthasaurus](https://www.smbc-comics.com/comic/2010-11-30#cc-comicbody)" by Zach Weinersmith (All relationships are transactional.)

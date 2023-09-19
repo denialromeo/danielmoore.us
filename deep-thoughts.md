@@ -9,9 +9,25 @@ permalink: /deep-thoughts
 
 <hr>
 
+I'm watching *The Office* extended episodes. I feel really bad for Jim.
+
+Like, seriously, this broad Pam forces him to put on this "alpha" vibe 24/7. She follows him to work, she follows him home.
+
+The poor guy never gets to be himself like, say, Stanley does. Every word he says has to be carefully calibrated to be charming and appealing to a broad female audience or else Pam will judge him. He can't ever afford to lose a fight or she'll cheat on him.
+
+A life sentence of this insanity. Holy moly. Poor guy.
+
+<hr>
+
 I think the secret to success in life is to refuse to accept anything less than you deserve.
 
 > The difference between successful people and really successful people is that really successful people say no to almost everything. &mdash; Warren Buffett
+
+If you do this, you'll probably get nothing at first. But if you're young and stick to your principles, eventually the stars will align (possibly after a period of years) and opportunities will open up.
+
+Most people never achieve anywhere near their potential because they're terrified of failure and so just grab whatever floats by. Ironically, this sort of "greedy" algorithm is basically guaranteed to be sub-optimal. Dare to dream. Dare to fail.
+
+(More charitably, they're forced to act that way because they have to pay off their student loans or go ever-deeper in debt.)
 
 <hr>
 
