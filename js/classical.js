@@ -762,7 +762,7 @@ const classical = [
 "Richard Strauss|Arabella|1932|C9MrIY3aAPA|Richard Strauss|Arabella",
 "Igor Stravinsky|Duo Concertant|1932|rlRp2Ufbvbo|Igor Stravinsky|",
 "Arnold Schoenberg|Moses und Aron|1932|5nD36ZpRyKU|Arnold Schoenberg|",
-"Dmitri Shostakovich|Lady Macbeth of Mtsensk|1932|7Mf6Q3m7erI|Dmitri Shostakovich|",
+"Dmitri Shostakovich|Lady Macbeth of Mtsensk|1932|7Mf6Q3m7erI|Dmitri Shostakovich|Lady Macbeth of Mtsensk (opera)",
 "Karol Szymanowski|Symphony no. 4|1932|kjJyKrd0yhc|Karol Szymanowski|",
 "Charles Tournemire|L’orgue mystique|1932|ffPazH1v6qg|Charles Tournemire|",
 "Dmitri Shostakovich|Piano Concerto no. 1|1933|WyADlfFSFC0|Dmitri Shostakovich|Piano Concerto No. 1 (Shostakovich)",
