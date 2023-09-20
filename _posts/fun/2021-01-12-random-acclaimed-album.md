@@ -35,7 +35,7 @@ box: random-acclaimed-song
             <a target="_self" href="?genre=disco&year=197.">Disco albums from the 1970's.</a>
         </li>
     </ul>
-   <p>Also note that each album's name is a link to its Wikipedia page. To see an album's genres, hit <code class="language-plaintext highlighter-rouge">Ctrl + Shift + J</code> to open the browser console.</p>
+   <p>Also note that each artist's name and most albums' names have links to their Wikipedia pages. To&nbsp;see an album's genres, mouse over the album's name.</p>
 </div>
 
 <script src="/js/URI.js"></script>
@@ -83,9 +83,10 @@ box: random-acclaimed-song
     for (let i = 0; i < infoLog.length; i++) { console.log(infoLog[i]) }
     iframe.src = info[3].startsWith("http") ? info[3] : `https://youtube.com/embed/playlist?list=${info[3]}`
     const wikiLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[0])}>${info[0]}</a>`
-    const songLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[5])}>${info[1]}</a>`
+    // const songLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[5])}>${info[1]}</a>`
     const artistLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[6])}>${info[0]}</a>`
     // const songLink = `<a style='text-decoration:none;border-bottom:none;' href='http://acclaimedmusic.net/album/${info[4]}.htm'>${info[1]}</a>`
+    const songLink = info[5] == '' ? `<span title="${info[7].split(';').join(', ')}">${info[1]}</span>` : `<a title="${info[7].split(';').join(', ')}" style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[5])}>${info[1]}</a>`
     title.innerHTML = `${artistLink} - ${songLink} (${info[2]})`
     document.title  = `${info[0]} - ${info[1]} (${info[2]})`
 </script>
