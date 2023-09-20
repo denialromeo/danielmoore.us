@@ -159,7 +159,7 @@ const classical = [
 "Wolfgang Amadeus Mozart|Symphony no. 40|1788|JTc1mDieQI8|Wolfgang Amadeus Mozart|Symphony No. 40 (Mozart)",
 "Wolfgang Amadeus Mozart|Symphony no. 41, “Jupiter”|1788|bnK3kh8ZEgA|Wolfgang Amadeus Mozart|Symphony No. 41 (Mozart)",
 "Wolfgang Amadeus Mozart|“Prussian” String Quartets|1789-1790|p_62BnrkIcs|Wolfgang Amadeus Mozart|",
-"Wolfgang Amadeus Mozart|Clarinet Quintet|1789|xTNbclgU3h4|Wolfgang Amadeus Mozart|",
+"Wolfgang Amadeus Mozart|Clarinet Quintet|1789|xTNbclgU3h4|Wolfgang Amadeus Mozart|Clarinet Quintet (Mozart)",
 "Joseph Haydn|String Quartets, op. 64|1790|rvwPaNg0IGE|Joseph Haydn|",
 "Wolfgang Amadeus Mozart|Così fan tutte|1790|Lf904C53-iA|Wolfgang Amadeus Mozart|",
 "Wolfgang Amadeus Mozart|Ave verum corpus|1791|gDKCK_6WLTg|Wolfgang Amadeus Mozart|Ave verum corpus (Mozart)",
