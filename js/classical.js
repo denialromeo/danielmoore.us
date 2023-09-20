@@ -864,7 +864,7 @@ const classical = [
 "Ned Rorem|Songs|1946-1999|FA6MLjPvWRw|Ned Rorem|",
 "Arnold Schoenberg|A Survivor from Warsaw|1947|rGWai0SEpUQ|Arnold Schoenberg|A Survivor from Warsaw",
 "Ralph Vaughan Williams|Symphony no. 6|1947-1950|0v1raArPumk|Ralph Vaughan Williams|Symphony No. 5 (Vaughan Williams)",
-"Maurice Duruflé|Requiem|1947|XRzPi0CA1rg|Maurice Duruflé|Music for the Requiem Mass",
+"Maurice Duruflé|Requiem|1947|XRzPi0CA1rg|Maurice Duruflé|Requiem (Duruflé)",
 "Samuel Barber|Knoxville: Summer of 1915|1947|PQzaFJZ8CuE|Samuel Barber|Knoxville: Summer of 1915",
 "Roberto Gerhard|The Duenna|1947|Fd5jzafBk5s|Robert Gerhard|",
 "John Cage|Sonatas and Interludes|1948|TJhv_k4xkMI|John Cage|",
