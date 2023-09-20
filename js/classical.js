@@ -666,7 +666,7 @@ const classical = [
 "Ottorino Respighi|Ancient Airs and Dances|1917-1932|O_DlXAJ7zpM|Ottorino Respighi|Ancient Airs and Dances",
 "George Enescu|Symphony no. 3|1918|_7kohi6by-I|George Enescu|",
 "Francis Poulenc|Mélodies|1918-1960|LnMIqM0Z918|Francis Poulenc|",
-"Leos Janácek|Taras Bulba|1918|VOG-YDbe3JA|Leoš Janáček|Taras Bulba",
+"Leos Janácek|Taras Bulba|1918|VOG-YDbe3JA|Leoš Janáček|Taras Bulba (rhapsody)",
 "Giacomo Puccini|Gianni Schicchi|1918|GdDuGcaugpo|Giacomo Puccini|",
 "Igor Stravinsky|The Soldier’s Tale|1918|qh7sBAUd3hI|Igor Stravinsky|Igor Stravinsky's The Soldier's Tale",
 "Arnold Bax|Tintagel|1919|ixF5f2cqIKo|Arnold Bax|",
