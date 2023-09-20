@@ -2021,7 +2021,7 @@ const songs = [
 "Louis Armstrong|Potato Head Blues|1927|AeBn_TZ4Iak|Louis Armstrong|S9281|Dixieland;Jazz|",
 "Junior Boys|In the Morning|2006|BiI-3uRfaSc|Junior Boys|S4012|Electropop;Synthpop;Electronic;Pop|",
 "Neil Young|Southern Man|1970|m5FCcDEA6mY|Neil Young|S4145|Country Rock;Hard Rock;Rock|Southern Man (song)",
-"Louis Armstrong|Weather Bird|1930|hyb_wr40pog|Louis Armstrong|S9283|Swing;Jazz|",
+"Louis Armstrong|Weather Bird|1930|hyb_wr40pog|Louis Armstrong|S9283|Swing;Jazz|Weather Bird",
 "The Rolling Stones|Mother's Little Helper|1966|OusADDs_3ps|The Rolling Stones|S8213|Mod;Rock|Mother's Little Helper",
 "T. Rex|Children of the Revolution|1972|ayv0vU74soM|T. Rex (band)|S810|Glam Rock;Rock|Children of the Revolution (song)",
 "Sam Cooke|Cupid|1961|n4Rw4A7BDQA|Sam Cooke|S1139|Pop Soul;Pop;R&B;Soul|Cupid (Sam Cooke song)",
