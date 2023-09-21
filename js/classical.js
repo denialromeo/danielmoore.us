@@ -37,7 +37,7 @@ const classical = [
 "Claudio Monteverdi|Combattimento|1624|xd13sePBlpU|Claudio Monteverdi|",
 "John Jenkins|Fantasias|1630s|nhSECC027as|John Jenkins|",
 "William Lawes|Consort Setts|1630s|0FDrO5kKdyc|William Lawes|",
-"Heinrich Schütz|Musikalische Exequien|1636|ikNYP6H7Ilw|Heinrich Schütz|",
+"Heinrich Schütz|Musikalische Exequien|1636|ikNYP6H7Ilw|Heinrich Schütz|Musikalische Exequien",
 "Gregorio Allegri|Miserere mei Deus|1640s|H3v9unphfi0|Gregorio Allegri|Miserere (Allegri)",
 "Claudio Monteverdi|Il ritorno d’Ulisse in patria|1640|zunvtJBkS9E|Claudio Monteverdi|Il ritorno d'Ulisse in patria",
 "Claudio Monteverdi|L’incoronazione di Poppea|1643|rzXEYAdPJ84|Claudio Monteverdi|",
