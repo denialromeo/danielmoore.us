@@ -28,7 +28,7 @@ box: random-classical-recording
             <a target="_self" href="?composition=requiem&artist=mozart"><i>Requiem</i> by Mozart.</a>
         </li>
         <li>
-            <a target="_self" href="?year=^17..">Compositions from the 1700's.</a>
+            <a target="_self" href="?year=^1[1-6]..">Compositions from the 1600's and earlier.</a>
         </li>
     </ul>
    <p>Note that each artist's name is a link to their Wikipedia page. Where available, composition names also link to Wikipedia.</p>
