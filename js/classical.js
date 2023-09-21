@@ -797,7 +797,7 @@ const classical = [
 "Francis Poulenc|Organ Concerto|1938|HsFsBNAmCd0|Francis Poulenc|",
 "Béla Bartók|Violin Concerto no. 2|1938|KbAaM9tIYhs|Béla Bartók|",
 "Herbert Howells|Hymnus paradisi|1938|l4Tlik9vfJ0|Herbert Howells|",
-"Bohuslav Martinu|Double Concerto|1938|4BLJxJG1kQo|Bohuslav Martinů|",
+"Bohuslav Martinu|Double Concerto|1938|4BLJxJG1kQo|Bohuslav Martinů|Double Concerto for Two String Orchestras, Piano, and Timpani",
 "Roy Harris|Symphony no. 3|1938|cvHF04mN64c|Roy Harris|Symphony No. 3",
 "Ralph Vaughan Williams|Serenade for Music|1938|QDYi4JgQA2I|Ralph Vaughan Williams|",
 "Silvestre Revueltas|Sensemayá|1938|aJxd0nIY1oA|Silvestre Revueltas|Sensemayá",
