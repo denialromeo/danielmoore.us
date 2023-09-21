@@ -46,7 +46,7 @@ const classical = [
 "Francesco Cavalli|La Calisto|1651|_hOa_l_GV_E|Francesco Cavalli|La Calisto",
 "Heinrich Schütz|The Christmas Story|1660|tFlR1-BMvq4|Heinrich Schütz|",
 "Dietrich Buxtehude|Organ Music|1668-1707|WilPI1qAkZc|Dieterich Buxtehude|Pipe organ",
-"Heinrich Ignaz Franz Biber|Mystery Sonatas|1674|Mq-SrUZUluU|Heinrich Ignaz Franz Biber|",
+"Heinrich Ignaz Franz Biber|Mystery Sonatas|1674|Mq-SrUZUluU|Heinrich Ignaz Franz Biber|Rosary Sonatas",
 "Henry Purcell|Anthems|1676-1694|0jSRA2qKxAQ|Henry Purcell|",
 "Henry Purcell|Chacony in G minor|1678|VvQQc4nkl2I|Henry Purcell|",
 "Michel-Richard de Lalande|Grand Motets|1680-1700|R4gdNcp9JyY|Michel Richard Delalande|",
