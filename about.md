@@ -118,11 +118,11 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Case Against Education*](https://www.goodreads.com/notes/52147324-the-case-against-education/71655209-daniel-moore) by [Bryan Caplan](http://www.bcaplan.com/) (We waste a third of our lives social signaling.)
 * [*Debt: The First 5,000 Years*](https://www.goodreads.com/notes/23814811-debt---updated-and-expanded/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (Modern finance is rooted in medieval Europe.)
 * [*The Great Convergence*](https://www.goodreads.com/notes/33287012-the-great-convergence/71655209-daniel-moore) by [Richard Baldwin](https://en.wikipedia.org/wiki/Richard_Baldwin_(economist)) (Wealth's journey from East to West and back.)
-* [*The Heat Will Kill You First*](https://www.goodreads.com/notes/74896055-the-heat-will-kill-you-first/71655209-daniel-moore) by [Jeff Goodell](https://en.wikipedia.org/wiki/Jeff_Goodell) (Global climate change is cooking the world.)
 * [*Open Borders*](https://www.amazon.com/dp/1250316960) by [Bryan Caplan](https://en.wikipedia.org/wiki/Bryan_Caplan) (Immigration restrictions make no economic sense.)
 * [*River Out of Eden*](https://www.goodreads.com/notes/19196310-river-out-of-eden/71655209-daniel-moore) by [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) (Suffering and scarcity are built into the system.)
 * [*Screen Schooled*](https://www.goodreads.com/notes/36357274-screen-schooled/71655209-daniel-moore) by [Joe Clement](http://screenschooled.com/aboutauthors/) (Social media has mentally crippled multiple generations.)
 * [*The Singularity Is Near*](https://www.goodreads.com/notes/5804507-the-singularity-is-near/71655209-daniel-moore) by [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil) (I, for one, welcome our new AI overlords.)
+* [*The Uninhabitable Earth*](https://www.goodreads.com/notes/43373984-the-uninhabitable-earth/71655209-daniel-moore) by [David Wallace-Wells](https://en.wikipedia.org/wiki/David_Wallace-Wells) (Global climate change will ruin everything.)
 * [*Untrue: Women, Lust, and Infidelity*](https://www.goodreads.com/notes/38907660-untrue/71655209-daniel-moore) by [Wednesday Martin](https://en.wikipedia.org/wiki/Wednesday_Martin) (Primate dating market dynamics.)
 
 {:#blog-posts}
