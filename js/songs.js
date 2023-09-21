@@ -6228,7 +6228,7 @@ const songs = [
 "The Beatles|No Reply|1964|YgFo9STa70E|The Beatles|S5365|Folk Rock;Pop Rock;Pop;Rock|No Reply (song)",
 "Lorde|The Louvre|2017|sFCL6f7hy2s|Lorde|S16439|Art Pop;Synthpop;Electronic;Pop|The Louvre (song)",
 "Bruce Channel|Hey! Baby|1962|ik9dxkKriV0|Bruce Channel|S2811|Pop;Rock & Roll;Rock|Hey! Baby",
-"The Animals|San Franciscan Nights|1967|uWb5YQPlAJc|The Animals|S6297|Psychedelic Rock;Rock|San Franciscan Nights",
+"The Animals|San Franciscan Nights|1967|y4G3KPP1Nts|The Animals|S6297|Psychedelic Rock;Rock|San Franciscan Nights",
 "Onyx|Throw Ya Gunz|1992|mQmfzGf9904|Onyx (hip hop group)|S11804|Boom Bap;East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "M83|Run into Flowers|2003|Q5pv8fmiax8|M83 (band)|S7364|Electronic|",
 "The Blue Nile|Tinseltown in the Rain|1984|7KI0-PTnt3w?start=19|The Blue Nile|S5514|Sophisti-Pop;Pop|Tinseltown in the Rain",

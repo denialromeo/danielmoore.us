@@ -1572,7 +1572,7 @@ const albums = [
 "Black Star|Mos Def & Talib Kweli Are Black Star|1998|PLfaf_RidesGYMiobSjMB5tSdg8q3MTzsd|A3739|Mos Def & Talib Kweli Are Black Star|Black Star (rap duo)|Boom Bap;Conscious Hip Hop;Hip Hop",
 "Charles Mingus|Tijuana Moods/New Tijuana Moods|1962|PLoERbxXMyKwbV5YrgfE9EoxVt-wqykrDI|A1946|Tijuana Moods|Charles Mingus|Post-Bop;Bebop;Jazz",
 "Andy Stott|Luxury Problems|2012|PLiWSzMVUrbgTPRtJTEBpoyGoe-NYJU3CR|A5239|Luxury Problems (Andy Stott album)|Andy Stott|Dub Techno;Dance;Electronic;Electronic Dance Music;Minimal Techno;Techno",
-"DJ Rashad|Double Cup|2013|PLZqsyBiYZFQ1vz9bSEnkJB-hzSJFIy_sX|A5299|Double Cup|DJ Rashad|Footwork;Dance;Electronic;Electronic Dance Music;Ghetto House;House;Juke",
+"DJ Rashad|Double Cup|2013|PLhrglt2nmIGivPngKmBjVPMLuYX09LbCU|A5299|Double Cup|DJ Rashad|Footwork;Dance;Electronic;Electronic Dance Music;Ghetto House;House;Juke",
 "Kurt Vile|Wakin on a Pretty Daze|2013|PLkbQ1IWDmzDy1snn89zWYfBtqWXK9hoAE|A5383|Wakin on a Pretty Daze|Kurt Vile|Folk Rock;Singer/Songwriter;Rock",
 "Iron & Wine|Our Endless Numbered Days|2004|PLbOGt8cOph4XinQEZNhQXc2Aj54ETGs1c|A4049|Our Endless Numbered Days|Iron & Wine|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Calexico|Feast of Wire|2003|PLA81CBD243CE98BB3|A3911|Feast of Wire|Calexico (band)|Alt-Country;Americana;Country",
