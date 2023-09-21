@@ -2869,7 +2869,7 @@ const albums = [
 "Stevie Nicks|Bella Donna|1981|PLVMgMdYqIEkbTXxhAHnSv1PcWKQYviKPd|A2798|Bella Donna (album)|Stevie Nicks|Soft Rock;Pop;Pop Rock;Rock",
 "The Impressions|Keep On Pushing|1964|PL3QK-FeOu2cdUOoR4zhK5EIynx2KkZFIW|A1289|Keep On Pushing|The Impressions|Chicago Soul;R&B;Soul",
 "Skip James|Today!|1966|PLX9kpmDwQP0zS1poibI2k3WWDNBr21uMH|A60|Today! (Skip James album)|Skip James|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music",
-"Oneohtrix Point Never|R Plus Seven|2013|PLXXkSxYfdaBKl42i0-mAfYTjtOG1x7CDh|A5350|Magic Oneohtrix Point Never|Oneohtrix Point Never|Progressive Electronic;Vaporwave;Electronic;Experimental;Plunderphonics;Sound Collage;Tape Music",
+"Oneohtrix Point Never|R Plus Seven|2013|PLXXkSxYfdaBKl42i0-mAfYTjtOG1x7CDh|A5350|R Plus Seven|Oneohtrix Point Never|Progressive Electronic;Vaporwave;Electronic;Experimental;Plunderphonics;Sound Collage;Tape Music",
 "Os Novos Baianos|Acabou Chorare|1972|PLVL1Rf-SGyL_qMMeoefEpdrnozmzj_YMr|A4532|Acabou Chorare|Novos Baianos|MPB;Samba;Brazilian Music;Regional Music",
 "Earth, Wind & Fire|Gratitude|1975|PLt8xLdLDrekWCV2a0R3vanl0FWqpwgQJx|A2568|Gratitude (Earth, Wind & Fire album)|Earth, Wind & Fire|Funk;Soul;R&B",
 "Don McLean|American Pie|1971|PL6ogdCG3tAWggG54gjffYqcXmfmZvIUkB|A1361|American Pie (Don McLean album)|Don McLean|Contemporary Folk;Singer/Songwriter;Folk",
