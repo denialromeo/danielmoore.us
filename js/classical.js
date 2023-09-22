@@ -494,7 +494,7 @@ const classical = [
 "Giacomo Puccini|Manon Lescaut|1893|IOxpbOb9hwk|Giacomo Puccini|Manon Lescaut (Puccini)",
 "Pyotr Ilyich Tchaikovksy|Symphony no. 6, “Pathétique”|1893|KvGC8hZC29U|Pyotr Ilyich Tchaikovsky|",
 "Giuseppe Verdi|Falstaff|1893|We0heyFkqXU|Giuseppe Verdi|Falstaff (opera)",
-"Jean Sibelius|Karelia Suite|1893|adKwG9ZuzFw|Jean Sibelius|",
+"Jean Sibelius|Karelia Suite|1893|adKwG9ZuzFw|Jean Sibelius|Karelia Suite",
 "Antonín Dvorák|Symphony no. 9|1893|89jOPAGJq-M|Antonín Dvořák|Symphony No. 9 (Dvořák)",
 "Anton Stepanovich Arensky|Piano Trio no. 1|1894|WR7IgPqscJE|Anton Arensky|",
 "Claude Debussy|Prélude à L’après-midi d’un faune|1894|Y9iDOt2WbjY|Claude Debussy|Prélude à l'après-midi d'un faune",
