@@ -954,7 +954,7 @@ const classical = [
 "Henryk Górecki|Symphony no. 3|1976|87DJF1_vwQA|Henryk Górecki|Symphony No. 3 (Górecki)",
 "György Ligeti|Le grand macabre|1977-1996|oUtZ5m1iKig|György Ligeti|",
 "John Corigliano|Clarinet Concerto|1977|m72j7Vjv3WM|John Corigliano|Clarinet concerto",
-"Toru Takemitsu|A Flock Descends into the Pentagonal Garden|1977|4w_NPRVOjJc|Tōru Takemitsu|Tōru Takemitsu",
+"Toru Takemitsu|A Flock Descends into the Pentagonal Garden|1977|4w_NPRVOjJc|Tōru Takemitsu|",
 "Arvo Pärt|Fratres|1977|7vdgZAJVnes|Arvo Pärt|",
 "Einojuhani Rautavaara|Angels and Visitations|1978|autfEuxRICI|Einojuhani Rautavaara|",
 "Pierre Boulez|Notations|-1978|uIlfuf2wUok|Pierre Boulez|",
