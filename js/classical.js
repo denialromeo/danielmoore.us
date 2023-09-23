@@ -135,7 +135,7 @@ const classical = [
 "Christoph Willibald Gluck|Iphigénie en Tauride|1779|ROzh7i_RSyc|Christoph Willibald Gluck|",
 "Wolfgang Amadeus Mozart|Sinfonia concertante in E flat major|1780|_0hTDZ0whpU|Wolfgang Amadeus Mozart|",
 "Wolfgang Amadeus Mozart|Idomeneo, re di Creta|1781|_4BC2AQ6ypw|Wolfgang Amadeus Mozart|",
-"Wolfgang Amadeus Mozart|“Haydn” Quartets|1782-1785|ex7GJIRw3-I|Wolfgang Amadeus Mozart|",
+"Wolfgang Amadeus Mozart|“Haydn” Quartets|1782-1785|ex7GJIRw3-I|Wolfgang Amadeus Mozart|Haydn Quartets (Mozart)",
 "Wolfgang Amadeus Mozart|Die Entführung aus dem Serail|1782|iYOTeHL14uQ|Wolfgang Amadeus Mozart|Die Entführung aus dem Serail",
 "Wolfgang Amadeus Mozart|Serenade in B flat major, “Gran partita”|1783|NecLh4YOT9M|Wolfgang Amadeus Mozart|",
 "Wolfgang Amadeus Mozart|Great Mass in C minor|1783|Ez0kqVShFEs|Wolfgang Amadeus Mozart|Great Mass in C minor, K. 427",
