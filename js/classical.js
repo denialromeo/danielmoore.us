@@ -457,7 +457,7 @@ const classical = [
 "Jules Massenet|Werther|1887|p90HEtK1Bi0|Jules Massenet|",
 "Johannes Brahms|Double Concerto|1887|YpUJQArYprA|Johannes Brahms|Double Concerto (Brahms)",
 "Anton Bruckner|Symphony no. 8|1887-1892|elVHvTrEM34|Anton Bruckner|Symphony No. 8 (Bruckner)",
-"Richard Strauss|Violin Sonata|1887|d73FVIKbl5k|Richard Strauss|",
+"Richard Strauss|Violin Sonata|1887|d73FVIKbl5k|Richard Strauss|Violin Sonata (Strauss)",
 "Giuseppe Verdi|Otello|1887|Sm_Usoo7LvY|Giuseppe Verdi|Otello",
 "César Franck|Symphony in D minor|1888|uRWFjK11lfw|César Franck|",
 "Gustav Mahler|Symphony no. 1|1888|ISBfOpztUZM|Gustav Mahler|Symphony No. 1 (Mahler)",
