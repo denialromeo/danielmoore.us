@@ -1151,7 +1151,7 @@ const albums = [
 "The Soft Machine|The Soft Machine|1968|PLG3BG6P7u9CRIF_97NmmaQ-Xb-Eegy56D|A137|The Soft Machine (Soft Machine album)|Soft Machine|Canterbury Scene;Psychedelic Rock;Progressive Rock;Rock",
 "Nick Cave and The Bad Seeds|Let Love In|1994|PLHmBSpUr1GR8Zwekhbz8OjN2_qtAUt5-9|A919|Let Love In (Nick Cave and the Bad Seeds album)|Nick Cave and the Bad Seeds|Alternative Rock;Post-Punk;Rock",
 "Future|DS2|2015|PLmIf0JO7SvbKxGuse9T19m_mHBm4oNG7y|A5572|DS2 (album)|Future (rapper)|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
-"Diana Ross|Diana|1980|PLqXC94HWr1NObxy3kacaUXQIqHHnX2qyY|A2762|Diana (album)|Diana Ross|Disco;Dance",
+"Diana Ross|Diana|1980|PLdB2qly-JTgCkKk4z6wHkcsCaTFn1j6qV|A2762|Diana (album)|Diana Ross|Disco;Dance",
 "Bonnie Raitt|Nick of Time|1989|PLCjLGgbfOxrxqvNS7sqoSxgY8bB0EyvXJ|A777|Nick of Time (album)|Bonnie Raitt|Blues Rock;Pop Rock;Pop;Rock",
 "Supergrass|I Should Coco|1995|PLEb5ZVdb8DlUMpMDeC6H1Xkq8bw2qSxl6|A940|I Should Coco|Supergrass|Britpop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "N*E*R*D|In Search of...|2002|PLCA0oXfs8y5Waf4FWqIJLBsXkTGp9b_CE|A1208|In Search of... (N.E.R.D. album)|N.E.R.D.|Funk Rock;Rock",
