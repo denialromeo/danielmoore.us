@@ -642,7 +642,7 @@ const albums = [
 "Stereolab|Emperor Tomato Ketchup|1996|PLs9zwqXsceUgmbKm0I_wmEu5YwDQ0fEZ2|A970|Emperor Tomato Ketchup (album)|Stereolab|Art Pop;Experimental Rock;Pop;Rock",
 "Oliver Nelson|The Blues and the Abstract Truth|1961|PLb2Y6NVXNIAZdY_5poKq7_bdvz0qasHyB|A1906|The Blues and the Abstract Truth|Oliver Nelson|Hard Bop;Bebop;Jazz",
 "John Martyn|Solid Air|1973|PL6y75aTMtg6SLQnPVmfdsUplDd_Ig2vqJ|A1147|Solid Air|John Martyn|British Folk Rock;Singer/Songwriter;Folk Rock;Rock",
-"Can|Ege Bamyasi|1972|ERROR: Suitable playlist not found|A1142|Ege Bamyası|Can (band)|Krautrock;Experimental Rock;Progressive Rock;Rock",
+"Can|Ege Bamyasi|1972|PLs9zwqXsceUjfPo3aIizUMlNPRQxEJqKN|A1142|Ege Bamyası|Can (band)|Krautrock;Experimental Rock;Progressive Rock;Rock",
 "Adele|21|2011|PLqC0BHAcW3Wev1d0r4d_c4mT3kEeL8xb-|A5120|21 (Adele album)|Adele|Pop Soul;Pop;R&B;Soul",
 "J Dilla|Donuts|2006|PL9dk_xtWpAkKXxzv_TfLWmlJj6G3quWQ2|A2099|Donuts (album)|J Dilla|Instrumental Hip Hop;Hip Hop",
 "Goldie|Timeless|1995|PLSAJnQfE0hpQXOnkidlyImpAnJD7s9Pru|A943|Timeless (Goldie album)|Goldie|Atmospheric Drum and Bass;Dance;Drum and Bass;Electronic;Electronic Dance Music",
