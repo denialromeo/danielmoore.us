@@ -543,7 +543,7 @@ const classical = [
 "Hugo Alfvén|Swedish Rhapsodies|1903-1931|FN-n-UzG_dg|Hugo Alfvén|",
 "Maurice Ravel|Shéhérazade|1903|paZ7LXd_wKM|Maurice Ravel|Shéhérazade (Ravel)",
 "Richard Strauss|Symphonia domestica|1903|zvymcR85HPY|Richard Strauss|Symphonia Domestica",
-"Alexander Zemlinsky|Die Seejungfrau|1903|b53ihPZaMRQ|Alexander von Zemlinsky|",
+"Alexander Zemlinsky|Die Seejungfrau|1903|b53ihPZaMRQ|Alexander von Zemlinsky|Die Seejungfrau",
 "Arnold Schoenberg|Pelleas und Melisande|1903|wis4ku1XBNg|Arnold Schoenberg|",
 "Alexander Glazunov|Violin Concerto in A minor|1904|jq8oxIgyp8E|Alexander Glazunov|Violin Concerto (Glazunov)",
 "Leos Janácek|Jenufa|1904|DFbRCiChA1g|Leoš Janáček|",
