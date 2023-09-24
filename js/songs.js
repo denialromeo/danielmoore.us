@@ -10333,7 +10333,7 @@ const songs = [
 "AC/DC|Who Made Who|1986|PiZHNw1MtzI|AC/DC|S9925|Hard Rock;Rock|Who Made Who (song)|",
 "Ween|Push th' Little Daisies|1992|6PAzqBUNlCs|Ween|S3943|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock|Push th' Little Daisies",
 "Muse|Sing for Absolution|2003|6Ck6Hcg2cjk|Muse (band)|S7644|Alternative Rock;Rock|Sing for Absolution",
-"Nathaniel Rateliff & The Night Sweats|S.O.B.|2015|1iAYhQsQhSY|Nathaniel Rateliff|S9820|Blues Rock;Rock|",
+"Nathaniel Rateliff & The Night Sweats|S.O.B.|2015|1iAYhQsQhSY|Nathaniel Rateliff|S9820|Blues Rock;Rock|S.O.B. (song)",
 "Adeva|Respect|1989|t21dMFdA0NU|Adeva|S1997|Garage House;Dance;Electronic;Electronic Dance Music;House|Respect (song)",
 "Moses Sumney|Lonely World|2016|fS63c-C-Rc4|Moses Sumney|S16153|Art Pop;Singer/Songwriter;Pop|Doomed (Moses Sumney song)",
 "King Gizzard & The Lizard Wizard|Rattlesnake|2016|Q-i1XZc8ZwA|King Gizzard & the Lizard Wizard|S16421|Garage Rock;Psychedelic Rock;Rock|",
