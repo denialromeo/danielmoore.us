@@ -414,7 +414,7 @@ const classical = [
 "Arthur Sullivan|H.M.S. Pinafore|1878|Ddke1VVNA8s|Arthur Sullivan|H.M.S. Pinafore",
 "Pyotr Ilyich Tchaikovsky|Eugene Onegin|1878|iR9P82WbQug|Pyotr Ilyich Tchaikovsky|Eugene Onegin (opera)",
 "Pyotr Ilyich Tchaikovsky|Symphony no. 4|1878|YnRkXtsD_54|Pyotr Ilyich Tchaikovsky|Symphony No. 4 (Tchaikovsky)",
-"Pyotr Ilyich Tchaikovksy|Violin Concerto|1878|cbJZeNlrYKg|Pyotr Ilyich Tchaikovsky|",
+"Pyotr Ilyich Tchaikovksy|Violin Concerto|1878|cbJZeNlrYKg|Pyotr Ilyich Tchaikovsky|Violin Concerto (Tchaikovsky)",
 "Johannes Brahms|Violin Sonatas|1879-1888|9T6vnY2x-Jc|Johannes Brahms|Violin Sonata No. 1 (Brahms)",
 "Bedrich Smetana|Má vlast|1879|3ZJwlDPWEkg|Bedřich Smetana|Má vlast",
 "Gabriel Fauré|Piano Quartets 1 &amp; 2|1879|NUzlJpKoQy0|Gabriel Fauré|",
