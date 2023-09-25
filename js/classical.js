@@ -201,7 +201,7 @@ const classical = [
 "Ludwig van Beethoven|Symphony no. 6, “Pastoral”|1808|nXgBtAD5daM|Ludwig van Beethoven|Symphony No. 6 (Beethoven)",
 "Ludwig van Beethoven|Piano Concerto no. 5 in E flat major|1809|qSeg69d3CQ8|Ludwig van Beethoven|Piano Concerto No. 5 (Beethoven)",
 "Fernando Sor|Guitar Works|1810-1830s|I2wTJAcRWg4|Fernando Sor|",
-"Ludwig van Beethoven|Piano Sonata in E flat major, op. 81A, “Les adieux”|1810|Z26dfRI9rqg|Ludwig van Beethoven|",
+"Ludwig van Beethoven|Piano Sonata in E flat major, op. 81A, “Les adieux”|1810|Z26dfRI9rqg|Ludwig van Beethoven|Piano Sonata No. 26 (Beethoven)",
 "Ludwig van Beethoven|Piano Trio in B flat major, op. 97, “Archduke”|1811|ezRNLXBbB8Q|Ludwig van Beethoven|",
 "Carl Maria von Weber|Clarinet Concertos nos. 1 &amp; 2|1811|95gL5U4ILFc|Carl Maria von Weber|",
 "Ludwig van Beethoven|Symphony no. 7|1812|-4788Tmz9Zo|Ludwig van Beethoven|Symphony No. 7 (Beethoven)",
