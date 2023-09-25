@@ -744,7 +744,7 @@ const classical = [
 "Igor Stravinsky|Apollo|1928|Ys9xmuPH1eg|Igor Stravinsky|",
 "Kurt Weill|Das Berliner Requiem|1928|QxYbcNJHv_o|Kurt Weill|",
 "Kurt Weill|Die Dreigroschenoper|1928|JCd6hT0Gn0M|Kurt Weill|",
-"Arnold Bax|Symphony no. 3|1929|gwS20neKvVM|Arnold Bax|",
+"Arnold Bax|Symphony no. 3|1929|gwS20neKvVM|Arnold Bax|Symphony No. 3 (Bax)",
 "William Walton|Viola Concerto|1929-1961|ozL-R0yWhPs|William Walton|Viola Concerto (Walton)",
 "Frank Bridge|Oration|1930|UurMi-JW_pQ|Frank Bridge|",
 "Albert Roussel|Symphony no. 3|1930|00n4z_AuLiI|Albert Roussel|",
