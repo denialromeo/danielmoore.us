@@ -879,7 +879,7 @@ const classical = [
 "Gian-Carlo Menotti|The Consul|1949|ekrx98zKnk0|Gian Carlo Menotti|The Consul",
 "Sergei Prokofiev|Cello Sonata|1949|lWNiR1BuenY|Sergei Prokofiev|Cello Sonata (Prokofiev)",
 "Astor Piazzolla|Tangos|1950-1952|57c70FU9-z0|Astor Piazzolla|",
-"Malcolm Arnold|English Dances|1950-1951|YjWhe4njA5A|Malcolm Arnold|",
+"Malcolm Arnold|English Dances|1950-1951|YjWhe4njA5A|Malcolm Arnold|English Dances (Arnold)",
 "Benjamin Britten|Billy Budd|1951-1960|A1lVBfqQyjs|Benjamin Britten|Billy Budd (opera)",
 "Dmitri Shostakovich|Twenty-four Preludes and Fugues|1951|7wNxgM-1DV4|Dmitri Shostakovich|",
 "Francis Poulenc|Stabat mater|1951|quemnTLY3fE|Francis Poulenc|",
