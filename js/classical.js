@@ -445,7 +445,7 @@ const classical = [
 "Gustav Mahler|Lieder eines fahrenden Gesellen|1885|RxmGLjumt7Q|Gustav Mahler|Lieder eines fahrenden Gesellen",
 "Johann Strauss II|Der Zigeunerbaron|1885|vcTFHyR3sn0|Johann Strauss II|",
 "Pyotr Ilyich Tchaikovsky|Manfred Symphony|1885|S6Mn1UjggBY|Pyotr Ilyich Tchaikovsky|",
-"Richard Strauss|Lieder|1885-1933|bmoP0_lLAQ8|Richard Strauss|",
+"Richard Strauss|Lieder|1885-1933|bmoP0_lLAQ8|Richard Strauss|https://en.wikipedia.org/wiki/Richard_Strauss#Lieder",
 "Arthur Sullivan|The Mikado|1885|vu7BlrncWIA|Arthur Sullivan|",
 "César Franck|Violin Sonata in A major|1886|oKi8YmP9Ki4|César Franck|",
 "Camille Saint-Saëns|Carnival of the Animals|1886|k2RPKMJmSp0|Camille Saint-Saëns|The Carnival of the Animals",
