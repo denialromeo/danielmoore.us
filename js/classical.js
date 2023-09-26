@@ -118,7 +118,7 @@ const classical = [
 "George Frideric Handel|Theodora|1750|pe2AIay_Yy8|George Frideric Handel|Theodora (Handel)",
 "William Boyce|Eight Symphonies, op. 2|1760|ONv2X10nUw0|William Boyce|",
 "Joseph Haydn|Symphonies nos. 6-8|1761|58tDranbYg4|Joseph Haydn|",
-"Christoph Willibald Gluck|Orfeo ed Euridice|1762|JUpZ1Npj23M|Christoph Willibald Gluck|",
+"Christoph Willibald Gluck|Orfeo ed Euridice|1762|JUpZ1Npj23M|Christoph Willibald Gluck|Orfeo ed Euridice",
 "Leopold Mozart|Trumpet Concerto|1762|vWMRRfNnErI|Leopold Mozart|",
 "Joseph Haydn|Cello Concertos|1762-1783|zLhC4tLeT8k|Joseph Haydn|",
 "Wolfgang Amadeus Mozart|Violin Sonatas|1763-1788|-xVbIhCSCS4|Wolfgang Amadeus Mozart|",
