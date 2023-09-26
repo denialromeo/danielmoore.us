@@ -209,7 +209,7 @@ const albums = [
 "The Modern Lovers|The Modern Lovers|1976|PL3FsqPw8M_Df6KxkLEFnHlK5_7llTAtrh|A366|The Modern Lovers (album)|The Modern Lovers|Proto-Punk;Rock",
 "Creedence Clearwater Revival|Cosmo's Factory|1970|PL6ogdCG3tAWg4PBi87_pVGFAwXB57ZU0H|A191|Cosmo's Factory|Creedence Clearwater Revival|Swamp Rock;Rock;Roots Rock",
 "Bob Marley and The Wailers|Exodus|1977|PLA0FCD8C71A9FACD3|A407|Exodus (Bob Marley and the Wailers album)|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
-"Animal Collective|Merriweather Post Pavilion|2009|PLC80P4gsPr-Y34DWVoWN1DQYmDR68JRjy|A4987|Merriweather Post Pavilion (album)|Animal Collective|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock",
+"Animal Collective|Merriweather Post Pavilion|2009|PLZqsyBiYZFQ1lSPbxpuTK288FXNy-2tQq|A4987|Merriweather Post Pavilion (album)|Animal Collective|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock",
 "Pink Floyd|Wish You Were Here|1975|PLfimnwaZdumgdg-BPofqK8h6cdkxIxe2H|A347|Wish You Were Here (Pink Floyd album)|Pink Floyd|Art Rock;Progressive Rock;Rock",
 "Suicide|Suicide|1977|PLEvr99j7ruPz6rLqMcIFM4wb-7hwK2f7C|A400|Suicide (1977 album)|Suicide (band)|Minimal Synth;Synth Punk;Electronic;Minimal Wave;Punk Rock;Rock",
 "PJ Harvey|Let England Shake|2011|PL6CFBB8D9058F314A|A5149|Let England Shake|PJ Harvey|Alternative Singer/Songwriter;Singer/Songwriter",
