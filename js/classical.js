@@ -123,7 +123,7 @@ const classical = [
 "Joseph Haydn|Cello Concertos|1762-1783|zLhC4tLeT8k|Joseph Haydn|",
 "Wolfgang Amadeus Mozart|Violin Sonatas|1763-1788|-xVbIhCSCS4|Wolfgang Amadeus Mozart|",
 "Giuseppe Tartini|Violin Sonata in G minor, “The Devil’s Trill”|1765|ZkX8YyA4Wp4|Giuseppe Tartini|",
-"Christoph Willibald Gluck|Alceste|1767|iDFnGqG7qt8|Christoph Willibald Gluck|",
+"Christoph Willibald Gluck|Alceste|1767|iDFnGqG7qt8|Christoph Willibald Gluck|Alceste (Gluck)",
 "Andre-Ernest-Modeste Grétry|Zémire et Azor|1771|GiQq7VRQBp8|André Grétry|",
 "Joseph Haydn|Keyboard Sonatas|1771-1795|9KTgA1i06xU|Joseph Haydn|",
 "Luigi Boccherini|String Quintets|1772-1803|mTL3ItzPIec|Luigi Boccherini|String Quintet in E major, Op. 11, No. 5 (Boccherini)",
