@@ -245,7 +245,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Schindler's List*](https://www.amazon.com/gp/video/detail/B00BEN0V8S) by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) (Still the best film ever made about racism.)
 * [*The Sunset Limited*](https://play.max.com/movie/45898ac7-06e9-4abe-b5ee-a6d2be63cfd3) by [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy) (Is continuing to live [rational](https://philosophy.redzambala.com/leo-tolstoy/confession-leo-tolstoy-7.html)?)
 * [*Synecdoche, New York*](https://www.amazon.com/gp/video/detail/B00BZAZYMI) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
-* [*They Shall Not Grow Old*](https://www.netflix.com/watch/81048455) by [Peter Jackson](https://en.wikipedia.org/wiki/Peter_Jackson) (France yesterday, Ukraine today.)
+* [*They Shall Not Grow Old*](https://www.netflix.com/watch/81048455) by [Peter Jackson](https://en.wikipedia.org/wiki/Peter_Jackson) (France in 1916, Ukraine today.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
 * [*The Wolf of Wall Street*](https://www.amazon.com/Wolf-Wall-Street-Leonardo-DiCaprio/dp/B00IIU9FQY) by [Martin Scorsese](https://en.wikipedia.org/wiki/Martin_Scorsese) (Quit while you're ahead.)
 * [*World's Greatest Dad*](https://www.amazon.com/gp/video/detail/B00C0J535Q) by [Bobcat Goldthwait](https://en.wikipedia.org/wiki/Bobcat_Goldthwait) (Quiet desperation is the American way.)
