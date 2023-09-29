@@ -410,7 +410,7 @@ const classical = [
 "Camille Saint-Saëns|Samson et Dalila|1877|vjRiLKSPbqc|Camille Saint-Saëns|",
 "Johannes Brahms|Violin Concerto|1878|UFl9xuYP5T8|Johannes Brahms|Violin Concerto (Brahms)",
 "Pablo de Sarasate|Zigeunerweisen|1878|ufIlOXXMqs0|Pablo de Sarasate|",
-"Antonín Dvorák|Slavonic Dances|1878-1886|JhBjD23F2r0|Antonín Dvořák|",
+"Antonín Dvorák|Slavonic Dances|1878-1886|JhBjD23F2r0|Antonín Dvořák|Slavonic Dances",
 "Arthur Sullivan|H.M.S. Pinafore|1878|Ddke1VVNA8s|Arthur Sullivan|H.M.S. Pinafore",
 "Pyotr Ilyich Tchaikovsky|Eugene Onegin|1878|iR9P82WbQug|Pyotr Ilyich Tchaikovsky|Eugene Onegin (opera)",
 "Pyotr Ilyich Tchaikovsky|Symphony no. 4|1878|YnRkXtsD_54|Pyotr Ilyich Tchaikovsky|Symphony No. 4 (Tchaikovsky)",
