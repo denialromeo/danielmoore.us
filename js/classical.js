@@ -990,7 +990,7 @@ const classical = [
 "Olivier Messiaen|Éclairs sur l’Au-delà…|1992|EA53UMx7dHY|Olivier Messiaen|Éclairs sur l'Au-Delà...",
 "Simon Bainbridge|Ad ora incerta|1994|gOge-mKZvdo|Simon Bainbridge|",
 "György Kurtág|Stele|1994|WiqCwQ8nJhY|György Kurtág|Stele (Kurtág)",
-"Magnus Lindberg|Aura|1994|E_fqQSiD4vA|Magnus Lindberg|",
+"Magnus Lindberg|Aura|1994|E_fqQSiD4vA|Magnus Lindberg|Aura (Magnus Lindberg)",
 "Carl Vine|Percussion Symphony|1995|3BVcPl3_nj0|Carl Vine|",
 "Mark-Anthony Turnage|Blood on the Floor|1996|3doy0Wb-Pcw|Mark-Anthony Turnage|Blood on the Floor (Turnage)",
 "Thomas Adès|Asyla|1997|Tb8LWa3eak8|Thomas Adès|Asyla",
