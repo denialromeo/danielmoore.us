@@ -212,7 +212,7 @@ const classical = [
 "Louis Spohr|Nonet in F major|1813|StIxuL01mj0|Louis Spohr|",
 "Ludwig van Beethoven|Fidelio|1814|sm7hGCSkhTE|Ludwig van Beethoven|",
 "Franz Schubert|Lieder|1814-1828|fYiw37hpZtY|Franz Schubert|",
-"Ludwig van Beethoven|Cello Sonatas, Op. 102|1815|nUFGQqzznkM|Ludwig van Beethoven|",
+"Ludwig van Beethoven|Cello Sonatas, Op. 102|1815|nUFGQqzznkM|Ludwig van Beethoven|Cello Sonatas Nos. 4 and 5 (Beethoven)",
 "Nicolò Paganini|Violin Concertos nos. 1-6|1815-1830|7AfxA17L8bg|Niccolò Paganini|Violin Concerto No. 1 (Paganini)",
 "Gioachino Rossini|The Barber of Seville|1816|OloXRhesab0|Gioachino Rossini|The Barber of Seville",
 "Franz Schubert|Symphony No. 5|1816|OHkot1TmvZU|Franz Schubert|Symphony No. 5 (Schubert)",
