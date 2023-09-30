@@ -6884,7 +6884,7 @@ const songs = [
 "Rod Stewart|Every Picture Tells a Story|1971|hqi_m-pMuoI|Rod Stewart|S12082|Roots Rock;Rock|",
 "Nickelback|How You Remind Me|2001|Aiay8I5IPB8|Nickelback|S7736|Post-Grunge;Alternative Rock;Rock|How You Remind Me",
 "C+C Music Factory|Gonna Make You Sweat (Everybody Dance Now)|1990|LaTGrV58wec|C+C Music Factory|S2421|Dance-Pop;Hip House;Pop Rap;Dance;Electronic;Electronic Dance Music;Hip Hop;House;Pop|Gonna Make You Sweat (Everybody Dance Now)",
-"Emerson, Lake & Palmer|Fanfare for the Common Man|1977|c2zurZig4L8|Emerson, Lake & Palmer|S14363|Fanfare;Symphonic Prog;European Folk Music;Folk;Progressive Rock;Regional Music;Rock;Traditional Folk Music|",
+"Emerson, Lake & Palmer|Fanfare for the Common Man|1977|c2zurZig4L8|Emerson, Lake & Palmer|S14363|Fanfare;Symphonic Prog;European Folk Music;Folk;Progressive Rock;Regional Music;Rock;Traditional Folk Music|Fanfare for the Common Man (Emerson, Lake & Palmer song)",
 "Feist|I Feel It All|2007|l-iAS18rv68|Feist (singer)|S15476|Chamber Pop;Baroque Pop;Indie Pop;Pop|I Feel It All",
 "George Michael|Outside|1998|gwZAYdHcDtU|George Michael|S4241|Dance-Pop;Dance;Pop|Outside (George Michael song)",
 "Animal Collective|Leaf House|2004|VPWR98JCCRE|Animal Collective|S4686|Avant-Folk;Freak Folk;Neo-Psychedelia;Contemporary Folk;Folk;Psychedelic Folk;Psychedelic Rock;Rock|",
