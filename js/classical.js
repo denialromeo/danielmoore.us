@@ -276,7 +276,7 @@ const classical = [
 "Vincenzo Bellini|I puritani|1835|3CKto2oZ2w8|Vincenzo Bellini|I puritani",
 "Robert Schumann|Études symphoniques|1835-1852|G1FFWgzk4vI|Robert Schumann|",
 "Robert Schumann|Carnaval|1835|zk8v0HkzKzc|Robert Schumann|",
-"Robert Schumann|Piano Sonata no. 1|1835|ruV4V5mPwW8|Robert Schumann|Piano Sonata No. 2 (Schumann)",
+"Robert Schumann|Piano Sonata no. 1|1835|ruV4V5mPwW8|Robert Schumann|Piano Sonata No. 1 (Schumann)",
 "Frédéric Chopin|Ballades|1835-1841|3QH8MstNkKg|Frédéric Chopin|Ballades (Chopin)",
 "Giacomo Meyerbeer|Les Huguenots|1836|sK0xbDR3ckU|Giacomo Meyerbeer|Les Huguenots",
 "Felix Mendelssohn|String Quartets, op. 44|1837-1838|YYnZnPlOywk|Felix Mendelssohn|",
