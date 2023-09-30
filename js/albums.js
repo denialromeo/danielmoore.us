@@ -1869,7 +1869,7 @@ const albums = [
 "Black Sabbath|Sabbath Bloody Sabbath|1973|PLMFTtgzckHg2Dkd2Cf1GHMl6ggWThJNyF|A1379|Sabbath Bloody Sabbath|Black Sabbath|Hard Rock;Heavy Metal;Metal;Rock",
 "The Original Soundtrack|West Side Story|1961|PLCD30B46A0041DF14|A1920|West Side Story (soundtrack)|Leonard Bernstein|Film Soundtrack;Show Tunes;Descriptor;Musical Theatre and Entertainment;Soundtracks",
 "Baaba Maal & Mansour Seck|Djam Leelii|1983|PLqPQjqWYYLlKfpB8INWk1lcIlfUpPIv62|A2813|Djam Leelii|Baaba Maal|Mande Music;Mbalax;African Music;Regional Music;West African Music;Wolof Music",
-"Robert Wyatt|Comicopera|2007|PLUpMRgoYQCduA-r5W3Ko24uMgirleH9Xm|A4266|Comicopera|Robert Wyatt|Canterbury Scene;Singer/Songwriter;Progressive Rock;Rock",
+"Robert Wyatt|Comicopera|2007|PLfhR1VDg5Avyp90RynGhkl8CJMP8hlp-1|A4266|Comicopera|Robert Wyatt|Canterbury Scene;Singer/Songwriter;Progressive Rock;Rock",
 "Aretha Franklin|Spirit in the Dark|1970|PLVcLtTv_AgptkSie0WxleHQJjsTuuMPmA|A201|Spirit in the Dark|Aretha Franklin|Deep Soul;R&B;Soul;Southern Soul",
 "Inner City|Paradise/Big Fun|1989|PLjIuADMrDKIbtXkASMjRcGRNBjX44krgQ|A775|Paradise (Inner City album)|Inner City (band)|Detroit Techno;House;Dance;Electronic;Electronic Dance Music;Techno",
 "Rory Gallagher|Irish Tour '74|1974|PLDDAYQXk_M64PuzcFv1ujnUL1LmiVlJ0_|A1670|Irish Tour '74|Rory Gallagher|Blues Rock;Rock",
