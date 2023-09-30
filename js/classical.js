@@ -802,7 +802,7 @@ const classical = [
 "Ralph Vaughan Williams|Serenade for Music|1938|QDYi4JgQA2I|Ralph Vaughan Williams|",
 "Silvestre Revueltas|Sensemayá|1938|aJxd0nIY1oA|Silvestre Revueltas|Sensemayá",
 "Igor Stravinsky|Concerto in E flat, “Dumbarton Oaks”|1938|l6gqiA8iIMo|Igor Stravinsky|Violin Concerto (Stravinsky)",
-"Anton Webern|String Quartet, op. 28|1938|5r29_vMzRF8|Anton Webern|",
+"Anton Webern|String Quartet, op. 28|1938|5r29_vMzRF8|Anton Webern|String Quartet (Webern)",
 "Benjamin Britten|Les illuminations|1939|QexU2At_lLQ|Benjamin Britten|Les Illuminations (Britten)",
 "Benjamin Britten|Violin Concerto|1939|dDTIae06t6Y|Benjamin Britten|Violin Concerto (Britten)",
 "Joaquín Rodrigo|Concierto de Aranjuez|1939|-oxH-7VklBI|Joaquín Rodrigo|Concierto de Aranjuez",
