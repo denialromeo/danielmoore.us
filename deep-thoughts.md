@@ -27,26 +27,6 @@ If you do this, you'll probably get nothing at first. But if you're young and st
 
 <hr>
 
-During the dot-com bust of the early 2000's, [more than one million jobs were lost](https://www.nytimes.com/2023/01/20/technology/tech-layoffs-millennials-gen-x.html). It took 20 years, until 2021, for the job market to recover to the peak of the dot-com boom.
-
-Since mid-2022, a new bust is upon us. At least [400,000](https://layoffs.fyi/) jobs have been lost. I suspect it might actually be much higher. My father was laid off with 5% of his company from his job in June 2023 (and effectively forcibly retired), but his layoff doesn't seem to have been publicly announced.
-
-This new bust comes along at a fascinating point. Interest rates, which have been going down for my whole life, are suddenly back up to 1990's levels. Rent and food prices have skyrocketed.
-
-Remote work has been proven feasible at scale by the pandemic. ChatGPT has also revolutionized computer programming, allowing one motivated engineer to do the work of four or five.
-
-Given all these developments, some predictions for the future U.S. software job market &ndash;
-
-* Remote work makes workers interchangeable so long as they share the same time zone. Canada has committed to taking in [1.5 million](https://www.bbc.com/news/world-us-canada-63643912) immigrants by 2025. Their [points&#8209;based](https://www.cic.gc.ca/english/immigrate/skilled/crs-tool.asp) immigration system prioritizes skilled, educated migrants.
-    
-    It's pretty obvious that many of these 1.5 million will work remotely for U.S. tech companies from Vancouver and Toronto. This effectively makes the H-1B visa redundant. Why deal with all the political headaches of immigration when you can just bring them in next door?
-
-    (As a side note, this is a good argument for investing in Canadian real estate, or at least for *not* investing in U.S. real estate. Without highly-paid software engineer jobs in San Francisco, nobody will be willing to purchase a house in the Bay Area.)
-
-* Artificial intelligence is going to gut the software industry. Being able to convert plain-language queries to 
-
-<hr>
-
 Many of the world's problems are caused by there being too many excess males.
 
 In our age of fossil fuels and artificial intelligence, we really don't need most men around at all. Women are intrinsically valuable, but I've seen many good things (clubs, companies, countries) ruined because idiot males ran them into the ground to satisfy their egos or to humiliate other men.
