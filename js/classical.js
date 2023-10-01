@@ -866,7 +866,7 @@ const classical = [
 "Ralph Vaughan Williams|Symphony No. 6|1947-1950|0v1raArPumk|Ralph Vaughan Williams|Symphony No. 5 (Vaughan Williams)",
 "Maurice Duruflé|Requiem|1947|XRzPi0CA1rg|Maurice Duruflé|Requiem (Duruflé)",
 "Samuel Barber|Knoxville: Summer of 1915|1947|PQzaFJZ8CuE|Samuel Barber|Knoxville: Summer of 1915",
-"Roberto Gerhard|The Duenna|1947|Fd5jzafBk5s|Robert Gerhard|",
+"Roberto Gerhard|The Duenna|1947|Fd5jzafBk5s|Robert Gerhard|The Duenna (opera)",
 "John Cage|Sonatas and Interludes|1948|TJhv_k4xkMI|John Cage|",
 "Aaron Copland|Clarinet Concerto|1948|9GnJBLwOjFo|Aaron Copland|Clarinet Concerto (Copland)",
 "Conlon Nancarrow|Player Piano Studies|1948-1993|f2gVhBxwRqg|Conlon Nancarrow|",
