@@ -4082,7 +4082,7 @@ const songs = [
 "Duran Duran|The Chauffeur|1982|MCF2nMrQde8|Duran Duran|S6173|Art Pop;Darkwave;New Romantic;New Wave;Pop;Rock|Come Undone (Duran Duran song)",
 "Whodini|Friends|1984|yYv_GBHXLu4|Whodini|S2350|East Coast Hip Hop;Electro;Dance;Electronic;Electronic Dance Music;Hip Hop|Friends (Whodini song)",
 "Adele|Chasing Pavements|2008|08DjMT-qR9g|Adele|S4699|Blue Eyed Soul;Pop|Chasing Pavements",
-"Os Mutantes|Panis et circenses|1968|ETqMNQw-a9M|Os Mutantes|S11811|Experimental Rock;Psychedelic Rock;Tropicália;Brazilian Music;MPB;Regional Music;Rock|Os Mutantes (album)",
+"Os Mutantes|Panis et circenses|1968|ETqMNQw-a9M|Os Mutantes|S11811|Experimental Rock;Psychedelic Rock;Tropicália;Brazilian Music;MPB;Regional Music;Rock|",
 "Devo|Jocko Homo|1977|I3bF0N081TE|Devo|S1559|New Wave;Post-Punk;Zolo;Rock|",
 "Wyclef Jean|Gone Till November|1997|kI6MWZrl8v8|Wyclef Jean|S2161|Neo-Soul;Pop Rap;Hip Hop;R&B;Soul|Gone till November",
 "Fabrizio De André|Crêuza de mä|1984|78YNQ7zzxvQ|Fabrizio De André|S6330|Canzone d'autore;Contemporary Folk;Folk;Singer/Songwriter|",
