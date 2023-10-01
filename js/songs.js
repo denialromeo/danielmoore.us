@@ -5229,7 +5229,7 @@ const songs = [
 "Simon and Garfunkel|Cecilia|1970|a5_QV97eYqM|Simon & Garfunkel|S8417|Folk Pop;Contemporary Folk;Folk;Pop|Cecilia (Simon & Garfunkel song)",
 "Al Green|L-O-V-E (Love)|1975|DpAbAFJ4MJI|Al Green|S5125|Southern Soul;R&B;Soul|L-O-V-E (Love)",
 "Berlin|Take My Breath Away|1986|Bx51eegLTY8|Berlin (band)|S5417|Film Soundtrack;Synthpop;Descriptor;Electronic;Pop;Soundtracks|Take My Breath Away",
-"Green Velvet|Flash|1995|l_RfediFJFQ|Curtis Jones|S6644|Acid House;Acid Techno;Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|",
+"Green Velvet|Flash|1995|l_RfediFJFQ|Green Velvet|S6644|Acid House;Acid Techno;Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|",
 "The Gap Band|Outstanding|1983|pSnJ5MV5T84|The Gap Band|S6497|Boogie;Funk;Dance;Disco;R&B|Outstanding",
 "Nick Lowe|Heart of the City|1976|4hmVPncZGVE|Nick Lowe|S4429|New Wave;Power Pop;Pub Rock;Pop;Pop Rock;Rock|",
 "Paul Simon|The Boy in the Bubble|1986|aGEz7fwcmlY|Paul Simon|S7896|Folk Pop;Pop Rock;Contemporary Folk;Folk;Pop;Rock|The Boy in the Bubble",
