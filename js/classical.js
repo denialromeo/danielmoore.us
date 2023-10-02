@@ -714,7 +714,7 @@ const classical = [
 "Jean Sibelius|Symphony No. 7|1924|Bi9QiDrJJmw|Jean Sibelius|Symphony No. 5 (Sibelius)",
 "George Gershwin|Rhapsody in Blue|1924|ynEOo28lsbc|George Gershwin|Rhapsody in Blue",
 "Marcel Dupré|Symphonie-Passion|1924|BrKyBkssfWA|Marcel Dupré|",
-"Maurice Ravel|Tzigane|1924|tQjh9Z71RJ4|Maurice Ravel|",
+"Maurice Ravel|Tzigane|1924|tQjh9Z71RJ4|Maurice Ravel|Tzigane",
 "Maurice Ravel|L’enfant et les sortilèges|1924|JbqySviU4YQ|Maurice Ravel|",
 "Alexander Zemlinsky|String Quartet No. 3|1924|fLMnvibmql8|Alexander von Zemlinsky|Late string quartets (Beethoven)",
 "Giacomo Puccini|Turandot|1924|cWc7vYjgnTs|Giacomo Puccini|Turandot",
