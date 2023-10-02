@@ -709,7 +709,7 @@ const classical = [
 "Igor Stravinsky|Les noces|1923|gNBDJNHeZmo|Igor Stravinsky|Les noces",
 "Eugène Ysaye|Six Solo Violin Sonatas, Op. 27|1923|QBSSTKo60Qs|Eugène Ysaÿe|",
 "Béla Bartók|The Miraculous Mandarin|1924|SCkn0Qjm0Ho|Béla Bartók|The Miraculous Mandarin",
-"Ferruccio Busoni|Doktor Faust|1924|xrFwfeKzRuE|Ferruccio Busoni|",
+"Ferruccio Busoni|Doktor Faust|1924|xrFwfeKzRuE|Ferruccio Busoni|Doktor Faust",
 "Karol Szymanowski|King Roger|1924|rguMf64vWW4|Karol Szymanowski|King Roger",
 "Jean Sibelius|Symphony No. 7|1924|Bi9QiDrJJmw|Jean Sibelius|Symphony No. 5 (Sibelius)",
 "George Gershwin|Rhapsody in Blue|1924|ynEOo28lsbc|George Gershwin|Rhapsody in Blue",
