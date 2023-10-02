@@ -378,7 +378,7 @@ const classical = [
 "Modest Mussorgsky|Boris Godunov|1869-1908|16NiqpBZMpM|Modest Mussorgsky|Boris Godunov (opera)",
 "Johannes Brahms|Hungarian Dances|1869-1880|YXT42ghiuZ4|Johannes Brahms|Hungarian Dances (Brahms)",
 "Mily Alekseyevich Balakirev|Islamey|1869-1902|78AslTXMp30|Mily Balakirev|",
-"Pyotr Ilyich Tchaikovsky|Romeo and Juliet Fantasy Overture|1869-1880|_Od7gx3Dc-U|Pyotr Ilyich Tchaikovsky|Romeo and Juliet (Tchaikovsky)",
+"Pyotr Ilyich Tchaikovsky|Romeo and Juliet|1869-1880|_Od7gx3Dc-U|Pyotr Ilyich Tchaikovsky|Romeo and Juliet (Tchaikovsky)",
 "Léo Delibes|Coppélia|1870|haxnvx6SHIo|Léo Delibes|Coppélia",
 "Richard Wagner|Siegfried Idyll|1870|891JUSQplzU|Richard Wagner|",
 "Giuseppe Verdi|Aida|1871|AssDQbaIP_I|Giuseppe Verdi|Aida",
