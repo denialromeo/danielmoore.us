@@ -881,7 +881,7 @@ const classical = [
 "Astor Piazzolla|Tangos|1950-1952|57c70FU9-z0|Astor Piazzolla|",
 "Malcolm Arnold|English Dances|1950-1951|YjWhe4njA5A|Malcolm Arnold|English Dances (Arnold)",
 "Benjamin Britten|Billy Budd|1951-1960|A1lVBfqQyjs|Benjamin Britten|Billy Budd (opera)",
-"Dmitri Shostakovich|Twenty-four Preludes and Fugues|1951|7wNxgM-1DV4|Dmitri Shostakovich|",
+"Dmitri Shostakovich|Twenty-four Preludes and Fugues|1951|7wNxgM-1DV4|Dmitri Shostakovich|24 Preludes and Fugues (Shostakovich)",
 "Francis Poulenc|Stabat mater|1951|quemnTLY3fE|Francis Poulenc|",
 "Igor Stravinsky|The Rake’s Progress|1951|DdJw86l22JA|Igor Stravinsky|The Rake's Progress",
 "Sergei Prokofiev|Symphony-Concerto|1951|-rQyZYPvVew|Sergei Prokofiev|Symphony-Concerto (Prokofiev)",
