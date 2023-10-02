@@ -172,7 +172,7 @@ const classical = [
 "Domenico Cimarosa|Il matrimonio segreto|1792|WrFa7mTK0KE|Domenico Cimarosa|",
 "Joseph Haydn|Symphony No. 104, “London”|1794|OitPLIowJ70|Joseph Haydn|Symphony No. 104 (Haydn)",
 "Joseph Haydn|Trumpet Concerto|1795|ZUZYoVw7moc|Joseph Haydn|Trumpet Concerto (Haydn)",
-"Luigi Cherubini|Médée|1796|fW-gtPnslo8|Luigi Cherubini|",
+"Luigi Cherubini|Médée|1796|fW-gtPnslo8|Luigi Cherubini|Médée (Cherubini)",
 "Joseph Haydn|Trumpet Concerto|1797|ZUZYoVw7moc|Joseph Haydn|Trumpet Concerto (Haydn)",
 "Joseph Haydn|String Quartets, Op. 76|1797|k5IR5Wt0yEw|Joseph Haydn|String Quartets, Op. 76 (Haydn)",
 "Ludwig van Beethoven|Piano Sonata in C minor, Op. 13, “Pathétique”|1798|91MTUXla-lE|Ludwig van Beethoven|Piano Sonata No. 8 (Beethoven)",
