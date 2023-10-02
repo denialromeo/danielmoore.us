@@ -133,7 +133,7 @@ const classical = [
 "Wolfgang Amadeus Mozart|Violin Concerto No. 5, “Turkish”|1775|AgY3DMGBF2g|Wolfgang Amadeus Mozart|",
 "Wolfgang Amadeus Mozart|Piano Concerto No. 9, “Jeunehomme”|1777|plfty7jbM_g|Wolfgang Amadeus Mozart|Piano Concerto No. 9 (Mozart)",
 "Christoph Willibald Gluck|Iphigénie en Tauride|1779|ROzh7i_RSyc|Christoph Willibald Gluck|",
-"Wolfgang Amadeus Mozart|Sinfonia concertante in E flat major|1780|_0hTDZ0whpU|Wolfgang Amadeus Mozart|",
+"Wolfgang Amadeus Mozart|Sinfonia concertante in E flat major|1780|_0hTDZ0whpU|Wolfgang Amadeus Mozart|Sinfonia Concertante for Violin, Viola and Orchestra (Mozart)",
 "Wolfgang Amadeus Mozart|Idomeneo, re di Creta|1781|_4BC2AQ6ypw|Wolfgang Amadeus Mozart|",
 "Wolfgang Amadeus Mozart|“Haydn” Quartets|1782-1785|ex7GJIRw3-I|Wolfgang Amadeus Mozart|Haydn Quartets (Mozart)",
 "Wolfgang Amadeus Mozart|Die Entführung aus dem Serail|1782|iYOTeHL14uQ|Wolfgang Amadeus Mozart|Die Entführung aus dem Serail",
