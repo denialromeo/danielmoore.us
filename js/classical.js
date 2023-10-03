@@ -580,7 +580,7 @@ const classical = [
 "Arnold Schoenberg|String Quartet No. 2|1908|eB5I5iU0OoE|Arnold Schoenberg|String Quartets (Schoenberg)",
 "Gustav Holst|Savitri|1908|5meFq1hxfDI|Gustav Holst|",
 "Anton Webern|Passacaglia|1908|u37qhac1FUI|Anton Webern|",
-"Arnold Schoenberg|Erwartung|1908|P6PKIraXpIk|Arnold Schoenberg|",
+"Arnold Schoenberg|Erwartung|1908|P6PKIraXpIk|Arnold Schoenberg|Erwartung",
 "Béla Bartók|String Quartets|1909-1939|xaQvPhVvQaY|Béla Bartók|List of string quartets by Béla Bartók",
 "Gustav Mahler|Das Lied von der Erde|1909|Npy4gjZ81F0|Gustav Mahler|Das Lied von der Erde",
 "Gustav Mahler|Symphony No. 9|1909|IoNEeKJ2x44|Gustav Mahler|Symphony No. 9 (Mahler)",
