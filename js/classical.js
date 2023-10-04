@@ -967,7 +967,7 @@ const classical = [
 "Jonathan Harvey|Mortuos plango, vivos voco|1980|0T-H-fVlHE0|Jonathan Harvey|Mortuos Plango, Vivos Voco",
 "William Bolcom|Songs of Innocence and Experience|1981|D9Qhr97wB3g|William Bolcom|Songs of Innocence and of Experience",
 "John Tavener|Funeral Ikos|1981|4ZRrbixpVV0|John Tavener|",
-"Olivier Messiaen|Saint François d’Assise|1983|0TufQgNdfss|Olivier Messiaen|",
+"Olivier Messiaen|Saint François d’Assise|1983|0TufQgNdfss|Olivier Messiaen|Saint François d'Assise",
 "Oliver Knussen|Where the Wild Things Are|1984|lDCsKAvjWn0|Oliver Knussen|Where the Wild Things Are (opera)",
 "Olivier Messiaen|Livre du Saint Sacrement|1984|RJ_x_8o80TI|Olivier Messiaen|",
 "Hans Werner Henze|Symphony No. 7|1984|QmRpoA74BME|Hans Werner Henze|",
