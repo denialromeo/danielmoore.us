@@ -7591,7 +7591,7 @@ const songs = [
 "Underworld|Cowgirl|1993|feWNvGpWHLM|Underworld (band)|S2374|Techno;Trance;Dance;Electronic;Electronic Dance Music|Cowgirl (song)",
 "Girls|Honey Bunny|2011|IxuDoYhQI2o|Girls (band)|S6571|Indie Pop;Pop|",
 "Taylor Swift|Lover|2019|-BjZmE2gtdo|Taylor Swift|S16878|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Lover (Taylor Swift song)",
-"Dazz Band|Let It Whip|1982|Gd3gl5gnMeA?start=11|Dazz Band|S10539|Contemporary R&B;Synth Funk;Funk;R&B|",
+"Dazz Band|Let It Whip|1982|Gd3gl5gnMeA?start=11|Dazz Band|S10539|Contemporary R&B;Synth Funk;Funk;R&B|Let It Whip",
 "The Clash|Clampdown|1979|LQ82BX0hGBM|The Clash|S9189|New Wave;Punk Rock;Rock|Clampdown",
 "The Seeds|Can't Seem to Make You Mine|1965|fSqMaqKs9Eg|The Seeds|S12176|Garage Rock;Psychedelic Rock;Rock|Can't Seem to Make You Mine",
 "Smith Westerns|Weekend|2010|OmmLRt0p-fg|Smith Westerns|S8461|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
