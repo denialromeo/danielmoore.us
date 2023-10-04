@@ -820,7 +820,7 @@ const classical = [
 "Arthur Honegger|Symphony No. 2|1941|NfssYoRkY58|Arthur Honegger|Symphony No. 3 \"Symphonie Liturgique\" (Honegger)",
 "Olivier Messiaen|Quartet for the End of Time|1941|zYpBHc8px_U|Olivier Messiaen|Quatuor pour la fin du temps",
 "Benjamin Britten|String Quartets|1941-1975|SdKcOm_3VJU|Benjamin Britten|String Quartet No. 2 (Britten)",
-"Manuel Ponce|Concierto del sur|1941|0OoFTYM-J2c|Manuel Ponce|",
+"Manuel Ponce|Concierto del sur|1941|0OoFTYM-J2c|Manuel Ponce|Concierto del Sur",
 "Richard Strauss|Capriccio|1941|nnDcVSDnSU4|Richard Strauss|Capriccio (opera)",
 "Michael Tippett|A Child of Our Time|1941|8dypyQY4MW4|Michael Tippett|A Child of Our Time",
 "Alberto Ginastera|Estancia|1941|8JqLOHzg1DQ|Alberto Ginastera|",
