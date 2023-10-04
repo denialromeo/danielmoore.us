@@ -835,7 +835,7 @@ const classical = [
 "Sergei Prokofiev|War and Peace|1943-1952|L50YIs955e0|Sergei Prokofiev|War and Peace (opera)",
 "Ralph Vaughan Williams|Symphony No. 5|1943|lNXBfIA30Mc|Ralph Vaughan Williams|Symphony No. 5 (Vaughan Williams)",
 "Béla Bartók|Concerto for Orchestra|1943-1945|9uwpuyc7nS4|Béla Bartók|Concerto for Orchestra (Bartók)",
-"Paul Hindemith|Symphonic Metamorphosis after Themes by Carl Maria von Weber|1943|2A8tUpPRyR4|Paul Hindemith|",
+"Paul Hindemith|Symphonic Metamorphosis of Themes by Carl Maria von Weber|1943|2A8tUpPRyR4|Paul Hindemith|Symphonic Metamorphosis of Themes by Carl Maria von Weber",
 "Dmitri Shostakovich|Symphony No. 8|1943|9jFesZ-jxRw|Dmitri Shostakovich|Symphony No. 8 (Shostakovich)",
 "Aaron Copland|Appalachian Spring|1944|Q4Qt0AIRK-0|Aaron Copland|Appalachian Spring",
 "Sergei Prokofiev|Cinderella|1944|YYmmCbwNWPs|Sergei Prokofiev|Cinderella (Prokofiev)",
