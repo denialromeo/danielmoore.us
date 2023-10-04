@@ -889,7 +889,7 @@ const classical = [
 "Sergei Prokofiev|Symphony No. 7|1952|mF8oTzXoyts|Sergei Prokofiev|Symphony No. 7 (Prokofiev)",
 "Michael Tippett|The Midsummer Marriage|1952|XJbh2Alvw50|Michael Tippett|",
 "Dmitri Shostakovich|Symphony No. 10|1953|gQU9hNxImxA|Dmitri Shostakovich|Symphony No. 5 (Shostakovich)",
-"Michael Tippett|Fantasia concertante|1953|Dts2_K_vG7A|Michael Tippett|",
+"Michael Tippett|Corelli Fantasia|1953|Dts2_K_vG7A|Michael Tippett|Fantasia Concertante on a Theme of Corelli",
 "Leonard Bernstein|Serenade|1954|Rp868n6rem8|Leonard Bernstein|Serenade after Plato's \"Symposium\"",
 "Benjamin Britten|The Turn of the Screw|1954|eRDPh8WXpe8|Benjamin Britten|The Turn of the Screw (opera)",
 "Aram Khachaturian|Spartacus|1954|LZLMKkEGFRo|Aram Khachaturian|Spartacus (ballet)",
