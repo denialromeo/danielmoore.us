@@ -8034,7 +8034,7 @@ const songs = [
 "Peter Murphy|Cuts You Up|1990|UrfFHzqGBZI|Peter Murphy (musician)|S3647|Alternative Rock;Gothic Rock;Rock|Cuts You Up",
 "Kool & The Gang|Get Down on It|1981|qchPLaiKocI|Kool & the Gang|S11336|Disco;Funk;Dance;R&B|Get Down on It",
 "Weyes Blood|Do You Need My Love|2016|Ml_sZOWY6yU|Weyes Blood|S16212|Baroque Pop;Progressive Pop;Psychedelic Pop;Pop|",
-"Dwight Twilley Band|I'm on Fire|1975|AS_cgag9eQg|Dwight Twilley|S2586|Power Pop;Pop;Pop Rock;Rock|",
+"Dwight Twilley Band|I'm on Fire|1975|AS_cgag9eQg|Dwight Twilley|S2586|Power Pop;Pop;Pop Rock;Rock|I'm on Fire (Dwight Twilley Band song)",
 "Nik Kershaw|Wouldn't It Be Good|1984|buw2_7QhqpY|Nik Kershaw|S2910|New Wave;Pop Rock;Pop;Rock|Wouldn't It Be Good",
 "Azealia Banks|1991|2012|0oM_9ca8hxE|Azealia Banks|S5279|Hip House;UK Garage;Dance;Electronic;Electronic Dance Music;Hip Hop;House|",
 "Moby|Extreme Ways|2002|nBB2bPwKWVg|Moby|S11663|Downtempo;Electronic|Extreme Ways",
