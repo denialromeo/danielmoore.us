@@ -22,10 +22,10 @@ box: random-classical-recording
     <p>You can filter the composition selection! Examples &ndash;</p>
     <ul>
         <li>
-            <a target="_self" href="?artist=tchaikovsky">Compositions by Tchaikovsky.</a>
+            <a target="_self" href="?artist=mozart">Compositions by Mozart.</a>
         </li>
         <li>
-            <a target="_self" href="?composition=requiem&artist=mozart"><i>Requiem</i> by Mozart.</a>
+            <a target="_self" href="?composition=swan+lake"><i>Swan Lake</i> by Tchaikovsky.</a>
         </li>
         <li>
             <a target="_self" href="?year=^1[1-6]..">Compositions from the 1600's and earlier.</a>
@@ -79,7 +79,6 @@ box: random-classical-recording
     }
     const info = choice(pool).split("|")
     const infoLog = info.slice(0,3).concat(info.slice(6,7))
-    for (let i = 0; i < infoLog.length; i++) { console.log(infoLog[i]) }
     iframe.src = info[3].startsWith("http") ? info[3] : `https://youtube.com/embed/${info[3]}`
     const wikiLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[4])}>${info[0]}</a>`
     const songLink = info[5] == '' ? `<span>${info[1]}</span>` : `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[5])}>${info[1]}</a>`
