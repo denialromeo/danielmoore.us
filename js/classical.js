@@ -313,7 +313,7 @@ const classical = [
 "Richard Wagner|Tannhäuser|1845-1861|SRmCEGHt-Qk|Richard Wagner|Tannhäuser (opera)",
 "Felix Mendelssohn|Elijah|1846|pduEw6cn5N0|Felix Mendelssohn|Elijah (oratorio)",
 "Robert Schumann|Symphony No. 2|1846|z1PQrwsZdPc|Robert Schumann|Symphony No. 2 (Schumann)",
-"Robert Schumann|Piano Trios|1847-1851|FICfmSq9dWE|Robert Schumann|Piano Trio (Clara Schumann)",
+"Robert Schumann|Piano Trios|1847-1851|FICfmSq9dWE|Robert Schumann|Piano Trio No. 1 (Schumann)",
 "Giuseppe Verdi|Macbeth|1947-1865|MI8V78mPsMA|Giuseppe Verdi|",
 "Charles-Valentin Alkan|Grande sonate “Les quatres âges”|1848|EUUgoJqVSFY|Charles-Valentin Alkan|",
 "Johann Strauss the Elder|Radetzky March|1848|eab_eFtTKFs|Johann Strauss I|Radetzky March",
