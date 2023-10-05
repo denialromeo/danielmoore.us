@@ -735,7 +735,7 @@ const classical = [
 "Bohuslav Martinu|La revue de cuisine|1927|B73RwTsrikQ|Bohuslav Martinů|List of compositions by Bohuslav Martinů",
 "Igor Stravinsky|Oedipus rex|1927|O0vVLj-9y7o|Igor Stravinsky|Oedipus rex (opera)",
 "Zoltán Kodály|Háry János Suite|1927|ym2QvHQNyPU|Zoltán Kodály|Háry János",
-"Eugène Goossens|Oboe Concerto|1927|VyFu8ToIJEQ|Eugène Goossens|Oboe Concerto (Vaughan Williams)",
+"Eugène Goossens|Oboe Concerto|1927|VyFu8ToIJEQ|Eugene Aynsley Goossens|Oboe Concerto (Vaughan Williams)",
 "Constant Lambert|The Rio Grande|1927|_I1eHvdwdv4|Constant Lambert|",
 "Edgard Varèse|Arcana|1927|Bg3-Sdn4PPg|Edgard Varèse|",
 "George Gershwin|An American in Paris|1928|K4I2OzMltM4|George Gershwin|An American in Paris",
