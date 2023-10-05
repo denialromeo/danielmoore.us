@@ -338,7 +338,7 @@ const classical = [
 "Franz Liszt|Piano Concertos nos. 1 &amp; 2|1856-1861|rz1xuCZ0sBM|Franz Liszt|",
 "Hector Berlioz|Les nuits d’été|1856|3HrRrTl88FM|Hector Berlioz|Les nuits d'été",
 "César Franck|Six Pièces, opp. 16-21|1856-1864|dl-L2LyaRVo|César Franck|",
-"Giuseppe Verdi|Simon Boccanegra|1857-1881|0yMmnFejKHI|Giuseppe Verdi|",
+"Giuseppe Verdi|Simon Boccanegra|1857-1881|h2eM5ByJhj8|Giuseppe Verdi|",
 "Jacques Offenbach|Orpheus in the Underworld|1858-1874|vEnW5_GTooI|Jacques Offenbach|Orpheus in the Underworld",
 "Richard Wagner|Wesendonck Lieder|1858|HFxB6DoEUXs|Richard Wagner|Wesendonck Lieder",
 "Hector Berlioz|Les troyens|1858|JVuj-b0zXVE|Hector Berlioz|Les Troyens",

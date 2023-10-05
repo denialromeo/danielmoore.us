@@ -2008,7 +2008,7 @@ const songs = [
 "PJ Harvey|Sheela Na Gig|1992|ojEzTcVvRZk|PJ Harvey|S156|Grunge;Singer/Songwriter;Alternative Rock;Rock|Sheela-Na-Gig (song)",
 "Depeche Mode|Everything Counts|1983|1t-gK-9EIq4|Depeche Mode|S6039|Synthpop;Electronic;Pop|Everything Counts",
 "Hole|Doll Parts|1994|RD9xK9smth4|Hole (band)|S2084|Grunge;Alternative Rock;Rock|Doll Parts",
-"Buzzcocks|What Do I Get?|1978|-EEPvXlTUnU|Buzzcocks|S621|Pop Punk;Punk Rock;Rock|",
+"Buzzcocks|What Do I Get?|1978|iMXR7w76VZU|Buzzcocks|S621|Pop Punk;Punk Rock;Rock|",
 "Blind Lemon Jefferson|See That My Grave Is Kept Clean|1928|6tVxz_1wigw|Blind Lemon Jefferson|S2703|Acoustic Texas Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|See That My Grave Is Kept Clean",
 "Paul Whiteman|Whispering|1920|tOhkc1a-zCo|Paul Whiteman|S2760|Big Band;Jazz|",
 "The Kinks|Dead End Street|1966|RnvHEae69TM|The Kinks|S1438|Mod;Pop Rock;Pop;Rock|Dead End Street (song)",
