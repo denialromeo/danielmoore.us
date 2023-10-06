@@ -9132,7 +9132,7 @@ const songs = [
 "Kasabian|Empire|2006|nVTEqG9enEY|Kasabian|S7055|Indie Rock;Alternative Rock;Rock|Empire (Kasabian song)",
 "Superpitcher|Happiness|2004|ajhvWNka_wI|Superpitcher|S12366|Microhouse;Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|",
 "Carly Rae Jepsen|All That|2015|W374tWnsk70|Carly Rae Jepsen|S9720|Sophisti-Pop;Synthpop;Electronic;Pop|",
-"The Highwaymen|Michael (Row the Boat Ashore)|1960|GFONIPFUgM4|The Highwaymen (folk band)|S6715|Folk Pop;Contemporary Folk;Folk;Pop|",
+"The Highwaymen|Michael, Row the Boat Ashore|1960|GFONIPFUgM4|The Highwaymen (folk band)|S6715|Folk Pop;Contemporary Folk;Folk;Pop|Michael, Row the Boat Ashore",
 "Pink Floyd|Fearless|1971|t3J_2R9rAp8|Pink Floyd|S9321|Art Rock;Folk Rock;Rock|Fearless (Pink Floyd song)",
 "Saint Etienne|How We Used to Live|2000|VsFhXmbvL9s|Saint Etienne (band)|S8301|Art Pop;Indietronica;Progressive Pop;Electronic;Pop|",
 "Caribou/Manitoba|Our Love|2014|NywC_RQovt4|Dan Snaith|S9619|Deep House;Dance;Electronic;Electronic Dance Music;House|",
