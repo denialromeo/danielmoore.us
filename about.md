@@ -519,6 +519,13 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="clear"></div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/01.jpg" itemprop="contentUrl" data-size="1987x3056"><img style="border: 1px solid black;" src="/assets/img/comics/boys/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Boys</i> by Garth Ennis</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/02.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/03.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/04.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/04.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman11/01.jpg" itemprop="contentUrl" data-size="1920x2951"><img style="border: 1px solid black;" src="/assets/img/comics/sandman11/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman11/02.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman11/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman11/03.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman11/03.jpg"/></a></figcaption></figure>
