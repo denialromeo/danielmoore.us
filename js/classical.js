@@ -906,7 +906,7 @@ const classical = [
 "Dmitri Shostakovich|Piano Concerto No. 2|1957|JlMHjo7Jwhk|Dmitri Shostakovich|",
 "Samuel Barber|Vanessa|1957-1964|oLVWMRwSCxg|Samuel Barber|",
 "Karlheinz Stockhausen|Gruppen|1957|34_SfP7ZCXA|Karlheinz Stockhausen|",
-"Igor Stravinsky|Agon|1957|7TPS6TLKoBk|Igor Stravinsky|",
+"Igor Stravinsky|Agon|1957|Ud8zVcHPnuM|Igor Stravinsky|Agon (ballet)",
 "Dmitri Shostakovich|Symphony No. 11, “The Year 1905”|1957|RGyQkm0fFnY|Dmitri Shostakovich|Symphony No. 11 (Shostakovich)",
 "Michael Tippett|Symphony No. 2|1957|pNwRVL-rZFc|Michael Tippett|",
 "Olivier Messiaen|Catalogue d’oiseaux|1958|G6Izpdkjrhk|Olivier Messiaen|",
