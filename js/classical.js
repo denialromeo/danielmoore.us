@@ -84,7 +84,7 @@ const classical = [
 "Johann Sebastian Bach|Great Cantatas|1723-1729|ODjl6A3v6b0|Johann Sebastian Bach|Bach cantata",
 "Johann Sebastian Bach|St. John Passion|1724|zMf9XDQBAaI|Johann Sebastian Bach|St John Passion",
 "George Frideric Handel|Guilio Cesare|1724|dUzP_liWx2g|George Frideric Handel|",
-"Johann Sebastian Bach|Six English Suites|1725|rJq80yxHeAQ|Johann Sebastian Bach|",
+"Johann Sebastian Bach|Six English Suites|1725|rJq80yxHeAQ|Johann Sebastian Bach|English Suites (Bach)",
 "George Frideric Handel|Rodelinda|1725|VNY61LRMp4U|George Frideric Handel|",
 "Antonio Vivaldi|The Four Seasons|1725|GRxofEmo3HA|Antonio Vivaldi|The Four Seasons (Vivaldi)",
 "Johann Sebastian Bach|Six Violin Sonatas|1725|s7wmR0EqEGQ|Johann Sebastian Bach|",
