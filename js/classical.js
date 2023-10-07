@@ -625,7 +625,7 @@ const classical = [
 "Claude Debussy|Jeux|1913|rABBmzI4HQU|Claude Debussy|Jeux",
 "Edward Elgar|Falstaff|1913|8yM0c2J4x7g|Edward Elgar|Falstaff (Elgar)",
 "Ivor Gurney|Songs|1913-1922|_cA3gMjVwY0|Ivor Gurney|",
-"Sergei Rachmaninoff|The Bells|1913|UdUThLpuBJ4|Sergei Rachmaninoff|",
+"Sergei Rachmaninoff|The Bells|1913|UdUThLpuBJ4|Sergei Rachmaninoff|The Bells (symphony)",
 "Albert Roussel|Le festin d’araignée|1913|A15DUjwoong|Albert Roussel|",
 "Igor Stravinsky|The Rite of Spring|1913|EkwqPJZe8ms|Igor Stravinsky|",
 "Ralph Vaughan Williams|A London Symphony|1913-1933|0Uv4lJsu0Jw|Ralph Vaughan Williams|The Lark Ascending (Vaughan Williams)",
