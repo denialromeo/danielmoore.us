@@ -226,7 +226,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#television}
 **Television**
 
-* [*Coraline*](https://play.max.com/movie/2c315d70-082d-44e4-b5fc-1085a62e8d90) by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman) (Thinly veiled [metaphor](https://www.goodreads.com/notes/16114184-coraline/71655209-daniel-moore?ref=abp) for corporate life.)
+* [*Coraline*](https://play.max.com/movie/2c315d70-082d-44e4-b5fc-1085a62e8d90) by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman) (Be quick and resourceful and fearless, and all is winnable.)
 * [*Der Untergang*](https://www.peacocktv.com/watch/asset/movies/downfall/6d4b8832-41a9-39b1-be77-a879c597160f) by [Oliver Hirschbiegel](https://en.wikipedia.org/wiki/Oliver_Hirschbiegel) (Final days of the German Empire.)
 * [*Django Unchained*](https://www.amazon.com/Django-Unchained-Jamie-Foxx/dp/B0B3NBCHMR) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Escaping misery is a universal struggle.)
 * [*Get Out*](https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1L8T75) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Lampoons the racial weirdness of the Obama years.)
@@ -243,6 +243,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Oldboy*](https://www.amazon.com/Oldboy-Blu-Ray-Min-sik-Choi/dp/B07SMMBY4R) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (We are but playthings for the gods.)
 * [*The Personal History of David Copperfield*](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10baee16-44cc-e332-e3c6-0796dd7162e9) by [Armando Ianucci](https://en.wikipedia.org/wiki/Armando_Ianucci) (My favorite comedy.)
 * [*Schindler's List*](https://www.amazon.com/gp/video/detail/B00BEN0V8S) by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) (Still the best film ever made about racism.)
+* [*Squid Game*](https://www.netflix.com/title/81040344) by [Hwang Dong-Hyuk](https://en.wikipedia.org/wiki/Hwang_Dong-hyuk) (Thinly veiled metaphor for corporate life.)
 * [*The Sunset Limited*](https://play.max.com/movie/45898ac7-06e9-4abe-b5ee-a6d2be63cfd3) by [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy) (Is continuing to live [rational](https://philosophy.redzambala.com/leo-tolstoy/confession-leo-tolstoy-7.html)?)
 * [*Synecdoche, New York*](https://www.amazon.com/gp/video/detail/B00BZAZYMI) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
 * [*They Shall Not Grow Old*](https://www.netflix.com/watch/81048455) by [Peter Jackson](https://en.wikipedia.org/wiki/Peter_Jackson) (France in 1916, Ukraine in 2023.)
