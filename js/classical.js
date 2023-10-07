@@ -484,7 +484,7 @@ const classical = [
 "Alexander Scriabin|Piano Sonatas|1892-1913|krapei3Fjcc|Alexander Scriabin|Piano Sonata No. 3 (Scriabin)",
 "Jean Sibelius|En saga|1892-1902|1YIEAL7tI2I|Jean Sibelius|En saga",
 "Sergei Rachmaninoff|Twenty-Four Preludes|1892-1910|eKzZ2x_KPxc|Sergei Rachmaninoff|",
-"Pyotr Ilyich Tchaikovsky|The Nutcracker|1892|tR_Z1LUDQuQ?start=96|Pyotr Ilyich Tchaikovsky|The Nutcracker",
+"Pyotr Ilyich Tchaikovsky|The Nutcracker|1892|tR_Z1LUDQuQ?start=4574|Pyotr Ilyich Tchaikovsky|The Nutcracker",
 "Johannes Brahms|Klavierstücke, opp. 116-19|1892-1893|-doSRJepT1s|Johannes Brahms|",
 "Jean Sibelius|Kullervo|1892|hDzor0VXy0M|Jean Sibelius|Kullervo (Sibelius)",
 "Claude Debussy|String Quartet|1893|-8I7uHb7GY0|Claude Debussy|String Quartet (Debussy)",
