@@ -652,7 +652,7 @@ const classical = [
 "Ernest Bloch|Schelomo|1916|RRGMPCXS_yM|Ernest Bloch|",
 "Karol Szymanowski|Symphony No. 3, “The Song of the Night”|1916|LFExkkNdVCc|Karol Szymanowski|",
 "Karol Szymanowski|Violin Concerto No. 1|1916|uT00G955oUg|Karol Szymanowski|Violin Concerto No. 1 (Szymanowski)",
-"Percy Grainger|In a Nutshell|1916|nZxMHMx4X1o|Percy Grainger|",
+"Percy Grainger|In a Nutshell|1916|nZxMHMx4X1o|Percy Grainger|In a Nutshell",
 "Ottorino Respighi|Roman Trilogy|1916-1928|dWpQkNxGoGE|Ottorino Respighi|",
 "Carl Nielsen|Symphony No. 4, “Inextinguishable”|1916|niF6Y7ZNqys|Carl Nielsen|Symphony No. 4 (Nielsen)",
 "Richard Strauss|Ariadne auf Naxos|1916|VugbX5UgrLY|Richard Strauss|Ariadne auf Naxos",
