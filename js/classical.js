@@ -33,7 +33,7 @@ const classical = [
 "Claudio Monteverdi|Vespers|1610|9rC-4AmUg8I|Claudio Monteverdi|Vespro della Beata Vergine",
 "Thomas Weelkes|Anthems|1610s|XeQQyAg7rlw|Thomas Weelkes|",
 "Thomas Campion|Books of Ayres|1613-1617|aZHVVzhMhiE|Thomas Campion|",
-"Thomas Tomkins|Anthems|1620s|cSWMiXJkPgI|Thomas Tomkins|",
+"Thomas Tomkins|Anthems|1620s|nCtNBD3XTgI|Thomas Tomkins|",
 "Claudio Monteverdi|Combattimento|1624|xd13sePBlpU|Claudio Monteverdi|",
 "John Jenkins|Fantasias|1630s|nhSECC027as|John Jenkins|",
 "William Lawes|Consort Setts|1630s|0FDrO5kKdyc|William Lawes|",
