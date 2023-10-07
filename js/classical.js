@@ -480,7 +480,7 @@ const classical = [
 "Claude Debussy|Fêtes galantes|1891-1904|A8sKNGCjC-w|Claude Debussy|Fêtes galantes (Debussy)",
 "Jean Sibelius|Songs|1891-1917|DsLoe5LaKqU|Jean Sibelius|",
 "Johannes Brahms|Clarient Quintet|1891|NijYtozUHaw|Johannes Brahms|",
-"Ruggero Leoncavallo|Pagliacci|1892|rWDBOQ0jPMo|Ruggero Leoncavallo|Pagliacci",
+"Ruggero Leoncavallo|Pagliacci|1892|JEcibYtcdZQ|Ruggero Leoncavallo|Pagliacci",
 "Alexander Scriabin|Piano Sonatas|1892-1913|krapei3Fjcc|Alexander Scriabin|Piano Sonata No. 3 (Scriabin)",
 "Jean Sibelius|En saga|1892-1902|1YIEAL7tI2I|Jean Sibelius|En saga",
 "Sergei Rachmaninoff|Twenty-Four Preludes|1892-1910|eKzZ2x_KPxc|Sergei Rachmaninoff|",
