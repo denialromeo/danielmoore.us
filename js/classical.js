@@ -429,7 +429,7 @@ const classical = [
 "Charles-Marie Widor|Symphony No. 5|1880|ZqeMJ-UbiZA|Charles-Marie Widor|",
 "Alexander Borodin|String Quartet No. 2|1881|2YAzUC6LzNk|Alexander Borodin|String Quartet No. 2 (Borodin)",
 "Johannes Brahms|Piano Concerto No. 2|1881|BszBccYHuAk|Johannes Brahms|Piano Concerto No. 2 (Brahms)",
-"Richard Wagner|Parsifal|1881|JsqPWZNEQvY|Richard Wagner|",
+"Richard Wagner|Parsifal|1881|JsqPWZNEQvY|Richard Wagner|Parsifal",
 "Anton Bruckner|Symphony No. 6|1881|NDG4ADk5Q7o|Anton Bruckner|Symphony No. 6 (Bruckner)",
 "Pyotr Ilyich Tchaikovsky|Piano Trio in A minor|1882|Frnnhv1TVzU|Pyotr Ilyich Tchaikovsky|",
 "Pablo de Sarasate|Concert Fantasy on Carmen|1883|pNGoAUz0nhE|Pablo de Sarasate|",
