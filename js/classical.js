@@ -649,7 +649,7 @@ const classical = [
 "Richard Strauss|Eine Alpensinfonie|1915|zsTo7QxxgYg|Richard Strauss|",
 "Karol Szymanowski|Myths|1915|M5UJmxd3ixo|Karol Szymanowski|",
 "Jean Sibelius|Symphony No. 5|1915-1919|RRS6dIgn_QI|Jean Sibelius|Symphony No. 5 (Sibelius)",
-"Ernest Bloch|Schelomo|1916|RRGMPCXS_yM|Ernest Bloch|",
+"Ernest Bloch|Schelomo|1916|RRGMPCXS_yM|Ernest Bloch|Schelomo",
 "Karol Szymanowski|Symphony No. 3, “The Song of the Night”|1916|LFExkkNdVCc|Karol Szymanowski|",
 "Karol Szymanowski|Violin Concerto No. 1|1916|uT00G955oUg|Karol Szymanowski|Violin Concerto No. 1 (Szymanowski)",
 "Percy Grainger|In a Nutshell|1916|nZxMHMx4X1o|Percy Grainger|In a Nutshell",
