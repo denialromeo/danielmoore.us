@@ -69,7 +69,7 @@ box: random-hits-archive-song
     if (pool.length === 0) { pool = songs }
     if (pool.length !== songs.length) {
         pool.sort()
-        console.log(pool.map(s => s.split("|").slice(0,3).concat(s.split("|").slice(6,7))))
+        console.log(pool.map(s => s.split("|").slice(1,4).concat(s.split("|").slice(6,7))))
     }
     const info = choice(pool).split("|")
     iframe.src = `https://youtube.com/embed/${info[0]}`
