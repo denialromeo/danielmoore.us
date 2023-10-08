@@ -57,10 +57,10 @@ box: random-hits-archive-song
     var regex = ""
     try {
     if ("artist" in params) {
-        pool = pool.filter(s => new RegExp(params.artist, "i").exec(s.split("|")[2]) !== null)
+        pool = pool.filter(s => (new RegExp(params.artist, "i").exec(s.split("|")[2]) !== null) || (new RegExp(params.artist, "i").exec(s.split("|")[3]) !== null))
     }
     if ("song" in params) {
-        pool = pool.filter(s => new RegExp(params.song, "i").exec(s.split("|")[3]) !== null)
+        pool = pool.filter(s => (new RegExp(params.song, "i").exec(s.split("|")[2]) !== null) || (new RegExp(params.song, "i").exec(s.split("|")[3]) !== null))
     }
     if ("year" in params) {
         pool = pool.filter(s => new RegExp(params.year, "i").exec(s.split("|")[1]) !== null)
