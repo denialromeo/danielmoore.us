@@ -41,7 +41,7 @@ const classical = [
 "Gregorio Allegri|Miserere mei Deus|1640s|H3v9unphfi0|Gregorio Allegri|Miserere (Allegri)",
 "Claudio Monteverdi|Il ritorno d’Ulisse in patria|1640|zunvtJBkS9E|Claudio Monteverdi|Il ritorno d'Ulisse in patria",
 "Claudio Monteverdi|L’incoronazione di Poppea|1643|rzXEYAdPJ84|Claudio Monteverdi|",
-"Giacomo Carissimi|Jephte|1650|_TN9VI1vNKM|Giacomo Carissimi|",
+"Giacomo Carissimi|Jephte|1650|_TN9VI1vNKM|Giacomo Carissimi|Jephte (Carissimi)",
 "Barbara Strozzi|Cantatas|1650s|BWZoYpDLDX0|Barbara Strozzi|",
 "Francesco Cavalli|La Calisto|1651|_hOa_l_GV_E|Francesco Cavalli|La Calisto",
 "Heinrich Schütz|The Christmas Story|1660|tFlR1-BMvq4|Heinrich Schütz|Christmas Story (Schütz)",
