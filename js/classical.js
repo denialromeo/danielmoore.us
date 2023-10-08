@@ -250,7 +250,7 @@ const classical = [
 "Franz Schubert|Piano Trio in E flat major, D. 929|1827|yFyv7c1XyYU|Franz Schubert|Piano Trio No. 2 (Schubert)",
 "Franz Schubert|Fantasy in C, D. 934|1827|NV1kANo4qPI|Franz Schubert|",
 "Franz Schubert|Fantasy in F minor for piano duet, D. 940|1828|UyjzqPPXDcw|Franz Schubert|",
-"Franz Schubert|Symphony No. 9, “Great”|1828|TPpvJnwf5BU|Franz Schubert|",
+"Franz Schubert|Symphony No. 9, “Great”|1828|TPpvJnwf5BU|Franz Schubert|Symphony No. 9 (Schubert)",
 "Franz Schubert|String Quartet in C major|1828|Dc3iX7x73JY|Franz Schubert|String Quartet No. 14 (Schubert)",
 "Franz Schubert|Schwanengesang|1828|tCkYPjRkgxw|Franz Schubert|Schwanengesang",
 "Franz Schubert|Piano Sonata in C minor, D. 958|1828|ltvKcZ9U5QA|Franz Schubert|Schubert's last sonatas",
