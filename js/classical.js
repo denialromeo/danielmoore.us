@@ -412,7 +412,7 @@ const classical = [
 "Pablo de Sarasate|Zigeunerweisen|1878|ufIlOXXMqs0|Pablo de Sarasate|",
 "Antonín Dvořák|Slavonic Dances|1878-1886|JhBjD23F2r0|Antonín Dvořák|Slavonic Dances",
 "Arthur Sullivan|H.M.S. Pinafore|1878|Ddke1VVNA8s|Arthur Sullivan|H.M.S. Pinafore",
-"Pyotr Ilyich Tchaikovsky|Eugene Onegin|1878|iR9P82WbQug|Pyotr Ilyich Tchaikovsky|Eugene Onegin (opera)",
+"Pyotr Ilyich Tchaikovsky|Eugene Onegin|1878|8n_j3cC_Is8|Pyotr Ilyich Tchaikovsky|Eugene Onegin (opera)",
 "Pyotr Ilyich Tchaikovsky|Symphony No. 4|1878|YnRkXtsD_54|Pyotr Ilyich Tchaikovsky|Symphony No. 4 (Tchaikovsky)",
 "Pyotr Ilyich Tchaikovksy|Violin Concerto|1878|cbJZeNlrYKg|Pyotr Ilyich Tchaikovsky|Violin Concerto (Tchaikovsky)",
 "Johannes Brahms|Violin Sonatas|1879-1888|9T6vnY2x-Jc|Johannes Brahms|Violin Sonata No. 1 (Brahms)",
