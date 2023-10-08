@@ -362,7 +362,7 @@ const classical = [
 "Anton Bruckner|Masses nos. 1-3|1864-1868|D3s561KCnt8|Anton Bruckner|",
 "Jacques Offenbach|La belle Hélène|1864|lEuv4vMJjUo|Jacques Offenbach|La belle Hélène",
 "Edvard Grieg|Lyric Pieces|1864-1901|NiQUvEXdlIw|Edvard Grieg|Lyric Pieces",
-"Johannes Brahms|Cello Sonatas nos. 1 &amp; 2|1865-1886|58cKUNfttmc|Johannes Brahms|",
+"Johannes Brahms|Cello Sonatas nos. 1 &amp; 2|1865-1886|58cKUNfttmc|Johannes Brahms|Cello Sonata No. 1 (Brahms)",
 "Bedrich Smetana|The Bartered Bride|1866-1870|QLUm_yvnyo4|Bedřich Smetana|",
 "Richard Wagner|Die Meistersinger von Nürnberg|1867|fDIkzHjHRhI|Richard Wagner|Die Meistersinger von Nürnberg",
 "Johann Strauss II|The Blue Danube|1867|_CTYymbbEL4|Johann Strauss II|The Blue Danube",
