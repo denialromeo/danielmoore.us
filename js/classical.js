@@ -789,7 +789,7 @@ const classical = [
 "Anton Webern|Variations, Op. 27|1936|ZEtqEzPakxA|Anton Webern|",
 "Béla Bartók|Music for Strings, Percussion, and Celesta|1936|ymqRNY4K4NA|Béla Bartók|Music for Strings, Percussion and Celesta",
 "Dmitri Shostakovich|Symphony No. 4|1936|-Us8ElJ3yUY|Dmitri Shostakovich|Symphony No. 4 (Shostakovich)",
-"Franz Schmidt|Das Buch mit sieben Siegeln|1937|gQfMFH7UU7s|Franz Schmidt|",
+"Franz Schmidt|The Book with Seven Seals|1937|gQfMFH7UU7s|Franz Schmidt (composer)|The Book with Seven Seals",
 "Benjamin Britten|Variations on a Theme of Frank Bridge|1937|_TkHXHH0w0Q|Benjamin Britten|Variations on a Theme of Frank Bridge",
 "Dmitri Shostakovich|Symphony No. 5|1937|T1h1NJMKtnc|Dmitri Shostakovich|Symphony No. 5 (Shostakovich)",
 "Richard Strauss|Daphne|1937|OwQ6wmcYGiY|Richard Strauss|Daphne (opera)",
