@@ -8,7 +8,7 @@ const classical = [
 "Jean de Ockeghem|Alma redemptoris mater|1400s|90uMGnTOUwc|Johannes Ockeghem|",
 "John Browne|Stabat mater|1490-1502|L4W5arUAqKs|John Browne|",
 "Josquin des Prez|Missa Pange lingua|1514|vlB1HR4BgUg|Josquin des Prez|Missa Pange lingua",
-"John Taverner|The Western Wynde Mass|1530s|pJYFhEegS4w|John Taverner|",
+"John Taverner|The Western Wynde Mass|1530s|pJYFhEegS4w|John Taverner|Westron Wynde",
 "Nicolas Gombert|Motets|1530-1550s|cxx7Stpx7bU|Nicolas Gombert|",
 "Cristóbal de Morales|Motets|1545-1547|lw6aq7oInvQ|Cristóbal de Morales|",
 "Antonio de Cabezón|Diferencias|1560s|XkYn6Ze-b3M|Antonio de Cabezón|",
