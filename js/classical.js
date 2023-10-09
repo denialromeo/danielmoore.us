@@ -132,7 +132,7 @@ const classical = [
 "Wolfgang Amadeus Mozart|Piano Sonatas|1775-1789|Wcgd1oCbW4g|Wolfgang Amadeus Mozart|Sonata in C major for piano four-hands, K. 521",
 "Wolfgang Amadeus Mozart|Violin Concerto No. 5, “Turkish”|1775|5f3gO2GWIew|Wolfgang Amadeus Mozart|Violin Concerto No. 5 (Mozart)",
 "Wolfgang Amadeus Mozart|Piano Concerto No. 9, “Jeunehomme”|1777|plfty7jbM_g|Wolfgang Amadeus Mozart|Piano Concerto No. 9 (Mozart)",
-"Christoph Willibald Gluck|Iphigénie en Tauride|1779|ROzh7i_RSyc|Christoph Willibald Gluck|",
+"Christoph Willibald Gluck|Iphigénie en Tauride|1779|ROzh7i_RSyc|Christoph Willibald Gluck|Iphigénie en Tauride",
 "Wolfgang Amadeus Mozart|Sinfonia concertante in E flat major|1780|_0hTDZ0whpU|Wolfgang Amadeus Mozart|Sinfonia Concertante for Violin, Viola and Orchestra (Mozart)",
 "Wolfgang Amadeus Mozart|Idomeneo|1781|_4BC2AQ6ypw|Wolfgang Amadeus Mozart|Idomeneo",
 "Wolfgang Amadeus Mozart|“Haydn” Quartets|1782-1785|ex7GJIRw3-I|Wolfgang Amadeus Mozart|Haydn Quartets (Mozart)",
