@@ -79,7 +79,7 @@ const classical = [
 "Johann Sebastian Bach|Six Suites for Solo Cello|1720|D83cMncj_Ig|Johann Sebastian Bach|Cello Suites (Bach)",
 "Johann Sebastian Bach|Sonatas &amp; Partitas for Solo Violin|1720|wqaFYeZ6D3o|Johann Sebastian Bach|Sonatas and Partitas for Solo Violin (Bach)",
 "George Frideric Handel|Keyboard Suites|1720-1733|HrXOVNzTeKo|George Frideric Handel|",
-"Johann Sebastian Bach|Brandenburg Concertos|1721|NCPM8DEsvmc|Johann Sebastian Bach|",
+"Johann Sebastian Bach|Brandenburg Concertos|1721|NCPM8DEsvmc|Johann Sebastian Bach|Brandenburg Concertos",
 "Johann Sebastian Bach|Magnificat|1723|EsUWG2axB3w|Johann Sebastian Bach|",
 "Johann Sebastian Bach|Great Cantatas|1723-1729|ODjl6A3v6b0|Johann Sebastian Bach|Bach cantata",
 "Johann Sebastian Bach|St. John Passion|1724|zMf9XDQBAaI|Johann Sebastian Bach|St John Passion",
