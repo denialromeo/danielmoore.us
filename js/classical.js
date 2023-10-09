@@ -389,7 +389,7 @@ const classical = [
 "Edouard Lalo|Symphonie espagnole|1874|fxw3FYPuIzc|Édouard Lalo|",
 "Georges Bizet|Carmen|1874|u_VkfIthWHo|Georges Bizet|Carmen",
 "Johann Strauss II|Die Fledermaus|1874|gPybrOxRoT4|Johann Strauss II|Die Fledermaus",
-"Giuseppe Verdi|Requiem|1874|Nlq9lJRElBk|Giuseppe Verdi|",
+"Giuseppe Verdi|Requiem|1874|Nlq9lJRElBk|Giuseppe Verdi|Requiem (Verdi)",
 "Anton Bruckner|Symphony No. 4, “Romantic”|1874-1888|o0g82i784bw|Anton Bruckner|Symphony No. 4 (Bruckner)",
 "Modest Mussorgsky|Pictures at an Exhibition|1874-1922|kkC3chi_ysw|Modest Mussorgsky|Pictures at an Exhibition",
 "Richard Wagner|Der Ring des Nibelungen|1874|1PBhlPeTJ_g?start=713|Richard Wagner|Der Ring des Nibelungen",
