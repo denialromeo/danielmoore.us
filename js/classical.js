@@ -760,7 +760,7 @@ const classical = [
 "Francis Poulenc|Concerto for Two Pianos|1932|2-VSj7bSsfo|Francis Poulenc|Concerto for Two Pianos and Orchestra (Poulenc)",
 "Francis Poulenc|Sextet|1932-1939|DPAgWKseVhg|Francis Poulenc|",
 "Richard Strauss|Arabella|1932|C9MrIY3aAPA|Richard Strauss|Arabella",
-"Igor Stravinsky|Duo Concertant|1932|rlRp2Ufbvbo|Igor Stravinsky|",
+"Igor Stravinsky|Duo Concertant|1932|rlRp2Ufbvbo|Igor Stravinsky|Duo Concertant",
 "Arnold Schoenberg|Moses und Aron|1932|5nD36ZpRyKU|Arnold Schoenberg|",
 "Dmitri Shostakovich|Lady Macbeth of Mtsensk|1932|7Mf6Q3m7erI|Dmitri Shostakovich|Lady Macbeth of Mtsensk (opera)",
 "Karol Szymanowski|Symphony No. 4|1932|kjJyKrd0yhc|Karol Szymanowski|",
