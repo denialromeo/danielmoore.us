@@ -964,7 +964,7 @@ const classical = [
 "Sofia Gubaidulina|Offertorium|1980|xvHeTWOfL1c|Sofia Gubaidulina|",
 "Brian Ferneyhough|Funérailles|1980|mzTmjDmyx4k|Brian Ferneyhough|",
 "Tristan Murail|Gondwana|1980|q6WXzOIsBuQ|Tristan Murail|",
-"Jonathan Harvey|Mortuos plango, vivos voco|1980|0T-H-fVlHE0|Jonathan Harvey|Mortuos Plango, Vivos Voco",
+"Jonathan Harvey|Mortuos Plango, Vivos Voco|1980|0T-H-fVlHE0|Jonathan Harvey|Mortuos Plango, Vivos Voco",
 "William Bolcom|Songs of Innocence and Experience|1981|D9Qhr97wB3g|William Bolcom|Songs of Innocence and of Experience",
 "John Tavener|Funeral Ikos|1981|4ZRrbixpVV0|John Tavener|",
 "Olivier Messiaen|Saint François d’Assise|1983|0TufQgNdfss|Olivier Messiaen|Saint François d'Assise",
