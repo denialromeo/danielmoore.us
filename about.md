@@ -196,7 +196,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Hit Refresh*](https://www.goodreads.com/notes/31139580-hit-refresh/71655209-daniel-moore) by [Satya Nadella](https://www.youtube.com/watch?v=UNbyT7wPwk4&t=791s) (His talent for acquisitions sparked a new AI arms race.)
 * [*The Office*](https://www.goodreads.com/notes/50028014-the-office/71655209-daniel-moore) by [Andy Greene](https://www.rollingstone.com/author/andy-greene/) (Behind the scenes of the greatest TV show ever made.)
 * [*What Happened*](https://www.goodreads.com/notes/34114362-what-happened/71655209-daniel-moore) by [Hillary Clinton](https://en.wikipedia.org/wiki/Hillary_Clinton) (Her electoral losses defined the 21st century.)
-* [*Working*](https://www.goodreads.com/notes/43219063-working/71655209-daniel-moore) by [Robert Caro](https://en.wikipedia.org/wiki/Robert_Caro) (Vita brevis, ars longa.)
+* [*Working*](https://www.goodreads.com/notes/43219063-working/71655209-daniel-moore) by [Robert Caro](https://en.wikipedia.org/wiki/Robert_Caro) (The lyf so short, the craft so long to lerne.)
 
 {:#novels}
 **Novels**
