@@ -578,7 +578,7 @@ const classical = [
 "Alexander Scriabin|The Poem of Ecstasy|1908|tOjQ4j9bLvg|Alexander Scriabin|",
 "Maurice Ravel|Rapsodie espagnole|1908|tvwx7IeZky8|Maurice Ravel|Rapsodie espagnole",
 "Arnold Schoenberg|String Quartet No. 2|1908|eB5I5iU0OoE|Arnold Schoenberg|String Quartets (Schoenberg)",
-"Gustav Holst|Savitri|1908|5meFq1hxfDI|Gustav Holst|",
+"Gustav Holst|Savitri|1908|5meFq1hxfDI|Gustav Holst|Sāvitri (opera)",
 "Anton Webern|Passacaglia|1908|u37qhac1FUI|Anton Webern|",
 "Arnold Schoenberg|Erwartung|1908|P6PKIraXpIk|Arnold Schoenberg|Erwartung",
 "Béla Bartók|String Quartets|1909-1939|xaQvPhVvQaY|Béla Bartók|List of string quartets by Béla Bartók",
