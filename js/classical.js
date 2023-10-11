@@ -76,7 +76,7 @@ const classical = [
 "Johann Sebastian Bach|Violin Concertos|1717-1723|_ioc6sdgugo|Johann Sebastian Bach|",
 "Johann Sebastian Bach|Concerto for Two Violins|1717-1723|ILKJcsET-NM|Johann Sebastian Bach|Concerto for Two Violins (Bach)",
 "Johann Sebastian Bach|Orchestral Suites|1717-1742|eNh3ppZVrSI|Johann Sebastian Bach|Orchestral suites (Bach)",
-"Johann Sebastian Bach|Six Suites for Solo Cello|1720|D83cMncj_Ig|Johann Sebastian Bach|Cello Suites (Bach)",
+"Johann Sebastian Bach|Cello Suites|1720|D83cMncj_Ig|Johann Sebastian Bach|Cello Suites (Bach)",
 "Johann Sebastian Bach|Sonatas &amp; Partitas for Solo Violin|1720|wqaFYeZ6D3o|Johann Sebastian Bach|Sonatas and Partitas for Solo Violin (Bach)",
 "George Frideric Handel|Keyboard Suites|1720-1733|HrXOVNzTeKo|George Frideric Handel|",
 "Johann Sebastian Bach|Brandenburg Concertos|1721|NCPM8DEsvmc|Johann Sebastian Bach|Brandenburg Concertos",
