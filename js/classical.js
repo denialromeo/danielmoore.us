@@ -124,7 +124,7 @@ const classical = [
 "Wolfgang Amadeus Mozart|Violin Sonatas|1763-1788|-xVbIhCSCS4|Wolfgang Amadeus Mozart|Violin Sonatas, KV 6–9 (Mozart)",
 "Giuseppe Tartini|Violin Sonata in G minor, “The Devil’s Trill”|1765|ZkX8YyA4Wp4|Giuseppe Tartini|",
 "Christoph Willibald Gluck|Alceste|1767|iDFnGqG7qt8|Christoph Willibald Gluck|Alceste (Gluck)",
-"Andre-Ernest-Modeste Grétry|Zémire et Azor|1771|GiQq7VRQBp8|André Grétry|",
+"Andre-Ernest-Modeste Grétry|Zémire et Azor|1771|GiQq7VRQBp8|André Grétry|Zémire et Azor",
 "Joseph Haydn|Keyboard Sonatas|1771-1795|9KTgA1i06xU|Joseph Haydn|",
 "Luigi Boccherini|String Quintets|1772-1803|mTL3ItzPIec|Luigi Boccherini|String Quintet in E major, Op. 11, No. 5 (Boccherini)",
 "Joseph Haydn|Symphony No. 45, “Farewell”|1772|OpD9ofCm6Ak|Joseph Haydn|Symphony No. 45 (Haydn)",
