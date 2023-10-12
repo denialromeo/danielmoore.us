@@ -16,7 +16,7 @@ const classical = [
 "Orlande de Lassus|Motets|1555-1604|TKE2EMnWT_g|Orlando di Lasso|",
 "Giovanni Pierluigi de Palestrina|Missa Papae Marcelli|1567|3n8XdKkrqgo|Giovanni Pierluigi da Palestrina|",
 "Thomas Tallis|Spem in alium|1569|iT-ZAAi4UQQ|Thomas Tallis|Spem in alium",
-"Tomás Luis de Victoria|O magnum mysterium|1572|9xPh-fXYAc4|Tomás Luis de Victoria|O magnum mysterium (Lauridsen)",
+"Tomás Luis de Victoria|O magnum mysterium|1572|9xPh-fXYAc4|Tomás Luis de Victoria|O magnum mysterium",
 "Francisco Guerrero|Battle Mass|1582|jbK_2EwcuSQ|Francisco Guerrero|",
 "Claudio Monteverdi|Madrigals|1587-1651|2TjkhWARBVE|Claudio Monteverdi|",
 "William Byrd|My Ladye Nevells Book|1591|2PdRUGXAzoE|William Byrd|My Ladye Nevells Booke",
