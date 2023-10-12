@@ -469,7 +469,7 @@ const classical = [
 "Alexander Scriabin|Preludes|1888-1914|ry5L3_0XVuk|Alexander Scriabin|24 Preludes, Op. 11 (Scriabin)",
 "Antonín Dvořák|Symphony No. 8|1889|QXAv-NGppFw|Antonín Dvořák|Symphony No. 8 (Dvořák)",
 "Hugo Wolf|Goethe Lieder|1889|c8eALT6ULpc|Hugo Wolf|",
-"Pyotr Ilyich Tchaikovsky|The Sleeping Beauty|1889|2Sb8WCPjPDs|Pyotr Ilyich Tchaikovsky|The Sleeping Beauty (ballet)",
+"Pyotr Ilyich Tchaikovsky|The Sleeping Beauty|1889|hJkTvPXRztU|Pyotr Ilyich Tchaikovsky|The Sleeping Beauty (ballet)",
 "Richard Strauss|Don Juan|1889|XG4uBRBMdzY|Richard Strauss|Don Juan (Strauss)",
 "Richard Strauss|Tod und Verklärung|1889|mu2M67IQ68Q|Richard Strauss|Death and Transfiguration",
 "Ernest Chausson|Poème de l’amour et de la mer|1890|J6D8go8M2X8|Ernest Chausson|Poème de l'amour et de la mer",
