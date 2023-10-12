@@ -903,7 +903,7 @@ const classical = [
 "Malcolm Williamson|Piano Works|1956-1984|se5HsLCZRo8|Malcolm Williamson|",
 "Francis Poulenc|Dialogues des Carmélites|1956|Cd9EFJaURmI|Francis Poulenc|Dialogues of the Carmelites",
 "Leonard Bernstein|West Side Story|1957|srb2EyvTSGw|Leonard Bernstein|America (West Side Story song)",
-"Dmitri Shostakovich|Piano Concerto No. 2|1957|JlMHjo7Jwhk|Dmitri Shostakovich|",
+"Dmitri Shostakovich|Piano Concerto No. 2|1957|JlMHjo7Jwhk|Dmitri Shostakovich|Piano Concerto No. 2 (Shostakovich)",
 "Samuel Barber|Vanessa|1957-1964|oLVWMRwSCxg|Samuel Barber|",
 "Karlheinz Stockhausen|Gruppen|1957|34_SfP7ZCXA|Karlheinz Stockhausen|",
 "Igor Stravinsky|Agon|1957|Ud8zVcHPnuM|Igor Stravinsky|Agon (ballet)",
