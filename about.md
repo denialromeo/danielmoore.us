@@ -167,7 +167,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Montaillou*](https://www.amazon.com/gp/product/0807616133) by [Emmanuel Ladurie](https://en.wikipedia.org/wiki/Emmanuel_Le_Roy_Ladurie) (Based on [actual interviews](https://en.wikipedia.org/wiki/Fournier_Register) with medieval peasants.)
 * [*Reconstruction*](https://www.goodreads.com/notes/11389556-reconstruction/71655209-daniel-moore) by [Eric Foner](https://en.wikipedia.org/wiki/Eric_Foner) (Ongoing ripples of Lincoln's assassination.)
 * [*Stalin*](https://static1.squarespace.com/static/5ed33bcd368e221ec227cacd/t/5ee39a1731781f54f197c5f7/1591974443348/Domenico+Losurdo+-+Stalin.pdf) by [Domenico Losurdo](https://en.wikipedia.org/wiki/Domenico_Losurdo) (Perhaps the 20th century's most influential person.)
-* [*The Struggle for the Eurasian Borderlands*](https://www.goodreads.com/notes/23864634-the-struggle-for-the-eurasian-borderlands/71655209-daniel-moore) by [Alfred Rieber](https://en.wikipedia.org/wiki/Alfred_Rieber) (As relevant now as ever.)
 * [*Vladimir Putin and Russian Statecraft*](https://www.goodreads.com/notes/19441321-vladimir-putin-and-russian-statecraft/71655209-daniel-moore) by [Allen Lynch](https://politics.virginia.edu/people/profile/al4u) (From failed state to world power.)
  
 (For more, check out the World History Association's [list](https://www.thewha.org/wha-awards/wha-bentley-book-prize/#toc_1) of Bentley Book Prize winners.)
