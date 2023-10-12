@@ -162,7 +162,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*The Book of Islamic Dynasties*](https://www.goodreads.com/notes/25056329-the-book-of-islamic-dynasties/71655209-daniel-moore) by [Luqman Nagy](https://www.tahapublishers.com/author/luqman-nagy) (Eurasia's past, present, and future.)
 * [*Born in Blackness*](https://www.goodreads.com/notes/57777449-born-in-blackness/71655209-daniel-moore) by [Howard French](https://en.wikipedia.org/wiki/Howard_W._French) (African slaves built Western civilization.)
-* [*Early Indians*](https://en.wikipedia.org/wiki/Early_Indians) by [Tony Joseph](https://en.wikipedia.org/wiki/Tony_Joseph) (Genomics-based insights into 65,000 years of Indian history.)
+* [*Early Indians*](https://en.wikipedia.org/wiki/Early_Indians) by [Tony Joseph](https://en.wikipedia.org/wiki/Tony_Joseph) (Genomics-based insights into 65,000 years of India's history.)
 * [*The Great Speeches of Modern India*](https://www.goodreads.com/notes/20558716-the-great-speeches-of-modern-india/71655209-daniel-moore) by [Rudrangshu Mukherjee](https://en.wikipedia.org/wiki/Rudrangshu_Mukherjee) (Straight from the source.)
 * [*Late Victorian Holocausts*](https://www.goodreads.com/notes/19323009-late-victorian-holocausts/71655209-daniel-moore) by [Mike Davis](https://en.wikipedia.org/wiki/Mike_Davis_(scholar)) (50 million forgotten murders.)
 * [*Montaillou*](https://www.amazon.com/gp/product/0807616133) by [Emmanuel Ladurie](https://en.wikipedia.org/wiki/Emmanuel_Le_Roy_Ladurie) (Based on [actual interviews](https://en.wikipedia.org/wiki/Fournier_Register) with medieval peasants.)
