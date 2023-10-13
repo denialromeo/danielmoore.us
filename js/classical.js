@@ -595,7 +595,7 @@ const classical = [
 "Ralph Vaughan Williams|On Wenlock Edge|1909|6-ZKFUBwL1w|Ralph Vaughan Williams|On Wenlock Edge (song cycle)",
 "Anton Webern|Six Orchestral Pieces, Op. 6|1909|-EJLA8QAGCg|Anton Webern|",
 "Claude Debussy|Préludes, Books 1 &amp; 2|1910-1913|MWkxPtFS10I|Claude Debussy|",
-"Engelbert Humperdinck|Königskinder|1910|3FU-sbfd9j4|Engelbert Humperdinck (composer)|",
+"Engelbert Humperdinck|Königskinder|1910|3FU-sbfd9j4|Engelbert Humperdinck (composer)|Königskinder",
 "Gustav Mahler|Symphony No. 10|1910|vHyV8noUXC0|Gustav Mahler|Symphony No. 10 (Mahler)",
 "Edward Elgar|Violin Concerto|1910|9rCVW_4qwRY|Edward Elgar|Violin Concerto (Elgar)",
 "Florent Schmitt|La tragédie de Salomé|1910|yDHj8nanq2Q|Florent Schmitt|",
