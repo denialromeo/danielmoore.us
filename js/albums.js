@@ -721,7 +721,7 @@ const albums = [
 "Sleater-Kinney|The Woods|2005|PLQvL6GLJiX92V-9XFXtrOjWnY9VTzriwY|A4181|The Woods (album)|Sleater-Kinney|Indie Rock;Alternative Rock;Rock",
 "My Morning Jacket|Z|2005|PLmzP977za2bL2dBZ5wggByKDKv9f0bmWm|A4192|Z (My Morning Jacket album)|My Morning Jacket|Indie Rock;Alternative Rock;Rock",
 "Jimi Hendrix|Band of Gypsys|1970|PL6ogdCG3tAWiNVuEYX1igy9HuUUbOc-0I|A1340|Band of Gypsys|Jimi Hendrix|Blues Rock;Psychedelic Rock;Rock",
-"Angel Olsen|Burn Your Fire for No Witness|2014|ERROR: Suitable playlist not found|A5400|Burn Your Fire for No Witness|Angel Olsen|Indie Folk;Psychedelic Folk;Singer/Songwriter;Contemporary Folk;Folk",
+"Angel Olsen|Burn Your Fire for No Witness|2014|OLAK5uy_kHwEalwb4oj3BRguIXQaGuH7rUBOwMoR4|A5400|Burn Your Fire for No Witness|Angel Olsen|Indie Folk;Psychedelic Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Roni Size / Reprazent|New Forms|1997|PL42955AA8ED795140|A998|New Forms|Roni Size|Jazzstep;Dance;Drum and Bass;Electronic;Electronic Dance Music",
 "Johnny Cash|At San Quentin|1969|PLiN-7mukU_RG_UTCBO7LSlGirhHGArOn1|A1116|At San Quentin|Johnny Cash|Country",
 "Bruce Springsteen|The Wild, the Innocent & the E Street Shuffle|1973|PLX66jEixZe1xSgBpHL1OWKoGs_S7AKJU_|A286|The Wild, the Innocent & the E Street Shuffle|Bruce Springsteen|Heartland Rock;Rock",
