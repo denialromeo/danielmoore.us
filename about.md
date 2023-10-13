@@ -79,7 +79,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [Oilway Blue-Light Blocking Glasses](https://www.amazon.com/dp/B0B2R4NR2F) (Reduces eye strain from extended screen time.)
 * [Redify Jump Rope](https://www.amazon.com/gp/product/B086XC32L2) (Who needs a treadmill?)
 * [StriveZen 2-Month View Wall Calendar](https://www.amazon.com/Calendar-2019-2020-StriveZen-Monthly-Vertical/dp/B07T6C13JD) (Record weight, reps/sets, diet, important dates, etc.)
-* [Victorinox Fibrox Pro Chef's Knife](https://www.amazon.com/dp/B000QCLEFC) (Kitchen workhorse.)
+* [Victorinox Fibrox Pro Chef's Knife](https://www.amazon.com/dp/B000QCLEFC) (Kitchen workhorse &ndash; ideal for pitting avocados.)
 * [Vive Wrist Brace](https://www.amazon.com/gp/product/B077BPYK5S/) (Type for ten hours a day.)
 
 {:#hobbyist-books}
