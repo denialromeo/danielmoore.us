@@ -2163,7 +2163,7 @@ const songs = [
 "Country Joe & The Fish|The Fish Cheer & I-Feel-Like-I'm-Fixin'-To-Die-Rag|1965|oyr7P8VCPDg|Country Joe and the Fish|S4533|Contemporary Folk;Folk Rock;Psychedelic Rock;Satire;Comedy;Descriptor;Folk;Rock|The \"Fish\" Cheer/I-Feel-Like-I'm-Fixin'-to-Die Rag",
 "Count Basie|Lester Leaps In|1939|f60JYoHdfVM|Count Basie|S2648|Swing;Jazz|",
 "Terry Riley|In C|1968|yNi0bukYRnA|Terry Riley|S2848|Indeterminacy;Minimalism;Classical Music;Experimental;Modern Classical|",
-"Ozzy Osbourne|Crazy Train|1980|bwDpAfFzcRQ?start=4|Ozzy Osbourne|S4447|Hard Rock;Heavy Metal;Metal;Rock|",
+"Ozzy Osbourne|Crazy Train|1980|tMDFv5m18Pw|Ozzy Osbourne|S4447|Hard Rock;Heavy Metal;Metal;Rock|",
 "PJ Harvey|The Words That Maketh Murder|2011|KhaEt2Hdod8|PJ Harvey|S4980|Art Rock;Singer/Songwriter;Rock|The Words That Maketh Murder",
 "Arctic Monkeys|A Certain Romance|2006|VPmLadF3ydI|Arctic Monkeys|S4696|Indie Rock;Alternative Rock;Rock|",
 "Bruce Springsteen|Hungry Heart|1980|ZsADQpw-dD8|Bruce Springsteen|S558|Heartland Rock;Pop Rock;Pop;Rock|",
