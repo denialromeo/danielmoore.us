@@ -599,7 +599,7 @@ const classical = [
 "Gustav Mahler|Symphony No. 10|1910|vHyV8noUXC0|Gustav Mahler|Symphony No. 10 (Mahler)",
 "Edward Elgar|Violin Concerto|1910|9rCVW_4qwRY|Edward Elgar|Violin Concerto (Elgar)",
 "Florent Schmitt|La tragédie de Salomé|1910|yDHj8nanq2Q|Florent Schmitt|",
-"Fritz Kreisler|Liebesfreund &amp; Liebesleid|1910|jniNETA36Us|Fritz Kreisler|",
+"Fritz Kreisler|Liebesfreund &amp; Liebesleid|1910|jniNETA36Us|Fritz Kreisler|Alt-Wiener Tanzweisen",
 "Franz Schreker|Der ferne Klang|1910|rt2-Ze2I6kA|Franz Schreker|Der ferne Klang",
 "Alexander Scriabin|Prometheus|1910|6osJBtQRjoY|Alexander Scriabin|Prometheus: The Poem of Fire",
 "Richard Strauss|Der Rosenkavalier|1910|lxrmLsG7dPY|Richard Strauss|Der Rosenkavalier",
