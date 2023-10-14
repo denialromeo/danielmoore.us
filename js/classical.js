@@ -853,7 +853,7 @@ const classical = [
 "Richard Strauss|Metamorphosen|1945|7jwml0jevv0|Richard Strauss|Metamorphosen",
 "Benjamin Britten|The Young Person’s Guide to the Orchestra|1945|4vbvhU22uAM|Benjamin Britten|The Young Person's Guide to the Orchestra",
 "Igor Stravinsky|Symphony in Three Movements|1945|FB-NzpYwC3Y|Igor Stravinsky|Symphony in Three Movements",
-"Heitor Villa-Lobos|Bachianas brasileiras No. 5|1945|pUCuEd1tjCg|Heitor Villa-Lobos|Bachianas Brasileiras",
+"Heitor Villa-Lobos|Bachianas Brasileiras No. 5|1945|pUCuEd1tjCg|Heitor Villa-Lobos|Bachianas Brasileiras",
 "Aaron Copland|Symphony No. 3|1946|pfqCo_vuMsI|Aaron Copland|Symphony No. 3 (Copland)",
 "Benjamin Britten|The Rape of Lucretia|1946-1947|440Pv6iSwcY|Benjamin Britten|The Rape of Lucretia",
 "Arthur Honegger|Symphony No. 3, “Symphonie liturgique”|1946|jK9mGN7KZg4|Arthur Honegger|Symphony No. 3 \"Symphonie Liturgique\" (Honegger)",
