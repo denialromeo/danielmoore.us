@@ -749,7 +749,7 @@ const songs = [
 "Radiohead|Everything in Its Right Place|2000|hvMql9XgIg0|Radiohead|S2640|Ambient Pop;Art Pop;Electronic;Pop|Everything in Its Right Place",
 "Bobbie Gentry|Ode to Billie Joe|1967|nv33eaygVDQ|Bobbie Gentry|S959|Blue Eyed Soul;Contemporary Folk;Singer/Songwriter;Folk;Pop|Ode to Billie Joe (song)",
 "Pavement|Summer Babe|1991|cMjlhIWxfFI|Pavement (band)|S209|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock|",
-"XTC|Making Plans for Nigel|1979|s29RKnB7l7o|XTC|S1499|New Wave;Post-Punk;Rock|Making Plans for Nigel",
+"XTC|Making Plans for Nigel|1979|AiIlcew-GVM|XTC|S1499|New Wave;Post-Punk;Rock|Making Plans for Nigel",
 "George Michael|Faith|1987|6Cs3Pvmmv0E|George Michael|S348|Pop|Faith (George Michael song)",
 "The Beach Boys|Surfin' U.S.A.|1963|5a4YupnT1sM?start=629|The Beach Boys|S1064|Surf Rock;Vocal Surf;Pop;Pop Rock;Rock;Surf Music|Surfin' U.S.A.",
 "Simon and Garfunkel|America|1968|Eo2ZsAOlvEM|Simon & Garfunkel|S3805|Folk Pop;Folk Rock;Contemporary Folk;Folk;Pop;Rock|America (Simon & Garfunkel song)",
