@@ -96,7 +96,7 @@ const classical = [
 "Johann Sebastian Bach|French Suites|1730|0sDleZkIK-w|Johann Sebastian Bach|French Suites (Bach)",
 "Georg Philipp Telemann|Paris Quartets|1730|mBCoDRX4a0Q|Georg Philipp Telemann|",
 "Georg Philipp Telemann|Tafelmusik|1733|xNFkKhfdgZM|Georg Philipp Telemann|",
-"Johann Sebastian Bach|Christmas Oratorio|1734-1735|98UjjwzJBFE|Johann Sebastian Bach|",
+"Johann Sebastian Bach|Christmas Oratorio|1734-1735|98UjjwzJBFE|Johann Sebastian Bach|Christmas Oratorio",
 "George Frideric Handel|Ariodante|1735|JGnW-HZCiD8|George Frideric Handel|",
 "George Frideric Handel|Organ Concertos|1735-1751|3qvQ7DM4pBM|George Frideric Handel|",
 "Jean-Philippe Rameau|Les Indes galantes|1735|_aPKLslVDSE|Jean-Philippe Rameau|Les Indes galantes",
