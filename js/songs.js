@@ -6896,7 +6896,7 @@ const songs = [
 "Foals|Mountain At My Gates|2015|l_EIE5f2t6M|Foals (band)|S9768|Indie Rock;Alternative Rock;Rock|Mountain at My Gates",
 "Luscious Jackson|Naked Eye|1996|0NhqN0KcWAE|Luscious Jackson|S7351|Alternative Dance;Pop Rap;Pop Rock;Alternative Rock;Dance;Hip Hop;Pop;Rock|Naked Eye (Luscious Jackson song)",
 "Conway Twitty|Hello Darlin'|1970|Og1QRtcWdEY|Conway Twitty|S1724|Nashville Sound;Country;Country Pop;Pop|Hello Darlin' (song)",
-"Echo and the Bunnymen|Lips Like Sugar|1987|9hGcJA8fXvU|Echo & the Bunnymen|S3387|New Wave;Pop Rock;Pop;Rock|",
+"Echo and the Bunnymen|Lips Like Sugar|1987|9hGcJA8fXvU|Echo & the Bunnymen|S3387|New Wave;Pop Rock;Pop;Rock|Lips Like Sugar",
 "Beastie Boys|Rock Hard|1985|dsVAOjVYQnY|Beastie Boys|S3177|East Coast Hip Hop;Rap Rock;Alternative Rock;Hip Hop;Rock|",
 "Killing Joke|Requiem|1980|U7WPI4TJImo|Killing Joke|S1837|Post-Punk;Rock|Requiem (Killing Joke song)",
 "Larry Williams|Short Fat Fannie|1957|qs4eIExZols|Larry Williams|S7179|Rock & Roll;Rock|",
