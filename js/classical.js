@@ -705,7 +705,7 @@ const classical = [
 "Frances Poulenc|Les biches|1923-1947|W37t7X4uYeQ|Francis of Assisi|",
 "Arnold Schoenberg|Suite for Piano|1923|bQHR_Z8XVvI|Arnold Schoenberg|",
 "Igor Stravinsky|Octet|1923|YyqLnP0hOnI|Igor Stravinsky|",
-"Alexander Zemlinsky|Lyric Symphony|1923|KGvMhAmBniE|Alexander von Zemlinsky|",
+"Alexander Zemlinsky|Lyric Symphony|1923|KGvMhAmBniE|Alexander von Zemlinsky|Lyric Symphony",
 "Igor Stravinsky|Les noces|1923|gNBDJNHeZmo|Igor Stravinsky|Les noces",
 "Eugène Ysaye|Six Solo Violin Sonatas, Op. 27|1923|QBSSTKo60Qs|Eugène Ysaÿe|Six Sonatas for solo violin (Ysaÿe)",
 "Béla Bartók|The Miraculous Mandarin|1924|SCkn0Qjm0Ho|Béla Bartók|The Miraculous Mandarin",
