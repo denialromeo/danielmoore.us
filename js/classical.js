@@ -407,7 +407,7 @@ const classical = [
 "Pyotr Ilyich Tchaikovsky|The Seasons|1876|ryxAe4B_3Pg|Pyotr Ilyich Tchaikovsky|The Seasons (Tchaikovsky)",
 "Pyotr Ilyich Tchaikovsky|Swan Lake|1876|9rJoB7y6Ncs?start=3486|Pyotr Ilyich Tchaikovsky|Swan Lake",
 "Johannes Brahms|Symphony No. 2|1877|6nKd-ia7_Lc|Johannes Brahms|Symphony No. 2 (Brahms)",
-"Camille Saint-Saëns|Samson et Dalila|1877|vjRiLKSPbqc|Camille Saint-Saëns|",
+"Camille Saint-Saëns|Samson and Delilah|1877|vjRiLKSPbqc|Camille Saint-Saëns|Samson and Delilah (opera)",
 "Johannes Brahms|Violin Concerto|1878|UFl9xuYP5T8|Johannes Brahms|Violin Concerto (Brahms)",
 "Pablo de Sarasate|Zigeunerweisen|1878|ufIlOXXMqs0|Pablo de Sarasate|",
 "Antonín Dvořák|Slavonic Dances|1878-1886|JhBjD23F2r0|Antonín Dvořák|Slavonic Dances",
