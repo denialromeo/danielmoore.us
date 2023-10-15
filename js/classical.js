@@ -331,7 +331,7 @@ const classical = [
 "Giuseppe Verdi|Il trovatore|1853|JRRkhpJr0pA|Giuseppe Verdi|",
 "Giuseppe Verdi|La traviata|1853|pu7zWrIMV_g|Giuseppe Verdi|La traviata",
 "Franz Liszt|Piano Sonata in B minor|1853|IeKMMDxrsBE|Franz Liszt|Piano Sonata in B minor (Liszt)",
-"Robert Schumann|Szenen aus Goethes Faust|1853|fYU1z3LJIL4|Robert Schumann|",
+"Robert Schumann|Szenen aus Goethes Faust|1853|fYU1z3LJIL4|Robert Schumann|Scenes from Goethe's Faust",
 "Hector Berlioz|La damnation de Faust|1854|Ws_YvHfG1yQ|Hector Berlioz|La damnation de Faust",
 "Franz Liszt|Les préludes|1854|jb2bkVQwtBs|Franz Liszt|Les préludes",
 "Johannes Brahms|Piano Trio No. 1|1854-1891|EK7sZfccL04|Johannes Brahms|Piano Trio No. 1 (Brahms)",
