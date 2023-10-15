@@ -593,7 +593,7 @@ const albums = [
 "Destroyer|Kaputt|2011|PLHgheFBYWWm_IxQp4ig3RaER_0k2mSaKQ|A5137|Kaputt (album)|Destroyer (band)|Art Pop;Sophisti-Pop;Pop",
 "Brian Wilson|SMiLE|2004|PLhinduWcIKtFcHEDIQPXXdbFGT8gxTKF1|A4063|Brian Wilson Presents Smile|Brian Wilson|Baroque Pop;Pop Rock;Psychedelic Pop;Pop;Rock",
 "Leonard Cohen|I'm Your Man|1988|PLVZo4za24WH8SQ-V3Aam4vebvTriTsfkm|A728|I'm Your Man (Leonard Cohen album)|Leonard Cohen|Singer/Songwriter;Sophisti-Pop;Pop",
-"The Rolling Stones|Get Yer Ya-Ya's Out!|1970|PLglUu7rOaMDvLniIzKSkkPnQgRaiUj5p_|A195|Get Yer Ya-Ya's Out! The Rolling Stones in Concert|The Rolling Stones|Rock",
+"The Rolling Stones|Get Yer Ya-Ya's Out!|1970|PL4cFJtUcmjZks3sgP6q_aYfifFEH32JyH|A195|Get Yer Ya-Ya's Out! The Rolling Stones in Concert|The Rolling Stones|Rock",
 "Steve Reich|Music for 18 Musicians|1978|PLFA9054DC120957C0|A2027|Music for 18 Musicians|Steve Reich|Minimalism;Classical Music;Modern Classical",
 "R.E.M.|Lifes Rich Pageant|1986|PLyr02rEOrv-u2zDDbwsz7MkpFeMUyYmum|A674|Lifes Rich Pageant|R.E.M.|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Dirty Projectors|Bitte Orca|2009|PL-tfAs_7PfzmvXw5Jo6MqCbkqE-1u4lMr|A4991|Bitte Orca|Dirty Projectors|Art Pop;Indie Pop;Progressive Pop;Pop",
