@@ -204,6 +204,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*A Clash of Kings*](https://www.goodreads.com/notes/6584437-a-clash-of-kings/71655209-daniel-moore) by [George R. R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin) (Living history is written in blood.)
 * [*The House of God*](https://www.goodreads.com/notes/10562200-the-house-of-god/71655209-daniel-moore) by [Samuel Shem](https://en.wikipedia.org/wiki/Samuel_Shem) (Only [57%](https://www.ama-assn.org/practice-management/physician-health/pandemic-s-wake-only-57-doctors-would-choose-medicine-again) of doctors would go into medicine again.)
 * [*The Long Walk*](https://www.goodreads.com/notes/28165439-the-long-walk/71655209-daniel-moore) by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) (Masculinity in a nutshell.)
+* [*Microserfs*](https://www.goodreads.com/notes/11483124-microserfs/71655209-daniel-moore) by [Douglas Coupland](https://en.wikipedia.org/wiki/Douglas_Coupland) (Workers-eye view of the dot-com boom.)
 * [*Pet Sematary*](https://www.goodreads.com/notes/45030607-pet-sematary/71655209-daniel-moore) by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) (Death makes a mockery of everything.)
 * [*The Stars My Destination*](https://www.goodreads.com/notes/61330329-the-stars-my-destination/71655209-daniel-moore) by [Alfred Bester](https://en.wikipedia.org/wiki/Alfred_Bester) (Hypnotic in its intensity.)
 * [*Submission*](https://www.goodreads.com/notes/25349247-submission/71655209-daniel-moore) by [Michel Houellebecq](https://en.wikipedia.org/wiki/Michel_Houellebecq) (Prescient satire of the "end of history".)
@@ -258,7 +259,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Comic Books**
 
 * [*Buddha*](https://archive.org/details/manga_Buddha-v02) by [Osamu Tezuka](https://en.wikipedia.org/wiki/Osamu_Tezuka) (Existence is a fever dream, and the self is an illusion.)
-* [*Invincible*](https://getcomics.org/other-comics/invincible-compendium-vol-1-2013-2019/) by [Robert Kirkman](https://en.wikipedia.org/wiki/Robert_Kirkman) (Thrilling post-9/11 visions of U.S.-led multilateralism.)
+* [*Invincible*](https://getcomics.org/other-comics/invincible-compendium-vol-1-2013-2019/) by [Robert Kirkman](https://en.wikipedia.org/wiki/Robert_Kirkman) (Thrilling visions of U.S.-led, post-racial multilateralism.)
 * [*Sandcastle*](https://www.amazon.com/Sandcastle-new-preface-Original-Fiction-ebook/dp/B097YWJMQF) by [Pierre Oscar Levy](https://fr.wikipedia.org/wiki/Pierre_Oscar_L%C3%A9vy) (Life's a beach and then you die.)
 * [*The Sandman*](https://getcomics.org/dc/the-sandman-1-75-extras/) by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman) (No matter how powerful you get, you're still [mortal](http://comic-academic.00server.com/suspects.html).)
 * [*Swamp Thing*](https://getcomics.org/dc/saga-of-the-swamp-thing-vol-1-6/) by [Alan Moore](https://en.wikipedia.org/wiki/Alan_Moore) (It's better to be a plant than an animal.)
