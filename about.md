@@ -143,6 +143,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Life in India After Returning from US](https://cubicledog.substack.com/p/part-1-life-in-india)" by Shuddha Kannadiga (All moves have trade-offs.)
 * "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch)" by Scott Alexander (We run ever-faster just to stay in place.)
 * "[The Merge](https://blog.samaltman.com/the-merge#main)" by Sam Altman (It's likely the future of intelligent life is post-human.)
+* "[Netanyahu Is Finished](https://seymourhersh.substack.com/p/netanyahu-is-finished)" by Seymour Hersh (One small oversight led to thousands dead.)
 * "[The Obama Factor](https://www.tabletmag.com/sections/arts-letters/articles/david-garrow-interview-obama)" by David Samuels (In some ways, he set the stage for Trump.)
 * "[Overshoot](https://medium.com/@CollapseSurvival/overshoot-why-its-already-too-late-to-save-civilization-e834cb4ec694)" by Alan Urban (Everything lasts forever until it doesn't.)
 * "[Reducing the Male Population Will Solve Everything](https://www.vice.com/en/article/5gkkj5/is-reducing-the-male-population-by-90-percent-the-solution-to-all-our-problems)" by Krista Milburn (It actually would.)
