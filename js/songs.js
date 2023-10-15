@@ -5693,7 +5693,7 @@ const songs = [
 "Bob Dylan|Man in the Long Black Coat|1989|8JuLKtz_EH8|Bob Dylan|S5554|Folk Rock;Gothic Country;Singer/Songwriter;Alt-Country;Country;Rock|Man in the Long Black Coat",
 "Klaxons|Atlantis to Interzone|2006|XX3w_PlGReU|Klaxons|S7136|Alternative Dance;Dance-Punk;Alternative Rock;Dance;Post-Punk;Rock|Atlantis to Interzone",
 "Doris Troy|Just One Look|1963|GI3OYR_XM0w|Doris Troy|S3910|Soul;R&B|Just One Look (song)",
-"Alain Bashung|Gaby Oh! Gaby|1980|XazkP2xJEHY|Alain Bashung|S5135|Chanson;French Pop;New Wave;Pop Rock;Pop;Regional Music;Rock|",
+"Alain Bashung|Gaby oh Gaby|1980|XazkP2xJEHY|Alain Bashung|S5135|Chanson;French Pop;New Wave;Pop Rock;Pop;Regional Music;Rock|Gaby oh Gaby",
 "Green Day|Jesus of Suburbia|2004|JMcNzjzw63I|Green Day|S6642|Alternative Rock;Pop Punk;Punk Rock;Rock|Jesus of Suburbia",
 "AlunaGeorge|Attracting Flies|2013|7d_HD89ZlJE|AlunaGeorge|S9403|Electropop;UK Garage;Dance;Electronic;Electronic Dance Music;Pop|",
 "Rosie and the Originals|Angel Baby|1960|9xm3qnh1sck|Rosie and the Originals|S3782|Doo-Wop;Descriptor;R&B;Vocal Group|Angel Baby (Rosie and the Originals song)",
