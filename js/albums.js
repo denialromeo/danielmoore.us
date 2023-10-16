@@ -2915,7 +2915,7 @@ const albums = [
 "The Gun Club|The Las Vegas Story|1984|PLtBZ5uzv7iw2eipDexe09Bb6ASRLG33Ie|A1490|The Las Vegas Story (album)|The Gun Club|Post-Punk;Rock",
 "Brian Eno|Ambient 4: On Land|1982|PLB--yRp2J0bFd9ttbujPSZLg0aCA0ng0t|A2804|Ambient 4: On Land|Brian Eno|Ambient",
 "The Internet|Hive Mind|2018|PLck63dnHZDLD9iQZRrwL2K5ylD8s6ad7q|A6059|Hive Mind (The Internet album)|The Internet (band)|Neo-Soul;R&B;Soul",
-"Fleshtones|Roman Gods|1981|PLIxwjInMlFTGmVm67VbtnNRYhcAmtcCed|A4654|Roman Gods (album)|The Fleshtones|Garage Rock Revival;Garage Rock;Rock",
+"Fleshtones|Roman Gods|1981|PL0XEksCh3y_ZZ8h_39aHq8NsNMakE8jJ6|A4654|Roman Gods (album)|The Fleshtones|Garage Rock Revival;Garage Rock;Rock",
 "Mastodon|Blood Mountain|2006|PLTZ1sthjmS9YtgsfTTnq_-etRIOvOKJF8|A3077|Blood Mountain (album)|Mastodon (band)|Progressive Metal;Sludge Metal;Metal;Rock",
 "Scraping Foetus Off the Wheel|Hole|1984|PLQuAW_Ov_RlHxCwOZaZ8uUVlDaOUlYLzw|A3009|Hole (Foetus album)|Foetus (band)|Industrial;Industrial Rock;Experimental;Industrial Music;Rock",
 "Cold Chisel|East|1980|PLNjGq13tg_g7TD4R7qE1vz_Afqdw8FgCE|A2759|East (Cold Chisel album)|Cold Chisel|Pub Rock;Rock",
