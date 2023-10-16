@@ -786,7 +786,7 @@ const classical = [
 "Sergei Prokofiev|Peter and the Wolf|1936|px8FakwGPDM|Sergei Prokofiev|Peter and the Wolf",
 "Olivier Messiaen|Poèmes pour Mi|1936|l_InFMyiyn8|Olivier Messiaen|",
 "Sergei Rachmaninoff|Symphony No. 3|1936|u3VnQRMh-IA|Sergei Rachmaninoff|Symphony No. 3 (Rachmaninoff)",
-"Anton Webern|Variations, Op. 27|1936|ZEtqEzPakxA|Anton Webern|",
+"Anton Webern|Variations, Op. 27|1936|ZEtqEzPakxA|Anton Webern|Variations for piano (Webern)",
 "Béla Bartók|Music for Strings, Percussion, and Celesta|1936|ymqRNY4K4NA|Béla Bartók|Music for Strings, Percussion and Celesta",
 "Dmitri Shostakovich|Symphony No. 4|1936|-Us8ElJ3yUY|Dmitri Shostakovich|Symphony No. 4 (Shostakovich)",
 "Franz Schmidt|The Book with Seven Seals|1937|gQfMFH7UU7s|Franz Schmidt (composer)|The Book with Seven Seals",
