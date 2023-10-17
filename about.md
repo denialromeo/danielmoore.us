@@ -89,7 +89,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*How to Cook Everything: The Basics*](https://www.goodreads.com/notes/18897533-how-to-cook-everything/71655209-daniel-moore?ref=abp) by [Mark Bittman](https://markbittman.com/books) (Includes the steps most authors skip.)
 * [*How to Eat*](https://www.goodreads.com/notes/48746181-how-to-eat/71655209-daniel-moore) by [Mark Bittman](https://markbittman.com/books) (Healthy living is a choice you make every day.)
 * [*Lectures on Physics*](https://www.feynmanlectures.caltech.edu/) by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (Still the gold standard.)
-* [*Logical Chess*](https://archive.org/details/logicalchess_movebymove) by [Irving Chenev](https://en.wikipedia.org/wiki/Irving_Chernev) (Teaches the consequences of small changes.)
 * [*The Men's Health Big Book of Exercises*](https://www.amazon.com/gp/product/1623368413) by [Adam Campbell](https://www.menshealth.com/author/209180/adam-campbell/) (Endless workout variations.)
 * [*Poker Tells*](https://www.goodreads.com/notes/18951325-caro-s-book-of-poker-tells/71655209-daniel-moore) by [Mike Caro](https://en.wikipedia.org/wiki/Mike_Caro) (Reading body language for fun and profit. Comes with [videos](https://www.youtube.com/watch?v=NeyglBBYqtE&list=PL1X3qTzT40VnPVq8022uxeNZTe7bUVx94&index=1).)
 * [*The Royal Road to Card Magic*](https://www.goodreads.com/notes/18931201-the-royal-road-to-card-magic/71655209-daniel-moore) by [Jean Hugard](https://en.wikipedia.org/wiki/Jean_Hugard) (Spice up game night.)
