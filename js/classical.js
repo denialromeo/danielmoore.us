@@ -975,7 +975,7 @@ const classical = [
 "John Adams|Harmonielehre|1985|a74Cg0jdR0c|John Adams|",
 "György Ligeti|Études|1985-2004|XHhZ2TzHlow|György Ligeti|Études (Ligeti)",
 "Witold Lutoslawski|Chain 2|1985|LHlD62R3E80|Witold Lutosławski|",
-"Alfred Schnittke|String Trio|1985|kueXf27ecz8|Alfred Schnittke|String trio",
+"Alfred Schnittke|String Trio|1985|kueXf27ecz8|Alfred Schnittke|",
 "Milton Babbitt|Transfigured Notes|1986|o4ovTeWNPV4|Milton Babbitt|",
 "Peter Sculthorpe|Earth Cry|1986|FWuLo3wyWFQ|Peter Sculthorpe|",
 "Philip Glass|Violin Concerto|1987|5lGNtPXcA04|Philip Glass|Violin Concerto No. 1 (Glass)",
