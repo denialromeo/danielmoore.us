@@ -1722,7 +1722,7 @@ const albums = [
 "Arctic Monkeys|Tranquility Base Hotel + Casino|2018|PLQcg8VywA0W1RkIupbcWPV8h8GVXBoZYl|A6031|Tranquility Base Hotel & Casino|Arctic Monkeys|Art Rock;Psychedelic Pop;Pop;Rock",
 "The Last Shadow Puppets|The Age of the Understatement|2008|PLcnPdZHPO1-Y6_dyMOpW1g81mN_VkjCqQ|A4354|The Age of the Understatement|The Last Shadow Puppets|Chamber Pop;Indie Rock;Alternative Rock;Baroque Pop;Indie Pop;Pop;Rock",
 "Sizzla|Black Woman & Child|1997|PLJ3VWGAqa-avpsZ8enKlIOVPpKCw5DT8M|A3677|Black Woman & Child|Sizzla|Ragga;Roots Reggae;Caribbean Music;Dancehall;Jamaican Music;Reggae;Regional Music",
-"Khaled|Khaled|1992|PL1X3qTzT40Vk-Tfg6p7cidxcAeHIIeJZ4|A2157|Khaled (album)|Khaled (musician)|Pop Raï;African Music;Arabic Music;North African Music;Pop;Raï;Regional Music",
+"Khaled|Khaled|1992|PL-Yv-f8rcErbE-kEVnBNR64xMJZ25M4_j|A2157|Khaled (album)|Khaled (musician)|Pop Raï;African Music;Arabic Music;North African Music;Pop;Raï;Regional Music",
 "Orchestra Baobab|Vol. 1: Senegambie/Vol. 2: Ngalam/Ken Dou Werente/Pirates Choice|1982|PLetv3SCC-r3aS6RPz0w67CkHAndoz9mtR|A2922|Orchestra Baobab|Orchestra Baobab|Afro-Cuban Jazz;Hispanic Music;Jazz;Latin American Music;Latin Jazz;Regional Music",
 "Beach House|7|2018|PL8jPTjX3P7qg1gEQSRQ8oUHctiZOGAn-L|A6029|7 (Beach House album)|Beach House|Dream Pop;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock",
 "The Last Poets|This Is Madness|1971|PL2DhUJD6YC73eggzGt_Vdt1mz_ThRioAo|A2646|This Is Madness|The Last Poets|Poetry;Descriptor;Spoken Word",
