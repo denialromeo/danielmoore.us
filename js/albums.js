@@ -366,7 +366,7 @@ const albums = [
 "Miles Davis|Classics in Jazz/Birth of the Cool|1954|PLVG1KRr_9ktFPDolNocVHs3YDmI6XngEb|A1788|Birth of the Cool|Miles Davis|Cool Jazz;Jazz",
 "The Kinks|Something Else by the Kinks|1967|PLa7DwXF9n16G2FfgGgYmiS8qPPq1jyzMH|A104|Something Else by the Kinks|The Kinks|Baroque Pop;Pop Rock;Pop;Rock",
 "OutKast|Aquemini|1998|PLglUu7rOaMDvoJ3wiWjLNZ8ZLfbOPuoZq|A1044|Aquemini|Outkast|Conscious Hip Hop;Hip Hop",
-"TV on the Radio|Return to Cookie Mountain|2006|PLATeyS5bPJiGB0i-7iXl88OSVKL0DzCi9|A2142|Return to Cookie Mountain|TV on the Radio|Art Rock;Indie Rock;Alternative Rock;Rock",
+"TV on the Radio|Return to Cookie Mountain|2006|PLXdefjrKJgHYKAF_acyYeHUCt1iFvxO6z|A2142|Return to Cookie Mountain|TV on the Radio|Art Rock;Indie Rock;Alternative Rock;Rock",
 "Dizzee Rascal|Boy in da Corner|2003|PLlSr4xatuP5QhWipmZBzwPnULNl4shFIB|A3941|Boy in da Corner|Dizzee Rascal|Grime;UK Hip Hop;Electronic;Hip Hop",
 "Miles Davis|In a Silent Way|1969|PLplWlaL7J56Ql3ZTvsb5DCuE4-fusnaJU|A1989|In a Silent Way|Miles Davis|Jazz Fusion;Jazz",
 "Kanye West|Late Registration|2005|PLAUxsgLNM2BuYzRSsctonx21ZHtRtrwf5|A4194|Late Registration|Kanye West|Hip Hop",
