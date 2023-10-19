@@ -2566,7 +2566,7 @@ const albums = [
 "Television|Adventure|1978|PL558690338648EF47|A1165|Adventure (Television album)|Television (band)|New Wave;Post-Punk;Rock",
 "Pat Metheny|Bright Size Life|1976|PLUUBOs-uj5anxMlbvijYCcdj90z60JcXf|A2019|Bright Size Life|Pat Metheny|Jazz Fusion;Jazz",
 "EMA|Past Life Martyred Saints|2011|PLqrDYLvMD54yEp592Nd1hpuHPKyH0IiKc|A5140|Past Life Martyred Saints|Erika M. Anderson|Alternative Singer/Songwriter;Indie Rock;Alternative Rock;Rock;Singer/Songwriter",
-"Jethro Tull|Stand Up|1969|PL633C6E54B799D2A0|A1118|Stand Up (Jethro Tull album)|Jethro Tull (band)|Blues Rock;Progressive Rock;Rock",
+"Jethro Tull|Stand Up|1969|OLAK5uy_mfg6GbRV6ieKu9kF4cDBMGAo6fLRAbhIE|A1118|Stand Up (Jethro Tull album)|Jethro Tull (band)|Blues Rock;Progressive Rock;Rock",
 "Black Rebel Motorcycle Club|B.R.M.C.|2001|PLX66jEixZe1ySmMQNXTeWiRCRjHWLsrTK|A1220|B.R.M.C. (album)|Black Rebel Motorcycle Club|Garage Rock;Indie Rock;Psychedelic Rock;Alternative Rock;Rock",
 "Au Pairs|Playing with a Different Sex|1981|PLZzKsHzifXto6zov_UgnFJh4MKkwR-tnb|A533|Playing with a Different Sex|Au Pairs|Post-Punk;Rock",
 "Fabrizio De André|Crêuza de mä|1984|PLFF18B4016C00ABE0|A2834|Crêuza de mä|Fabrizio De André|Contemporary Folk;Folk",
