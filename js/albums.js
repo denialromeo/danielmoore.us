@@ -2864,7 +2864,7 @@ const albums = [
 "Los Lobos|By the Light of the Moon|1987|PLzGotn8LeP0eX0CoCpLJ1ms8H4nyfXgE1|A719|By the Light of the Moon (album)|Los Lobos|Americana;Tex-Mex;Country;Rock;Roots Rock",
 "Titus Andronicus|The Most Lamentable Tragedy|2015|PLr5vgoBCfPF1JgQoTjOt3dP1Nzyq3BPG5|A5593|The Most Lamentable Tragedy|Titus Andronicus (band)|Indie Rock;Punk Rock;Rock Opera;Alternative Rock;Rock",
 "Antônio Carlos Jobim|The Composer of Desafinado, Plays|1963|PLVacJnEm87ru1EmnQyME6mdC-9qmdMToN|A2317|The Composer of Desafinado Plays|Antônio Carlos Jobim|Bossa Nova;Brazilian Music;Regional Music",
-"Gong|Radio Gnome Invisible Part I: Flying Teapot|1973|PL-dBL38p1AR99PfFwrsr9juG6IsKJWQpY|A2663|Flying Teapot (album)|Gong (band)|Canterbury Scene;Space Rock;Progressive Rock;Psychedelic Rock;Rock",
+"Gong|Radio Gnome Invisible Part I: Flying Teapot|1973|PLyHyyUNDt_Vu_xyXWgQxJz_F_FCrh2cWr|A2663|Flying Teapot (album)|Gong (band)|Canterbury Scene;Space Rock;Progressive Rock;Psychedelic Rock;Rock",
 "Broken Social Scene|Broken Social Scene|2005|PLPvQODocvUhSgKth6YGEA-RGuL6ZBI3mK|A4211|Broken Social Scene (album)|Broken Social Scene|Indie Rock;Alternative Rock;Rock",
 "Stevie Nicks|Bella Donna|1981|PLVMgMdYqIEkbTXxhAHnSv1PcWKQYviKPd|A2798|Bella Donna (album)|Stevie Nicks|Soft Rock;Pop;Pop Rock;Rock",
 "The Impressions|Keep On Pushing|1964|PL3QK-FeOu2cdUOoR4zhK5EIynx2KkZFIW|A1289|Keep On Pushing|The Impressions|Chicago Soul;R&B;Soul",
