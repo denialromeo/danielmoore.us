@@ -69,7 +69,7 @@ const classical = [
 "Antonio Vivaldi|L’estro armonico|1711|xn4KUN3yfMg|Antonio Vivaldi|",
 "Antonio Vivaldi|Stabat mater|1712|r9O80oxwhp8|Antonio Vivaldi|",
 "François Couperin|Twenty-seven Ordres|1713-1730|bNj8bgnmErc|François Couperin|",
-"Johann Sebastian Bach|Orgelbüchlein|1715-1740|vGz-QhGgB_4?start=52|Johann Sebastian Bach|Orgelbüchlein",
+"Johann Sebastian Bach|Orgelbüchlein|1708-1717|vGz-QhGgB_4?start=138|Johann Sebastian Bach|Orgelbüchlein",
 "Antonio Vivaldi|Juditha triumphans|1716|dd_2D9Rg_Tk|Antonio Vivaldi|Juditha triumphans",
 "George Frideric Handel|Water Music|1717|Kuw8YjSbKd4|George Frideric Handel|",
 "Marin Marais|Pièces de viole, quatrième livre|1717|1pTLTGIwZ2w|Marin Marais|",
