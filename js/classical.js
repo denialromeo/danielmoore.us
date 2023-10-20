@@ -431,7 +431,7 @@ const classical = [
 "Johannes Brahms|Piano Concerto No. 2|1881|BszBccYHuAk|Johannes Brahms|Piano Concerto No. 2 (Brahms)",
 "Richard Wagner|Parsifal|1881|JsqPWZNEQvY|Richard Wagner|Parsifal",
 "Anton Bruckner|Symphony No. 6|1881|NDG4ADk5Q7o|Anton Bruckner|Symphony No. 6 (Bruckner)",
-"Pyotr Ilyich Tchaikovsky|Piano Trio in A minor|1882|Frnnhv1TVzU|Pyotr Ilyich Tchaikovsky|",
+"Pyotr Ilyich Tchaikovsky|Piano Trio in A minor|1882|Frnnhv1TVzU|Pyotr Ilyich Tchaikovsky|Piano Trio (Tchaikovsky)",
 "Pablo de Sarasate|Concert Fantasy on Carmen|1883|pNGoAUz0nhE|Pablo de Sarasate|",
 "Johannes Brahms|Symphony No. 3|1883|u68ETRjNQME|Johannes Brahms|Symphony No. 3 (Brahms)",
 "Emmanuel Chabrier|España|1883|9iHFZX9xD3M|Emmanuel Chabrier|España (Chabrier)",
