@@ -32,7 +32,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>A few quick beliefs that guide my investing acumen &ndash;</p>
     <ul>
         <li>Only invest in stocks or bonds. Real estate, gold, Bitcoin, etc. are all scams long-term.</li>
-        <li>Insider trading is rampant. Never buy individual stocks. Only index funds like <a href="https://investor.vanguard.com/investment-products/etfs/profile/voo#overview">VOO</a>.</li>
+        <li>Insider trading is <a href="https://www.capitoltrades.com/">rampant</a>. Never buy individual stocks. Only index funds like <a href="https://investor.vanguard.com/investment-products/etfs/profile/voo#overview">VOO</a>.</li>
         <li>Check if <a href="https://fred.stlouisfed.org/series/MORTGAGE30US">interest rates</a> are at long-term highs or lows. If low, dollar-cost average into VOO. When high (like present), cash out and buy <a href="https://client.schwab.com/Areas/Trade/FixedIncomeSearch/FISearch.aspx/TreasuryAuctions">T-Bills</a> for a 4-6% return over a year.</li>
         <li>Keep in mind that stock market returns from 1991 to 2018 were predicated on globalization and good relations with China. Post-Trump, this may no longer be possible.</li>
     </ul>
