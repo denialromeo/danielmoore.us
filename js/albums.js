@@ -950,7 +950,7 @@ const albums = [
 "Four Tet|Rounds|2003|PLplZ_yA5BHkIYO6ME2SIIC2JnkCDprVk-|A3925|Rounds (album)|Four Tet|Folktronica;Electronic",
 "Van Morrison|Saint Dominic's Preview|1972|PLzvx7Yj8xTWdRgumihDhjB_U-J1ODbXWe|A250|Saint Dominic's Preview|Van Morrison|Folk Rock;Singer/Songwriter;Rock",
 "Little Feat|Dixie Chicken|1973|PLz6cAheObZcjQ0RMFc8Y8lIRHiOdzy-jB|A290|Dixie Chicken (album)|Little Feat|Boogie Rock;Southern Rock;Blues Rock;Rock",
-"XTC|Drums and Wires|1979|PLbuPF_tpNEjiov3PN3egaLbSS-3P5-_X3|A475|Drums and Wires|XTC|New Wave;Pop Rock;Post-Punk;Pop;Rock",
+"XTC|Drums and Wires|1979|PLuJB6kivNRRIp8KmFFLLkQnjEQE67RvIA|A475|Drums and Wires|XTC|New Wave;Pop Rock;Post-Punk;Pop;Rock",
 "Squeeze|East Side Story|1981|PL25A1FFDCECC637E9|A520|East Side Story (Squeeze album)|Squeeze (band)|New Wave;Pop Rock;Pop;Rock",
 "Queens of the Stone Age|Rated R|2000|PLTRx9C76mjQimNWiP82BtNQtPUBJqULau|A1091|Rated R (Queens of the Stone Age album)|Queens of the Stone Age|Alternative Rock;Stoner Rock;Hard Rock;Rock",
 "XTC|English Settlement|1982|PLlsZHYnNM0pYDRgK4sLtzVN_oVNfbXE0e|A564|English Settlement|XTC|Pop Rock;Pop;Rock",
