@@ -539,7 +539,7 @@ const classical = [
 "Jean Sibelius|Symphony No. 2|1902|iXU8EXL7a_4|Jean Sibelius|Symphony No. 2 (Sibelius)",
 "Eugen d’Albert|Tiefland|1903|Mqs4SA_Tyok|Eugen d'Albert|Tiefland (opera)",
 "Maurice Ravel|String Quartet|1903|ieRQyyPowH0|Maurice Ravel|String Quartet (Ravel)",
-"John Ireland|Songs|1903-1938|EibPO5XPEVo|John Ireland|",
+"John Ireland|Songs|1903-1938|EibPO5XPEVo|John Ireland (composer)|",
 "Hugo Alfvén|Swedish Rhapsodies|1903-1931|FN-n-UzG_dg|Hugo Alfvén|",
 "Maurice Ravel|Shéhérazade|1903|paZ7LXd_wKM|Maurice Ravel|Shéhérazade (Ravel)",
 "Richard Strauss|Symphonia domestica|1903|zvymcR85HPY|Richard Strauss|Symphonia Domestica",
