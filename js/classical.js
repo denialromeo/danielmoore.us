@@ -5,7 +5,7 @@ const classical = [
 "Francesco Landini|Ballatas and Songs|1300s|8aw7Wvivsv4|Francesco Landini|",
 "Guillaume Dufay|Motets|1420-1447|y1qaSdMObLg|Guillaume Du Fay|Motet",
 "Antoine Busnoys|Motets|1400s|owyMR2hAieE|Antoine Busnois|Motet",
-"Johannes Ockeghem|Alma redemptoris mater|1400s|90uMGnTOUwc|Johannes Ockeghem|",
+"Johannes Ockeghem|Alma Redemptoris Mater|1400s|90uMGnTOUwc|Johannes Ockeghem|Alma Redemptoris Mater",
 "John Browne|Stabat mater|1490-1502|L4W5arUAqKs|John Browne (composer)|",
 "Josquin des Prez|Missa Pange lingua|1514|vlB1HR4BgUg|Josquin des Prez|Missa Pange lingua",
 "John Taverner|The Western Wynde Mass|1530s|pJYFhEegS4w|John Taverner|Westron Wynde",
