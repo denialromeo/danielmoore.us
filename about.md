@@ -226,6 +226,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*American Sniper*](https://www.max.com/movies/american-sniper/a6698ebf-192c-45e6-852a-4fc98679882f) by [Clint Eastwood](https://en.wikipedia.org/wiki/Clint_Eastwood) (Civilizing the lesser races is the [white man's burden](https://www.kiplingsociety.co.uk/poem/poems_burden.htm).)
 * [*Changjin Hu*](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=battle+at+lake+changjin) by [Chen Kaige](https://en.wikipedia.org/wiki/Chen_Kaige) (Resist U.S. aggression and aid Korea!)
 * [*Coraline*](https://play.max.com/movie/2c315d70-082d-44e4-b5fc-1085a62e8d90) by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman) (Be quick and resourceful and fearless, and all is winnable.)
+* [*Death Note*](https://www.netflix.com/title/70204970) by [Tetsurō Araki](https://en.wikipedia.org/wiki/Tetsur%C5%8D_Araki) (Amplifies drawn-out moments of tension to an art form.)
 * [*Der Untergang*](https://www.peacocktv.com/watch/asset/movies/downfall/6d4b8832-41a9-39b1-be77-a879c597160f) by [Oliver Hirschbiegel](https://en.wikipedia.org/wiki/Oliver_Hirschbiegel) (Final days of the Third Reich.)
 * [*Django Unchained*](https://www.amazon.com/Django-Unchained-Jamie-Foxx/dp/B0B3NBCHMR) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Escaping misery is a universal struggle.)
 * [*Get Out*](https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1L8T75) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Lampoons the racial weirdness of the Obama years.)
