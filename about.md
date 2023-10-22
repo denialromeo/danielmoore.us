@@ -243,6 +243,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Oldboy*](https://www.amazon.com/gp/video/detail/0MGWDXCL13ZZ9KTAE6STVRJT52) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (We are but playthings for the gods.)
 * [*The Personal History of David Copperfield*](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10baee16-44cc-e332-e3c6-0796dd7162e9) by [Armando Ianucci](https://en.wikipedia.org/wiki/Armando_Ianucci) (My favorite comedy.)
 * [*Schindler's List*](https://www.amazon.com/gp/video/detail/B00BEN0V8S) by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) (Still the best film ever made about racism.)
+* [*Soylent Green*](https://play.max.com/movie/039ae44f-87ca-4da3-b8c3-d2323e5c2110) by [Richard Fleischer](https://en.wikipedia.org/wiki/Richard_Fleischer) (Filmed in 1972, set in 2022 &ndash; much of it came true.)
 * [*Squid Game*](https://www.netflix.com/title/81040344) by [Hwang Dong-Hyuk](https://en.wikipedia.org/wiki/Hwang_Dong-hyuk) (Thinly veiled metaphor for corporate life.)
 * [*The Sunset Limited*](https://play.max.com/movie/45898ac7-06e9-4abe-b5ee-a6d2be63cfd3) by [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy) (Is continuing to live [rational](https://philosophy.redzambala.com/leo-tolstoy/confession-leo-tolstoy-7.html)?)
 * [*Synecdoche, New York*](https://www.amazon.com/gp/video/detail/B00BZAZYMI) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
