@@ -61,7 +61,7 @@ const classical = [
 "Henry Purcell|Come Ye Sons of Art, Away|1694|LSk_kA62duQ|Henry Purcell|Come Ye Sons of Art",
 "Antonio Caldara|Maddalena ai piedi di Cristo|1698|wZ85C2u3GRU|Antonio Caldara|",
 "Arcangelo Corelli|Twelve Concerti Grossi, Op. 6|1700s|UNsrdjzLrzM|Arcangelo Corelli|",
-"Antonio Vivaldi|Gloria, RV 589|1700s|Tu6yiS1Q3dA|Antonio Vivaldi|",
+"Antonio Vivaldi|Gloria, RV 589|1700s|Tu6yiS1Q3dA|Antonio Vivaldi|Gloria (Vivaldi)",
 "Johann Sebastian Bach|Preludes, Fantasias, Toccatas &amp; Fugues|1705-1748|YqpkLWATbbA|Johann Sebastian Bach|",
 "Jean-Philippe Rameau|Pièces de clavecin|1706-1747|gkcUOht1i4c|Jean-Philippe Rameau|",
 "Georg Philipp Telemann|Trumpet Concerto in D major|1708-1714|lMsncAgvIXo|Georg Philipp Telemann|",
