@@ -85,7 +85,6 @@ I hope you have a good time here. Thanks for dropping by.
 {:#hobbyist-books}
 **Hobbyist Books**
 
-* [*CultureShock! Philippines*](https://www.goodreads.com/notes/19478316-cultureshock-philippines/71655209-daniel-moore) by [Alfredo Roces](https://books.google.com/books/about/CultureShock_Philippines.html?id=dYeyDQAAQBAJ&source=kp_author_description#about_author) (Retiring to Manila sounds nice.)
 * [*How to Cook Everything: The Basics*](https://www.goodreads.com/notes/18897533-how-to-cook-everything/71655209-daniel-moore?ref=abp) by [Mark Bittman](https://markbittman.com/books) (Includes the steps most authors skip.)
 * [*How to Eat*](https://www.goodreads.com/notes/48746181-how-to-eat/71655209-daniel-moore) by [Mark Bittman](https://markbittman.com/books) (Healthy living is a choice you make every day.)
 * [*Lectures on Physics*](https://www.feynmanlectures.caltech.edu/) by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (Still the gold standard.)
