@@ -93,7 +93,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Poker Tells*](https://www.goodreads.com/notes/18951325-caro-s-book-of-poker-tells/71655209-daniel-moore) by [Mike Caro](https://en.wikipedia.org/wiki/Mike_Caro) (Reading body language for fun and profit. Comes with [videos](https://www.youtube.com/watch?v=NeyglBBYqtE&list=PL1X3qTzT40VnPVq8022uxeNZTe7bUVx94&index=1).)
 * [*The Royal Road to Card Magic*](https://www.goodreads.com/notes/18931201-the-royal-road-to-card-magic/71655209-daniel-moore) by [Jean Hugard](https://en.wikipedia.org/wiki/Jean_Hugard) (Spice up game night.)
 * [*Set Your Voice Free*](https://www.goodreads.com/notes/33613817-set-your-voice-free/71655209-daniel-moore) by [Roger Love](https://en.wikipedia.org/wiki/Roger_Love) (How well you speak affects every interaction.)
-* [*Starting Strength*](https://www.goodreads.com/notes/15746753-starting-strength/71655209-daniel-moore) by [Mark Rippetoe](https://en.wikipedia.org/wiki/Mark_Rippetoe) (Pair with the [DVD](https://www.youtube.com/watch?v=EXZ46_-uwss&list=PLEB5rVJv_L5k0Tr5qvZ6GcK5cpJRLjMa-) for best results.)
 
 (For computer programming books, check out [this list](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-subjects.html). Supplement with [ChatGPT](https://chat.openai.com/?model=gpt-4-code-interpreter).)
 
