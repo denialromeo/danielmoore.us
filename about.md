@@ -55,6 +55,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>The early 20th century's most influential people were Vladimir Lenin, Sun Yat-Sen, Wilhelm II, Fritz Haber, Adolf Hitler, Albert Einstein, Woodrow Wilson, and Franklin Roosevelt.</li>
         <li>The 19th century's most influential people included Victoria I, Ci Xi, Napoleon Bonaparte, Abraham Lincoln, Karl Marx, Charles Darwin, Rani Lakshmibai, and Otto von Bismarck.</li>
         <li>The 18th century's most influential people included Maximilien Robespierre, Aurangzeb, George Washington, Thomas Newcomen, and Robert Clive.</li>
+        <li>Others include Gugliermo Marconi, Vladimir Zworykin, and the Wright Brothers.</li>
     </ul>
 </div>
 
