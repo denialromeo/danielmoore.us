@@ -126,35 +126,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Uninhabitable Earth*](https://www.goodreads.com/notes/43373984-the-uninhabitable-earth/71655209-daniel-moore) by [David Wallace-Wells](https://en.wikipedia.org/wiki/David_Wallace-Wells) (Global climate change will ruin everything.)
 * [*Untrue: Women, Lust, and Infidelity*](https://www.goodreads.com/notes/38907660-untrue/71655209-daniel-moore) by [Wednesday Martin](https://en.wikipedia.org/wiki/Wednesday_Martin) (Primate dating market dynamics.)
 
-{:#blog-posts}
-**Blog Posts**
-
-* "[2007 USC Law School Address](https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger#title_1)" by Charlie Munger (Blueprints for personal success.)
-* "[2024 Election Polls](https://projects.fivethirtyeight.com/polls/president-general/2024/)" by FiveThirtyEight (Who will be this season's commander-in-chief?)
-* "[Automation and the Future of Work](http://hipcrimevocab.com/2016/04/19/automation-and-the-future-of-work-black-lives-matter/#main)" by the Hipcrime Vocab (Technology causes poverty.)
-* "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html#main)" by Seshadri Kumar (World War 3 has begun.)
-* "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Après Boomers, le déluge.)
-* "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by [Venkat Rao](https://www.ribbonfarm.com/now-reading/#content) (Pair with [*The Office*](https://www.peacocktv.com/watch/asset/tv/the-office-superfan-episodes/8229469043710582112) to forever alter your life goals.)
-* "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
-* "[How the Taliban Did It](https://www.atlanticcouncil.org/blogs/new-atlanticist/how-the-taliban-did-it-inside-the-operational-art-of-its-military-victory/)" by Benjamin Jensen (Teamwork and resolve trump everything.)
-* "[India: Another China or Another Brazil?](https://thenextrecession.wordpress.com/2019/05/19/india-another-china-or-another-brazil/)" by Michael Roberts (Riches, but only for a few.)
-* "[Life in India After Returning from US](https://cubicledog.substack.com/p/part-1-life-in-india)" by Shuddha Kannadiga (All moves have trade-offs.)
-* "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch)" by Scott Alexander (We run ever-faster just to stay in place.)
-* "[The Merge](https://blog.samaltman.com/the-merge#main)" by Sam Altman (It's likely the future of intelligent life is post-human.)
-* "[The Obama Factor](https://www.tabletmag.com/sections/arts-letters/articles/david-garrow-interview-obama)" by David Samuels (In some ways, he set the stage for Trump.)
-* "[Overshoot](https://medium.com/@CollapseSurvival/overshoot-why-its-already-too-late-to-save-civilization-e834cb4ec694)" by Alan Urban (Everything lasts forever until it doesn't.)
-* "[Reducing the Male Population Will Solve Everything](https://www.vice.com/en/article/5gkkj5/is-reducing-the-male-population-by-90-percent-the-solution-to-all-our-problems)" by Krista Milburn (It actually would.)
-* "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Microsoft's path to world domination.)
-* "[Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)" by Peter Norvig (No royal road to geometry.)
-* "[Uncomfortable Truthasaurus](https://www.smbc-comics.com/comic/2010-11-30#cc-comicbody)" by Zach Weinersmith (All relationships are transactional.)
-* "[Welcome to the Ruzzkiy Mir](https://yasha.substack.com/p/welcome-to-the-ruzzkiy-mir)" by Evgenia Kovda (Understanding modern Russia.)
-* "[We're Gonna Need a Bigger Moat](https://steve-yegge.medium.com/were-gonna-need-a-bigger-moat-478a8df6a0d2)" by Steve Yegge (The AI genie is [out](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) of the bottle.)
-* "[What I Think Is Going On With U.S.-China Relations](https://www.linkedin.com/pulse/what-i-think-going-1-china-us-relations-2-other-countries-ray-dalio/)" by Ray Dalio (We're f\*\*ked.)
-* "[Will India Get Too Hot to Work?](https://www.mckinsey.com/capabilities/sustainability/our-insights/will-india-get-too-hot-to-work)" by the McKinsey Global Institute (Is there a future?)
-* "[Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/#main)" by Marc Andreessen (Unforeseen consequences.)
-* "[Women in Science](https://philip.greenspun.com/careers/women-in-science)" by Philip Greenspun (STEM careers may not be worth the sunk costs.)
-* "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Root of every political issue of the past 15 years.)
-
 {:#history-books}
 **History Books**
 
@@ -193,6 +164,35 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Governance of China*](https://www.goodreads.com/notes/24309365-xi-jinping-the-governance-of-china/71655209-daniel-moore) by [Xi Jinping](http://politics.people.com.cn/n1/2023/0505/c1001-32679282.html) (Perhaps the 21st century's most influential person.)
 * [*Hit Refresh*](https://www.goodreads.com/notes/31139580-hit-refresh/71655209-daniel-moore) by [Satya Nadella](https://www.youtube.com/watch?v=UNbyT7wPwk4&t=791s) (His talent for acquisitions sparked a new AI arms race.)
 * [*What Happened*](https://www.goodreads.com/notes/34114362-what-happened/71655209-daniel-moore) by [Hillary Clinton](https://en.wikipedia.org/wiki/Hillary_Clinton) (Her electoral losses defined the 21st century.)
+
+{:#blog-posts}
+**Blog Posts**
+
+* "[2007 USC Law School Address](https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger#title_1)" by Charlie Munger (Blueprints for personal success.)
+* "[2024 Election Polls](https://projects.fivethirtyeight.com/polls/president-general/2024/)" by FiveThirtyEight (Who will be this season's commander-in-chief?)
+* "[Automation and the Future of Work](http://hipcrimevocab.com/2016/04/19/automation-and-the-future-of-work-black-lives-matter/#main)" by the Hipcrime Vocab (Technology causes poverty.)
+* "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html#main)" by Seshadri Kumar (World War 3 has begun.)
+* "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Après Boomers, le déluge.)
+* "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by [Venkat Rao](https://www.ribbonfarm.com/now-reading/#content) (Pair with [*The Office*](https://www.peacocktv.com/watch/asset/tv/the-office-superfan-episodes/8229469043710582112) to forever alter your life goals.)
+* "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
+* "[How the Taliban Did It](https://www.atlanticcouncil.org/blogs/new-atlanticist/how-the-taliban-did-it-inside-the-operational-art-of-its-military-victory/)" by Benjamin Jensen (Teamwork and resolve trump everything.)
+* "[India: Another China or Another Brazil?](https://thenextrecession.wordpress.com/2019/05/19/india-another-china-or-another-brazil/)" by Michael Roberts (Riches, but only for a few.)
+* "[Life in India After Returning from US](https://cubicledog.substack.com/p/part-1-life-in-india)" by Shuddha Kannadiga (All moves have trade-offs.)
+* "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch)" by Scott Alexander (We run ever-faster just to stay in place.)
+* "[The Merge](https://blog.samaltman.com/the-merge#main)" by Sam Altman (It's likely the future of intelligent life is post-human.)
+* "[The Obama Factor](https://www.tabletmag.com/sections/arts-letters/articles/david-garrow-interview-obama)" by David Samuels (In some ways, he set the stage for Trump.)
+* "[Overshoot](https://medium.com/@CollapseSurvival/overshoot-why-its-already-too-late-to-save-civilization-e834cb4ec694)" by Alan Urban (Everything lasts forever until it doesn't.)
+* "[Reducing the Male Population Will Solve Everything](https://www.vice.com/en/article/5gkkj5/is-reducing-the-male-population-by-90-percent-the-solution-to-all-our-problems)" by Krista Milburn (It actually would.)
+* "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Microsoft's path to world domination.)
+* "[Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)" by Peter Norvig (No royal road to geometry.)
+* "[Uncomfortable Truthasaurus](https://www.smbc-comics.com/comic/2010-11-30#cc-comicbody)" by Zach Weinersmith (All relationships are transactional.)
+* "[Welcome to the Ruzzkiy Mir](https://yasha.substack.com/p/welcome-to-the-ruzzkiy-mir)" by Evgenia Kovda (Understanding modern Russia.)
+* "[We're Gonna Need a Bigger Moat](https://steve-yegge.medium.com/were-gonna-need-a-bigger-moat-478a8df6a0d2)" by Steve Yegge (The AI genie is [out](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) of the bottle.)
+* "[What I Think Is Going On With U.S.-China Relations](https://www.linkedin.com/pulse/what-i-think-going-1-china-us-relations-2-other-countries-ray-dalio/)" by Ray Dalio (We're f\*\*ked.)
+* "[Will India Get Too Hot to Work?](https://www.mckinsey.com/capabilities/sustainability/our-insights/will-india-get-too-hot-to-work)" by the McKinsey Global Institute (Is there a future?)
+* "[Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/#main)" by Marc Andreessen (Unforeseen consequences.)
+* "[Women in Science](https://philip.greenspun.com/careers/women-in-science)" by Philip Greenspun (STEM careers may not be worth the sunk costs.)
+* "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Root of every political issue of the past 15 years.)
 
 {:#novels}
 **Novels**
