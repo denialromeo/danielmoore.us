@@ -158,7 +158,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#history-books}
 **History Books**
 
-* [*100 Decisive Battles*](https://www.amazon.com/gp/product/0195143663) by [Paul Davis](https://en.wikipedia.org/wiki/Paul_K._Davis_(historian)) (From Ancient Egypt to Desert Storm.)
+* [*100 Decisive Battles*](https://www.amazon.com/gp/product/0195143663) by [Paul Davis](https://en.wikipedia.org/wiki/Paul_K._Davis_(historian)) (At heart, we're chimpanzees with *very* sharp sticks.)
 * [*The Book of Islamic Dynasties*](https://www.goodreads.com/notes/25056329-the-book-of-islamic-dynasties/71655209-daniel-moore) by [Luqman Nagy](https://www.tahapublishers.com/author/luqman-nagy) (Eurasia's past, present, and future.)
 * [*Born in Blackness*](https://www.goodreads.com/notes/57777449-born-in-blackness/71655209-daniel-moore) by [Howard French](https://en.wikipedia.org/wiki/Howard_W._French) (African slaves built Western civilization.)
 * [*Early Indians*](https://en.wikipedia.org/wiki/Early_Indians) by [Tony Joseph](https://en.wikipedia.org/wiki/Tony_Joseph) (Genomics-based insights into 65,000 years of India's history.)
