@@ -47,14 +47,14 @@ I hope you have a good time here. Thanks for dropping by.
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
-        <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Mark Zuckerberg, Donald Trump, Barack Obama, Ben Bernanke, Joe Biden, Benjamin Netanyahu, and Satya Nadella.</li>
-        <li>Honorable mentions go to Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Jiang Zemin, Qian&nbsp;Xuesen, Julius Rosenberg<a href="/assets/img/imgur/rosenberg.jpg" target="_blank"></a>, Ho Chi Minh, and Norman Borlaug.</li>
+        <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Mark Zuckerberg, Donald Trump, Barack Obama, Joe Biden, Benjamin Netanyahu, Zhang Yiming, and Satya Nadella.</li>
+        <li>Others include Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Ho Chi Minh, Ruhollah Khomeini, Jiang&nbsp;Zemin, Qian&nbsp;Xuesen, Julius Rosenberg, and Norman Borlaug.</li>
     </ul>
     <p>Looking back a bit further (still in progress) &ndash;</p>
     <ul>
         <li>The early 20th century's most influential people were Vladimir Lenin, Sun Yat-Sen, Wilhelm II, Fritz Haber, Adolf Hitler, Albert Einstein, Woodrow Wilson, and Franklin Roosevelt.</li>
-        <li>The 19th century's most influential people were Victoria I, Ci Xi, Charles Darwin, Karl Marx, Napoleon Bonaparte, Rani Lakshmibai, Abraham Lincoln, and Otto von Bismarck.</li>
-        <li>The 18th century's most influential people were Maximilien Robespierre, Thomas Newcomen, Aurangzeb, and Robert Clive.</li>
+        <li>The 19th century's most influential people included Victoria I, Ci Xi, Napoleon Bonaparte, Abraham Lincoln, Karl Marx, Charles Darwin, Rani Lakshmibai, and Otto von Bismarck.</li>
+        <li>The 18th century's most influential people included Maximilien Robespierre, Aurangzeb, Thomas Newcomen, and Robert Clive.</li>
     </ul>
 </div>
 
