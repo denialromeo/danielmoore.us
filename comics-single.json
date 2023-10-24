@@ -1,28 +1,76 @@
 {
 	"pages": [
 		{
-			"author": "Garth Ennis",
-			"title": "The Boys",
+			"author": "",
+			"title": "",
 			"amazon": "",
-			"link": "assets/img/comics/boys/01.jpg"
+			"link": "assets/img/comics/web/01.jpg"
 		},
 		{
 			"author": "Robert Kirkman",
 			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/boys/02.jpg"
+			"link": "assets/img/comics/web/02.jpg"
 		},
 		{
 			"author": "Robert Kirkman",
 			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/boys/03.jpg"
+			"link": "assets/img/comics/web/03.jpg"
 		},
 		{
 			"author": "Robert Kirkman",
 			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/boys/04.jpg"
+			"link": "assets/img/comics/web/04.jpg"
+		},
+		{
+			"author": "Robert Kirkman",
+			"title": "Invincible",
+			"amazon": "",
+			"link": "assets/img/comics/web/05.jpg"
+		},
+		{
+			"author": "Robert Kirkman",
+			"title": "Invincible",
+			"amazon": "",
+			"link": "assets/img/comics/web/06.jpg"
+		},
+		{
+			"author": "Robert Kirkman",
+			"title": "Invincible",
+			"amazon": "",
+			"link": "assets/img/comics/web/07.jpg"
+		},
+		{
+			"author": "Robert Kirkman",
+			"title": "Invincible",
+			"amazon": "",
+			"link": "assets/img/comics/web/08.jpg"
+		},
+		{
+			"author": "Robert Kirkman",
+			"title": "Invincible",
+			"amazon": "",
+			"link": "assets/img/comics/web/09.jpg"
+		},
+		{
+			"author": "Robert Kirkman",
+			"title": "Invincible",
+			"amazon": "",
+			"link": "assets/img/comics/web/10.jpg"
+		},
+		{
+			"author": "Robert Kirkman",
+			"title": "Invincible",
+			"amazon": "",
+			"link": "assets/img/comics/web/11.jpg"
+		},
+		{
+			"author": "Robert Kirkman",
+			"title": "Invincible",
+			"amazon": "",
+			"link": "assets/img/comics/web/12.jpg"
 		}
 	]
 }
