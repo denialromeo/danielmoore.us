@@ -446,7 +446,7 @@ const classical = [
 "Johann Strauss II|Der Zigeunerbaron|1885|Y_zXtZSTaVY|Johann Strauss II|",
 "Pyotr Ilyich Tchaikovsky|Manfred Symphony|1885|S6Mn1UjggBY|Pyotr Ilyich Tchaikovsky|Manfred Symphony",
 "Richard Strauss|Lieder|1885-1933|bmoP0_lLAQ8|Richard Strauss|https://en.wikipedia.org/wiki/Richard_Strauss#Lieder",
-"Arthur Sullivan|The Mikado|1885|vJGY6KIfwWA?start=330|Arthur Sullivan|",
+"Arthur Sullivan|The Mikado|1885|vJGY6KIfwWA?start=330|Arthur Sullivan|The Mikado",
 "César Franck|Violin Sonata in A major|1886|oKi8YmP9Ki4|César Franck|Violin Sonata (Franck)",
 "Camille Saint-Saëns|Carnival of the Animals|1886|k2RPKMJmSp0|Camille Saint-Saëns|The Carnival of the Animals",
 "Camille Saint-Saëns|Symphony No. 3, “Organ”|1886|ZWCZq33BrOo|Camille Saint-Saëns|Symphony No. 3 (Saint-Saëns)",
