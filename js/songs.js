@@ -9038,7 +9038,7 @@ const songs = [
 "Burning|Que hace una chica como tú en un sitio como este|1978|nigtyXM5sO0?start=6|https://es.wikipedia.org/wiki/Burning|S10331|Rock urbano español;Soft Rock;Pop;Pop Rock;Rock|",
 "Morris Albert|Feelings|1974|CyBcHUe4WeQ|Morris Albert|S12993|Easy Listening;Pop|Feelings (Morris Albert song)",
 "Ice Cube feat. Das EFX|Check Yo Self|1992|teUnSb3O58w|Ice Cube|S11059|Boom Bap;Disco Rap;Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
-"Squeeze|Take Me I'm Yours|1978|Qllf43RZhJA|Squeeze (band)|S13630|New Wave;Synthpop;Electronic;Pop;Rock|",
+"Squeeze|Take Me I'm Yours|1978|Lt8etY7C4z0|Squeeze (band)|S13630|New Wave;Synthpop;Electronic;Pop;Rock|",
 "Radiohead|Like Spinning Plates|2001|IGWSy1YnhNI|Radiohead|S13603|Art Pop;Electronic;Pop|",
 "Steve Arrington|Feel So Real|1985|128qqShzEvE|Steve Arrington|S8565|Boogie;Dance-Pop;Dance;Disco;Pop;R&B|Feel So Real",
 "Sleigh Bells|Comeback Kid|2012|YiwcUdX7XMw|Sleigh Bells (band)|S8451|Noise Pop;Alternative Rock;Rock|Comeback Kid (Sleigh Bells song)",
