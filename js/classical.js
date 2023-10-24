@@ -248,7 +248,7 @@ const classical = [
 "Franz Schubert|Impromptus|1827|24DugWBRkYg|Franz Schubert|Impromptus (Schubert)",
 "Franz Schubert|Winterreise|1827|wh1Ky7gj4vw|Franz Schubert|Winterreise",
 "Franz Schubert|Piano Trio in E flat major, D. 929|1827|yFyv7c1XyYU|Franz Schubert|Piano Trio No. 2 (Schubert)",
-"Franz Schubert|Fantasy in C, D. 934|1827|NV1kANo4qPI|Franz Schubert|",
+"Franz Schubert|Fantasy in C, D. 934|1827|NV1kANo4qPI|Franz Schubert|Fantasy for violin and piano (Schubert)",
 "Franz Schubert|Fantasy in F minor for piano duet, D. 940|1828|UyjzqPPXDcw|Franz Schubert|",
 "Franz Schubert|Symphony No. 9, “Great”|1828|TPpvJnwf5BU|Franz Schubert|Symphony No. 9 (Schubert)",
 "Franz Schubert|String Quartet in C major|1828|Dc3iX7x73JY|Franz Schubert|String Quartet No. 14 (Schubert)",
