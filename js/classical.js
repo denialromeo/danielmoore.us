@@ -368,7 +368,7 @@ const classical = [
 "Johann Strauss II|The Blue Danube|1867|_CTYymbbEL4|Johann Strauss II|The Blue Danube",
 "Modest Mussorgsky|A Night on the Bare Mountain|1867|iCEDfZgDPS8|Modest Mussorgsky|Night on Bald Mountain",
 "Giuseppe Verdi|Don Carlos|1867-1886|wIQGijoUB1Y|Giuseppe Verdi|Don Carlos",
-"Johannes Brahms|Ein deutsches Requiem|1868|ZXU9vqVdudM|Johannes Brahms|",
+"Johannes Brahms|A German Requiem|1868|ZXU9vqVdudM|Johannes Brahms|A German Requiem (Brahms)",
 "Max Bruch|Violin Concerto No. 1|1868|KDJ6Wbzgy3E|Max Bruch|Violin Concerto No. 1 (Bruch)",
 "Camille Saint-Saëns|Piano Concerto No. 2|1868|tVCvJZtzkqQ|Camille Saint-Saëns|",
 "Edvard Grieg|Piano Concerto|1868|I1Yoyz6_Los|Edvard Grieg|Piano Concerto (Grieg)",
