@@ -404,7 +404,7 @@ const songs = [
 "Van Morrison|Moondance|1970|V3ZY7HfCPxI|Van Morrison|S2560|Jazz Pop;Pop|Moondance (Van Morrison song)",
 "Van Halen|Jump|1983|SwYN7mTi6HM|Van Halen|S425|Hard Rock;Pop Rock;Pop;Rock|Jump (Van Halen song)",
 "Richard Hell & The Voidoids|Blank Generation|1977|JsK8fHPjav0|Richard Hell and the Voidoids|S647|Art Punk;Punk Rock;Rock|",
-"The Rolling Stones|Wild Horses|1971|QhwwCWkmYoc|The Rolling Stones|S1312|Country Rock;Rock|Wild Horses (Rolling Stones song)",
+"The Rolling Stones|Wild Horses|1971|-8YRkL_pzQA|The Rolling Stones|S1312|Country Rock;Rock|Wild Horses (Rolling Stones song)",
 "The Beatles|Norwegian Wood (This Bird Has Flown)|1965|Y_V6y1ZCg_8|The Beatles|S2496|Folk Pop;Psychedelic Folk;Contemporary Folk;Folk;Pop|Norwegian Wood (This Bird Has Flown)",
 "Cyndi Lauper|Girls Just Want to Have Fun|1983|PIb6AZdTr-A|Cyndi Lauper|S466|Dance-Pop;Dance;Pop|Girls Just Want to Have Fun",
 "The Monkees|I'm a Believer|1966|wB9YIsKIEbA|The Monkees|S986|Pop Rock;Sunshine Pop;Pop;Rock|I'm a Believer",
