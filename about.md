@@ -512,18 +512,15 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/01.jpg" itemprop="contentUrl" data-size="701x922"><img style="border: 1px solid black;" src="/assets/img/comics/web/01.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/01.jpg" itemprop="contentUrl" data-size="701x922"><img style="border: 1px solid black;" src="/assets/img/comics/web/01.jpg"/></a><figcaption itemprop="caption description"><p><i></i> by </p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/02.jpg" itemprop="contentUrl" data-size="720x555"><img src="/assets/img/comics/web/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/03.jpg" itemprop="contentUrl" data-size="850x1017"><img src="/assets/img/comics/web/03.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/04.jpg" itemprop="contentUrl" data-size="1500x1150"><img src="/assets/img/comics/web/04.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/05.jpg" itemprop="contentUrl" data-size="924x934"><img src="/assets/img/comics/web/05.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/06.jpg" itemprop="contentUrl" data-size="468x510"><img src="/assets/img/comics/web/06.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/06.jpg" itemprop="contentUrl" data-size="601x659"><img src="/assets/img/comics/web/06.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/07.jpg" itemprop="contentUrl" data-size="1080x1351"><img src="/assets/img/comics/web/07.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/08.jpg" itemprop="contentUrl" data-size="900x654"><img src="/assets/img/comics/web/08.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/09.jpg" itemprop="contentUrl" data-size="684x3863"><img src="/assets/img/comics/web/09.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/10.jpg" itemprop="contentUrl" data-size="601x659"><img src="/assets/img/comics/web/10.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/11.jpg" itemprop="contentUrl" data-size="1280x720"><img src="/assets/img/comics/web/11.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/12.jpg" itemprop="contentUrl" data-size="680x572"><img src="/assets/img/comics/web/12.jpg"/></a></figcaption></figure>
 </div>
 
 <div id="clear"></div>
