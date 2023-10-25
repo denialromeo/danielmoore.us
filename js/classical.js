@@ -464,7 +464,7 @@ const classical = [
 "Nicolai Rimsky-Korsakov|Sheherazade|1888|SQNymNaTr-Y|Nikolai Rimsky-Korsakov|",
 "Hugo Wolf|Mörike Lieder|1888|F4D9DEgFo6k|Hugo Wolf|",
 "Pyotr Ilyich Tchaikovsky|Symphony No. 5|1888|JUk0WZVCnk4|Pyotr Ilyich Tchaikovsky|Symphony No. 5 (Tchaikovsky)",
-"Nicolai Rimsky-Korsakov|Russian Easter Festival Overture|1888|z4e8CvxV4Ho|Nikolai Rimsky-Korsakov|",
+"Nicolai Rimsky-Korsakov|Russian Easter Festival Overture|1888|z4e8CvxV4Ho|Nikolai Rimsky-Korsakov|Russian Easter Festival Overture",
 "Erik Satie|Gymnopédies &amp; Gnossiennes|1888-1897|5pyhBJzuixM|Erik Satie|",
 "Alexander Scriabin|Preludes|1888-1914|ry5L3_0XVuk|Alexander Scriabin|24 Preludes, Op. 11 (Scriabin)",
 "Antonín Dvořák|Symphony No. 8|1889|QXAv-NGppFw|Antonín Dvořák|Symphony No. 8 (Dvořák)",
