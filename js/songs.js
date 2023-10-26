@@ -980,7 +980,7 @@ const songs = [
 "The Crystals|Then He Kissed Me|1963|MSkum4B162M|The Crystals|S2409|Brill Building;Girl Group;Pop|Then He Kissed Me",
 "Joni Mitchell|Help Me|1974|Q4oY8ojxp_8|Joni Mitchell|S739|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Help Me (Joni Mitchell song)",
 "Cream|White Room|1968|V5BF1V1pbTs|Cream (band)|S2418|Acid Rock;Psychedelic Rock;Rock|White Room",
-"Tina Turner|What's Love Got to Do with It|1984|oGpFcHTxjZs|Tina Turner|S430|Adult Contemporary;Pop Soul;Pop;R&B;Soul|What's Love Got to Do with It (1993 film)",
+"Tina Turner|What's Love Got to Do with It|1984|oGpFcHTxjZs|Tina Turner|S430|Adult Contemporary;Pop Soul;Pop;R&B;Soul|What's Love Got to Do with It (song)",
 "ABBA|The Winner Takes It All|1980|iyIOl-s7JTU|ABBA|S554|Europop;Pop|The Winner Takes It All",
 "The Supremes|Baby Love|1964|9_y6nFjoVp4|Diana Ross|S1034|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|Baby Love",
 "Yardbirds|For Your Love|1965|HU5zqidlxMQ|The Yardbirds|S1541|Beat Music;British Rhythm & Blues;Mod;Pop;Pop Rock;R&B;Rhythm & Blues;Rock|For Your Love",
