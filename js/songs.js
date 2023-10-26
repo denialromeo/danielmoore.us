@@ -5258,7 +5258,7 @@ const songs = [
 "Nazz|Open My Eyes|1968|PjKx-yLOGEY|Nazz|S7672|Garage Rock;Psychedelic Rock;Rock|Nazz|",
 "Memphis Jug Band|Stealin' Stealin'|1929|MgENwPdBBK8|Memphis Jug Band|S7514|Jug Band;Acoustic Blues;American Folk Music;Blues;Folk;Regional Music;Traditional Folk Music|",
 "The Rolling Stones|Sweet Virginia|1972|tIfQipkkOqs|The Rolling Stones|S8227|Country Rock;Roots Rock;Rock|Sweet Virginia",
-"Sol Hoopii|Hula Girl|1933|Ir2Gtg0PdpY|Sol Hoopii|S9356|Hawaiian Music;Polynesian Music;Regional Music|",
+"Sol Hoʻopiʻi|Hula Girl|1933|Ir2Gtg0PdpY|Sol Hoʻopiʻi|S9356|Hawaiian Music;Polynesian Music;Regional Music|",
 "León Gieco|Sólo le pido a dios|1979|JqRiD6Phm2U|León Gieco|S7236|Folk Rock;Singer/Songwriter;Rock|Sólo le pido a Dios",
 "David Crosby|Laughing|1971|OGkzxJy0lm4|David Crosby|S5978|Folk Pop;Folk Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock|If I Could Only Remember My Name",
 "David Bowie|Panic in Detroit|1973|SKoIPk5Za0A|David Bowie|S10526|Glam Rock;Rock|Panic in Detroit",
