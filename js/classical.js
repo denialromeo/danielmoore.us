@@ -585,7 +585,7 @@ const classical = [
 "Gustav Mahler|Das Lied von der Erde|1909|Npy4gjZ81F0|Gustav Mahler|Das Lied von der Erde",
 "Gustav Mahler|Symphony No. 9|1909|IoNEeKJ2x44|Gustav Mahler|Symphony No. 9 (Mahler)",
 "Sergei Rachmaninoff|Piano Concerto No. 3|1909|1TJvJXyWDYw|Sergei Rachmaninoff|Piano Concerto No. 3 (Rachmaninoff)",
-"Richard Strauss|Elektra|1909|jq1qfG0r4LE|Richard Strauss|",
+"Richard Strauss|Elektra|1909|jq1qfG0r4LE|Richard Strauss|Elektra (opera)",
 "Arnold Schoenberg|Klavierstücke|1909-1931|cXU8ByUbrwM|Arnold Schoenberg|",
 "George Butterworth|Songs|1909-1912|l39GDoyqWAw|George Butterworth|",
 "Sergei Rachmaninoff|The Isle of the Dead|1909|dbbtmskCRUY|Sergei Rachmaninoff|Isle of the Dead (Rachmaninoff)",
