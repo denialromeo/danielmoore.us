@@ -43,7 +43,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="political-views" href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
-    <p>All ideologies, religions, and nations exploit the many so a few at the top can lead extravagant lives. Since there are more human beings than ever before, there is more exploitation than ever before.</p>
+    <p>All ideologies, religions, and nations exploit the many so a few at the top can lead extravagant lives. Most people are willfully ignorant about their place in society, which makes them easier to exploit.</p>
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
@@ -514,7 +514,7 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/02.jpg" itemprop="contentUrl" data-size="720x555"><img src="/assets/img/comics/web/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/03.jpg" itemprop="contentUrl" data-size="850x1017"><img src="/assets/img/comics/web/03.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/04.jpg" itemprop="contentUrl" data-size="1500x1150"><img src="/assets/img/comics/web/04.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/05.jpg" itemprop="contentUrl" data-size="924x934"><img src="/assets/img/comics/web/05.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/05.jpg" itemprop="contentUrl" data-size="691x480"><img src="/assets/img/comics/web/05.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/06.jpg" itemprop="contentUrl" data-size="601x659"><img src="/assets/img/comics/web/06.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/07.jpg" itemprop="contentUrl" data-size="1080x1351"><img src="/assets/img/comics/web/07.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/08.jpg" itemprop="contentUrl" data-size="900x654"><img src="/assets/img/comics/web/08.jpg"/></a></figcaption></figure>
