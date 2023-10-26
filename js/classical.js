@@ -347,7 +347,7 @@ const classical = [
 "Giuseppe Verdi|Un ballo in maschera|1859|bjPSlFcuVNE|Giuseppe Verdi|Un ballo in maschera",
 "Richard Wagner|Tristan und Isolde|1859|J-qoaioG2UA|Richard Wagner|Tristan und Isolde",
 "Johannes Brahms|String Sextets nos. 1 &amp; 2|1860-1865|mTz3Z4RrI6Y|Johannes Brahms|",
-"Pyotr Ilyich Tchaikovsky|Songs|1860-1893|Uofv9ozSQgM|Pyotr Ilyich Tchaikovsky|Six Romances, Opus 38 (Tchaikovsky)",
+"Pyotr Ilyich Tchaikovsky|Songs|1860-1893|O5Q2j7srAHs|Pyotr Ilyich Tchaikovsky|Valse-Scherzo (Tchaikovsky)",
 "Johannes Brahms|Piano Quartets nos. 1 &amp; 3|1861-1874|7BifP-9elgE|Johannes Brahms|Piano Quartet No. 1 (Brahms)",
 "Edvard Grieg|Songs|1861-1905|R_5AwR27wj4|Edvard Grieg|",
 "Gabriel Fauré|Mélodies|1861-1921|RRcfSNmm0c8|Gabriel Fauré|Trois mélodies, Op. 7 (Fauré)",
