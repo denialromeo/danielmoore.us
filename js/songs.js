@@ -1465,7 +1465,7 @@ const songs = [
 "Red Hot Chili Peppers|Californication|1999|YlUKcNNmywk|Red Hot Chili Peppers|S2382|Alternative Rock;Rock|",
 "Beyoncé|Drunk In Love|2013|p1JPKLa-Ofc|Beyoncé|S9635|Contemporary R&B;R&B|Drunk in Love",
 "Dead or Alive|You Spin Me Round (Like a Record)|1984|PGNiXGX2nLU|Dead or Alive (band)|S1919|Dance-Pop;Hi-NRG;Synthpop;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;Pop|You Spin Me Round (Like a Record)",
-"Bix Beiderbecke|In a Mist|1927|J2_Ai8dgBko|Bix Beiderbecke|S2649|Dixieland;Jazz|",
+"Bix Beiderbecke|In a Mist|1927|J2_Ai8dgBko|Bix Beiderbecke|S2649|Dixieland;Jazz|In a Mist",
 "LL Cool J|Mama Said Knock You Out|1990|vimZj8HW0Kg|LL Cool J|S2026|Boom Bap;East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Mama Said Knock You Out (song)",
 "Run the Jewels|Close Your Eyes (And Count to Fuck)|2014|PkGwI7nGehA|Run the Jewels|S9562|Hardcore Hip Hop;Hip Hop|Close Your Eyes (And Count to Fuck)",
 "Burning Spear|Marcus Garvey|1975|AHbvg8xhJkk|Burning Spear|S5680|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
