@@ -510,7 +510,7 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/01.jpg" itemprop="contentUrl" data-size="701x922"><img style="border: 1px solid black;" src="/assets/img/comics/web/01.jpg"/></a><figcaption itemprop="caption description"><p><i></i> by </p></figcaption></figure>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/01.jpg" itemprop="contentUrl" data-size="701x922"><img style="border: 1px solid black;" src="/assets/img/comics/web/01.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/02.jpg" itemprop="contentUrl" data-size="720x555"><img src="/assets/img/comics/web/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/03.jpg" itemprop="contentUrl" data-size="850x1017"><img src="/assets/img/comics/web/03.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/04.jpg" itemprop="contentUrl" data-size="1500x1150"><img src="/assets/img/comics/web/04.jpg"/></a></figcaption></figure>
