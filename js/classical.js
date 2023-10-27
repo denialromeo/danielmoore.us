@@ -140,7 +140,7 @@ const classical = [
 "Wolfgang Amadeus Mozart|Serenade in B flat major, “Gran partita”|1783|NecLh4YOT9M|Wolfgang Amadeus Mozart|Serenade No. 10 (Mozart)",
 "Wolfgang Amadeus Mozart|Great Mass in C minor|1783|Ez0kqVShFEs|Wolfgang Amadeus Mozart|Great Mass in C minor, K. 427",
 "Wolfgang Amadeus Mozart|Symphony No. 36, “Linz”|1783|hwxNp-LzDYo|Wolfgang Amadeus Mozart|Symphony No. 36 (Mozart)",
-"Joseph Haydn|Symphony No. 83, “La poule”|1785|6rD32fnEvyA|Joseph Haydn|",
+"Joseph Haydn|Symphony No. 83, “La poule”|1785|6rD32fnEvyA|Joseph Haydn|Symphony No. 83 (Haydn)",
 "Wolfgang Amadeus Mozart|Piano Concerto No. 20|1785|devtF2EoZDs|Wolfgang Amadeus Mozart|Piano Concerto No. 20 (Mozart)",
 "Wolfgang Amadeus Mozart|Piano Concerto No. 21|1785|df-eLzao63I|Wolfgang Amadeus Mozart|Piano Concerto No. 21 (Mozart)",
 "Wolfgang Amadeus Mozart|Piano Concerto No. 22|1785|8hgaxI3JRgg|Wolfgang Amadeus Mozart|Piano Concerto No. 22 (Mozart)",
