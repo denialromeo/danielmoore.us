@@ -72,7 +72,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [AccuCheck Digital Body Weight Scale](https://www.amazon.com/gp/product/B084SFRSBD) (Measure daily to avoid surprises.)
 * [Alera High Performance Task Chair](https://www.amazon.com/gp/product/B01IIGMMW6) (My spine's best friend.)
-* [ARCOS 8" Chef's Knife](https://www.amazon.com/dp/B0044R87OQ) (Kitchen workhorse.)
+* [AmazonBasics 8" Chef's Knife](https://www.amazon.com/dp/B09WW6VGHX) (Kitchen workhorse at an unbeatable price.)
 * [Asus VS228H-P 21.5" 1080p Monitor](https://www.amazon.com/dp/B00MZ36J32) (Ideal bezel, size, and display ports for extended use.)
 * [Bowflex SelectTech Adjustable Dumbbells](https://www.amazon.com/gp/product/B001ARYU58) (Perhaps overly optimistic, but it's good to dream.)
 * [CAP Barbell Flat Weight Bench](https://www.amazon.com/dp/B01AGENTV6) (Essential for chest exercises.)
