@@ -43,7 +43,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="political-views" href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
-    <p>All ideologies, religions, and nations exploit the many so a few at the top can lead extravagant lives. This is an inevitable consequence of natural selection, and any solutions are only temporary.</p>
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
@@ -55,7 +54,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>The early 20th century's most influential people were Vladimir Lenin, Sun Yat-Sen, Wilhelm II, Fritz Haber, Adolf Hitler, Albert Einstein, Woodrow Wilson, and Franklin Roosevelt.</li>
         <li>The 19th century's most influential people included Victoria I, Ci Xi, Napoleon Bonaparte, Abraham Lincoln, Karl Marx, Charles Darwin, Rani Lakshmibai, and Otto von Bismarck.</li>
         <li>The 18th century's most influential people included Maximilien Robespierre, Aurangzeb, George Washington, Thomas Newcomen, and Robert Clive.</li>
-        <li>Others include Gugliermo Marconi, Vladimir Zworykin, and the Wright Brothers.</li>
+        <li>Others include Nikola Tesla, Vladimir Zworykin, and the Wright Brothers.</li>
     </ul>
 </div>
 
@@ -132,7 +131,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Born in Blackness*](https://www.goodreads.com/notes/57777449-born-in-blackness/71655209-daniel-moore) by [Howard French](https://en.wikipedia.org/wiki/Howard_W._French) (African slaves built Western civilization.)
 * [*Early Indians*](https://en.wikipedia.org/wiki/Early_Indians) by [Tony Joseph](https://en.wikipedia.org/wiki/Tony_Joseph) (Genomics-based insights into 65,000 years of India's history.)
 * [*Late Victorian Holocausts*](https://www.goodreads.com/notes/19323009-late-victorian-holocausts/71655209-daniel-moore) by [Mike Davis](https://en.wikipedia.org/wiki/Mike_Davis_(scholar)) (50 million forgotten murders.)
-* [*Modern India (1885-1947)*](https://www.amazon.com/gp/product/9332535744) by [Sumit Sarkar](https://en.wikipedia.org/wiki/Sumit_Sarkar) (Nationalism, religion, and caste in the British Raj.)
+* [*Modern India: 1885-1947*](https://www.amazon.com/gp/product/9332535744) by [Sumit Sarkar](https://en.wikipedia.org/wiki/Sumit_Sarkar) (Nationalism, religion, and caste in the British Raj.)
 * [*Montaillou*](https://www.amazon.com/gp/product/0807616133) by [Emmanuel Ladurie](https://en.wikipedia.org/wiki/Emmanuel_Le_Roy_Ladurie) (Based on [actual interviews](https://en.wikipedia.org/wiki/Fournier_Register) with medieval peasants.)
 * [*Reconstruction*](https://www.goodreads.com/notes/11389556-reconstruction/71655209-daniel-moore) by [Eric Foner](https://en.wikipedia.org/wiki/Eric_Foner) (Ongoing ripples of Lincoln's assassination.)
 * [*Stalin*](https://static1.squarespace.com/static/5ed33bcd368e221ec227cacd/t/5ee39a1731781f54f197c5f7/1591974443348/Domenico+Losurdo+-+Stalin.pdf) by [Domenico Losurdo](https://en.wikipedia.org/wiki/Domenico_Losurdo) (Perhaps the 20th century's most influential person.)
