@@ -8988,7 +8988,7 @@ const songs = [
 "Daniel Johnston|True Love Will Find You in the End|1984|Ma7lyfYzIw8|Daniel Johnston|S15392|Lo-Fi / Slacker Rock;Singer/Songwriter;Alternative Rock;Indie Rock;Rock|1990 (Daniel Johnston album)",
 "The Cure|Primary|1981|0xrZ61cuKLk|The Cure|S12743|Gothic Rock;Post-Punk;Rock|Primary (song)",
 "Parquet Courts|Total Football|2018|sP9l9HBJ1o0|Parquet Courts|S16588|Art Punk;Dance-Punk;Post-Punk;Punk Rock;Rock|",
-"Pantera|Cemetary Gates|1990|RVMvART9kb8|Pantera|S11836|Groove Metal;Thrash Metal;Metal;Rock|Cemetery Gates",
+"Pantera|Cemetery Gates|1990|RVMvART9kb8|Pantera|S11836|Groove Metal;Thrash Metal;Metal;Rock|Cemetery Gates",
 "boygenius|Bite the Hand|2018|hZlR6DjehDc|Boygenius|S16595|Indie Rock;Singer/Songwriter;Alternative Rock;Rock|",
 "Radio Futura|Escuela de calor|1984|LyCQvyrZzW0|Radio Futura|S11995|New Wave;Pop Rock;Pop;Rock|",
 "The Boomtown Rats|Rat Trap|1978|YtPgwAj2M9c|The Boomtown Rats|S5598|New Wave;Pop Rock;Pub Rock;Pop;Rock|",
