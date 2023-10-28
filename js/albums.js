@@ -2661,7 +2661,7 @@ const albums = [
 "The 1975|I Like It When You Sleep, for You Are So Beautiful Yet So Unaware of It|2016|PLVqbInNnwpZ74Kuhfe-6wLQsnvmxcIQSR|A5816|I Like It When You Sleep, for You Are So Beautiful yet So Unaware of It|The 1975|Pop Rock;Synthpop;Electronic;Pop;Rock",
 "Joe Henderson|Lush Life: The Music of Billy Strayhorn|1992|PLaxaCYAAFSO9nhikEbMStAoyVU7kqKTF_|A2156|Lush Life: The Music of Billy Strayhorn|Joe Henderson|Jazz",
 "Bill Fay|Bill Fay|1970|PLb5AiTUiUgIBCULjPQNbtjHGUfUMTg-0C|A4493|Bill Fay (album)|Bill Fay|Baroque Pop;Singer/Songwriter;Pop",
-"Super Furry Animals|Guerrilla|1999|PLlKFMiHicLwXc5OCsekqKsmYvjJZgpj9g|A3751|Guerrilla (album)|Super Furry Animals|Neo-Psychedelia;Psychedelic Rock;Rock",
+"Super Furry Animals|Guerrilla|1999|PLtD3vGhP0s6ePVyYNPdfmO3c94-CC11da|A3751|Guerrilla (album)|Super Furry Animals|Neo-Psychedelia;Psychedelic Rock;Rock",
 "Gossip|Standing in the Way of Control|2006|PL24376DEA49C03081|A3155|Standing in the Way of Control|Gossip (band)|Dance-Punk;Post-Punk;Rock",
 "Uncle Tupelo|No Depression|1990|PLX66jEixZe1ydC4L8CDBw2Rb3Aq9t5cp9|A801|No Depression (album)|Uncle Tupelo|Alt-Country;Americana;Country Rock;Country;Rock",
 "St Germain|Tourist|2000|PLW0M5yptNMmrZcRoD2_m_D4zciEWXJCCw|A3034|Tourist (St Germain album)|St Germain (musician)|Acid Jazz;Downtempo;Nu Jazz;Electronic;Jazz",
