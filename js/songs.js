@@ -5655,7 +5655,7 @@ const songs = [
 "The National|Slow Show|2007|1U9QmDO-EPs|The National (band)|S7669|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|",
 "Bobby Vee|Take Good Care of My Baby|1961|nkWgQgaHMgg|Bobby Vee|S5578|Brill Building;Pop|Take Good Care of My Baby",
 "X-Ray Spex|The Day the World Turned Day-Glo|1978|ZKaxfc03Fqk|X-Ray Spex|S606|Punk Rock;Rock|",
-"Thelonious Monk|Blue Monk|1954|_40V2lcxM7k|Thelonious Monk|S13254|Hard Bop;Bebop;Jazz|",
+"Thelonious Monk|Blue Monk|1954|_40V2lcxM7k|Thelonious Monk|S13254|Hard Bop;Bebop;Jazz|https://en.wikipedia.org/wiki/List_of_compositions_by_Thelonious_Monk#Blue_Monk",
 "Tommy Johnson|Big Road Blues|1928|j5oVMdQW_x0|Tommy Johnson (musician)|S9377|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|",
 "Mary Lou Williams|Night Life|1930|6QBBS8236rM|Mary Lou Williams|S11565|Stride;American Folk Music;Folk;Jazz;Ragtime;Regional Music;Traditional Folk Music|",
 "Portishead|Roads|1994|Vg1jyL3cr60|Portishead (band)|S7993|Trip Hop;Downtempo;Electronic|",
