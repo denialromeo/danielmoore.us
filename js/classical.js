@@ -751,7 +751,7 @@ const classical = [
 "Igor Stravinsky|Symphony of Psalms|1930|DqWZGUO_eoc|Igor Stravinsky|Symphony of Psalms",
 "Maurice Ravel|Piano Concerto for the Left Hand|1930|gjiSSWubIuU|Maurice Ravel|Piano Concerto in G major (Ravel)",
 "Kaikhosru Shapurji Sorabji|Opus clavicembalisticum|1930|2_U6orbD_4g|Kaikhosru Shapurji Sorabji|Opus clavicembalisticum",
-"Ralph Vaughan Williams|Job|1930|GlGjFynWFUw|Ralph Vaughan Williams|",
+"Ralph Vaughan Williams|Job|1930|GlGjFynWFUw|Ralph Vaughan Williams|Job: A Masque for Dancing",
 "William Walton|Belshazzar’s Feast|1931-1957|dLIJWE1RoEk|William Walton|",
 "Igor Stravinsky|Violin Concerto|1931|Wn6K53W_Nu0|Igor Stravinsky|Violin Concerto (Stravinsky)",
 "Maurice Ravel|Piano Concerto in G|1931|cJOW5mlhH_Y|Maurice Ravel|Piano Concerto in G major (Ravel)",
