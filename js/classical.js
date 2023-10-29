@@ -961,7 +961,7 @@ const classical = [
 "Michael Tippett|String Quartet No. 4|1978|-7AV0WJdfdg|Michael Tippett|",
 "John Cage|Roaratorio|1979|bdHe4c10smY|John Cage|Roaratorio",
 "George Benjamin|Ringed by the Flat Horizon|1980|1x3a5aei12Q|George Benjamin (composer)|",
-"Sofia Gubaidulina|Offertorium|1980|xvHeTWOfL1c|Sofia Gubaidulina|",
+"Sofia Gubaidulina|Offertorium|1980|xvHeTWOfL1c|Sofia Gubaidulina|Offertorium",
 "Brian Ferneyhough|Funérailles|1980|mzTmjDmyx4k|Brian Ferneyhough|",
 "Tristan Murail|Gondwana|1980|q6WXzOIsBuQ|Tristan Murail|",
 "Jonathan Harvey|Mortuos Plango, Vivos Voco|1980|0T-H-fVlHE0|Jonathan Harvey|Mortuos Plango, Vivos Voco",
