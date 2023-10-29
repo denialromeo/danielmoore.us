@@ -1598,7 +1598,7 @@ const albums = [
 "Miranda Lambert|Crazy Ex-Girlfriend|2007|PL86DD1D5986E4EE63|A4282|Crazy Ex-Girlfriend (album)|Miranda Lambert|Contemporary Country;Country",
 "No Doubt|Tragic Kingdom|1995|PLhfgKEtF9r4_w9WdnvDp_odjuYuVCAz-W|A3566|Tragic Kingdom|No Doubt|Alternative Rock;Pop Rock;Third Wave Ska;Pop;Rock;Ska",
 "Thundercat|Drunk|2017|PLhWWVi-OXMCCkvfHr3_VGqQ0STL0mKtpB|A6005|Drunk (Thundercat album)|Thundercat (musician)|Funktronica;Neo-Soul;Psychedelic Soul;Dance;Electronic;Electronic Dance Music;R&B;Soul",
-"Lana Del Rey|Ultraviolence|2014|PLkVpz3DcYa26K5VV8Rm1r-Bhl9R0cLxBP|A5411|Ultraviolence (album)|Lana Del Rey|Art Pop;Dream Pop;Alternative Rock;Pop;Rock",
+"Lana Del Rey|Ultraviolence|2014|PL7V-LJGDr4W_ZOXqhvIXf2Osuc6TuWyFv|A5411|Ultraviolence (album)|Lana Del Rey|Art Pop;Dream Pop;Alternative Rock;Pop;Rock",
 "Anthony Braxton|For Alto|1971|PL20iOj9g23x1EpEm7DZxG9oTP5w-Mlrzn|A1980|For Alto|Anthony Braxton|Free Jazz;Avant-Garde Jazz;Jazz",
 "Deutsch Amerikanische Freundschaft|Alles ist gutt|1981|PLUMsH7a2oRygQvqNjAVjBnRIvKmeK9SU2|A540|Alles Ist Gut|Deutsch Amerikanische Freundschaft|EBM;Neue Deutsche Welle;Synth Punk;Dance;Electronic;Electronic Dance Music;Industrial Music;Punk Rock;Rock",
 "The Meters|Look-Ka Py Py|1970|PLfw-WxpVsmIbFGrxQfbM4FESFEn50MYhC|A2339|Look-Ka Py Py|The Meters|Funk;R&B",
