@@ -74,7 +74,7 @@ const classical = [
 "George Frideric Handel|Water Music|1717|Kuw8YjSbKd4|George Frideric Handel|",
 "Marin Marais|Pièces de viole, quatrième livre|1717|1pTLTGIwZ2w|Marin Marais|",
 "Johann Sebastian Bach|Violin Concertos|1717-1723|_ioc6sdgugo|Johann Sebastian Bach|",
-"Johann Sebastian Bach|Concerto for Two Violins|1717-1723|ILKJcsET-NM|Johann Sebastian Bach|Concerto for Two Violins (Bach)",
+"Johann Sebastian Bach|Concerto for Two Violins|1730|ILKJcsET-NM|Johann Sebastian Bach|Concerto for Two Violins (Bach)",
 "Johann Sebastian Bach|Orchestral Suites|1717-1742|eNh3ppZVrSI|Johann Sebastian Bach|Orchestral suites (Bach)",
 "Johann Sebastian Bach|Six Suites for Solo Cello|1717-1723|D83cMncj_Ig|Johann Sebastian Bach|Cello Suites (Bach)",
 "Johann Sebastian Bach|Sonatas &amp; Partitas for Solo Violin|1720|wqaFYeZ6D3o|Johann Sebastian Bach|Sonatas and Partitas for Solo Violin (Bach)",
