@@ -281,7 +281,7 @@ const classical = [
 "Giacomo Meyerbeer|Les Huguenots|1836|sK0xbDR3ckU|Giacomo Meyerbeer|Les Huguenots",
 "Felix Mendelssohn|String Quartets, Op. 44|1837-1838|YYnZnPlOywk|Felix Mendelssohn|String Quartet No. 3 (Mendelssohn)",
 "Robert Schumann|Davidsbündlertänze|1837|xXwMvwlZ2j8|Robert Schumann|Davidsbündlertänze",
-"Hector Berlioz|Grande messe des morts|1837|HofoFYxqIgU|Hector Berlioz|",
+"Hector Berlioz|Grande messe des morts|1837|HofoFYxqIgU|Hector Berlioz|Requiem (Berlioz)",
 "Franz Liszt|Années de pèlerinage|1837-1877|LuiwjTiGHdE|Franz Liszt|Années de pèlerinage",
 "Robert Schumann|Fantasy in C major|1838|XZ7hE4lQAYs|Robert Schumann|Fantasie in C (Schumann)",
 "Robert Schumann|Kinderszenen|1838|yibf6QNjgGU|Robert Schumann|Kinderszenen",
