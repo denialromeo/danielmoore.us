@@ -927,7 +927,7 @@ const classical = [
 "Giacinto Scelsi|String Quartet No. 4|1964|QSHSBwUqP-Y|Giacinto Scelsi|",
 "Benjamin Britten|Curlew River|1964|UElSN7HTSeM|Benjamin Britten|Curlew River",
 "Peter Maxwell Davies|Second Fantasia on John Taverner’s In Nomine|1964|0sg82OAgB2g|Peter Maxwell Davies|",
-"Henri Dutilleux|Métaboles|1964|u2vgcxvb1K0|Henri Dutilleux|",
+"Henri Dutilleux|Métaboles|1964|u2vgcxvb1K0|Henri Dutilleux|Métaboles",
 "Dmitri Shostakovich|String Quartet No. 10|1964|syJy_0KNAOQ|Dmitri Shostakovich|String Quartet No. 8 (Shostakovich)",
 "Leonard Bernstein|Chichester Psalms|1965|7Yhnml4DW9g|Leonard Bernstein|Chichester Psalms",
 "Rodion Shchedrin|Carmen Suite|1967|QysD8zCfGTs|Rodion Shchedrin|Carmen Suite (ballet)",
