@@ -54,7 +54,7 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li>The early 20th century's most influential people were Vladimir Lenin, Sun Yat-Sen, Wilhelm II, Fritz Haber, Adolf Hitler, Albert Einstein, Woodrow Wilson, and Franklin Roosevelt.</li>
         <li>The 19th century's most influential people included Victoria I, Ci Xi, Napoleon Bonaparte, Abraham Lincoln, Karl Marx, Charles Darwin, Cecil Rhodes, and Otto von Bismarck.</li>
-        <li>The 18th century's most influential people included Maximilien Robespierre, Aurangzeb, George Washington, Thomas Newcomen, Mary Wollstonecraft, and Robert Clive.</li>
+        <li>The 18th century's most influential people included Maximilien Robespierre, Aurangzeb, George Washington, Thomas Newcomen, and Robert Clive.</li>
         <li>Others include Nikola Tesla, Vladimir Zworykin, and the Wright Brothers.</li>
     </ul>
 </div>
@@ -230,7 +230,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Green Knight*](https://www.amazon.com/dp/B09CP38JQ5) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (It really is all a game.)
 * [*Jiro Dreams of Sushi*](https://www.amazon.com/gp/video/detail/B00BR1FD26) by [Ono Jiro](https://en.wikipedia.org/wiki/Jiro_Ono_(chef)) (There is bliss in running a business well.)
 * [*Kaze Tachinu*](https://play.max.com/movie/f769960a-91db-4e24-8ecc-de9bd41b8102) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
-* [*The Little Matchgirl*](https://www.disneyplus.com/movies/the-little-matchgirl/wmSKUWJPmahA) by [Roger Allers](https://en.wikipedia.org/wiki/Roger_Allers) (Poverty may be worse than death.)
+* [*The Little Matchgirl*](https://www.disneyplus.com/movies/the-little-matchgirl/wmSKUWJPmahA) by [Roger Allers](https://en.wikipedia.org/wiki/Roger_Allers) (Life is a banquet, and most poor suckers are starving.)
 * [*The Menu*](https://play.max.com/movie/9bcb57c8-b5c6-4a26-8305-fbb49e2258b9) by [Will Tracy](https://www.creativescreenwriting.com/seth-reiss-and-will-tracy-take-a-look-at-the-menu/) (Eating is not the same as cooking.)
 * [*Mononoke Hime*](https://play.max.com/movie/e31c2dc2-cb8b-416e-9eda-769be3bb3a6b) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (Everyone's the hero of their own story.)
 * [*Nightcrawler*](https://play.max.com/movie/130a3280-93bf-4907-a6c9-de7daa8a8de7) by [Dan Gilroy](https://en.wikipedia.org/wiki/Dan_Gilroy) (Markets don't reward what's best for society.)
@@ -238,6 +238,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Office*](https://www.peacocktv.com/watch/asset/tv/the-office-superfan-episodes/8229469043710582112) by [Greg Daniels](https://en.wikipedia.org/wiki/Greg_Daniels) (Pair with "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" to forever alter your life goals.)
 * [*Oldboy*](https://www.amazon.com/gp/video/detail/0MGWDXCL13ZZ9KTAE6STVRJT52) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (We are but playthings for the gods.)
 * [*The Personal History of David Copperfield*](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10baee16-44cc-e332-e3c6-0796dd7162e9) by [Armando Ianucci](https://en.wikipedia.org/wiki/Armando_Ianucci) (My favorite comedy.)
+* [*Piper*](https://www.disneyplus.com/movies/piper/3j2llXeKBRCu) by [Alan Barillaro](https://en.wikipedia.org/wiki/Alan_Barillaro) (Keep your eyes open to the patterns in the world, and you'll eat well.)
 * [*Schindler's List*](https://www.amazon.com/gp/video/detail/B00BEN0V8S) by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) (Still the best film ever made about racism.)
 * [*Soylent Green*](https://play.max.com/movie/039ae44f-87ca-4da3-b8c3-d2323e5c2110) by [Richard Fleischer](https://en.wikipedia.org/wiki/Richard_Fleischer) (Filmed in 1972, set in 2022 &ndash; much of it came true.)
 * [*Squid Game*](https://www.netflix.com/title/81040344) by [Hwang Dong-Hyuk](https://en.wikipedia.org/wiki/Hwang_Dong-hyuk) (Thinly veiled metaphor for corporate life.)
