@@ -876,7 +876,7 @@ const classical = [
 "Richard Strauss|Four Last Songs|1948|vm8A1q7NDTY|Richard Strauss|Four Last Songs",
 "Leonard Bernstein|Symphony No. 2, “The Age of Anxiety”|1949-1965|Q-aU2Se1RHw|Leonard Bernstein|Symphony No. 2 (Bernstein)",
 "Gerald Finzi|Clarinet Concerto|1949|GMukLZGaE0I|Gerald Finzi|",
-"Gian-Carlo Menotti|The Consul|1949|ekrx98zKnk0|Gian Carlo Menotti|The Consul",
+"Gian Carlo Menotti|The Consul|1949|ekrx98zKnk0|Gian Carlo Menotti|The Consul",
 "Sergei Prokofiev|Cello Sonata|1949|lWNiR1BuenY|Sergei Prokofiev|Cello Sonata (Prokofiev)",
 "Astor Piazzolla|Tangos|1950-1952|57c70FU9-z0|Astor Piazzolla|",
 "Malcolm Arnold|English Dances|1950-1951|YjWhe4njA5A|Malcolm Arnold|English Dances (Arnold)",
