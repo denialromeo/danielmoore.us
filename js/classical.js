@@ -728,7 +728,7 @@ const classical = [
 "Leos Janácek|Sinfonietta|1926|9aFTv50AoEQ|Leoš Janáček|Sinfonietta (Janáček)",
 "Maurice Ravel|Chansons madécasses|1926|bb1Swd9xrl0|Maurice Ravel|Chansons madécasses",
 "Jean Sibelius|Tapiola|1926|Yy0_zqEOp4A|Jean Sibelius|",
-"Maurice Ravel|Violin Sonata|1927|OFbffshku0k|Maurice Ravel|",
+"Maurice Ravel|Violin Sonata|1927|OFbffshku0k|Maurice Ravel|Violin Sonata No. 2 (Ravel)",
 "Gustav Holst|Egdon Heath|1927|2kDF3AG3Gp4|Gustav Holst|Egdon Heath (Holst)",
 "Leos Janácek|Glagolitic Mass|1927|wVRLoUknC9o|Leoš Janáček|Glagolitic Mass",
 "Joseph Jongen|Symphonie concertante|1927|8riHBnLbAkg|Joseph Jongen|",
