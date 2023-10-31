@@ -55,7 +55,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>The early 20th century's most influential people were Vladimir Lenin, Sun Yat-Sen, Wilhelm II, Fritz Haber, Adolf Hitler, Albert Einstein, Woodrow Wilson, and Franklin Roosevelt.</li>
         <li>The 19th century's most influential people included Victoria I, Ci Xi, Napoleon Bonaparte, Abraham Lincoln, Karl Marx, Charles Darwin, Cecil Rhodes, and Otto von Bismarck.</li>
         <li>The 18th century's most influential people included Maximilien Robespierre, Aurangzeb, George Washington, Thomas Newcomen, and Robert Clive.</li>
-        <li>Others include Toussaint Louverture, Nikola Tesla, and the Wright Brothers.</li>
+        <li>Others include Toussaint Louverture, Nikola Tesla, Thomas Edison, Philo Farnsworth, and the Wright Brothers.</li>
     </ul>
 </div>
 
@@ -134,7 +134,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Modern India: 1885-1947*](https://www.amazon.com/gp/product/9332535744) by [Sumit Sarkar](https://en.wikipedia.org/wiki/Sumit_Sarkar) (Nationalism, religion, and caste in the British Raj.)
 * [*Montaillou*](https://www.amazon.com/gp/product/0807616133) by [Emmanuel Ladurie](https://en.wikipedia.org/wiki/Emmanuel_Le_Roy_Ladurie) (Based on [actual interviews](https://en.wikipedia.org/wiki/Fournier_Register) with medieval peasants.)
 * [*Reconstruction*](https://www.goodreads.com/notes/11389556-reconstruction/71655209-daniel-moore) by [Eric Foner](https://en.wikipedia.org/wiki/Eric_Foner) (Ongoing ripples of Lincoln's assassination.)
-* [*The Secret History of the First World War*](https://www.goodreads.com/notes/21227216-hidden-history/71655209-daniel-moore) by [Gerry Dooherty](https://firstworldwarhiddenhistory.wordpress.com/about-the-authors/gerry-docherty/) (Britain started it.)
+* [*The Secret History of the First World War*](https://www.goodreads.com/notes/21227216-hidden-history/71655209-daniel-moore) by [Gerry Dooherty](https://firstworldwarhiddenhistory.wordpress.com/about-the-authors/gerry-docherty/) (Empire devours itself.)
 * [*The Shadow of the Great Game*](https://www.goodreads.com/notes/35993782-the-shadow-of-the-great-game/71655209-daniel-moore) by [Narendra Sarila](https://books.google.com/books/about/The_Untold_Story_Of_India_Partition_The.html?id=4_2CpwAACAAJ&source=kp_author_description#about_author) (Pakistan's Cold War origins.)
 * [*Stalin*](https://static1.squarespace.com/static/5ed33bcd368e221ec227cacd/t/5ee39a1731781f54f197c5f7/1591974443348/Domenico+Losurdo+-+Stalin.pdf) by [Domenico Losurdo](https://en.wikipedia.org/wiki/Domenico_Losurdo) (Perhaps the 20th century's most influential person.)
 * [*Vladimir Putin and Russian Statecraft*](https://www.goodreads.com/notes/19441321-vladimir-putin-and-russian-statecraft/71655209-daniel-moore) by [Allen Lynch](https://politics.virginia.edu/people/profile/al4u) (From failed state to world power.)
