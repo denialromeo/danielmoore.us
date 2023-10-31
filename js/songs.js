@@ -5463,7 +5463,7 @@ const songs = [
 "Coleman Hawkins|The Man I Love|1944|i7m8DRtx_Xc|Coleman Hawkins|S13430|Bebop;Jazz|",
 "REO Speedwagon|Keep On Loving You|1980|wJzNZ1c5C9c|REO Speedwagon|S3754|AOR;Soft Rock;Pop;Pop Rock;Rock|",
 "Alain Bashung|Osez Josephine|1991|4bZWH1th3_w|Alain Bashung|S5137|Chanson;French Pop;Pop Rock;Pop;Regional Music;Rock|",
-"Dinosaur L|#5 (Go Bang!)|1981|kyZMuldK61s|Arthur Russell (musician)|S10590|Disco;Dance|Go Bang",
+"Dinosaur L|#5 (Go Bang!)|1981|kyZMuldK61s|Arthur Russell (musician)|S10590|Disco;Dance|",
 "The Human League|Human|1986|s1ysoohV_zA|The Human League|S381|Sophisti-Pop;Pop|Human (The Human League song)",
 "Van Morrison|Tupelo Honey|1971|Eq3YLhtuzTQ|Van Morrison|S8921|Blue Eyed Soul;Soul;Pop;R&B|Tupelo Honey (song)",
 "Bush|Everything Zen|1994|Ps317u9Rhl0|Bush (British band)|S10333|Post-Grunge;Alternative Rock;Rock|",
