@@ -6175,7 +6175,7 @@ const songs = [
 "Bicep|Glue|2017|A7ZxRs45tTg|https://www.discogs.com/artist/1540289-Bicep|S16337|Breakbeat;UK Garage;Dance;Electronic;Electronic Dance Music|",
 "Louis Armstrong|Tight Like This|1929|vU1ALkLumqs|Louis Armstrong|S13228|Dixieland;Jazz|",
 "Blur|Music Is My Radar|2000|49FeYz2JpHo|Blur (band)|S2186|Alternative Rock;Art Rock;Rock|Music Is My Radar",
-"Charles Bradley|Changes|2016|xi49yirJiEA|Charles Bradley (singer)|S16059|Deep Soul;Psychedelic Soul;R&B;Soul;Southern Soul|",
+"Charles Bradley|Changes|2016|xi49yirJiEA|Charles Bradley (singer)|S16059|Deep Soul;Psychedelic Soul;R&B;Soul;Southern Soul|Changes (Black Sabbath song)",
 "David Bowie|Kooks|1971|jCaMwqtwJTc|David Bowie|S10522|Folk Rock;Glam Rock;Pop Rock;Pop;Rock|Kooks (song)",
 "The Shirelles|Mama Said|1961|L842mz-tNBQ|The Shirelles|S4392|Girl Group;Pop|Mama Said (The Shirelles song)",
 "Carly Simon|Nobody Does It Better|1977|SaV-6qerkqI|Carly Simon|S4435|Adult Contemporary;Film Soundtrack;Soft Rock;Descriptor;Pop;Pop Rock;Rock;Soundtracks|Nobody Does It Better",
