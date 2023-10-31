@@ -144,8 +144,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Stalin*](https://static1.squarespace.com/static/5ed33bcd368e221ec227cacd/t/5ee39a1731781f54f197c5f7/1591974443348/Domenico+Losurdo+-+Stalin.pdf) by [Domenico Losurdo](https://en.wikipedia.org/wiki/Domenico_Losurdo) (Perhaps the 20th century's most influential person.)
 * [*Vladimir Putin and Russian Statecraft*](https://www.goodreads.com/notes/19441321-vladimir-putin-and-russian-statecraft/71655209-daniel-moore) by [Allen Lynch](https://politics.virginia.edu/people/profile/al4u) (From failed state to world power.)
  
-(For more, check out the World History Association's [list](https://www.thewha.org/wha-awards/wha-bentley-book-prize/#toc_1) of Bentley Book Prize winners.)
-
 {:#historical-documents}
 **Historical Documents**
 
