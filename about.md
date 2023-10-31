@@ -43,11 +43,16 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="political-views" href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
+{%comment%}
+    <p>I love our modern age of automation. Same-day shipping, grocery delivery, self-driving cars, streaming, online dating, artificial intelligence, remote work. We're cutting out all the middlemen.</p>
+    <p>Away with nationality and religion and race and ethnicity and a thousand other relics! Begone!</p>
+{%endcomment%}
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Mark Zuckerberg, Donald Trump, Barack Obama, Joe Biden, Benjamin Netanyahu, and Satya Nadella.</li>
         <li>Others in the late 20th include Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Ho&nbsp;Chi Minh, Ruhollah Khomeini, Qian&nbsp;Xuesen, Julius Rosenberg, and Norman Borlaug.</li>
+        <li>Others in the 21st include Bill Gates, Li Yanhong, Jeff Bezos, Larry Page, and Ben Bernanke.</li>
     </ul>
     <p>Looking back a bit further (still in progress) &ndash;</p>
     <ul>
