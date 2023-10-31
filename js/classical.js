@@ -948,7 +948,7 @@ const classical = [
 "Einojuhani Rautavaara|Cantus arcticus|1972|8X2FU1KU4_U|Einojuhani Rautavaara|",
 "Benjamin Britten|Death in Venice|1973|bIm4jDmnKMQ|Benjamin Britten|Death in Venice",
 "Dmitri Shostakovich|String Quartet No. 15|1974|QccUkIhrrO8|Dmitri Shostakovich|String Quartet No. 8 (Shostakovich)",
-"Pierre Boulez|Rituel: in memorium Bruno Maderna|1975|3WuwS94WDRQ|Pierre Boulez|",
+"Pierre Boulez|Rituel in memorium Bruno Maderna|1975|3WuwS94WDRQ|Pierre Boulez|Rituel in memoriam Bruno Maderna",
 "Steve Reich|Music for 18 Musicians|1976|ZXJWO2FQ16c|Steve Reich|Music for 18 Musicians",
 "Philip Glass|Einstein on the Beach|1976|TiCH2WJ_lvY|Philip Glass|Einstein on the Beach",
 "Henryk Górecki|Symphony No. 3|1976|87DJF1_vwQA|Henryk Górecki|Symphony No. 3 (Górecki)",
