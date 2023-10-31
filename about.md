@@ -75,7 +75,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [Alera High Performance Task Chair](https://www.amazon.com/gp/product/B01IIGMMW6) (My spine's best friend.)
 * [AmazonBasics 8" Chef's Knife](https://www.amazon.com/dp/B09WW6VGHX) (Kitchen workhorse at an unbeatable price.)
 * [Asus VS228H-P 21.5" 1080p Monitor](https://www.amazon.com/dp/B00MZ36J32) (Ideal bezel, size, and display ports for extended use.)
-* [Bowflex SelectTech Adjustable Dumbbells](https://www.amazon.com/gp/product/B001ARYU58) (Perhaps overly optimistic, but it's good to dream.)
+* [Bowflex SelectTech Adjustable Dumbbells](https://www.amazon.com/gp/product/B001ARYU58) (The first and last weight set you'll ever need.)
 * [CAP Barbell Flat Weight Bench](https://www.amazon.com/dp/B01AGENTV6) (Essential for chest exercises.)
 * [iBUYPOWER Pre-Built Gaming PC](https://www.ibuypower.com/gaming-pcs) (For work and play.)
 * [Oilway Blue-Light Blocking Glasses](https://www.amazon.com/dp/B0B2R4NR2F) (Reduces eye strain from extended screen time.)
