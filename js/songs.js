@@ -9544,7 +9544,7 @@ const songs = [
 "Arno|Les yeux de ma mère|1995|fFYMhDytjYM|Arno (singer)|S10028|Chanson;Experimental Rock;Regional Music;Rock|La Bande à Renaud",
 "Benny Goodman|After You've Gone|1935|8qtJVThNQ_M|Benny Goodman|S10144|Standards;Swing;Jazz;Pop;Traditional Pop|",
 "Stevie Wonder|Joy Inside My Tears|1976|Alk3iF9Nto4|Stevie Wonder|S13968|Smooth Soul;R&B;Soul|Songs in the Key of Life",
-"The Blow Monkeys|Diggin' Your Scene|1986|no5XeOJHxK8|The Blow Monkeys|S13691|Blue Eyed Soul;Sophisti-Pop;Pop|",
+"The Blow Monkeys|Digging Your Scene|1986|no5XeOJHxK8|The Blow Monkeys|S13691|Blue Eyed Soul;Sophisti-Pop;Pop|Digging Your Scene",
 "Bobby Womack|Woman’s Gotta Have It|1972|LxnAUobJD1Y|Bobby Womack|S4161|Southern Soul;R&B;Soul|Woman's Gotta Have It (song)",
 "Michael Jackson|You Rock My World|2001|1-7ABIM2qjU|Michael Jackson|S13570|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|You Rock My World",
 "Charles Aznavour|Emmenez-moi|1968|lsSybl5WplE|Charles Aznavour|S13421|Chanson;Regional Music|",
