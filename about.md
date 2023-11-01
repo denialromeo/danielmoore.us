@@ -47,7 +47,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>I love our modern age of automation. Same-day shipping, grocery delivery, self-driving cars, streaming, online dating, artificial intelligence, remote work. We're cutting out all the middlemen.</p>
     <p>Away with nationality and religion and race and ethnicity and a thousand other relics! Begone!</p>
 {%endcomment%}
-    <p>While reading the below, try looking up any unfamiliar names.</p>
+    <p>Life has radically changed in the past ten years (social media, smartphones, global Internet use). Artificial intelligence and robotics may have an even larger effect over the next ten. Exciting!</p>
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
