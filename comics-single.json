@@ -1,58 +1,34 @@
 {
 	"pages": [
 		{
-			"author": "",
-			"title": "",
+			"author": "Robert Kirkman",
+			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/web/01.jpg"
+			"link": "assets/img/comics/invincible/01.jpg"
 		},
 		{
 			"author": "Robert Kirkman",
 			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/web/02.jpg"
+			"link": "assets/img/comics/invincible/02.jpg"
 		},
 		{
 			"author": "Robert Kirkman",
 			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/web/03.jpg"
+			"link": "assets/img/comics/invincible/03.jpg"
 		},
 		{
 			"author": "Robert Kirkman",
 			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/web/04.jpg"
+			"link": "assets/img/comics/invincible/04.jpg"
 		},
 		{
 			"author": "Robert Kirkman",
 			"title": "Invincible",
 			"amazon": "",
-			"link": "assets/img/comics/web/05.jpg"
-		},
-		{
-			"author": "Robert Kirkman",
-			"title": "Invincible",
-			"amazon": "",
-			"link": "assets/img/comics/web/06.jpg"
-		},
-		{
-			"author": "Robert Kirkman",
-			"title": "Invincible",
-			"amazon": "",
-			"link": "assets/img/comics/web/07.jpg"
-		},
-		{
-			"author": "Robert Kirkman",
-			"title": "Invincible",
-			"amazon": "",
-			"link": "assets/img/comics/web/08.jpg"
-		},
-		{
-			"author": "Robert Kirkman",
-			"title": "Invincible",
-			"amazon": "",
-			"link": "assets/img/comics/web/09.jpg"
+			"link": "assets/img/comics/invincible/05.jpg"
 		}
 	]
 }
