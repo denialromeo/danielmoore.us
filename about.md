@@ -43,11 +43,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="political-views" href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
-{%comment%}
-    <p>I love our modern age of automation. Same-day shipping, grocery delivery, self-driving cars, streaming, online dating, artificial intelligence, remote work. We're cutting out all the middlemen.</p>
-    <p>Away with nationality and religion and race and ethnicity and a thousand other relics! Begone!</p>
-{%endcomment%}
-    <p>Life has radically changed in the past ten years (social media, smartphones, global Internet use). Artificial intelligence and robotics may have an even bigger impact over the next ten.</p>
+    <p>Life has radically changed over the past decade (social media, smartphones, global Internet use). Over the next decade, artificial intelligence and robotics may have an even bigger impact.</p>
     <p>Other trends of interest include a global resurgence of religion and nationalism, a world population that has more than doubled in the past 50 years, and record-breaking temperatures every summer.</p>
     <p>Historical statements I believe &ndash;</p>
     <ul>
