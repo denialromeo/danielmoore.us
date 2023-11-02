@@ -47,7 +47,8 @@ I hope you have a good time here. Thanks for dropping by.
     <p>I love our modern age of automation. Same-day shipping, grocery delivery, self-driving cars, streaming, online dating, artificial intelligence, remote work. We're cutting out all the middlemen.</p>
     <p>Away with nationality and religion and race and ethnicity and a thousand other relics! Begone!</p>
 {%endcomment%}
-    <p>Life has radically changed in the past ten years (social media, smartphones, global Internet use). Artificial intelligence and robotics may have an even larger effect over the next ten.</p>
+    <p>Life has radically changed in the past ten years (social media, smartphones, global Internet use). Artificial intelligence and robotics may have an even bigger impact over the next ten.</p>
+    <p>Other trends of interest include a global resurgence of religion and nationalism, a world population that has more than doubled in the past 50 years, and record-breaking temperatures every summer.</p>
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
@@ -119,8 +120,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Bullshit Jobs*](https://www.goodreads.com/notes/38217638-bullshit-jobs/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (Are most white-collar jobs really necessary?)
 * [*The Case Against Education*](https://www.goodreads.com/notes/52147324-the-case-against-education/71655209-daniel-moore) by [Bryan Caplan](http://www.bcaplan.com/) (We waste a third of our lives social signaling.)
-* [*Debt: The First 5,000 Years*](https://www.goodreads.com/notes/23814811-debt---updated-and-expanded/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (Modern finance is rooted in medieval Europe.)
-* [*The Great Convergence*](https://www.goodreads.com/notes/33287012-the-great-convergence/71655209-daniel-moore) by [Richard Baldwin](https://en.wikipedia.org/wiki/Richard_Baldwin_(economist)) (Wealth's journey from East to West and back.)
 * [*Open Borders*](https://www.amazon.com/dp/1250316960) by [Bryan Caplan](https://en.wikipedia.org/wiki/Bryan_Caplan) (Immigration restrictions make no economic sense.)
 * [*River Out of Eden*](https://www.goodreads.com/notes/19196310-river-out-of-eden/71655209-daniel-moore) by [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) (Suffering and scarcity are built into the system.)
 * [*Screen Schooled*](https://www.goodreads.com/notes/36357274-screen-schooled/71655209-daniel-moore) by [Joe Clement](http://screenschooled.com/aboutauthors/) (Social media has mentally crippled multiple generations.)
@@ -134,7 +133,9 @@ I hope you have a good time here. Thanks for dropping by.
 * [*100 Decisive Battles*](https://www.amazon.com/gp/product/0195143663) by [Paul Davis](https://en.wikipedia.org/wiki/Paul_K._Davis_(historian)) (At heart, we're chimpanzees with *very* sharp sticks.)
 * [*The Book of Islamic Dynasties*](https://www.goodreads.com/notes/25056329-the-book-of-islamic-dynasties/71655209-daniel-moore) by [Luqman Nagy](https://www.tahapublishers.com/author/luqman-nagy) (Eurasia's past, present, and future.)
 * [*Born in Blackness*](https://www.goodreads.com/notes/57777449-born-in-blackness/71655209-daniel-moore) by [Howard French](https://en.wikipedia.org/wiki/Howard_W._French) (African slaves built Western civilization.)
+* [*Debt: The First 5,000 Years*](https://www.goodreads.com/notes/23814811-debt---updated-and-expanded/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (Modern finance is rooted in medieval Europe.)
 * [*Early Indians*](https://en.wikipedia.org/wiki/Early_Indians) by [Tony Joseph](https://en.wikipedia.org/wiki/Tony_Joseph) (Genomics-based insights into 65,000 years of India's history.)
+* [*The Great Convergence*](https://www.goodreads.com/notes/33287012-the-great-convergence/71655209-daniel-moore) by [Richard Baldwin](https://en.wikipedia.org/wiki/Richard_Baldwin_(economist)) (Wealth's journey from East to West and back.)
 * [*Late Victorian Holocausts*](https://www.goodreads.com/notes/19323009-late-victorian-holocausts/71655209-daniel-moore) by [Mike Davis](https://en.wikipedia.org/wiki/Mike_Davis_(scholar)) (50 million forgotten murders.)
 * [*Modern India: 1885-1947*](https://www.amazon.com/gp/product/9332535744) by [Sumit Sarkar](https://en.wikipedia.org/wiki/Sumit_Sarkar) (Nationalism, religion, and caste in the British Raj.)
 * [*Montaillou*](https://www.amazon.com/gp/product/0807616133) by [Emmanuel Ladurie](https://en.wikipedia.org/wiki/Emmanuel_Le_Roy_Ladurie) (Based on [actual interviews](https://en.wikipedia.org/wiki/Fournier_Register) with medieval peasants.)
