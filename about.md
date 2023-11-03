@@ -462,6 +462,27 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/01.jpg" itemprop="contentUrl" data-size="701x922"><img style="border: 1px solid black;" src="/assets/img/comics/web/01.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/02.jpg" itemprop="contentUrl" data-size="720x555"><img src="/assets/img/comics/web/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/03.jpg" itemprop="contentUrl" data-size="850x1017"><img src="/assets/img/comics/web/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/04.jpg" itemprop="contentUrl" data-size="1500x1150"><img src="/assets/img/comics/web/04.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/05.jpg" itemprop="contentUrl" data-size="691x480"><img src="/assets/img/comics/web/05.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/06.jpg" itemprop="contentUrl" data-size="601x659"><img src="/assets/img/comics/web/06.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/07.jpg" itemprop="contentUrl" data-size="1080x1351"><img src="/assets/img/comics/web/07.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/08.jpg" itemprop="contentUrl" data-size="900x654"><img src="/assets/img/comics/web/08.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/09.jpg" itemprop="contentUrl" data-size="684x3863"><img src="/assets/img/comics/web/09.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/01.jpg" itemprop="contentUrl" data-size="1987x3056"><img style="border: 1px solid black;" src="/assets/img/comics/boys/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Boys</i> by Garth Ennis</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/02.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/03.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/04.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/04.jpg"/></a></figcaption></figure>
+</div>
+
+<div id="clear"></div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman.jpg" itemprop="contentUrl" data-size="1920x2894"><img style="border: 1px solid black;" src="/assets/img/comics/showcase/sandman.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman2.5.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/showcase/sandman2.5.jpg"/></a><p></p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman2.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/showcase/sandman2.jpg"/></a><p></p></figcaption></figure>
@@ -484,15 +505,6 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman4/02.jpg" itemprop="contentUrl" data-size="1920x2951"><img style="border: 1px solid black;" src="/assets/img/comics/sandman4/02.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman4/03.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman4/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman4/04.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman4/04.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman4/05.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman4/05.jpg"/></a></figcaption></figure>
-</div>
-
-<div id="clear"></div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/01.jpg" itemprop="contentUrl" data-size="1920x2951"><img style="border: 1px solid black;" src="/assets/img/comics/sandman3/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/02.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman3/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/03.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman3/03.jpg"/></a></figcaption></figure>
@@ -512,25 +524,13 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman5/02.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman5/02.jpg"/></a></figcaption></figure>
 </div>
 
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/01.jpg" itemprop="contentUrl" data-size="701x922"><img style="border: 1px solid black;" src="/assets/img/comics/web/01.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/02.jpg" itemprop="contentUrl" data-size="720x555"><img src="/assets/img/comics/web/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/03.jpg" itemprop="contentUrl" data-size="850x1017"><img src="/assets/img/comics/web/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/04.jpg" itemprop="contentUrl" data-size="1500x1150"><img src="/assets/img/comics/web/04.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/05.jpg" itemprop="contentUrl" data-size="691x480"><img src="/assets/img/comics/web/05.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/06.jpg" itemprop="contentUrl" data-size="601x659"><img src="/assets/img/comics/web/06.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/07.jpg" itemprop="contentUrl" data-size="1080x1351"><img src="/assets/img/comics/web/07.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/08.jpg" itemprop="contentUrl" data-size="900x654"><img src="/assets/img/comics/web/08.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/09.jpg" itemprop="contentUrl" data-size="684x3863"><img src="/assets/img/comics/web/09.jpg"/></a></figcaption></figure>
-</div>
-
 <div id="clear"></div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/01.jpg" itemprop="contentUrl" data-size="1987x3056"><img style="border: 1px solid black;" src="/assets/img/comics/boys/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Boys</i> by Garth Ennis</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/02.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/03.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/04.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/04.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman4/02.jpg" itemprop="contentUrl" data-size="1920x2951"><img style="border: 1px solid black;" src="/assets/img/comics/sandman4/02.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman4/03.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman4/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman4/04.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman4/04.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman4/05.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman4/05.jpg"/></a></figcaption></figure>
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
