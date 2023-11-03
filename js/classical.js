@@ -104,7 +104,7 @@ const classical = [
 "Jean-Philippe Rameau|Castor et Pollux|1737-1754|i-xWnhex11E|Jean-Philippe Rameau|Castor et Pollux",
 "George Frideric Handel|Serse|1738|WH7GSJoDUDM|George Frideric Handel|Serse",
 "Johann Sebastian Bach|Harpsichord Concertos|1739|wC_kuLSnuXk|Johann Sebastian Bach|",
-"George Frideric Handel|Concerti grossi, Op. 6|1739|Y8tE9MYOCeI|George Frideric Handel|",
+"George Frideric Handel|Concerti grossi, Op. 6|1739|Y8tE9MYOCeI|George Frideric Handel|Concerti grossi, Op. 6 (Handel)",
 "Johann Sebastian Bach|The Well-Tempered Clavier|1740-1742|ezZdbzreNcs|Johann Sebastian Bach|The Well-Tempered Clavier",
 "Domenico Scarlatti|Keyboard Sonatas|1740s|4yBQlZ06G40|Domenico Scarlatti|",
 "Johann Sebastian Bach|Goldberg Variations|1741|15ezpwCHtJs|Johann Sebastian Bach|Goldberg Variations",
