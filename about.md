@@ -54,7 +54,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>Looking back a bit further (still in progress) &ndash;</p>
     <ul>
         <li>The early 20th century's most influential people were Vladimir Lenin, Sun Yat-Sen, Wilhelm II, Fritz Haber, Adolf Hitler, Albert Einstein, Woodrow Wilson, and Franklin Roosevelt.</li>
-        <li>The late 19th century's most influential people included Victoria I, Ci Xi, Abraham Lincoln, Charles Darwin, Karl Marx, Nathaniel Rothschild, Cecil Rhodes, and Otto von Bismarck.</li>
+        <li>The late 19th century's most influential people included Victoria I, Ci Xi, Abraham Lincoln, Charles Darwin, Karl Marx, Nathaniel Rothschild, and Otto von Bismarck.</li>
         <li>In the early 19th &ndash; Napoleon Bonaparte, Toussaint Louverture, and Samuel Morse.</li>
         <li>The 18th century's most influential people included Thomas Newcomen, Robert Clive, Maximilien Robespierre, and George Washington.</li>
         <li>Others include Nikola Tesla, Thomas Edison, Philo Farnsworth, and the Wright Brothers.</li>
@@ -258,9 +258,8 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Buddha*](https://archive.org/details/manga_Buddha-v02) by [Osamu Tezuka](https://en.wikipedia.org/wiki/Osamu_Tezuka) (Existence is a fever dream, and the self is an illusion.)
 * [*Invincible*](https://getcomics.org/other-comics/invincible-compendium-vol-1-2013-2019/) by [Robert Kirkman](https://en.wikipedia.org/wiki/Robert_Kirkman) (Thrilling visions of U.S.-led, post-racial multilateralism.)
 * [*Sandcastle*](https://www.amazon.com/Sandcastle-new-preface-Original-Fiction-ebook/dp/B097YWJMQF) by [Pierre Oscar Levy](https://fr.wikipedia.org/wiki/Pierre_Oscar_L%C3%A9vy) (Life's a beach and then you die.)
-* [*The Sandman*](https://getcomics.org/dc/the-sandman-1-75-extras/) by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman) (No matter how powerful you get, you're still [mortal](http://comic-academic.00server.com/suspects.html).)
+* [*The Sandman*](https://getcomics.org/dc/the-sandman-1-75-extras/) by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman) (However powerful you become, you're still [mortal](http://comic-academic.00server.com/suspects.html).)
 * [*Swamp Thing*](https://getcomics.org/dc/saga-of-the-swamp-thing-vol-1-6/) by [Alan Moore](https://en.wikipedia.org/wiki/Alan_Moore) (It's better to be a plant than an animal.)
-* [*The Walking Dead*](https://getcomics.org/other-comics/the-walking-dead-deluxe-compendium-vol-1-2022-fan-made-tpb/) by [Robert Kirkman](https://en.wikipedia.org/wiki/Robert_Kirkman) (Started a post-apocalyptic craze that swept America.)
 * [*Yossel: April 19, 1943*](https://www.amazon.com/gp/product/074347516X) by [Joe Kubert](https://en.wikipedia.org/wiki/Joe_Kubert) (When the state is your enemy, there's nowhere to run.)
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
