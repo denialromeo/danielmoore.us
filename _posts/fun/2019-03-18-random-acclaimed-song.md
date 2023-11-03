@@ -35,7 +35,7 @@ box: random-acclaimed-song
             <a target="_self" href="?genre=new.wave&year=198.">New wave songs from the 1980's.</a>
         </li>
     </ul>
-   <p>Also note that each artist's name and most songs' names are a link to their Wikipedia page. To see a song's genres, mouse over the song's title.</p>
+   <p>Also note that each artist's name and most songs' names are links to their Wikipedia pages. To see a song's genres, mouse over the song's title.</p>
 </div>
 
 <script src="/js/URI.js"></script>
