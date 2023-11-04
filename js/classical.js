@@ -963,7 +963,7 @@ const classical = [
 "George Benjamin|Ringed by the Flat Horizon|1980|1x3a5aei12Q|George Benjamin (composer)|",
 "Sofia Gubaidulina|Offertorium|1980|xvHeTWOfL1c|Sofia Gubaidulina|Offertorium",
 "Brian Ferneyhough|Funérailles|1980|mzTmjDmyx4k|Brian Ferneyhough|",
-"Tristan Murail|Gondwana|1980|q6WXzOIsBuQ|Tristan Murail|",
+"Tristan Murail|Gondwana|1980|q6WXzOIsBuQ|Tristan Murail|Gondwana (Murail)",
 "Jonathan Harvey|Mortuos Plango, Vivos Voco|1980|0T-H-fVlHE0|Jonathan Harvey|Mortuos Plango, Vivos Voco",
 "William Bolcom|Songs of Innocence and Experience|1981|D9Qhr97wB3g|William Bolcom|Songs of Innocence and of Experience",
 "John Tavener|Funeral Ikos|1981|4ZRrbixpVV0|John Tavener|",
