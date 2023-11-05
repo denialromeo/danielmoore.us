@@ -1117,7 +1117,7 @@ const albums = [
 "Van Morrison|Veedon Fleece|1974|OLAK5uy_mHy2mo1iN5KUuR09ZjQaaVnu8bVZh0SYM|A323|Veedon Fleece|Van Morrison|Folk Rock;Singer/Songwriter;Rock",
 "The Rapture|Echoes|2003|OLAK5uy_ngZnwC0S5FP04HmGua_VNkv4K2JdUTymc|A4002|Echoes (The Rapture album)|The Rapture (band)|Dance-Punk;Post-Punk;Rock",
 "The Saints|(I'm) Stranded|1977|OLAK5uy_lSot-xq9VosdePouTxYWIJyxpvqDTHx44|A1429|(I'm) Stranded|The Saints (Australian band)|Punk Rock;Rock",
-"Jay Z & Kanye West|Watch the Throne|2011|OLAK5uy_kkglMsRLPF5LyCq4aBFBSK8mBIDw5oLgA|A5154|Watch the Throne|Jay-Z|Hip Hop",
+"Jay Z & Kanye West|Watch the Throne|2011|OLAK5uy_l4zMpi9YRUQdxliVxA1oI_tfGxdwvAxzA|A5154|Watch the Throne|Jay-Z|Hip Hop",
 "Ozzy Osbourne|Blizzard of Ozz|1980|OLAK5uy_kLT33gPmSvMfvI7rO6nTUdwPQ9qok1qLM|A1686|Blizzard of Ozz|Ozzy Osbourne|Hard Rock;Heavy Metal;Metal;Rock",
 "Placebo|Without You I'm Nothing|1998|OLAK5uy_ndrUUZE3T4QiVh0lnkpv_TP2qFKYQRmmY|A1047|Without You I'm Nothing (Placebo album)|Placebo (band)|Alternative Rock;Rock",
 "Feist|The Reminder|2007|OLAK5uy_nZCahdwBaG4kcQK27ejG0i4BJDV8wcoto|A4244|The Reminder|Feist (singer)|Indie Pop;Pop",
