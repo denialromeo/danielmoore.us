@@ -2451,7 +2451,7 @@ const albums = [
 "Earl Sweatshirt|I Don't Like Shit, I Don't Go Outside|2015|OLAK5uy_lPgLeaJZKZGKri_ZhdVHwKvEQXdhHSBAw|A5587|I Don't Like Shit, I Don't Go Outside|Earl Sweatshirt|Abstract Hip Hop;Hardcore Hip Hop;Hip Hop",
 "Sun Ra|Heliocentric Worlds of Sun Ra, Volume 2|1966|OLAK5uy_m5frM5j7OywTOMw1UhoeiV0vJ7jA1SK1M|A1971|The Heliocentric Worlds of Sun Ra, Volume Two|Sun Ra|Free Jazz;Avant-Garde Jazz;Jazz",
 "Global Communication|76:14|1994|OLAK5uy_k5GQ98i9D9lweXorfgst8HswspxrUQK9E|A2974|76:14|Global Communication|Ambient;Ambient Techno;Dance;Electronic;Electronic Dance Music;Techno",
-"John Zorn|Spillane|1987|PL1X3qTzT40VmV1KdGffA2disuvsQUhnyW|A2887|Spillane (album)|John Zorn|Avant-Garde Jazz;Jazz",
+"John Zorn|Spillane|1987|PLwGTKZ6uNxXnUecAp71QjUbz8NZWqW3D5|A2887|Spillane (album)|John Zorn|Avant-Garde Jazz;Jazz",
 "Master Musicians of Jajouka|Brian Jones Presents The Pipes of Pan at Joujouka|1971|OLAK5uy_mGC5erPiVtkBn8WehFzRh3MtoGxssSSYI|A2397|Brian Jones Presents the Pipes of Pan at Joujouka|The Master Musicians of Joujouka|Arabic Folk Music;Arabic Music;Arabic Traditional Music;Folk;Islamic Modal Music;Regional Music;Traditional Folk Music",
 "Sebadoh|III|1991|OLAK5uy_nyHbt3lcS77UOsZm6dc4GuN0uZIaHjQYM|A3372|Sebadoh III|Sebadoh|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock",
 "J.J. Cale|Troubadour|1976|OLAK5uy_kq3TquYfpYZr2mJMfZnKaS1dD2L0EwMp0|A4581|Troubadour (J. J. Cale album)|J. J. Cale|Blues Rock;Country Rock;Rock",
