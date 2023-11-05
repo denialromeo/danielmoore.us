@@ -1810,7 +1810,7 @@ const albums = [
 "Morphine|Cure for Pain|1993|OLAK5uy_l5QWiCxD1Y-gp0EA7jGrO3dO8xIUgA2No|A3481|Cure for Pain|Morphine (band)|Alternative Rock;Jazz-Rock;Rock",
 "The Dandy Warhols|Thirteen Tales from Urban Bohemia|2000|OLAK5uy_kpxwyF2RQqjfvB_ijTw1ivRCXxIPmDQEo|A1098|Thirteen Tales from Urban Bohemia|The Dandy Warhols|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock",
 "Miles Davis|A Tribute to Jack Johnson|1971|OLAK5uy_lW3oiXRHZEW7BRm7u0x4eeEqH6zYqlBCk|A1997|Jack Johnson (album)|Miles Davis|Jazz Fusion;Jazz-Rock;Jazz;Rock",
-"Amadou & Mariam|Dimanche à Bamako|2004|OLAK5uy_kmKTgaKBNw0kEaNydxMnrxCOBL33ZJJLQ|A4215|Dimanche à Bamako|Amadou & Mariam|African Music;Regional Music",
+"Amadou & Mariam|Dimanche à Bamako|2004|PLdqZQPNShYrCOmDKDXSsyaVnMnn4DB4yU|A4215|Dimanche à Bamako|Amadou & Mariam|African Music;Regional Music",
 "Shuggie Otis|Inspiration Information|1974|PLP0IenmeCOtwt2JZxb2aud-QSlagwiKw4|A2691|Inspiration Information|Shuggie Otis|Psychedelic Soul;R&B;Soul",
 "St. Vincent|Actor|2009|OLAK5uy_ki37Kdm3N5LdEfrTAzgcmraqZMGphZtZg|A5008|Actor (album)|St. Vincent (musician)|Indie Pop;Pop",
 "Afrika Bambaataa & Soulsonic Force|Planet Rock - The Album|1986|OLAK5uy_nYrl0A1b37IgvsAJOxe0l1TPm8PNduqh4|A1512|Planet Rock: The Album|Afrika Bambaataa|Electro;Dance;Electronic;Electronic Dance Music",
