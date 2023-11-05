@@ -1943,7 +1943,7 @@ const albums = [
 "Cassandra Wilson|New Moon Daughter|1995|OLAK5uy_lO7R--2g_C1MX_NY3G-LT-hHc9eM3s6X0|A3001|New Moon Daughter|Cassandra Wilson|Vocal Jazz;Jazz",
 "R.E.M.|Up|1998|OLAK5uy_mwMB8Y9bhyKWhnsGwRmUcaUz4w5T6z9vQ|A1033|Up (R.E.M. album)|R.E.M.|Alternative Rock;Pop Rock;Pop;Rock",
 "John Mellencamp|The Lonesome Jubilee|1987|OLAK5uy_lfdHDG504mWBdUFW9Zi-b7oFQeDr96rs0|A720|The Lonesome Jubilee|John Mellencamp|Heartland Rock;Rock",
-"Trio|Trio|1981|OLAK5uy_nWHH_NxrqqSwvMAk742nFvPTYrhFwF7P8|A2801|Trio (Trio album)|Trio (band)|Neue Deutsche Welle;Rock",
+"Trio|Trio|1981|PLL9bA-d1-78wNjx_mSEHNgUCnaywbxECj|A2801|Trio (Trio album)|Trio (band)|Neue Deutsche Welle;Rock",
 "Townes Van Zandt|Live at the Old Quarter, Houston, Texas|1977|OLAK5uy_kHLHcvKIdGR69npOCkMbX-_MEkHgYior0|A1677|Live at the Old Quarter, Houston, Texas|Townes Van Zandt|Country;Singer/Songwriter",
 "Fleetwood Mac|Tusk|1979|OLAK5uy_l4jG1YrbpjxAqzfy5HgYu0gZEpHBsjr9c|A1455|Tusk (album)|Fleetwood Mac|Pop Rock;Pop;Rock",
 "Kings of Leon|Aha Shake Heartbreak|2004|OLAK5uy_lh9Ejhss2deBBRK1PmLFBYXcwFP_Zln48|A4109|Aha Shake Heartbreak|Kings of Leon|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock",
