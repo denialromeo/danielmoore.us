@@ -2466,7 +2466,7 @@ const albums = [
 "Jim O'Rourke|Insignificance|2001|PLGxyU_3RFNSQDdvZJBS5ViGjLtxsJMNX6|A4942|Insignificance (Jim O'Rourke album)|Jim O'Rourke (musician)|Alternative Singer/Songwriter;Indie Rock;Alternative Rock;Rock;Singer/Songwriter",
 "Jimmy Page & Robert Plant|No Quarter - Unledded|1994|OLAK5uy_l9Bs5lsxRqCuJBcNHiUe0rmaQrPBpl1AU|A4806|No Quarter: Jimmy Page and Robert Plant Unledded|Page and Plant|Acoustic Rock;Blues Rock;Rock",
 "Laura Nyro and Labelle|Gonna Take a Miracle|1971|OLAK5uy_nDpvnNKO5hGGV63Z9NmZL0s7lXNLRj3QU|A1344|Gonna Take a Miracle|Labelle|Pop Soul;Rhythm & Blues;Pop;R&B;Soul",
-"Clap Your Hands Say Yeah|Clap Your Hands Say Yeah|2005|PLy4u88AKUauI_88Gk78ADUNtYEeevINeb|A4204|Clap Your Hands Say Yeah (album)|Clap Your Hands Say Yeah|Indie Rock;Alternative Rock;Rock",
+"Clap Your Hands Say Yeah|Clap Your Hands Say Yeah|2005|OLAK5uy_mE8oXIHUMJOuB11JRSjGwH8hfbXKrartw|A4204|Clap Your Hands Say Yeah (album)|Clap Your Hands Say Yeah|Indie Rock;Alternative Rock;Rock",
 "Fear Factory|Demanufacture|1995|OLAK5uy_mWvX4onNane-9D9Ke4owvpQrqC0Kx6d6A|A3575|Demanufacture (album)|Fear Factory|Industrial Metal;Industrial Music;Metal;Rock",
 "Slayer|South of Heaven|1988|OLAK5uy_mbXSr6j7jvbIh26_xvtuWqY5Z84BcpxIM|A2896|South of Heaven|Slayer|Thrash Metal;Metal;Rock",
 "Yes|Tales from Topographic Oceans|1973|OLAK5uy_kb8xEtrxemjdLgHaZzOfS5MFHI7oBseQc|A3285|Tales from Topographic Oceans|Yes (band)|Symphonic Prog;Progressive Rock;Rock",
