@@ -113,7 +113,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Disciplined Minds*](/disciplined-minds) by [Jeff Schmidt](https://disciplinedminds.tripod.com/) (Thriving in the white-collar workplace.)
 * [*Feline Philosophy*](https://www.goodreads.com/notes/54106568-feline-philosophy/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (There is no higher goal than becoming a cat.)
 * [*The 48 Laws of Power*](https://www.goodreads.com/notes/36548138-the-48-laws-of-power/71655209-daniel-moore) by [Robert Greene](https://en.wikipedia.org/wiki/Robert_Greene_(American_author)) (Either exercise power or have it exercised on you.)
-* [*Lectures on Physics*](https://www.feynmanlectures.caltech.edu/) by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (Still the gold standard.)
+* [*Lectures on Physics*](https://www.feynmanlectures.caltech.edu/) by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (Our perceptions merely approximate reality.)
 * [*Natural Causes*](https://www.goodreads.com/notes/38714645-natural-causes/71655209-daniel-moore) by [Barbara Ehrenreich](https://en.wikipedia.org/wiki/Barbara_Ehrenreich) (Living in fear of death is worse than dying.)
 * [*Straw Dogs*](https://www.goodreads.com/notes/29767507-straw-dogs/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (Happiness is living according to one's nature.)
 * [*The Trouble with Being Born*](https://www.goodreads.com/notes/50757709-the-trouble-with-being-born/71655209-daniel-moore) by [Emil Cioran](https://en.wikipedia.org/wiki/Emil_Cioran) (Resignation is only the beginning.)
