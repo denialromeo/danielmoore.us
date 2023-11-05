@@ -1955,7 +1955,7 @@ const albums = [
 "Benny Carter|Further Definitions|1962|PL1X3qTzT40VkrkyqMnd2T_nQfLWRXO068|A1890|Further Definitions|Benny Carter|Bebop;Swing;Jazz",
 "Cat Stevens|Teaser and the Firecat|1971|OLAK5uy_k4s2Oy2THiAyhb301I3-HfCJdQYolbvSw|A1138|Teaser and the Firecat|Cat Stevens|Folk Pop;Folk Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock",
 "Miles Davis|Ascenseur pour l'échafaud/Jazz Track|1958|PL0VmJADIfgLB8X0zf4i208M27WkV4_Ixo|A1839|Ascenseur pour l'échafaud (soundtrack)|Miles Davis|Cool Jazz;Film Score;Descriptor;Film Soundtrack;Jazz;Soundtracks",
-"The Animals|The Animals|1964|OLAK5uy_l2QRZEKMNKztID7PmtbAiUEZyBtKAPX3k|A1287|The Animals (American album)|The Animals|British Blues;Rhythm & Blues;Blues;Electric Blues;R&B",
+"The Animals|The Animals|1964|OLAK5uy_lr8ZG93vEXXtjTmlAJIKQ2C-lHDpeA61c|A1287|The Animals (American album)|The Animals|British Blues;Rhythm & Blues;Blues;Electric Blues;R&B",
 "Curtis Mayfield|There's No Place Like America Today|1975|OLAK5uy_kyeiULp4ACto1oVDhSVJ5JyOOVSDJHBRU|A1671|There's No Place Like America Today|Curtis Mayfield|Funk;Soul;R&B",
 "Mekons|The Mekons Rock'n'roll|1989|OLAK5uy_mWR3LPb4lBj52PNoDKCqGyPRsS2v2ryDc|A769|The Mekons Rock 'n Roll|The Mekons|Alternative Rock;Post-Punk;Rock",
 "Pearl Jam|No Code|1996|OLAK5uy_kOkfBPcPzcogWtnoi-dzX8GXr8NaBMAyQ|A3612|No Code|Pearl Jam|Alternative Rock;Rock",
