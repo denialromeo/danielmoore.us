@@ -2397,7 +2397,7 @@ const albums = [
 "Suzanne Vega|Solitude Standing|1987|OLAK5uy_msO7Lh05VetvLvh0-ZLZffJTAwL4pJSdw|A3333|Solitude Standing|Suzanne Vega|Pop Rock;Singer/Songwriter;Pop;Rock",
 "Otis Redding/The Jimi Hendrix Experience|Historic Performances Recorded at the Monterey International Pop Festival|1970|PL8j2Ud5lrvRKMwayBPZv0wI8OEEd8-RwZ|A1336|Historic Performances Recorded at the Monterey International Pop Festival|Jimi Hendrix|Blues Rock;Psychedelic Rock;Soul;R&B;Rock",
 "Danny Brown|Old|2013|PLxjkwclpxxIyQ3IGa8EPPGRwSfu_yqBDY|A5283|Old (Danny Brown album)|Danny Brown|Hardcore Hip Hop;Hip Hop",
-"Glasvegas|Glasvegas|2008|OLAK5uy_nva5u3eQgdrZN7HGQo7ZSlaq3DJnMM1ps|A4348|Glasvegas (album)|Glasvegas|Indie Rock;Alternative Rock;Rock",
+"Glasvegas|Glasvegas|2008|PLb3nKaB6PMJj_EJOUYQaM3N_UtoX45s_L|A4348|Glasvegas (album)|Glasvegas|Indie Rock;Alternative Rock;Rock",
 "Shabazz Palaces|Lese Majesty|2014|OLAK5uy_lCR8wQ5ZhRYhIxXzK4XAHR7o1kmzfFXMY|A5415|Lese Majesty (album)|Shabazz Palaces|Abstract Hip Hop;Experimental Hip Hop;Hip Hop",
 "Miguel|Wildheart|2015|OLAK5uy_lsE6MeZR0zzDVaVftf4Ent2PPlMYWwZXc|A5574|Wildheart (album)|Miguel (singer)|Alternative R&B;Contemporary R&B;R&B",
 "Terry Callier|What Color Is Love|1972|OLAK5uy_lySQfYVtYaotREudRu0ybd-7NXf9vuQn8|A4541|What Color Is Love|Terry Callier|Chicago Soul;R&B;Soul",
