@@ -452,7 +452,7 @@ const classical = [
 "Camille Saint-Saëns|Symphony No. 3, “Organ”|1886|ZWCZq33BrOo|Camille Saint-Saëns|Symphony No. 3 (Saint-Saëns)",
 "John Stainer|The Crucifixion|1887|1b1-cqJOBtY|John Stainer|The Crucifixion (Stainer)",
 "Reynaldo Hahn|Mélodies|1887-1947|FHPSa-qQuuI|Reynaldo Hahn|Mélodie",
-"Alexander Borodin|Prince Igor|1887|Sw1weml0-r0|Alexander Borodin|Prince Igor",
+"Alexander Borodin|Prince Igor|1887|CzmIu-VjRCM?start=60|Alexander Borodin|Prince Igor",
 "Nicolai Rimsky-Korsakov|Capriccio espagnol|1887|Lh6mDL-VwYw|Nikolai Rimsky-Korsakov|",
 "Jules Massenet|Werther|1887|p90HEtK1Bi0|Jules Massenet|",
 "Johannes Brahms|Double Concerto|1887|GMurNzAAcLA|Johannes Brahms|Double Concerto (Brahms)",
