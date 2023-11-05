@@ -761,7 +761,7 @@ const albums = [
 "Wayne Shorter|Speak No Evil|1966|OLAK5uy_k_S9vI2ODPguv7DmtgAJ8frd1yj5dSGgA|A1949|Speak No Evil|Wayne Shorter|Post-Bop;Bebop;Jazz",
 "The Beach Boys|Surf's Up|1971|OLAK5uy_lb1QdqKFMwrZmCal0R8g4ITgQELMpQXfY|A223|Surf's Up (album)|The Beach Boys|Pop Rock;Psychedelic Pop;Pop;Rock",
 "Garbage|Garbage|1995|OLAK5uy_kBhKWqtEqoNf2WFc1RkX_PJ1xUivlzqJw|A948|Garbage (album)|Garbage (band)|Alternative Rock;Pop Rock;Pop;Rock",
-"Aphex Twin|Richard D. James Album|1996|OLAK5uy_lDaS8EEv-rQehBiH8_fd_r2-9I2P4vwZ0|A1614|Richard D. James Album|Aphex Twin|IDM;Electronic",
+"Aphex Twin|Richard D. James Album|1996|OLAK5uy_kA9Aei-luCH6EjprpoYruNVkh6VsbWcUc|A1614|Richard D. James Album|Aphex Twin|IDM;Electronic",
 "M83|Hurry Up, We're Dreaming|2011|OLAK5uy_mCYNqbPbk270iAxzOUxRv_FXI0afqWOXk|A5157|Hurry Up, We're Dreaming|M83 (band)|Dream Pop;Synthpop;Alternative Rock;Electronic;Pop;Rock",
 "Neil Young and Crazy Horse|Ragged Glory|1990|OLAK5uy_mEDXc5NRykuZKp1ZTSMEqBXrxXbR22Yh8|A781|Ragged Glory|Neil Young|Hard Rock;Rock",
 "Syd Barrett|The Madcap Laughs|1970|PLEF4C8F67FF2779B1|A1252|The Madcap Laughs|Syd Barrett|Psychedelic Folk;Psychedelic Rock;Singer/Songwriter;Contemporary Folk;Folk;Rock",
