@@ -182,7 +182,7 @@ const albums = [
 "Kendrick Lamar|DAMN.|2017|OLAK5uy_mWaHGXdNJMSE3hMxiM0R03vvYmIRskaNc|A5927|Damn (Kendrick Lamar album)|Kendrick Lamar|Conscious Hip Hop;Hip Hop",
 "Jefferson Airplane|Surrealistic Pillow|1967|OLAK5uy_l-I-_0YyLBUa6VOhtQ-2VbROAACQx6GPo|A99|Surrealistic Pillow|Jefferson Airplane|Psychedelic Rock;Rock",
 "Pavement|Crooked Rain, Crooked Rain|1994|OLAK5uy_ngPzZYSVD0pqbnHT0o34Bp0pXZa1nMwkA|A913|Crooked Rain, Crooked Rain|Pavement (band)|Indie Rock;Alternative Rock;Rock",
-"The Smiths|The Smiths|1984|PLDPgbLgBVdSwxULZohJYIDbf1FTxeLtUs|A603|The Smiths (album)|The Smiths|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
+"The Smiths|The Smiths|1984|OLAK5uy_m0YZAFThrzB6J8Lbjl6zQN8ADFTNEZRXY|A603|The Smiths (album)|The Smiths|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "The Kinks|The Kinks Are the Village Green Preservation Society|1968|OLAK5uy_m1cl3Q7UaBKPcwvbXq5NgbBYdhJGYBONQ|A133|The Kinks Are the Village Green Preservation Society|The Kinks|Pop Rock;Pop;Rock",
 "Beastie Boys|Licensed to Ill|1986|OLAK5uy_kql6ccWJAXqk3vEPAQyEjVjnQWzSCPm24|A664|Licensed to Ill|Beastie Boys|Hip Hop",
 "Kanye West|Yeezus|2013|OLAK5uy_m6VFZd8KNhbFoHGRhtzFakGNVSkMMGvbU|A5381|Yeezus|Kanye West|Experimental Hip Hop;Hip Hop",
