@@ -2948,7 +2948,7 @@ const albums = [
 "Stan Getz, Dizzy Gillespie and Sonny Stitt|For Musicians Only|1956|OLAK5uy_mBO-j2-i-hFvQrNpwbAGN-nx0qcRTwfZo|A1794|For Musicians Only|Stan Getz|Bebop;Jazz",
 "The Mars Volta|Frances the Mute|2005|OLAK5uy_m8LOrDqvqGYSQlL3z5B-CKZNIr0r_ek7M|A4154|Frances the Mute|The Mars Volta|Art Rock;Experimental Rock;Progressive Rock;Rock",
 "Frightened Rabbit|The Midnight Organ Fight|2008|OLAK5uy_knEAcXhwf7QPcjIMkC97kfsvcF3wX1jcc|A4403|The Midnight Organ Fight|Frightened Rabbit|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
-"Coleman Hawkins & Ben Webster|Coleman Hawkins Encounters Ben Webster|1959|OLAK5uy_lsLyIVDxkbZnHYx6F44kICQRilQLMfm5E|A2413|Coleman Hawkins Encounters Ben Webster|Coleman Hawkins|Post-Bop;Bebop;Jazz",
+"Coleman Hawkins & Ben Webster|Coleman Hawkins Encounters Ben Webster/Blue Saxophones|1959|OLAK5uy_lsLyIVDxkbZnHYx6F44kICQRilQLMfm5E|A2413|Coleman Hawkins Encounters Ben Webster|Coleman Hawkins|Post-Bop;Bebop;Jazz",
 "Malcolm McLaren|Duck Rock|1983|OLAK5uy_lpFrsoEM_Lm7latjLJ92ow5BCNhBBZ1vU|A591|Duck Rock|Malcolm McLaren|New Wave;Rock",
 "Kid Creole and The Coconuts|Wise Guy/Tropical Gangsters|1982|PLQPUenqFTpybxbWYbeVbspmtkWGIMQK6h|A1486|Tropical Gangsters|Kid Creole and the Coconuts|Disco;Pop;Dance",
 "Lonnie Johnson with Elmer Snowden|Blues and Ballads|1960|PLDgBzgC-0kcdxdyGmtz_oMQ5wdNdfa5C-|A1274|Blues & Ballads|Lonnie Johnson (musician)|Acoustic Blues;Blues",
