@@ -2753,7 +2753,7 @@ const albums = [
 "Mudhoney|Superfuzz Bigmuff EP|1988|OLAK5uy_nZqFUaBhWuZhW4CVIr2MeSHPK9EgrQos8|A3221|Superfuzz Bigmuff|Mudhoney|Garage Punk;Grunge;Alternative Rock;Garage Rock;Punk Rock;Rock",
 "Jlin|Dark Energy|2015|OLAK5uy_nshTCHTmFYKOX57yFRvRSnf2IxpCtxRuw|A5604|Dark Energy (album)|Jlin|Footwork;Dance;Electronic;Electronic Dance Music;Ghetto House;House;Juke",
 "Nina Simone|Pastel Blues|1965|OLAK5uy_lX5I9cb5SDhgwtq_OAj5xDeGq0mUGC8iI|A7297|Pastel Blues|Nina Simone|Rhythm & Blues;Soul;Vocal Jazz;Jazz;R&B",
-"David Murray|Ming|1980|PLwJ-lIv8iFwG7A3AjXn5oW3S1xmjCUCuh|A2032|Lovers (David Murray album)|Dee Murray|Avant-Garde Jazz;Jazz",
+"David Murray|Ming|1980|OLAK5uy_njsqYtxRANpAVD3t0jgeIKhi-uZrIFL6Q|A2032|Lovers (David Murray album)|Dee Murray|Avant-Garde Jazz;Jazz",
 "Jimmie Dale & The Flatlanders|All American Music/More a Legend Than a Band|1972|OLAK5uy_lcLW-FCJXqqPJdM9Ol8EfWNCqUi-9MJNE|A4528|The Flatlanders|The Flatlanders|Country",
 "Pulp|We Love Life|2001|OLAK5uy_mINyb5PH0Me-SOpPUV2ZdZ1DOfJhBNtTs|A1211|We Love Life|Pulp (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "The Electric Prunes|Underground|1967|OLAK5uy_moPZ7KdZQzHbqV20Jq4zsReiESJXx15qY|A2161|Underground (The Electric Prunes album)|The Electric Prunes|Psychedelic Rock;Rock",
