@@ -255,7 +255,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Sunset Limited*](https://play.max.com/movie/45898ac7-06e9-4abe-b5ee-a6d2be63cfd3) by [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy) (Is continuing to live [rational](https://philosophy.redzambala.com/leo-tolstoy/confession-leo-tolstoy-7.html)?)
 * [*Synecdoche, New York*](https://www.amazon.com/gp/video/detail/B00BZAZYMI) by [Charlie Kaufman](https://en.wikipedia.org/wiki/Charlie_Kaufman) (Your life, and mine, and everybody's.)
 * [*They Shall Not Grow Old*](https://www.netflix.com/watch/81048455) by [Peter Jackson](https://en.wikipedia.org/wiki/Peter_Jackson) (France in 1916, Ukraine in 2023.)
-* [*The Thing*](https://www.peacocktv.com/watch/asset/movies/the-thing/3cbe148d-3004-3802-91fd-78130a07a156) by [John Carpenter](https://en.wikipedia.org/wiki/John_Carpenter) (Rooting out malice is a political problem as old as Man.)
+* [*The Thing*](https://www.amazon.com/Thing-Kurt-Russell/dp/B009CGRWP4) by [John Carpenter](https://en.wikipedia.org/wiki/John_Carpenter) (Rooting out malice is a political problem as old as Man.)
 * [*The White Tiger*](https://www.netflix.com/title/80202877) by [Ramin Bahrani](https://en.wikipedia.org/wiki/Ramin_Bahrani) (Required viewing for the Indian diaspora.)
 * [*The Wolf of Wall Street*](https://www.netflix.com/watch/70266676) by [Martin Scorsese](https://en.wikipedia.org/wiki/Martin_Scorsese) (Quit while you're ahead.)
 * [*World's Greatest Dad*](https://www.amazon.com/gp/video/detail/B00C0J535Q) by [Bobcat Goldthwait](https://en.wikipedia.org/wiki/Bobcat_Goldthwait) (Quiet desperation is the American way.)
