@@ -97,7 +97,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*How to Cook Everything: The Basics*](https://www.goodreads.com/notes/18897533-how-to-cook-everything/71655209-daniel-moore?ref=abp) by [Mark Bittman](https://markbittman.com/books) (Includes the steps most authors skip.)
 * [*How to Eat*](https://www.goodreads.com/notes/48746181-how-to-eat/71655209-daniel-moore) by [Mark Bittman](https://markbittman.com/books) (Healthy living is a choice you make every day.)
-* [*Lectures on Physics*](https://www.feynmanlectures.caltech.edu/) by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (Still the gold standard.)
 * [*The Men's Health Big Book of Exercises*](https://www.amazon.com/gp/product/1623368413) by [Adam Campbell](https://www.linkedin.com/in/adamcampbellprofile/) (Endless workout variations.)
 * [*Set Your Voice Free*](https://www.goodreads.com/notes/33613817-set-your-voice-free/71655209-daniel-moore) by [Roger Love](https://en.wikipedia.org/wiki/Roger_Love) (How well you speak affects every interaction.)
 
@@ -114,6 +113,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Disciplined Minds*](/disciplined-minds) by [Jeff Schmidt](https://disciplinedminds.tripod.com/) (Thriving in the white-collar workplace.)
 * [*Feline Philosophy*](https://www.goodreads.com/notes/54106568-feline-philosophy/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (There is no higher goal than becoming a cat.)
 * [*The 48 Laws of Power*](https://www.goodreads.com/notes/36548138-the-48-laws-of-power/71655209-daniel-moore) by [Robert Greene](https://en.wikipedia.org/wiki/Robert_Greene_(American_author)) (Either exercise power or have it exercised on you.)
+* [*Lectures on Physics*](https://www.feynmanlectures.caltech.edu/) by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (Still the gold standard.)
 * [*Natural Causes*](https://www.goodreads.com/notes/38714645-natural-causes/71655209-daniel-moore) by [Barbara Ehrenreich](https://en.wikipedia.org/wiki/Barbara_Ehrenreich) (Living in fear of death is worse than dying.)
 * [*Straw Dogs*](https://www.goodreads.com/notes/29767507-straw-dogs/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (Happiness is living according to one's nature.)
 * [*The Trouble with Being Born*](https://www.goodreads.com/notes/50757709-the-trouble-with-being-born/71655209-daniel-moore) by [Emil Cioran](https://en.wikipedia.org/wiki/Emil_Cioran) (Resignation is only the beginning.)
