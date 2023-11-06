@@ -346,7 +346,7 @@ const albums = [
 "The Beatles|With the Beatles/Meet the Beatles!|1963|PLycVTiaj8OI-XRoKhxMmBhnsefIc77M2_|A2|With the Beatles|The Beatles|Merseybeat;Beat Music;Pop;Pop Rock;Rock",
 "Brian Eno - David Byrne|My Life in the Bush of Ghosts|1981|OLAK5uy_mOoJHF6_qCl1To4Wz8qnPg9YuG37u1zRo|A513|My Life in the Bush of Ghosts (album)|David Byrne|Art Rock;Experimental Rock;Rock",
 "Frank Zappa|Hot Rats|1969|OLAK5uy_k7TNKg9Dv38e_uJeVfYY_XtoINa0xB1sQ|A167|Hot Rats|Frank Zappa|Jazz Fusion;Jazz-Rock;Jazz;Rock",
-"Alanis Morissette|Jagged Little Pill|1995|PLxKHVMqMZqURCaSxevo2zSWGJw3S-J902|A947|Jagged Little Pill|Alanis Morissette|Pop Rock;Singer/Songwriter;Pop;Rock",
+"Alanis Morissette|Jagged Little Pill|1995|OLAK5uy_n49xow370hbpDDMHh1puPrUpJRwlyRit8|A947|Jagged Little Pill|Alanis Morissette|Pop Rock;Singer/Songwriter;Pop;Rock",
 "The Libertines|Up the Bracket|2002|OLAK5uy_m8wpz9re2BykcknDNRkHIzoZmL7yC-mtg|A1645|Up the Bracket|The Libertines|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock",
 "R.E.M.|Out of Time|1991|OLAK5uy_k4rQyc-c-QTgUKkDSKyjVso_VJv9411fU|A815|Out of Time (album)|R.E.M.|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Big Star|The Third Album/Sister Lovers|1978|OLAK5uy_lEWGfksZtfOIaMj_-8HG8btKUGMUvqzhI|A423|Third/Sister Lovers|Big Star|Power Pop;Pop;Pop Rock;Rock",
