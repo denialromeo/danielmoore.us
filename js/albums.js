@@ -890,7 +890,7 @@ const albums = [
 "Horace Silver|Song for My Father|1965|OLAK5uy_maEHDCvs9peIT7Q_zHyBbUvs8i0bYvqX0|A1950|Song for My Father (album)|Horace Silver|Hard Bop;Bebop;Jazz",
 "R.E.M.|Green|1988|OLAK5uy_k_bcT_WWI7YHZlm0G2ypv8obTGaTHqHjY|A726|Green (R.E.M. album)|R.E.M.|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Beach House|Bloom|2012|PLbOGt8cOph4WvcJWPeG6R6VULYD_GfW_P|A5194|Bloom (Beach House album)|Beach House|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock",
-"Foo Fighters|Foo Fighters|1995|OLAK5uy_nrq5oPVaPOhMRGmXwlXi2k21RkUpbpm-w|A939|Foo Fighters (album)|Foo Fighters|Post-Grunge;Alternative Rock;Rock",
+"Foo Fighters|Foo Fighters|1995|OLAK5uy_k2BVAy-41IEGyXZ6vayuM5_nfWMGWNy-s|A939|Foo Fighters (album)|Foo Fighters|Post-Grunge;Alternative Rock;Rock",
 "Fleetwood Mac|Fleetwood Mac|1975|OLAK5uy_nwDFwqAkFydjQ1xXxAFQ2-avbkjBDNGVU|A354|Fleetwood Mac (1975 album)|Fleetwood Mac|Pop Rock;Pop;Rock",
 "The Hold Steady|Boys and Girls in America|2006|OLAK5uy_k3qK2OYpwrh8c7CzmW8MWcKmZo6XXyfQA|A3083|Boys and Girls in America|The Hold Steady|Heartland Rock;Indie Rock;Pub Rock;Alternative Rock;Rock",
 "Alexander Skip Spence|Oar|1969|OLAK5uy_kZGVhx2i7B1z_SbTXBPUaGmO8j8nqBclA|A2280|Oar (album)|Skip Spence|Psychedelic Folk;Singer/Songwriter;Contemporary Folk;Folk",
