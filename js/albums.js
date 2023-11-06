@@ -2971,7 +2971,7 @@ const albums = [
 "Lightning Bolt|Wonderful Rainbow|2003|OLAK5uy_mYsiOlU_bWixdGhHL00xhZAErVf2cKh8Y|A2403|Wonderful Rainbow|Lightning Bolt (band)|Noise Rock;Rock",
 "Laura Marling|Once I Was an Eagle|2013|OLAK5uy_kp-k5y6339E5z7or-Sl1NQ7uHUvlWLdfo|A5339|Once I Was an Eagle|Laura Marling|Contemporary Folk;Singer/Songwriter;Folk",
 "Sun Ra and His Astro-Infinity Arkestra|Atlantis|1969|PLhtwu72CukLQ1jsZ4KWdE1rhiM3FH_bOY|A1993|Atlantis (Sun Ra album)|Sun Ra|Experimental Big Band;Free Jazz;Avant-Garde Jazz;Big Band;Jazz",
-"Anthony Braxton|3 Compositions of New Jazz|1968|PLyYfJMuM0asKuUCf1hXIwcDOuTePK-fxP|A1981|3 Compositions of New Jazz|Anthony Braxton|Avant-Garde Jazz;Jazz",
+"Anthony Braxton|3 Compositions of New Jazz|1968|OLAK5uy_mBh8PvgDCsoTnMgE44V-_rkxjSieaAMeQ|A1981|3 Compositions of New Jazz|Anthony Braxton|Avant-Garde Jazz;Jazz",
 "Youssou N'Dour|Nelson Mandela|1985|OLAK5uy_l2Be1Qav7A-AYa-wwMEmlGZCWVdbfkKOM|A3070|Youssou N'Dour|Youssou N'Dour|Mbalax;African Music;Regional Music;West African Music;Wolof Music",
 "Tim Buckley|Blue Afternoon|1969|OLAK5uy_lObleNa9bk_en50sN9hFENz9f8QDFjES4|A2347|Blue Afternoon|Tim Buckley|Psychedelic Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Steve Miller Band|Sailor|1968|OLAK5uy_meNUoeZi2zOEDB17ECuiShoCD64Fd2JMk|A143|Sailor (album)|Steve Miller Band|Psychedelic Rock;Rock",
