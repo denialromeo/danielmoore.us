@@ -106,7 +106,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Philosophy Books**
 
 * [*The Analects*](http://classics.mit.edu/Confucius/analects.1.1.html) by [Kong Fuzi](https://en.wikipedia.org/wiki/Confucius) (Building a society that works starts from the bottom.)
-* [*The Art of War*](https://classics.mit.edu/Tzu/artwar.html) by [Sun Zi](https://en.wikipedia.org/wiki/Sun_Tzu) (Conflict is the default state for all life.)
+* [*The Art of War*](https://www.goodreads.com/notes/20112728-the-art-of-war/71655209-daniel-moore) by [Sun Zi](https://en.wikipedia.org/wiki/Sun_Tzu) (Conflict is the default state for all life.)
 * [*The Book of Five Rings*](https://www.goodreads.com/notes/21188395-musashi-s-book-of-five-rings/71655209-daniel-moore) by [Miyamoto Musashi](https://en.wikipedia.org/wiki/Miyamoto_Musashi) (From one thing, know ten thousand things.)
 * [*Certain to Win*](https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore) by [Chet Richards](https://slightlyeastofnew.com/page-1/) (How to outmaneuver and defeat much larger enemies.)
 * [*The Complete Works*](/schopenhauer) by [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (Patron saint of intellectuals.)
@@ -188,6 +188,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[The Obama Factor](https://www.tabletmag.com/sections/arts-letters/articles/david-garrow-interview-obama)" by David Samuels (In some ways, he set the stage for Trump.)
 * "[Overshoot](https://medium.com/@CollapseSurvival/overshoot-why-its-already-too-late-to-save-civilization-e834cb4ec694)" by Alan Urban (Everything lasts forever until it doesn't.)
 * "[Reducing the Male Population Will Solve Everything](https://www.vice.com/en/article/5gkkj5/is-reducing-the-male-population-by-90-percent-the-solution-to-all-our-problems)" by Krista Milburn (It actually would.)
+* "[Rich Programmer Food](https://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html)" by Steve Yegge (Experts work at a level hobbyists can't imagine.)
 * "[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611#steveys-google-platforms-rant)" by Steve Yegge (Microsoft's path to world domination.)
 * "[Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)" by Peter Norvig (No royal road to geometry.)
 * "[Welcome to the Ruzzkiy Mir](https://yasha.substack.com/p/welcome-to-the-ruzzkiy-mir)" by Evgenia Kovda (Understanding modern Russia.)
