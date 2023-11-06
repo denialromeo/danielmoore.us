@@ -262,7 +262,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#comic-books}
 **Comic Books**
 
-* [*Buddha*](https://archive.org/details/manga_Buddha-v02) by [Osamu Tezuka](https://en.wikipedia.org/wiki/Osamu_Tezuka) (Existence is a fever dream, and the self is an illusion.)
+* [*Buddha*](https://archive.org/details/manga_Buddha-v01) by [Osamu Tezuka](https://en.wikipedia.org/wiki/Osamu_Tezuka) (Existence is a fever dream, and the self is an illusion.)
 * [*Invincible*](https://getcomics.org/other-comics/invincible-compendium-vol-1-2013-2019/) by [Robert Kirkman](https://en.wikipedia.org/wiki/Robert_Kirkman) (Thrilling visions of U.S.-led, post-racial multilateralism.)
 * [*Sandcastle*](https://www.amazon.com/Sandcastle-new-preface-Original-Fiction-ebook/dp/B097YWJMQF) by [Pierre Oscar Levy](https://fr.wikipedia.org/wiki/Pierre_Oscar_L%C3%A9vy) (Life's a beach and then you die.)
 * [*The Sandman*](https://getcomics.org/dc/the-sandman-1-75-extras/) by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman) (However powerful you become, you're still [mortal](http://comic-academic.00server.com/suspects.html).)
