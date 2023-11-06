@@ -917,7 +917,7 @@ const classical = [
 "Benjamin Britten|A Midsummer Night’s Dream|1960|h2mcN97f-S4|Benjamin Britten|A Midsummer Night's Dream (opera)",
 "Dmitri Shostakovich|String Quartet No. 8|1960|-0nKJoZY64A|Dmitri Shostakovich|String Quartet No. 8 (Shostakovich)",
 "Krzysztof Penderecki|Threnody to the Victims of Hiroshima|1960|Dp3BlFZWJNA|Krzysztof Penderecki|Threnody to the Victims of Hiroshima",
-"Karlheinz Stockhausen|Kontakte|1960|o7JFAAgwMWo|Karlheinz Stockhausen|",
+"Karlheinz Stockhausen|Kontakte|1960|o7JFAAgwMWo|Karlheinz Stockhausen|Kontakte",
 "Bernd Alois Zimmermann|Die Soldaten|1960-1964|dTXLxNIEcJ0|Bernd Alois Zimmermann|Die Soldaten",
 "Elliott Carter|Double Concerto|1961|0tXsJWBZvzc|Elliott Carter|Double Concerto (Carter)",
 "Benjamin Britten|War Requiem|1962|rsSMCq7pl_k|Benjamin Britten|War Requiem",
