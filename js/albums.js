@@ -2937,7 +2937,7 @@ const albums = [
 "Paul Simon|The Rhythm of the Saints|1990|OLAK5uy_nWL-5cWeP1kmvd9mRxVfMeFhBd2WlhCf8|A810|The Rhythm of the Saints|Paul Simon|Pop Rock;Singer/Songwriter;Pop;Rock",
 "M. Ward|Transfiguration of Vincent|2003|OLAK5uy_mnzkk56BbL3912m7j2utV9XM-mOIIkX3I|A4970|Transfiguration of Vincent|M. Ward|Americana;Contemporary Folk;Singer/Songwriter;Country;Folk",
 "Thelonious Monk|Thelonious Himself|1957|PLp1OjP0tJn_Gk2RcTump9aV0ZePjh0Cpu|A2246|Thelonious Himself|Thelonious Monk|Hard Bop;Bebop;Jazz",
-"Mahalia Jackson|Newport 1958|1958|PL6kXdC6F7Wf-4FyD07Gy9ZszNbCm_OT7Y|A2299||Mahalia Jackson|Gospel;American Folk Music;Folk;Regional Music;Traditional Folk Music",
+"Mahalia Jackson|Live at Newport 1958|1958|PL6kXdC6F7Wf-4FyD07Gy9ZszNbCm_OT7Y|A2299||Mahalia Jackson|Gospel;American Folk Music;Folk;Regional Music;Traditional Folk Music",
 "Scorpions|Blackout|1982|OLAK5uy_k2M-UMwZ0dqhFhdjerh4TQErqZw5ZMkn8|A4678|Blackout (Scorpions album)|Scorpions (band)|Hard Rock;Heavy Metal;Metal;Rock",
 "10,000 Maniacs|In My Tribe|1987|OLAK5uy_m1T03mYPbGULtour9P-h80Or3hP4PEAn4|A711|In My Tribe|10,000 Maniacs|Folk Pop;Jangle Pop;Alternative Rock;Contemporary Folk;Folk;Pop;Pop Rock;Rock",
 "Van Halen|Van Halen II|1979|OLAK5uy_lCQpkcSWrZPc82un9oMjOYjbixKna5sXI|A2784|Van Halen II|Van Halen|Hard Rock;Rock",
