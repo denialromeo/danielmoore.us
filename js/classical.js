@@ -120,7 +120,7 @@ const classical = [
 "Joseph Haydn|Symphonies nos. 6-8|1761|58tDranbYg4|Joseph Haydn|",
 "Christoph Willibald Gluck|Orfeo ed Euridice|1762|JUpZ1Npj23M|Christoph Willibald Gluck|Orfeo ed Euridice",
 "Leopold Mozart|Trumpet Concerto|1762|vWMRRfNnErI|Leopold Mozart|Trumpet Concerto (Leopold Mozart)",
-"Joseph Haydn|Cello Concertos|1762-1783|zLhC4tLeT8k|Joseph Haydn|",
+"Joseph Haydn|Cello Concertos|1762-1783|zLhC4tLeT8k|Joseph Haydn|Cello Concerto No. 1 (Haydn)",
 "Wolfgang Amadeus Mozart|Violin Sonatas|1763-1788|-xVbIhCSCS4|Wolfgang Amadeus Mozart|Violin Sonatas, KV 6–9 (Mozart)",
 "Giuseppe Tartini|Violin Sonata in G minor, “The Devil’s Trill”|1765|ZkX8YyA4Wp4|Giuseppe Tartini|",
 "Christoph Willibald Gluck|Alceste|1767|iDFnGqG7qt8|Christoph Willibald Gluck|Alceste (Gluck)",
