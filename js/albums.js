@@ -338,7 +338,7 @@ const albums = [
 "Deep Purple|Machine Head|1972|OLAK5uy_lRyo5Bovh1xLZ3arURBZS8mSAVKgpWYHk|A257|Machine Head (album)|Deep Purple|Hard Rock;Rock",
 "Al Green|Call Me|1973|OLAK5uy_kJO0_N0Sp0VNxMu0Xsgw4q8GTJkfO60ng|A278|Call Me (Al Green album)|Al Green|Southern Soul;R&B;Soul",
 "Fiona Apple|The Idler Wheel...|2012|OLAK5uy_nNu5m7Dlo84sxr3AbMEeIlZtHfDMHX66I|A5191|The Idler Wheel...|Fiona Apple|Art Pop;Singer/Songwriter;Pop",
-"Moby|Play|1999|OLAK5uy_kEKTVkRr2cyrrP2JjTCDlm-duhLAkVIzU|A1069|Play (Moby album)|Moby|Downtempo;Electronic",
+"Moby|Play|1999|PLbfZd8Deo-GqgzGoxUP6kX-G_GGK6qHab|A1069|Play (Moby album)|Moby|Downtempo;Electronic",
 "The Jam|All Mod Cons|1978|PL7sfNRCO58l5nDT4Uxd5HpwG9DZA3-Bmc|A425|All Mod Cons|The Jam|Mod Revival;New Wave;Power Pop;Mod;Pop;Pop Rock;Rock",
 "U2|War|1983|OLAK5uy_kivMCwVrnsTfC5okMt3Y-zON367TTbxCM|A574|War (U2 album)|U2|Alternative Rock;Post-Punk;Rock",
 "Eric Dolphy|Out to Lunch!|1964|OLAK5uy_mFRlTE04kALWL7pySgbbFYxNx6zAzRPuk|A1940|Out to Lunch!|Eric Dolphy|Avant-Garde Jazz;Jazz",
