@@ -1415,7 +1415,7 @@ const albums = [
 "Terence Trent D'Arby|Introducing the Hardline According to Terence Trent D'Arby|1987|OLAK5uy_m7dcWTzJrW8hP280JUXFMLRSFBK37GRWA|A718|Introducing the Hardline According to Terence Trent D'Arby|Terence Trent D'Arby|Contemporary R&B;Soul;R&B",
 "Hawkwind|Space Ritual|1973|OLAK5uy_kCFLJeEuBQmuXIHWYQxX-zjcXtceZe8UY|A2490|Space Ritual|Hawkwind|Space Rock;Psychedelic Rock;Rock",
 "Girls|Father, Son, Holy Ghost|2011|OLAK5uy_kz2ERMiDidoLzF_A5G1mVHy4-mQiBPcaQ|A5148|Father, Son, Holy Ghost (album)|Girls (band)|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
-"Gorillaz|Gorillaz|2001|OLAK5uy_muYdOarbYhS_nNCTsnpv_nA_E3MhmddAM|A1203|Gorillaz (album)|Gorillaz|Trip Hop;Downtempo;Electronic",
+"Gorillaz|Gorillaz|2001|OLAK5uy_lS9o7ixF2EDGtvSbVONrI4QzPuiwR23Qw|A1203|Gorillaz (album)|Gorillaz|Trip Hop;Downtempo;Electronic",
 "Sting|The Dream of the Blue Turtles|1985|OLAK5uy_mfEm2fXGyElgc4cy1i9ZeCzEsTUCGObSU|A649|The Dream of the Blue Turtles|Sting (musician)|Pop Rock;Sophisti-Pop;Pop;Rock",
 "The Decemberists|Picaresque|2005|OLAK5uy_mb8aI4ibZ7nLC-8sT_UpwjQ1wUi7pXq6U|A4160|Picaresque (album)|The Decemberists|Chamber Pop;Indie Folk;Baroque Pop;Contemporary Folk;Folk;Indie Pop;Pop",
 "Sufjan Stevens|The Age of Adz|2010|OLAK5uy_kH7oWoE5afzqOi2DigTTg_HnNoiX2HfRM|A5098|The Age of Adz|Sufjan Stevens|Art Pop;Chamber Pop;Progressive Pop;Baroque Pop;Indie Pop;Pop",
