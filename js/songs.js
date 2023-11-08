@@ -5262,7 +5262,7 @@ const songs = [
 "León Gieco|Sólo le pido a dios|1979|JqRiD6Phm2U|León Gieco|S7236|Folk Rock;Singer/Songwriter;Rock|Sólo le pido a Dios",
 "David Crosby|Laughing|1971|OGkzxJy0lm4|David Crosby|S5978|Folk Pop;Folk Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock|If I Could Only Remember My Name",
 "David Bowie|Panic in Detroit|1973|SKoIPk5Za0A|David Bowie|S10526|Glam Rock;Rock|Panic in Detroit",
-"The Staple Singers|Uncloudy Day|1956|qkfCkW_VkTs|The Staple Singers|S9365|Gospel;American Folk Music;Folk;Regional Music;Traditional Folk Music|",
+"The Staple Singers|Uncloudy Day|1956|t6341dug7iw|The Staple Singers|S9365|Gospel;American Folk Music;Folk;Regional Music;Traditional Folk Music|",
 "Bob Dylan|Maggie's Farm|1965|G8yU8wk67gY|Bob Dylan|S5543|Blues Rock;Folk Rock;Singer/Songwriter;Rock|Maggie's Farm",
 "Filter|Hey Man Nice Shot|1995|o9mJ82x_l-E|Filter (band)|S10808|Alternative Rock;Industrial Rock;Industrial Music;Rock|Hey Man Nice Shot",
 "Perry Como|Till the End of Time|1945|KFXA_-2cIYU|Perry Como|S7933|Traditional Pop;Pop|Till the End of Time (song)",
