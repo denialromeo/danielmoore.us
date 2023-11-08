@@ -406,12 +406,10 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/walking-dead2/walking_dead.jpg"/></a><figcaption itemprop="caption description"><p><i>The Walking Dead</i> by Robert Kirkman</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead2.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead2.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead3.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead3.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead4.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead4.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead7.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead7.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead5.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead5.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/01.jpg" itemprop="contentUrl" data-size="1987x3056"><img style="border: 1px solid black;" src="/assets/img/comics/boys/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Boys</i> by Garth Ennis</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/02.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/03.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/04.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/04.jpg"/></a></figcaption></figure>
 </div>
 
 <div id="clear"></div>
@@ -448,11 +446,12 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="clear"></div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/swamp-thing/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Swamp Thing</i> by Alan Moore</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/02.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/03.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/04.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/04.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/05.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/05.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/walking-dead2/walking_dead.jpg"/></a><figcaption itemprop="caption description"><p><i>The Walking Dead</i> by Robert Kirkman</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead2.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead2.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead3.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead3.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead4.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead4.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead7.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead7.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead5.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead5.jpg"/></a></figcaption></figure>
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
@@ -486,15 +485,6 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/01.jpg" itemprop="contentUrl" data-size="1987x3056"><img style="border: 1px solid black;" src="/assets/img/comics/boys/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Boys</i> by Garth Ennis</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/02.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/03.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/04.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/04.jpg"/></a></figcaption></figure>
-</div>
-
-<div id="clear"></div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman.jpg" itemprop="contentUrl" data-size="1920x2894"><img style="border: 1px solid black;" src="/assets/img/comics/showcase/sandman.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman2.5.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/showcase/sandman2.5.jpg"/></a><p></p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman2.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/showcase/sandman2.jpg"/></a><p></p></figcaption></figure>
@@ -514,6 +504,16 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman10.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/showcase/sandman10.jpg"/></a><p></p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman12.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/showcase/sandman12.jpg"/></a><p></p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman15.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/showcase/sandman12.jpg"/></a><p></p></figcaption></figure>
+</div>
+
+<div id="clear"></div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/swamp-thing/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Swamp Thing</i> by Alan Moore</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/02.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/03.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/04.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/04.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/05.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/05.jpg"/></a></figcaption></figure>
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
