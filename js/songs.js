@@ -3918,7 +3918,7 @@ const songs = [
 "Leonard Cohen|Sisters of Mercy|1968|VT9k5NHCdvQ|Leonard Cohen|S7238|Contemporary Folk;Singer/Songwriter;Folk|Songs of Leonard Cohen",
 "Caroline Polachek|So Hot You’re Hurting My Feelings|2019|sn3cHUtNZKo|Caroline Polachek|S16754|Synthpop;Electronic;Pop|So Hot You're Hurting My Feelings",
 "A Tribe Called Quest|Electric Relaxation|1993|WHRnvjCkTsw|A Tribe Called Quest|S9905|East Coast Hip Hop;Jazz Rap;Hip Hop|",
-"Vitalic|My Friend Dario|2005|NOtmWxqN1fY|Vitalic|S9053|Electroclash;Dance;Electronic;Electronic Dance Music|",
+"Vitalic|My Friend Dario|2005|NOtmWxqN1fY|Vitalic|S9053|Electroclash;Dance;Electronic;Electronic Dance Music|My Friend Dario",
 "Bruce Springsteen|State Trooper|1982|wpvXfLlcHwc|Bruce Springsteen|S4272|Americana;Contemporary Folk;Singer/Songwriter;Country;Folk|Nebraska (album)",
 "Sloan|Money City Maniacs|1998|bCTZB0eGD54|Sloan (band)|S8456|Power Pop;Pop;Pop Rock;Rock|Money City Maniacs",
 "Louis Armstrong|(What Did I Do to Be So) Black and Blue|1929|2LDPUfbXRLM|Louis Armstrong|S11484|Vocal Jazz;Jazz|",
