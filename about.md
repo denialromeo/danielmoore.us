@@ -45,7 +45,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="political-views" href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
-    <p>Trends of interest to me include the ceding of U.S. global influence to China, a world population that has more than doubled over the past 50 years, and record-breaking temperatures every summer.</p>
+    <p>Trends which interest me include the ceding of U.S. global influence to China, the doubling of the world population over the past 50 years, and record-breaking temperatures every summer.</p>
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
