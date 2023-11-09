@@ -278,7 +278,7 @@ const albums = [
 "Roxy Music|Roxy Music|1972|OLAK5uy_m5vZOIyTyPnIf8SHpXGDTKkN32m6i46JQ|A249|Roxy Music (album)|Roxy Music|Art Rock;Glam Rock;Rock",
 "Weezer|The Blue Album|1994|OLAK5uy_kbgBewntTJ9MVzxPA3RZKgI_CVs8tgQ3k|A930|Weezer (Blue Album)|Weezer|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
 "The Police|Synchronicity|1983|OLAK5uy_nhJjsyfDKdb9Yeacs52DRCuIvKJ2eVC_I|A573|Synchronicity (The Police album)|The Police|New Wave;Pop Rock;Pop;Rock",
-"Lana Del Rey|Norman Fucking Rockwell!|2019|OLAK5uy_kq_gJdWJ9LUwgYzXMWeocvSyee4OqsvOQ|A6289|Norman Fucking Rockwell!|Lana Del Rey|Art Pop;Singer/Songwriter;Pop",
+"Lana Del Rey|Norman Fucking Rockwell!|2019|PL1X3qTzT40VnXRv6McmNVVVcXEvlcmhSL|A6289|Norman Fucking Rockwell!|Lana Del Rey|Art Pop;Singer/Songwriter;Pop",
 "Bon Iver|Bon Iver, Bon Iver|2011|OLAK5uy_m27gLAQM7M27aJfvZt-IWtbgE5jK3xfKo|A5131|Bon Iver (album)|Bon Iver|Art Pop;Indie Folk;Contemporary Folk;Folk;Pop",
 "Parliament|Mothership Connection|1975|OLAK5uy_k5BKg6aR7SkE69hOjKtbSTVMLYr-6AftU|A344|Mothership Connection|Parliament (band)|P-Funk;Funk;R&B",
 "Talking Heads|Fear of Music|1979|OLAK5uy_lgik5ng6XF3i-0uW4egzHLjZKg5doISjw|A456|Fear of Music|Talking Heads|New Wave;Post-Punk;Rock",
