@@ -441,7 +441,7 @@ const classical = [
 "César Franck|Prélude, choral et fugue|1884|rbCwkXP2oTI|César Franck|",
 "Johannes Brahms|Symphony No. 4|1885|7QLuYj2jxoc|Johannes Brahms|Symphony No. 4 (Brahms)",
 "Antonín Dvořák|Symphony No. 7|1885|YwD7JcpRe0w|Antonín Dvořák|Symphony No. 7 (Dvořák)",
-"César Franck|Symphonic Variations|1885|_XrWnggqboM|César Franck|",
+"César Franck|Symphonic Variations|1885|_XrWnggqboM|César Franck|Symphonic Variations (Franck)",
 "Gustav Mahler|Lieder eines fahrenden Gesellen|1885|RxmGLjumt7Q|Gustav Mahler|Lieder eines fahrenden Gesellen",
 "Johann Strauss II|Der Zigeunerbaron|1885|Y_zXtZSTaVY|Johann Strauss II|",
 "Pyotr Ilyich Tchaikovsky|Manfred Symphony|1885|S6Mn1UjggBY|Pyotr Ilyich Tchaikovsky|Manfred Symphony",
