@@ -981,7 +981,7 @@ const classical = [
 "Philip Glass|Violin Concerto|1987|5lGNtPXcA04|Philip Glass|Violin Concerto No. 1 (Glass)",
 "John Adams|Nixon in China|1987|G72JjpMEdKs|John Adams|Nixon in China",
 "John Tavener|The Protecting Veil|1987|xT0MF4XNjkA|John Tavener|The Protecting Veil",
-"Louis Andriessen|De Materie|1988|is_70pNy2l4|Louis Andriessen|",
+"Louis Andriessen|De Materie|1988|is_70pNy2l4|Louis Andriessen|De Materie",
 "Ross Edwards|Maninyas|1988|Kip8rQX0_BY|Ross Edwards (composer)|",
 "Steve Reich|Different Trains|1988|qcGqVynCPaw|Steve Reich|",
 "Mark-Anthony Turnage|Three Screaming Popes|1989|eiGo37janfU|Mark-Anthony Turnage|",
