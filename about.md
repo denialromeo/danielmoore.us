@@ -45,7 +45,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="political-views" href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
-    <p>I'm ecstatic with my personal life and optimistic about my future prospects. But I'm pessimistic about the world generally. I often feel like I'm receiving good news while attending a funeral.</p>
     <p>Trends which interest me include the ceding of U.S. global influence to China, the doubling of the world population over the past 50 years, and record-breaking temperatures every summer.</p>
     <p>Historical statements I believe &ndash;</p>
     <ul>
