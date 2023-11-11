@@ -239,7 +239,7 @@ const classical = [
 "Ludwig van Beethoven|Late String Quartets|1825-1826|FUob2dcQTWA|Ludwig van Beethoven|Late string quartets (Beethoven)",
 "Felix Mendelssohn|Octet|1825|Vw1kcQ-QbZw|Felix Mendelssohn|Octet (Mendelssohn)",
 "Felix Mendelssohn|Songs Without Words|1825-1845|nFOPeI2gPaM|Felix Mendelssohn|Songs Without Words",
-"Franz Schubert|Piano Sonata in D major, D. 850|1825|gguHcUWUVOE|Franz Schubert|",
+"Franz Schubert|Piano Sonata in D major, D. 850|1825|gguHcUWUVOE|Franz Schubert|Piano Sonata in D major, D 850 (Schubert)",
 "Gioachino Rossini|Il viaggio a Reims|1825|VKQCAIs7ClA|Gioachino Rossini|Il viaggio a Reims",
 "Franz Schubert|String Quartet in G major, D. 887|1826|iaL-kLYxDIw|Franz Schubert|String Quartet No. 15 (Schubert)",
 "Felix Mendelssohn|A Midsummer Night’s Dream|1826|SEkcP8lZvZA|Felix Mendelssohn|A Midsummer Night's Dream (Mendelssohn)",
