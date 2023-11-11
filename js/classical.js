@@ -208,7 +208,7 @@ const classical = [
 "Ludwig van Beethoven|Symphony No. 8|1812|gCkndZBnMLw|Ludwig van Beethoven|Symphony No. 8 (Beethoven)",
 "Carl Lowe|Ballads|1812-1862|-U6xOEKyjSI|Carl Loewe|",
 "Gioachino Rossini|Tancredi|1813|aIhjHLw5ZCY|Gioachino Rossini|Tancredi",
-"Gioachino Rossini|L’italiana in Algeri|1813|b9YmR5zFyLE|Gioachino Rossini|",
+"Gioachino Rossini|L’italiana in Algeri|1813|b9YmR5zFyLE|Gioachino Rossini|L'italiana in Algeri",
 "Louis Spohr|Nonet in F major|1813|StIxuL01mj0|Louis Spohr|",
 "Ludwig van Beethoven|Fidelio|1814|sm7hGCSkhTE|Ludwig van Beethoven|Fidelio",
 "Franz Schubert|Lieder|1814-1828|fYiw37hpZtY|Franz Schubert|",
