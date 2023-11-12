@@ -50,18 +50,18 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Mark Zuckerberg, Donald Trump, Barack Obama, Joe Biden, Benjamin Netanyahu, and Satya Nadella.</li>
-        <li>Others in the late 20th include Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Ho&nbsp;Chi Minh, Ruhollah Khomeini, Qian&nbsp;Xuesen, Julius Rosenberg, and Norman Borlaug.</li>
+        <li>Others in the late 20th were Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Ho&nbsp;Chi Minh, Ruhollah Khomeini, Qian&nbsp;Xuesen, Julius Rosenberg, and Norman Borlaug.</li>
     </ul>
     <p>Looking back a bit further (still in progress) &ndash;</p>
     <ul>
         <li>The early 20th century's most influential people were Vladimir Lenin, Sun Yat-Sen, Wilhelm II, Fritz Haber, Adolf Hitler, Albert Einstein, Woodrow Wilson, and Franklin Roosevelt.</li>
-        <li>The late 19th century's most influential people included Victoria I, Ci Xi, Abraham Lincoln, Charles Darwin, Karl Marx, Nathaniel Rothschild, and Otto von Bismarck.</li>
-        <li>Others in the early 20th include Leon Trotsky, the Wright Brothers, and Henry Ford.</li>
-        <li>Others in the late 19th include Carl Benz, Nikola Tesla, and Thomas Edison.</li>
+        <li>The late 19th century's most influential people were Victoria I, Nathaniel Rothschild, Ci Xi, James Broun-Ramsey, Abraham Lincoln, Charles Darwin, Karl Marx, and Otto von Bismarck.</li>
+        <li>Others in the early 20th were Leon Trotsky, Mohandas Gandhi, Henry Ford, Philo Farnsworth, and the Wright Brothers.</li>
+        <li>Others in the late 19th were Carl Benz, Nikola Tesla, and Thomas Edison.</li>
     </ul>
     <p>Even further (still in progress) &ndash;</p>
     <ul>
-        <li>In the early 19th &ndash; Napoleon Bonaparte, Toussaint Louverture, and Samuel Morse.</li>
+        <li>In the early 19th &ndash; Napoleon Bonaparte, Toussaint Louverture, Michael Faraday, and Samuel Morse.</li>
         <li>The 18th century's most influential people included Thomas Newcomen, Robert Clive, Maximilien Robespierre, and George Washington.</li>
     </ul>
 </div>
