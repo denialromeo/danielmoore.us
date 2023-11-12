@@ -55,7 +55,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>Looking back a bit further (still in progress) &ndash;</p>
     <ul>
         <li>The early 20th century's most influential people were Vladimir Lenin, Sun Yat-Sen, Wilhelm II, Fritz Haber, Adolf Hitler, Albert Einstein, Woodrow Wilson, and Franklin Roosevelt.</li>
-        <li>The late 19th century's most influential people were Victoria I, Nathaniel Rothschild, Ci Xi, James Broun-Ramsey, Abraham Lincoln, Charles Darwin, Karl Marx, and Otto von Bismarck.</li>
+        <li>The late 19th century's most influential people were Victoria I, Nathaniel Rothschild, Ci Xi, James Broun-Ramsey, Abraham Lincoln, Otto von Bismarck, Charles Darwin, and Karl Marx.</li>
         <li>Others in the early 20th were Leon Trotsky, Mohandas Gandhi, Henry Ford, Philo Farnsworth, and the Wright Brothers.</li>
         <li>Others in the late 19th were Carl Benz, Nikola Tesla, and Thomas Edison.</li>
     </ul>
