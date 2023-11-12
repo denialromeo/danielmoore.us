@@ -1848,7 +1848,7 @@ const albums = [
 "Creedence Clearwater Revival|Bayou Country|1969|PLtzV2248lUVVqp5UBMu-Z2NOcMVaIx2CU|A1229|Bayou Country (album)|Creedence Clearwater Revival|Swamp Rock;Rock;Roots Rock",
 "David Holmes|Let's Get Killed|1997|OLAK5uy_nmUBau28r9B14_MDTXDUnmDpAJhPneTLA|A1618|Let's Get Killed|David Holmes (musician)|Breakbeat;Trip Hop;Dance;Downtempo;Electronic;Electronic Dance Music",
 "Jimmy Smith|The Sermon!|1959|PLEyxWPyoryRKs2mYeDOEoX6Gf4XuLqUXC|A1853|The Sermon (Jimmy Smith album)|Jimmy Smith (musician)|Soul Jazz;Jazz",
-"Giorgio Moroder|From Here to Eternity|1977|OLAK5uy_n2a42UBMJ1uyQn6TvOEqnTBZts-yiFc5Y|A2683|From Here to Eternity (Giorgio Moroder album)|Giorgio Moroder|Italo-Disco;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music",
+"Giorgio Moroder|From Here to Eternity|1977|PL5ec5S7s3oLAFXTJRAU1N7M4fBYi6od71|A2683|From Here to Eternity (Giorgio Moroder album)|Giorgio Moroder|Italo-Disco;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music",
 "Philip Glass|Koyaanisqatsi|1983|OLAK5uy_mDCT4_Ky0CAnSs7AexWupMqE4qQRsnc7s|A2207|Koyaanisqatsi|Philip Glass|Film Score;Minimalism;Classical Music;Descriptor;Film Soundtrack;Modern Classical;Soundtracks",
 "Beth Orton|Central Reservation|1999|OLAK5uy_k0EHZkg24DrZ82JMmrhZigTxLm60Wp3cU|A1063|Central Reservation (album)|Beth Orton|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop",
 "Augustus Pablo|East of the River Nile|1977|OLAK5uy_nx2PA49g9aAZ3Yo7gTj_KP2-K4calXqyo|A1164|East of the River Nile|Augustus Pablo|Reggae;Caribbean Music;Jamaican Music;Regional Music",
