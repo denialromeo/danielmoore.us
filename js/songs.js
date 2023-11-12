@@ -9282,7 +9282,7 @@ const songs = [
 "Ramones|I Wanna Be Your Boyfriend|1976|6q_mHFfOMWE|Ramones|S12022|Pop Punk;Punk Rock;Rock|I Wanna Be Your Boyfriend",
 "Sting|If I Ever Lose My Faith in You|1993|7km4EHgkQiw|Sting (musician)|S3856|Pop Rock;Sophisti-Pop;Pop;Rock|If I Ever Lose My Faith in You",
 "Czerkinsky|Natacha|1998|2Y92q8rh5kk|https://fr.wikipedia.org/wiki/Gr%C3%A9gori_Czerkinsky|S5936|French Pop;Synthpop;Electronic;Pop|",
-"Roberto Vecchioni|Luci a San Siro|1971|xHciCj8pi8s|Roberto Vecchioni|S13618|Canzone d'autore;Contemporary Folk;Folk;Singer/Songwriter|",
+"Roberto Vecchioni|Luci a San Siro|1971|xHciCj8pi8s|Roberto Vecchioni|S13618|Canzone d'autore;Contemporary Folk;Folk;Singer/Songwriter|https://it.wikipedia.org/wiki/Luci_a_San_Siro",
 "Barbara|Le Mal de vivre|1965|huvNyRKMaO0?start=3|Barbara (singer)|S13390|Chanson;Regional Music|Göttingen (song)",
 "Bing Crosby|Dancing in the Dark|1931|48i0wpuyiHo|Bing Crosby|S9150|Standards;Pop;Traditional Pop|",
 "Queen|Love of My Life|1975|sUJkCXE4sAA?start=5|Queen (band)|S14907|Art Pop;Piano Rock;Pop;Pop Rock;Rock|Love of My Life (Queen song)",
