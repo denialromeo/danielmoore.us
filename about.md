@@ -61,7 +61,7 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
     <p>Even further (still in progress) &ndash;</p>
     <ul>
-        <li>In the early 19th &ndash; Napoleon Bonaparte, Toussaint Louverture, Michael Faraday, and Samuel Morse.</li>
+        <li>The early 19th century's most influential people included Napoleon Bonaparte, Toussaint Louverture, Michael Faraday, and Samuel Morse.</li>
         <li>The 18th century's most influential people included Thomas Newcomen, Robert Clive, Maximilien Robespierre, and George Washington.</li>
     </ul>
 </div>
