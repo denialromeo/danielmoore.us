@@ -2742,7 +2742,7 @@ const songs = [
 "Louis Jordan|Saturday Night Fish Fry|1949|FCkFrff__QE|Louis Jordan|S3529|Jump-Blues;New Orleans R&B;Blues;R&B|Saturday Night Fish Fry",
 "Interpol|Slow Hands|2004|UroPqMsr3UU|Interpol (band)|S2455|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Slow Hands (Interpol song)",
 "Commodores|Nightshift|1984|FrkEDe6Ljqs|Commodores|S406|Pop Soul;Smooth Soul;Pop;R&B;Soul|Nightshift (song)",
-"Phoenix|Everything Is Everything|2004|TFVeSefg72U|Phoenix (band)|S2476|Indie Pop;Pop|Everything Is Awesome",
+"Phoenix|Everything Is Everything|2004|TFVeSefg72U|Phoenix (band)|S2476|Indie Pop;Pop|Everything Is Everything (Phoenix song)",
 "Public Enemy|911 Is a Joke|1990|tsHcLIxg8KA|Public Enemy (band)|S2014|East Coast Hip Hop;Hardcore Hip Hop;Political Hip Hop;Hip Hop|911 Is a Joke",
 "Purity Ring|Fineshrine|2012|Xqw4wo8vdY8|Purity Ring (band)|S5034|Indietronica;Synthpop;Witch House;Electronic;Pop|",
 "Bobby Darin|Dream Lover|1959|QzkECdHu1dQ?start=43|Bobby Darin|S1197|Brill Building;Rock & Roll;Teen Pop;Pop;Rock|Dream Lover",
