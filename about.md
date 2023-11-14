@@ -63,6 +63,10 @@ I hope you have a good time here. Thanks for dropping by.
         <li>The early 19th century's most influential people included Napoleon Bonaparte, Toussaint Louverture, Michael Faraday, and Samuel Morse.</li>
         <li>The 18th century's most influential people included Thomas Newcomen, Robert Clive, Maximilien Robespierre, and George Washington.</li>
     </ul>
+    <p>Some more contemporary observations &ndash;</p>
+    <ul>
+    <li><p>If artificial intelligence as it exists today (GPT-4) is properly utilized, it will automate the majority of white-collar jobs. "Service-based" economies may not make sense any more.</p><p>In software, salaries have been plummeting (previously entry-level jobs now ask for 5+ years of experience), and I don't think they'll recover. Social mobility may now be a thing of the past.</p><p>Implications of this for developing countries, women's empowerment, and social safety nets will be profound. Society may have peaked in 2019.</p></li>
+    </ul>
 </div>
 
 # Favorite
