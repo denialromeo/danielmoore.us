@@ -18,7 +18,7 @@ I hope you have a good time here. Thanks for dropping by.
 <div class="gallery my-gallery" data-pswp-uid="certs" itemscope itemtype="http://schema.org/ImageGallery">
     <figure style="padding-right:1%" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="{{site.img_dir}}qyrIWUJ.png" itemprop="contentUrl" data-size="918x711">
-          <img style="border: 1px solid black;" src="{{site.img_dir}}qyrIWUJ.png" />
+          <img style="border: 1px solid black;" src="{{site.img_dir}}qyrIWUJ.png" title=""/>
       </a>
       <figcaption itemprop="caption description">
       </figcaption>
@@ -65,7 +65,7 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
     <p>Some more contemporary observations &ndash;</p>
     <ul>
-    <li><p>If artificial intelligence as it exists today (GPT-4) is properly utilized, it will automate the majority of white-collar jobs. "Service-based" economies may not make sense any more.</p><p>Implications of this for developing countries, women's empowerment, and social safety nets will be profound. Society may have peaked in 2019.</p></li>
+    <li><p>If artificial intelligence as it exists today (GPT-4) is properly utilized, it will automate the majority of white-collar jobs. "Service-based" economies may not make sense any more.</p><p>Implications of this for developing countries, women's empowerment, and social safety nets will be profound. Society may have peaked in 2019. What will people even do in 2030?</p></li>
     </ul>
 </div>
 
