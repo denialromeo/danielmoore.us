@@ -9997,7 +9997,7 @@ const songs = [
 "Jorja Smith X Preditah|On My Mind|2017|PA5uuBCtZ5k|Jorja Smith|S16404|2-Step;Contemporary R&B;Dance;Electronic;Electronic Dance Music;R&B;UK Garage|",
 "Grizzly Bear|Mourning Sound|2017|BDQ7KgvwfaQ|Grizzly Bear (band)|S16390|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|",
 "SBTRKT|NEW DORP. NEW YORK|2014|gs0xe9DQEPc|Sbtrkt|S9664|UK Bass;Dance;Electronic;Electronic Dance Music;UK Garage|",
-"Damon Albarn|Everyday Robots|2014|rjbiUj-FD-o|Damon Albarn|S9644|Art Pop;Downtempo;Glitch Pop;Electronic;Pop|",
+"Damon Albarn|Everyday Robots|2014|rjbiUj-FD-o|Damon Albarn|S9644|Art Pop;Downtempo;Glitch Pop;Electronic;Pop|Everyday Robots (song)",
 "Alex Cameron feat. Angel Olsen|Stranger's Kiss|2017|L4C-Lw-YaWg|Alex Cameron (musician)|S16323|Soft Rock;Pop;Pop Rock;Rock|Gay anthem",
 "The Black Keys|Gold on the Ceiling|2011|6yCIDkFI7ew|The Black Keys|S15302|Blues Rock;Garage Rock;Rock|",
 "Antônio Carlos Jobim|Desafinado|1958|tCMhuN3053o|Antônio Carlos Jobim|S3066|Bossa Nova;Brazilian Music;Regional Music|",
