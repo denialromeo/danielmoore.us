@@ -65,7 +65,7 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
     <p>Some more contemporary observations &ndash;</p>
     <ul>
-    <li><p>If artificial intelligence as it exists today (GPT-4) is properly utilized, it will automate the majority of white-collar jobs. "Service-based" economies may not make sense any more.</p><p>Implications of this for developing countries, women's empowerment, and social safety nets will be profound. What will people even do in 2030?</p></li>
+    <li><p>If artificial intelligence as it exists today (GPT-4) is properly utilized, it will automate the majority of white-collar jobs. "Service-based" economies may not make sense any more.</p><p>Implications of this for developing countries, women's empowerment, and social safety nets will be profound. What will most people even do in 2030?</p></li>
     </ul>
 </div>
 
