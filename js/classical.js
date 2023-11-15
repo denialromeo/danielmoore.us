@@ -909,7 +909,7 @@ const classical = [
 "Igor Stravinsky|Agon|1957|Ud8zVcHPnuM|Igor Stravinsky|Agon (ballet)",
 "Dmitri Shostakovich|Symphony No. 11, “The Year 1905”|1957|RGyQkm0fFnY|Dmitri Shostakovich|Symphony No. 11 (Shostakovich)",
 "Michael Tippett|Symphony No. 2|1957|pNwRVL-rZFc|Michael Tippett|Symphony No. 2 (Tippett)",
-"Olivier Messiaen|Catalogue d’oiseaux|1958|G6Izpdkjrhk|Olivier Messiaen|",
+"Olivier Messiaen|Catalogue d’oiseaux|1958|G6Izpdkjrhk|Olivier Messiaen|Catalogue d'oiseaux",
 "Luciano Berio|Sequenzas|1958-2002|ZfEM3iiPSPo|Luciano Berio|Sequenza",
 "Hanns Eisler|Deutsche Sinfonie|1959|jgW_F3hT34Q|Hanns Eisler|",
 "Francis Poulenc|La voix humaine|1959|M2V85r8S_B4|Francis Poulenc|La voix humaine",
