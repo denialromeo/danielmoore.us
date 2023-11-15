@@ -5398,7 +5398,7 @@ const songs = [
 "En Vogue|Hold On|1990|liT8cILFAV4|En Vogue|S2929|Contemporary R&B;R&B|Hold On (En Vogue song)",
 "John Lee Hooker|The Healer|1989|Xox9J0FNjZ8|John Lee Hooker|S6951|Blues|",
 "Beastie Boys|It's the New Style|1986|QbGnU96ByYQ|Beastie Boys|S1954|East Coast Hip Hop;Experimental Hip Hop;Hip Hop|The New Style (song)",
-"Rob Doughan|Clubbed to Death|1995|OwGuSPXPyX4|Rob Dougan|S5842|Trip Hop;Downtempo;Electronic|",
+"Rob Doughan|Clubbed to Death|1995|OwGuSPXPyX4|Rob Dougan|S5842|Trip Hop;Downtempo;Electronic|Clubbed to Death (instrumental)",
 "Gustavo Cerati|Puente|1999|mhwkM8zp_ww|Gustavo Cerati|S10997|Alternative Rock;Neo-Psychedelia;Psychedelic Rock;Rock|",
 "Beck|Tropicalia|1998|_L16J4Sk944|Beck|S2961|Indie Pop;Pop|Tropicalia (song)",
 "Nick Drake|Hazey Jane II|1970|512dfE03-DI|Nick Drake|S3357|British Folk Rock;Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk;Folk Rock;Rock|The Endless Coloured Ways: The Songs of Nick Drake",
