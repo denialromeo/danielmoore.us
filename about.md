@@ -45,6 +45,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="political-views" href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
+    <p>I'm broadly happy with the direction the U.S. is going, and look forward to many more years here.</p>
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
@@ -62,10 +63,6 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li>The early 19th century's most influential people included Napoleon Bonaparte, Toussaint Louverture, Michael Faraday, and Samuel Morse.</li>
         <li>The 18th century's most influential people included Thomas Newcomen, Robert Clive, Maximilien Robespierre, and George Washington.</li>
-    </ul>
-    <p>Some more contemporary observations &ndash;</p>
-    <ul>
-    <li><p>If artificial intelligence as it exists today (GPT-4) is properly utilized, it will automate the majority of white-collar jobs. "Service-based" economies may not make sense any more.</p><p>Implications of this for developing countries, women's empowerment, and social safety nets will be profound. What will most people even do in 2030?</p></li>
     </ul>
 </div>
 
