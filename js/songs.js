@@ -408,7 +408,7 @@ const songs = [
 "The Beatles|Norwegian Wood (This Bird Has Flown)|1965|Y_V6y1ZCg_8|The Beatles|S2496|Folk Pop;Psychedelic Folk;Contemporary Folk;Folk;Pop|Norwegian Wood (This Bird Has Flown)",
 "Cyndi Lauper|Girls Just Want to Have Fun|1983|PIb6AZdTr-A|Cyndi Lauper|S466|Dance-Pop;Dance;Pop|Girls Just Want to Have Fun",
 "The Monkees|I'm a Believer|1966|gv2MLlZKarM|The Monkees|S986|Pop Rock;Sunshine Pop;Pop;Rock|I'm a Believer",
-"Gloria Gaynor|I Will Survive|1978|FHhZPp08s74|Gloria Gaynor|S599|Disco;Pop Soul;Dance;Pop;R&B;Soul|I Will Survive",
+"Gloria Gaynor|I Will Survive|1978|6dYWe1c3OyU|Gloria Gaynor|S599|Disco;Pop Soul;Dance;Pop;R&B;Soul|I Will Survive",
 "Pink Floyd|Another Brick in the Wall, Part 2|1979|HrxX9TBj2zY|Pink Floyd|S586|Art Rock;Rock|",
 "The Police|Roxanne|1978|3T1c7GkzRQQ|The Police|S620|New Wave;Pop Rock;Pop;Rock|Roxanne (The Police song)",
 "John Coltrane|A Love Supreme, Part 1: Acknowledgement|1965|fth9UUa1Mfw|John Coltrane|S2824|Spiritual Jazz;Avant-Garde Jazz;Jazz|",
