@@ -888,7 +888,7 @@ const albums = [
 "The Weeknd|House of Balloons/Trilogy|2011|PLks3NpQP6i_bTGNnxONBNi0TbwMR9VYbo|A5180|Trilogy (The Weeknd album)|The Weeknd|Alternative R&B;Contemporary R&B;R&B",
 "Grandaddy|The Sophtware Slump|2000|OLAK5uy_m4Lt-3lsotfdhRWa6KQKde6X8_erfM9ko|A1096|The Sophtware Slump|Grandaddy|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
 "Horace Silver|Song for My Father|1965|OLAK5uy_maEHDCvs9peIT7Q_zHyBbUvs8i0bYvqX0|A1950|Song for My Father (album)|Horace Silver|Hard Bop;Bebop;Jazz",
-"R.E.M.|Green|1988|OLAK5uy_k_bcT_WWI7YHZlm0G2ypv8obTGaTHqHjY|A726|Green (R.E.M. album)|R.E.M.|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
+"R.E.M.|Green|1988|PL6vwnon3sINofVWeA0zauiMFmvWMU_Mzx|A726|Green (R.E.M. album)|R.E.M.|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Beach House|Bloom|2012|PLbOGt8cOph4WvcJWPeG6R6VULYD_GfW_P|A5194|Bloom (Beach House album)|Beach House|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock",
 "Foo Fighters|Foo Fighters|1995|OLAK5uy_k2BVAy-41IEGyXZ6vayuM5_nfWMGWNy-s|A939|Foo Fighters (album)|Foo Fighters|Post-Grunge;Alternative Rock;Rock",
 "Fleetwood Mac|Fleetwood Mac|1975|OLAK5uy_nwDFwqAkFydjQ1xXxAFQ2-avbkjBDNGVU|A354|Fleetwood Mac (1975 album)|Fleetwood Mac|Pop Rock;Pop;Rock",
