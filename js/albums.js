@@ -1465,7 +1465,7 @@ const albums = [
 "Big Boi|Sir Lucious Left Foot: The Son of Chico Dusty|2010|OLAK5uy_ldhBBvzUqxvtGM1zlbMT2v5Bp9BumgZO0|A5058|Sir Lucious Left Foot: The Son of Chico Dusty|Big Boi|Hip Hop",
 "Kaytranada|99.9%|2016|OLAK5uy_lH2xUVNwi41nO_YeXVWSkTcejBwDN2MdE|A5756|99.9%|Kaytranada|Alternative R&B;Funky House;Contemporary R&B;Dance;Electronic;Electronic Dance Music;House;R&B",
 "Miles Davis|Miles Smiles|1967|OLAK5uy_luFDMs_TwkeKLWllMW0uSm1TtdRLyw1Us|A1967|Miles Smiles|Miles Davis|Modal Jazz;Post-Bop;Bebop;Jazz",
-"The Only Ones|The Only Ones|1978|OLAK5uy_nPPShvL_pGY2t9pO3bdstwY6Poivn1fPk|A2731|The Only Ones (album)|The Only Ones|New Wave;Power Pop;Pop;Pop Rock;Rock",
+"The Only Ones|The Only Ones|1978|OLAK5uy_m5ZkUsBmLn7xhkQJB0d-QHmFxK5ONVPXY|A2731|The Only Ones (album)|The Only Ones|New Wave;Power Pop;Pop;Pop Rock;Rock",
 "Father John Misty|Pure Comedy|2017|OLAK5uy_k8nwYczCfvoLONasXdWJtemaws_UiYWX4|A5891|Pure Comedy|Josh Tillman|Chamber Pop;Piano Rock;Singer/Songwriter;Baroque Pop;Indie Pop;Pop;Pop Rock;Rock",
 "The Clash|Give 'em Enough Rope|1978|OLAK5uy_kFfgbbjsC3dPyEQM8Ol0Tcgu7S1YJWZu4|A430|Give 'Em Enough Rope|The Clash|Punk Rock;Rock",
 "Devendra Banhart|Rejoicing in the Hands|2004|OLAK5uy_krXX-MQ6korCYLNOi_pdzD4tjosFR5zQ8|A4053|Rejoicing in the Hands|Devendra Banhart|Contemporary Folk;Singer/Songwriter;Folk",
