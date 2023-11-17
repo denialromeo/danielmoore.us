@@ -2481,7 +2481,7 @@ const albums = [
 "Townes Van Zandt|The Late Great Townes Van Zandt|1972|OLAK5uy_k4xWNTyZmd8qxSSJsl4-XByAs5iUY4Ucs|A2441|Townes Van Zandt (album)|Townes Van Zandt|Country;Singer/Songwriter",
 "Lyle Lovett|Pontiac|1988|OLAK5uy_lMkoNjfRhk4f3rNWXDJPPYt1_y9EpUteo|A1529|Pontiac (album)|Lyle Lovett|Alt-Country;Country",
 "Robyn Hitchcock|I Often Dream of Trains|1984|OLAK5uy_nkOwl-6E7sHo0WWFocmvlVsETVkm3W0mk|A3014|I Often Dream of Trains|Robyn Hitchcock|Psychedelic Folk;Singer/Songwriter;Contemporary Folk;Folk",
-"Grinderman|Grinderman|2007|OLAK5uy_n8hgQzwkCQbX854TK6o5EhNMaSUqzcmi8|A4253|Grinderman (album)|Grinderman|Blues Rock;Punk Blues;Punk Rock;Rock",
+"Grinderman|Grinderman|2007|https://www.youtube.com/embed/uSLDLznMz5U|A4253|Grinderman (album)|Grinderman|Blues Rock;Punk Blues;Punk Rock;Rock",
 "Bark Psychosis|Hex|1994|OLAK5uy_nnvAUvH77l8jlY2dkD_w1hQ0qWjEMzzhc|A2951|Hex (Bark Psychosis album)|Bark Psychosis|Post-Rock;Rock",
 "Weezer|The Green Album|2001|OLAK5uy_lKV1rkLhOS0Z-ny-ywvmIAdRWtXojqsyA|A1205|Weezer (Green Album)|Weezer|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
 "The Hotelier|Home, Like Noplace is There|2014|OLAK5uy_nvt6iZM6sZT17hpihSCQwIJXD0wPQ0Cyw|A5494|Home, Like Noplace Is There|The Hotelier|Emo;Pop Punk;Punk Rock;Rock",
