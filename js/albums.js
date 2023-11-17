@@ -1590,7 +1590,7 @@ const albums = [
 "Bob Seger & The Silver Bullet Band|'Live' Bullet|1976|OLAK5uy_l3YmrT6XEgBUvYzJV1LJmyH62cBlYsU_k|A1426|Live Bullet|Bob Seger|Heartland Rock;Rock",
 "Deee-Lite|World Clique|1990|OLAK5uy_l6b5h-Keoiin0TiXs_1hnLR3pV1ZVhozE|A786|World Clique|Deee-Lite|Dance-Pop;House;Dance;Electronic;Electronic Dance Music;Pop",
 "Van der Graaf Generator|Pawn Hearts|1971|OLAK5uy_kOWdkl7AREpLB5vkYkhbv94GHycru9xHY|A1346|Pawn Hearts|Van der Graaf Generator|Progressive Rock;Rock",
-"Buffalo Springfield|Buffalo Springfield|1966|OLAK5uy_lzK9MXQbc9CU1b-wiRHC0SM1_OScsjzL4|A80|Buffalo Springfield (album)|Buffalo Springfield|Country Rock;Folk Rock;Rock",
+"Buffalo Springfield|Buffalo Springfield|1966|OLAK5uy_mvgscNVoHiGcX-bXW7aNxbW2yMFdvTeGQ|A80|Buffalo Springfield (album)|Buffalo Springfield|Country Rock;Folk Rock;Rock",
 "The Art Tatum - Ben Webster Quartet|Masterpieces, Vol. 8|1958|OLAK5uy_l5Ljw7ziGb7igtoIHhL7w1_JNB-IhsXtA|A1804|The Tatum Group Masterpieces, Volume Eight|Ben Webster|Cool Jazz;Stride;American Folk Music;Folk;Jazz;Ragtime;Regional Music;Traditional Folk Music",
 "Low|Things We Lost in the Fire|2001|OLAK5uy_loLfXnAtPFfyeUltLh64UQisE7AXc9FVc|A3854|Things We Lost in the Fire (album)|Low (band)|Slowcore;Alternative Rock;Indie Rock;Rock",
 "The Velvet Underground|VU|1985|PL6D82143B781ACDB5|A3069|VU (album)|The Velvet Underground|Art Rock;Rock",
