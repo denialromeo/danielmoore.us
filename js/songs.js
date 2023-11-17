@@ -4314,7 +4314,7 @@ const songs = [
 "U2|Lemon|1993|9YoAQ50BK74|U2|S150|Alternative Dance;Alternative Rock;Dance;Rock|Lemon (U2 song)",
 "Dion|Abraham, Martin and John|1968|DXl3XG5aGtM|Dion DiMucci|S1696|Chamber Folk;Folk Pop;Contemporary Folk;Folk;Pop|Abraham, Martin and John",
 "Yeah Yeah Yeahs|Date with the Night|2003|NGNHQKeoSGY|Yeah Yeah Yeahs|S9086|Garage Punk;Garage Rock Revival;Garage Rock;Punk Rock;Rock|",
-"Trio|Da da da ich lieb dich nicht du liebst mich nicht aha aha aha|1982|lNYcviXK4rg|Trio (band)|S8849|Minimal Wave;Neue Deutsche Welle;Electronic;Rock|",
+"Trio|Da da da ich lieb dich nicht du liebst mich nicht aha aha aha|1982|lNYcviXK4rg|Trio (band)|S8849|Minimal Wave;Neue Deutsche Welle;Electronic;Rock|Da Da Da",
 "Tim Buckley|Buzzin' Fly|1969|n7SUqKJb7tk|Tim Buckley|S3253|Psychedelic Folk;Singer/Songwriter;Contemporary Folk;Folk|",
 "The Everly Brothers|Bird Dog|1958|6c3M2jGkzko|The Everly Brothers|S1226|Close Harmony;Pop;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|Bird Dog (song)",
 "Thompson Twins|Hold Me Now|1983|TvzVTRK1nOY|Thompson Twins|S3900|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock|Hold Me Now (Thompson Twins song)",
