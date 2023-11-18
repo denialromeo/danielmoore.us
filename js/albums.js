@@ -2,7 +2,7 @@ const albums = [
 "The Beach Boys|Pet Sounds|1966|OLAK5uy_mJN3N2XYKY6P2RpKP_-Zk20HwDSewNAYY|A62|Pet Sounds|The Beach Boys|Baroque Pop;Pop",
 "Nirvana|Nevermind|1991|PLS8GuVBFcTrhGxbPrfZ1VF3WBXGeOfvnF|A811|Nevermind|Kurt Cobain|Grunge;Alternative Rock;Rock",
 "The Beatles|Revolver|1966|PLg5pp7nrH0IqV2ESEZmmgWtECbzkS8d3O|A63|Revolver (Beatles album)|The Beatles|Pop Rock;Pop;Rock",
-"The Velvet Underground & Nico|The Velvet Underground & Nico|1967|OLAK5uy_lhdpySsfvUL_e9yjflV_DQvB0KZfHrYHQ|A91|The Velvet Underground & Nico|The Velvet Underground|Art Rock;Experimental Rock;Rock",
+"The Velvet Underground & Nico|The Velvet Underground & Nico|1967|OLAK5uy_ngt5QCFCxWPcpApM_frvpcbOKJPtAKbpo|A91|The Velvet Underground & Nico|The Velvet Underground|Art Rock;Experimental Rock;Rock",
 "Marvin Gaye|What's Going On|1971|PLKLjDq58gFD_cY1K3dqNhzRe8mibgziQZ|A211|What's Going On (Marvin Gaye album)|Marvin Gaye|Soul;R&B",
 "The Beatles|Sgt. Pepper's Lonely Hearts Club Band|1967|OLAK5uy_kXTCtXTKA6DMJOSGKweNRGC0aoPn1iBF8|A92|Sgt. Pepper's Lonely Hearts Club Band|The Beatles|Pop Rock;Psychedelic Pop;Pop;Rock",
 "The Clash|London Calling|1979|OLAK5uy_nY4cg7X3mkJovrJebYc8GlS82gAcjsX_U|A451|London Calling|The Clash|Punk Rock;Rock",
