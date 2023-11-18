@@ -1894,7 +1894,7 @@ const albums = [
 "Sarah Vaughan|Images/Swingin' Easy|1954|PLdtnjYf4p0K9K6TdT5ikDMZYAdhcvw0HU|A1778|Swingin' Easy|Sarah Vaughan|Vocal Jazz;Jazz",
 "Sturgill Simpson|Metamodern Sounds in Country Music|2014|OLAK5uy_kH3aBarymMyzMwYXZFUdSlONINjcnGftg|A5432|Metamodern Sounds in Country Music|Sturgill Simpson|Outlaw Country;Country;Progressive Country",
 "Black Dog Productions|Bytes|1993|OLAK5uy_mVR0oCHwoqobOkFMxVnLL0ees625dROOQ|A3429|Bytes (album)|The Black Dog (band)|IDM;Electronic",
-"Planxty|Planxty|1973|OLAK5uy_nOFwFt2cU1t7mzJxpfAdGQF6YyYYboYTw|A2448|Planxty (album)|Planxty|Irish Folk Music;Celtic Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music",
+"Planxty|Planxty|1973|OLAK5uy_nQ2TkzzPR7bxdnEXGU6Tqo1nDZfPo_xzQ|A2448|Planxty (album)|Planxty|Irish Folk Music;Celtic Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music",
 "Aaliyah|Aaliyah|2001|OLAK5uy_nqlpDp3QeMv24mPkwvx2Wa0uwaYIcVhW8|A3881|Aaliyah (album)|Aaliyah|Contemporary R&B;Pop;R&B",
 "Real Estate|Days|2011|OLAK5uy_nQcQmAEi82I0oCKblI1-bQ5gveKFeYxEI|A5166|Days (album)|Real Estate (band)|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
 "The Pains of Being Pure at Heart|The Pains of Being Pure at Heart|2009|OLAK5uy_kh8ZFcFHH7BTvIGxqYJObMwDaNG9Sd7rM|A4996|The Pains of Being Pure at Heart (album)|The Pains of Being Pure at Heart|Twee Pop;Indie Pop;Pop",
