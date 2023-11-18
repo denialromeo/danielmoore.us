@@ -186,7 +186,7 @@ const albums = [
 "The Kinks|The Kinks Are the Village Green Preservation Society|1968|OLAK5uy_m1cl3Q7UaBKPcwvbXq5NgbBYdhJGYBONQ|A133|The Kinks Are the Village Green Preservation Society|The Kinks|Pop Rock;Pop;Rock",
 "Beastie Boys|Licensed to Ill|1986|OLAK5uy_kql6ccWJAXqk3vEPAQyEjVjnQWzSCPm24|A664|Licensed to Ill|Beastie Boys|Hip Hop",
 "Kanye West|Yeezus|2013|OLAK5uy_m6VFZd8KNhbFoHGRhtzFakGNVSkMMGvbU|A5381|Yeezus|Kanye West|Experimental Hip Hop;Hip Hop",
-"The Velvet Underground|The Velvet Underground|1969|OLAK5uy_lhdpySsfvUL_e9yjflV_DQvB0KZfHrYHQ|A156|The Velvet Underground & Nico|The Velvet Underground|Rock",
+"The Velvet Underground|The Velvet Underground|1969|OLAK5uy_lhdpySsfvUL_e9yjflV_DQvB0KZfHrYHQ|A156|The Velvet Underground (album)|The Velvet Underground|Rock",
 "Björk|Homogenic|1997|OLAK5uy_mw9Bb_0yJljnRsT_PFQ8pSKE_eDsQbL4k|A996|Homogenic|Björk|Art Pop;Electronic;Progressive Pop;Pop",
 "The Byrds|Sweetheart of the Rodeo|1968|PLX66jEixZe1xElVpNx_5sWXCEiJCszjKs|A134|Sweetheart of the Rodeo|The Byrds|Country Rock;Rock",
 "Bob Marley and The Wailers|Natty Dread|1974|OLAK5uy_mHXE3Pe2KDqh6t-KC_jo_irZk4VoaR968|A303|Natty Dread|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
