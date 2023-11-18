@@ -168,6 +168,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Cinema Speculation*](https://www.goodreads.com/notes/61198870-cinema-speculation/71655209-daniel-moore) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Watch the films as you read to fully get it.)
 * [*Four Star Reviews, 1967-2007*](https://www.goodreads.com/notes/9517283-roger-ebert-s-four-star-reviews-1967-2007/71655209-daniel-moore) by [Roger Ebert](https://en.wikipedia.org/wiki/Roger_Ebert) (40 years at the movies.)
 * [*Hit Refresh*](https://www.goodreads.com/notes/31139580-hit-refresh/71655209-daniel-moore) by [Satya Nadella](https://www.youtube.com/watch?v=UNbyT7wPwk4&t=791s) (Good leadership is providing ways for others to excel.)
+* [*Revolutionary Suicide*](https://www.goodreads.com/notes/8176686-revolutionary-suicide/71655209-daniel-moore) by [Huey Newton](https://en.wikipedia.org/wiki/Huey_Newton) (Rising up against the system is usually martyrdom.)
 * [*What Happened*](https://www.goodreads.com/notes/34114362-what-happened/71655209-daniel-moore) by [Hillary Clinton](https://en.wikipedia.org/wiki/Hillary_Clinton) (Her electoral losses defined the 21st century.)
 
 {:#blog-posts}
