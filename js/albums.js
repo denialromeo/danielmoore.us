@@ -1679,7 +1679,7 @@ const albums = [
 "Dennis Wilson|Pacific Ocean Blue|1977|OLAK5uy_klPsmD5kh6iWwKvrExqaWMvce6Hg9n2RI|A2744|Pacific Ocean Blue|Dennis Wilson|Pop Rock;Singer/Songwriter;Pop;Rock",
 "McCoy Tyner|The Real McCoy|1967|OLAK5uy_nWXm4PZn0z31VXBsGYON-CMQYaFU4Pp8k|A1979|The Real McCoy (album)|McCoy Tyner|Post-Bop;Bebop;Jazz",
 "Jack White|Blunderbuss|2012|OLAK5uy_lyP7d87YKODkCmVIyEM8FA0UnfvNebX6k|A5249|Blunderbuss (album)|Jack White|Blues Rock;Garage Rock Revival;Singer/Songwriter;Garage Rock;Rock",
-"Buddy Holly|Buddy Holly|1958|OLAK5uy_kquYC8Rx2JsVM1UYVK76btmStGAEiuHTE|A1223|Buddy Holly (album)|Buddy Holly|Rockabilly;Rock;Rock & Roll",
+"Buddy Holly|Buddy Holly|1958|OLAK5uy_nJC8Cy256oJhnvMFlBA_o_RbPAifBSl2w|A1223|Buddy Holly (album)|Buddy Holly|Rockabilly;Rock;Rock & Roll",
 "Ennio Morricone|C'era una volta il West / Once Upon a Time in the West|1968|PL410B100E1BD6B942|A3279|Once Upon a Time in the West (album)|Ennio Morricone|Film Score;Spaghetti Western;Cinematic Classical;Classical Music;Descriptor;Film Soundtrack;Soundtracks",
 "Tom Waits|Real Gone|2004|OLAK5uy_mV4F-LVv_RlQmnGzKqpsoS7rS6G3hMqAM|A4062|Real Gone (album)|Tom Waits|Experimental Rock;Rock",
 "Blink-182|Enema of the State|1999|OLAK5uy_ku1eCIHSQXftkjdy1pDCmCHYLyHza-agY|A3027|Enema of the State|Blink-182|Pop Punk;Punk Rock;Rock",
