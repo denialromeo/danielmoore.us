@@ -2572,7 +2572,7 @@ const albums = [
 "Fabrizio De André|Crêuza de mä|1984|OLAK5uy_kHNHgtFS_pWVjfFL8udiopzWHRSJWR230|A2834|Crêuza de mä|Fabrizio De André|Contemporary Folk;Folk",
 "Stereolab|Dots and Loops|1997|OLAK5uy_mT8vNMuTyC-PLafWLfx7YIxcHL4N00SmA|A3658|Dots and Loops|Stereolab|Art Pop;Electronic;Pop",
 "Fleet Foxes|Crack-Up|2017|OLAK5uy_msaqUimFS5VVKlOFe_nrXoWdI_ulIOzfE|A5894|Crack-Up (album)|Fleet Foxes|Chamber Folk;Progressive Folk;Contemporary Folk;Folk",
-"Glenn Branca|The Ascension|1981|PLgEDe5TGLmx1s9KM2jgnGV2NvFume0uAS|A2878|The Ascension (Glenn Branca album)|Glenn Branca|No Wave;Noise Rock;Experimental Rock;Post-Punk;Rock",
+"Glenn Branca|The Ascension|1981|https://www.youtube.com/embed/JeYMC8g6pZ4|A2878|The Ascension (Glenn Branca album)|Glenn Branca|No Wave;Noise Rock;Experimental Rock;Post-Punk;Rock",
 "Feist|Metals|2011|OLAK5uy_kUov0C071V3JYmVAsTmAFUM6vhQC_ZKbU|A5141|Metals (album)|Feist (singer)|Art Pop;Indie Pop;Singer/Songwriter;Pop",
 "Keith Jarrett and Jan Garbarek|Belonging|1974|PLK-NliRFIIkc7g50o3gbXVIE-skx1KBGN|A2534|Belonging (album)|Keith Jarrett|ECM Style Jazz;Jazz",
 "Nilsson|Aerial Ballet|1968|OLAK5uy_l6dUpjaBD2m3hjAqNikz3hWRRBk3ELXIk|A2216|Aerial Ballet|Harry Nilsson|Baroque Pop;Pop",
