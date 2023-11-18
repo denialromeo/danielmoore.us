@@ -63,6 +63,9 @@ box: random-acclaimed-song
     if ("artist" in params) {
         pool = pool.filter(s => new RegExp(params.artist, "i").exec(s.split("|")[0]) !== null)
     }
+    if ("song" in params) {
+        pool = pool.filter(s => new RegExp(params.song, "i").exec(s.split("|")[1]) !== null)
+    }
     if ("album" in params) {
         pool = pool.filter(s => new RegExp(params.album, "i").exec(s.split("|")[1]) !== null)
     }
