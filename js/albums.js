@@ -2744,7 +2744,7 @@ const albums = [
 "Andrew Bird|Armchair Apocrypha|2007|OLAK5uy_lmJ1X6K2pt6H32xlDlF_FW64O7LdlH3Uo|A4277|Armchair Apocrypha|Andrew Bird|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop",
 "Chris Isaak|Silvertone|1985|OLAK5uy_nVrMdSITd5JvksUmxsJpTpKVrbssyu7oo|A4710|Silvertone (album)|Chris Isaak|Pop Rock;Pop;Rock",
 "Mahmoud Ahmed|Eré Méla Méla/Ethiopiques 7|1975|OLAK5uy_mmJt1U1EItVgLiwFZTXFfKvifS6FC9oGE|A4562|Éthiopiques|Mahmoud Ahmed|Ethio-Jazz;Tizita;African Music;Jazz;Regional Music",
-"Robert Fripp|Exposure|1979|PLQjOqzYfC3P1SfGoX-NIcHnI21kNUAWfX|A479|Exposure (Robert Fripp album)|Robert Fripp|Art Rock;Experimental Rock;Rock",
+"Robert Fripp|Exposure|1979|PLbnpw-XH5DOFMv-Gx3vNF3Rdsf-4CuCAs|A479|Exposure (Robert Fripp album)|Robert Fripp|Art Rock;Experimental Rock;Rock",
 "John Coltrane|Olé Coltrane|1961|OLAK5uy_nvJEkOWeJu3R9O67ruFWHSlPEiypFo7H4|A2471|Olé Coltrane|John Coltrane|Modal Jazz;Jazz",
 "Metro Area|Metro Area|2002|PLnxSY27MRIcHR8fTi_Q8KEdS1uFTPdvDp|A4951|Metro Area (album)|Metro Area|Electro-Disco;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House",
 "Barbra Streisand|The Broadway Album|1985|OLAK5uy_ljaypFLt1XK35aTj0DmBpGOj3vjZxbcAc|A2044|The Barbra Streisand Album|Barbra Streisand|Show Tunes;Standards;Descriptor;Musical Theatre and Entertainment;Pop;Soundtracks;Traditional Pop",
