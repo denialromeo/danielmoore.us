@@ -1216,7 +1216,7 @@ const albums = [
 "The Specials|More Specials|1980|OLAK5uy_nZBLVXh5dsx1qgtdOehF_yrE00gCdTaXo|A2825|More Specials|The Specials|2 Tone;Ska",
 "Blondie|Blondie|1976|OLAK5uy_mT96ExWy1z8tYKMcKakqKGZ6Se7GXdODc|A381|Blondie (album)|Debbie Harry|New Wave;Rock",
 "Scott Walker|The Drift|2006|OLAK5uy_l_ljsu_ii1SMhG7ExcxVxCTSCWorxpxuI|A2132|The Drift|Scott Walker (singer)|Experimental;Singer/Songwriter",
-"John Lennon & Yoko Ono|Double Fantasy|1980|OLAK5uy_l2YBfQ8CnaV3-t6G0oKgcejSW8jDHBKyk|A499|Double Fantasy|Yoko Ono|Pop Rock;Pop;Rock",
+"John Lennon & Yoko Ono|Double Fantasy|1980|OLAK5uy_mXLRgH1-fvjAuskyqzh33iL8vqDjK2XBg|A499|Double Fantasy|Yoko Ono|Pop Rock;Pop;Rock",
 "Monks|Black Monk Time|1966|PL8F5DB6F54A8ACB74|A82|Black Monk Time|The Monks|Garage Rock;Rock",
 "Ramones|Leave Home|1977|OLAK5uy_l-L0GXfMQ5AOlIN5rLN1mIjJ-Hn7LLHhQ|A414|Leave Home|Ramones|Punk Rock;Rock",
 "Neko Case|Fox Confessor Brings the Flood|2006|OLAK5uy_kJoRmVrgIzm3ddLne3hdRY8tiAKC8mUyM|A2082|Fox Confessor Brings the Flood|Neko Case|Alt-Country;Americana;Singer/Songwriter;Country",
