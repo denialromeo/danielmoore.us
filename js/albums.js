@@ -2326,7 +2326,7 @@ const albums = [
 "Beck|Morning Phase|2014|OLAK5uy_mLGPyNfLTJrsZFGwV_vuS9YKEl4hB9Hjs|A5404|Morning Phase|Beck|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Red Hot Chili Peppers|By the Way|2002|OLAK5uy_mIzb8byci429atL6GqqYKvYw-GVHPR5jo|A3904|The Getaway (Red Hot Chili Peppers album)|Red Hot Chili Peppers|Alternative Rock;Pop Rock;Pop;Rock",
 "WU LYF|Go Tell Fire to the Mountain|2011|OLAK5uy_n1uGnxi-_mY4DZajHWwZP5dLGz5XzawqQ|A5530|Go Tell Fire to the Mountain|WU LYF|Art Rock;Indie Rock;Alternative Rock;Rock",
-"Billie Holiday|Songs for Distingué Lovers|1958|OLAK5uy_kteC9klY9zhiTK6UBhIF9rrxRl_fMzCtw|A1823|Songs for Distingué Lovers|Billie Holiday|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
+"Billie Holiday|Songs for Distingué Lovers|1958|PLoERbxXMyKwavdMjEN2_Z_e55PrhVnDww|A1823|Songs for Distingué Lovers|Billie Holiday|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "Panda Bear|Tomboy|2011|OLAK5uy_mX1rzMVzl0E5pCQ-mDnmXNHVLfdsdeE2o|A5257|Tomboy (album)|Panda Bear (musician)|Psychedelic Pop;Pop",
 "Air|Air Lore|1979|OLAK5uy_kFZWTU9LUVQYzwKLO7TrMQ_oxLH5mC5bs|A4610|Air Lore|Air (free jazz trio)|Avant-Garde Jazz;Jazz",
 "Bilderbuch|Schick Schock|2015|OLAK5uy_k7DZZxC0b7onUlNOVVeCe5Q-LrWD6VLpI|A5639|Bilderbuch|Bilderbuch|Indie Pop;Pop",
