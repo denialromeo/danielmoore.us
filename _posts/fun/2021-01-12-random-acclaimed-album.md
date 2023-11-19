@@ -32,7 +32,7 @@ box: random-acclaimed-song
             <a target="_self" href="?album=love">Albums whose titles contain the word "love".</a>
         </li>
         <li>
-            <a target="_self" href="?genre=disco&year=197.">Disco albums from the 1970's.</a>
+            <a target="_self" href="?genre=disco|dream+pop">Dream pop and disco albums.</a>
         </li>
     </ul>
    <p>Also note that each artist's name and most albums' names have links to their Wikipedia pages. To&nbsp;see an album's genres, mouse over the album's name.</p>
