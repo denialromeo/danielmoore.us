@@ -2047,7 +2047,7 @@ const albums = [
 "The Mighty Diamonds|Right Time|1976|OLAK5uy_kK3AGuCxCS9piZ0WLytgZlZjrzreTl6_0|A1416|Right Time|Mighty Diamonds|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Common|Be|2005|OLAK5uy_nDEj1P3Bk0qNAWGEWG3R1nuW3BbDiaJmk|A4184|Be (Common album)|Common (rapper)|Conscious Hip Hop;Hip Hop",
 "Hole|Celebrity Skin|1998|OLAK5uy_l9UYvuHfSsRNr_1pDij7_VE9sG3yJ9bSk|A1048|Celebrity Skin|Hole (band)|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
-"Nancy Sinatra & Lee Hazlewood|Nancy & Lee|1968|OLAK5uy_luqt_0nBFoxDzJVFdL5KahnZ31ncyoO6I|A4472|Nancy & Lee|Nancy Sinatra|Baroque Pop;Country Pop;Country;Pop",
+"Nancy Sinatra & Lee Hazlewood|Nancy & Lee|1968|OLAK5uy_nSoGohuD0csfSU9vbZIFjMpzwMYNlKLUk|A4472|Nancy & Lee|Nancy Sinatra|Baroque Pop;Country Pop;Country;Pop",
 "Stray Cats|Stray Cats/Built for Speed|1981|OLAK5uy_n80WdOUcAL6I3C9BkZ9hV-Igick_3-hto|A2881|Built for Speed (Stray Cats album)|Stray Cats|Rockabilly;Rock;Rock & Roll",
 "Chuck Berry|St. Louis to Liverpool|1964|OLAK5uy_kCc1kvTx1ud38QDSzEtB09YL3VkZwlvd4|A19|St. Louis to Liverpool|Chuck Berry|Rock & Roll;Rock",
 "Jenny Hval|Blood Bitch|2016|OLAK5uy_nDWj2gQhjLrLE8O2L6aeNPDmiGXJYU3UU|A5746|Blood Bitch|Jenny Hval|Ambient Pop;Art Pop;Pop",
