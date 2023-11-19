@@ -90,7 +90,7 @@ const classical = [
 "Johann Sebastian Bach|Six Violin Sonatas|1725|s7wmR0EqEGQ|Johann Sebastian Bach|",
 "Johann Sebastian Bach|Keyboard Partitas|1726-1731|XiG8AGn5Qz8|Johann Sebastian Bach|",
 "Johann Sebastian Bach|Motets|1726-1735|jdtYTR6zP8A|Johann Sebastian Bach|List of motets by Johann Sebastian Bach",
-"Johann Sebastian Bach|St. Matthew Passion|1727|ZwVW1ttVhuQ|Johann Sebastian Bach|",
+"Johann Sebastian Bach|St. Matthew Passion|1727|ZwVW1ttVhuQ|Johann Sebastian Bach|St Matthew Passion",
 "George Frideric Handel|Coronation Anthems|1727|oXmNnF9v8mU|George Frideric Handel|",
 "John Gay|The Beggar’s Opera|1728|Lq7g_NRKHU0|John Gay|The Beggar's Opera",
 "Johann Sebastian Bach|French Suites|1730|0sDleZkIK-w|Johann Sebastian Bach|French Suites (Bach)",
