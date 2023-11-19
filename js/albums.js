@@ -894,7 +894,7 @@ const albums = [
 "Fleetwood Mac|Fleetwood Mac|1975|OLAK5uy_nwDFwqAkFydjQ1xXxAFQ2-avbkjBDNGVU|A354|Fleetwood Mac (1975 album)|Fleetwood Mac|Pop Rock;Pop;Rock",
 "The Hold Steady|Boys and Girls in America|2006|OLAK5uy_k3qK2OYpwrh8c7CzmW8MWcKmZo6XXyfQA|A3083|Boys and Girls in America|The Hold Steady|Heartland Rock;Indie Rock;Pub Rock;Alternative Rock;Rock",
 "Alexander Skip Spence|Oar|1969|OLAK5uy_kZGVhx2i7B1z_SbTXBPUaGmO8j8nqBclA|A2280|Oar (album)|Skip Spence|Psychedelic Folk;Singer/Songwriter;Contemporary Folk;Folk",
-"Johnny Burnette|Johnny Burnette and the Rock 'n Roll Trio|1956|OLAK5uy_n2AGHiPSxQpLaE3K2qqA3zv4MUHR_-ASg|A24|Johnny Burnette and the Rock 'n Roll Trio|Johnny Burnette|Rockabilly;Rock;Rock & Roll",
+"Johnny Burnette|Johnny Burnette and the Rock 'n Roll Trio|1956|OLAK5uy_lf6p2fvhoUrmni7nRuoMflpXkXMGKsYI8|A24|Johnny Burnette and the Rock 'n Roll Trio|Johnny Burnette|Rockabilly;Rock;Rock & Roll",
 "Nilsson|Nilsson Schmilsson|1971|OLAK5uy_k7w1eMAy4dzFiSvkXebAuRTXJXnbA8jKw|A1136|Nilsson Schmilsson|Harry Nilsson|Pop Rock;Singer/Songwriter;Pop;Rock",
 "Bud Powell|The Amazing Bud Powell|1952|OLAK5uy_lvBaLFFEQs6c3hU17zCSU4xM-hHjTg0Eg|A1762|The Amazing Bud Powell|Bud Powell|Bebop;Jazz",
 "Pantera|Vulgar Display of Power|1992|OLAK5uy_mEdSGtZnpiyztGgEaIYURc_q9S6egIHek|A1713|Vulgar Display of Power|Pantera|Groove Metal;Thrash Metal;Metal;Rock",
