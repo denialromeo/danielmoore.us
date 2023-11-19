@@ -176,7 +176,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * "[Automation and the Future of Work](http://hipcrimevocab.com/2016/04/19/automation-and-the-future-of-work-black-lives-matter/#main)" by the Hipcrime Vocab (Technology causes poverty.)
 * "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html#main)" by Seshadri Kumar (World War 3 has begun.)
-* "[The Dying Americans](https://hipcrime.blogspot.com/2015/11/the-dying-americans.html)" by the Hipcrime Vocab (Understanding Trump voters.)
+* "[The Dying Americans](https://hipcrime.blogspot.com/2015/11/the-dying-americans.html#main)" by the Hipcrime Vocab (Understanding Trump voters.)
 * "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Après Boomers, le déluge.)
 * "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by [Venkat Rao](https://www.ribbonfarm.com/now-reading/#content) (Pair with [*The Office*](https://www.peacocktv.com/watch/asset/tv/the-office-superfan-episodes/8229469043710582112) to forever alter your life goals.)
 * "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
