@@ -6762,7 +6762,7 @@ const songs = [
 "Queen|Who Wants to Live Forever|1986|_Jtpf8N5IDE?start=5|Queen (band)|S11980|Film Soundtrack;Pop Rock;Symphonic Rock;Descriptor;Pop;Rock;Soundtracks|Who Wants to Live Forever",
 "Pavement|Rattled by the Rush|1995|dAVLkn-4B9o|Pavement (band)|S4511|Indie Rock;Alternative Rock;Rock|Wowee Zowee",
 "Rino Gaetano|Ma il cielo è sempre più blu|1975|XB3TfBXUOKw|Rino Gaetano|S13613|Pop;Singer/Songwriter|",
-"Henri Salvador|Dans mon île|1958|FA1gG1jLT5Q|Henri Salvador|S11023|Chanson;Regional Music|",
+"Henri Salvador|Dans mon île|1958|F3vEfi4QAb0|Henri Salvador|S11023|Chanson;Regional Music|",
 "Steely Dan|My Old School|1973|rFnwczuvb74|Steely Dan|S12299|Pop Rock;Pop;Rock|My Old School (song)",
 "The Saints|Know Your Product|1978|h9M3b9lh-7s|The Saints (Australian band)|S12146|Punk Rock;Rock|Know Your Product",
 "Mousse T vs Hot 'n' Juicy|Horny '98|1998|dH8WvayAo1M|Mousse T.|S3106|Funky House;Dance;Electronic;Electronic Dance Music;House|Horny '98",
