@@ -46,8 +46,6 @@ I hope you have a good time here. Thanks for dropping by.
 <a id="political-views" href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
     <p>I'm broadly happy with the direction the U.S. is going, and look forward to many more years here. America is such a magical place. Everyone should at least visit.</p>
-    <p>Probably the one downside is that the economy is saturated &ndash; there's not much room to grow here. As a salaried professional, I'm very happy, but if I go into business for myself, I'll likely leave.</p>
-    <p>That said, the climate, culture, and countryside here can't be beaten. Even if I do ever sojourn out, I'll always find my way back.</p>
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
@@ -68,6 +66,8 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
     <p>Some more personal observations &ndash;</p>
     <ul>
+    <li><p>One downside of the U.S. is its saturated economy &ndash; there's not much room to grow here. As&nbsp;a salaried professional, I'm very happy, but if I go into business for myself, I'll likely leave.</p><p>That said, the climate, culture, and countryside here can't be beaten. Even if I do sojourn out, I'll always find my way back home.</p>
+    </li>
         <li>When I was a kid, I loved violent media. Boxing, serial killers, zombies dismembering people. But most comedies and dialogue-heavy dramas went over my head. As I grow older, violence has started to sicken and bore me, while people talking has never been more engrossing.</li>
     </ul>
 </div>
