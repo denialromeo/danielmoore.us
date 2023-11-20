@@ -66,6 +66,10 @@ I hope you have a good time here. Thanks for dropping by.
         <li>The early 19th century's most influential people included Napoleon Bonaparte, Toussaint Louverture, Michael Faraday, and Samuel Morse.</li>
         <li>The 18th century's most influential people included Thomas Newcomen, Robert Clive, Maximilien Robespierre, and George Washington.</li>
     </ul>
+    <p>Some more personal observations &ndash;</p>
+    <ul>
+        <li>When I was a kid, I loved violent media. Boxing, serial killers, zombies dismembering people. But most comedies and dialogue-heavy dramas went over my head. As I grow older, violence has started to sicken and bore me, while people talking has never been more engrossing.</li>
+    </ul>
 </div>
 
 # Favorite
