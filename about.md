@@ -66,7 +66,7 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
     <p>Some more personal observations &ndash;</p>
     <ul>
-    <li><p>One downside of the U.S. is its saturated economy &ndash; there's not much room to grow here. As&nbsp;a salaried professional, I'm very happy, but if I go into business for myself, I'll likely leave.</p><p>That said, the climate, culture, and countryside here can't be beaten. Even if I do sojourn out, I'll always find my way back home.</p>
+    <li><p>One downside of the U.S. is its saturated economy &ndash; there's not much room to grow here. As&nbsp;a salaried professional, I'm very happy, but if I go into business for myself, I may leave.</p><p>That said, the climate, culture, and countryside here can't be beaten. Even if I do sojourn out, I'll always find my way back home.</p>
     </li>
         <li>When I was a kid, I loved violent media. Boxing, serial killers, zombies dismembering people. But most comedies and dialogue-heavy dramas went over my head. As I grow older, violence has started to sicken and bore me, while people talking has never been more engrossing.</li>
     </ul>
