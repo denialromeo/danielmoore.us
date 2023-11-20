@@ -415,6 +415,38 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="clear"></div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/swamp-thing/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Swamp Thing</i> by Alan Moore</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/02.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/03.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/04.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/04.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/05.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/05.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/extinction-parade/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="assets/img/comics/extinction-parade/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Extinction Parade</i> by Max Brooks</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/extinction-parade/02.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="assets/img/comics/extinction-parade/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/extinction-parade/03.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="assets/img/comics/extinction-parade/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/extinction-parade/04.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="assets/img/comics/extinction-parade/04.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/01.jpg" itemprop="contentUrl" data-size="1920x2951"><img style="border: 1px solid black;" src="/assets/img/comics/sandman3/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/02.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman3/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/03.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman3/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/04.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman3/04.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/01.jpg" itemprop="contentUrl" data-size="1920x2951"><img style="border: 1px solid black;" src="/assets/img/comics/sandman2/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/02.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/03.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/04.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/04.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/05.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/05.jpg"/></a></figcaption></figure>
+</div>
+
+<div id="clear"></div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/blankets/1.jpg" itemprop="contentUrl" data-size="1000x1581"><img style="border: 1px solid black;" src="/assets/img/comics/blankets/1.jpg"/></a><figcaption itemprop="caption description"><p><i>Blankets</i> by Craig Thompson</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/blankets/2.jpg" itemprop="contentUrl" data-size="1000x1556"><img src="/assets/img/comics/blankets/2.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/blankets/3.jpg" itemprop="contentUrl" data-size="1000x1562"><img src="/assets/img/comics/blankets/3.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
@@ -506,38 +538,6 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman10.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/showcase/sandman10.jpg"/></a><p></p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman12.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/showcase/sandman12.jpg"/></a><p></p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sandman15.jpg" itemprop="contentUrl" data-size="1920x2894"><img src="/assets/img/comics/showcase/sandman12.jpg"/></a><p></p></figcaption></figure>
-</div>
-
-<div id="clear"></div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/swamp-thing/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Swamp Thing</i> by Alan Moore</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/02.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/03.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/04.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/04.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/05.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/05.jpg"/></a></figcaption></figure>
-</div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/extinction-parade/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="assets/img/comics/extinction-parade/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Extinction Parade</i> by Max Brooks</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/extinction-parade/02.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="assets/img/comics/extinction-parade/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/extinction-parade/03.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="assets/img/comics/extinction-parade/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/extinction-parade/04.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="assets/img/comics/extinction-parade/04.jpg"/></a></figcaption></figure>
-</div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/01.jpg" itemprop="contentUrl" data-size="1920x2951"><img style="border: 1px solid black;" src="/assets/img/comics/sandman3/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/02.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman3/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/03.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman3/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/04.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman3/04.jpg"/></a></figcaption></figure>
-</div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/01.jpg" itemprop="contentUrl" data-size="1920x2951"><img style="border: 1px solid black;" src="/assets/img/comics/sandman2/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/02.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/03.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/04.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/04.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/05.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/05.jpg"/></a></figcaption></figure>
 </div>
 
 <div id="clear"></div>
