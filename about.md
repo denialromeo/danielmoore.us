@@ -68,7 +68,7 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
     <li><p>One downside of the U.S. is its saturated economy &ndash; there's not much room to grow here. As&nbsp;a salaried professional, I'm very happy, but I may leave to go into business for myself.</p><p>That said, the climate, culture, and countryside here can't be beaten. Even if I do sojourn out, I'll always find my way back home.</p>
     </li>
-    <li><p>When I was a kid, I loved violent media. Boxing, serial killers, zombies dismembering people. Most comedies and dialogue-heavy dramas went over my head. But as I grow older, violence has started to sicken and bore me, while people talking has never been more engrossing.</p><p>The world is infinitely interesting, and only becomes more so the longer you look at it.</p></li>
+    <li><p>When I was a kid, I loved violent media. Boxing, serial killers, zombies dismembering people. Most comedies and dialogue-heavy dramas went over my head. But as I grow older, violence has started to sicken and bore me, while people talking has never been more engrossing.</p></li>
     </ul>
 </div>
 
