@@ -69,6 +69,7 @@ I hope you have a good time here. Thanks for dropping by.
     <li><p>One downside of the U.S. is its saturated economy &ndash; there's not much room to grow here. As&nbsp;a salaried professional, I'm very happy, but I may leave to go into business for myself.</p><p>That said, the climate, culture, and countryside here can't be beaten. Even if I do sojourn out, I'll always find my way back home.</p>
     </li>
     <li><p>When I was a kid, I loved violent media. Boxing, serial killers, zombies dismembering people. Most comedies and dialogue-heavy dramas went over my head. But as I grow older, violence has started to sicken and bore me, while people talking has never been more engrossing.</p></li>
+    <li><p>Studies have consistently shown that, in the U.S., immigrants' children have worse mental health outcomes than their parents.</p><p>I can't totally relate (as far as I can tell, I'm much better-adjusted than my folks), but this doesn't bode well for a "country of immigrants". We'll just keep getting crazier as time passes.</p></li>
     </ul>
 </div>
 
@@ -478,16 +479,18 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/01.jpg" itemprop="contentUrl" data-size="701x922"><img style="border: 1px solid black;" src="/assets/img/comics/web/01.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/02.jpg" itemprop="contentUrl" data-size="720x555"><img src="/assets/img/comics/web/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/03.jpg" itemprop="contentUrl" data-size="850x1017"><img src="/assets/img/comics/web/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/04.jpg" itemprop="contentUrl" data-size="1500x1150"><img src="/assets/img/comics/web/04.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/05.jpg" itemprop="contentUrl" data-size="691x480"><img src="/assets/img/comics/web/05.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/06.jpg" itemprop="contentUrl" data-size="601x659"><img src="/assets/img/comics/web/06.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/07.jpg" itemprop="contentUrl" data-size="1080x1351"><img src="/assets/img/comics/web/07.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/08.jpg" itemprop="contentUrl" data-size="900x654"><img src="/assets/img/comics/web/08.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/09.jpg" itemprop="contentUrl" data-size="684x3863"><img src="/assets/img/comics/web/09.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/web/10.jpg" itemprop="contentUrl" data-size="540x3494"><img src="/assets/img/comics/web/10.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/01.jpg" itemprop="contentUrl" data-size="701x922"><img style="border: 1px solid black;" src="assets/img/comics/web/01.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/02.jpg" itemprop="contentUrl" data-size="720x555"><img src="assets/img/comics/web/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/03.jpg" itemprop="contentUrl" data-size="850x1017"><img src="assets/img/comics/web/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/04.jpg" itemprop="contentUrl" data-size="1500x1150"><img src="assets/img/comics/web/04.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/05.jpg" itemprop="contentUrl" data-size="691x480"><img src="assets/img/comics/web/05.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/06.jpg" itemprop="contentUrl" data-size="601x659"><img src="assets/img/comics/web/06.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/07.jpg" itemprop="contentUrl" data-size="1080x1351"><img src="assets/img/comics/web/07.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/08.jpg" itemprop="contentUrl" data-size="900x654"><img src="assets/img/comics/web/08.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/09.jpg" itemprop="contentUrl" data-size="684x3863"><img src="assets/img/comics/web/09.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/10.jpg" itemprop="contentUrl" data-size="540x3494"><img src="assets/img/comics/web/10.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/11.jpg" itemprop="contentUrl" data-size="459x1023"><img src="assets/img/comics/web/11.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/12.jpg" itemprop="contentUrl" data-size="800x4266"><img src="assets/img/comics/web/12.jpg"/></a></figcaption></figure>
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
@@ -523,6 +526,13 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/extinction-parade/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="assets/img/comics/extinction-parade/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Extinction Parade</i> by Max Brooks</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/extinction-parade/02.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="assets/img/comics/extinction-parade/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/extinction-parade/03.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="assets/img/comics/extinction-parade/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/extinction-parade/04.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="assets/img/comics/extinction-parade/04.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/01.jpg" itemprop="contentUrl" data-size="1920x2951"><img style="border: 1px solid black;" src="/assets/img/comics/sandman3/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/02.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman3/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/03.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman3/03.jpg"/></a></figcaption></figure>
@@ -535,11 +545,6 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/03.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/03.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/04.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/04.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/05.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/05.jpg"/></a></figcaption></figure>
-</div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman5/01.jpg" itemprop="contentUrl" data-size="1920x2951"><img style="border: 1px solid black;" src="/assets/img/comics/sandman5/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman5/02.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman5/02.jpg"/></a></figcaption></figure>
 </div>
 
 <div id="clear"></div>
