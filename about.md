@@ -64,13 +64,6 @@ I hope you have a good time here. Thanks for dropping by.
         <li>The early 19th century's most influential people included Napoleon Bonaparte, Toussaint Louverture, Michael Faraday, and Samuel Morse.</li>
         <li>The 18th century's most influential people included Thomas Newcomen, Robert Clive, Maximilien Robespierre, and George Washington.</li>
     </ul>
-    <p>Some more personal observations &ndash;</p>
-    <ul>
-    <li><p>One downside of the U.S. is its saturated economy &ndash; there's not much room to grow here. As&nbsp;a salaried professional, I'm very happy, but I may leave to go into business for myself.</p><p>That said, the climate, culture, and countryside here can't be beaten. Even if I do sojourn out, I'll always find my way back home.</p>
-    </li>
-    <li><p>When I was a kid, I loved violent media. Boxing, serial killers, zombies dismembering people. Most comedies and dialogue-heavy dramas went over my head. But as I grow older, violence has started to sicken and bore me, while people talking has never been more engrossing.</p></li>
-    <li><p>Studies have consistently shown that, in the U.S., immigrants' children have worse mental health outcomes than their parents.</p><p>I can't totally relate (as far as I can tell, I'm much better-adjusted than my folks), but this doesn't bode well for a "country of immigrants". We'll just keep getting crazier as time passes.</p></li>
-    </ul>
 </div>
 
 # Favorite
