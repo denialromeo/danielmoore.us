@@ -1701,7 +1701,7 @@ const albums = [
 "Bauhaus|In the Flat Field|1980|OLAK5uy_mwucSISqHOX1HXsYyKZp_WUQjR9h1Paw0|A2757|In the Flat Field|Bauhaus (band)|Gothic Rock;Post-Punk;Rock",
 "The Raincoats|The Raincoats|1979|OLAK5uy_m-cMwHj7oJp1M7t6fXTX5KAaxZTnRzIjk|A1682|The Raincoats (album)|The Raincoats|Art Punk;Post-Punk;Punk Rock;Rock",
 "The Go-Betweens|Liberty Belle and the Black Diamond Express|1986|OLAK5uy_m6UT4fhuQ5jum9GXeyfwJDP5y1EfAQbsA|A680|Liberty Belle and the Black Diamond Express|The Go-Betweens|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
-"The Traveling Wilburys|Traveling Wilburys, Volume One|1988|OLAK5uy_kt7ZpS5xkZAWPuhVXdLBh2AlwccaGyIrM|A742|Traveling Wilburys Vol. 1|Traveling Wilburys|Pop Rock;Pop;Rock",
+"The Traveling Wilburys|Traveling Wilburys, Volume One|1988|OLAK5uy_m-mNOXTKXedS7rFT3L3RQFeFwNQWFU1aM|A742|Traveling Wilburys Vol. 1|Traveling Wilburys|Pop Rock;Pop;Rock",
 "Joe Cocker|With a Little Help from My Friends|1969|OLAK5uy_nnEW-wK8S1zZHSIS9y-0H_YJAzqW-EnrU|A180|With a Little Help from My Friends (Joe Cocker album)|Joe Cocker|Blues Rock;Pop Rock;Pop;Rock",
 "The Auteurs|New Wave|1993|OLAK5uy_khtIueY6nZekcZJ6pKCA2-_X3MPIitzQo|A887|New Wave (The Auteurs album)|The Auteurs|Britpop;Indie Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Jorge Ben|Samba Esquema Novo|1963|PLVnkoLiLMTm4nHQm47nAu-i3LY5_hpxkO|A4443|Samba Esquema Novo|Jorge Ben|Samba;Brazilian Music;Regional Music",
