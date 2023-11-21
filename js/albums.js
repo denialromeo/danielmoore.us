@@ -2128,7 +2128,7 @@ const albums = [
 "These New Puritans|Field of Reeds|2013|OLAK5uy_lVhJiA0xTSGv_RMCJ1OQw5tJIlcQ8RcLo|A5373|Field of Reeds|These New Puritans|Art Rock;Post-Rock;Rock",
 "Wes Montgomery|Full House: Recorded 'Live' at Tsubo - Berkeley, California|1962|OLAK5uy_kShytdy5ZXduvO47jH6qjlsGOE1BZvXlA|A1919|Full House (Wes Montgomery album)|Wes Montgomery|Hard Bop;Bebop;Jazz",
 "Bon Iver|i,i|2019|OLAK5uy_nkbzCsqlRDoDC4DFv-frWbokz6D-VOkmw|A6225|I, I|Bon Iver|Art Pop;Pop",
-"Dr. Feelgood|Stupidity|1976|PLFqJsWx6HVkxw524ZGHfeJkGfZyuSUa1E|A1417|Stupidity (Dr. Feelgood album)|Dr. Feelgood (band)|British Blues;Pub Rock;Blues;Electric Blues;Rock",
+"Dr. Feelgood|Stupidity|1976|PLOFsCPXqLYfoWD07IiwcqxUsBrMj6gxoN|A1417|Stupidity (Dr. Feelgood album)|Dr. Feelgood (band)|British Blues;Pub Rock;Blues;Electric Blues;Rock",
 "Iron & Wine|The Shepherd's Dog|2007|PLbOGt8cOph4Vk0b3FY11pGOLhZ4cPSh7w|A4254|The Shepherd's Dog|Iron & Wine|Americana;Folk Rock;Indie Folk;Singer/Songwriter;Contemporary Folk;Country;Folk;Rock",
 "Lester Young with the Oscar Peterson Trio|With the Oscar Peterson Trio #1 & #2/The President Plays with the Oscar Peterson Trio|1954|PLBJenJIJrq0yfABa96j-ugxg6ddYfZFkz|A2213|Lester Young with the Oscar Peterson Trio|Lester Young|Swing;Jazz",
 "Scritti Politti|Cupid & Psyche 85|1985|OLAK5uy_mPSpdzRuFhnoTnWnms-4PmHTG_YrqeAwQ|A659|Cupid & Psyche 85|Scritti Politti|Sophisti-Pop;Synthpop;Electronic;Pop",
