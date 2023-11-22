@@ -346,7 +346,7 @@ const classical = [
 "Charles Gounod|Faust|1859|Q7oVDMVXyqw|Charles Gounod|Faust (opera)",
 "Giuseppe Verdi|Un ballo in maschera|1859|bjPSlFcuVNE|Giuseppe Verdi|Un ballo in maschera",
 "Richard Wagner|Tristan und Isolde|1859|J-qoaioG2UA|Richard Wagner|Tristan und Isolde",
-"Johannes Brahms|String Sextets nos. 1 &amp; 2|1860-1865|mTz3Z4RrI6Y|Johannes Brahms|",
+"Johannes Brahms|String Sextets nos. 1 &amp; 2|1860-1865|mTz3Z4RrI6Y|Johannes Brahms|String Sextet No. 1 (Brahms)",
 "Pyotr Ilyich Tchaikovsky|Songs|1860-1893|Gk9NGtX6aGU|Pyotr Ilyich Tchaikovsky|None but the Lonely Heart (Tchaikovsky)",
 "Johannes Brahms|Piano Quartets nos. 1 &amp; 3|1861-1874|7BifP-9elgE|Johannes Brahms|Piano Quartet No. 1 (Brahms)",
 "Edvard Grieg|Songs|1861-1905|R_5AwR27wj4|Edvard Grieg|",
