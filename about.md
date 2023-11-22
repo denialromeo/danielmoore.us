@@ -66,7 +66,7 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
     <p>Some more personal observations&ndash;</p>
     <ul>
-        <li><p>Between remote work, ChatGPT, and Amazon Fresh, I find little need to interact with others. COVID-19 may have killed society. Even dating and making friends have moved online.</p><p>Internet public spaces are also worsening (young people freely share Nazi memes on Twitter), and any sense of obligation I felt to people other than my family has withered away.</p><p>These feelings are likely quite common. I'm grateful I was well-settled before the pandemic hit. Kids today will have it much tougher.</p></li>
+        <li><p>Between remote work, ChatGPT, and Amazon Fresh, I find little need to interact with others. COVID-19 may have killed society. Even dating and making friends have moved online.</p><p>Internet public spaces are also worsening (young people freely share Nazi memes on Twitter), and any sense of obligation I felt to people other than my family has withered away.</p><p>I'm grateful I was well-settled before the pandemic hit. Kids today will have it much tougher.</p></li>
         <li><p>Given the above, I can understand the reader wondering why I love America.</p><p>Well, it's safe, diverse, has beautiful nature, clean air, great weather, high programmer pay, the world reserve currency. Heaven, really, without even needing to die first.</p><p>Also, most of my complaints about life becoming more brutal and impersonal apply even moreso elsewhere. Everywhere is going downhill. Find your bubble and be happy.</p></li>
     </ul>
 </div>
