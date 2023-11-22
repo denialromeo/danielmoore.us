@@ -65,7 +65,7 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
     <p>Some more personal observations&ndash;</p>
     <ul>
-        <li><p>Between remote work, ChatGPT, and Amazon, I find little cause to interact with strangers. COVID-19 may have killed society. Even dating and socializing have moved online.</p><p>Internet public spaces are also worsening (young people freely share Nazi memes on Twitter), and any sense of obligation I feel to people other than my family has withered away.</p><p>I'm grateful I was well-settled before the pandemic hit. Kids today will have it much tougher.</p></li>
+        <li><p>Between remote work, ChatGPT, and Amazon, I find little cause to interact with strangers. COVID-19 may have killed society. Even dating and socializing have moved online.</p><p>Internet public spaces are also worsening (young people freely share Nazi memes on Twitter), and any sense of obligation I felt to people other than my family has withered away.</p><p>I'm grateful I was well-settled before the pandemic hit. Kids today will have it much tougher.</p></li>
     </ul>
 </div>
 
