@@ -64,6 +64,10 @@ I hope you have a good time here. Thanks for dropping by.
         <li>The early 19th century's most influential people included Napoleon Bonaparte, Toussaint Louverture, Michael Faraday, and Samuel Morse.</li>
         <li>The 18th century's most influential people included Thomas Newcomen, Robert Clive, Maximilien Robespierre, and George Washington.</li>
     </ul>
+    <p>Some more personal observations&ndash;</p>
+    <ul>
+        <li><p>Between remote work, ChatGPT, and Amazon Fresh, I find little need to interact with others. COVID-19 may have killed society. Even dating and socializing have moved online.</p><p>Online public spaces are also worsening (young people freely share Nazi memes on Twitter), and any sense of obligation I felt to people other than my family has withered away.</p><p>These feelings are likely quite common. I'm grateful I was well-settled before the pandemic hit. Kids today will have it much tougher.</p></li>
+    </ul>
 </div>
 
 # Favorite
