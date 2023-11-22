@@ -67,6 +67,9 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li><p>Between remote work, ChatGPT, and Amazon, I find little cause to interact with strangers. COVID-19 may have killed society. Even dating and socializing have moved online.</p><p>Internet public spaces are also worsening (young people freely share Nazi memes on Twitter), and any sense of obligation I felt to people other than my family has withered away.</p><p>I'm grateful I was well-settled before the pandemic hit. Kids today will have it much tougher.</p></li>
     </ul>
+    <ul>
+        <li><p>We're presently undergoing the worst technology economic downturn since the dot-com bust. Tech companies have laid off more than 200,000 people in 2023.</p><p>Salaries for new jobs are plummeting. New grad roles pay 80k when they paid 120k in 2021, and everyone's down-leveling. So staff engineers compete for senior jobs, seniors for junior, juniors for new grad, and new grads lose the game of musical chairs and fail to launch.</p><p>Searching the /r/cscareerquestions and /r/experienceddevs subreddits for recent comments matching "laid off" is quite harrowing. It seems the best days of Silicon Valley are behind us.</p></li>
+    </ul>
 </div>
 
 # Favorite
