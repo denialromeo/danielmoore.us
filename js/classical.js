@@ -19,7 +19,7 @@ const classical = [
 "Tomás Luis de Victoria|O magnum mysterium|1572|9xPh-fXYAc4|Tomás Luis de Victoria|O magnum mysterium",
 "Francisco Guerrero|Battle Mass|1582|jbK_2EwcuSQ|Francisco Guerrero|",
 "Claudio Monteverdi|Madrigals|1587-1651|2TjkhWARBVE|Claudio Monteverdi|Madrigal",
-"William Byrd|My Ladye Nevells Book|1591|2PdRUGXAzoE|William Byrd|My Ladye Nevells Booke",
+"William Byrd|My Ladye Nevells Booke|1591|2PdRUGXAzoE|William Byrd|My Ladye Nevells Booke",
 "William Byrd|Masses|1592-1595|1ItRYDvuu3w|William Byrd|Mass for Four Voices",
 "Carlo Gesualdo|Madrigals|1594-1611|JEoOOYA31_E|Carlo Gesualdo|Madrigal",
 "John Dowland|Lute Songs|1597-1612|sElBsL9fvRM|John Dowland|Lute song",
