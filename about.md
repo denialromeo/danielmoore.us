@@ -67,6 +67,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>Some more personal observations&ndash;</p>
     <ul>
         <li><p>Between remote work, ChatGPT, and Amazon Fresh, I find little need to interact with others. COVID-19 may have killed society. Even dating and making friends have moved online.</p><p>Internet public spaces are also worsening (young people freely share Nazi memes on Twitter), and any sense of obligation I felt to people other than my family has withered away.</p><p>These feelings are likely quite common. I'm grateful I was well-settled before the pandemic hit. Kids today will have it much tougher.</p></li>
+        <li><p>Given the above, I can understand the reader asking why I love America.</p><p>Well, it's safe, diverse, has a beautiful countryside, ridiculously high pay for programmers, the world reserve currency, great weather. Heaven, really, without even needing to die first.</p><p>That said, my experience isn't the norm. I encourage most people to have a backup country. But if you're non-white and intelligent, this is as good as it gets. Everywhere else is worse.</p></li>
     </ul>
 </div>
 
