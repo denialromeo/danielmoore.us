@@ -9088,7 +9088,7 @@ const songs = [
 "Elvis Presley|(Now and Then There's) A Fool Such As I|1959|-unOfZiTM_0|Elvis Presley|S6256|Pop;Rockabilly;Rock;Rock & Roll|Fool (Elvis Presley song)",
 "Lucinda Williams|Pineola|1992|XvvFvgY3aO8|Lucinda Williams|S14697|Alt-Country;Country|Live at the Fillmore (Lucinda Williams album)",
 "Rheostatics|Record Body Count|1991|ztFL7EdKayg|Rheostatics|S15822|Indie Rock;Alternative Rock;Rock|",
-"Little Willie John|Talk to Me, Talk to Me|1958|QO0dyBC9Yrw|Little Willie John|S1629|Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|Talk to Me",
+"Little Willie John|Talk to Me, Talk to Me|1958|QO0dyBC9Yrw|Little Willie John|S1629|Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|Talk to Me (Joe Seneca song)",
 "Poison|Every Rose Has Its Thorn|1988|j2r2nDhTzO4|Poison (American band)|S11927|Acoustic Rock;Pop Rock;Pop;Rock|",
 "The Impalas|Sorry (I Ran All the Way Home)|1959|ufz4-fRCwwo|The Impalas|S3493|Doo-Wop;Descriptor;R&B;Vocal Group|Sorry (I Ran All the Way Home)",
 "The Tragically Hip|New Orleans Is Sinking|1989|AZwm_OKh6bw?start=9|The Tragically Hip|S8832|Blues Rock;Rock|New Orleans Is Sinking",
