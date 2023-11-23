@@ -2224,7 +2224,7 @@ const albums = [
 "Stephen Stills|Manassas|1972|OLAK5uy_lx_E-eR2tQunbKiCg8s6fp7--p4843lE8|A1372|Manassas (album)|Stephen Stills|Country Rock;Folk Rock;Rock",
 "Low|Secret Name|1999|OLAK5uy_lo_GU-gEhIkiFhXi_74_cifg1-GovKh8M|A3775|Secret Name|Low (band)|Slowcore;Alternative Rock;Indie Rock;Rock",
 "Spiritualized|And Nothing Hurt|2018|OLAK5uy_nz5MxvGUTuUtLrbwrN3SPQmUmBBdAEeH4|A6042|And Nothing Hurt|Spiritualized|Art Rock;Neo-Psychedelia;Psychedelic Rock;Rock",
-"Albert Ayler|Albert Ayler in Greenwich Village|1967|OLAK5uy_mvqq1u3ahmarvr4KiOq2LJGtD2sLy9VXY|A1963|Spirits (Albert Ayler album)|Albert Ayler|Free Jazz;Avant-Garde Jazz;Jazz",
+"Albert Ayler|Albert Ayler in Greenwich Village|1967|OLAK5uy_nSpj5aNcbSqEyrmiEr2XzQodIigZqy5lw|A1963|Albert Ayler in Greenwich Village|Albert Ayler|Free Jazz;Avant-Garde Jazz;Jazz",
 "Tom Rush|The Circle Game|1968|OLAK5uy_n8o8g06MSARBsJJgv70s7GpnM9fnJo3Cs|A1310|The Circle Game (album)|Tom Rush|Contemporary Folk;Folk",
 "Love|Da Capo|1966|PL5C667D497D624B87|A105|Da Capo (Love album)|Love (band)|Psychedelic Pop;Psychedelic Rock;Pop;Rock",
 "King Crimson|Larks' Tongues in Aspic|1973|OLAK5uy_nwJdj92uwTS0jn09Tykvmx9WUoNiW2HYo|A2475|Larks' Tongues in Aspic|King Crimson|Progressive Rock;Rock",
