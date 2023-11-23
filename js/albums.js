@@ -606,7 +606,7 @@ const albums = [
 "Various Artists|A Christmas Gift for You from Philles Records/Phil Spector|1963|OLAK5uy_lX-Zy80BtgKNNg6BBfj_gQuyZKQZE_o_o|A18|A Christmas Gift for You from Phil Spector|Phil Spector|Brill Building;Christmas Music;Girl Group;Descriptor;Holiday Music;Pop",
 "Tom Petty and the Heartbreakers|Damn the Torpedoes|1979|OLAK5uy_lGXW0aofOl-_6fh_hX9ZLQEnKneJs0qoA|A467|Damn the Torpedoes (album)|Tom Petty|Heartland Rock;Pop Rock;Pop;Rock",
 "Burning Spear|Marcus Garvey|1975|OLAK5uy_mrJ2L9ZacGGP-YNk7f9oVYDem02BaxGYI|A338|Marcus Garvey (album)|Burning Spear|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
-"Keith Jarrett|The Köln Concert|1975|PLWtfxqVrcN8WrLmGRA0ci6FuzsYkis3XH|A2018|The Köln Concert|Keith Jarrett|ECM Style Jazz;Jazz",
+"Keith Jarrett|The Köln Concert|1975|OLAK5uy_lapldioAF_TED2mynorLZzhTXmhfdcZfI|A2018|The Köln Concert|Keith Jarrett|ECM Style Jazz;Jazz",
 "Sparks|Kimono My House|1974|OLAK5uy_nsu3wh7aueSQnu8A90tkUWRww9pDgSlyo|A1392|Kimono My House|Sparks (band)|Art Pop;Glam Rock;Pop Rock;Pop;Rock",
 "Coldplay|Parachutes|2000|OLAK5uy_m4lOn8HJoLfTETxg2d6QouxcQd3nM4Gf0|A1088|Parachutes (Coldplay album)|Coldplay|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "Boston|Boston|1976|OLAK5uy_nIa5hnaHDjHpT76qUwvQaAgxpeu8XoSkk|A390|Boston (album)|Boston (band)|Hard Rock;Rock",
