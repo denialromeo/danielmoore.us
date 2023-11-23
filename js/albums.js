@@ -2138,7 +2138,7 @@ const albums = [
 "Rory Gallagher|Live! In Europe|1972|OLAK5uy_mJV9VT42HiwQ2DyIu0gE4Du6JSNiN36o0|A2424|Live in Europe (Rory Gallagher album)|Rory Gallagher|Blues Rock;Rock",
 "The Meters|Rejuvenation|1974|OLAK5uy_m4RyL0Bgny1f3efGjzGhnlORvR_4GQLhs|A2527|Rejuvenation (The Meters album)|The Meters|Funk;New Orleans R&B;R&B",
 "Viet Cong|Viet Cong|2015|OLAK5uy_lWF6xDFfCWCa6U0adF0mTXt-ydvuUZjro|A5559|Viet Cong (album)|Preoccupations|Post-Punk;Rock",
-"Shivkumar Sharma, Brijbushan Kabra|Call of the Valley & Hariprasad Chaurasia|1968|PL7Fc9v2zhBnumWMdb5zy0C4PVkU-VDda1|A2175|Call of the Valley|Shivkumar Sharma|Hindustani Classical Music;Classical Music;Regional Music;South Asian Classical Music;South Asian Music",
+"Shivkumar Sharma, Brijbushan Kabra & Hariprasad Chaurasia|Call of the Valley|1968|PL7Fc9v2zhBnumWMdb5zy0C4PVkU-VDda1|A2175|Call of the Valley|Shivkumar Sharma|Hindustani Classical Music;Classical Music;Regional Music;South Asian Classical Music;South Asian Music",
 "Hop Along|Painted Shut|2015|OLAK5uy_mPgWDYCKhuuGqF4KWwk3TknwFTOyxW-OY|A5612|Painted Shut|Hop Along|Indie Rock;Alternative Rock;Rock",
 "Elvis Costello and The Attractions|Punch the Clock|1983|OLAK5uy_mRQT5FBfZ18m9x2aY4R1dxa6Vr23KDB30|A576|Punch the Clock|Elvis Costello|New Wave;Pop Soul;Pop;R&B;Rock;Soul",
 "Bat for Lashes|The Haunted Man|2012|OLAK5uy_mNPeAXcAhCrDR_9veaYCZmQ5yByE8OA9M|A5193|The Haunted Man (album)|Bat for Lashes|Art Pop;Pop",
