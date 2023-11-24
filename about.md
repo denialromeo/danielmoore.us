@@ -121,6 +121,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Natural Causes*](https://www.goodreads.com/notes/38714645-natural-causes/71655209-daniel-moore) by [Barbara Ehrenreich](https://en.wikipedia.org/wiki/Barbara_Ehrenreich) (Living in fear of death is worse than dying.)
 * [*Straw Dogs*](https://www.goodreads.com/notes/29767507-straw-dogs/71655209-daniel-moore) by [John Gray](https://en.wikipedia.org/wiki/John_Gray_(philosopher)) (Giving up hope of "ultimate meaning" is the secret to happiness.)
 * [*The Trouble with Being Born*](https://www.goodreads.com/notes/50757709-the-trouble-with-being-born/71655209-daniel-moore) by [Emil Cioran](https://en.wikipedia.org/wiki/Emil_Cioran) (Resignation is only the beginning.)
+* [*Zero to One*](https://www.goodreads.com/notes/37653154-zero-to-one/71655209-daniel-moore) by [Peter Thiel](https://en.wikipedia.org/wiki/Peter_Thiel) (Push the boundaries of what's possible, or don't even start.)
 
 {:#economics-books}
 **Economics Books**
