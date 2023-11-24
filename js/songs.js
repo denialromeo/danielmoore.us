@@ -3717,7 +3717,7 @@ const songs = [
 "Sarah McLachlan|Building a Mystery|1997|_QUq72fla3o|Sarah McLachlan|S3610|Pop Rock;Singer/Songwriter;Pop;Rock|Building a Mystery",
 "Charles Mingus|Pithecanthropus Erectus|1956|i5xi3Dm7IGI|Charles Mingus|S9183|Post-Bop;Bebop;Jazz|",
 "The Police|So Lonely|1978|MX6MvV8cbh8|The Police|S7985|New Wave;Power Pop;Pop;Pop Rock;Rock|So Lonely",
-"Kavinsky feat. Lovefoxxx|Nightcall|2010|MV_3Dpw-BRY|Kavinsky|S11301|Synthpop;Synthwave;Electronic;Pop|",
+"Kavinsky feat. Lovefoxxx|Nightcall|2010|MV_3Dpw-BRY|Kavinsky|S11301|Synthpop;Synthwave;Electronic;Pop|Nightcall (song)",
 "Judee Sill|The Kiss|1973|0feFedDW_iQ?start=50|Judee Sill|S9265|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk|",
 "The Boo Radleys|Wake Up, Boo!|1995|YJXPTnPmm78|The Boo Radleys|S2105|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Wake Up Boo!",
 "Big Daddy Kane|Ain't No Half Steppin'|1988|nqPlF5Mn32M|Big Daddy Kane|S1988|Boom Bap;East Coast Hip Hop;Hip Hop|Ain't No Half-Steppin'",
