@@ -65,7 +65,7 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
     <p>Some more personal observations&ndash;</p>
     <ul>
-        <li><p>Between remote work, ChatGPT, and Amazon, I find little reason to interact with strangers. Even dating and socializing have moved online. COVID-19 may have killed society.</p></li>
+        <li><p>Between remote work, ChatGPT, and Amazon, I find little reason to interact with strangers. Even dating and socializing have moved online. COVID-19 may have killed society.</p><p>(That said, I've noticed a marked decline in racism and crime in my suburb, so it isn't all bad. Most of the local troublemakers seem to have left town for cheaper locales. I wish them luck.)</p></li>
         <li><p>Tech companies have laid off <a href="https://layoffs.fyi/">more than 200,000 people</a> in 2023. This is the worst tech sector economic downturn <a href="https://www.nytimes.com/2023/01/20/technology/tech-layoffs-millennials-gen-x.html">since the dot-com bust</a>.</p><p>Silicon Valley's best days may be behind us. Especially with <a href="https://archive.is/n3rpA">generative AI looming</a>.</p></li>
     </ul>
 </div>
