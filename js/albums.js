@@ -896,7 +896,7 @@ const albums = [
 "Alexander Skip Spence|Oar|1969|OLAK5uy_kZGVhx2i7B1z_SbTXBPUaGmO8j8nqBclA|A2280|Oar (album)|Skip Spence|Psychedelic Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Johnny Burnette|Johnny Burnette and the Rock 'n Roll Trio|1956|OLAK5uy_lf6p2fvhoUrmni7nRuoMflpXkXMGKsYI8|A24|Johnny Burnette and the Rock 'n Roll Trio|Johnny Burnette|Rockabilly;Rock;Rock & Roll",
 "Nilsson|Nilsson Schmilsson|1971|OLAK5uy_k7w1eMAy4dzFiSvkXebAuRTXJXnbA8jKw|A1136|Nilsson Schmilsson|Harry Nilsson|Pop Rock;Singer/Songwriter;Pop;Rock",
-"Bud Powell|The Amazing Bud Powell|1952|OLAK5uy_lvBaLFFEQs6c3hU17zCSU4xM-hHjTg0Eg|A1762|The Amazing Bud Powell|Bud Powell|Bebop;Jazz",
+"Bud Powell|The Amazing Bud Powell|1952|OLAK5uy_nmMbg8Y935hSZTg5oH19G96OFO9xMgu3s|A1762|The Amazing Bud Powell|Bud Powell|Bebop;Jazz",
 "Pantera|Vulgar Display of Power|1992|OLAK5uy_mEdSGtZnpiyztGgEaIYURc_q9S6egIHek|A1713|Vulgar Display of Power|Pantera|Groove Metal;Thrash Metal;Metal;Rock",
 "Crowded House|Woodface|1991|OLAK5uy_lbtgDy1HMUkyFkWpuyA55iZRZFEYk4lXw|A828|Woodface|Crowded House|Pop Rock;Pop;Rock",
 "Gene Clark|No Other|1974|OLAK5uy_lFAuNg8GbjivFUsVGuK58goa5S3GN1VPw|A320|No Other|Gene Clark|Country Rock;Singer/Songwriter;Rock",
