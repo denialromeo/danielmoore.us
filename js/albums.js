@@ -2964,7 +2964,7 @@ const albums = [
 "Tierra Whack|Whack World|2018|OLAK5uy_kp9cEu3hjJUpJ9gQb4A8JSdprNWeILffc|A6071|Whack World|Tierra Whack|Alternative R&B;Pop Rap;Contemporary R&B;Hip Hop;R&B",
 "Laura Marling|Semper Femina|2017|OLAK5uy_mqyN0JwROpYfF0Bh-SXpN87nzGZ8zGlvg|A5934|Semper Femina|Laura Marling|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Ted Leo, Rx/Pharmacists|Hearts of Oak|2003|OLAK5uy_lvruHJc2fktisgwDHOErU4fW-JU04g02E|A3922|Hearts of Oak (album)|Ted Leo and the Pharmacists|Indie Rock;Power Pop;Alternative Rock;Pop;Pop Rock;Rock",
-"Joe Lovano|Quartets - Live at the Village Vanguard|1995|PLB39845E6000A0214|A3550|Quartets: Live at the Village Vanguard|Joe Lovano|Jazz",
+"Joe Lovano|Quartets - Live at the Village Vanguard|1995|PLfJndz0utgOOm0x7_fkaG_ACeP9oHD2OV|A3550|Quartets: Live at the Village Vanguard|Joe Lovano|Jazz",
 "Secos & Molhados|Secos & Molhados|1973|OLAK5uy_n2yHg5KMDFPFm03CVzP1urUjxUfapi9TE|A4548|Secos & Molhados (album)|Secos & Molhados|Art Pop;Folk Pop;Progressive Pop;Contemporary Folk;Folk;Pop",
 "Handsome Boy Modeling School|So... How's Your Girl?|1999|OLAK5uy_mLU81VARA_ud40V0Pd4pYWAix9SGr9f_o|A3760|So... How's Your Girl%3F|Handsome Boy Modeling School|Hip Hop",
 "Julie London|Julie Is Her Name|1955|PLJ-ViTZrvg2x3LP09xnCihYMYhzODayA-|A2198|Julie Is Her Name|Julie London|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
