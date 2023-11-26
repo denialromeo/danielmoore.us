@@ -12,7 +12,7 @@ const albums = [
 "Bob Dylan|Highway 61 Revisited|1965|PLXRKTcRs-Xs7rr36o5_Cs7fBn8B7KsmRG|A31|Highway 61 Revisited|Bob Dylan|Folk Rock;Singer/Songwriter;Rock",
 "Sex Pistols|Never Mind the Bollocks - Here's the Sex Pistols|1977|OLAK5uy_nVIN3eJ40u07IXPL_3LzV5KMl_B6AXHyE|A391|Never Mind the Bollocks, Here's the Sex Pistols|Sex Pistols|Punk Rock;Rock",
 "The Beatles|White Album|1968|OLAK5uy_mMcxAy3_NLEnsuSq9I_qWIONOpdRfWlWw|A122|The Beatles (album)|The Beatles|Pop Rock;Pop;Rock",
-"The Jimi Hendrix Experience|Are You Experienced?|1967|OLAK5uy_nDSwZRsfyAwg6G0nBW7oleWiz41Z7OezU|A93|Are You Experienced|Jimi Hendrix|Acid Rock;Blues Rock;Psychedelic Rock;Rock",
+"The Jimi Hendrix Experience|Are You Experienced|1967|OLAK5uy_nDSwZRsfyAwg6G0nBW7oleWiz41Z7OezU|A93|Are You Experienced|Jimi Hendrix|Acid Rock;Blues Rock;Psychedelic Rock;Rock",
 "Van Morrison|Astral Weeks|1968|OLAK5uy_n7XQ-d3Nwn06S0JZO-9KcuqQyYxvf-iQw|A121|Astral Weeks|Van Morrison|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Bruce Springsteen|Born to Run|1975|OLAK5uy_nZs0gvllzGn7y9-5OuorN7W37HPrPGrn8|A331|Born to Run|Bruce Springsteen|Heartland Rock;Rock",
 "Kendrick Lamar|To Pimp a Butterfly|2015|OLAK5uy_n_dmtzA0IWImBN3fbUBUl_WgD-YSaMZaI|A5541|To Pimp a Butterfly|Kendrick Lamar|Conscious Hip Hop;Jazz Rap;Hip Hop",
