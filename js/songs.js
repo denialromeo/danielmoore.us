@@ -1180,7 +1180,7 @@ const songs = [
 "David Bowie|Modern Love|1983|HivQqTtiHVw|David Bowie|S4197|New Wave;Pop Rock;Pop;Rock|Modern Love (song)",
 "The Meters|Cissy Strut|1969|Nd3yDoOyvbY|The Meters|S898|Funk;R&B|",
 "Bob Dylan|Mr. Tambourine Man|1965|OeP4FFr88SQ|Bob Dylan|S2500|Contemporary Folk;Singer/Songwriter;Folk|Mr. Tambourine Man",
-"A Guy Called Gerald|Voodoo Ray|1988|j7vxHOCeiQ4|A Guy Called Gerald|S326|Acid House;Dance;Electronic;Electronic Dance Music;House|",
+"A Guy Called Gerald|Voodoo Ray|1988|j7vxHOCeiQ4|A Guy Called Gerald|S326|Acid House;Dance;Electronic;Electronic Dance Music;House|Voodoo Ray",
 "Sly and the Family Stone|I Want to Take You Higher|1969|BqWQzOzK3kw|Sly and the Family Stone|S2533|Pop Soul;Psychedelic Soul;Pop;R&B;Soul|I Want to Take You Higher",
 "Elton John|Bennie and the Jets|1973|wo1OwRTRKRk|Elton John|S2582|Piano Rock;Pop;Pop Rock;Rock|Bennie and the Jets",
 "Electric Light Orchestra|Mr. Blue Sky|1977|aQUlA8Hcv4s|Electric Light Orchestra|S1570|Pop Rock;Symphonic Rock;Pop;Rock|Mr. Blue Sky",
