@@ -1737,7 +1737,7 @@ const albums = [
 "Earl Sweatshirt|Some Rap Songs|2018|OLAK5uy_mw6k0v80FRFWZFcNDwPY0UufIdb-hzukc|A6061|Some Rap Songs|Earl Sweatshirt|Abstract Hip Hop;Experimental Hip Hop;Hip Hop",
 "The Dream Syndicate|The Days of Wine and Roses|1982|OLAK5uy_lovjgA2dVkfw6-FFAwrNm49TnSIn0vmaE|A566|The Days of Wine and Roses|The Dream Syndicate|Jangle Pop;Paisley Underground;Alternative Rock;Pop;Pop Rock;Psychedelic Rock;Rock",
 "Tame Impala|Innerspeaker|2010|OLAK5uy_k4doG5RdilYBelHruNokW5rhEUHl46tEM|A5102|Innerspeaker|Tame Impala|Neo-Psychedelia;Psychedelic Rock;Rock",
-"XTC|Apple Venus Volume 1|1999|PLudT4IUMJ7AoP3ADExA2S_TlDkbXdHKkA|A1077|Apple Venus Volume 1|XTC|Art Pop;Chamber Pop;Pop Rock;Baroque Pop;Indie Pop;Pop;Rock",
+"XTC|Apple Venus Volume 1|1999|PL0HPDOtD3WkOIds_PBsvukg_3FpwUHR0r|A1077|Apple Venus Volume 1|XTC|Art Pop;Chamber Pop;Pop Rock;Baroque Pop;Indie Pop;Pop;Rock",
 "John Cougar Mellencamp|Scarecrow|1985|OLAK5uy_mF3fOkoeJNybb7NIuHXyPfU5-dQ7DUNI8|A655|Scarecrow (John Mellencamp album)|John Mellencamp|Heartland Rock;Rock",
 "Basement Jaxx|Rooty|2001|OLAK5uy_lkokhlTFHUaghzjcVK_g3wseAONNmTjMM|A1214|Rooty|Basement Jaxx|Dance-Pop;House;Dance;Electronic;Electronic Dance Music;Pop",
 "Muse|Black Holes & Revelations|2006|OLAK5uy_mTXse5jJpNyu8P51L13nUPgceUnZKBzX8|A2147|Black Holes and Revelations|Muse (band)|Alternative Rock;Rock",
