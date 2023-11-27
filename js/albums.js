@@ -2627,7 +2627,7 @@ const albums = [
 "Los Planetas|Una semana en el motor de un autobús|1998|OLAK5uy_mq5Edg6ia-uNs4cu-ECbYMNXAm3o_gckI|A4866|https://es.wikipedia.org/wiki/Una_semana_en_el_motor_de_un_autob%C3%BAs|https://es.wikipedia.org/wiki/Los_Planetas_(banda)|Indie Rock;Alternative Rock;Rock",
 "Lambert, Hendricks and Ross|Sing a Song of Basie|1958|OLAK5uy_m7kTjj0KQD6BXD935jLdGvMq9mddNcgKA|A1824|Sing a Song of Basie|Lambert, Hendricks & Ross|Vocal Jazz;Jazz",
 "Cecil Taylor|Silent Tongues|1975|OLAK5uy_n9wcdT6R0DGrlEAgdoakRJSPjpqnPub7Q|A2015|Silent Tongues|Cecil Taylor|Free Jazz;Avant-Garde Jazz;Jazz",
-"Pat Metheny & Ornette Coleman|Song X|1986|OLAK5uy_nfE0mCyL3jOoyHTq8bV8vaOoJPA6LHwnk|A3132|Song X|Pat Metheny|Free Jazz;Avant-Garde Jazz;Jazz",
+"Pat Metheny & Ornette Coleman|Song X|1986|OLAK5uy_nskZkKO2tHiJ2AGt6oQJ4uYX9k1l0K2T4|A3132|Song X|Pat Metheny|Free Jazz;Avant-Garde Jazz;Jazz",
 "Tori Amos|From the Choirgirl Hotel|1998|OLAK5uy_kqT9wnSrkWsmWqQraLMHBOOIWJ54LWdAU|A3719|From the Choirgirl Hotel|Tori Amos|Art Pop;Singer/Songwriter;Pop",
 "Boredoms|Vision Creation Newsun|1999|PLD907EDCA6977DFF4|A4872|Vision Creation Newsun|Boredoms|Experimental Rock;Psychedelic Rock;Rock",
 "The Incredible String Band|The 5000 Spirits or the Layers of the Onion|1967|OLAK5uy_nuzhqEsWO03OddTJc-iHkm7SMe-dlfzGo|A2174|The 5000 Spirits or the Layers of the Onion|The Incredible String Band|Psychedelic Folk;Contemporary Folk;Folk",
