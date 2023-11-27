@@ -1299,7 +1299,7 @@ const albums = [
 "Bruce Springsteen|The Rising|2002|OLAK5uy_n9UUWeHA2YKfymVQqETeHazNMUstNmLqY|A1628|The Rising (album)|Bruce Springsteen|Heartland Rock;Pop Rock;Singer/Songwriter;Pop;Rock",
 "The National|Sleep Well Beast|2017|OLAK5uy_nGdHPSLr9PfCkcVp896m_19UoP7Rz-w6Y|A6001|Sleep Well Beast|The National (band)|Art Rock;Indie Rock;Alternative Rock;Rock",
 "Elvis Costello and The Attractions|Blood & Chocolate|1986|OLAK5uy_mXVt_hG0kubcOxlDTSKzfROcj7sckq05A|A665|Blood & Chocolate|Elvis Costello|Pop Rock;Pop;Rock",
-"Korn|Korn|1994|OLAK5uy_mDpHhF78_-3sm4kQB6HsIO6RkGUUyl3AE|A1598|Korn (album)|Korn|Nu Metal;Alternative Metal;Metal;Rock",
+"Korn|Korn|1994|OLAK5uy_lmmH5nhYjpyp1otjcC7OD-GAlG-n2C_bA|A1598|Korn (album)|Korn|Nu Metal;Alternative Metal;Metal;Rock",
 "Orange Juice|You Can't Hide Your Love Forever|1982|OLAK5uy_mChmEDkDB18Zf2Wq9Q_LmirJMZEIDj3To|A1476|You Can't Hide Your Love Forever|Orange Juice (band)|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Terry Riley|In C|1968|https://www.youtube.com/embed/tbTn79x-mrI|A1986|In C|Terry Riley|Indeterminacy;Minimalism;Classical Music;Experimental;Modern Classical",
 "Neil Young & Crazy Horse|Zuma|1975|PL6ogdCG3tAWhKPWfzVu_lSHtbJhw2n0xc|A349|Zuma (album)|Neil Young|Folk Rock;Singer/Songwriter;Rock",
