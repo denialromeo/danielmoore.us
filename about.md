@@ -187,7 +187,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Blog Posts**
 
 * "[Automation and the Future of Work](http://hipcrimevocab.com/2016/04/19/automation-and-the-future-of-work-black-lives-matter/#main)" by the Hipcrime Vocab (Technology causes poverty.)
-* "[Begin End](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)" by James Somers (Computer programmers may now be obsolete.)
+* "[Begin End](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)" by James Somers (Computer programming has likely peaked as a career.)
 * "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html#main)" by Seshadri Kumar (World War 3 has begun.)
 * "[The Dying Americans](https://hipcrime.blogspot.com/2015/11/the-dying-americans.html#main)" by the Hipcrime Vocab (Understanding Trump voters.)
 * "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Après Boomers, le déluge.)
