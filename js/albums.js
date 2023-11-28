@@ -1845,7 +1845,7 @@ const albums = [
 "Steppenwolf|Steppenwolf|1968|OLAK5uy_nNBzcKQAcI5bx84-LovU9KoBhAga4P6iI|A2220|Steppenwolf (Steppenwolf album)|Steppenwolf (band)|Hard Rock;Psychedelic Rock;Rock",
 "Blur|The Great Escape|1995|OLAK5uy_l1awE6xnvO3buweFZWd-5B_FJDCyE06VI|A941|The Great Escape (Blur album)|Blur (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "Suprême NTM|Paris sous les bombes|1995|OLAK5uy_n_TPDaDRP7eXvUmhCIr1lnC3-pgbgutnc|A4822|Paris sous les bombes|Suprême NTM|Boom Bap;French Hip Hop;Hardcore Hip Hop;Hip Hop",
-"Creedence Clearwater Revival|Bayou Country|1969|PLtzV2248lUVVqp5UBMu-Z2NOcMVaIx2CU|A1229|Bayou Country (album)|Creedence Clearwater Revival|Swamp Rock;Rock;Roots Rock",
+"Creedence Clearwater Revival|Bayou Country|1969|OLAK5uy_mkusHi_Wp5wuqIWI-jWh4KtvKOawj_uho|A1229|Bayou Country (album)|Creedence Clearwater Revival|Swamp Rock;Rock;Roots Rock",
 "David Holmes|Let's Get Killed|1997|OLAK5uy_nmUBau28r9B14_MDTXDUnmDpAJhPneTLA|A1618|Let's Get Killed|David Holmes (musician)|Breakbeat;Trip Hop;Dance;Downtempo;Electronic;Electronic Dance Music",
 "Jimmy Smith|The Sermon!|1959|PLEyxWPyoryRKs2mYeDOEoX6Gf4XuLqUXC|A1853|The Sermon (Jimmy Smith album)|Jimmy Smith (musician)|Soul Jazz;Jazz",
 "Giorgio Moroder|From Here to Eternity|1977|PL5ec5S7s3oLAFXTJRAU1N7M4fBYi6od71|A2683|From Here to Eternity (Giorgio Moroder album)|Giorgio Moroder|Italo-Disco;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music",
