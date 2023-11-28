@@ -7766,7 +7766,7 @@ const songs = [
 "Double Exposure|Ten Percent|1976|tGrKcqcHHcE|Double Exposure (band)|S12867|Disco;Philly Soul;Dance;R&B;Soul|Ten Percent (song)",
 "Buddy Holly & The Crickets|Well All Right|1958|P5AnUctpQXI|Buddy Holly|S5667|Pop;Rock & Roll;Rock|The Crickets",
 "tUnE-yArDs|Gangsta|2011|EbkMPHW67xM|Tune-Yards|S12484|Art Pop;Indie Pop;Pop|",
-"Cyndi Lauper|All Through the Night|1983|7mXLvYunKks|Cyndi Lauper|S5933|Synthpop;Electronic;Pop|All Through the Night (Jules Shear song)",
+"Cyndi Lauper|All Through the Night|1983|ZONKoKIQ9RY|Cyndi Lauper|S5933|Synthpop;Electronic;Pop|All Through the Night (Jules Shear song)",
 "John Cale|Child's Christmas in Wales|1973|r0tmZSTMDNY|John Cale|S15597|Art Pop;Singer/Songwriter;Pop|",
 "Judy Clay and William Bell|Private Number|1968|ce8AQloV71k|Judy Clay|S926|Southern Soul;R&B;Soul|Private Number (Judy Clay and William Bell song)",
 "The Notorious B.I.G.|Who Shot Ya?|1995|ObCAe5iWfno|The Notorious B.I.G.|S11786|Boom Bap;East Coast Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Who Shot Ya?",
