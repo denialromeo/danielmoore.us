@@ -2297,7 +2297,7 @@ const albums = [
 "Willie Nelson|Phases and Stages|1974|OLAK5uy_kO9EipifkmBQ6jouiNcLxUFBxrmGO2iwg|A1151|Phases and Stages|Willie Nelson|Outlaw Country;Country;Progressive Country",
 "U2|How to Dismantle an Atomic Bomb|2004|OLAK5uy_kocTIlcJ1uJ3Ak4beAMTVWE8OFNtlYBi8|A4076|How to Dismantle an Atomic Bomb|U2|Alternative Rock;Pop Rock;Pop;Rock",
 "Herbert|Around the House|1998|OLAK5uy_l_gWBkzbQrcqicCE11JGEoOplgVqbYoZ8|A3736|Around the House|Matthew Herbert|Microhouse;Dance;Electronic;Electronic Dance Music;House",
-"Graham Parker & The Rumour|Heat Treatment|1976|PL0VQVFM4ctAnNuc0SgK3TKyvhcC54ENDl|A374|Heat Treatment|Graham Parker|Pub Rock;Roots Rock;Singer/Songwriter;Rock",
+"Graham Parker & The Rumour|Heat Treatment|1976|OLAK5uy_lznoW3YIwWj-IOot8JkFOic78ufRL6eg0|A374|Heat Treatment|Graham Parker|Pub Rock;Roots Rock;Singer/Songwriter;Rock",
 "Johnny Cash|Johnny Cash with His Hot and Blue Guitar!|1957|OLAK5uy_l2u9SdJbEMu5giKsvs-0v2n4JW3WkTEXU|A2048|Johnny Cash with His Hot and Blue Guitar!|Johnny Cash|Country;Rockabilly;Rock;Rock & Roll",
 "Yo La Tengo|Electr-O-Pura|1995|OLAK5uy_lB0mugAGuiMo5uOM6hnP_apo3VqZx_vlQ|A1609|Electr-O-Pura|Yo La Tengo|Indie Rock;Noise Pop;Alternative Rock;Rock",
 "Cabaret Voltaire|Mix-Up|1979|OLAK5uy_mkmgiX5Pmpoa666eifZp7hdScc1XZT-Y8|A2747|Mix-Up|Cabaret Voltaire (band)|Industrial;Minimal Wave;Electronic;Experimental;Industrial Music",
