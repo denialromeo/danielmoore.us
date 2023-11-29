@@ -621,7 +621,7 @@ const albums = [
 "Teenage Fanclub|Bandwagonesque|1991|OLAK5uy_l_6KUVJSzAw8dMkwjMLOtCLs9NvLyxhz4|A817|Bandwagonesque|Teenage Fanclub|Jangle Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "A Tribe Called Quest|Midnight Marauders|1993|OLAK5uy_ncxk2dzMeB4E9vgbWeMvM_O_SydgJR2C0|A899|Midnight Marauders|A Tribe Called Quest|Boom Bap;Jazz Rap;Hip Hop",
 "Elvis Presley|Elvis|1956|PLgaFNC_I_ZkkBaGCnJgN-DSFhc4vfO5C7|A16|Elvis Presley (album)|Elvis Presley|Rock & Roll;Rock",
-"Richard Hell & The Voidoids|Blank Generation|1977|OLAK5uy_n8AAPBBtrmhj7XaGWvluZfvobvGSC_49k|A419|Blank Generation (album)|Richard Hell and the Voidoids|Art Punk;Punk Rock;Rock",
+"Richard Hell & The Voidoids|Blank Generation|1977|OLAK5uy_nGnsiN_V3QNloUmB-yw99rfqpvAsLide8|A419|Blank Generation (album)|Richard Hell and the Voidoids|Art Punk;Punk Rock;Rock",
 "Mitski|Be the Cowboy|2018|OLAK5uy_kPXuJ0JHp9Vg9Zi-hGZIgpSq0y0i9Q0ow|A6025|Be the Cowboy|Mitski|Art Pop;Indie Rock;Alternative Rock;Pop;Rock",
 "Marianne Faithfull|Broken English|1979|OLAK5uy_kP88Ih0FeXnlqqQH2gxQHuq9uxW4fjVRU|A472|Broken English (album)|Marianne Faithfull|Art Pop;New Wave;Pop;Rock",
 "Pusha T|Daytona|2018|OLAK5uy_l5cETt3EMP2MT3GF0WVC2bX2NijjMaSjk|A6024|Daytona (album)|Pusha T|Hardcore Hip Hop;Southern Hip Hop;Hip Hop",
