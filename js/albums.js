@@ -1773,7 +1773,7 @@ const albums = [
 "Florence + The Machine|Lungs|2009|OLAK5uy_kq7b-TslyY7hK-c9FNxCYTNGKoEds6Ayw|A5014|Lungs (album)|Florence and the Machine|Art Pop;Indie Pop;Pop",
 "Fleetwood Mac|Then Play On|1969|OLAK5uy_kBQKTXtfFJ9O53m9W8njYkoXrFMCVh94Q|A1122|Then Play On|Fleetwood Mac|Blues Rock;Rock",
 "Karlheinz Stockhausen|Kontakte|1960|https://www.youtube.com/embed/nbdmzSeFy_Y|A2309|Kontakte|Karlheinz Stockhausen|Electroacoustic;Serialism;Classical Music;Experimental;Modern Classical",
-"Procol Harum|A Salty Dog|1969|PLVZbPSE4nfivA9hf_ISDugCM4wkgC9zqL|A1120|A Salty Dog|Procol Harum|Progressive Rock;Rock",
+"Procol Harum|A Salty Dog|1969|OLAK5uy_ngaf3zt2entB2XyRUt2frT0S9ENkOQNX4|A1120|A Salty Dog|Procol Harum|Progressive Rock;Rock",
 "Ella Fitzgerald|Ella Fitzgerald Sings the Rodgers and Hart Songbook|1956|OLAK5uy_lD1Gom577xN5HXZkZ2ZMi3xfOIaSsXue4|A1791|Ella Fitzgerald Sings the Rodgers & Hart Song Book|Ella Fitzgerald|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "The Tony Williams Lifetime|Emergency!|1969|OLAK5uy_mTe0_-knDJvVQA9oTi_IieuGgoJOgZh6U|A1994|Emergency! (album)|The Tony Williams Lifetime|Jazz Fusion;Jazz",
 "Against Me!|Transgender Dysphoria Blues|2014|OLAK5uy_lApTM5aYXIj34giMCEfHC0Sk6EAI-_cj8|A5430|Transgender Dysphoria Blues|Against Me!|Punk Rock;Rock",
