@@ -10608,7 +10608,7 @@ const songs = [
 "U2|City of Blinding Lights|2004|ZhCezZQqxx4|U2|S12502|Pop Rock;Pop;Rock|City of Blinding Lights",
 "Wilco|If I Ever Was a Child|2016|Z3qns8qGJI0|Wilco|S16215|Alt-Country;Folk Rock;Indie Folk;Contemporary Folk;Country;Folk;Rock|Schmilco",
 "Scandal|The Warrior|1984|47y5bo8wtqM|Scandal (American band)|S12166|Pop Rock;Pop;Rock|The Warrior (song)",
-"Future|F*ck Up Some Commas|2015|wKl6umkwKfU|Future (rapper)|S9770|Pop Rap;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Fuck Up Some Commas",
+"Future|Fuck Up Some Commas|2015|wKl6umkwKfU|Future (rapper)|S9770|Pop Rap;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Fuck Up Some Commas",
 "Tim Hutton|Been a Fool|2000|7WuYeP1B3eE|https://www.discogs.com/artist/12601-Tim-Hutton|S8759|Singer/Songwriter;Trip Hop;Downtempo;Electronic|",
 "Eleanor Friedberger|My Mistakes|2011|MRUOoSKt6Kg|Eleanor Friedberger|S6224|Indie Pop;Pop|My Mistakes (Eleanor Friedberger song)",
 "The Fugs|Boobs a Lot|1965|tL4z-nKmTgI|The Fugs|S3428|Rock & Roll;Rock|",
