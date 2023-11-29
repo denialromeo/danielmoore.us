@@ -6711,7 +6711,7 @@ const songs = [
 "The Five Keys|The Glory of Love|1951|HwpecV7xfvk|The Five Keys|S4363|Doo-Wop;Descriptor;R&B;Vocal Group|The Glory of Love (song)",
 "The Wannadies|You and Me Song|1996|t_e_45Szprk|The Wannadies|S8931|Indie Pop;Power Pop;Pop;Pop Rock;Rock|You and Me Song",
 "Oasis|Acquiesce|1995|N7xdHY8HK9Y|Oasis (band)|S12682|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Acquiesce",
-"D'Angelo|Shit, Damn, Motherf*cker|1995|EWh7zJKUafw|D'Angelo|S2634|Neo-Soul;R&B;Soul|Brown Sugar (D'Angelo album)",
+"D'Angelo|Shit, Damn, Motherfucker|1995|EWh7zJKUafw|D'Angelo|S2634|Neo-Soul;R&B;Soul|Brown Sugar (D'Angelo album)",
 "The Verve Pipe|The Freshmen|1996|1umEXpGHc0E|The Verve Pipe|S8979|Post-Grunge;Alternative Rock;Rock|The Freshmen (song)",
 "Fleet Foxes|Grown Ocean|2011|Pgv6dKV03dA|Fleet Foxes|S6387|Chamber Folk;Indie Folk;Contemporary Folk;Folk|",
 "N.E.R.D.|She Wants to Move|2004|mXC3h95PtDY|N.E.R.D.|S2472|Funk Rock;Rock|",
