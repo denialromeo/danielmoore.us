@@ -1147,7 +1147,7 @@ const albums = [
 "Judy Garland|Judy at Carnegie Hall|1961|OLAK5uy_nqLBQJhm3YCwSdX968wHVvH0QyCx2FjNA|A1900|Judy at Carnegie Hall|Judy Garland|Standards;Pop;Traditional Pop",
 "Pavement|Wowee Zowee|1995|OLAK5uy_l-pwm-dYboEl8L7CciaXUWgo2G89FhxR0|A1611|Wowee Zowee|Pavement (band)|Indie Rock;Alternative Rock;Rock",
 "LFO|Frequencies|1991|OLAK5uy_lAEtANBs98LNXeOfXxALpsWTWIcxBnzz0|A1563|Frequencies (album)|LFO (American band)|IDM;Techno;Dance;Electronic;Electronic Dance Music",
-"Clifford Brown & Max Roach|Daahoud/Clifford Brown & Max Roach|1954|OLAK5uy_nsaALzT4MyJS5HFcgdOkUFxIqEGqlciNA|A1773|Clifford Brown & Max Roach|Clifford Brown|Hard Bop;Bebop;Jazz",
+"Clifford Brown & Max Roach|Daahoud|1954|OLAK5uy_nsaALzT4MyJS5HFcgdOkUFxIqEGqlciNA|A1773|Daahoud|Clifford Brown|Hard Bop;Bebop;Jazz",
 "The Soft Machine|The Soft Machine|1968|OLAK5uy_mxKZLwzrLKjs-Wfar-Gpe7iidLc03uOiQ|A137|The Soft Machine (Soft Machine album)|Soft Machine|Canterbury Scene;Psychedelic Rock;Progressive Rock;Rock",
 "Nick Cave and The Bad Seeds|Let Love In|1994|OLAK5uy_naAb-4-gM6zXnSVrmxqM3B-v3cAZXNuDc|A919|Let Love In (Nick Cave and the Bad Seeds album)|Nick Cave and the Bad Seeds|Alternative Rock;Post-Punk;Rock",
 "Future|DS2|2015|OLAK5uy_kl6DINysQx_AH3w-8hS57PL7x514eWeEE|A5572|DS2 (album)|Future (rapper)|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
