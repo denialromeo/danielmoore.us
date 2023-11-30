@@ -2293,7 +2293,7 @@ const albums = [
 "George Michael|Listen Without Prejudice Vol. 1|1990|OLAK5uy_nGIIketv7k7Zr7zjs0vLNeQpb-5duTmAM|A808|Listen Without Prejudice Vol. 1|George Michael|Pop",
 "Feist|Let It Die|2004|OLAK5uy_k70MpzS4QntcCRkoLSCW-d2wj8sEmsP9k|A4107|Let It Die (album)|Feist (singer)|Indie Pop;Singer/Songwriter;Pop",
 "Julia Holter|Aviary|2018|OLAK5uy_nhD4ipyN1iLg3P5jw8gwwP-wrlLsuP_bI|A6049|Aviary (album)|Julia Holter|Ambient Pop;Art Pop;Experimental;Progressive Pop;Pop",
-"George Russell|New York N.Y.|1959|PL0q2VleZJVEmqADP-yASWIBI3xWYFjzxS|A2273|New York, N.Y. (album)|George Russell (composer)|Big Band;Jazz",
+"George Russell|New York, N.Y.|1959|OLAK5uy_kguXvLgw_qQff747iPsycepMLvM9xQ4vI|A2273|New York, N.Y. (album)|George Russell (composer)|Big Band;Jazz",
 "Willie Nelson|Phases and Stages|1974|OLAK5uy_kO9EipifkmBQ6jouiNcLxUFBxrmGO2iwg|A1151|Phases and Stages|Willie Nelson|Outlaw Country;Country;Progressive Country",
 "U2|How to Dismantle an Atomic Bomb|2004|OLAK5uy_kocTIlcJ1uJ3Ak4beAMTVWE8OFNtlYBi8|A4076|How to Dismantle an Atomic Bomb|U2|Alternative Rock;Pop Rock;Pop;Rock",
 "Herbert|Around the House|1998|OLAK5uy_l_gWBkzbQrcqicCE11JGEoOplgVqbYoZ8|A3736|Around the House|Matthew Herbert|Microhouse;Dance;Electronic;Electronic Dance Music;House",
