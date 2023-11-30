@@ -1306,7 +1306,7 @@ const albums = [
 "Kate Bush|The Dreaming|1982|OLAK5uy_lbVVvc21x5VshNYvG3LGhSjaLQzZV-1DI|A1485|The Dreaming (album)|Kate Bush|Art Pop;Progressive Pop;Pop",
 "Santana|Santana|1969|OLAK5uy_m06x3giB9bOdUJBIFGYzBeqn_UZY05_a4|A1230|Santana (1969 album)|Carlos Santana|Latin Rock;Hispanic Music;Latin American Music;Regional Music;Rock",
 "John Coltrane|John Coltrane and Johnny Hartman|1963|OLAK5uy_ngX5UfQV3KBXD2cBpUFU1i4haE6dihe1Q|A1926|John Coltrane and Johnny Hartman|John Coltrane|Vocal Jazz;Jazz",
-"Blood, Sweat & Tears|Blood, Sweat & Tears|1969|OLAK5uy_mTtw364CcLVq4G4LsZlhdhEwzNjEEr5EU|A1117|Blood, Sweat & Tears (Blood, Sweat & Tears album)|Blood, Sweat & Tears|Jazz-Rock;Rock",
+"Blood, Sweat & Tears|Blood, Sweat & Tears|1969|OLAK5uy_kpIULUpIpqShx9-3B0qDFcseb2cUyGCpM|A1117|Blood, Sweat & Tears (Blood, Sweat & Tears album)|Blood, Sweat & Tears|Jazz-Rock;Rock",
 "Paul Simon|Still Crazy After All These Years|1975|OLAK5uy_l8G03KMTVvL-erd5UuGfh64ZiBC55jg9k|A352|Still Crazy After All These Years|Paul Simon|Singer/Songwriter",
 "Loretta Lynn|Van Lear Rose|2004|PLkEx8_pFoyQQ9UhoAQyMsMxMTnarg03Wn|A4045|Van Lear Rose|Loretta Lynn|Alt-Country;Country",
 "Burial|Burial|2006|OLAK5uy_nPTTEqEcZvX4NzMlXiaxE8WIBz2N0WLw4|A3146|Burial (Burial album)|Burial (musician)|Dubstep;Future Garage;Dance;Electronic;Electronic Dance Music;UK Garage",
