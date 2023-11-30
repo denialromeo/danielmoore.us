@@ -1570,7 +1570,7 @@ const albums = [
 "Caetano Veloso|Estrangeiro|1989|OLAK5uy_m24TJ-cNeBTYd_F0vTL6SnhgiyGyIFecc|A2904|Estrangeiro|Caetano Veloso|MPB;Singer/Songwriter;Brazilian Music;Regional Music",
 "Converge|All We Love We Leave Behind|2012|OLAK5uy_lyQC3_EiB6YQUHL45xcfwfO4vjW3S15Pk|A5200|All We Love We Leave Behind|Converge (band)|Metalcore;Hardcore Punk;Metal;Punk Rock;Rock",
 "Black Star|Mos Def & Talib Kweli Are Black Star|1998|OLAK5uy_llbs30uzr9Yv-tsC3HEuakyIlpLzxZtRw|A3739|Mos Def & Talib Kweli Are Black Star|Black Star (rap duo)|Boom Bap;Conscious Hip Hop;Hip Hop",
-"Charles Mingus|Tijuana Moods/New Tijuana Moods|1962|OLAK5uy_la_P_D_tI8GLMZngiq61mBkvh42pemYqk|A1946|Tijuana Moods|Charles Mingus|Post-Bop;Bebop;Jazz",
+"Charles Mingus|Tijuana Moods|1962|OLAK5uy_la_P_D_tI8GLMZngiq61mBkvh42pemYqk|A1946|Tijuana Moods|Charles Mingus|Post-Bop;Bebop;Jazz",
 "Andy Stott|Luxury Problems|2012|OLAK5uy_ngM_eBZNTBcfpwoaFQWkgfjq8Gnxo7g0c|A5239|Luxury Problems (Andy Stott album)|Andy Stott|Dub Techno;Dance;Electronic;Electronic Dance Music;Minimal Techno;Techno",
 "DJ Rashad|Double Cup|2013|OLAK5uy_khGswSRQJj9RlInb6-O_r5aOwUXV4ZwVA|A5299|Double Cup|DJ Rashad|Footwork;Dance;Electronic;Electronic Dance Music;Ghetto House;House;Juke",
 "Kurt Vile|Wakin on a Pretty Daze|2013|OLAK5uy_l8phFcfBiNzMp8ys3pHi9HExVSV37t23o|A5383|Wakin on a Pretty Daze|Kurt Vile|Folk Rock;Singer/Songwriter;Rock",
