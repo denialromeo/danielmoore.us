@@ -2846,7 +2846,7 @@ const albums = [
 "Archers of Loaf|Icky Mettle|1993|OLAK5uy_lwz5-sIlYkc_opnHBqpPK1374lhuii8KQ|A3529|Icky Mettle|Archers of Loaf|Indie Rock;Noise Pop;Alternative Rock;Rock",
 "Emmylou Harris|Luxury Liner|1977|OLAK5uy_m0J_in6CVnVQauJFZLlnGDhVN7shnic5c|A1431|Luxury Liner (album)|Emmylou Harris|Progressive Country;Country",
 "Whipping Boy|Heartworm|1995|OLAK5uy_n_STrJLQQQ29ig3aUggTXmNdjy46xengw|A4829|Heartworm (album)|Whipping Boy (Irish band)|Alternative Rock;Rock",
-"Delaney & Bonnie|Delaney & Bonnie & Friends On Tour with Eric Clapton|1970|PLHsZtZLpiZPeNIMk5CHIFMkmGdiTxLcyf|A1342|The Original Delaney & Bonnie & Friends|Delaney & Bonnie|Blue Eyed Soul;Blues Rock;Pop;Rock",
+"Delaney & Bonnie|On Tour with Eric Clapton|1970|OLAK5uy_lXnJDyWrQbM0M7GH71yoGY9U4NicrYt_4|A1342|On Tour with Eric Clapton|Delaney & Bonnie|Blue Eyed Soul;Blues Rock;Pop;Rock",
 "Ultravox|Vienna|1980|OLAK5uy_nREGgMopk7CULtdDJSkGoBqCPV-gm2pzk|A2789|Vienna (album)|Ultravox|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock",
 "Beth Gibbons and Rustin Man|Out of Season|2002|OLAK5uy_l0Lns5MJxJfMjpELRIsHsp0QMJxHWzBIg|A1648|Out of Season (Beth Gibbons and Rustin Man album)|Beth Gibbons|Contemporary Folk;Folk",
 "Kendrick Lamar|untitled unmastered.|2016|OLAK5uy_ni-4jK_Z1iHKOkLAL1_6wzbnmJi-SXG-8|A5757|Untitled Unmastered|Kendrick Lamar|Conscious Hip Hop;Jazz Rap;Hip Hop",
