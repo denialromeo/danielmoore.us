@@ -2273,7 +2273,7 @@ const albums = [
 "Aretha Franklin|Aretha Live at Fillmore West|1971|OLAK5uy_mYfKtiDbWPtvupfxtpo4v1UoM3m7Xz4II|A2387|Aretha Live at Fillmore West|Aretha Franklin|Deep Soul;R&B;Soul;Southern Soul",
 "The Fugs|The Village Fugs/The Fugs' First Album|1965|OLAK5uy_lQ3I93spzY6zGjco-eeyZZLhZcUOeDb2s|A2052|The Fugs First Album|The Fugs|Beat Poetry;Folk Rock;Garage Rock;Psychedelic Folk;Contemporary Folk;Descriptor;Folk;Poetry;Rock;Spoken Word",
 "The Doors|Waiting for the Sun|1968|OLAK5uy_liOYIzH3_3eKYgmX_D_scWoc4ECjzPt5Q|A144|Waiting for the Sun|The Doors|Psychedelic Rock;Rock",
-"Jimmy Giuffre|Jimmy Giuffre 3|1957|OLAK5uy_lNTuhJI_yzAugQiTD-Upo4Pc3huZq06PQ|A1795|Fusion (Jimmy Giuffre 3 album)|Jimmy Giuffre|Cool Jazz;Jazz",
+"Jimmy Giuffre|Jimmy Giuffre 3|1957|OLAK5uy_lNTuhJI_yzAugQiTD-Upo4Pc3huZq06PQ|A1795|The Jimmy Giuffre 3|Jimmy Giuffre|Cool Jazz;Jazz",
 "New Order|Brotherhood|1986|OLAK5uy_mvYVEu5NJyFmFIj_aJjyVIzMA52TLBOgs|A1505|Brotherhood (New Order album)|New Order (band)|Alternative Dance;New Wave;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock",
 "Richard Hawley|Coles Corner|2005|OLAK5uy_lMcnjNM_AxBKPedFve3terpECJNb85R4U|A4206|Coles Corner (album)|Richard Hawley|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop",
 "PJ Harvey|The Hope Six Demolition Project|2016|OLAK5uy_mWQzOTjr7R75RIN89Fi7TtBWf_l4GDfwU|A5794|The Hope Six Demolition Project|PJ Harvey|Alternative Rock;Art Rock;Rock",
