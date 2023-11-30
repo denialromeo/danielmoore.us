@@ -1150,7 +1150,7 @@ const albums = [
 "Clifford Brown & Max Roach|Daahoud|1954|OLAK5uy_nsaALzT4MyJS5HFcgdOkUFxIqEGqlciNA|A1773|Daahoud|Clifford Brown|Hard Bop;Bebop;Jazz",
 "The Soft Machine|The Soft Machine|1968|OLAK5uy_mxKZLwzrLKjs-Wfar-Gpe7iidLc03uOiQ|A137|The Soft Machine (Soft Machine album)|Soft Machine|Canterbury Scene;Psychedelic Rock;Progressive Rock;Rock",
 "Nick Cave and The Bad Seeds|Let Love In|1994|OLAK5uy_naAb-4-gM6zXnSVrmxqM3B-v3cAZXNuDc|A919|Let Love In (Nick Cave and the Bad Seeds album)|Nick Cave and the Bad Seeds|Alternative Rock;Post-Punk;Rock",
-"Future|DS2|2015|OLAK5uy_kl6DINysQx_AH3w-8hS57PL7x514eWeEE|A5572|DS2 (album)|Future (rapper)|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
+"Future|DS2|2015|PLft_P2ts0LN6pGtXhholWbVpnnfoNf0mQ|A5572|DS2 (album)|Future (rapper)|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Diana Ross|Diana|1980|PLdB2qly-JTgCkKk4z6wHkcsCaTFn1j6qV|A2762|Diana (album)|Diana Ross|Disco;Dance",
 "Bonnie Raitt|Nick of Time|1989|OLAK5uy_mgUSMSLYFnMQ_F-B2P_B7A1SQ3d9PEFtU|A777|Nick of Time (album)|Bonnie Raitt|Blues Rock;Pop Rock;Pop;Rock",
 "Supergrass|I Should Coco|1995|OLAK5uy_kmQVW7HIS2DZHRvgbXwwtOZCTHaiqnWeA|A940|I Should Coco|Supergrass|Britpop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock",
