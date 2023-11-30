@@ -870,7 +870,7 @@ const albums = [
 "Animal Collective|Strawberry Jam|2007|OLAK5uy_lfdXw3GIs_MApCgyI_Qc8CNTX4eldjBfw|A4246|Strawberry Jam|Animal Collective|Neo-Psychedelia;Psychedelic Rock;Rock",
 "Modest Mouse|The Lonesome Crowded West|1997|OLAK5uy_l8YHyFTor9ODe5M80fUoSo5W3Ava4KwRo|A1743|The Lonesome Crowded West|Modest Mouse|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock",
 "Oneohtrix Point Never|Replica|2011|OLAK5uy_kqcRQq537qb8zWCMVZbxjhVgQhxpwcF0A|A5163|Replica (Oneohtrix Point Never album)|Oneohtrix Point Never|Plunderphonics;Experimental;Sound Collage;Tape Music",
-"Erroll Garner|Concert by the Sea|1956|PL5cXl_IvbwiUUBEBmiILLrBd7WmU3IRye|A1783|Concert by the Sea|Erroll Garner|Jazz",
+"Erroll Garner|Concert by the Sea|1956|PL7gp579CMkT9EF5FVcpBqIsoXsTFgL9EA|A1783|Concert by the Sea|Erroll Garner|Jazz",
 "Pearl Jam|Vitalogy|1994|OLAK5uy_mgydS5GYRMpD90tv3uMJ2KpIKTBaN0Niw|A924|Vitalogy|Pearl Jam|Grunge;Alternative Rock;Rock",
 "Genesis|Selling England by the Pound|1973|OLAK5uy_kkgAn92SdFt_nUYmDjGo8jyKGKnQ_AM8Q|A1241|Selling England by the Pound|Genesis (band)|Progressive Rock;Rock",
 "Van Dyke Parks|Song Cycle|1967|OLAK5uy_nGFNrA5UURv3Z7ongp6boZ-IgQUyjjo3w|A1306|Song Cycle (album)|Van Dyke Parks|Art Pop;Baroque Pop;Psychedelic Pop;Pop",
