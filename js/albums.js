@@ -1268,7 +1268,7 @@ const albums = [
 "Erykah Badu|New Amerykah Part One (4th World War)|2008|OLAK5uy_ljX4Rg3qr7qW2qe7O_YbsFb1t4KOwh7Sk|A4351|New Amerykah Part One (4th World War)|Erykah Badu|Neo-Soul;R&B;Soul",
 "Cesária Évora|Miss Perfumado|1992|OLAK5uy_kw-dKzK525PWzTRJvuG3yiGlTk-6ZxkeM|A3733|Miss Perfumado|Cesária Évora|Morna;African Music;Cape Verdean Music;Regional Music",
 "Kyuss|Welcome to Sky Valley|1994|OLAK5uy_nMgsNlgSfIDPCDgL_FcmVTq8xGeQgSTfI|A3524|Welcome to Sky Valley|Kyuss|Stoner Metal;Stoner Rock;Hard Rock;Metal;Rock",
-"Harry Belafonte|Calypso|1956|OLAK5uy_kaFbcnqclnAH85CxOdR-otgv_frQry7KY|A1787|Calypso (album)|Harry Belafonte|Calypso;Caribbean Music;Regional Music",
+"Harry Belafonte|Calypso|1956|PLt7XaqdJ5_tq7990xafKl7VzfMRmrNvno|A1787|Calypso (album)|Harry Belafonte|Calypso;Caribbean Music;Regional Music",
 "PJ Harvey|White Chalk|2007|OLAK5uy_mm-uoZEsWDq2A8FYVyk7zc3ynF_nWVPGc|A4243|White Chalk|PJ Harvey|Singer/Songwriter",
 "Alice Cooper|Billion Dollar Babies|1973|OLAK5uy_m0XSzIovn11k53wRD4E289tamolg4HbdQ|A1242|Billion Dollar Babies|Alice Cooper|Glam Rock;Hard Rock;Rock",
 "The Clash|Combat Rock|1982|OLAK5uy_kb8BuBDpiZUeHt3hhWb_CVRL--W9JOPxk|A550|Combat Rock|The Clash|New Wave;Punk Rock;Rock",
