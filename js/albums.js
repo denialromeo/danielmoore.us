@@ -2923,7 +2923,7 @@ const albums = [
 "Bill Callahan|Shepherd in a Sheepskin Vest|2019|OLAK5uy_la5GpGaax6es8NTwLbFqItk8gtquzOXRQ|A6219|Shepherd in a Sheepskin Vest|Bill Callahan (musician)|Americana;Singer/Songwriter;Country",
 "Mary J. Blige|Mary|1999|OLAK5uy_lj2AzCUU-IevR-Dfx7m6tCZsI6J74qyig|A3753|Mary (Mary J. Blige album)|Mary J. Blige|Contemporary R&B;Neo-Soul;R&B;Soul",
 "Jimmy Giuffre|Free Fall|1963|OLAK5uy_lNTuhJI_yzAugQiTD-Upo4Pc3huZq06PQ|A1914|Free Fall (Jimmy Giuffre album)|Jimmy Giuffre|Free Jazz;Avant-Garde Jazz;Jazz",
-"Frank Sinatra|Songs for Young Lovers|1954|PLBcFCtPotX-jEOH_9TiqCSC6MvQiEvf1m|A1776|Songs for Young Lovers|Frank Sinatra|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
+"Frank Sinatra|Songs for Young Lovers|1954|PLph8hEsdeSe3GXx7pB7KjqPRjV8HB9_8M|A1776|Songs for Young Lovers|Frank Sinatra|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "Everything But the Girl|Eden|1984|OLAK5uy_mnG1d2ckDnItSGdGvx9oy9qolOdEQR8OY|A1495|Eden (Everything but the Girl album)|Everything but the Girl|Jazz Pop;Sophisti-Pop;Pop",
 "Iggy Pop|Post Pop Depression|2016|OLAK5uy_mr58EV8AjG8ufusuE7BDuzkH05VyBUDII|A5742|Post Pop Depression|Iggy Pop|Alternative Rock;Rock",
 "Danny Brown|uknowhatimsayin?|2019|OLAK5uy_m4e3LMEQOJkBCXL3JZEmKIaL5xtLDfooE|A6246|U Know What I'm Sayin%3F|Danny Brown|Abstract Hip Hop;Hardcore Hip Hop;Hip Hop",
