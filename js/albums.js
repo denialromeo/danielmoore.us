@@ -1579,7 +1579,7 @@ const albums = [
 "Jessie Ware|Devotion|2012|OLAK5uy_litolDSgpkmVqYD-0KsWvQea-MuV6dvoI|A5248|Devotion (Jessie Ware album)|Jessie Ware|Alternative R&B;Contemporary R&B;R&B",
 "The Black Keys|El Camino|2011|OLAK5uy_nmEXRQ4KQiAqn9UByVX4gdnFNMWFeYvBw|A5129|El Camino (The Black Keys album)|The Black Keys|Blues Rock;Garage Rock;Rock",
 "The Good, the Bad & the Queen|The Good, the Bad and the Queen|2007|PLyxrGQX-rD8GHwyeew3j60Wf33BON53C4|A4252|The Good, the Bad & the Queen (album)|The Good, the Bad & the Queen|Indie Rock;Alternative Rock;Rock",
-"Gene Vincent and His Blue Caps|Gene Vincent and the Blue Caps|1957|OLAK5uy_kcp7fyYe5j2_lUBnrzAdFBKUUR8KmHAyI|A27|Gene Vincent and the Blue Caps|Gene Vincent|Rockabilly;Rock;Rock & Roll",
+"Gene Vincent and His Blue Caps|Gene Vincent and the Blue Caps|1957|OLAK5uy_kFmsx0iMAev00WPYF09hxQguFEadIXTgw|A27|Gene Vincent and the Blue Caps|Gene Vincent|Rockabilly;Rock;Rock & Roll",
 "Parliament|Funkentelechy vs. the Placebo Syndrome|1977|OLAK5uy_kSgDSfvP7iK2EOYy0wkHg4F0FCTzFG8kM|A1156|Funkentelechy vs. the Placebo Syndrome|Parliament (band)|P-Funk;Funk;R&B",
 "Jethro Tull|Thick As a Brick|1972|OLAK5uy_kk5Y4OYWFNpEAo-Ib4SSy4qDyFj_Oj4oA|A1176|Thick as a Brick|Jethro Tull (band)|Progressive Rock;Rock",
 "Dave Holland|Conference of the Birds|1973|PL694ct-ZcR0rAp-NGALj_3hCKj1_MYHAx|A2006|Conference of the Birds (Dave Holland album)|Dave Holland|Avant-Garde Jazz;Jazz",
