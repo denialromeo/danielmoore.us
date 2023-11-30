@@ -2910,7 +2910,7 @@ const albums = [
 "Kim Gordon|No Home Record|2019|OLAK5uy_lmOzIUd1a5U60L-TkSQpUsiGyGm_AGm8w|A6285|No Home Record|Kim Gordon|Industrial;Noise Rock;Experimental;Industrial Music;Rock",
 "La Femme|Psycho Tropical Berlin|2013|PLjApp6Lljo-MylWCniAUpuVUCb6enE9Ka|A6745|Psycho Tropical Berlin|La Femme (band)|French Pop;Synthpop;Electronic;Pop",
 "Pearls Before Swine|Balaklava|1968|OLAK5uy_nC4t8uWfHZ0jvqHyuLoM4ruo_D7il9ss8|A2234|Balaklava (album)|Pearls Before Swine (band)|Psychedelic Folk;Contemporary Folk;Folk",
-"Art Blakey|Art Blakey's Jazz Messengers with Thelonious Monk|1958|OLAK5uy_li2Lib4p8GqQPOocxIOtnkV0zQG-bp9Fo|A2266|Art Blakey!!!!! Jazz Messengers!!!!!|Art Blakey|Hard Bop;Bebop;Jazz",
+"Art Blakey|Art Blakey's Jazz Messengers with Thelonious Monk|1958|OLAK5uy_li2Lib4p8GqQPOocxIOtnkV0zQG-bp9Fo|A2266|Art Blakey's Jazz Messengers with Thelonious Monk|Art Blakey|Hard Bop;Bebop;Jazz",
 "Scott Walker|Scott 2|1968|OLAK5uy_lkhFf9KywKqDu05kt71iwikn6pTUxmmXM|A1315|Scott 2|Scott Walker (singer)|Baroque Pop;Pop",
 "The Gun Club|The Las Vegas Story|1984|OLAK5uy_mSHN6d2koCFWnVZy4-v-3c28ukToqbtZQ|A1490|The Las Vegas Story (album)|The Gun Club|Post-Punk;Rock",
 "Brian Eno|Ambient 4: On Land|1982|OLAK5uy_nGPxToS0FelseuN1PKsG-Z4ypMtFtaENY|A2804|Ambient 4: On Land|Brian Eno|Ambient",
