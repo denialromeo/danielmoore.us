@@ -891,7 +891,7 @@ const albums = [
 "R.E.M.|Green|1988|PL6vwnon3sINofVWeA0zauiMFmvWMU_Mzx|A726|Green (R.E.M. album)|R.E.M.|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Beach House|Bloom|2012|PLbOGt8cOph4WvcJWPeG6R6VULYD_GfW_P|A5194|Bloom (Beach House album)|Beach House|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock",
 "Foo Fighters|Foo Fighters|1995|OLAK5uy_k2BVAy-41IEGyXZ6vayuM5_nfWMGWNy-s|A939|Foo Fighters (album)|Foo Fighters|Post-Grunge;Alternative Rock;Rock",
-"Fleetwood Mac|Fleetwood Mac|1975|OLAK5uy_nwDFwqAkFydjQ1xXxAFQ2-avbkjBDNGVU|A354|Fleetwood Mac (1975 album)|Fleetwood Mac|Pop Rock;Pop;Rock",
+"Fleetwood Mac|Fleetwood Mac|1975|OLAK5uy_kCTjcgsf1PtpzM5BN9NZ0a8B2NtnVJ6pE|A354|Fleetwood Mac (1975 album)|Fleetwood Mac|Pop Rock;Pop;Rock",
 "The Hold Steady|Boys and Girls in America|2006|OLAK5uy_k3qK2OYpwrh8c7CzmW8MWcKmZo6XXyfQA|A3083|Boys and Girls in America|The Hold Steady|Heartland Rock;Indie Rock;Pub Rock;Alternative Rock;Rock",
 "Alexander Skip Spence|Oar|1969|OLAK5uy_kZGVhx2i7B1z_SbTXBPUaGmO8j8nqBclA|A2280|Oar (album)|Skip Spence|Psychedelic Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Johnny Burnette|Johnny Burnette and the Rock 'n Roll Trio|1956|OLAK5uy_lf6p2fvhoUrmni7nRuoMflpXkXMGKsYI8|A24|Johnny Burnette and the Rock 'n Roll Trio|Johnny Burnette|Rockabilly;Rock;Rock & Roll",
