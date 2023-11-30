@@ -2061,7 +2061,7 @@ const albums = [
 "PFM|Storia di un Minuto|1972|OLAK5uy_mPGc7Zecbp-zgw8I5vB0vCQLnDg31wtLg|A4534|Storia di un minuto|Premiata Forneria Marconi|Symphonic Prog;Progressive Rock;Rock",
 "Janet Jackson|janet.|1993|OLAK5uy_kySHdcpKWoTHr8ElyrYna2h2qRdUpoNpE|A5262|Janet (album)|Janet Jackson|Contemporary R&B;Dance-Pop;Dance;Pop;R&B",
 "The Original Broadway Cast|Hair|1968|PLTBMMTIWLi8589YX6VzdqkhZ-w_-1GHWb|A2783|Hair (Original Broadway Cast Recording)|Galt MacDermot|Psychedelic Pop;Show Tunes;Descriptor;Musical Theatre and Entertainment;Pop;Soundtracks",
-"Lightnin' Hopkins|The Roots of Lightnin' Hopkins/Lightnin' Hopkins|1959|PLSq5noNU_-Oo3aXZB2ymMgOW3w94stm1l|A1270|Lightnin' Hopkins (album)|Lightnin' Hopkins|Acoustic Texas Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music",
+"Lightnin' Hopkins|Lightnin' Hopkins|1959|https://www.youtube.com/embed/_H9kVXetIxs|A1270|Lightnin' Hopkins (album)|Lightnin' Hopkins|Acoustic Texas Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music",
 "Kate Bush|Aerial|2005|PLZjQHMDQ2MLvh2EN1wdngRbMY8NC2GAeu|A4202|Aerial (album)|Kate Bush|Art Pop;Pop",
 "Ornette Coleman|At the \"Golden Circle\", Volume One|1966|PL0q2VleZJVEm3zm1MiKkBhnrkJ0EX_pc2|A1964|At the Golden Circle Stockholm|Ornette Coleman|Avant-Garde Jazz;Jazz",
 "The New Pornographers|Electric Version|2003|OLAK5uy_nMCvZNZxLBqToe-asLtuX4yy3TFdWvUZA|A3934|Electric Version|The New Pornographers|Indie Pop;Power Pop;Pop;Pop Rock;Rock",
