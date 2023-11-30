@@ -1657,7 +1657,7 @@ const albums = [
 "Beirut|Gulag Orkestar|2006|OLAK5uy_k0H3w0TzsPtz-4ahql-NJ6jsrWIuMnrnc|A3092|Gulag Orkestar|Beirut (band)|Indie Folk;Contemporary Folk;Folk",
 "Sleater-Kinney|Call the Doctor|1996|OLAK5uy_nSMflAMpwSA7RnTeD1J276KpVsNjmx4i4|A989|Call the Doctor|Sleater-Kinney|Indie Rock;Riot Grrrl;Alternative Rock;Punk Rock;Rock",
 "Yo La Tengo|Painful|1993|OLAK5uy_k1j1Jm7s1MD8XcY7y8q0btNFk5-Ie2eoM|A893|Painful (album)|Yo La Tengo|Indie Rock;Noise Pop;Alternative Rock;Rock",
-"Pink Floyd|Animals|1977|PL8222483A9B0BF163|A2675|Animals (Pink Floyd album)|Pink Floyd|Art Rock;Progressive Rock;Rock",
+"Pink Floyd|Animals|1977|OLAK5uy_mOd2Ws36n_VlDvTIUsyWGb3Y9UVIlB9BA|A2675|Animals (Pink Floyd album)|Pink Floyd|Art Rock;Progressive Rock;Rock",
 "Rancid|...And Out Come the Wolves|1995|OLAK5uy_lJ6qyFsKMt5njTKsue6FdSd9giR67Rstw|A960|...And Out Come the Wolves|Rancid (band)|Ska Punk;Punk Rock;Rock;Ska;Third Wave Ska",
 "Gil Scott-Heron|I'm New Here|2010|OLAK5uy_mEtr8gfRhqMSNyqNbHid9mcbTqUlNL-9s|A5068|I'm New Here|Gil Scott-Heron|Spoken Word;Descriptor",
 "Le Tigre|Le Tigre|1999|OLAK5uy_loHUrcBKtcQ_6KTymjhmWh9IaSwzb7B7o|A1747|Le Tigre (album)|Le Tigre|Dance-Punk;Indietronica;Riot Grrrl;Electronic;Post-Punk;Punk Rock;Rock",
