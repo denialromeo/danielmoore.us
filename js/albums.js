@@ -2511,7 +2511,7 @@ const albums = [
 "Jorge Ben|A Tábua de Esmeralda|1974|OLAK5uy_nRPalwvqyb-ohbafmFnLS0li_AwMHEgLM|A4551|A Tábua de Esmeralda|Jorge Ben|MPB;Samba-Rock;Brazilian Music;Regional Music;Samba",
 "Florence + The Machine|Ceremonials|2011|OLAK5uy_kckHFlD6B7HuTTPCOeTLinKER7eGMWxh0|A5144|Ceremonials|Florence and the Machine|Art Pop;Pop",
 "Van Morrison|His Band and The Street Choir|1970|OLAK5uy_lRoJ60jYjPhfCSmfPkReK6FXvnMJ6-HQs|A1134|His Band and the Street Choir|Van Morrison|Folk Rock;Singer/Songwriter;Rock",
-"Amen Dunes|Freedom|2018|PLql5iS_v44446akS3Ul37cEMe089DRc5n|A6054|Freedom (Amen Dunes album)|Amen Dunes|Neo-Psychedelia;Singer/Songwriter;Psychedelic Rock;Rock",
+"Amen Dunes|Freedom|2018|OLAK5uy_ldBgr7WQIhgVjmxvjbSmQDziZEXDLMHs8|A6054|Freedom (Amen Dunes album)|Amen Dunes|Neo-Psychedelia;Singer/Songwriter;Psychedelic Rock;Rock",
 "Art Brut|Bang Bang Rock and Roll|2005|PLiN-7mukU_RGGRQbmWJVc6Q01KYZXt4Gv|A4210|Bang Bang Rock & Roll|Art Brut|Indie Rock;Alternative Rock;Rock",
 "Bill Evans|Portrait in Jazz|1960|PLhGQI-BCjvIxkJ0c11clR7KoNwt9fb28T|A2411|Portrait in Jazz|Bill Evans|Cool Jazz;Jazz",
 "Sonny Sharrock|Ask the Ages|1991|OLAK5uy_k63Hkt1penVf4t3max4r6plAnPtWshOQM|A2929|Ask the Ages|Sonny Sharrock|Avant-Garde Jazz;Jazz",
