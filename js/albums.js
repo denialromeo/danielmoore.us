@@ -1847,7 +1847,7 @@ const albums = [
 "Suprême NTM|Paris sous les bombes|1995|OLAK5uy_n_TPDaDRP7eXvUmhCIr1lnC3-pgbgutnc|A4822|Paris sous les bombes|Suprême NTM|Boom Bap;French Hip Hop;Hardcore Hip Hop;Hip Hop",
 "Creedence Clearwater Revival|Bayou Country|1969|OLAK5uy_mkusHi_Wp5wuqIWI-jWh4KtvKOawj_uho|A1229|Bayou Country (album)|Creedence Clearwater Revival|Swamp Rock;Rock;Roots Rock",
 "David Holmes|Let's Get Killed|1997|OLAK5uy_nmUBau28r9B14_MDTXDUnmDpAJhPneTLA|A1618|Let's Get Killed|David Holmes (musician)|Breakbeat;Trip Hop;Dance;Downtempo;Electronic;Electronic Dance Music",
-"Jimmy Smith|The Sermon!|1959|PLEyxWPyoryRKs2mYeDOEoX6Gf4XuLqUXC|A1853|The Sermon (Jimmy Smith album)|Jimmy Smith (musician)|Soul Jazz;Jazz",
+"Jimmy Smith|The Sermon!|1959|PL1X3qTzT40Vmg4_2_L2erCB7q5RQ51_SX|A1853|The Sermon (Jimmy Smith album)|Jimmy Smith (musician)|Soul Jazz;Jazz",
 "Giorgio Moroder|From Here to Eternity|1977|PL5ec5S7s3oLAFXTJRAU1N7M4fBYi6od71|A2683|From Here to Eternity (Giorgio Moroder album)|Giorgio Moroder|Italo-Disco;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music",
 "Philip Glass|Koyaanisqatsi|1983|OLAK5uy_mDCT4_Ky0CAnSs7AexWupMqE4qQRsnc7s|A2207|Koyaanisqatsi|Philip Glass|Film Score;Minimalism;Classical Music;Descriptor;Film Soundtrack;Modern Classical;Soundtracks",
 "Beth Orton|Central Reservation|1999|OLAK5uy_k0EHZkg24DrZ82JMmrhZigTxLm60Wp3cU|A1063|Central Reservation (album)|Beth Orton|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop",
