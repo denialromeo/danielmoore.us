@@ -2305,7 +2305,7 @@ const albums = [
 "The Internet|Ego Death|2015|OLAK5uy_lN5an4zhQoiD78sOgpBzPROtCx1xev_8g|A5605|Ego Death (album)|The Internet (band)|Alternative R&B;Neo-Soul;Contemporary R&B;R&B;Soul",
 "Boz Scaggs|Boz Scaggs|1969|OLAK5uy_nDL-THQzUJ0mOti_EQxuIX9vGbGapSjc4|A1660|Boz Scaggs (album)|Boz Scaggs|Blue Eyed Soul;Pop",
 "Stevie Wonder|Hotter Than July|1980|OLAK5uy_knItc8DOji3qS_SIzkInaZq-RcwC8U_Lk|A1463|Hotter than July|Stevie Wonder|Pop Soul;Pop;R&B;Soul",
-"Spice Girls|Spice|1996|OLAK5uy_lsdZ4kVDXLooMjp2m7GBX2wxNpFH-SbnA|A3624|Spice (album)|Spice Girls|Dance-Pop;Dance;Pop",
+"Spice Girls|Spice|1996|PLXECdDtwCUCS4-I0MpaOC_9_SXBYgC3eb|A3624|Spice (album)|Spice Girls|Dance-Pop;Dance;Pop",
 "Parliament|The Clones of Dr. Funkenstein|1976|OLAK5uy_lFjBwU1RJrxajUmXqYt4dKwxK-iqUs-P8|A1422|The Clones of Dr. Funkenstein|Parliament (band)|P-Funk;Funk;R&B",
 "The Saints|Eternally Yours|1978|OLAK5uy_nhLqd7IQtVs6fyOl2t09Tf3Qvi1xOeiVc|A2732|Eternally Yours (album)|The Saints (Australian band)|Punk Rock;Rock",
 "Cannonball Adderley|Mercy, Mercy, Mercy! - Live at 'The Club'|1967|PLm4I8tP6UbWZetSNxj010KvgglpZXH91q|A1975|Mercy, Mercy, Mercy! Live at \"The Club\"|Cannonball Adderley|Hard Bop;Soul Jazz;Bebop;Jazz",
