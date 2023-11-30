@@ -1979,7 +1979,7 @@ const albums = [
 "2 Many DJs|As Heard on Radio Soulwax Pt. 2|2002|PLB768EFFA27B7E581|A3954|As Heard on Radio Soulwax Pt. 2|Soulwax|House;Mashup;Dance;Electronic;Electronic Dance Music;Experimental;Plunderphonics;Sound Collage;Tape Music",
 "Dr. John|Dr. John's Gumbo|1972|OLAK5uy_mCzQMweVqg10m5Qx_8cObQ3gm188GAWJ4|A1178|Dr. John's Gumbo|Dr. John|New Orleans R&B;R&B",
 "Enya|Watermark|1988|OLAK5uy_nAfwEW_AOsN52i6p7w1tfgm66FnZEMuh0|A1531|Watermark (Enya album)|Enya|Celtic New Age;New Age",
-"Fats Domino|Rock and Rollin' with Fats Domino|1956|PLOtylfD3ZrnQ3601lRGv2wO0EQm6fQTj7|A1257|Rock and Rollin' with Fats Domino|Fats Domino|Rock & Roll;Rock",
+"Fats Domino|Rock and Rollin' with Fats Domino|1956|PLqoJm0T2W3p2T463kIALpw4tyFfXJcyUZ|A1257|Rock and Rollin' with Fats Domino|Fats Domino|Rock & Roll;Rock",
 "Billy Bragg|Life's a Riot with Spy vs. Spy|1983|OLAK5uy_kdBcx3ZKc8SGwz_QaCdMU0GIhjm6XrQVs|A592|Life's a Riot with Spy vs Spy|Billy Bragg|Folk Punk;Folk Rock;Singer/Songwriter;Punk Rock;Rock",
 "B.B. King|Live in Cook County Jail|1971|OLAK5uy_m6fpT75ylZ1ZLAVAUE_LiuH8eoxS-sDmo|A2383|Live in Cook County Jail|B.B. King|Electric Blues;Blues",
 "Charlie Parker and Dizzy Gillespie|Bird & Diz|1952|PL7gp579CMkT9GdPwnd35QubHOcn7QLP_f|A1764|Bird and Diz|Charlie Parker|Bebop;Jazz",
