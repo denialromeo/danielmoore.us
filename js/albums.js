@@ -1787,7 +1787,7 @@ const albums = [
 "Coil|Horse Rotorvator|1986|PL10DEC90A47163804|A3117|Horse Rotorvator|Coil (band)|Industrial;Experimental;Industrial Music",
 "The Sugarcubes|Life's Too Good|1988|OLAK5uy_nOTsHrDhJgWXPlBHmGyrUxiGnDwXWWkVM|A745|Life's Too Good|The Sugarcubes|Alternative Rock;Post-Punk;Rock",
 "The Flaming Lips|Zaireeka|1997|OLAK5uy_moP2d9WwAAYwE9YANls_rLwrGEm2ZrZkg|A3674|Zaireeka|The Flaming Lips|Experimental Rock;Neo-Psychedelia;Psychedelic Rock;Rock",
-"CHVRCHES|The Bones of What You Believe|2013|PL35JdND4qE9SP6e0nTLDs2osod-qsiiiF|A5290|The Bones of What You Believe|Chvrches|Electropop;Synthpop;Electronic;Pop",
+"CHVRCHES|The Bones of What You Believe|2013|OLAK5uy_lUd3UwhcdZ2mxJ4Kgko9PQc8xtBnzBYQ4|A5290|The Bones of What You Believe|Chvrches|Electropop;Synthpop;Electronic;Pop",
 "U2|Rattle and Hum|1988|OLAK5uy_nMOQB63qIjMXZDOkyylI3qcDCe-DUAGa8|A746|Rattle and Hum|U2|Pop Rock;Pop;Rock",
 "The xx|Coexist|2012|OLAK5uy_k2lcXhbeK4KRK5RY3c_bE-eypmpkCdIWI|A5251|Coexist (album)|The xx|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock",
 "Steely Dan|The Royal Scam|1976|OLAK5uy_nCoOP20z7K34HywVFMk2q4aiD5HkiEvco|A372|The Royal Scam|Steely Dan|Pop Rock;Pop;Rock",
