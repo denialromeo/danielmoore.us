@@ -2593,7 +2593,7 @@ const albums = [
 "Scott Walker|Bish Bosch|2012|OLAK5uy_kZeKhbm0Ikt0x-kA-taKXtr-7KpBxynbk|A5245|Bish Bosch|Scott Walker (singer)|Experimental;Singer/Songwriter",
 "The Blasters|Hard Line|1985|PLfNolntK4QWQB3h-vVf1J8PZ5Pq_B5kPL|A3067|Hard Line (album)|The Blasters|Rockabilly;Roots Rock;Rock;Rock & Roll",
 "Blondie|Eat to the Beat|1979|OLAK5uy_kOkgiQfN1H91ukvupMERBHkTbHASoGZys|A1459|Eat to the Beat|Debbie Harry|New Wave;Pop Rock;Pop;Rock",
-"Manu Chao|...próxima estación... Esperanza|2001|OLAK5uy_lU2dtZKNWa1gkhma6S5cXbbncx87OfZyY|A3868|Próxima Estación: Esperanza|Manu Chao|Latin Alternative;Hispanic Music;Latin American Music;Regional Music",
+"Manu Chao|Próxima Estación: Esperanza|2001|OLAK5uy_lU2dtZKNWa1gkhma6S5cXbbncx87OfZyY|A3868|Próxima Estación: Esperanza|Manu Chao|Latin Alternative;Hispanic Music;Latin American Music;Regional Music",
 "Ornette Coleman|Science Fiction|1972|OLAK5uy_kICb0uviL9z3OmSR_Ec4vXiDzKzvALWEI|A2655|Science Fiction (Ornette Coleman album)|Ornette Coleman|Free Jazz;Avant-Garde Jazz;Jazz",
 "Nancy Wilson / Cannonball Adderley|Nancy Wilson/Cannonball Adderley|1962|PLY2-hfT6bIZgPnPIf6sfJqx-u_slE0raG|A1923|Somethin' Else (Cannonball Adderley album)|Nancy Wilson (jazz singer)|Vocal Jazz;Jazz",
 "Tony Bennett and Bill Evans|The Tony Bennett/Bill Evans Album|1975|OLAK5uy_k_PApYLtGGgi4bdgVAyzcdPGMOFrHLU3A|A2017|The Tony Bennett/Bill Evans Album|Tony Bennett|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
