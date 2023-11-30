@@ -106,7 +106,7 @@ const albums = [
 "Tom Waits|Rain Dogs|1985|OLAK5uy_lriYKhzEkLZzmpxItLLb6pCpCL2WFVNgs|A631|Rain Dogs|Tom Waits|Experimental Rock;Singer/Songwriter;Rock",
 "John Lennon|Imagine|1971|OLAK5uy_lm9bwhxzhr6tvInIqltdtWhX3rwRhzoZ4|A219|Imagine (John Lennon album)|John Lennon|Pop Rock;Singer/Songwriter;Pop;Rock",
 "Primal Scream|Screamadelica|1991|OLAK5uy_m6HfxzpZNTUNJhWimdSU92SUv9iTNIjLU|A812|Screamadelica|Primal Scream|Alternative Dance;Neo-Psychedelia;Alternative Rock;Dance;Psychedelic Rock;Rock",
-"Eagles|Hotel California|1976|PLBoIBJQNyrwvnmJoeYH0jBt14IWaQs6sp|A364|Hotel California (Eagles album)|Eagles (band)|Country Rock;Pop Rock;Pop;Rock",
+"Eagles|Hotel California|1976|OLAK5uy_mnd2DloksTdEPXJnhDVb63phT1d23xkBU|A364|Hotel California (Eagles album)|Eagles (band)|Country Rock;Pop Rock;Pop;Rock",
 "OutKast|Stankonia|2000|OLAK5uy_m6JI43ppTeuJV9jeLze5De1Rp7nAECZAc|A1086|Stankonia|Outkast|Hip Hop",
 "The Flaming Lips|The Soft Bulletin|1999|OLAK5uy_lYHU9KbMJ6IIlVR0mr12wN6BC1GJKxefs|A1052|The Soft Bulletin|The Flaming Lips|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock",
 "Oasis|Definitely Maybe|1994|OLAK5uy_lwRxjnG6q9zPRti_3Av0_iN22rYyFa9Vk|A902|Definitely Maybe|Oasis (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
