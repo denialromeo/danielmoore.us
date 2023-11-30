@@ -1970,7 +1970,7 @@ const albums = [
 "Nick Cave & The Bad Seeds|Kicking Against the Pricks|1986|OLAK5uy_kNphS6eU46B1MOMp4k-uUcaAwGJCvqX8E|A687|Kicking Against the Pricks|Nick Cave and the Bad Seeds|Post-Punk;Punk Blues;Punk Rock;Rock",
 "Blue Öyster Cult|Agents of Fortune|1976|OLAK5uy_lgXqTg4Hlhmaf1EXB21IfjNdKqR6CrGFc|A377|Agents of Fortune|Blue Öyster Cult|Hard Rock;Rock",
 "Scott Walker|Scott 3|1969|OLAK5uy_mtYrztNauDh4FzS_qpLbto4NI6Cm1jFT0|A1319|Scott 3|Scott Walker (singer)|Art Pop;Baroque Pop;Singer/Songwriter;Pop",
-"Dinah Washington|Dinah Jams|1954|PLUJ7V33M1wR0DdTZPcWHO_D_BOxK4xUp0|A1786|Dinah Jams|Dinah Washington|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
+"Dinah Washington|Dinah Jams|1954|PLBJenJIJrq0xc-q9-qqfwBhD24xDq8Z-m|A1786|Dinah Jams|Dinah Washington|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "Dio|Holy Diver|1983|OLAK5uy_mul2oU_HtTmPWxZOLfT7fIZQbnSfRR5F4|A2812|Holy Diver|Dio (band)|Heavy Metal;Metal;Rock",
 "Emerson, Lake & Palmer|Tarkus|1971|OLAK5uy_mF40O_tVS7DNNnzWLRqP12O6P1jxYledU|A2389|Tarkus|Emerson, Lake & Palmer|Symphonic Prog;Progressive Rock;Rock",
 "The Caretaker|An Empty Bliss Beyond This World|2011|PLAuCcYDkZiSRn2Gv7BOM1qjHVMM4xMYN0|A5538|An Empty Bliss Beyond This World|The Caretaker (musician)|Ambient;Turntable Music;Experimental",
