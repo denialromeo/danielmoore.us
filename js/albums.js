@@ -1791,7 +1791,7 @@ const albums = [
 "U2|Rattle and Hum|1988|OLAK5uy_nMOQB63qIjMXZDOkyylI3qcDCe-DUAGa8|A746|Rattle and Hum|U2|Pop Rock;Pop;Rock",
 "The xx|Coexist|2012|OLAK5uy_k2lcXhbeK4KRK5RY3c_bE-eypmpkCdIWI|A5251|Coexist (album)|The xx|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock",
 "Steely Dan|The Royal Scam|1976|OLAK5uy_nCoOP20z7K34HywVFMk2q4aiD5HkiEvco|A372|The Royal Scam|Steely Dan|Pop Rock;Pop;Rock",
-"Pat Metheny|Pat Metheny Group|1978|PLLcaB3LibjXYuDORhEU1PVyBr8SXrS8sB|A2026|Pat Metheny Group (album)|Pat Metheny|Jazz Fusion;Jazz",
+"Pat Metheny|Pat Metheny Group|1978|OLAK5uy_lqppeMlED02BO66cblKoe2hIzNm0-JI4E|A2026|Pat Metheny Group (album)|Pat Metheny|Jazz Fusion;Jazz",
 "Faust|The Faust Tapes|1973|OLAK5uy_mRu_MeHaFtKTZKeeaV9x-ZcMlKMbJ8wLo|A2491|The Faust Tapes|Faust (band)|Krautrock;Experimental Rock;Progressive Rock;Rock",
 "The Beach Boys|Summer Days (And Summer Nights!!)|1965|OLAK5uy_mJjMc1VHxtwpueJNIZiOY0l4lNqHE6RGk|A40|Summer Days (And Summer Nights!!)|The Beach Boys|Pop Rock;Sunshine Pop;Pop;Rock",
 "Various Artists|Tropicália ou Panis et Circencis|1968|OLAK5uy_n44ajtCmpZZLQcJpyq4YgU-koB7EWnR6A|A4474|Tropicália ou Panis et Circencis|Tropicália|Tropicália;Brazilian Music;MPB;Regional Music",
