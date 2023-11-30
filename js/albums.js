@@ -2079,7 +2079,7 @@ const albums = [
 "Charlie Parker|Charlie Parker with Strings|1950|OLAK5uy_lwmGDtyIieUYhZDiL2ZFqm8opTdKGZ0w4|A1759|Charlie Parker with Strings|Charlie Parker|Cool Jazz;Jazz",
 "Jungle Brothers|Straight out the Jungle|1988|PLn7qZ70jqTZG-1xO9Ko-S5-0Xaa97pA-H|A1542|Straight out the Jungle|Jungle Brothers|Conscious Hip Hop;Hip Hop",
 "This Heat|Deceit|1981|OLAK5uy_kZO_N8NZHVD9gzKcCWMAqsVBlUf2H6pcU|A2868|Deceit (album)|This Heat|Experimental Rock;Post-Punk;Rock",
-"Sonny Rollins|Tenor Madness|1956|PL8DzbgHyGmzwthqdCORpPvqwTv3hAh8Lv|A1801|Tenor Madness|Sonny Rollins|Hard Bop;Bebop;Jazz",
+"Sonny Rollins|Tenor Madness|1956|OLAK5uy_n5z68wzFZqPeFlGzlWhYpOiN2Kx5zp9gQ|A1801|Tenor Madness|Sonny Rollins|Hard Bop;Bebop;Jazz",
 "Ton Steine Scherben|Keine Macht für Niemand|1972|OLAK5uy_ldJCX_XtPb8SgdYESSBtX4kEWU72Jee30|A5540|Keine Macht für Niemand|Ton Steine Scherben|Deutschrock;Rock",
 "Julian Cope|Fried|1984|OLAK5uy_nVfwdXpQ-PqvxLYZjlx3buzOvJ-j-oPz0|A3020|Fried (album)|Julian Cope|Neo-Psychedelia;Pop Rock;Pop;Psychedelic Rock;Rock",
 "Jamila Woods|LEGACY! LEGACY!|2019|OLAK5uy_lyHK13E2XmYqrATpn-xJlHXrSe1Yy-fGM|A6274|Legacy! Legacy!|Jamila Woods|Neo-Soul;R&B;Soul",
