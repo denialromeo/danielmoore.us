@@ -2542,7 +2542,7 @@ const albums = [
 "The Louvin Brothers|Tragic Songs of Life|1956|PL4BDCD82E321933A7|A2255|Tragic Songs of Life (The Louvin Brothers album)|The Louvin Brothers|Close Harmony;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music",
 "Guy|Guy|1988|PLcHqnUpNexymMP0bNVUJpyS_jAfAxFseE|A3224|Guy (album)|Guy (band)|New Jack Swing;Contemporary R&B;R&B",
 "Underworld|Beaucoup Fish|1999|OLAK5uy_kpz_avfVdfKaoUglk1onG3JkkkbZguH90|A1078|Beaucoup Fish|Underworld (band)|Progressive House;Techno;Dance;Electronic;Electronic Dance Music;House",
-"Nusrat Fateh Ali Khan|Devotional Songs/Devotional & Love Songs|1992|PLDIxWXRU4UDqLEPDoVpBuo7EqkwfR1imX|A3498|Devotional Songs|Nusrat Fateh Ali Khan|Qawwali;Classical Music;Hindustani Classical Music;Regional Music;South Asian Classical Music;South Asian Music",
+"Nusrat Fateh Ali Khan|Devotional Songs|1992|PLDIxWXRU4UDqLEPDoVpBuo7EqkwfR1imX|A3498|Devotional Songs|Nusrat Fateh Ali Khan|Qawwali;Classical Music;Hindustani Classical Music;Regional Music;South Asian Classical Music;South Asian Music",
 "Parquet Courts|Human Performance|2016|OLAK5uy_n2cNhWC9TXofr-pZ_EFHkelX9uQ-B0wRY|A5791|Human Performance|Parquet Courts|Indie Rock;Alternative Rock;Rock",
 "Queen Latifah|All Hail the Queen|1989|OLAK5uy_nYmkNJIaj6vfJfz3x4ZoudzOghLF3XjzU|A1549|All Hail the Queen|Queen Latifah|Pop Rap;Hip Hop",
 "En Vogue|Funky Divas|1992|OLAK5uy_ka1SobtQDLuvHRrL48Aw36jlxiCDrh34c|A1572|Funky Divas|En Vogue|Contemporary R&B;R&B",
