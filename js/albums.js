@@ -1928,7 +1928,7 @@ const albums = [
 "Patti Smith|Gone Again|1996|OLAK5uy_nj5QHFvLkhVpuvxPzdP5BfED-lOG_hSDI|A976|Gone Again|Patti Smith|Rock;Singer/Songwriter",
 "Bonnie \"Prince\" Billy|The Letting Go|2006|OLAK5uy_n9j96HgkDEPJ7dqAPMAG_GFRFHnh9phIo|A3080|The Letting Go|Bonnie \"Prince\" Billy|Americana;Contemporary Folk;Singer/Songwriter;Country;Folk",
 "Rainbow|Rising|1976|OLAK5uy_lfRIB-1n-NR3z1skG8PdOm2IJa0O6x6Ko|A2626|Rising (Rainbow album)|Rainbow (rock band)|Hard Rock;Heavy Metal;Metal;Rock",
-"J. J. Johnson|With Clifford Brown/The Eminent Jay Jay Johnson Volume 1|1953|PLUJ7V33M1wR0SyUc2iMilsU6YIcDfP9fs|A2181|The Eminent Jay Jay Johnson Volume 2|J. J. Johnson|Bebop;Jazz",
+"J. J. Johnson|The Eminent Jay Jay Johnson Volume 1|1953|PL0q2VleZJVElJEj_54SDkzyzBRfHA0r74|A2181|The Eminent Jay Jay Johnson Volume 1|J. J. Johnson|Bebop;Jazz",
 "Lucinda Williams|World Without Tears|2003|OLAK5uy_n6a3ujRFswyBjv7pxjr2Io9-Sgctz81IY|A3918|World Without Tears|Lucinda Williams|Alt-Country;Country",
 "Sharon Van Etten|Tramp|2012|OLAK5uy_kZVDC7pfpnsQulCVfME-_7cDLmDPjCJL4|A5247|Tramp (album)|Sharon Van Etten|Alternative Singer/Songwriter;Indie Folk;Contemporary Folk;Folk;Singer/Songwriter",
 "Doves|The Last Broadcast|2002|OLAK5uy_msf7jfloeivlEYr2jI5hUeTKZMLTdOkUc|A1630|The Last Broadcast (album)|Doves (band)|Britpop;Dream Pop;Alternative Rock;Pop;Pop Rock;Rock",
