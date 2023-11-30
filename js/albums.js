@@ -2599,7 +2599,7 @@ const albums = [
 "Tony Bennett and Bill Evans|The Tony Bennett/Bill Evans Album|1975|OLAK5uy_k_PApYLtGGgi4bdgVAyzcdPGMOFrHLU3A|A2017|The Tony Bennett/Bill Evans Album|Tony Bennett|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "Elvis Costello|Spike|1989|OLAK5uy_mxPT-lZX8HB-tLbqYse6PSvX0kULkPZ1I|A763|Spike (Elvis Costello album)|Elvis Costello|Alternative Rock;Pop Rock;Singer/Songwriter;Pop;Rock",
 "Weather Report|I Sing the Body Electric|1972|OLAK5uy_ladWifOgb7nxCI8H5Elf86nWo8lc-hxHI|A2371|I Sing the Body Electric (album)|Weather Report|Jazz Fusion;Jazz",
-"Champion Jack Dupree|Blues from the Gutter|1959|OLAK5uy_kyz1jpiTTTPUqMSG5I75SsBZm9UH3WroM|A1265|Blues from the Gutter|Champion Jack Dupree|New Orleans Blues;Piano Blues;Blues",
+"Champion Jack Dupree|Blues from the Gutter|1959|PLkiJjvPDdKW59eBJ5KJytz7yThsA_i9qq|A1265|Blues from the Gutter|Champion Jack Dupree|New Orleans Blues;Piano Blues;Blues",
 "George Clinton|Computer Games|1982|OLAK5uy_ndXmIBYcqoJBu8IycFx0E1B3uhTj8fijg|A562|Computer Games (album)|George Clinton (musician)|P-Funk;Synth Funk;Funk;R&B",
 "The Black Keys|Attack & Release|2008|OLAK5uy_njYMnb2uz5eqdYyIU5c6k7Mqw4fac5hsE|A4405|Attack & Release|The Black Keys|Blues Rock;Rock",
 "Drive-By Truckers|Southern Rock Opera|2001|OLAK5uy_l8lWkCaa5xdM3s_b0P1oC5bDS_vAYlJtw|A1752|Southern Rock Opera|Drive-By Truckers|Alt-Country;Southern Rock;Country;Rock",
