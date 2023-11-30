@@ -2152,7 +2152,7 @@ const albums = [
 "Lindstrøm|Where You Go I Go Too|2008|OLAK5uy_lBZzXLOc7RDI63oomMeXtFTeDzN0vgJPI|A4369|Where You Go I Go Too|Hans-Peter Lindstrøm|Nu-Disco;Space Disco;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;House",
 "Sunn O)))|Monoliths And Dimensions|2009|OLAK5uy_m2ygqqIxFnqZp6o6loXhx3znKpO9q_2po|A5018|Monoliths & Dimensions|Sunn O)))|Drone;Drone Metal;Experimental;Metal;Rock",
 "Ministry|The Land of Rape and Honey|1988|OLAK5uy_mnBmYMT81eN2DyqpfJuBSxusMXPZ9wMDE|A3219|The Land of Rape and Honey|Ministry (band)|Industrial;Industrial Metal;Industrial Rock;Experimental;Industrial Music;Metal;Rock",
-"Louis Prima|The Wildest!|1956|OLAK5uy_m7tQptesuUVb6Rarya388Vfk1aJF5zglo|A2236|The Wildest!|Louis Prima|Big Band;Swing;Traditional Pop;Jazz;Pop",
+"Louis Prima|The Wildest!|1956|PLowQCq3Ss89ggMNfeLPVgsW0BjuJxPWBj|A2236|The Wildest!|Louis Prima|Big Band;Swing;Traditional Pop;Jazz;Pop",
 "Bryan Adams|Reckless|1984|PLUvfsDHKjxwsq4qT2PAvvHsFr6AeBJTcq|A3012|Reckless (Bryan Adams album)|Bryan Adams|Pop Rock;Pop;Rock",
 "The Everly Brothers|Songs Our Daddy Taught Us|1958|OLAK5uy_k8sUJCM8oYsO3-5EKyhJ3BzlVOp-LOyFo|A28|Songs Our Daddy Taught Us|The Everly Brothers|Close Harmony;Country Pop;Folk Pop;American Folk Music;Contemporary Folk;Country;Folk;Pop;Regional Music;Traditional Country;Traditional Folk Music",
 "Harry Belafonte|Belafonte at Carnegie Hall|1959|OLAK5uy_n16sF0YHHJ83OaEFiJS_QXfUl-KB15bb4|A1856|Belafonte at Carnegie Hall|Harry Belafonte|Caribbean Folk Music;Caribbean Music;Folk;Regional Music;Traditional Folk Music",
