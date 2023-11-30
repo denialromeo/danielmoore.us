@@ -2762,7 +2762,7 @@ const albums = [
 "Behemoth|The Satanist|2014|OLAK5uy_mQZLmJfytJzBnqrhkOz0R_PNt4Yds6c3Y|A5453|The Satanist (album)|Behemoth (band)|Death Metal;Metal;Rock",
 "Amon Düül II|Yeti|1970|OLAK5uy_n2V8P2jrq5IjzivfRftniWU-IKIfk7j_I|A2604|Yeti (album)|Amon Düül II|Krautrock;Psychedelic Rock;Experimental Rock;Progressive Rock;Rock",
 "No Doubt|Rock Steady|2001|OLAK5uy_nUF1vqEIfAv2YW2zpXOiBAVRcuX-sOfsU|A3880|Rock Steady (album)|No Doubt|Pop Rock;Pop;Rock",
-"Sonny Boy Williamson (II)|Down and Out Blues|1959|PLbSl37Ccvq7DESMog7U3azMv8EhO2DBal|A2301|Down and Out Blues|Sonny Boy Williamson II|Chicago Blues;Blues;Electric Blues",
+"Sonny Boy Williamson (II)|Down and Out Blues|1959|OLAK5uy_kV_Kd2UOOrm0jz4sb_gUZfk2EkhTUdVIA|A2301|Down and Out Blues|Sonny Boy Williamson II|Chicago Blues;Blues;Electric Blues",
 "Iceage|Beyondless|2018|OLAK5uy_nRZMAYgdfmjdMnkn1d0YtVYUKUafQD_uU|A6064|Beyondless|Iceage|Art Punk;Post-Punk;Punk Rock;Rock",
 "Boredoms|Super Ae|1998|PLB1FB220A411DB31E|A3022|Super æ|Boredoms|Experimental Rock;Noise Rock;Psychedelic Rock;Rock",
 "Klaxons|Myths of the Near Future|2007|OLAK5uy_nS9AqtTL436qH7mPkB0n0g10siDh8xy3w|A4257|Myths of the Near Future (album)|Klaxons|Alternative Dance;Dance-Punk;Indie Rock;Alternative Rock;Dance;Post-Punk;Rock",
