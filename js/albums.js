@@ -530,7 +530,7 @@ const albums = [
 "U2|The Unforgettable Fire|1984|OLAK5uy_n8JxtNtk820iPY2GZ2wTeKeQ657hrNAx8|A611|The Unforgettable Fire|U2|Alternative Rock;Pop Rock;Pop;Rock",
 "Janelle Monáe|The ArchAndroid|2010|OLAK5uy_mr1o7lgyS-FwXDr8F8l5htDm4-og1mVMw|A5075|The ArchAndroid|Janelle Monáe|Art Pop;Contemporary R&B;Pop;R&B",
 "Thelonious Monk|Brilliant Corners|1957|OLAK5uy_lzNsY7ivxQ2fB6YUZO8xDVXNUrTwnKXZU|A1825|Brilliant Corners|Thelonious Monk|Hard Bop;Bebop;Jazz",
-"Suede|Suede|1993|OLAK5uy_lXthabVLPtL9Uy73Dx3bT3gJDdifYoE2Y|A874|Suede (album)|Suede (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
+"Suede|Suede|1993|OLAK5uy_me-bx9I6FDBZv9xMVItb-UeTUvoLfhNGM|A874|Suede (album)|Suede (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "Small Faces|Ogdens' Nut Gone Flake|1968|OLAK5uy_k2I1ENUUnBtW8dw5SAzYqCwO7Q5vbWQFY|A132|Ogdens' Nut Gone Flake|Small Faces|Mod;Psychedelic Pop;Psychedelic Rock;Pop;Rock",
 "Godspeed You! Black Emperor|Lift Your Skinny Fists Like Antennas to Heaven|2000|OLAK5uy_mZLN6LQOH-pyVdbP_PZoWS75eKSwskkCo|A1099|Lift Your Skinny Fists Like Antennas to Heaven|Godspeed You! Black Emperor|Post-Rock;Rock",
 "Joanna Newsom|Have One On Me|2010|OLAK5uy_mGdaO3CeQB0T1tUs66svgLqflZNtjTv04|A5076|Have One on Me|Joanna Newsom|Chamber Folk;Progressive Folk;Singer/Songwriter;Contemporary Folk;Folk",
