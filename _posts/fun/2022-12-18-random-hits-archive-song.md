@@ -2,7 +2,7 @@
 title: Random Hits Archive Song
 description: Listen to thousands of top hits!
 layout: post
-category: fun
+category: tutorials
 permalink: random-hits-archive-song
 author: Daniel Moore
 box: random-hits-archive-song
