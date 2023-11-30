@@ -735,7 +735,7 @@ const albums = [
 "Bill Evans|Waltz for Debby|1962|PLUA0n-uVUEwLu2aEtHit-4nhKAZjh0D4M|A1899|Waltz for Debby (1962 album)|Bill Evans|Cool Jazz;Jazz",
 "Boards of Canada|Geogaddi|2002|OLAK5uy_konm2IZdhtNxCZ1IhTNGZyH8k3LDAiFks|A1636|Geogaddi|Boards of Canada|IDM;Electronic",
 "Genius/GZA|Liquid Swords|1995|OLAK5uy_lc3DfmJHwd5x75Cmrh5IC8f0LB72eYjB4|A1608|Liquid Swords|GZA|Boom Bap;Hardcore Hip Hop;Hip Hop",
-"Art Blakey & The Jazz Messengers|Moanin'|1959|OLAK5uy_nMKTjP5rCMRHmPvheJVsAzRuQwk0ALe2g|A1835|Moanin'|Art Blakey|Hard Bop;Bebop;Jazz",
+"Art Blakey & The Jazz Messengers|Moanin'|1959|PLMNMmvIC2uGYzD05aNB5I1E5Omz90fAcr|A1835|Moanin'|Art Blakey|Hard Bop;Bebop;Jazz",
 "The Rolling Stones|Out of Our Heads|1965|OLAK5uy_nqNsWiWT4gz4vwpZlWns35lfxuYqgRGDQ|A41|Out of Our Heads|The Rolling Stones|Rhythm & Blues;Rock;R&B",
 "Miles Davis|Porgy and Bess|1959|PL08420B7A2DE13933|A1841|Porgy and Bess (Miles Davis album)|Miles Davis|Big Band;Jazz",
 "Rush|Moving Pictures|1981|OLAK5uy_mqiUUrmZRm1dwrX78OHxpnLU3bnDaRhSQ|A1471|Moving Pictures (Rush album)|Rush (band)|Hard Rock;Progressive Rock;Rock",
