@@ -1853,7 +1853,7 @@ const albums = [
 "Beth Orton|Central Reservation|1999|OLAK5uy_k0EHZkg24DrZ82JMmrhZigTxLm60Wp3cU|A1063|Central Reservation (album)|Beth Orton|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop",
 "Augustus Pablo|East of the River Nile|1977|OLAK5uy_nx2PA49g9aAZ3Yo7gTj_KP2-K4calXqyo|A1164|East of the River Nile|Augustus Pablo|Reggae;Caribbean Music;Jamaican Music;Regional Music",
 "The Fiery Furnaces|Blueberry Boat|2004|OLAK5uy_nLNc9jKeoEDRJK-HqTuJwAigqF82qskEU|A4098|Blueberry Boat|The Fiery Furnaces|Art Pop;Progressive Pop;Pop",
-"Frank Sinatra|Come Fly with Me|1958|PL7zibqMAs8A5Z5_BJkXSBTs21RgWbonjZ|A1851|Come Fly with Me (Frank Sinatra album)|Frank Sinatra|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
+"Frank Sinatra|Come Fly with Me|1958|PLCIoIl3wD0UaHHzJPAfV-CMoDYvUQzFmg|A1851|Come Fly with Me (Frank Sinatra album)|Frank Sinatra|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "Parquet Courts|Wide Awake!|2018|OLAK5uy_leBje7eHHfrBQOJTpi0FmqIHBqSPcXpgA|A6034|Wide Awake!|Parquet Courts|Art Punk;Indie Rock;Alternative Rock;Punk Rock;Rock",
 "The Mothers of Invention|Absolutely Free|1967|OLAK5uy_m2ZtCW2av-6BOB9GRzbLcYyFkwbjkwreo|A1232|Absolutely Free|The Mothers of Invention|Experimental Rock;Jazz-Rock;Psychedelic Rock;Rock",
 "Suede|Coming Up|1996|PLZwKPH_vMi1xqghp3JYUkDNc2lHPFZzPc|A966|Coming Up (album)|Suede (band)|Britpop;Glam Rock;Alternative Rock;Pop;Pop Rock;Rock",
