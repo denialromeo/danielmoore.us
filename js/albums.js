@@ -2430,7 +2430,7 @@ const albums = [
 "Genesis|A Trick of the Tail|1976|OLAK5uy_neSb2AOuPbfizISwI1Gdqmf22S3DXSTEE|A2710|A Trick of the Tail|Genesis (band)|Progressive Rock;Rock",
 "Garbage|Version 2.0|1998|OLAK5uy_niRa7PPkLBcfu7yjgkIvwNhN4VQyTRVQY|A1045|Version 2.0|Garbage (band)|Alternative Rock;Pop Rock;Pop;Rock",
 "The Cramps|Psychedelic Jungle|1981|OLAK5uy_nvUz2rQrwyAHc3Jedc-ww7z1A_Zuwwaio|A2879|Psychedelic Jungle|The Cramps|Garage Punk;Psychobilly;Garage Rock;Punk Rock;Rock;Rock & Roll;Rockabilly",
-"Element of Crime|Weißes Papier|1993|OLAK5uy_l6D0umidnhcdR2pj9X1ck2DWID9po-yYw|A2941|Element of Crime|Element of Crime|Indie Pop;Liedermacher;Pop;Singer/Songwriter",
+"Element of Crime|Weißes Papier|1993|OLAK5uy_l6D0umidnhcdR2pj9X1ck2DWID9po-yYw|A2941||Element of Crime|Indie Pop;Liedermacher;Pop;Singer/Songwriter",
 "M. Ward|Post-War|2006|OLAK5uy_nZSVjsVilDfQXOyrD0CLCy44o1ggFwjBA|A3052|Post-War|M. Ward|Folk Rock;Indie Folk;Singer/Songwriter;Contemporary Folk;Folk;Rock",
 "Allen Toussaint|Southern Nights|1975|PLbqlfXp6o7YDVX8JDxdB4m-U-bdU2hVcx|A2578|Southern Nights (Allen Toussaint album)|Allen Toussaint|New Orleans R&B;Southern Soul;R&B;Soul",
 "Sloan|One Chord to Another|1996|OLAK5uy_mysPzJ5zdsHlcPXMbU6Gg1nBNVsN9j6tQ|A2999|One Chord to Another|Sloan (band)|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
