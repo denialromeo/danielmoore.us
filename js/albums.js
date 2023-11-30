@@ -2021,7 +2021,7 @@ const albums = [
 "Stan Getz|Focus|1961|PLfOleD7-7Oj90W890D0puroQgM7yTR-0P|A1901|Focus (Stan Getz album)|Stan Getz|Avant-Garde Jazz;Cool Jazz;Jazz",
 "The Beach Boys|Wild Honey|1967|OLAK5uy_lhHqJ0mEjREnVWhB_0QBxpeJlNTAAgaXA|A2168|Wild Honey (album)|The Beach Boys|Baroque Pop;Blue Eyed Soul;Soul;Pop;R&B",
 "João Gilberto|João Gilberto|1973|PL5rn4dznj_QSe1-bTJemUWDq7VDfxfbxt|A4543|João Gilberto (album)|João Gilberto|Bossa Nova;Brazilian Music;Regional Music",
-"Clifford Brown & Max Roach|Study in Brown|1955|OLAK5uy_nsaALzT4MyJS5HFcgdOkUFxIqEGqlciNA|A1781|Study in Brown|Clifford Brown|Hard Bop;Bebop;Jazz",
+"Clifford Brown & Max Roach|Study in Brown|1955|PLL-NbN8uTOijXw0CVjv89ANYPLLEeRiVf|A1781|Study in Brown|Clifford Brown|Hard Bop;Bebop;Jazz",
 "Sun Ra|The Magic City|1966|OLAK5uy_kVLOVLr4iGHPOuTYwYaX9g6qHLMhq6-Lk|A1972|The Magic City (Sun Ra album)|Sun Ra|Free Jazz;Avant-Garde Jazz;Jazz",
 "Tom Waits|Orphans: Brawlers, Bawlers & Bastards|2006|OLAK5uy_nfeY4H-hcVzvM7QjwZn30oX5vHYQ-1aDE|A3100|Orphans: Brawlers, Bawlers & Bastards|Tom Waits|Blues Rock;Folk Rock;Singer/Songwriter;Rock",
 "Band of Horses|Everything All the Time|2006|OLAK5uy_lyA8m62F0QCMQWvYo2BeDyuVedd_dLOKc|A2112|Everything All the Time|Band of Horses|Indie Rock;Alternative Rock;Rock",
