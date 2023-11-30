@@ -1630,7 +1630,7 @@ const albums = [
 "50 Cent|Get Rich or Die Tryin'|2003|OLAK5uy_llBNVDBNncoPNlOvXcZSny32SLEFepdwQ|A3994|Get Rich or Die Tryin'|50 Cent|Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "The White Stripes|Get Behind Me Satan|2005|OLAK5uy_n7H9yY5gS_QZ9byDQ2GDsAE0oxTLqeXJQ|A4188|Get Behind Me Satan|The White Stripes|Alternative Rock;Garage Rock Revival;Garage Rock;Rock",
 "AC/DC|If You Want Blood, You've Got It|1978|OLAK5uy_njCgNl6Bb5oCXcKaSEh0JIV52SyR3-HEM|A1448|If You Want Blood You've Got It|AC/DC|Hard Rock;Rock",
-"Bo Diddley|Go Bo Diddley|1959|OLAK5uy_lnf47rdbprREgoKCdqsR5XvvjOqNz5p2s|A1267|Bo Diddley (1958 album)|Bo Diddley|Rhythm & Blues;Rock & Roll;R&B;Rock",
+"Bo Diddley|Go Bo Diddley|1959|OLAK5uy_lnf47rdbprREgoKCdqsR5XvvjOqNz5p2s|A1267|Go Bo Diddley|Bo Diddley|Rhythm & Blues;Rock & Roll;R&B;Rock",
 "Thelonious Monk|Monk's Music|1958|PLL-NbN8uTOiicHeB5bXxr7GpxJN9pxRqh|A1848|Monk's Music|Thelonious Monk|Hard Bop;Bebop;Jazz",
 "Lenny Kravitz|Let Love Rule|1989|OLAK5uy_kydgHNYxaMRLHhP_puA0bAO-hHI4RSsoU|A779|Let Love Rule (Lenny Kravitz album)|Lenny Kravitz|Rock",
 "Bloomfield - Kooper - Stills|Super Session|1968|OLAK5uy_n08zvfXOJz8EtGu6V_QSOBdoPcfaixd78|A150|Super Session|Al Kooper|Blues Rock;Electric Blues;Blues;Rock",
