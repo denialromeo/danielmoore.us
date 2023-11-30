@@ -2851,7 +2851,7 @@ const albums = [
 "Beth Gibbons and Rustin Man|Out of Season|2002|OLAK5uy_l0Lns5MJxJfMjpELRIsHsp0QMJxHWzBIg|A1648|Out of Season (Beth Gibbons and Rustin Man album)|Beth Gibbons|Contemporary Folk;Folk",
 "Kendrick Lamar|untitled unmastered.|2016|OLAK5uy_ni-4jK_Z1iHKOkLAL1_6wzbnmJi-SXG-8|A5757|Untitled Unmastered|Kendrick Lamar|Conscious Hip Hop;Jazz Rap;Hip Hop",
 "The 1975|A Brief Inquiry into Online Relationships|2018|OLAK5uy_kA8HMkORsvFG7dXjJ6wyP9QGixkjE1kZA|A6065|A Brief Inquiry into Online Relationships|The 1975|Art Pop;Pop",
-"Steve Lacy|Reflections: Steve Lacy Plays Thelonious Monk|1959|OLAK5uy_nIg0udfI3ek2p9MEfJKiF7o1bXTXfEZ3w|A2399|Reflections (Steve Lacy album)|Steve Lacy (guitarist)|Post-Bop;Bebop;Jazz",
+"Steve Lacy|Reflections: Steve Lacy Plays Thelonious Monk|1959|OLAK5uy_nIg0udfI3ek2p9MEfJKiF7o1bXTXfEZ3w|A2399|Reflections (Steve Lacy album)|Steve Lacy (saxophonist)|Post-Bop;Bebop;Jazz",
 "Red House Painters|Down Colorful Hill|1992|OLAK5uy_mh0yTB4MdTQxmR8qKGnDIN5GJ_Jr2Fxcg|A2936|Down Colorful Hill|Red House Painters|Slowcore;Alternative Rock;Indie Rock;Rock",
 "Fine Young Cannibals|The Raw and the Cooked|1989|OLAK5uy_kK6XKS4P27sPw1-txp0Hdh2L-9S5M7HoM|A767|The Raw & the Cooked (album)|Fine Young Cannibals|New Wave;Pop Rock;Pop;Rock",
 "Atlas Sound|Logos|2009|OLAK5uy_mULu3EPd2Kzlmuv1oLvbhwookGaqhbDwM|A5009|Logos (Atlas Sound album)|Bradford Cox|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock",
