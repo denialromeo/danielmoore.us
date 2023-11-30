@@ -1247,7 +1247,7 @@ const albums = [
 "Spacemen 3|The Perfect Prescription|1987|PL29AFF9CD00E84F91|A1696|The Perfect Prescription|Spacemen 3|Neo-Psychedelia;Space Rock;Psychedelic Rock;Rock",
 "Badly Drawn Boy|The Hour of Bewilderbeast|2000|OLAK5uy_ly77T7OMEj-SU32jr5LZ2jz2Pk-x1iAeY|A1085|The Hour of Bewilderbeast|Badly Drawn Boy|Chamber Pop;Baroque Pop;Indie Pop;Pop",
 "Metallica|...And Justice for All|1988|OLAK5uy_kwDDSWKgSgMcCmR7XGOZ7KTyxK-XJO-fo|A1540|...And Justice for All (album)|Metallica|Thrash Metal;Metal;Rock",
-"John Coltrane|Coltrane \"Live\" at the Village Vanguard|1962|OLAK5uy_kQsE5eHJ5JcEat4Dis7KW-NARpqy9MGh8|A1909|Live at the Village Vanguard Again!|John Coltrane|Hard Bop;Modal Jazz;Bebop;Jazz",
+"John Coltrane|Coltrane \"Live\" at the Village Vanguard|1962|PL1X3qTzT40Vl1b3TTJv5s6Q2g4HPSnOGp|A1909|Coltrane \"Live\" at the Village Vanguard|John Coltrane|Hard Bop;Modal Jazz;Bebop;Jazz",
 "Sonny Rollins|A Night at the \"Village Vanguard\"|1958|OLAK5uy_mfcYFbbS6GjP-Y9jwCY6N7RiDpVydDLuc|A1829|A Night at the Village Vanguard|Sonny Rollins|Hard Bop;Bebop;Jazz",
 "Röyksopp|Melody A.M.|2001|OLAK5uy_nWbm1n0nx7GV9PMjwqdoF9a5MJuA_JBuI|A1736|Melody A.M.|Röyksopp|Downtempo;Electronic",
 "Danny Brown|Atrocity Exhibition|2016|OLAK5uy_mRg0fag70i_uNV_4XSkw6ueMJzPk4sV18|A5713|Atrocity Exhibition (album)|Danny Brown|Experimental Hip Hop;Hardcore Hip Hop;Hip Hop",
