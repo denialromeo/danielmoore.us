@@ -1205,7 +1205,7 @@ const albums = [
 "Lou Reed|Rock n Roll Animal|1974|OLAK5uy_lHdSVW2uCLD72vA27UrYL1UjGR9zCgtNM|A321|Rock 'n' Roll Animal|Lou Reed|Glam Rock;Rock",
 "Nick Cave & The Bad Seeds|The Good Son|1990|OLAK5uy_kNphS6eU46B1MOMp4k-uUcaAwGJCvqX8E|A794|The Good Son (album)|Nick Cave and the Bad Seeds|Gothic Rock;Singer/Songwriter;Rock",
 "Miles Davis|On the Corner|1972|OLAK5uy_nhjLHQR1Qbzw8z-6ttwwDRNLQIm-Rny90|A2005|On the Corner|Miles Davis|Jazz Fusion;Jazz-Funk;Funk;Jazz;R&B",
-"The Antlers|Hospice|2009|PL6A7445036D500ACB|A5002|Hospice (The Antlers album)|The Antlers (band)|Indie Rock;Alternative Rock;Rock",
+"The Antlers|Hospice|2009|OLAK5uy_m7STdCVyx8Rva9nOUPOcA84eFJMDmEmAU|A5002|Hospice (The Antlers album)|The Antlers (band)|Indie Rock;Alternative Rock;Rock",
 "808 State|90|1989|PLyDd654jOnRzbIXaOpUK3u3eZ481XdF7z|A3264|90 (album)|808 State|Acid House;Dance;Electronic;Electronic Dance Music;House",
 "Ice Cube|AmeriKKKas Most Wanted|1990|OLAK5uy_mw1wDF2C9nSXalVkOUSctNOtsUC91Ikuk|A793|AmeriKKKa's Most Wanted|Ice Cube|Gangsta Rap;Political Hip Hop;Hardcore Hip Hop;Hip Hop",
 "Bob Dylan|Oh Mercy|1989|OLAK5uy_nrg3q95iN3w1vwHQKFCJ4YJ52AxRTgqcI|A754|Oh Mercy|Bob Dylan|Folk Rock;Pop Rock;Singer/Songwriter;Pop;Rock",
