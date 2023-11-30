@@ -2345,7 +2345,7 @@ const albums = [
 "Captain Beefheart & The Magic Band|Lick My Decals Off, Baby|1970|OLAK5uy_k2Wu1sNQ1DaaAcH7IJGbvReH1Mkhmlczo|A2330|Lick My Decals Off, Baby|Captain Beefheart|Art Rock;Experimental Rock;Rock",
 "American Music Club|California|1988|PLNUohHmj0S8O4AN4YgKVmQOMEX942Xs1C|A3218|California (American Music Club album)|American Music Club|Folk Rock;Slowcore;Alternative Rock;Indie Rock;Rock",
 "Pavement|Terror Twilight|1999|OLAK5uy_mbTzs9dAma_5Ei5DMHNtgzhSjpt2XrzEI|A1059|Terror Twilight|Pavement (band)|Indie Rock;Alternative Rock;Rock",
-"Miles Davis|Live Evil|1971|OLAK5uy_nZ5SRjeqEKNtEKhUFFJGK4pi8hTYKEHn0|A1998|Live-Evil (Miles Davis album)|Miles Davis|Jazz Fusion;Jazz",
+"Miles Davis|Live-Evil|1971|OLAK5uy_nZ5SRjeqEKNtEKhUFFJGK4pi8hTYKEHn0|A1998|Live-Evil (Miles Davis album)|Miles Davis|Jazz Fusion;Jazz",
 "The Rolling Stones|It's Only Rock 'n' Roll|1974|OLAK5uy_ltLtLCgiTDhX7RD122i9o5TYwUEFyWR6A|A324|It's Only Rock 'n Roll|The Rolling Stones|Rock",
 "John Coltrane|Interstellar Space|1974|OLAK5uy_m1iZXaicytsLRIV3ZXlh5KcX5QI2B8Wz0|A2686|Interstellar Space|John Coltrane|Free Jazz;Avant-Garde Jazz;Jazz",
 "The Sisters of Mercy|First and Last and Always|1985|OLAK5uy_l-rHkyn9pR1l_j1w8BkwSScmzVp78qv8E|A1504|First and Last and Always|The Sisters of Mercy|Gothic Rock;Rock",
