@@ -2418,7 +2418,7 @@ const albums = [
 "Buzzcocks|Love Bites|1978|OLAK5uy_mYTm4eShV63LiQ11dQ2O-uzPqHlAa487E|A2734|Love Bites (album)|Buzzcocks|Pop Punk;Punk Rock;Rock",
 "Linton Kwesi Johnson|Forces of Victory|1979|OLAK5uy_kmfJgOa9PSdNXcSq4pvLnb4sVa4_67jGY|A473|Forces of Victory|Linton Kwesi Johnson|Dub Poetry;Caribbean Music;Descriptor;Jamaican Music;Poetry;Reggae;Regional Music;Roots Reggae;Spoken Word",
 "Gang Gang Dance|Saint Dymphna|2008|OLAK5uy_m47EqTTX0HpCKtWBLm-L7BRzcoM65d8dI|A4360|Saint Dymphna (album)|Gang Gang Dance|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock",
-"Ali Farka Touré|Savane|2006|PLetv3SCC-r3Y8RfmhJLAcun41BwB9tlBi|A2148|Savane (album)|Ali Farka Touré|Blues;Mande Music;Songhai Music;African Music;Regional Music;West African Music",
+"Ali Farka Touré|Savane|2006|OLAK5uy_muH3Jd2_Fx21IvV2kxe0kfsm8Q4W7JUNM|A2148|Savane (album)|Ali Farka Touré|Blues;Mande Music;Songhai Music;African Music;Regional Music;West African Music",
 "Alaska y Dinarama|Deseo carnal|1984|OLAK5uy_mJosfjyVgGKnXfCpKaryWf6AjZWGorwfw|A4693|https://es.wikipedia.org/wiki/Deseo_carnal|Alaska (singer)|New Wave;Pop Rock;Pop;Rock",
 "Aphex Twin|Drukqs|2001|OLAK5uy_knjV_V9EHhwQjh_IoWl-v8MjZNL2glo-s|A3859|Drukqs|Aphex Twin|IDM;Electronic",
 "Godspeed You! Black Emperor|Allelujah! Don't Bend! Ascend!|2012|OLAK5uy_kzTN1NM1rPvfXHyZQtL849NquQJQgI6Rc|A5217|'Allelujah! Don't Bend! Ascend!|Godspeed You! Black Emperor|Post-Rock;Rock",
