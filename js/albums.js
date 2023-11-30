@@ -2564,7 +2564,7 @@ const albums = [
 "Third Ear Band|Third Ear Band|1970|OLAK5uy_mev4Xb8e57mY1u7BZejPQ27nRU_qgYODU|A2632|Third Ear Band (album)|Third Ear Band|Free Folk;Progressive Folk;Contemporary Folk;Folk;Psychedelic Folk",
 "Simply Red|Stars|1991|OLAK5uy_mhYXX9cQMYYIxKc_uTi3QQ1sCXuf424Js|A833|Stars (Simply Red album)|Simply Red|Blue Eyed Soul;Pop Soul;Sophisti-Pop;Pop;R&B;Soul",
 "Television|Adventure|1978|OLAK5uy_nU3E6SIkeBsGjjeAENkH7QdaCdJuoHk8Y|A1165|Adventure (Television album)|Television (band)|New Wave;Post-Punk;Rock",
-"Pat Metheny|Bright Size Life|1976|PLUUBOs-uj5anxMlbvijYCcdj90z60JcXf|A2019|Bright Size Life|Pat Metheny|Jazz Fusion;Jazz",
+"Pat Metheny|Bright Size Life|1976|OLAK5uy_lWdEnyk632p8nHwXICRGny_4VhAoOx4lw|A2019|Bright Size Life|Pat Metheny|Jazz Fusion;Jazz",
 "EMA|Past Life Martyred Saints|2011|OLAK5uy_ntTztLSSHh2JuljsLJrRo5X2wO2EKoli8|A5140|Past Life Martyred Saints|Erika M. Anderson|Alternative Singer/Songwriter;Indie Rock;Alternative Rock;Rock;Singer/Songwriter",
 "Jethro Tull|Stand Up|1969|OLAK5uy_mfg6GbRV6ieKu9kF4cDBMGAo6fLRAbhIE|A1118|Stand Up (Jethro Tull album)|Jethro Tull (band)|Blues Rock;Progressive Rock;Rock",
 "Black Rebel Motorcycle Club|B.R.M.C.|2001|OLAK5uy_kVbvbF9hlCoCjD_cYKUbca10ki7lececY|A1220|B.R.M.C. (album)|Black Rebel Motorcycle Club|Garage Rock;Indie Rock;Psychedelic Rock;Alternative Rock;Rock",
