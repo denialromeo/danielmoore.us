@@ -603,7 +603,7 @@ const albums = [
 "Low|Double Negative|2018|OLAK5uy_lUmgTpSlrbldSYKQqTDtzsQZ0hY-8B3Qw|A6022|Double Negative (album)|Low (band)|Ambient Pop;Glitch Pop;Noise Pop;Alternative Rock;Electronic;Pop;Rock",
 "The Chemical Brothers|Exit Planet Dust|1995|OLAK5uy_kxFGB9J26_2wANv75jPDKIbz2PEiu-Fxg|A946|Exit Planet Dust|The Chemical Brothers|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music",
 "Benny Goodman|The Famous 1938 Carnegie Hall Jazz Concert|1950|PLO6zBTEo45QjJzJ-Dq44w6m2Mlyvk4ru5|A1756|The Famous 1938 Carnegie Hall Jazz Concert|Benny Goodman|Big Band;Swing;Jazz",
-"Various Artists|A Christmas Gift for You from Philles Records/Phil Spector|1963|OLAK5uy_lX-Zy80BtgKNNg6BBfj_gQuyZKQZE_o_o|A18|A Christmas Gift for You from Phil Spector|Phil Spector|Brill Building;Christmas Music;Girl Group;Descriptor;Holiday Music;Pop",
+"Various Artists|A Christmas Gift for You from Phil Spector|1963|OLAK5uy_lX-Zy80BtgKNNg6BBfj_gQuyZKQZE_o_o|A18|A Christmas Gift for You from Phil Spector|Phil Spector|Brill Building;Christmas Music;Girl Group;Descriptor;Holiday Music;Pop",
 "Tom Petty and the Heartbreakers|Damn the Torpedoes|1979|OLAK5uy_lGXW0aofOl-_6fh_hX9ZLQEnKneJs0qoA|A467|Damn the Torpedoes (album)|Tom Petty|Heartland Rock;Pop Rock;Pop;Rock",
 "Burning Spear|Marcus Garvey|1975|OLAK5uy_mrJ2L9ZacGGP-YNk7f9oVYDem02BaxGYI|A338|Marcus Garvey (album)|Burning Spear|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Keith Jarrett|The Köln Concert|1975|OLAK5uy_lapldioAF_TED2mynorLZzhTXmhfdcZfI|A2018|The Köln Concert|Keith Jarrett|ECM Style Jazz;Jazz",
