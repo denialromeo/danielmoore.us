@@ -2998,5 +2998,5 @@ const albums = [
 "Gilberto Gil|Expresso 2222|1972|OLAK5uy_n30JMcB-fiI3PpiniqGMAKiHmle_uZU7s|A2450|Expresso 2222|Gilberto Gil|Tropicália;Brazilian Music;MPB;Regional Music",
 "Motorpsycho|Demon Box|1993|OLAK5uy_lig8vr6BBpH2Dol3saUDcnwj1Wlqhdbbg|A3482|Demon Box (album)|Motorpsycho|Alternative Rock;Rock",
 "The Woodentops|Giant|1986|OLAK5uy_l4CKcYYiPiV6gNgF0hx1gNNsUMHxcqL2c|A1516|Giant (The Woodentops album)|The Woodentops|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
-"Whitesnake|Whitesnake/1987|1987|OLAK5uy_ldApaGtW3qFpnURHPastfPhpYF78em_es|A2886|Whitesnake (album)|Whitesnake|Hard Rock;Rock",
+"Whitesnake|Whitesnake|1987|OLAK5uy_ldApaGtW3qFpnURHPastfPhpYF78em_es|A2886|Whitesnake (album)|Whitesnake|Hard Rock;Rock",
 ] 
