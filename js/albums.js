@@ -525,7 +525,7 @@ const albums = [
 "Weezer|Pinkerton|1996|PLZOQAY4EGd_J9fxivzsjneW5bWnWHBCHx|A1728|Pinkerton (album)|Weezer|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
 "Snoop Doggy Dogg|Doggystyle|1993|OLAK5uy_kCVtuk6qfCGz0crsZR4ajs1aZIKLqN0f8|A896|Doggystyle|Snoop Dogg|G-Funk;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Gram Parsons|GP|1973|OLAK5uy_kdZinHlcewTmk5m3ljgGpcA1hEz6kvDb0|A287|GP (album)|Gram Parsons|Country;Country Rock;Singer/Songwriter;Rock",
-"Ornette Coleman|Free Jazz|1961|PLSVGVs8fiSVRhj5aqD9t55yrZlOxWANwH|A1891|Free Jazz: A Collective Improvisation|Ornette Coleman|Free Jazz;Avant-Garde Jazz;Jazz",
+"Ornette Coleman|Free Jazz|1961|OLAK5uy_khstfAhY_zcWAdpJ93D8VF8FfLK9g9wFw|A1891|Free Jazz: A Collective Improvisation|Ornette Coleman|Free Jazz;Avant-Garde Jazz;Jazz",
 "Mount Eerie|A Crow Looked at Me|2017|OLAK5uy_nlyh9YtRh0WuWF4RYK1HrWMTprf5THgag|A5951|A Crow Looked at Me|Mount Eerie|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "U2|The Unforgettable Fire|1984|OLAK5uy_n8JxtNtk820iPY2GZ2wTeKeQ657hrNAx8|A611|The Unforgettable Fire|U2|Alternative Rock;Pop Rock;Pop;Rock",
 "Janelle Monáe|The ArchAndroid|2010|OLAK5uy_mr1o7lgyS-FwXDr8F8l5htDm4-og1mVMw|A5075|The ArchAndroid|Janelle Monáe|Art Pop;Contemporary R&B;Pop;R&B",
