@@ -1727,7 +1727,7 @@ const albums = [
 "Beach House|7|2018|OLAK5uy_k5Wg_Fr6ei7rzg6NmEcZFL92jL1kCKkvE|A6029|7 (Beach House album)|Beach House|Dream Pop;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock",
 "The Last Poets|This Is Madness|1971|OLAK5uy_k-lMSW7nDD5QwQAaXDqKO0oGR5mA7RCYY|A2646|This Is Madness|The Last Poets|Poetry;Descriptor;Spoken Word",
 "Sigur Rós|Med sud i eyrum vid spilum endalaust|2008|PL4f7SnpOplqB04ectT9gCjEg0LKzR6-qj|A4347|Med sud i eyrum vid spilum endalaust|Sigur Rós|Dream Pop;Post-Rock;Alternative Rock;Rock",
-"The Everly Brothers|The Everly Brothers (They're Off and Rolling)|1957|PLaNTp-eCoWxehOxc0RNU6A6G23W_o7Y4Z|A1263|The Everly Brothers (album)|The Everly Brothers|Close Harmony;Pop;Rock & Roll;American Folk Music;Country;Folk;Regional Music;Rock;Traditional Country;Traditional Folk Music",
+"The Everly Brothers|The Everly Brothers (They're Off and Rolling)|1957|PLctmTHPu2_t8t1OZs7JYDE8SHXp4roprb|A1263|The Everly Brothers (album)|The Everly Brothers|Close Harmony;Pop;Rock & Roll;American Folk Music;Country;Folk;Regional Music;Rock;Traditional Country;Traditional Folk Music",
 "Neko Case|Blacklisted|2002|OLAK5uy_ni4ZRhFrXdc1_6_pCYE9Jml4m98o-8pGA|A3971|Blacklisted (album)|Neko Case|Alt-Country;Alternative Singer/Songwriter;Country;Singer/Songwriter",
 "Captain Beefheart and The Magic Band|Doc at the Radar Station|1980|OLAK5uy_mrEXF1xPZ6pEdt0ijnUAJT82g7cC4U90o|A492|Doc at the Radar Station|Captain Beefheart|Art Rock;Experimental Rock;Rock",
 "Pixies|Come On Pilgrim EP|1987|OLAK5uy_nP04hAP7_QezHzFwScr1oD2KeFgZslPsg|A1528|Come On Pilgrim|Pixies (band)|Indie Rock;Alternative Rock;Rock",
