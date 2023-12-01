@@ -320,7 +320,7 @@ const albums = [
 "The Byrds|The Notorious Byrd Brothers|1968|OLAK5uy_ks8G_lUk-5LARbZ0gc1HYa3_8pE-SZTWM|A129|The Notorious Byrd Brothers|The Byrds|Folk Rock;Pop Rock;Pop;Rock",
 "Green Day|Dookie|1994|OLAK5uy_n0iP7-_ZOkjO55LiJlr0tmqSLeaAnNcxs|A920|Dookie|Green Day|Pop Punk;Punk Rock;Rock",
 "Serge Gainsbourg|Histoire de Melody Nelson|1971|OLAK5uy_mqlCuLcZh2-Lr030PniFY22ldNc5-YVlA|A1358|Histoire de Melody Nelson|Serge Gainsbourg|Art Pop;French Pop;Pop",
-"Prefab Sprout|Steve McQueen/Two Wheels Good|1985|OLAK5uy_lU2CnFK45OvrsriNSj0EPc6sO3kYGlbUQ|A634|Steve McQueen (album)|Prefab Sprout|Pop Rock;Sophisti-Pop;Pop;Rock",
+"Prefab Sprout|Steve McQueen|1985|OLAK5uy_lU2CnFK45OvrsriNSj0EPc6sO3kYGlbUQ|A634|Steve McQueen (album)|Prefab Sprout|Pop Rock;Sophisti-Pop;Pop;Rock",
 "Slayer|Reign in Blood|1986|OLAK5uy_keU_xMz-Pu0JPZ1aYA08OTLIZgBaYSLWg|A673|Reign in Blood|Slayer|Thrash Metal;Metal;Rock",
 "Nick Cave and The Bad Seeds|Ghosteen|2019|OLAK5uy_mKzBStg8ZwVFvvXwvegykcI66kS17he9U|A6310|Ghosteen|Nick Cave and the Bad Seeds|Ambient Pop;Singer/Songwriter;Pop",
 "Daft Punk|Random Access Memories|2013|OLAK5uy_nZZjkBu_E4olFSb5Ey-fQ-4a0ZCqJICdQ|A5292|Random Access Memories|Daft Punk|Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House",
