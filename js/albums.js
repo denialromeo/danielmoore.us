@@ -1222,7 +1222,7 @@ const albums = [
 "Neko Case|Fox Confessor Brings the Flood|2006|OLAK5uy_kJoRmVrgIzm3ddLne3hdRY8tiAKC8mUyM|A2082|Fox Confessor Brings the Flood|Neko Case|Alt-Country;Americana;Singer/Songwriter;Country",
 "Ultramagnetic MCs|Critical Beatdown|1988|OLAK5uy_noBJnfp0oe6dDyNIF8y78F7psnN6sRs-E|A3230|Critical Beatdown|Ultramagnetic MCs|Boom Bap;Hip Hop",
 "Liars|Drum's Not Dead|2006|OLAK5uy_lvGXR0TNFz6uStyS5ABLgADLv2IvU1QqM|A2087|Drum's Not Dead|Liars (band)|Art Rock;Experimental Rock;Rock",
-"Fugazi|13 Songs (Fugazi EP + Margin Walker EP)|1989|OLAK5uy_kMiu1JcaXO7yTGjH_fkK8GqdLdR-4EOzQ|A3272|Fugazi (EP)|Fugazi|Post-Hardcore;Punk Rock;Rock",
+"Fugazi|13 Songs|1989|OLAK5uy_kMiu1JcaXO7yTGjH_fkK8GqdLdR-4EOzQ|A3272|13 Songs (Fugazi album)|Fugazi|Post-Hardcore;Punk Rock;Rock",
 "Kyuss|Blues for the Red Sun|1992|OLAK5uy_n6rZfznq4tzMltaoGeda4ymS2lRyOQqdk|A3419|Blues for the Red Sun|Kyuss|Stoner Metal;Stoner Rock;Hard Rock;Metal;Rock",
 "Killing Joke|Killing Joke|1980|OLAK5uy_kYHGWLn71yHjaQHt-pIiw3I5_ZtarKa-Q|A2829|Killing Joke (1980 album)|Killing Joke|Post-Punk;Rock",
 "Paul Simon|There Goes Rhymin' Simon|1973|OLAK5uy_l_t1CvSfJK9xYZPZLkRBUSCG67LpuDGx8|A291|There Goes Rhymin' Simon|Paul Simon|Folk Pop;Folk Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock",
