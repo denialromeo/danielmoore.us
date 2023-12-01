@@ -965,7 +965,7 @@ const albums = [
 "Lucinda Williams|Lucinda Williams|1988|PLnEnlVSr-1iiXrNX8nXDHmTzueDV3nV1Y|A729|Lucinda Williams (album)|Lucinda Williams|Alt-Country;Americana;Singer/Songwriter;Country",
 "Graham Parker & The Rumour|Squeezing Out Sparks|1979|PLjO4QRS_y93N2XOG2RdS55baq86GsQE71|A455|Squeezing Out Sparks|Graham Parker|Power Pop;Pub Rock;Pop;Pop Rock;Rock",
 "Solange|When I Get Home|2019|OLAK5uy_n8nFsE-y2sjI0rBxXnEfc0j-J2mst5wck|A6334|When I Get Home (album)|Solange Knowles|Alternative R&B;Art Pop;Neo-Soul;Contemporary R&B;Pop;R&B;Soul",
-"Joe Jackson|Night and Day|1982|OLAK5uy_kfUhdLOUlebhGq8OjfNTVlmf77M2AZ2W4|A559|Night and Day (Joe Jackson album)|Joe Jackson (musician)|Art Pop;Pop",
+"Joe Jackson|Night and Day|1982|PLZVCiDcSBlcjZFkefdGn5B2yMOOuzAJV1|A559|Night and Day (Joe Jackson album)|Joe Jackson (musician)|Art Pop;Pop",
 "The Beatles|Magical Mystery Tour|1967|OLAK5uy_k5Ato-9KKa4z-PDiFvP5zg-PaSwj-ssZg|A119|Magical Mystery Tour|The Beatles|Pop Rock;Psychedelic Pop;Pop;Rock",
 "The Supremes|Where Did Our Love Go|1964|OLAK5uy_nIjtz-gnn0gh44yUR25UbG0TQX8lgDMfc|A2356|Where Did Our Love Go (album)|Diana Ross|Girl Group;Pop Soul;Pop;R&B;Soul",
 "Death Grips|The Money Store|2012|OLAK5uy_mvNF05s6I4LXO_UVWPwyyP-d4Bd0N_LgI|A5202|The Money Store (album)|Death Grips|Hardcore Hip Hop;Industrial Hip Hop;Experimental Hip Hop;Hip Hop;Industrial Music",
