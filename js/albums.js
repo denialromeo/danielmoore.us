@@ -2282,7 +2282,7 @@ const albums = [
 "Magma|Mëkanïk Dëstruktïw Kömmandöh|1973|OLAK5uy_nRHkNZbNmbix880hI28SWmMM0DsaNCtu8|A4546|Mëkanïk Dëstruktïẁ Kömmandöh|Magma (band)|Zeuhl;Avant-Prog;Experimental Rock;Progressive Rock;Rock",
 "Rockpile|Seconds of Pleasure|1980|OLAK5uy_mwo3m49RaPdeXYD_9bdx7Mze-gaeJgr6U|A2821|Seconds of Pleasure|Rockpile|Power Pop;Pub Rock;Pop;Pop Rock;Rock",
 "Screaming Trees|Sweet Oblivion|1992|OLAK5uy_noGcPURfwkLcGIKp3HYsF7reVDIYo4fss|A867|Sweet Oblivion|Screaming Trees|Grunge;Alternative Rock;Rock",
-"Peter Gabriel|Passion (Music for The Last Temptation of Christ)|1989|OLAK5uy_mSwaG0kKJilN3R9tQkBQFgIsuKfHHZgC0|A2900|Passion (Peter Gabriel album)|Peter Gabriel|Ambient;Film Score;New Age;Regional Music;Descriptor;Film Soundtrack;Soundtracks",
+"Peter Gabriel|Passion: Music for The Last Temptation of Christ|1989|OLAK5uy_mSwaG0kKJilN3R9tQkBQFgIsuKfHHZgC0|A2900|Passion (Peter Gabriel album)|Peter Gabriel|Ambient;Film Score;New Age;Regional Music;Descriptor;Film Soundtrack;Soundtracks",
 "Wyclef Jean|The Carnival|1997|OLAK5uy_mt2FHSQwJPrVGNYj_yi5Dne0hCGd32NGM|A3657|Wyclef Jean Presents The Carnival|Wyclef Jean|Pop Rap;Hip Hop",
 "The Coral|The Coral|2002|OLAK5uy_lpm4ZY06B3LbopRs25sBiKcTelfDMaUjw|A1635|The Coral (album)|The Coral|Indie Rock;Alternative Rock;Rock",
 "Don Cherry|Eternal Rhythm|1969|PLNQ784izNnfdrGDd9GmsV8ep-WW7uKJ6C|A4476|Eternal Rhythm|Don Cherry (trumpeter)|Free Jazz;Avant-Garde Jazz;Jazz",
