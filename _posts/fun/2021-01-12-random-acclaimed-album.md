@@ -26,7 +26,7 @@ box: random-acclaimed-song
             <a target="_self" href="?year=19[6-7][0-9]">Albums released in the 1960's and 1970's.</a>
         </li>
         <li>
-            <a target="_self" href="?artist=Bob+Marley|The.Wailers">Albums by Bob Marley.</a>
+            <a target="_self" href="?artist=beatles">Albums by The Beatles.</a>
         </li>
         <li>
             <a target="_self" href="?album=love">Albums whose titles contain the word "love".</a>
