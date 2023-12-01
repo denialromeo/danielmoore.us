@@ -2093,7 +2093,7 @@ const albums = [
 "Tirzah|Devotion|2018|OLAK5uy_lT27tBiVoMI2xmx7a2Mq7AhAvsl-sNYto|A6045|Devotion (Tirzah album)|Tirzah (musician)|Alternative R&B;Art Pop;Contemporary R&B;Pop;R&B",
 "U2|Under a Blood Red Sky|1983|OLAK5uy_msF3LwWgiuFuvj8r-HS-wlpt_IeSOVh7Q|A2833|Under a Blood Red Sky|U2|Pop Rock;Post-Punk;Pop;Rock",
 "Wilson Pickett|The Exciting Wilson Pickett|1966|OLAK5uy_lteHroozMAKkp7RhiC4G0rodFB6QQ2O38|A2111|The Exciting Wilson Pickett|Wilson Pickett|Deep Soul;R&B;Soul;Southern Soul",
-"Ella Fitzgerald and Louis Armstrong|Porgy & Bess|1959|PLxzoGs04azKxECWQkawsF3_Gu4EdAwF7x|A1793|Porgy and Bess (Ella Fitzgerald and Louis Armstrong album)|Ella Fitzgerald|Vocal Jazz;Jazz",
+"Ella Fitzgerald and Louis Armstrong|Porgy & Bess|1959|https://www.youtube.com/embed/FNdN38rk-Jk|A1793|Porgy and Bess (Ella Fitzgerald and Louis Armstrong album)|Ella Fitzgerald|Vocal Jazz;Jazz",
 "Dr. Buzzard's Original Savannah Band|Dr. Buzzard's Original Savannah Band|1976|OLAK5uy_mDnTCqc-_xDEfQeMyZPc2kdH_22XHEF44|A1419|Dr. Buzzard's Original Savannah Band (album)|Dr. Buzzard's Original Savannah Band|Disco;Dance",
 "John Fahey|The Transfiguration of Blind Joe Death|1965|OLAK5uy_l_oRCUOTwTtQApqiDtFgGWGpIqXT5HIjY|A56|The Transfiguration of Blind Joe Death|John Fahey (musician)|American Primitivism;Contemporary Folk;Folk",
 "Ty Segall|Manipulator|2014|OLAK5uy_nv_RQFUfH_U4buKSu6_LH7P9VoEdbiSl4|A5410|Manipulator (Ty Segall album)|Ty Segall|Psychedelic Rock;Rock",
