@@ -2716,7 +2716,7 @@ const albums = [
 "Judas Priest|Painkiller|1990|OLAK5uy_lomMikY2UFtkqo-_26IXdP-wZPFp-eyz4|A2906|Painkiller (Judas Priest album)|Judas Priest|Heavy Metal;Metal;Rock",
 "AC/DC|Powerage|1978|OLAK5uy_l3pAO2qdUMV-QSSmoaf6qAtnHmztLNacg|A4602|Powerage|AC/DC|Hard Rock;Rock",
 "Big Thief|Capacity|2017|OLAK5uy_nFoA5qt0GxzVIwO0LvyE6qnuvyNMRbuaw|A5862|Capacity (album)|Big Thief|Indie Rock;Alternative Rock;Rock",
-"Air|The Virgin Suicides|2000|OLAK5uy_k42NuiR4XrhiKK4eC8BuSRB6NMF4nIYRg|A4878|The Virgin Suicides (film)|Air (band)|Ambient Pop;Film Score;Descriptor;Film Soundtrack;Pop;Soundtracks",
+"Air|The Virgin Suicides|2000|OLAK5uy_k42NuiR4XrhiKK4eC8BuSRB6NMF4nIYRg|A4878|The Virgin Suicides (score)|Air (band)|Ambient Pop;Film Score;Descriptor;Film Soundtrack;Pop;Soundtracks",
 "Bachman-Turner Overdrive|Not Fragile|1974|OLAK5uy_knkYq9g_DIe113F5XeQOMYx3HBb5Bp3ww|A2522|Not Fragile|Bachman–Turner Overdrive|Boogie Rock;Hard Rock;Blues Rock;Rock",
 "The High Llamas|Gideon Gaye|1994|OLAK5uy_n2a-YVhW-HMGNK2bHeXnesr7iQef7coLQ|A3527|Gideon Gaye|The High Llamas|Chamber Pop;Sunshine Pop;Baroque Pop;Indie Pop;Pop",
 "Suicide|Suicide: Alan Vega and Martin Rev|1980|OLAK5uy_lWed3BCdbK0cgN031oyN0qahGNAUdpyuU|A1466|Suicide: Alan Vega and Martin Rev|Suicide (band)|Synth Punk;Synthpop;Electronic;Pop;Punk Rock;Rock",
