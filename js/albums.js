@@ -1109,7 +1109,7 @@ const albums = [
 "ZZ Top|Eliminator|1983|OLAK5uy_lNkF0KnpICFVl079NmbTulL2wPaAexiVU|A575|Eliminator (album)|ZZ Top|Hard Rock;Southern Rock;Rock",
 "Cornershop|When I Was Born for the 7th Time|1997|OLAK5uy_nxRPEx2vYZp4ZNY_y9RHbUJpXfusOQFQY|A995|When I Was Born for the 7th Time|Cornershop|Indie Pop;Indie Rock;Indietronica;Alternative Rock;Electronic;Pop;Rock",
 "Eels|Beautiful Freak|1996|OLAK5uy_mBf6yigPUvKxrQqex1CTIknzbgA9DfGbM|A980|Beautiful Freak|Eels (band)|Alternative Rock;Indie Pop;Pop;Rock",
-"Fela and Africa 70|Zombie|1976|PLSHsLSfbqpJLiKJ1aYad3NzbtzFDW03mx|A2685|Zombie (album)|Fela Kuti|Afrobeat;African Music;Funk;R&B;Regional Music;West African Music;Yoruba Music",
+"Fela and Africa 70|Zombie|1976|OLAK5uy_kz-CwckiMEJh2jW1jU0-j0e9mi4vXxGPY|A2685|Zombie (album)|Fela Kuti|Afrobeat;African Music;Funk;R&B;Regional Music;West African Music;Yoruba Music",
 "David Bowie|Diamond Dogs|1974|OLAK5uy_mUpZawgYtERKbiZXiznvS5VsKf99NUXTw|A322|Diamond Dogs|David Bowie|Art Rock;Glam Rock;Pop Rock;Pop;Rock",
 "Faith No More|The Real Thing|1989|OLAK5uy_mzrlxmIPYIDTswxKMyfgAAqAr_H_jR8O8|A774|The Real Thing (Faith No More album)|Faith No More|Alternative Rock;Funk Metal;Alternative Metal;Metal;Rock",
 "Noname|Room 25|2018|OLAK5uy_kNVD_UKaKO3qs20PWVfxYQOiGm_f5N7Ss|A6043|Room 25|Noname (rapper)|Conscious Hip Hop;Jazz Rap;Hip Hop",
