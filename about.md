@@ -64,17 +64,6 @@ I hope you have a good time here. Thanks for dropping by.
         <li>The early 19th century's most influential people included Napoleon Bonaparte, Toussaint Louverture, Michael Faraday, Samuel Morse, and Charles Dickens.</li>
         <li>The 18th century's most influential people included Robert Clive, George Washington, Maximilien Robespierre, and Thomas Newcomen.</li>
     </ul>
-    {%comment%}
-    <p>Some more personal observations&ndash;</p>
-    <ul>
-        <li><p>I almost never use social media. When I do, it's usually because some crazy event (a plague, a war, a tech breakthrough) has happened and I'm trying to learn as much as I can.</p><p>Many social media users are mentally stunted white guys, and since they have no money, they try to become kings in cyberspace. It sounds cool until you realize it's all just screens.</p><p>So, unfortunately, when I'm thinking through global news, I have to sift through large amounts of racism and general bigotry. Much is directed against my group (Indian people).</p><p>I only have to deal with this once or twice a year, but the people insulting me do it year-round, mostly when I'm not around. Amusingly, this might give me power over them. They're yelling insults about me into the void while I live a great life.</p><p>That said, online racism does sometimes bleed into real life (especially in public spaces where anyone can enter). But as prices rise and more people are forced into working hard for their daily bread, this is improving. Idle hands are the devil's workshop.</p></li>
-    </ul>
-    <ul>
-        <li><p>Between remote work, ChatGPT, and Amazon, I find little reason to interact with strangers. Even dating and socializing have moved online. COVID-19 has transformed society.</p></li>
-        <li><p>Tech companies have laid off <a href="https://layoffs.fyi/">more than 200,000 people</a> in 2023. This is the worst tech sector economic downturn <a href="https://www.nytimes.com/2023/01/20/technology/tech-layoffs-millennials-gen-x.html">since the dot-com bust</a>.</p><p>Silicon Valley's best days may be behind us. Especially with <a href="https://archive.is/n3rpA">generative AI looming</a>.</p></li>
-        <li><p>Making six figures in a high cost-of-living area actually isn't a lot. If you make $100k/year, that comes out to $6k/month after insurance and taxes. Subtract $2.5k/month for rent on a 1BHK, then $10k/year for utilities/food/etc., and you're left with $32k/year to save.</p><p>Factor in student loans and the fact that a new car in the U.S. now costs <a href="https://nypost.com/2023/02/14/new-car-prices-skyrocket-30/">$50k</a> on average, and you're in debt. You'll honestly come out way ahead working a minimum-wage job and living with your parents. No wonder kids these days don't want to go to college.</p></li>
-    </ul>
-    {%endcomment%}
 </div>
 
 # Favorite
