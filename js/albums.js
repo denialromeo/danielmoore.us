@@ -1123,7 +1123,7 @@ const albums = [
 "Feist|The Reminder|2007|OLAK5uy_nZCahdwBaG4kcQK27ejG0i4BJDV8wcoto|A4244|The Reminder|Feist (singer)|Indie Pop;Pop",
 "Wire|154|1979|OLAK5uy_kq3DhRWUZ46sahSAa5MJ3mrDxCGa8zpZc|A1168|154 (album)|Wire (band)|Art Punk;Post-Punk;Punk Rock;Rock",
 "The Police|Ghost in the Machine|1981|OLAK5uy_n1MxX3DzKitdBVqfxXrQhEx02KC54r06k|A523|Ghost in the Machine (album)|The Police|New Wave;Pop Rock;Pop;Rock",
-"Ella Fitzgerald and Louis Armstrong|Ella and Louis|1956|OLAK5uy_mB3f4-z7mhc_k0rNlGA0oIOPMc-_yPJhw|A1792|Ella and Louis|Ella Fitzgerald|Vocal Jazz;Jazz",
+"Ella Fitzgerald and Louis Armstrong|Ella and Louis|1956|OLAK5uy_lYqHSJL605np3qBB6QaWiqG3TpiO2R7gw|A1792|Ella and Louis|Ella Fitzgerald|Vocal Jazz;Jazz",
 "Mano Negra|Puta's Fever|1989|OLAK5uy_lUsSn2Z6iFfinCeUb5h419my1svQSMYP4|A3271|Puta's Fever|Mano Negra (band)|Alternative Rock;Latin Alternative;Hispanic Music;Latin American Music;Regional Music;Rock",
 "The Lemonheads|It's a Shame About Ray|1992|OLAK5uy_nBhEpljPROdBThFfvHHbmORaLPhgGFYkU|A850|It's a Shame About Ray|The Lemonheads|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
 "Janet Jackson|The Velvet Rope|1997|OLAK5uy_lHGTvXkRC5zqWD08FFkJzMPwy-hzYKn78|A5265|The Velvet Rope|Janet Jackson|Contemporary R&B;Pop;R&B",
