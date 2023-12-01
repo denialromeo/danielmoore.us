@@ -2823,7 +2823,7 @@ const albums = [
 "King Krule|6 Feet Beneath the Moon|2013|OLAK5uy_kVI3vRuKkcI4YnyNvCSgid-Q_1jdE6e_I|A5327|6 Feet Beneath the Moon|King Krule|Singer/Songwriter",
 "Lucinda Williams|Essence|2001|OLAK5uy_mZ3cVH4bPHnAqeUCiCUMVlnakwn9NQM50|A1215|Essence (Lucinda Williams album)|Lucinda Williams|Alt-Country;Singer/Songwriter;Country",
 "Van Morrison|Poetic Champions Compose|1987|OLAK5uy_ks2JlDyXMozK211EujlCkyK4PRzMnbscU|A717|Poetic Champions Compose|Van Morrison|Pop Rock;Singer/Songwriter;Pop;Rock",
-"Lee Konitz & Lennie Tristano|Lee Konitz & Lennie Tristano / Subconscious-Lee|1949|OLAK5uy_nCaDv5y8AgSZS9tsKfvO7iyEvMAwrJkq4|A1758|Subconscious-Lee|Lennie Tristano|Cool Jazz;Jazz",
+"Lee Konitz & Lennie Tristano|Subconscious-Lee|1949|OLAK5uy_nvygKCLxUbHfsynoKH_53vitdME9zVuro|A1758|Subconscious-Lee|Lennie Tristano|Cool Jazz;Jazz",
 "Arca|Mutant|2015|OLAK5uy_la2lFpAfGcmxvSh51_UrUsmlJtS66LpoA|A5592|Mutant (album)|Arca (musician)|Deconstructed Club;IDM;Dance;Electronic;Electronic Dance Music;Experimental;Industrial;Industrial Music",
 "Eric's Trip|Love Tara|1993|OLAK5uy_nElf3RjP2KCrapilh4FIMxnAMpKGU7HxA|A4780|Love Tara|Eric's Trip|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock",
 "Front 242|Front by Front|1988|OLAK5uy_lQ1M9HhEWRDdtRIpxJWTL54Swhjh09xho|A2892|Front by Front|Front 242|EBM;Dance;Electronic;Electronic Dance Music;Industrial Music",
