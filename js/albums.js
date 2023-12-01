@@ -1908,7 +1908,7 @@ const albums = [
 "Dizzy Gillespie|Groovin' High|1955|OLAK5uy_lmlcbKfTOht3DJWxOyKjr8_SKOrVc_HzU|A1784|Groovin' High (Dizzy Gillespie album)|Dizzy Gillespie|Bebop;Jazz",
 "Son Volt|Trace|1995|OLAK5uy_l_rYBx5tto1OK0JxlsaqCgk64WQAetQSE|A959|Trace (Son Volt album)|Son Volt|Alt-Country;Americana;Country",
 "The Original Broadway Cast|Kiss Me Kate|1949|OLAK5uy_m5hXxo4mSByYMa8ETs77zTGdIjctfCfyY|A1748|Kiss Me, Kate|Bella and Samuel Spewack|Show Tunes;Descriptor;Musical Theatre and Entertainment;Soundtracks",
-"Ennio Morricone|The Good, the Bad and the Ugly|1966|PLL-NbN8uTOihD0BV5y5jVLA-CqVEnaEeo|A3277|The Good, the Bad and the Ugly (soundtrack)|Ennio Morricone|Film Score;Spaghetti Western;Cinematic Classical;Classical Music;Descriptor;Film Soundtrack;Soundtracks",
+"Ennio Morricone|The Good, the Bad and the Ugly|1966|OLAK5uy_n9geDHC0f1D5j-Ybzv0I4NbsZLN5OmPLo|A3277|The Good, the Bad and the Ugly (soundtrack)|Ennio Morricone|Film Score;Spaghetti Western;Cinematic Classical;Classical Music;Descriptor;Film Soundtrack;Soundtracks",
 "The Black Keys|Thickfreakness|2003|OLAK5uy_kX-3FlD1KOIo59QoaUq8HK4SVASb7-gn8|A5527|Thickfreakness|The Black Keys|Blues Rock;Rock",
 "Prefab Sprout|Jordan: The Comeback|1990|OLAK5uy_nXP7YKInx2FV5kJiL-YDkOBQ6kKkHtIYs|A795|Jordan: The Comeback|Prefab Sprout|Art Pop;Sophisti-Pop;Pop",
 "Swans|Children of God|1987|OLAK5uy_m6Xu1PXQ8T-xG06qu5d2VlCItELtHIZpY|A3167|Children of God (Swans album)|Swans (band)|Experimental Rock;Post-Punk;Rock",
