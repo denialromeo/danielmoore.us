@@ -1962,7 +1962,7 @@ const albums = [
 "Skepta|Konnichiwa|2016|OLAK5uy_npZl8tfqgIV3iU2Qd5xzlXyqouTW-Uxto|A5807|Konnichiwa (Skepta album)|Skepta|Grime;UK Hip Hop;Electronic;Hip Hop",
 "The Millennium|Begin|1968|OLAK5uy_kpTgzZhYoBrfiqjhRSEF5bl3zXNMwzygY|A147|Begin (The Millennium album)|The Millennium (band)|Psychedelic Pop;Sunshine Pop;Pop",
 "The Doors|Absolutely Live|1970|OLAK5uy_mufEL0IQtrQ8-um33KkrPALRFoWcoICqU|A2328|Absolutely Live (The Doors album)|The Doors|Blues Rock;Psychedelic Rock;Rock",
-"Throwing Muses|Throwing Muses|1986|OLAK5uy_k53F_I-6PdCKXxYqSqmPMhynSLoKasBIc|A3133|Throwing Muses (1986 album)|Throwing Muses|Indie Rock;Post-Punk;Alternative Rock;Rock",
+"Throwing Muses|Throwing Muses|1986|PLcsIlynY0iwtbZfnfnXYr536aYAzEXn_8|A3133|Throwing Muses (1986 album)|Throwing Muses|Indie Rock;Post-Punk;Alternative Rock;Rock",
 "Jacques Brel|Brel|1977|OLAK5uy_l0peamEyIV34ZF_9qOIASXYzQCJZh-CpY|A2024|Les Marquises|Jacques Brel|Chanson à texte;Chanson;Regional Music;Singer/Songwriter",
 "Cloud Nothings|Here and Nowhere Else|2014|OLAK5uy_l1E3AJP1SBBi7kT-DaaQz2a7B4GzM__Jw|A5412|Here and Nowhere Else|Cloud Nothings|Indie Rock;Post-Hardcore;Alternative Rock;Punk Rock;Rock",
 "The Temptations|The Temptations Sing Smokey|1965|OLAK5uy_n4heoypQ3je7uoUvA9UP_ptJfYDbkNNA4|A46|The Temptations Sing Smokey|The Temptations|Rhythm & Blues;Soul;R&B",
