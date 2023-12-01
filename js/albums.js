@@ -122,7 +122,7 @@ const albums = [
 "Dr. Dre|The Chronic|1992|PLxs2jjSwI-sJVEHh_mdGgQUtPKodtJnpe|A853|The Chronic|Dr. Dre|G-Funk;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "David Bowie|Low|1977|PLiN-7mukU_REnx_JyyDIB0ZnV7i6c6mIv|A397|Low (David Bowie album)|David Bowie|Art Rock;Experimental Rock;Rock",
 "Pixies|Surfer Rosa|1988|OLAK5uy_krAnRWVn0GvDqhcmvGDRB6WncHzaKgZ3c|A722|Surfer Rosa|Pixies (band)|Indie Rock;Alternative Rock;Rock",
-"Jay-Z|The Blueprint|2001|OLAK5uy_ld1uSlLl8ydjfmg2gclp_wh2qPtFhvHcI|A1206|The Blueprint 3|Jay-Z|Hip Hop",
+"Jay-Z|The Blueprint|2001|OLAK5uy_ld1uSlLl8ydjfmg2gclp_wh2qPtFhvHcI|A1206|The Blueprint|Jay-Z|Hip Hop",
 "Beyoncé|Lemonade|2016|OLAK5uy_m9dO997hqyquaE-xTYmZUqhm2pyKbQj-k|A5701|Lemonade (Beyoncé album)|Beyoncé|Contemporary R&B;Pop;R&B",
 "Iggy and The Stooges|Raw Power|1973|PLI21Mpk0oq-X8jUT55qPHLvZns-mXRhEw|A274|Raw Power|The Stooges|Garage Rock;Hard Rock;Proto-Punk;Rock",
 "Amy Winehouse|Back to Black|2006|OLAK5uy_lbTwA-JDtWuF6vKJAtp98wZ512LtuqVoM|A3144|Back to Black|Amy Winehouse|Pop;Rhythm & Blues;Soul;R&B",
