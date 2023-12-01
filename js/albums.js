@@ -2595,7 +2595,7 @@ const albums = [
 "Blondie|Eat to the Beat|1979|OLAK5uy_kOkgiQfN1H91ukvupMERBHkTbHASoGZys|A1459|Eat to the Beat|Debbie Harry|New Wave;Pop Rock;Pop;Rock",
 "Manu Chao|Próxima Estación: Esperanza|2001|OLAK5uy_lU2dtZKNWa1gkhma6S5cXbbncx87OfZyY|A3868|Próxima Estación: Esperanza|Manu Chao|Latin Alternative;Hispanic Music;Latin American Music;Regional Music",
 "Ornette Coleman|Science Fiction|1972|OLAK5uy_kICb0uviL9z3OmSR_Ec4vXiDzKzvALWEI|A2655|Science Fiction (Ornette Coleman album)|Ornette Coleman|Free Jazz;Avant-Garde Jazz;Jazz",
-"Nancy Wilson / Cannonball Adderley|Nancy Wilson/Cannonball Adderley|1962|PLY2-hfT6bIZgPnPIf6sfJqx-u_slE0raG|A1923|Somethin' Else (Cannonball Adderley album)|Nancy Wilson (jazz singer)|Vocal Jazz;Jazz",
+"Nancy Wilson and Cannonball Adderley|Nancy Wilson/Cannonball Adderley|1962|PLY2-hfT6bIZgPnPIf6sfJqx-u_slE0raG|A1923|Nancy Wilson/Cannonball Adderley|Nancy Wilson (jazz singer)|Vocal Jazz;Jazz",
 "Tony Bennett and Bill Evans|The Tony Bennett/Bill Evans Album|1975|OLAK5uy_k_PApYLtGGgi4bdgVAyzcdPGMOFrHLU3A|A2017|The Tony Bennett/Bill Evans Album|Tony Bennett|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "Elvis Costello|Spike|1989|OLAK5uy_mxPT-lZX8HB-tLbqYse6PSvX0kULkPZ1I|A763|Spike (Elvis Costello album)|Elvis Costello|Alternative Rock;Pop Rock;Singer/Songwriter;Pop;Rock",
 "Weather Report|I Sing the Body Electric|1972|OLAK5uy_ladWifOgb7nxCI8H5Elf86nWo8lc-hxHI|A2371|I Sing the Body Electric (album)|Weather Report|Jazz Fusion;Jazz",
