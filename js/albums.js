@@ -542,7 +542,7 @@ const albums = [
 "Billy Joel|The Stranger|1977|OLAK5uy_ly8yTtEcPk3FkOU9pOURpiy4QegQ4u6iM|A416|The Stranger (album)|Billy Joel|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock",
 "The Replacements|Tim|1985|OLAK5uy_kC4DTZ6_pcSdQ-bCUHaBX__vYiiDL41PA|A647|Tim (The Replacements album)|The Replacements (band)|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
 "The Feelies|Crazy Rhythms|1980|OLAK5uy_nlO8r2rfv6v3PLYaDBwc7i0fqCJAsF5-4|A504|Crazy Rhythms|The Feelies|New Wave;Post-Punk;Rock",
-"Nick Cave & The Bad Seeds|The Boatman's Call|1997|OLAK5uy_kNphS6eU46B1MOMp4k-uUcaAwGJCvqX8E|A1004|The Boatman's Call|Nick Cave and the Bad Seeds|Singer/Songwriter",
+"Nick Cave & The Bad Seeds|The Boatman's Call|1997|OLAK5uy_kLHQliubwmYsfg8QzL4KmK2XldOJIv69U|A1004|The Boatman's Call|Nick Cave and the Bad Seeds|Singer/Songwriter",
 "Sigur Rós|( )|2002|OLAK5uy_kvnjfe-7YbngCw2DvdQWl058rt0i_qNrY|A1643|( ) (album)|Sigur Rós|Post-Rock;Rock",
 "Janelle Monáe|Dirty Computer|2018|OLAK5uy_kqbZeag2Ai_9wn4GEH_Pfg0KfNTmqv2I0|A6021|Dirty Computer|Janelle Monáe|Art Pop;Contemporary R&B;Pop;R&B",
 "Buffalo Springfield|Buffalo Springfield Again|1967|OLAK5uy_nPn6mqSZ0x3WHTj-_-cE6nobsD1wPX-tM|A108|Buffalo Springfield Again|Buffalo Springfield|Folk Rock;Psychedelic Rock;Rock",
