@@ -1407,7 +1407,7 @@ const albums = [
 "Neil Young and Crazy Horse|Weld|1991|OLAK5uy_mnDr2jN8JOV08QDi-nvkbCrxBkEJychps|A818|Weld (album)|Neil Young|Hard Rock;Rock",
 "Hank Mobley|Soul Station|1960|PLg7mJ3BwdABJB42JDMr1ueIe8viY5FgC8|A1885|Soul Station|Hank Mobley|Hard Bop;Bebop;Jazz",
 "Dexter Gordon|Go|1962|OLAK5uy_ldEgeU2IYstfUuhavk6y_jkbhhuAHHgSw|A1915|Go (Dexter Gordon album)|Dexter Gordon|Hard Bop;Bebop;Jazz",
-"Nick Cave & The Bad Seeds|Your Funeral... My Trial|1986|OLAK5uy_kNphS6eU46B1MOMp4k-uUcaAwGJCvqX8E|A1509|Your Funeral... My Trial|Nick Cave and the Bad Seeds|Gothic Rock;Post-Punk;Rock",
+"Nick Cave & The Bad Seeds|Your Funeral... My Trial|1986|OLAK5uy_nYaEpwWvn2Y2y4qM5Yz5qC6-bYcPtKKRw|A1509|Your Funeral... My Trial|Nick Cave and the Bad Seeds|Gothic Rock;Post-Punk;Rock",
 "Einstürzende Neubauten|Kollaps|1981|OLAK5uy_lokqiB03F_FZvo-MwbzFHisgOiuncL3k8|A2875|Kollaps|Einstürzende Neubauten|Industrial;Experimental;Industrial Music",
 "Radio Birdman|Radios Appear|1977|OLAK5uy_lVswbXpp_RHV3Kbpz2WwPYLyuqMFKyXzM|A1432|Radios Appear|Radio Birdman|Punk Rock;Rock",
 "Mary Margaret O'Hara|Miss America|1988|OLAK5uy_khnfkK0guBT1EfUqOq7ICw-4Q3oajTQNg|A743|Miss America (Mary Margaret O'Hara album)|Mary Margaret O'Hara|Alternative Singer/Songwriter;Singer/Songwriter",
