@@ -2220,7 +2220,7 @@ const albums = [
 "Kaleidoscope (US)|A Beacon from Mars|1968|PLPZD3YW453KrQJjleslpgtaEvuD8Mdd_k|A2233|A Beacon from Mars|Kaleidoscope (American band)|Folk Rock;Psychedelic Rock;Rock",
 "Peter Doherty|Grace/Wastelands|2009|OLAK5uy_n-XQQsIxvcnTDGNhHHGUAdZicSx8Wpu48|A5045|Grace/Wastelands|Pete Doherty|Acoustic Rock;Singer/Songwriter;Rock",
 "The Black Keys|Rubber Factory|2004|OLAK5uy_n92FRjLIEztgKvAGQtSN6AJFEjsN5i_Gw|A4971|Rubber Factory|The Black Keys|Blues Rock;Rock",
-"John Williams / The London Symphony Orchestra|Star Wars|1977|PL1X3qTzT40VkxsQoMqp6kN2CZG4ZWhOwK|A4601|Star Wars (soundtrack)|John Williams|Film Score;Orchestral;Classical Music;Descriptor;Film Soundtrack;Soundtracks;Western Classical Music",
+"John Williams|Star Wars|1977|PL1X3qTzT40VkxsQoMqp6kN2CZG4ZWhOwK|A4601|Star Wars (soundtrack)|John Williams|Film Score;Orchestral;Classical Music;Descriptor;Film Soundtrack;Soundtracks;Western Classical Music",
 "Stephen Stills|Manassas|1972|OLAK5uy_lx_E-eR2tQunbKiCg8s6fp7--p4843lE8|A1372|Manassas (album)|Stephen Stills|Country Rock;Folk Rock;Rock",
 "Low|Secret Name|1999|OLAK5uy_lo_GU-gEhIkiFhXi_74_cifg1-GovKh8M|A3775|Secret Name|Low (band)|Slowcore;Alternative Rock;Indie Rock;Rock",
 "Spiritualized|And Nothing Hurt|2018|OLAK5uy_nz5MxvGUTuUtLrbwrN3SPQmUmBBdAEeH4|A6042|And Nothing Hurt|Spiritualized|Art Rock;Neo-Psychedelia;Psychedelic Rock;Rock",
