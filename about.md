@@ -486,6 +486,7 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead4.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead4.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead7.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead7.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead5.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead5.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead8.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead5.jpg"/></a></figcaption></figure>
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">

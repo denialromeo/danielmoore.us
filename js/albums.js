@@ -884,7 +884,7 @@ const albums = [
 "David Crosby|If I Could Only Remember My Name|1971|OLAK5uy_l6yMRPkE5Sso_UTB_3bgBmXE6C-TGGlfI|A235|If I Could Only Remember My Name|David Crosby|Folk Rock;Singer/Songwriter;Rock",
 "Belle and Sebastian|Tigermilk|1996|OLAK5uy_m38AZv08ORxQaTCxLIDHZYwLqQUUfMIJ4|A981|Tigermilk|Belle and Sebastian|Chamber Pop;Twee Pop;Baroque Pop;Indie Pop;Pop",
 "Simon and Garfunkel|Sounds of Silence|1966|OLAK5uy_ndR342tuMJO4yBVPdLjKL6eqa0y9odSyY|A77|Sounds of Silence|Simon & Garfunkel|Folk Pop;Folk Rock;Contemporary Folk;Folk;Pop;Rock",
-"The Beatles|Beatles for Sale|1964|PLzTW6ph_i-KTo8gC_IV7m00TqJ8-Sug2x|A7|Beatles for Sale|The Beatles|Merseybeat;Beat Music;Pop;Pop Rock;Rock",
+"The Beatles|Beatles for Sale|1964|OLAK5uy_nv2VlKz5RX3VLLz5YNMKY6YP9A68k1R_A|A7|Beatles for Sale|The Beatles|Merseybeat;Beat Music;Pop;Pop Rock;Rock",
 "The Weeknd|Trilogy|2011|PLks3NpQP6i_bTGNnxONBNi0TbwMR9VYbo|A5180|Trilogy (The Weeknd album)|The Weeknd|Alternative R&B;Contemporary R&B;R&B",
 "Grandaddy|The Sophtware Slump|2000|OLAK5uy_m4Lt-3lsotfdhRWa6KQKde6X8_erfM9ko|A1096|The Sophtware Slump|Grandaddy|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
 "Horace Silver|Song for My Father|1965|OLAK5uy_maEHDCvs9peIT7Q_zHyBbUvs8i0bYvqX0|A1950|Song for My Father (album)|Horace Silver|Hard Bop;Bebop;Jazz",
