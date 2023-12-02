@@ -579,7 +579,7 @@ const albums = [
 "Bloc Party|Silent Alarm|2005|OLAK5uy_kqYBQ3_sL9I0u1AHthqWA4yzqa19l9OPI|A4150|Silent Alarm|Bloc Party|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock",
 "Björk|Vulnicura|2015|OLAK5uy_l3G0x7tZLgPq_knqrhO6eS29t2p9OSgio|A5548|Vulnicura|Björk|Art Pop;Pop",
 "Joni Mitchell|Hejira|1976|OLAK5uy_kJ95cZHfJX5WrXYQ0MmdIr7McVqQXOR8k|A376|Hejira (album)|Joni Mitchell|Singer/Songwriter",
-"The Rolling Stones|The Rolling Stones/England's Newest Hit Makers|1964|OLAK5uy_kJeT6EKLBIPGZwxYDfkxkBOdEmeK8RJTE|A6|The Rolling Stones (album)|The Rolling Stones|Blues Rock;Rhythm & Blues;R&B;Rock",
+"The Rolling Stones|England's Newest Hit Makers|1964|OLAK5uy_kJeT6EKLBIPGZwxYDfkxkBOdEmeK8RJTE|A6|The Rolling Stones (album)|The Rolling Stones|Blues Rock;Rhythm & Blues;R&B;Rock",
 "Wilco|Being There|1996|OLAK5uy_kWxCONF1QcrBJcWo0V1UfwBIjWzqFzW7Y|A975|Being There (Wilco album)|Wilco|Alt-Country;Country Rock;Roots Rock;Country;Rock",
 "Yes|Close to the Edge|1972|OLAK5uy_ktk8PtkXO8GdshsmXb6w0fhaCMMTsyFio|A1177|Close to the Edge|Yes (band)|Symphonic Prog;Progressive Rock;Rock",
 "Lloyd Cole and The Commotions|Rattlesnakes|1984|OLAK5uy_mVzy-N2rEKo2xH5K8_EzLdV3DaVgTJ314|A605|Rattlesnakes (album)|Lloyd Cole and the Commotions|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
