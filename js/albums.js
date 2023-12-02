@@ -940,7 +940,7 @@ const albums = [
 "Wilco|A Ghost Is Born|2004|OLAK5uy_ngpWYBEce-7-F0HDW6_ronuBcywGnrtc0|A4055|A Ghost Is Born|Wilco|Alternative Rock;Rock",
 "Slowdive|Slowdive|2017|OLAK5uy_l8gNk4QIz3gX-og4p77QI-gELx-w7wuk8|A5983|Slowdive (album)|Slowdive|Dream Pop;Shoegaze;Alternative Rock;Rock",
 "Cannibal Ox|The Cold Vein|2001|OLAK5uy_kjnq000DvsBJn5Hs6MPEdpS_JGIC-UJrE|A1217|The Cold Vein|Cannibal Ox|Abstract Hip Hop;Hip Hop",
-"Deerhunter|Microcastle / Weird Era Cont.|2008|OLAK5uy_kxAK76XxcqSrkAzXx80pYxfbjbyjORAS4|A4342|Weird Era Cont.|Deerhunter|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock",
+"Deerhunter|Weird Era Cont.|2008|OLAK5uy_kxAK76XxcqSrkAzXx80pYxfbjbyjORAS4|A4342|Weird Era Cont.|Deerhunter|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock",
 "Yeah Yeah Yeahs|It's Blitz!|2009|OLAK5uy_kuNqlqIaDRiciyk5_orgdydTnI4LHEecY|A4993|It's Blitz!|Yeah Yeah Yeahs|Alternative Dance;Indie Pop;Indie Rock;Alternative Rock;Dance;Pop;Rock",
 "The Killers|Hot Fuss|2004|OLAK5uy_kmy3IV3JBPfdu49IeOMbd0RoQSQxa8lxY|A4084|Hot Fuss|The Killers|Pop Rock;Pop;Rock",
 "Patti Smith Group|Easter|1978|OLAK5uy_lWUcJkuLakL7X8eF_Uh0FE06MYhj4G0dY|A444|Easter (Patti Smith Group album)|Patti Smith|Rock",
