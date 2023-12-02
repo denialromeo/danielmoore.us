@@ -1559,7 +1559,7 @@ const albums = [
 "Therapy?|Troublegum|1994|OLAK5uy_kTR9LTVGXXYNJObs2VIq2StRW7blJ35E0|A927|Troublegum|Therapy%3F|Alternative Metal;Alternative Rock;Metal;Rock",
 "Flamin' Groovies|Shake Some Action|1976|PLmwiuq6S4xIAFf2VhHS1Gxcj0CHRN7NwW|A1418|Shake Some Action|Flamin' Groovies|Power Pop;Rock & Roll;Pop;Pop Rock;Rock",
 "Dire Straits|Making Movies|1980|OLAK5uy_kIhNMHBFI8pc-r9bTCxnXcm0MO-cUebxY|A496|Making Movies|Dire Straits|Pop Rock;Pop;Rock",
-"Kris Kristofferson|Kristofferson/Me and Bobby McGee|1970|PL0A4746B94BEAE0E0|A2341|Kristofferson (album)|Kris Kristofferson|Outlaw Country;Singer/Songwriter;Country;Progressive Country",
+"Kris Kristofferson|Kristofferson|1970|OLAK5uy_kVzXZsVKduU2UiHcS-x2fJ_PN3gKlYAS8|A2341|Kristofferson (album)|Kris Kristofferson|Outlaw Country;Singer/Songwriter;Country;Progressive Country",
 "Kanye West|The Life of Pablo|2016|OLAK5uy_keyJA-JsoAdfCylvyyIQMRjenzX6MzmnE|A5754|The Life of Pablo|Kanye West|Pop Rap;Hip Hop",
 "Dexys Midnight Runners|Don't Stand Me Down|1985|OLAK5uy_njvflOFHDDdjNAuCo2vpVfurlAlmSSsVY|A638|Don't Stand Me Down|Dexys Midnight Runners|Blue Eyed Soul;New Wave;Pop;Rock",
 "Willie Colón & Rubén Blades|Siembra|1978|OLAK5uy_k_fDM8eajRPOHa4n4UWt75ktogXzrsPVg|A2737|Siembra|Rubén Blades|Salsa Dura;Hispanic Music;Latin American Music;Regional Music;Salsa",
