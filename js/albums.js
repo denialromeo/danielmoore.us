@@ -1723,7 +1723,7 @@ const albums = [
 "The Last Shadow Puppets|The Age of the Understatement|2008|PLcnPdZHPO1-Y6_dyMOpW1g81mN_VkjCqQ|A4354|The Age of the Understatement|The Last Shadow Puppets|Chamber Pop;Indie Rock;Alternative Rock;Baroque Pop;Indie Pop;Pop;Rock",
 "Sizzla|Black Woman & Child|1997|OLAK5uy_miRw7BnCbQmnhpL43PVfWwqOqf_FA5WC4|A3677|Black Woman & Child|Sizzla|Ragga;Roots Reggae;Caribbean Music;Dancehall;Jamaican Music;Reggae;Regional Music",
 "Khaled|Khaled|1992|PL-Yv-f8rcErbE-kEVnBNR64xMJZ25M4_j|A2157|Khaled (album)|Khaled (musician)|Pop Raï;African Music;Arabic Music;North African Music;Pop;Raï;Regional Music",
-"Orchestra Baobab|Vol. 1: Senegambie/Vol. 2: Ngalam/Ken Dou Werente/Pirates Choice|1982|OLAK5uy_mJhISuN-sWIX2az0mbLyZ9hnaRmQhozCs|A2922|Orchestra Baobab|Orchestra Baobab|Afro-Cuban Jazz;Hispanic Music;Jazz;Latin American Music;Latin Jazz;Regional Music",
+"Orchestra Baobab|Pirates Choice|1982|OLAK5uy_mJhISuN-sWIX2az0mbLyZ9hnaRmQhozCs|A2922||Orchestra Baobab|Afro-Cuban Jazz;Hispanic Music;Jazz;Latin American Music;Latin Jazz;Regional Music",
 "Beach House|7|2018|OLAK5uy_k5Wg_Fr6ei7rzg6NmEcZFL92jL1kCKkvE|A6029|7 (Beach House album)|Beach House|Dream Pop;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock",
 "The Last Poets|This Is Madness|1971|OLAK5uy_k-lMSW7nDD5QwQAaXDqKO0oGR5mA7RCYY|A2646|This Is Madness|The Last Poets|Poetry;Descriptor;Spoken Word",
 "Sigur Rós|Med sud i eyrum vid spilum endalaust|2008|PL4f7SnpOplqB04ectT9gCjEg0LKzR6-qj|A4347|Med sud i eyrum vid spilum endalaust|Sigur Rós|Dream Pop;Post-Rock;Alternative Rock;Rock",
