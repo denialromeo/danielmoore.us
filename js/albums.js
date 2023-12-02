@@ -681,7 +681,7 @@ const albums = [
 "Basement Jaxx|Remedy|1999|OLAK5uy_kuMzUcKV7AsPiAWxwC8oCUEr0X5quUIIQ|A1055|Remedy (Basement Jaxx album)|Basement Jaxx|Dance-Pop;Funky House;Dance;Electronic;Electronic Dance Music;House;Pop",
 "King Crimson|Red|1974|PLjPIe5KlzbfVieL1zPh3LjDNJQBV98WTF|A315|Red (King Crimson album)|King Crimson|Art Rock;Progressive Rock;Rock",
 "Motörhead|Ace of Spades|1980|OLAK5uy_nzjjZLTZmiYsGcM0IteFeZhE6qCnS3wLw|A507|Ace of Spades (album)|Motörhead|Hard Rock;Heavy Metal;Metal;Rock",
-"The Quintet|Jazz at Massey Hall/The Greatest Jazz Concert Ever|1953|OLAK5uy_nRcwV4icxcpB9iqD2oKhIOd7Zpx5o2Y-8|A1768|Jazz at Massey Hall|Jazz at Massey Hall|Bebop;Jazz",
+"The Quintet|Jazz at Massey Hall|1953|OLAK5uy_nRcwV4icxcpB9iqD2oKhIOd7Zpx5o2Y-8|A1768|Jazz at Massey Hall|Jazz at Massey Hall|Bebop;Jazz",
 "Madonna|Madonna|1983|OLAK5uy_layBXi2EfMEz6Go4mbWI-lisArr7XBxmU|A2958|Madonna (Madonna album)|Madonna (entertainer)|Dance-Pop;Dance;Pop",
 "The Original Broadway Cast|West Side Story|1957|PL2HvIoVJcahcqRssUsnv0g8lV3W-I2TfL|A1827|West Side Story (Original Broadway Cast)|Leonard Bernstein|Show Tunes;Descriptor;Musical Theatre and Entertainment;Soundtracks",
 "John Coltrane|My Favorite Things|1961|PL2F2E989DFDD03A5B|A1892|My Favorite Things (John Coltrane album)|John Coltrane|Modal Jazz;Post-Bop;Bebop;Jazz",
