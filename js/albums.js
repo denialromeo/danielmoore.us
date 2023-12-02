@@ -2840,7 +2840,7 @@ const albums = [
 "Propellerheads|Decksandrumsandrockandroll|1998|OLAK5uy_lVizV5D0lKZI5UHHnIFJ7kH8OjkvAuPlI|A3712|Decksandrumsandrockandroll|Propellerheads|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music",
 "Grateful Dead|Anthem of the Sun|1968|OLAK5uy_mujc5PgT1GJzsPWbN6fhrKPkgZna32tKg|A2225|Anthem of the Sun|Grateful Dead|Jam Band;Psychedelic Rock;Yacht Rock;Pop;Pop Rock;Rock",
 "Descendents|Milo Goes to College|1982|OLAK5uy_muAZdTmhO8pQ0vkGnXFJL0U5UlHZL1Jbc|A1481|Milo Goes to College|Descendents|Hardcore Punk;Skate Punk;Punk Rock;Rock",
-"Gilberto Gil / Jorge Ben|Ogum Xangô/Gil & Jorge|1975|OLAK5uy_lco4U4jC2YzfTQp82WXBEn1QuLxRxUlak|A4566|https://en.wikipedia.org/wiki/Gil_e_Jorge|Jorge Ben|MPB;Brazilian Music;Regional Music",
+"Gilberto Gil and Jorge Ben|Gil e Jorge|1975|OLAK5uy_lco4U4jC2YzfTQp82WXBEn1QuLxRxUlak|A4566|Gil e Jorge|Jorge Ben|MPB;Brazilian Music;Regional Music",
 "OutKast|Southernplayalisticadillacmuzik|1994|OLAK5uy_khDM4WsB6ZCuZhAY3G-A90YIyXDFLaS6Y|A2981|Southernplayalisticadillacmuzik|Outkast|Hip Hop",
 "John Phillips|John Phillips (John the Wolfking of L.A.)|1970|PLSWJyicjK1nMRIEOvmTF0-6NPRGSMsAbC|A1331|John Phillips (John, the Wolf King of L.A.)|John Phillips (musician)|Folk Rock;Singer/Songwriter;Rock",
 "Archers of Loaf|Icky Mettle|1993|OLAK5uy_lwz5-sIlYkc_opnHBqpPK1374lhuii8KQ|A3529|Icky Mettle|Archers of Loaf|Indie Rock;Noise Pop;Alternative Rock;Rock",
