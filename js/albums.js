@@ -2271,7 +2271,7 @@ const albums = [
 "Freddie Gibbs & Madlib|Bandana|2019|PLsAk6h4n-dS1VtUl1HGJhna8HN7NYrwGY|A6263|Bandana (album)|Freddie Gibbs|Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Dinosaur Jr.|Where You Been|1993|OLAK5uy_lJQfrDnp40SVakjBfz3yc5Y_i3O4YJ79s|A888|Where You Been|Dinosaur Jr.|Alternative Rock;Rock",
 "Aretha Franklin|Aretha Live at Fillmore West|1971|OLAK5uy_mYfKtiDbWPtvupfxtpo4v1UoM3m7Xz4II|A2387|Aretha Live at Fillmore West|Aretha Franklin|Deep Soul;R&B;Soul;Southern Soul",
-"The Fugs|The Village Fugs/The Fugs' First Album|1965|OLAK5uy_lQ3I93spzY6zGjco-eeyZZLhZcUOeDb2s|A2052|The Fugs First Album|The Fugs|Beat Poetry;Folk Rock;Garage Rock;Psychedelic Folk;Contemporary Folk;Descriptor;Folk;Poetry;Rock;Spoken Word",
+"The Fugs|The Fugs First Album|1965|OLAK5uy_lQ3I93spzY6zGjco-eeyZZLhZcUOeDb2s|A2052|The Fugs First Album|The Fugs|Beat Poetry;Folk Rock;Garage Rock;Psychedelic Folk;Contemporary Folk;Descriptor;Folk;Poetry;Rock;Spoken Word",
 "The Doors|Waiting for the Sun|1968|OLAK5uy_liOYIzH3_3eKYgmX_D_scWoc4ECjzPt5Q|A144|Waiting for the Sun|The Doors|Psychedelic Rock;Rock",
 "Jimmy Giuffre|Jimmy Giuffre 3|1957|OLAK5uy_lNTuhJI_yzAugQiTD-Upo4Pc3huZq06PQ|A1795|The Jimmy Giuffre 3|Jimmy Giuffre|Cool Jazz;Jazz",
 "New Order|Brotherhood|1986|OLAK5uy_mvYVEu5NJyFmFIj_aJjyVIzMA52TLBOgs|A1505|Brotherhood (New Order album)|New Order (band)|Alternative Dance;New Wave;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock",
