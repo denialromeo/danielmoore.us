@@ -729,7 +729,7 @@ const albums = [
 "The Knife|Shaking the Habitual|2013|OLAK5uy_nY1GP_o4fvVGCrkIEIckXKoCxqjoxwjO0|A5328|Shaking the Habitual|The Knife|Electronic;Experimental",
 "Ghostface Killah|Supreme Clientele|2000|OLAK5uy_k8ydUromoccQJvdUvm94tfBCV-TahfnzE|A3819|Supreme Clientele|Ghostface Killah|Hardcore Hip Hop;Hip Hop",
 "Cat Power|The Greatest|2006|OLAK5uy_kXlFDo6893Ef1I6o2NUWBpQeiDpTikZ9Q|A2076|The Greatest (Cat Power album)|Cat Power|Indie Rock;Singer/Songwriter;Alternative Rock;Rock",
-"Count Basie|Basie/The Atomic Mr. Basie/The Complete Atomic Basie|1958|OLAK5uy_kYzmv7IbzRXb1Xyc7LoMaZ1gtFDNwigAc|A1812|The Atomic Mr. Basie|Count Basie|Big Band;Swing;Jazz",
+"Count Basie|The Atomic Mr. Basie|1958|OLAK5uy_kYzmv7IbzRXb1Xyc7LoMaZ1gtFDNwigAc|A1812|The Atomic Mr. Basie|Count Basie|Big Band;Swing;Jazz",
 "Mos Def|Black on Both Sides|1999|OLAK5uy_k3xUIIipee7XWqLNWKxV6BepRDR9djZx4|A1067|Black on Both Sides|Mos Def|Conscious Hip Hop;Hip Hop",
 "My Bloody Valentine|m b v|2013|OLAK5uy_mIG9t06JPjv87pn1Ocq2BL9rClliTjWJ8|A5346|M b v (album)|My Bloody Valentine (band)|Dream Pop;Shoegaze;Alternative Rock;Rock",
 "Bill Evans|Waltz for Debby|1962|PLUA0n-uVUEwLu2aEtHit-4nhKAZjh0D4M|A1899|Waltz for Debby (1962 album)|Bill Evans|Cool Jazz;Jazz",
