@@ -2400,7 +2400,7 @@ const albums = [
 "Glasvegas|Glasvegas|2008|PLb3nKaB6PMJj_EJOUYQaM3N_UtoX45s_L|A4348|Glasvegas (album)|Glasvegas|Indie Rock;Alternative Rock;Rock",
 "Shabazz Palaces|Lese Majesty|2014|OLAK5uy_lCR8wQ5ZhRYhIxXzK4XAHR7o1kmzfFXMY|A5415|Lese Majesty (album)|Shabazz Palaces|Abstract Hip Hop;Experimental Hip Hop;Hip Hop",
 "Miguel|Wildheart|2015|OLAK5uy_lsE6MeZR0zzDVaVftf4Ent2PPlMYWwZXc|A5574|Wildheart (album)|Miguel (singer)|Alternative R&B;Contemporary R&B;R&B",
-"Terry Callier|What Color Is Love|1972|OLAK5uy_lySQfYVtYaotREudRu0ybd-7NXf9vuQn8|A4541|What Color Is Love|Terry Callier|Chicago Soul;R&B;Soul",
+"Terry Callier|What Color Is Love|1972|OLAK5uy_ncwkf705KJa_ui0k44uihCX5CjhZP4OCw|A4541|What Color Is Love|Terry Callier|Chicago Soul;R&B;Soul",
 "Aldous Harding|Party|2017|OLAK5uy_m8KzshJBxNPexYsHhx3EFqyx-gz2bAZxc|A5846|Party (Aldous Harding album)|Aldous Harding|Contemporary Folk;Singer/Songwriter;Folk",
 "Ray Charles|Genius + Soul = Jazz|1961|PLBPzjajC_OZXOvEXJLJP5Sznh51dLwx0E|A1276|Genius + Soul = Jazz|Ray Charles|Rhythm & Blues;Soul Jazz;Jazz;R&B",
 "Jenny Hval|Apocalypse, Girl|2015|OLAK5uy_nYqA8WJkJwaCSviMdw-oVDH1x2puvvOQ0|A5591|Apocalypse, Girl|Jenny Hval|Art Pop;Pop",
