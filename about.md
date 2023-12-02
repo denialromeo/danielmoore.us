@@ -221,7 +221,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Short Stories**
 
 * "[American Gold Mine](https://windupstories.com/books-short-stories/american-gold-mine/)" by [Paolo Bacigalupi](https://windupstories.com/) (Any professional can relate.)
-* "[Coding Machines](https://www.teamten.com/lawrence/writings/coding-machines/#coding_machines)" by [Lawrence Kesteloot](https://www.teamten.com/lawrence/) (Debugging meets cosmic horror.)
+* "[Coding Machines](https://www.teamten.com/lawrence/writings/coding-machines/#coding_machines)" by [Lawrence Kesteloot](https://www.teamten.com/lawrence/) (Man's reach exceeds his grasp.)
 * "[The Cold Equations](http://www.spacewesterns.com/articles/105/#content)" by [Tom Godwin](https://en.wikipedia.org/wiki/Tom_Godwin) (You can't outsmart physics.)
 * "[Fleep](http://www.aaronsw.com/2002/fleep/)" by [Jason Shiga](https://en.wikipedia.org/wiki/Jason_Shiga) (If you lose your memories, are you still the same person?)
 * "[Frost and Fire](http://web.archive.org/web/20170918083727/https://charlton6.weebly.com/uploads/1/0/6/2/10621939/frost_and_fire.pdf)" by [Ray Bradbury](https://en.wikipedia.org/wiki/Ray_Bradbury) (Man that is born of a woman is of few days.)
