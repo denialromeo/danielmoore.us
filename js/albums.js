@@ -1642,7 +1642,7 @@ const albums = [
 "Big Joe Turner|The Boss of the Blues|1956|OLAK5uy_mHggB8Ho76jWWADHXv8r6Pk_vTFa-XgQs|A1224|The Boss of the Blues|Big Joe Turner|Rhythm & Blues;R&B",
 "Sleigh Bells|Treats|2010|OLAK5uy_mQq3cBIJUAxfaU3qAllYKD2vblF2T7WDs|A5096|Treats (album)|Sleigh Bells (band)|Noise Pop;Alternative Rock;Rock",
 "Paul Weller|Wild Wood|1993|OLAK5uy_kxKRYdqHjvpd9-8XP7z0ZtcZ4Crr7N2DM|A884|Wild Wood|Paul Weller|Pop Rock;Singer/Songwriter;Pop;Rock",
-"Peter Gabriel|Peter Gabriel (IV)/Security|1982|PL0RNmJPHxmg8Gn0ol0XUsJwKJMDdnD_vn|A558|Peter Gabriel (1982 album)|Peter Gabriel|Art Rock;Rock",
+"Peter Gabriel|Security|1982|OLAK5uy_mSvB9XwXxI02PhJI3_ZNdXGIghlKOvWNQ|A558|Peter Gabriel (1982 album)|Peter Gabriel|Art Rock;Rock",
 "Peter Tosh|Legalize It|1976|OLAK5uy_mvro94MHWKW833YE4av9FBACrpUegwbSQ|A1673|Legalize It|Peter Tosh|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Donny Hathaway|Live|1972|OLAK5uy_n6hhFIZTJcTDaVngWQaUlPtz5XQ3NP1Nw|A2440|Live (Donny Hathaway album)|Donny Hathaway|Deep Soul;R&B;Soul;Southern Soul",
 "Maxwell|Maxwell's Urban Hang Suite|1996|OLAK5uy_kbdh20TGkb80cBYuVxc3bSiB1m4NHpnZs|A4837|Maxwell's Urban Hang Suite|Maxwell (musician)|Contemporary R&B;Neo-Soul;R&B;Soul",
