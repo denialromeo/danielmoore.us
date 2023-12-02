@@ -1346,7 +1346,7 @@ const albums = [
 "Uncle Tupelo|Anodyne|1993|OLAK5uy_n7_VLaJYiVu1ixzs8uROH9kJlmizNu8wU|A895|Anodyne (album)|Uncle Tupelo|Alt-Country;Americana;Country",
 "Ryan Adams|Gold|2001|OLAK5uy_l0sVnL7G3Tcl1r0VT3fbpXmLiIaOnSp6o|A1196|Gold (Ryan Adams album)|Ryan Adams|Alt-Country;Pop Rock;Country;Pop;Rock",
 "Chick Corea|Return to Forever|1972|https://www.youtube.com/embed/zdaRzxP4NuY|A2004|Return to Forever (Chick Corea album)|Chick Corea|Jazz Fusion;Jazz",
-"Milton Nascimento & Lô Borges|Clube da esquina|1972|PLDFA679254DC1F603|A2444|Clube da Esquina (album)|Milton Nascimento|MPB;Brazilian Music;Regional Music",
+"Milton Nascimento & Lô Borges|Clube da esquina|1972|OLAK5uy_m_6iBMMVsYB4jpp7b5yXh1W-qZRyKbCio|A2444|Clube da Esquina (album)|Milton Nascimento|MPB;Brazilian Music;Regional Music",
 "Judas Priest|British Steel|1980|OLAK5uy_nUe38-sZcpAhS3TirDX-XiSmVx16wrROQ|A2817|British Steel (album)|Judas Priest|Heavy Metal;Metal;Rock",
 "Morrissey|Viva Hate|1988|OLAK5uy_kcv3ugFC_OWVkQuzYd161yd97VLhV_p4o|A735|Viva Hate|Morrissey|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Pink Floyd|Meddle|1971|PL5aWbCMRfsdj_qmErmIrVjHYKNtxZz0Rv|A1347|Meddle|Pink Floyd|Progressive Rock;Rock",
