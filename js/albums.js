@@ -969,7 +969,7 @@ const albums = [
 "The Beatles|Magical Mystery Tour|1967|OLAK5uy_k5Ato-9KKa4z-PDiFvP5zg-PaSwj-ssZg|A119|Magical Mystery Tour|The Beatles|Pop Rock;Psychedelic Pop;Pop;Rock",
 "The Supremes|Where Did Our Love Go|1964|OLAK5uy_nIjtz-gnn0gh44yUR25UbG0TQX8lgDMfc|A2356|Where Did Our Love Go (album)|Diana Ross|Girl Group;Pop Soul;Pop;R&B;Soul",
 "Death Grips|The Money Store|2012|OLAK5uy_mvNF05s6I4LXO_UVWPwyyP-d4Bd0N_LgI|A5202|The Money Store (album)|Death Grips|Hardcore Hip Hop;Industrial Hip Hop;Experimental Hip Hop;Hip Hop;Industrial Music",
-"The Cure|Three Imaginary Boys/Boys Don't Cry|1979|PL_ZwpC8SOCfhRrpmD3iVDJ9MEY_PXWLSY|A1454|Three Imaginary Boys|The Cure|Post-Punk;Rock",
+"The Cure|Three Imaginary Boys|1979|PLX68ZEYlh74sSZ5-z0EIMy5z-BxPhrLqj|A1454|Three Imaginary Boys|The Cure|Post-Punk;Rock",
 "Alain Bashung|Fantaisie Militaire|1998|OLAK5uy_lEBJS_DLarR64j9gqsoT0MQsP6vD2T6kA|A4861|Fantaisie militaire|Alain Bashung|Nouvelle chanson française;Chanson;Regional Music",
 "The Neville Brothers|Yellow Moon|1989|OLAK5uy_kdgy2dT67YFFKxGd0gMt0iRZ0PMxuyjkE|A764|Yellow Moon|The Neville Brothers|New Orleans R&B;Soul;R&B",
 "Willie Nelson|Stardust|1978|OLAK5uy_krDD7M2zt0dvgCu7RtuLn2VVoliugldcE|A1161|Stardust (Willie Nelson album)|Willie Nelson|Standards;Pop;Traditional Pop",
