@@ -10172,7 +10172,7 @@ const songs = [
 "Kelis|Millionaire|2003|-vw1j69FBLo|Kelis|S7080|Contemporary R&B;Pop Rap;Hip Hop;R&B|Millionaire (Kelis song)",
 "INXS|Disappear|1990|Xvo-bfaVsg0|INXS|S6797|Pop Rock;Pop;Rock|Disappear (INXS song)",
 "DJ Koze|XTC|2015|iQTcBBb8j9E|DJ Koze|S9740|Deep House;Microhouse;Dance;Electronic;Electronic Dance Music;House|",
-"Beyoncé|Daddy Lessons/Daddy Lessons (Remix feat. Dixie Chicks)|2016|yU8Z-VJ3W9Q|Beyoncé|S16035|Country Soul;Pop Soul;Pop;R&B;Soul|",
+"Beyoncé|Daddy Lessons (Remix feat. Dixie Chicks)|2016|yU8Z-VJ3W9Q|Beyoncé|S16035|Country Soul;Pop Soul;Pop;R&B;Soul|Daddy Lessons",
 "Metallica|Until It Sleeps|1996|eRV9uPr4Dz4|Metallica|S11610|Hard Rock;Rock|Until It Sleeps",
 "Method Man|Release Yo'delf|1995|kZlhbx3yGkQ|Method Man|S2631|Boom Bap;East Coast Hip Hop;Hip Hop|",
 "Suprême NTM|Seine-Saint-Denis Style|1998|Wn1Ny-RNAG8|Suprême NTM|S12373|Boom Bap;French Hip Hop;Hip Hop|",
