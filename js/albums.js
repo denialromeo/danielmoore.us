@@ -242,7 +242,7 @@ const albums = [
 "Spiritualized|Ladies and Gentlemen We Are Floating in Space|1997|OLAK5uy_lhRPPmTa364TBzTDGBVXO7BZsKvKaDd5o|A993|Ladies and Gentlemen We Are Floating in Space|Spiritualized|Neo-Psychedelia;Space Rock;Psychedelic Rock;Rock",
 "Neutral Milk Hotel|In the Aeroplane Over the Sea|1998|OLAK5uy_mcmpW2ioM2y1kninR5RNG2a_nCfz-AXfY|A1049|In the Aeroplane Over the Sea|Neutral Milk Hotel|Indie Folk;Indie Rock;Alternative Rock;Contemporary Folk;Folk;Rock",
 "Interpol|Turn On the Bright Lights|2002|OLAK5uy_kOru3lgSiY4Z9831a4KWGzSNrjFcLU-c8|A1634|Turn On the Bright Lights|Interpol (band)|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock",
-"Public Image Ltd.|Metal Box/Second Edition|1979|OLAK5uy_n4JLHnhBbLCpFsIVl0Yr4eVmwL2Xbri60|A458|Metal Box|Public Image Ltd|Experimental Rock;Post-Punk;Rock",
+"Public Image Ltd.|Second Edition|1979|OLAK5uy_n4JLHnhBbLCpFsIVl0Yr4eVmwL2Xbri60|A458|Metal Box|Public Image Ltd|Experimental Rock;Post-Punk;Rock",
 "LCD Soundsystem|This Is Happening|2010|OLAK5uy_lGgRvgGZf4SkJH8vN5Vt-5JBPwxgqNGgQ|A5082|This Is Happening|LCD Soundsystem|Dance-Punk;Indietronica;Electronic;Post-Punk;Rock",
 "The xx|xx|2009|OLAK5uy_m8CTvG7VQSH0c2RQ7dj-kRWzi3Lgew99E|A4989|Xx (album)|The xx|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock",
 "Franz Ferdinand|Franz Ferdinand|2004|OLAK5uy_kqKayhi4VDq4fcNpmLIdN19fdU1xPjsxA|A4035|Franz Ferdinand (album)|Franz Ferdinand (band)|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock",
