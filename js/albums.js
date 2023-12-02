@@ -2739,7 +2739,7 @@ const albums = [
 "Mel Tormé|Swings Shubert Alley|1960|OLAK5uy_mfDY0NkiiGGtHwd05UymhyZmI-llXOBSA|A2423|Mel Tormé Swings Shubert Alley|Mel Tormé|Vocal Jazz;Jazz",
 "Scott Walker|Scott|1967|OLAK5uy_k6SPg9_KQWeypHNRci2hvLH79MSUb6gPs|A1297|Scott (album)|Scott Walker (singer)|Baroque Pop;Pop",
 "Billy Joel|52nd Street|1978|OLAK5uy_lGD1T6895hdOE_rzXVvvKeb1bFUdOyBhM|A2738|52nd Street (album)|Billy Joel|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock",
-"Public Image Ltd.|Album/Compact Disc/Cassette|1986|OLAK5uy_n06t0-g0p1Dhpv9Ygy8MYfy0-btsjR7mg|A3127|Album (Public Image Ltd album)|Public Image Ltd|Alternative Rock;Post-Punk;Rock",
+"Public Image Ltd.|Album|1986|OLAK5uy_n06t0-g0p1Dhpv9Ygy8MYfy0-btsjR7mg|A3127|Album (Public Image Ltd album)|Public Image Ltd|Alternative Rock;Post-Punk;Rock",
 "!!!|Louden Up Now|2004|OLAK5uy_nB4b4XnKh7ylZwd1wkuaJRYL_zX9hoIJU|A4094|Louden Up Now|!!!|Dance-Punk;Indie Rock;Alternative Rock;Post-Punk;Rock",
 "Andrew Bird|Armchair Apocrypha|2007|OLAK5uy_lmJ1X6K2pt6H32xlDlF_FW64O7LdlH3Uo|A4277|Armchair Apocrypha|Andrew Bird|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop",
 "Chris Isaak|Silvertone|1985|OLAK5uy_nVrMdSITd5JvksUmxsJpTpKVrbssyu7oo|A4710|Silvertone (album)|Chris Isaak|Pop Rock;Pop;Rock",
