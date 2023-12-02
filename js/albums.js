@@ -2178,7 +2178,7 @@ const albums = [
 "Jimmy Smith|Back at the Chicken Shack|1960|OLAK5uy_nSkihhDZ6ydNuAASIacRlnhugKXS-Z65k|A1889|Back at the Chicken Shack|Jimmy Smith (musician)|Soul Jazz;Jazz",
 "ZZ Top|Degüello|1979|OLAK5uy_nLPy4DConrSSmOioUeEBwpvvOMsvW361g|A1456|Degüello|ZZ Top|Blues Rock;Southern Rock;Rock",
 "The Blues Brothers|The Blues Brothers|1980|PL4sfVCWR8nGJ0iZTaheuqSoZ2JC16JEBp|A2820|The Blues Brothers (film)|The Blues Brothers|Film Soundtrack;Rhythm & Blues;Descriptor;R&B;Soundtracks",
-"Procol Harum|Procol Harum/A Whiter Shade of Pale|1967|PLbIN9DHtOfK8kMQKJM2iH8izvBKsvD4Oy|A116|Procol Harum (album)|Procol Harum|Psychedelic Pop;Psychedelic Rock;Pop;Rock",
+"Procol Harum|Procol Harum|1967|OLAK5uy_mVy6i6E1h1MAdpnN6EFx_D6_oNOJ1uh4g|A116|Procol Harum (album)|Procol Harum|Psychedelic Pop;Psychedelic Rock;Pop;Rock",
 "The White Stripes|Icky Thump|2007|OLAK5uy_myk0EZqwpg-QV_EhJD7PPVpeIq4YNgi2w|A4251|Icky Thump|The White Stripes|Alternative Rock;Blues Rock;Garage Rock Revival;Garage Rock;Rock",
 "The Wedding Present|George Best|1987|OLAK5uy_ngjH08UNfcuk1FzcRpu2yjZ25eJLppfkg|A3162|George Best (album)|The Wedding Present|C86;Jangle Pop;Alternative Rock;Indie Pop;Pop;Pop Rock;Rock",
 "Manitoba/Caribou|Up in Flames|2003|OLAK5uy_lHGwIRfXRBChOXsGVwLX3aHB7NTZYgW7M|A3920|Up in Flames (album)|Dan Snaith|Folktronica;Indietronica;Psychedelic Pop;Electronic;Pop",
