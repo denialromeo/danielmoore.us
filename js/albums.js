@@ -840,7 +840,7 @@ const albums = [
 "Sonic Youth|EVOL|1986|OLAK5uy_kQ0zczkB7Q3fXCUBnR5VEJZUX07RiIPf0|A1511|Evol (Sonic Youth album)|Sonic Youth|Experimental Rock;Noise Rock;Rock",
 "Fiona Apple|Tidal|1996|OLAK5uy_kgm2aRzrjZBdMzbzVz7s8FWi_N9hI0P-4|A3617|Tidal (album)|Fiona Apple|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock",
 "Captain Beefheart and The Magic Band|Clear Spot|1972|OLAK5uy_nlkaEMF1bUuErBStCVJSyqSnGCREraVYc|A252|Clear Spot|Captain Beefheart|Art Rock;Blues Rock;Rock",
-"Nick Cave & The Bad Seeds|Abattoir Blues / The Lyre of Orpheus|2004|OLAK5uy_kNphS6eU46B1MOMp4k-uUcaAwGJCvqX8E|A4066|Abattoir Blues / The Lyre of Orpheus|Nick Cave and the Bad Seeds|Alternative Rock;Art Rock;Rock",
+"Nick Cave & The Bad Seeds|Abattoir Blues / The Lyre of Orpheus|2004|OLAK5uy_mqq0vO_PBGLdNcUx7DqautbrffaReitQ0|A4066|Abattoir Blues / The Lyre of Orpheus|Nick Cave and the Bad Seeds|Alternative Rock;Art Rock;Rock",
 "Otis Redding|The Dock of the Bay|1968|OLAK5uy_ktbcH6JUb0JgHMJz7as7tPjxB5r6Skxxo|A1307|The Dock of the Bay (album)|Otis Redding|Southern Soul;R&B;Soul",
 "The Dismemberment Plan|Emergency & I|1999|OLAK5uy_nQ1OsiK8voMoNgHp-Uw6SQLGo-pwpUd8Y|A3774|Emergency & I|The Dismemberment Plan|Indie Rock;Alternative Rock;Rock",
 "Beck|Mutations|1998|OLAK5uy_nZ5kLujyjeIP-4mu1fvEyrrkhY8GZsuB0|A1029|Mutations (Beck album)|Beck|Alternative Rock;Folk Rock;Rock",
