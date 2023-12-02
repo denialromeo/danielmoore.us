@@ -470,7 +470,7 @@ const albums = [
 "LCD Soundsystem|LCD Soundsystem|2005|OLAK5uy_nUL1THV4_2LohmOqsyStmWbGRVyf_xGTs|A4151|LCD Soundsystem (album)|LCD Soundsystem|Dance-Punk;Indietronica;Electronic;Post-Punk;Rock",
 "Tori Amos|Little Earthquakes|1992|OLAK5uy_l0FFIB_IRz66dYcbwwGeu3y1gLT3Tds7w|A826|Little Earthquakes|Tori Amos|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock",
 "Led Zeppelin|Led Zeppelin III|1970|OLAK5uy_lP3VCuEHbzZVVqMLgRgIw_L5773mLMZV4|A206|Led Zeppelin III|Led Zeppelin|Folk Rock;Hard Rock;Rock",
-"The Beatles|Please Please Me/Introducing...The Beatles|1963|PLycVTiaj8OI9COuVDJdw_RdBWy11ALc4T|A10|Please Please Me|The Beatles|Merseybeat;Beat Music;Pop;Pop Rock;Rock",
+"The Beatles|Please Please Me|1963|OLAK5uy_n12OaxN7Jh4jnNZ8eharDpSrSBRHrd4m0|A10|Please Please Me|The Beatles|Merseybeat;Beat Music;Pop;Pop Rock;Rock",
 "The Shins|Chutes Too Narrow|2003|OLAK5uy_l8-uav5OH3vr9p9KZk0GwG4XuHl7_s12U|A4007|Chutes Too Narrow|The Shins|Indie Pop;Pop",
 "The Police|Outlandos D'Amour|1978|OLAK5uy_lC4vwAZM8FzHZ4rTxdaVnryJtOMAv-xY4|A439|Outlandos d'Amour|The Police|New Wave;Pop Rock;Pop;Rock",
 "Fatboy Slim|You've Come a Long Way, Baby|1998|OLAK5uy_lnOG_FR1VMf1vO2gqPjDc4GbBtVf4mNM4|A1032|You've Come a Long Way, Baby|Fatboy Slim|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music",
