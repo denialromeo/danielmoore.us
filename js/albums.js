@@ -343,7 +343,7 @@ const albums = [
 "U2|War|1983|OLAK5uy_kivMCwVrnsTfC5okMt3Y-zON367TTbxCM|A574|War (U2 album)|U2|Alternative Rock;Post-Punk;Rock",
 "Eric Dolphy|Out to Lunch!|1964|OLAK5uy_mFRlTE04kALWL7pySgbbFYxNx6zAzRPuk|A1940|Out to Lunch!|Eric Dolphy|Avant-Garde Jazz;Jazz",
 "Isaac Hayes|Hot Buttered Soul|1969|OLAK5uy_mXK8sc7A0gGZdZjgyp7X5JQZJdzZMe3mo|A174|Hot Buttered Soul|Isaac Hayes|Soul;R&B",
-"The Beatles|With the Beatles/Meet the Beatles!|1963|PLycVTiaj8OI-XRoKhxMmBhnsefIc77M2_|A2|With the Beatles|The Beatles|Merseybeat;Beat Music;Pop;Pop Rock;Rock",
+"The Beatles|With the Beatles|1963|OLAK5uy_nYOkIty9jiOs3mDb8kZk7RmyiDVLn_g_M|A2|With the Beatles|The Beatles|Merseybeat;Beat Music;Pop;Pop Rock;Rock",
 "Brian Eno - David Byrne|My Life in the Bush of Ghosts|1981|OLAK5uy_mOoJHF6_qCl1To4Wz8qnPg9YuG37u1zRo|A513|My Life in the Bush of Ghosts (album)|David Byrne|Art Rock;Experimental Rock;Rock",
 "Frank Zappa|Hot Rats|1969|OLAK5uy_k7TNKg9Dv38e_uJeVfYY_XtoINa0xB1sQ|A167|Hot Rats|Frank Zappa|Jazz Fusion;Jazz-Rock;Jazz;Rock",
 "Alanis Morissette|Jagged Little Pill|1995|OLAK5uy_n49xow370hbpDDMHh1puPrUpJRwlyRit8|A947|Jagged Little Pill|Alanis Morissette|Pop Rock;Singer/Songwriter;Pop;Rock",
