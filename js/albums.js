@@ -554,7 +554,7 @@ const albums = [
 "Bob Dylan|Desire|1976|OLAK5uy_kitFurptBQpLvbLfXDCUx0gyHj6UdWn_4|A367|Desire (Bob Dylan album)|Bob Dylan|Folk Rock;Singer/Songwriter;Rock",
 "Wilco|Summerteeth|1999|OLAK5uy_n3djIm29MEXLYb1xXmweTIAMFmyOWNZyQ|A1058|Summerteeth|Wilco|Indie Rock;Pop Rock;Alternative Rock;Pop;Rock",
 "Guided by Voices|Bee Thousand|1994|OLAK5uy_kIVrxvcXTlUI9FQKgwD31TanqEYYoTgXQ|A926|Bee Thousand|Guided by Voices|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock",
-"Pet Shop Boys|Behaviour|1990|OLAK5uy_kJNHXIqR-_M70MaoMjMoN_xfm7WpeOLrw|A787|Behaviour (Pet Shop Boys album)|Pet Shop Boys|Synthpop;Electronic;Pop",
+"Pet Shop Boys|Behaviour|1990|PL-8J0DhYWwvr-3luEZmKixxXYVgghFMQU|A787|Behaviour (Pet Shop Boys album)|Pet Shop Boys|Synthpop;Electronic;Pop",
 "Steely Dan|Can't Buy a Thrill|1972|OLAK5uy_kT-Wz5yuAHB_pJlDx_RtmwD3K_2CWFLPM|A251|Can't Buy a Thrill|Steely Dan|Pop Rock;Pop;Rock",
 "Meat Loaf|Bat Out of Hell|1977|PL248ar1sMUaBcgwctosA7BA1Yhvh99f5k|A1186|Bat Out of Hell|Meat Loaf|Pop Rock;Rock Opera;Pop;Rock",
 "Joni Mitchell|The Hissing of Summer Lawns|1975|OLAK5uy_lZhOCRGqZsBFIzNoDn3OmSQodPHvJfjrA|A341|The Hissing of Summer Lawns|Joni Mitchell|Jazz Pop;Singer/Songwriter;Pop",
