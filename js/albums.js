@@ -1431,7 +1431,7 @@ const albums = [
 "Ash|1977|1996|OLAK5uy_kgpi6XR2Z2A6hubA0Y2AtaiV7v2eYpx1w|A969|1977 (Ash album)|Ash (band)|Britpop;Pop Punk;Alternative Rock;Pop;Pop Rock;Punk Rock;Rock",
 "Super Furry Animals|Radiator|1997|OLAK5uy_nPXVFugbYrgfsoAZi3di5MD9m5Puy_KbI|A1013|Radiator (album)|Super Furry Animals|Alternative Rock;Neo-Psychedelia;Psychedelic Rock;Rock",
 "Neil Young & Crazy Horse|Live Rust|1979|PLg29U2ShnGaxuHf6LS-FqcdAgINSPZKg1|A2774|Live Rust|Neil Young|Country Rock;Singer/Songwriter;Rock",
-"Astor Piazzolla|Tango: Zero Hour / Nuevo Tango: Hora Zero|1986|OLAK5uy_lr5ckmBjxrhndK8vTAsNl00ZLzn-3tBPw|A3128|Tango: Zero Hour|Astor Piazzolla|Tango Nuevo;Hispanic Music;Latin American Music;Regional Music;Tango",
+"Astor Piazzolla|Tango: Zero Hour|1986|OLAK5uy_lr5ckmBjxrhndK8vTAsNl00ZLzn-3tBPw|A3128|Tango: Zero Hour|Astor Piazzolla|Tango Nuevo;Hispanic Music;Latin American Music;Regional Music;Tango",
 "Frank Sinatra|September of My Years|1965|OLAK5uy_mgV39PPPQeTEn8LiUCKtZ1UHU9GLo2WeQ|A1959|September of My Years|Frank Sinatra|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "Michel Polnareff|Polnareff's|1971|PLnI0OmWSL5VDg6YwK4wRP-qgAQwzY_nhW|A2390|Polnareff's|Michel Polnareff|Baroque Pop;French Pop;Pop",
 "Lambchop|Nixon|2000|OLAK5uy_lDSY-Ws0skxXGw8iQomrn61iVoZTcl_U8|A1089|Nixon (album)|Lambchop (band)|Chamber Pop;Baroque Pop;Indie Pop;Pop",
