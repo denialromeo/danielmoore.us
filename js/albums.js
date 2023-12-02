@@ -2567,7 +2567,7 @@ const albums = [
 "Pat Metheny|Bright Size Life|1976|OLAK5uy_lWdEnyk632p8nHwXICRGny_4VhAoOx4lw|A2019|Bright Size Life|Pat Metheny|Jazz Fusion;Jazz",
 "EMA|Past Life Martyred Saints|2011|OLAK5uy_ntTztLSSHh2JuljsLJrRo5X2wO2EKoli8|A5140|Past Life Martyred Saints|Erika M. Anderson|Alternative Singer/Songwriter;Indie Rock;Alternative Rock;Rock;Singer/Songwriter",
 "Jethro Tull|Stand Up|1969|OLAK5uy_mfg6GbRV6ieKu9kF4cDBMGAo6fLRAbhIE|A1118|Stand Up (Jethro Tull album)|Jethro Tull (band)|Blues Rock;Progressive Rock;Rock",
-"Black Rebel Motorcycle Club|B.R.M.C.|2001|OLAK5uy_kVbvbF9hlCoCjD_cYKUbca10ki7lececY|A1220|B.R.M.C. (album)|Black Rebel Motorcycle Club|Garage Rock;Indie Rock;Psychedelic Rock;Alternative Rock;Rock",
+"Black Rebel Motorcycle Club|B.R.M.C.|2001|OLAK5uy_m4qtM2c1mlbS5RDFZAWqR66sPADi4GOzA|A1220|B.R.M.C. (album)|Black Rebel Motorcycle Club|Garage Rock;Indie Rock;Psychedelic Rock;Alternative Rock;Rock",
 "Au Pairs|Playing with a Different Sex|1981|PLZzKsHzifXto6zov_UgnFJh4MKkwR-tnb|A533|Playing with a Different Sex|Au Pairs|Post-Punk;Rock",
 "Fabrizio De André|Crêuza de mä|1984|OLAK5uy_kHNHgtFS_pWVjfFL8udiopzWHRSJWR230|A2834|Crêuza de mä|Fabrizio De André|Contemporary Folk;Folk",
 "Stereolab|Dots and Loops|1997|OLAK5uy_mT8vNMuTyC-PLafWLfx7YIxcHL4N00SmA|A3658|Dots and Loops|Stereolab|Art Pop;Electronic;Pop",
