@@ -2660,7 +2660,7 @@ const albums = [
 "Q-Tip|The Renaissance|2008|OLAK5uy_mON_08AqqrRQ4bzsqKyaYIFN-7mhbeukE|A4406|The Renaissance (Q-Tip album)|Q-Tip (musician)|Conscious Hip Hop;Hip Hop",
 "The 1975|I Like It When You Sleep, for You Are So Beautiful Yet So Unaware of It|2016|OLAK5uy_nUOXJDGsUo5eALikoxMaIK4Rl9KIm8Fdk|A5816|I Like It When You Sleep, for You Are So Beautiful yet So Unaware of It|The 1975|Pop Rock;Synthpop;Electronic;Pop;Rock",
 "Joe Henderson|Lush Life: The Music of Billy Strayhorn|1992|OLAK5uy_kySb7JHlny3gbAsIj_WIP0yfH9VA8HBlI|A2156|Lush Life: The Music of Billy Strayhorn|Joe Henderson|Jazz",
-"Bill Fay|Bill Fay|1970|OLAK5uy_lSCIyg234X-_guwELJ6fHVb0K1uCsG06M|A4493|Bill Fay (album)|Bill Fay|Baroque Pop;Singer/Songwriter;Pop",
+"Bill Fay|Bill Fay|1970|PL4fQ_Ejcxz8Pzu_5TkRu5BrTIxXqZW1zz|A4493|Bill Fay (album)|Bill Fay|Baroque Pop;Singer/Songwriter;Pop",
 "Super Furry Animals|Guerrilla|1999|OLAK5uy_ljBqms4uH6OpdBD9hkBJnQo1mms4Xz-4s|A3751|Guerrilla (album)|Super Furry Animals|Neo-Psychedelia;Psychedelic Rock;Rock",
 "Gossip|Standing in the Way of Control|2006|OLAK5uy_kn1vQbvDp33G6N5CwUipG1xA6vCP8ECIU|A3155|Standing in the Way of Control|Gossip (band)|Dance-Punk;Post-Punk;Rock",
 "Uncle Tupelo|No Depression|1990|OLAK5uy_lFrQViIio3lZzMqezdN4OSNmnPateFBs0|A801|No Depression (album)|Uncle Tupelo|Alt-Country;Americana;Country Rock;Country;Rock",
