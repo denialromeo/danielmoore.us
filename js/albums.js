@@ -1034,7 +1034,7 @@ const albums = [
 "The Pop Group|Y|1979|OLAK5uy_m23-bIVn_HdOGXXotSB3qInqxb0LfCWsQ|A1458|Y (album)|The Pop Group|Art Punk;Experimental Rock;Post-Punk;Punk Rock;Rock",
 "Mobb Deep|The Infamous...|1995|OLAK5uy_mWA-miviGOYxgfaEq3lxGdioLLyWUkk8E|A3580|The Infamous Mobb Deep|Mobb Deep|Boom Bap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Sinéad O'Connor|The Lion and the Cobra|1987|OLAK5uy_lFx10LEXjZBPfFp5r8Cr25jmQ3uCv-Jj8|A713|The Lion and the Cobra|Sinéad O'Connor|Alternative Rock;Pop Rock;Singer/Songwriter;Pop;Rock",
-"The Rolling Stones|The Rolling Stones Now!|1965|OLAK5uy_kMtbhSNXzYLkzmkrQFFahOfOTAr9G8Z4U|A47|The Rolling Stones, Now!|The Rolling Stones|Blues Rock;Rhythm & Blues;R&B;Rock",
+"The Rolling Stones|The Rolling Stones, Now!|1965|OLAK5uy_kMtbhSNXzYLkzmkrQFFahOfOTAr9G8Z4U|A47|The Rolling Stones, Now!|The Rolling Stones|Blues Rock;Rhythm & Blues;R&B;Rock",
 "Blind Faith|Blind Faith|1969|OLAK5uy_kWV6xIWUb2EVmSr_748kUEUx7T2rQ_pnU|A1228|Blind Faith (Blind Faith album)|Blind Faith|Blues Rock;British Blues;Blues;Electric Blues;Rock",
 "Miles Davis|Miles Ahead|1957|PLWd-jTB7nuz0rUSpXhhmb6DFP2b32etQj|A1817|Miles Ahead (album)|Miles Davis|Cool Jazz;Jazz",
 "Elliott Smith|From a Basement on the Hill|2004|OLAK5uy_m--KBMJFHrHEEDv4LMHUA8LEUj672ByOs|A4065|From a Basement on the Hill|Elliott Smith|Indie Rock;Singer/Songwriter;Alternative Rock;Rock",
