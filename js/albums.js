@@ -2704,7 +2704,7 @@ const albums = [
 "Garth Brooks|No Fences|1990|PLEsJMCDS7LC-xMLQbOebtJVit13yUSicW|A3321|No Fences|Garth Brooks|Contemporary Country;Country Pop;Country;Pop",
 "Bob Dylan|Tempest|2012|OLAK5uy_mfkPxdNYeHrh199TwgefR02Q9dtSHj0P0|A5210|Tempest (Bob Dylan album)|Bob Dylan|Singer/Songwriter",
 "The Raconteurs|Consolers of the Lonely|2008|OLAK5uy_l42hATJ5_tTv19ZwAYD5ZBMEsyTxqJLYM|A4372|Consolers of the Lonely|The Raconteurs|Alternative Rock;Garage Rock Revival;Garage Rock;Rock",
-"Plastikman|Musik|1994|PL1A1F2BBC19427F2F|A3523|Musik (album)|Richie Hawtin|Minimal Techno;Dance;Electronic;Electronic Dance Music;Techno",
+"Plastikman|Musik|1994|PL1X3qTzT40VnS4lqD3OkZv-qaJ7UCMAiG|A3523|Musik (album)|Richie Hawtin|Minimal Techno;Dance;Electronic;Electronic Dance Music;Techno",
 "Cate Le Bon|Reward|2019|OLAK5uy_kVzOh-ZDlycE5iBGkDr8wbFUN-KiChBWU|A6235|Reward (album)|Cate Le Bon|Art Pop;Pop",
 "The Futureheads|The Futureheads|2004|OLAK5uy_lqnduUQ1oriGKukBgGJX6iH_z9nehnHCM|A4073|The Futureheads (album)|The Futureheads|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock",
 "Merle Haggard|Mama Tried|1968|OLAK5uy_keEVYYWh9znMCUaIk_WS93RrqGupSIg9E|A4468|Mama Tried (album)|Merle Haggard|Bakersfield Sound;Country;Honky Tonk",
