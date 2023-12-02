@@ -1113,7 +1113,7 @@ const albums = [
 "David Bowie|Diamond Dogs|1974|OLAK5uy_mUpZawgYtERKbiZXiznvS5VsKf99NUXTw|A322|Diamond Dogs|David Bowie|Art Rock;Glam Rock;Pop Rock;Pop;Rock",
 "Faith No More|The Real Thing|1989|OLAK5uy_mzrlxmIPYIDTswxKMyfgAAqAr_H_jR8O8|A774|The Real Thing (Faith No More album)|Faith No More|Alternative Rock;Funk Metal;Alternative Metal;Metal;Rock",
 "Noname|Room 25|2018|OLAK5uy_kNVD_UKaKO3qs20PWVfxYQOiGm_f5N7Ss|A6043|Room 25|Noname (rapper)|Conscious Hip Hop;Jazz Rap;Hip Hop",
-"Bob Marley and The Wailers|Soul Revolution/African Herbsman|1971|OLAK5uy_nzDGAoLlIZbw42NCuTYihRROAskziQE14|A1137|Soul Revolution|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
+"Bob Marley and The Wailers|Soul Revolution Part II|1971|OLAK5uy_nzDGAoLlIZbw42NCuTYihRROAskziQE14|A1137|Soul Revolution Part II|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Van Morrison|Veedon Fleece|1974|OLAK5uy_mHy2mo1iN5KUuR09ZjQaaVnu8bVZh0SYM|A323|Veedon Fleece|Van Morrison|Folk Rock;Singer/Songwriter;Rock",
 "The Rapture|Echoes|2003|OLAK5uy_ngZnwC0S5FP04HmGua_VNkv4K2JdUTymc|A4002|Echoes (The Rapture album)|The Rapture (band)|Dance-Punk;Post-Punk;Rock",
 "The Saints|(I'm) Stranded|1977|OLAK5uy_lSot-xq9VosdePouTxYWIJyxpvqDTHx44|A1429|(I'm) Stranded|The Saints (Australian band)|Punk Rock;Rock",
