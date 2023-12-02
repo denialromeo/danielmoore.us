@@ -924,7 +924,7 @@ const albums = [
 "Caribou|Our Love|2014|OLAK5uy_k-Homl-MhTJmgWrYh4Vl9LaK1apMwKcK0|A5395|Our Love (Caribou album)|Dan Snaith|Deep House;Dance;Electronic;Electronic Dance Music;House",
 "Big Black|Songs About Fucking|1987|OLAK5uy_kPvTx0dWVXpZKovSYqynLwY2rc1bSClR0|A1519|Songs About Fucking|Big Black|Noise Rock;Post-Hardcore;Punk Rock;Rock",
 "Lynyrd Skynyrd|Second Helping|1974|OLAK5uy_nYue9hzLjY28GdXmrptur8OqNy5zDmjhw|A330|Second Helping|Lynyrd Skynyrd|Southern Rock;Rock",
-"Yardbirds|Yardbirds/Over Under Sideways Down/Roger the Engineer|1966|PLL-NbN8uTOiiUO33PVUqKhTyDgLNLNGP-|A75|Roger the Engineer|The Yardbirds|Blues Rock;Psychedelic Rock;Rock",
+"Yardbirds|Roger the Engineer|1966|OLAK5uy_n4AFKOBrg3TyM9MnnL6vgIInyrc6jJo9o|A75|Roger the Engineer|The Yardbirds|Blues Rock;Psychedelic Rock;Rock",
 "LL Cool J|Radio|1985|OLAK5uy_nr5VFVqSB_1-tQWQmWGnPnxuRwE-t4Fbo|A645|Radio (LL Cool J album)|LL Cool J|Hardcore Hip Hop;Hip Hop",
 "The Moody Blues|Days of Future Passed|1967|PLzEG2f9QAl8Oq2k0TQ96E3rNhIkdtQkek|A115|Days of Future Passed|The Moody Blues|Art Rock;Baroque Pop;Symphonic Prog;Pop;Progressive Rock;Rock",
 "Roxy Music|Siren|1975|OLAK5uy_m9Ayg0FNLlj3--lQ0W3RGwTFu6UbhY37E|A343|Siren (Roxy Music album)|Roxy Music|Art Rock;Glam Rock;Pop Rock;Pop;Rock",
