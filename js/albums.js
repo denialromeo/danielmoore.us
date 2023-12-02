@@ -2355,7 +2355,7 @@ const albums = [
 "David Gray|White Ladder|1998|OLAK5uy_mMAJ85kysU9qG0Rl4wOi9m09HlNRlHAEQ|A3702|White Ladder|David Gray (musician)|Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock",
 "Thelonious Monk|Monk's Dream|1963|OLAK5uy_kJ_V2Ehs1ZjcdbYrRvSgRBkAngcMJ4-so|A4445|Monk's Dream (Thelonious Monk album)|Thelonious Monk|Hard Bop;Bebop;Jazz",
 "Janelle Monáe|The Electric Lady|2013|OLAK5uy_kRYBelSvAs6U0TeIi468ZQ-URavhFYfmI|A5341|The Electric Lady|Janelle Monáe|Contemporary R&B;Funk;R&B",
-"AC/DC|T.N.T./High Voltage|1976|OLAK5uy_n0N_Ec9Ty5idFdyqsmmv3_Qcxom7EcTBA|A4580|T.N.T. (album)|AC/DC|Hard Rock;Rock",
+"AC/DC|High Voltage|1976|OLAK5uy_n0N_Ec9Ty5idFdyqsmmv3_Qcxom7EcTBA|A4580|High Voltage (1976 album)|AC/DC|Hard Rock;Rock",
 "Lady Gaga|Born This Way|2011|OLAK5uy_mtrfC8IOVznxDHsVO4Z2fmVW9Vda3ujts|A6548|Born This Way (album)|Lady Gaga|Dance-Pop;Electropop;Dance;Electronic;Pop",
 "XTC|Black Sea|1980|OLAK5uy_nmOGEjp2eesCsZiMzbogbzFcRJLI6Nyds|A1465|Black Sea (XTC album)|XTC|New Wave;Pop Rock;Post-Punk;Pop;Rock",
 "The Beach Boys|All Summer Long|1964|PLSzQ5tXtxOEZ03lu4Ovcr3_VpNoENauVj|A1114|All Summer Long (album)|The Beach Boys|Pop Rock;Sunshine Pop;Pop;Rock",
