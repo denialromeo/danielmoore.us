@@ -385,7 +385,7 @@ const albums = [
 "Creedence Clearwater Revival|Green River|1969|OLAK5uy_lusPeCKh_7uo5oeyr7t_niO6RYNYaHV4w|A164|Green River (album)|Creedence Clearwater Revival|Swamp Rock;Rock;Roots Rock",
 "Bob Marley and The Wailers|Live!|1975|OLAK5uy_lMJHtltz7CpD0gUF_xi6dRJEub113EU_U|A337|Live! (Bob Marley & the Wailers album)|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Talking Heads|More Songs About Buildings and Food|1978|OLAK5uy_n_gEQw6O2o2nGKHwtrBd_qrbZ9s1vs3dg|A427|More Songs About Buildings and Food|Talking Heads|Art Punk;New Wave;Post-Punk;Punk Rock;Rock",
-"Grateful Dead|Live/Dead|1969|PL6ogdCG3tAWgMfQ1YabXlNpwbN5xO62gN|A176|Live/Dead|Grateful Dead|Jam Band;Psychedelic Rock;Rock",
+"Grateful Dead|Live/Dead|1969|OLAK5uy_lTLgsVtg_PpTAsUc28RW2V5YyWlUnXB88|A176|Live/Dead|Grateful Dead|Jam Band;Psychedelic Rock;Rock",
 "Stan Getz and João Gilberto|Getz/Gilberto|1964|OLAK5uy_n28yFFbkSgdByyJtdloLL8vAqSbD9Xx9k|A1930|Getz/Gilberto|Stan Getz|Bossa Nova;Jazz;Brazilian Music;Regional Music",
 "Bob Dylan and The Band|The Basement Tapes|1975|OLAK5uy_nh6TnD14cL0JcVgugxacLeSzx5QkbCs3c|A335|The Basement Tapes|Bob Dylan|Folk Rock;Roots Rock;Rock",
 "Depeche Mode|Violator|1990|OLAK5uy_k5AvE_vULJaE-9CsdWE9KlqlppTO0cm7E|A791|Violator (album)|Depeche Mode|Synthpop;Electronic;Pop",
