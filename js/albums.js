@@ -797,7 +797,7 @@ const albums = [
 "The National|Trouble Will Find Me|2013|OLAK5uy_ldBLMvYiZIQznIcPOvgY9SN_ex45vNXhs|A5347|Trouble Will Find Me|The National (band)|Indie Rock;Alternative Rock;Rock",
 "Laurie Anderson|Big Science|1982|OLAK5uy_k4KKV0IuO3fpTKRWxnKrjOXd1bqhpb5wE|A557|Big Science (Laurie Anderson album)|Laurie Anderson|Art Pop;Experimental;Pop",
 "Duran Duran|Rio|1982|OLAK5uy_lWqVo7JemhTn_Whr5cXidsmYvGuv_VTnQ|A567|Rio (Duran Duran album)|Duran Duran|New Romantic;Pop Rock;Synthpop;Electronic;New Wave;Pop;Rock",
-"Michael Jackson|Bad|1987|PLFAcddgaFN8y3B7psXuszfWU-_nev_QCd|A1695|Bad (album)|Michael Jackson|Dance-Pop;Dance;Pop",
+"Michael Jackson|Bad|1987|OLAK5uy_mCCaKGsT_u7Mi28CwaSrctzoew6G8TR1k|A1695|Bad (album)|Michael Jackson|Dance-Pop;Dance;Pop",
 "X|Wild Gift|1981|OLAK5uy_kWaV8HaqPvWb9JRT3yZ_0_LRmxxYJdTaY|A516|Wild Gift|X (American band)|Punk Rock;Rock",
 "MC5|Back in the USA|1970|OLAK5uy_kMCDFnCYNLwHFpOMjxhNheWJrHJioq1bA|A202|Back in the USA (album)|MC5|Garage Rock;Hard Rock;Proto-Punk;Rock & Roll;Rock",
 "Van Morrison|It's Too Late To Stop Now|1974|OLAK5uy_kCehVjMj5WqyQ9aADJRMZP8zb6uzHNHDY|A306|It's Too Late to Stop Now|Van Morrison|Rock;Singer/Songwriter",
