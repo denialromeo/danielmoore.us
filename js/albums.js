@@ -156,7 +156,7 @@ const albums = [
 "The Rolling Stones|Aftermath|1966|OLAK5uy_nFET96D08weKHRXPAgTBXl9fmK-3z7UMQ|A64|Aftermath (Rolling Stones album)|The Rolling Stones|Blues Rock;Rock",
 "Bob Marley and The Wailers|Catch a Fire|1973|OLAK5uy_k23fmJvoluRjrquB-RnCc1qmfh93CugCw|A248|Catch a Fire|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Crosby, Stills, Nash & Young|Déjà Vu|1970|OLAK5uy_mb76K5hNa-OnqunrS29m3D2jqIk92I-fM|A189|Déjà Vu (Crosby, Stills, Nash & Young album)|Crosby, Stills, Nash & Young|Folk Rock;Rock",
-"Neil Young & Crazy Horse|Rust Never Sleeps|1979|PLSzQ5tXtxOEYqkSwew-J2hbwIwuhh1dY9|A453|Rust Never Sleeps|Neil Young|Country Rock;Folk Rock;Singer/Songwriter;Rock",
+"Neil Young & Crazy Horse|Rust Never Sleeps|1979|OLAK5uy_n2nQse8dvIUGJbkRYeSVcJlbCQX9EL6jc|A453|Rust Never Sleeps|Neil Young|Country Rock;Folk Rock;Singer/Songwriter;Rock",
 "Björk|Debut|1993|OLAK5uy_lb2-vYgwNcRwJvGIWX-3rxoHXamUY0VvU|A871|Debut (Björk album)|Björk|Alternative Dance;Art Pop;Alternative Rock;Dance;Pop;Rock",
 "Black Sabbath|Paranoid|1970|OLAK5uy_lnfEyjhuX9BNJc5UpgOQEu0gebOtPkJG4|A196|Paranoid (album)|Black Sabbath|Hard Rock;Heavy Metal;Metal;Rock",
 "The Original Soundtrack|Saturday Night Fever|1977|OLAK5uy_k2P31OPRADjYdtzYiDjFmk5Q5wxGIYm_U|A1189|Saturday Night Fever (soundtrack)|Bee Gees|Disco;Film Soundtrack;Dance;Descriptor;Soundtracks",
