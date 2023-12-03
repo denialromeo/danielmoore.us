@@ -1448,7 +1448,7 @@ const albums = [
 "Magazine|The Correct Use of Soap|1980|OLAK5uy_kWHDdM2WCbQHdDKFr3Aon-26CucNs6bkk|A501|The Correct Use of Soap|Magazine (band)|New Wave;Post-Punk;Rock",
 "Tool|Lateralus|2001|OLAK5uy_lGJLMX42JRmpbF-DFZrUBLL7ymhQ9AiCY|A1218|Lateralus|Tool (band)|Alternative Metal;Progressive Rock;Metal;Rock",
 "Bad Brains|Bad Brains|1982|OLAK5uy_lDkQFkXnrUg2zSJRBX0ueQQe00u6Vc5qw|A2910|Bad Brains (album)|Bad Brains|Hardcore Punk;Punk Rock;Rock",
-"Graham Parker & The Rumour|Howlin' Wind|1976|PL0VQVFM4ctAnNuc0SgK3TKyvhcC54ENDl|A371|Howlin' Wind|Graham Parker|Pub Rock;Rock",
+"Graham Parker & The Rumour|Howlin' Wind|1976|OLAK5uy_kgFMzMRb3oA4bu9OuDRrhq2aa-AusMQSA|A371|Howlin' Wind|Graham Parker|Pub Rock;Rock",
 "Elvis Costello and The Attractions|Trust|1981|OLAK5uy_l7e235p62Cxl6MKMDHaK2D6Xh1cjj5hhE|A519|Trust (Elvis Costello album)|Elvis Costello|Pop Rock;Pop;Rock",
 "Joni Mitchell|For the Roses|1972|OLAK5uy_k0J50MQ1hA57IC7NT31Vc404gBneLdlf4|A1143|For the Roses|Joni Mitchell|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop",
 "Steve Miller Band|Fly Like an Eagle|1976|OLAK5uy_lRxgtVPfsBuzpgFdYdFi0Ej0J2mNwzz2A|A384|Fly Like an Eagle (album)|Steve Miller Band|Pop Rock;Pop;Rock",
