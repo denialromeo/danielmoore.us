@@ -991,7 +991,7 @@ const albums = [
 "Talk Talk|The Colour of Spring|1986|OLAK5uy_koE4rtsIJ002pzrNOUIjuhnft_Aun9pkY|A1514|The Colour of Spring|Talk Talk|Art Pop;Chamber Pop;Baroque Pop;Indie Pop;Pop",
 "Def Leppard|Pyromania|1983|OLAK5uy_l3oLLC5ms690aykS8xuz62HQqjEA8OrUA|A585|Pyromania (album)|Def Leppard|Glam Metal;Hard Rock;Rock",
 "Elvis Presley|Elvis Is Back!|1960|PLvDaQTRzMiRqlrvX4a2_ynOuIPW84dfZJ|A20|Elvis Is Back!|Elvis Presley|Pop;Rock & Roll;Rock",
-"Pet Shop Boys|Very|1993|PLqjTeH0-5trhDzRtsycOqB4HTUuQpaC4b|A878|Very (Pet Shop Boys album)|Pet Shop Boys|Synthpop;Electronic;Pop",
+"Pet Shop Boys|Very|1993|OLAK5uy_kJNHXIqR-_M70MaoMjMoN_xfm7WpeOLrw|A878|Very (Pet Shop Boys album)|Pet Shop Boys|Synthpop;Electronic;Pop",
 "Shabazz Palaces|Black Up|2011|OLAK5uy_m4osqPwgG9lghYoipG9XQZbxz6Uop8WIg|A5171|Black Up|Shabazz Palaces|Abstract Hip Hop;Experimental Hip Hop;Hip Hop",
 "Blur|Think Tank|2003|OLAK5uy_nSZx3hE_GeKlHEHuiieD5WnVkJ317fia8|A3927|Think Tank (Blur album)|Blur (band)|Alternative Rock;Rock",
 "Donna Summer|Bad Girls|1979|PLI6kLIhBBwmQ279u6h_lhZM_Spu3eeNKu|A471|Bad Girls (Donna Summer album)|Donna Summer|Disco;Dance",
