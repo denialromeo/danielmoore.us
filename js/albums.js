@@ -1752,7 +1752,7 @@ const albums = [
 "The Original Broadway Cast|My Fair Lady|1956|OLAK5uy_lVBcPBqBv3p43kF1p5gnOXQTX3iVVQ8jA|A2199|My Fair Lady (Broadway cast recording)|Frederick Loewe|Show Tunes;Descriptor;Musical Theatre and Entertainment;Soundtracks",
 "Gang of Four|Solid Gold|1981|OLAK5uy_lW0lTCkpVofBOwtQtKvDloO64R5qJUgvg|A2862|Solid Gold (album)|Gang of Four (band)|Post-Punk;Rock",
 "Sampha|Process|2017|OLAK5uy_kylXy70u_-FRaNmF6oTxpzDERUvH6GMMw|A5978|Process (Sampha album)|Sampha|Alternative R&B;Contemporary R&B;R&B",
-"Sister Sledge|We Are Family|1979|PLb72gFQdbjPnVmEgNCA-WSFTdl2S5-5Ki|A1170|We Are Family (album)|Sister Sledge|Disco;Pop Soul;Dance;Pop;R&B;Soul",
+"Sister Sledge|We Are Family|1979|OLAK5uy_lSSs5HAUFfeTT4rJASoevjq7y7p0-0OXM|A1170|We Are Family (album)|Sister Sledge|Disco;Pop Soul;Dance;Pop;R&B;Soul",
 "Santana|Caravanserai|1972|OLAK5uy_m2tVTuVBA6Xa870BKCmezMEwQIiXojzTk|A1376|Caravanserai (album)|Carlos Santana|Jazz-Rock;Latin Rock;Hispanic Music;Latin American Music;Regional Music;Rock",
 "The Weavers|The Weavers at Carnegie Hall|1957|OLAK5uy_k8FPwbWPiuxTYbleKCNpatRrba8cSzqDo|A1258|The Weavers at Carnegie Hall|The Weavers|Contemporary Folk;Folk",
 "Warren Zevon|Excitable Boy|1978|OLAK5uy_ll2bX4IjT808loalfBHlO1EUXAhvGpah4|A1444|Excitable Boy|Warren Zevon|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock",
