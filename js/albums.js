@@ -2811,7 +2811,7 @@ const albums = [
 "Digital Underground|Sex Packets|1990|OLAK5uy_nS0tvGK7ejxi5yvpJ1WZWfJ9BNPfSdgF0|A3329|Sex Packets|Digital Underground|Pop Rap;Hip Hop",
 "Mbongwana Star|From Kinshasa|2015|OLAK5uy_lyRsdDSb5rAXY2I6Pt2Que8RU6Cl3Pyj0|A5586|From Kinshasa|Mbongwana Star|Tradi-Modern;African Music;Regional Music",
 "(Sandy) Alex G|House of Sugar|2019|OLAK5uy_l9QY_Rc1vjCSgXVg6vUCCwgFlFjS_zdO8|A6196|House of Sugar|Alex G|Indie Folk;Neo-Psychedelia;Contemporary Folk;Folk;Psychedelic Rock;Rock",
-"Jefferson Airplane|Crown of Creation|1968|PL011C5D5194C8D090|A1305|Crown of Creation|Jefferson Airplane|Acid Rock;Psychedelic Rock;Rock",
+"Jefferson Airplane|Crown of Creation|1968|OLAK5uy_nYxt46J5zZ5smu87gAx8-3cwS5sTRJyJM|A1305|Crown of Creation|Jefferson Airplane|Acid Rock;Psychedelic Rock;Rock",
 "John Coltrane|Crescent|1964|OLAK5uy_ntIG3BqJHbCBYCWXkrSL4eh66W3Soshl8|A2323|Crescent (John Coltrane album)|John Coltrane|Avant-Garde Jazz;Post-Bop;Bebop;Jazz",
 "Parquet Courts|Sunbathing Animal|2014|OLAK5uy_k3Yobm0wR6DZwL4ogkFcxxe5TZJk4JKxQ|A5427|Sunbathing Animal|Parquet Courts|Indie Rock;Alternative Rock;Rock",
 "Art Pepper|Smack-Up|1960|PLTPgQ0VoqzDEcmUh-7x8WYY5BlZX2PTBI|A2465|Smack Up|Art Pepper|Cool Jazz;Jazz",
