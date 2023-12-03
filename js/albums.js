@@ -834,7 +834,7 @@ const albums = [
 "The War on Drugs|A Deeper Understanding|2017|OLAK5uy_m-29mctkpCkc6nEFeH4JvYWDw7AiuNq5w|A6002|A Deeper Understanding|The War on Drugs (band)|Heartland Rock;Indie Rock;Alternative Rock;Rock",
 "Spoon|Ga Ga Ga Ga Ga|2007|OLAK5uy_kTrXyx846Nk-N4XKA6cAfJ_HjNcJJK7_o|A4248|Ga Ga Ga Ga Ga|Spoon (band)|Indie Rock;Alternative Rock;Rock",
 "Cardi B|Invasion of Privacy|2018|OLAK5uy_n64_SDF0otQBvjlDb_A5cSkkwT4R5ln00|A6033|Invasion of Privacy (album)|Cardi B|Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
-"Anita Baker|Rapture|1986|PL8Lpw39GxwbPXfJEHuLX38jD4N2eveEVb|A670|Rapture (Anita Baker album)|Anita Baker|Smooth Soul;R&B;Soul",
+"Anita Baker|Rapture|1986|OLAK5uy_liYib7oqpC1stwYK_2Mxue7wL_M5bzwz0|A670|Rapture (Anita Baker album)|Anita Baker|Smooth Soul;R&B;Soul",
 "Sun Kil Moon|Benji|2014|OLAK5uy_nyvbyuFoBOSD-Jhdanlx9D8Bv0E4jis1o|A5393|Benji (album)|Sun Kil Moon|Contemporary Folk;Singer/Songwriter;Folk",
 "Tim Buckley|Starsailor|1970|OLAK5uy_n12_PTEpAIH-AESUtmkqfBev2yO_C5Nts|A203|Starsailor (album)|Tim Buckley|Avant-Folk;Experimental Rock;Folk Rock;Singer/Songwriter;Contemporary Folk;Folk;Rock",
 "Sonic Youth|EVOL|1986|OLAK5uy_kQ0zczkB7Q3fXCUBnR5VEJZUX07RiIPf0|A1511|Evol (Sonic Youth album)|Sonic Youth|Experimental Rock;Noise Rock;Rock",
