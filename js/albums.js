@@ -1578,7 +1578,7 @@ const albums = [
 "Calexico|Feast of Wire|2003|OLAK5uy_nv_XGMzCZxvWoEmi4nhcemxiaRlgT6zGA|A3911|Feast of Wire|Calexico (band)|Alt-Country;Americana;Country",
 "Jessie Ware|Devotion|2012|OLAK5uy_litolDSgpkmVqYD-0KsWvQea-MuV6dvoI|A5248|Devotion (Jessie Ware album)|Jessie Ware|Alternative R&B;Contemporary R&B;R&B",
 "The Black Keys|El Camino|2011|OLAK5uy_nmEXRQ4KQiAqn9UByVX4gdnFNMWFeYvBw|A5129|El Camino (The Black Keys album)|The Black Keys|Blues Rock;Garage Rock;Rock",
-"The Good, the Bad & the Queen|The Good, the Bad and the Queen|2007|PLyxrGQX-rD8GHwyeew3j60Wf33BON53C4|A4252|The Good, the Bad & the Queen (album)|The Good, the Bad & the Queen|Indie Rock;Alternative Rock;Rock",
+"The Good, the Bad & the Queen|The Good, the Bad and the Queen|2007|OLAK5uy_mrTjFdlztf2F1893p0tBO3CtUn2-OzYbY|A4252|The Good, the Bad & the Queen (album)|The Good, the Bad & the Queen|Indie Rock;Alternative Rock;Rock",
 "Gene Vincent and His Blue Caps|Gene Vincent and the Blue Caps|1957|OLAK5uy_kFmsx0iMAev00WPYF09hxQguFEadIXTgw|A27|Gene Vincent and the Blue Caps|Gene Vincent|Rockabilly;Rock;Rock & Roll",
 "Parliament|Funkentelechy vs. the Placebo Syndrome|1977|OLAK5uy_kSgDSfvP7iK2EOYy0wkHg4F0FCTzFG8kM|A1156|Funkentelechy vs. the Placebo Syndrome|Parliament (band)|P-Funk;Funk;R&B",
 "Jethro Tull|Thick as a Brick|1972|OLAK5uy_kk5Y4OYWFNpEAo-Ib4SSy4qDyFj_Oj4oA|A1176|Thick as a Brick|Jethro Tull (band)|Progressive Rock;Rock",
