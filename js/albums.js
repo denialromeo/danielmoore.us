@@ -670,7 +670,7 @@ const albums = [
 "Van Halen|1984|1984|OLAK5uy_k-Wp747MeVPu1IxzedbjSKI4X1Jiteh7w|A629|1984 (Van Halen album)|Van Halen|Hard Rock;Rock",
 "Augustus Pablo|King Tubbys Meets Rockers Uptown|1977|OLAK5uy_lhfaHpb7aE6t8OUlg4V3rH1l1hFhsmjXc|A369|King Tubbys Meets Rockers Uptown|Augustus Pablo|Dub;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Run-D.M.C.|Run-D.M.C.|1984|OLAK5uy_m-8X0qLBRPvrJo7CZOeetqX75i0pEL55w|A609|Run-D.M.C. (album)|Run-DMC|Hardcore Hip Hop;Hip Hop",
-"Traffic|John Barleycorn Must Die|1970|PLYFfVpn-D5S3Y9e9hQ4G-cd4T9vZeauFw|A209|John Barleycorn Must Die|Traffic (band)|Progressive Rock;Rock",
+"Traffic|John Barleycorn Must Die|1970|OLAK5uy_lLofLqWj6JSAw1e2Kr4A-hOymcQ4Aa-WA|A209|John Barleycorn Must Die|Traffic (band)|Progressive Rock;Rock",
 "System of a Down|Toxicity|2001|OLAK5uy_kb1yvg1bLW2yKdKxO1qvzGK7pFl9TuFBw|A1209|Toxicity (album)|System of a Down|Alternative Metal;Metal;Rock",
 "Wire|Chairs Missing|1978|OLAK5uy_l6-oSqIYffX-akxYzo7kkdCRUdz4MnVxg|A445|Chairs Missing|Wire (band)|Art Punk;Post-Punk;Punk Rock;Rock",
 "Blur|Blur|1997|OLAK5uy_kP83VWoH6aoLZt28nUo3oQDutNsgDyVYY|A997|Blur (Blur album)|Blur (band)|Indie Rock;Alternative Rock;Rock",
