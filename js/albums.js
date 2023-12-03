@@ -774,7 +774,7 @@ const albums = [
 "The KLF|The White Room|1991|OLAK5uy_k8D11y7PZuX0vdOjJu7WX-kzxXTC9iiDY|A822|The White Room (KLF album)|The KLF|Acid House;Dance;Electronic;Electronic Dance Music;House",
 "The 13th Floor Elevators|The Psychedelic Sounds of the 13th Floor Elevators|1966|OLAK5uy_m2w5JoTSb7gNu8w4S7i3KQ3hiDfb-GRKQ|A83|The Psychedelic Sounds of the 13th Floor Elevators|The 13th Floor Elevators|Acid Rock;Psychedelic Rock;Rock",
 "Depeche Mode|Music for the Masses|1987|OLAK5uy_lqknpfDtbA2BOi8-L09rehY3XjHKsyrYs|A1520|Music for the Masses|Depeche Mode|Synthpop;Electronic;Pop",
-"Tina Turner|Private Dancer|1984|PLDm575NYoAWdcUQB-wltBsynIN11eV9UR|A608|Private Dancer|Tina Turner|Pop Rock;Soul;Pop;R&B;Rock",
+"Tina Turner|Private Dancer|1984|OLAK5uy_mc1tms3nGjirYihxd8dWbh0f7pqEPKtJA|A608|Private Dancer|Tina Turner|Pop Rock;Soul;Pop;R&B;Rock",
 "Car Seat Headrest|Teens of Denial|2016|OLAK5uy_mTviT3NTCOLxQ2Qu4L-QdPvcksyXcSXWI|A5705|Teens of Denial|Car Seat Headrest|Indie Rock;Alternative Rock;Rock",
 "SOPHIE|Oil of Every Pearl's Un-Insides|2018|OLAK5uy_kEz3qYiBeY4soruK0ZcLk3JApSG1QLz9k|A6028|Oil of Every Pearl's Un-Insides|Sophie (musician)|Bubblegum Bass;Deconstructed Club;Dance;Electronic;Electronic Dance Music;Experimental;Industrial;Industrial Music",
 "Sly and the Family Stone|Fresh|1973|PL1RRNXldMeREyIQk1AIAvBf-Fmjj8GkUb|A292|Fresh (Sly and the Family Stone album)|Sly and the Family Stone|Funk;Psychedelic Soul;R&B;Soul",
