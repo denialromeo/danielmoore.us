@@ -2425,7 +2425,7 @@ const albums = [
 "Big Country|The Crossing|1983|OLAK5uy_nF3I5yYVL06fMYmGTdPpfj-pCskxnd-qg|A582|The Crossing (Big Country album)|Big Country|Celtic Rock;Pop Rock;Folk Rock;Pop;Rock",
 "Deftones|Around the Fur|1997|OLAK5uy_nRSkRJt8rcj69IxpxI4GP1ilibtxJmoBg|A3675|Around the Fur|Deftones|Nu Metal;Alternative Metal;Metal;Rock",
 "John Talabot|fIN|2012|OLAK5uy_n_ulQXLfHvNPYAQGQY_RI8lj3jtOz2NmA|A5241|Fin (John Talabot album)|John Talabot|Balearic Beat;Dance;Electronic;Electronic Dance Music;House",
-"Arvo Pärt|Tabula Rasa|1984|PLZgDvxgjzgXbU5hUWtvQEDiIkYUB4HCt8|A3209|Tabula Rasa (Pärt)|Arvo Pärt|Minimalism;Classical Music;Modern Classical",
+"Arvo Pärt|Tabula Rasa|1984|OLAK5uy_mWg8Be2KGtm7iqP8W4pmjVYv3RB05h3yQ|A3209|Tabula Rasa (Pärt)|Arvo Pärt|Minimalism;Classical Music;Modern Classical",
 "Can|Soon Over Babaluma|1974|OLAK5uy_lY-orS4TMEyN8RDPZC-wiHAaDKHf8_6L4|A1398|Soon Over Babaluma|Can (band)|Krautrock;Experimental Rock;Progressive Rock;Rock",
 "Genesis|A Trick of the Tail|1976|OLAK5uy_neSb2AOuPbfizISwI1Gdqmf22S3DXSTEE|A2710|A Trick of the Tail|Genesis (band)|Progressive Rock;Rock",
 "Garbage|Version 2.0|1998|OLAK5uy_niRa7PPkLBcfu7yjgkIvwNhN4VQyTRVQY|A1045|Version 2.0|Garbage (band)|Alternative Rock;Pop Rock;Pop;Rock",
