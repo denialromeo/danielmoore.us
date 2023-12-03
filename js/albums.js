@@ -404,7 +404,7 @@ const albums = [
 "Steely Dan|Pretzel Logic|1974|OLAK5uy_l27wSAG4cjBNyy_rysLPBRcpXdUWy07uo|A304|Pretzel Logic|Steely Dan|Pop Rock;Pop;Rock",
 "Madvillain|Madvillainy|2004|OLAK5uy_kEP-HLC0Et4S_FWW-HGDhwGHt3lFhJQCA|A4042|Madvillainy|Madvillain|Abstract Hip Hop;Hip Hop",
 "Aerosmith|Toys in the Attic|1975|OLAK5uy_lsCF7NU8XBHfYDSIpVR1Qg4k3W4XvoSpM|A345|Toys in the Attic (album)|Aerosmith|Hard Rock;Rock",
-"IDLES|Joy as an Act of Resistance|2018|PLZqsyBiYZFQ3pLWfbMmkFTO-XV8A5mpfp|A6023|Joy as an Act of Resistance|Idles|Post-Hardcore;Post-Punk;Punk Rock;Rock",
+"IDLES|Joy as an Act of Resistance|2018|OLAK5uy_nuCb02XH29bSUXAESb7lC_MyKUPuEpnWY|A6023|Joy as an Act of Resistance|Idles|Post-Hardcore;Post-Punk;Punk Rock;Rock",
 "Jamie xx|In Colour|2015|OLAK5uy_kpSsO-tz6WVsp9QQJBd-oHiZSUL-I1Fn8|A5543|In Colour (Jamie xx album)|Jamie xx|UK Bass;Dance;Electronic;Electronic Dance Music;UK Garage",
 "The Crickets|The \"Chirping\" Crickets|1957|OLAK5uy_mnTq8G0xfY8E2q5bswbltcD9T8wF2ofck|A17|The \"Chirping\" Crickets|The Crickets|Rockabilly;Rock;Rock & Roll",
 "Tame Impala|Lonerism|2012|OLAK5uy_klpNi0OC9ETbDP7mEICIT60hLHc_KOZiY|A5242|Lonerism|Tame Impala|Neo-Psychedelia;Psychedelic Rock;Rock",
