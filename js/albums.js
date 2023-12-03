@@ -257,7 +257,7 @@ const albums = [
 "Beach House|Teen Dream|2010|PLZqsyBiYZFQ0qyBzSbzx7UkTRCOtcLwhH|A5056|Teen Dream|Beach House|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock",
 "Lucinda Williams|Car Wheels on a Gravel Road|1998|OLAK5uy_l8R6-yzBmIXdrM_uchAhqyROVvz1UXJrw|A1035|Car Wheels on a Gravel Road|Lucinda Williams|Alt-Country;Americana;Country",
 "The Who|My Generation|1965|OLAK5uy_mOvSsBM6uVFI-ag-U7pzrIvTAvuxHxWPk|A35|My Generation (album)|The Who|Beat Music;Mod;Pop;Pop Rock;Rock",
-"Funkadelic|One Nation Under a Groove|1978|PL-UWPlRIl68oHrB8GTiOmBmXsiqsC1GwU|A431|One Nation Under a Groove|Funkadelic|Funk Rock;P-Funk;Funk;R&B;Rock",
+"Funkadelic|One Nation Under a Groove|1978|PLFXrU3EI1RaxfHxLBaSP8BeoNZzCdXXL9|A431|One Nation Under a Groove|Funkadelic|Funk Rock;P-Funk;Funk;R&B;Rock",
 "Soundgarden|Superunknown|1994|OLAK5uy_kJxFpCNIHxeAUoovlRmuOOTZGZAuE79yY|A911|Superunknown|Soundgarden|Grunge;Alternative Rock;Rock",
 "Can|Tago Mago|1971|PLmaEkFVVTm8OL_CvqQIoGrxew1U9kA5aO|A228|Tago Mago|Can (band)|Krautrock;Psychedelic Rock;Experimental Rock;Progressive Rock;Rock",
 "The Cure|Disintegration|1989|OLAK5uy_mVJSLXrczjRedcJsaknnU_PWPPVai3PI8|A770|Disintegration (The Cure album)|The Cure|Gothic Rock;Post-Punk;Rock",
