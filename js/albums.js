@@ -2902,7 +2902,7 @@ const albums = [
 "Betty Davis|They Say I'm Different|1974|OLAK5uy_k-QMXEeg4XfFsJh4GO-qLVgm1fgfLlnKE|A3287|They Say I'm Different|Betty Davis|Funk;R&B",
 "Captain Beefheart|The Spotlight Kid|1972|OLAK5uy_nCEGrhaTStaNNyGaNXukm6JaUINxHJIaY|A1365|The Spotlight Kid|Captain Beefheart|Blues Rock;Experimental Rock;Rock",
 "Ariana Grande|thank u, next|2019|OLAK5uy_nDG2F1rgP_OVqXtQRjV260ZeuCiijByxs|A6210|Thank U, Next|Ariana Grande|Contemporary R&B;Pop;R&B",
-"Max Romeo & The Upsetters|War ina Babylon|1976|PLORSNiuopBANzldI0ysFJc4SJ_LFnloK_|A4589|War ina Babylon|The Upsetters|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
+"Max Romeo & The Upsetters|War ina Babylon|1976|OLAK5uy_lqtvLgqVGF7jW4kmNiVqKJHyCsHD-DZRk|A4589|War ina Babylon|The Upsetters|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Tom Verlaine|Dreamtime|1981|OLAK5uy_ndWwmAkzKOZ6nxT3wEXkOogj7VHPZMBv8|A529|Dreamtime (Tom Verlaine album)|Tom Verlaine|Art Punk;Post-Punk;Punk Rock;Rock",
 "John Coltrane|Coltrane Plays the Blues|1962|OLAK5uy_lmWz2DBsFS5SJgIAozt6R50XFVDKj_h2w|A1908|Coltrane Plays the Blues|John Coltrane|Hard Bop;Bebop;Jazz",
 "The Chieftains|The Chieftains 4|1973|OLAK5uy_lYQoRmC6K6U9T1Y3Kh6Juj-hoy5gVKbv0|A2660|The Chieftains 4|The Chieftains|Irish Folk Music;Celtic Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music",
