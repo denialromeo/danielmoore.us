@@ -1,6 +1,6 @@
 const albums = [ 
 "The Beach Boys|Pet Sounds|1966|OLAK5uy_mJN3N2XYKY6P2RpKP_-Zk20HwDSewNAYY|A62|Pet Sounds|The Beach Boys|Baroque Pop;Pop",
-"Nirvana|Nevermind|1991|PLS8GuVBFcTrhGxbPrfZ1VF3WBXGeOfvnF|A811|Nevermind|Kurt Cobain|Grunge;Alternative Rock;Rock",
+"Nirvana|Nevermind|1991|OLAK5uy_nN3UV5AlNbRP9di-cmgC-ACgL8JLK6jGk|A811|Nevermind|Kurt Cobain|Grunge;Alternative Rock;Rock",
 "The Beatles|Revolver|1966|OLAK5uy_lNtG5JNk-z_s4xVH06JXsHXwXm0StlHss|A63|Revolver (Beatles album)|The Beatles|Pop Rock;Pop;Rock",
 "The Velvet Underground & Nico|The Velvet Underground & Nico|1967|OLAK5uy_ngt5QCFCxWPcpApM_frvpcbOKJPtAKbpo|A91|The Velvet Underground & Nico|The Velvet Underground|Art Rock;Experimental Rock;Rock",
 "Marvin Gaye|What's Going On|1971|PLKLjDq58gFD_cY1K3dqNhzRe8mibgziQZ|A211|What's Going On (Marvin Gaye album)|Marvin Gaye|Soul;R&B",
