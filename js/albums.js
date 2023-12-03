@@ -584,7 +584,7 @@ const albums = [
 "Yes|Close to the Edge|1972|OLAK5uy_ktk8PtkXO8GdshsmXb6w0fhaCMMTsyFio|A1177|Close to the Edge|Yes (band)|Symphonic Prog;Progressive Rock;Rock",
 "Lloyd Cole and The Commotions|Rattlesnakes|1984|OLAK5uy_mVzy-N2rEKo2xH5K8_EzLdV3DaVgTJ314|A605|Rattlesnakes (album)|Lloyd Cole and the Commotions|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Alice in Chains|Dirt|1992|OLAK5uy_lJLgS_rNiB-OeoZDfdvfjW5AO5aoauBqE|A863|Dirt (Alice in Chains album)|Alice in Chains|Alternative Metal;Grunge;Alternative Rock;Metal;Rock",
-"Neu!|Neu!|1972|PLc60gkdW0bcGc_r484N0dp2I1J6i_UfSs|A1352|Neu! (album)|Neu!|Krautrock;Experimental Rock;Progressive Rock;Rock",
+"Neu!|Neu!|1972|OLAK5uy_neR5j1wNLBAJ2D85BkM_TGGBhrsfb0Z84|A1352|Neu! (album)|Neu!|Krautrock;Experimental Rock;Progressive Rock;Rock",
 "Randy Newman|Good Old Boys|1974|OLAK5uy_mLwdSUc33NNDyJXiGusBYhoEw8K28GIHc|A309|Good Old Boys (Randy Newman album)|Randy Newman|Singer/Songwriter",
 "Underworld|Dubnobasswithmyheadman|1994|OLAK5uy_kog7h-Mfv5sc02JhwsXqQOHlFtyTTeu-s|A894|Dubnobasswithmyheadman|Underworld (band)|Techno;Dance;Electronic;Electronic Dance Music",
 "Carly Rae Jepsen|E*MO*TION|2015|OLAK5uy_k0fBNtcgrBca0_WFALAdBezKu6EGv0QnI|A5563|Emotion (Carly Rae Jepsen album)|Carly Rae Jepsen|Dance-Pop;Synthpop;Dance;Electronic;Pop",
