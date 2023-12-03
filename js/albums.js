@@ -2077,7 +2077,7 @@ const albums = [
 "J.J. Cale|Naturally|1972|OLAK5uy_nEFLkeHYPzGgnpJbhmPJQT9wM_uxwXKFU|A1345|Naturally (J. J. Cale album)|J. J. Cale|Americana;Blues Rock;Country Rock;Country;Rock",
 "Wendy Carlos|Switched-On Bach|1968|PLLICd7vQi7iGUyErozBAwgcr4F49kxiXY|A2587|Switched-On Bach|Wendy Carlos|Baroque Music;Electronic;Classical Music;Western Classical Music",
 "Charlie Parker|Charlie Parker with Strings|1950|OLAK5uy_lwmGDtyIieUYhZDiL2ZFqm8opTdKGZ0w4|A1759|Charlie Parker with Strings|Charlie Parker|Cool Jazz;Jazz",
-"Jungle Brothers|Straight out the Jungle|1988|PLn7qZ70jqTZG-1xO9Ko-S5-0Xaa97pA-H|A1542|Straight out the Jungle|Jungle Brothers|Conscious Hip Hop;Hip Hop",
+"Jungle Brothers|Straight out the Jungle|1988|OLAK5uy_mxvQnvZ1OxfbrJI1INFSKIUtMQTx5PzfA|A1542|Straight out the Jungle|Jungle Brothers|Conscious Hip Hop;Hip Hop",
 "This Heat|Deceit|1981|OLAK5uy_kZO_N8NZHVD9gzKcCWMAqsVBlUf2H6pcU|A2868|Deceit (album)|This Heat|Experimental Rock;Post-Punk;Rock",
 "Sonny Rollins|Tenor Madness|1956|OLAK5uy_n5z68wzFZqPeFlGzlWhYpOiN2Kx5zp9gQ|A1801|Tenor Madness|Sonny Rollins|Hard Bop;Bebop;Jazz",
 "Ton Steine Scherben|Keine Macht für Niemand|1972|OLAK5uy_ldJCX_XtPb8SgdYESSBtX4kEWU72Jee30|A5540|Keine Macht für Niemand|Ton Steine Scherben|Deutschrock;Rock",
