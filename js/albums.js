@@ -269,7 +269,7 @@ const albums = [
 "The Velvet Underground|Loaded|1970|PLsQfpW7FBkHwJFQwZJyrQUGIS2nA38PDP|A187|Loaded (The Velvet Underground album)|The Velvet Underground|Pop Rock;Pop;Rock",
 "David Bowie|Heroes|1977|PLL1ZJvW8jPWfiCwN57VW3hTVtbBshVHEO|A399|Heroes (David Bowie album)|David Bowie|Art Rock;Experimental Rock;Rock",
 "The Human League|Dare!|1981|OLAK5uy_kleqYoWvyce3vqYTULVYUavBk-ncUkOxc|A511|Dare (album)|The Human League|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock",
-"Nirvana|MTV Unplugged in New York|1994|PLyUVnCw_kLV0J2OjvADXZL-NrSghlEgDg|A906|MTV Unplugged in New York|Kurt Cobain|Acoustic Rock;Alternative Rock;Rock",
+"Nirvana|MTV Unplugged in New York|1994|OLAK5uy_khF-bYQKOZrX9U1WH0-7z1xzssUd4q4_I|A906|MTV Unplugged in New York|Kurt Cobain|Acoustic Rock;Alternative Rock;Rock",
 "Fugees|The Score|1996|OLAK5uy_mlxVuvVAxgLEuSMl3xDJSBSSGXVoXSlEs|A961|The Score (Fugees album)|Fugees|Conscious Hip Hop;Hip Hop",
 "The Doors|L.A. Woman|1971|OLAK5uy_n8MV6Hz1FBfNf3vxCPXUMMHz_ER7L9pms|A222|L.A. Woman|The Doors|Blues Rock;Psychedelic Rock;Rock",
 "PJ Harvey|Stories from the City, Stories from the Sea|2000|OLAK5uy_nDaR2GyDKYoqwYQrPqeo4sOPuwa70aXws|A1084|Stories from the City, Stories from the Sea|PJ Harvey|Alternative Rock;Singer/Songwriter;Rock",
