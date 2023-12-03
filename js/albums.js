@@ -232,7 +232,7 @@ const albums = [
 "Sigur Rós|Agætis byrjun|1999|OLAK5uy_m1ecKXUh3U0xu2GwtSBIwznmWjVWD61EE|A1075|Ágætis byrjun|Sigur Rós|Post-Rock;Rock",
 "The Chemical Brothers|Dig Your Own Hole|1997|OLAK5uy_nVYT_g9eyMXouJQIVNS-aojNp1QLlYfPA|A1000|Dig Your Own Hole|The Chemical Brothers|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music",
 "The Jimi Hendrix Experience|Axis: Bold As Love|1967|OLAK5uy_lWur3SpNnxqZ_ad3ovCDjRSTCmjYYR6i8|A100|Axis: Bold as Love|Jimi Hendrix|Blues Rock;Psychedelic Rock;Rock",
-"Peter Gabriel|So|1986|PL8Lpw39GxwbOrtJYaFDbAMswkMRpHxM1T|A663|So (album)|Peter Gabriel|Art Pop;Pop Rock;Pop;Rock",
+"Peter Gabriel|So|1986|OLAK5uy_nt6a4IwREDPJq66JtWww0BK7J-ra3n5_c|A663|So (album)|Peter Gabriel|Art Pop;Pop Rock;Pop;Rock",
 "Big Brother and The Holding Company|Cheap Thrills|1968|OLAK5uy_mXmKFn3n4S0MxX87s7e7KP2o2clkC90JE|A131|Cheap Thrills (Big Brother and the Holding Company album)|Big Brother and the Holding Company|Blues Rock;Psychedelic Rock;Rock",
 "Hole|Live Through This|1994|OLAK5uy_mLXNoPit2UrZVanqIbs9LTMBobyVjL9kc|A901|Live Through This|Hole (band)|Grunge;Alternative Rock;Rock",
 "Bon Iver|For Emma, Forever Ago|2007|OLAK5uy_mAWxeOHR1Vk1QbLM81k2wTBalzXEVrtLQ|A4334|For Emma, Forever Ago|Bon Iver|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk",
