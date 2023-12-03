@@ -1073,7 +1073,7 @@ const albums = [
 "Built to Spill|Keep It Like a Secret|1999|OLAK5uy_mms-9-XgkPJLo9K_dcsqDGhkAP1D3L0Mw|A1054|Keep It Like a Secret|Built to Spill|Indie Rock;Alternative Rock;Rock",
 "Warren Zevon|Warren Zevon|1976|OLAK5uy_lm6jMxTjuW-c256Ty7iLFQkP5LtDGwrTE|A378|Warren Zevon (album)|Warren Zevon|Singer/Songwriter",
 "Heartbreakers|L.A.M.F.|1977|OLAK5uy_mRJQp9Ryso7BF0hspcAQhfsVTbTiwSwqo|A1435|L.A.M.F.|The Heartbreakers|Punk Rock;Rock",
-"The Blue Nile|Hats|1989|PLgtOYAIvc8d3ll0OzJHU-TzL2WigTsJsq|A761|Hats (album)|The Blue Nile|Sophisti-Pop;Pop",
+"The Blue Nile|Hats|1989|OLAK5uy_mlzXNqjAUXkxoTyqJxKJYbCo0OgoVIw7Y|A761|Hats (album)|The Blue Nile|Sophisti-Pop;Pop",
 "David Bowie|Let's Dance|1983|PL6ogdCG3tAWg8XLQjzlspxWjKfsl-Jx-s|A578|Let's Dance (David Bowie album)|David Bowie|Dance-Pop;Pop Rock;Dance;Pop;Rock",
 "...And You Will Know Us by the Trail of Dead|Source Tags & Codes|2002|OLAK5uy_kRt3JXawwjM3Ty4_ka3bv6HpjGUYHRZQo|A1641|Source Tags & Codes|...And You Will Know Us by the Trail of Dead|Indie Rock;Post-Hardcore;Alternative Rock;Punk Rock;Rock",
 "Built to Spill|Perfect from Now On|1997|OLAK5uy_kqMgVZbjwV3djVc7zPDO_be8_zv8CHSmA|A1619|Perfect from Now On|Built to Spill|Indie Rock;Alternative Rock;Rock",
