@@ -484,7 +484,7 @@ const albums = [
 "Bob Dylan|John Wesley Harding|1967|OLAK5uy_mSVIv9SSGEoofy9r30Z3kr35d2mYozF6w|A98|John Wesley Harding|Bob Dylan|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock",
 "Jethro Tull|Aqualung|1971|OLAK5uy_m6o7D222tBtDDnUNVvEhPAeQVKjcrIxyc|A240|Aqualung (Jethro Tull album)|Jethro Tull (band)|Progressive Rock;Rock",
 "Grizzly Bear|Veckatimest|2009|OLAK5uy_lLwob1gwYSrPTJAQkMzQm_n_dr3bm1AIM|A4988|Veckatimest|Grizzly Bear (band)|Indie Folk;Psychedelic Folk;Psychedelic Pop;Contemporary Folk;Folk;Pop",
-"Manu Chao|Clandestino|1998|PLWEExnsejMkMq18cQwBheqDK-e89ktMai|A3716|Clandestino|Manu Chao|Latin Alternative;Hispanic Music;Latin American Music;Regional Music",
+"Manu Chao|Clandestino|1998|OLAK5uy_kQpA2TUpZ772lX0Jz0dXe3NktKxS3ow2I|A3716|Clandestino|Manu Chao|Latin Alternative;Hispanic Music;Latin American Music;Regional Music",
 "Weyes Blood|Titanic Rising|2019|OLAK5uy_liwsHhD8rtRskE9_ShtPRE6EQd3j-DZFQ|A6364|Titanic Rising|Weyes Blood|Art Pop;Baroque Pop;Pop",
 "Broken Social Scene|You Forgot It in People|2002|OLAK5uy_n2ZrkJ5jKL8de7uFZIwSeebe-M91c7Wtc|A3953|You Forgot It in People|Broken Social Scene|Indie Rock;Alternative Rock;Rock",
 "James Taylor|Sweet Baby James|1970|OLAK5uy_l3LgXhBX-cCgurkOcphZi039OJd2SG8wQ|A190|Sweet Baby James|James Taylor|Folk Pop;Singer/Songwriter;Soft Rock;Contemporary Folk;Folk;Pop;Pop Rock;Rock",
