@@ -1155,7 +1155,7 @@ const albums = [
 "Bonnie Raitt|Nick of Time|1989|OLAK5uy_mgUSMSLYFnMQ_F-B2P_B7A1SQ3d9PEFtU|A777|Nick of Time (album)|Bonnie Raitt|Blues Rock;Pop Rock;Pop;Rock",
 "Supergrass|I Should Coco|1995|OLAK5uy_kmQVW7HIS2DZHRvgbXwwtOZCTHaiqnWeA|A940|I Should Coco|Supergrass|Britpop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "N*E*R*D|In Search of...|2002|PLCA0oXfs8y5Waf4FWqIJLBsXkTGp9b_CE|A1208|In Search of... (N.E.R.D. album)|N.E.R.D.|Funk Rock;Rock",
-"Coldplay|Viva La Vida or Death and All His Friends|2008|PLLFaXG8eSf29HGFWH31VF47xRafYVSNGH|A4359|Viva la Vida or Death and All His Friends|Coldplay|Pop Rock;Pop;Rock",
+"Coldplay|Viva La Vida or Death and All His Friends|2008|OLAK5uy_ke4un7iS4T7KQ0A4upJXXlPwayKgNM6GE|A4359|Viva la Vida or Death and All His Friends|Coldplay|Pop Rock;Pop;Rock",
 "Echo and the Bunnymen|Heaven Up Here|1981|OLAK5uy_mPYiUQ70ZP-GshG44mYqEcAInhFx38N2k|A517|Heaven Up Here|Echo & the Bunnymen|Post-Punk;Rock",
 "Marilyn Manson|Antichrist Superstar|1996|OLAK5uy_n87j-T-DatuAxzu4WuNAS6ettEFYnZJlQ|A1613|Antichrist Superstar|Marilyn Manson|Industrial Metal;Industrial Rock;Industrial Music;Metal;Rock",
 "Fiona Apple|When the Pawn...|1999|OLAK5uy_nOn6YPJa_ZmbxxdFKFOIpJUJ7o7_UD7ck|A1070|When the Pawn...|Fiona Apple|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock",
