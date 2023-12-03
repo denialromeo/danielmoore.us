@@ -297,7 +297,7 @@ const albums = [
 "Robyn|Body Talk|2010|OLAK5uy_nEjeAJ5kC_X4HbdzQ7YahrKL8N_0Z7jM0|A5094|Body Talk (Robyn album)|Robyn|Dance-Pop;Electropop;Dance;Electronic;Pop",
 "Ray Charles|Modern Sounds in Country and Western Music|1962|PLgWmP-F0RTPOl1OjguwDkKwjFFiMmQZs5|A11|Modern Sounds in Country and Western Music|Ray Charles|Country Soul;Rhythm & Blues;R&B;Soul",
 "OutKast|Speakerboxxx/The Love Below|2003|OLAK5uy_lbG-r-NvG-XOUSL7k0WeJ_ffPD_LZnLy4|A3946|Speakerboxxx/The Love Below|Outkast|Pop;Pop Rap;Hip Hop",
-"The Byrds|Mr. Tambourine Man|1965|PLjb5kMzP2zomXUqfjy5KtBpJlc7RToQ41|A37|Mr. Tambourine Man (album)|The Byrds|Folk Rock;Pop Rock;Pop;Rock",
+"The Byrds|Mr. Tambourine Man|1965|OLAK5uy_melkN-nbM7MJAJZ0Z_4nQNR7Yio059Zwo|A37|Mr. Tambourine Man (album)|The Byrds|Folk Rock;Pop Rock;Pop;Rock",
 "Vampire Weekend|Vampire Weekend|2008|OLAK5uy_l0GFhHCTOJGhGVo0SRQ5zos9BPv2H3sF0|A4340|Vampire Weekend (album)|Vampire Weekend|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
 "Nick Drake|Pink Moon|1972|OLAK5uy_nfO2DnrgSkZSSuj1RowNNWlHsPBzWu2GY|A261|Pink Moon|Nick Drake|Contemporary Folk;Singer/Songwriter;Folk",
 "The Byrds|Younger Than Yesterday|1967|OLAK5uy_meZT7MdH-DP-RH-iQ8Bqf8xNPfA4VM5uQ|A96|Younger Than Yesterday|The Byrds|Folk Rock;Pop Rock;Psychedelic Pop;Pop;Rock",
