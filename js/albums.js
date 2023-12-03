@@ -865,7 +865,7 @@ const albums = [
 "Brian Eno|Ambient 1: Music for Airports|1978|OLAK5uy_mfRTetqFB_MtRhjeOxR5tp0uVfK1YH-Sw|A1163|Ambient 1: Music for Airports|Brian Eno|Ambient",
 "Cheap Trick|At Budokan|1978|OLAK5uy_mERbOTVsrlaD8NPr9tZu8EYhuiC72HPXw|A1246|Cheap Trick at Budokan|Cheap Trick|Hard Rock;Power Pop;Pop;Pop Rock;Rock",
 "Chance the Rapper|Acid Rap|2013|OLAK5uy_lBj5Rim-nefk-WE96nUH5Kty4DBPwlYEM|A5289|Acid Rap|Chance the Rapper|Hip Hop",
-"Tool|Aenima|1996|OLAK5uy_k_Z0-DYw0_cGPvZm6icNUGbefRT4wktdY|A3618|Ænima|Tool (band)|Alternative Metal;Metal;Rock",
+"Tool|Ænima|1996|OLAK5uy_k_Z0-DYw0_cGPvZm6icNUGbefRT4wktdY|A3618|Ænima|Tool (band)|Alternative Metal;Metal;Rock",
 "The Microphones|The Glow, Pt. 2|2001|OLAK5uy_k79Z1FevqgQ4s9oO9dfRo0jwP7M-26JiA|A3883|The Glow Pt. 2|The Microphones|Indie Folk;Lo-Fi / Slacker Rock;Psychedelic Folk;Alternative Rock;Contemporary Folk;Folk;Indie Rock;Rock",
 "Animal Collective|Strawberry Jam|2007|OLAK5uy_lfdXw3GIs_MApCgyI_Qc8CNTX4eldjBfw|A4246|Strawberry Jam|Animal Collective|Neo-Psychedelia;Psychedelic Rock;Rock",
 "Modest Mouse|The Lonesome Crowded West|1997|OLAK5uy_l8YHyFTor9ODe5M80fUoSo5W3Ava4KwRo|A1743|The Lonesome Crowded West|Modest Mouse|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock",
