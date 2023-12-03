@@ -935,7 +935,7 @@ const albums = [
 "Yes|Fragile|1971|OLAK5uy_mr3aLJuPJvJve1bSwRl-8W4iN8uhGOr80|A238|Fragile (Yes album)|Yes (band)|Progressive Rock;Rock",
 "Otis Redding|Complete & Unbelievable: The Otis Redding Dictionary of Soul|1966|OLAK5uy_kutUH47zxFPlyUAK_p5XihqWpIqQpivPk|A76|Complete & Unbelievable: The Otis Redding Dictionary of Soul|Otis Redding|Deep Soul;R&B;Soul;Southern Soul",
 "The Replacements|Pleased to Meet Me|1987|OLAK5uy_kbfa-Eb8CzxEwfLLlvtos4EQMp63fEe6E|A700|Pleased to Meet Me|The Replacements (band)|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
-"Tim Buckley|Goodbye and Hello|1967|PLRQKT-Cu2_2RFxRavHg1s6Yg2xGhMCTEi|A120|Goodbye and Hello (Tim Buckley album)|Tim Buckley|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock",
+"Tim Buckley|Goodbye and Hello|1967|OLAK5uy_k7RwoAvs-rjLKrZECC-mL14SK6Ez1E-Vg|A120|Goodbye and Hello (Tim Buckley album)|Tim Buckley|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock",
 "Soundgarden|Badmotorfinger|1991|OLAK5uy_ndoUiv6CfHEQrPwnEDRdpVQDXnsZMtgbI|A837|Badmotorfinger|Soundgarden|Alternative Metal;Grunge;Hard Rock;Alternative Rock;Metal;Rock",
 "Wilco|A Ghost Is Born|2004|OLAK5uy_ngpWYBEce-7-F0HDW6_ronuBcywGnrtc0|A4055|A Ghost Is Born|Wilco|Alternative Rock;Rock",
 "Slowdive|Slowdive|2017|OLAK5uy_l8gNk4QIz3gX-og4p77QI-gELx-w7wuk8|A5983|Slowdive (album)|Slowdive|Dream Pop;Shoegaze;Alternative Rock;Rock",
