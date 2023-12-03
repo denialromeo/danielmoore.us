@@ -2799,7 +2799,7 @@ const albums = [
 "The Residents|Commercial Album|1980|OLAK5uy_mc_ykhhjgEZR1duZlojjp1Ss0F-lAs4vw|A1684|Commercial Album|The Residents|Art Pop;Satire;Comedy;Descriptor;Pop",
 "Pink Floyd|A Saucerful of Secrets|1968|OLAK5uy_lBrFvNjJj-F86-KrsohnXsHstyziMaiUY|A2228|A Saucerful of Secrets|Pink Floyd|Psychedelic Rock;Rock",
 "Maxwell|BLACKsummers'night|2009|OLAK5uy_lZ_3rg5p8synX9hNzsByUI0uXxloRURGQ|A5039|BLACKsummers'night|Maxwell (musician)|Contemporary R&B;Neo-Soul;R&B;Soul",
-"Burial|Kindred EP|2012|PLB0800020F37E759C|A6612|Kindred (EP)|Burial (musician)|Future Garage;Dance;Electronic;Electronic Dance Music;UK Garage",
+"Burial|Kindred|2012|OLAK5uy_mloKPQdAMj42MGF9pLD5ONjJLukHfgQRo|A6612|Kindred (EP)|Burial (musician)|Future Garage;Dance;Electronic;Electronic Dance Music;UK Garage",
 "The Lester Young - Teddy Wilson Quartet|Pres and Teddy|1959|PLdPbUVF6JIDSlj6tF21v-N1SudbDNPm6E|A1808|Pres and Teddy|Teddy Wilson|Swing;Jazz",
 "Ash Ra Tempel|Schwingungen|1972|https://www.youtube.com/embed/ZpHdPdxNxU4?start=3|A2445|Schwingungen|Ash Ra Tempel|Krautrock;Psychedelic Rock;Experimental Rock;Progressive Rock;Rock",
 "Marvin Gaye|Trouble Man|1972|OLAK5uy_mcJsc6ToHvNr2rUSAUGlBwOT1jdvoa09g|A1368|Trouble Man (album)|Marvin Gaye|Film Soundtrack;Soul;Descriptor;R&B;Soundtracks",
