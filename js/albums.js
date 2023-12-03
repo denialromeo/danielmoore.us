@@ -2366,7 +2366,7 @@ const albums = [
 "Judee Sill|Judee Sill|1971|OLAK5uy_kVNpFFJFLLOGOjzYBnjGnYtmACOO6k3Hw|A2650|Judee Sill (album)|Judee Sill|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Prefuse 73|Vocal Studies + Uprock Narratives|2001|OLAK5uy_nUiNH9fAnknpQXkGb9IprgZwCKoyZ48_w|A3879|Vocal Studies + Uprock Narratives|Scott Herren|Glitch Hop;Electronic;IDM",
 "The Soft Machine|Volume Two|1969|OLAK5uy_nW69yeY2ZQ7wzpFygPYyDxAb2-NLMqrNA|A1327|Volume Two (The Soft Machine album)|Soft Machine|Canterbury Scene;Experimental Rock;Jazz-Rock;Psychedelic Rock;Progressive Rock;Rock",
-"Todd Rundgren|Todd|1974|PLJgoWbwyFtLv80TUfKJn_e7NDYV2rt2_J|A1391|Todd (album)|Todd Rundgren|Art Pop;Pop Rock;Progressive Pop;Pop;Rock",
+"Todd Rundgren|Todd|1974|OLAK5uy_n24NSpyOAdZmaxtjyEjCFzyr_hFM0-rdM|A1391|Todd (album)|Todd Rundgren|Art Pop;Pop Rock;Progressive Pop;Pop;Rock",
 "Django Django|Django Django|2012|OLAK5uy_mfffZnNx_8kDKiTr_TXxMvmklT6RJlpz0|A5208|Django Django (album)|Django Django|Indie Pop;Pop",
 "Living Colour|Time's Up|1990|OLAK5uy_mi6OuWCoOgFDXBVOF5zMYoLxc1M3O0dwk|A805|Time's Up (Living Colour album)|Living Colour|Funk Metal;Hard Rock;Alternative Metal;Metal;Rock",
 "Sturgill Simpson|A Sailor's Guide to Earth|2016|OLAK5uy_k3p-XxvOyvpO2WddAs4wDiw_W3ydWjnXU|A5810|A Sailor's Guide to Earth|Sturgill Simpson|Alt-Country;Country Soul;Country;R&B;Soul",
