@@ -1229,7 +1229,7 @@ const albums = [
 "Mission of Burma|Vs.|1982|OLAK5uy_nbm_rEnxwXkt0PP90qPGm6m1dveZxycLk|A2915|Vs. (Mission of Burma album)|Mission of Burma|Post-Punk;Rock",
 "Siouxsie and The Banshees|The Scream|1978|OLAK5uy_kYYJ-JhyRn2DMNE5NrCG9Reyw4Uv3sCRY|A437|The Scream (album)|Siouxsie and the Banshees|Post-Punk;Rock",
 "The Jam|Setting Sons|1979|PL7sfNRCO58l6dnd214c1u-oIDgsCKM_77|A461|Setting Sons|The Jam|Mod Revival;New Wave;Mod;Rock",
-"AC/DC|Let There Be Rock|1977|PL6vwnon3sINphFbn1G6V6RabANC6FgndZ|A2677|Let There Be Rock|AC/DC|Hard Rock;Rock",
+"AC/DC|Let There Be Rock|1977|OLAK5uy_kMEVMMgw1iTtH1K6v2fZiS5pcqC79ssAo|A2677|Let There Be Rock|AC/DC|Hard Rock;Rock",
 "Vampire Weekend|Father of the Bride|2019|OLAK5uy_lGype0gR4vyIE0J2hvNYtpifSbNynJTNk|A6362|Father of the Bride (album)|Vampire Weekend|Indie Pop;Pop",
 "Clifton Chenier|Bogalusa Boogie|1975|OLAK5uy_liD5wKQcDgj9qljewSZ934XrX6KdUO-L4|A2208|Bogalusa Boogie|Clifton Chenier|Zydeco;American Folk Music;Cajun;Folk;Regional Music;Traditional Folk Music",
 "Neu!|Neu! 75|1975|OLAK5uy_llyvnQtaDMpDznvuwL9kJfpsAGWE4PvuA|A2579|Neu! '75|Neu!|Krautrock;Experimental Rock;Progressive Rock;Rock",
