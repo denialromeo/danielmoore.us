@@ -42,7 +42,7 @@ const albums = [
 "Ramones|Ramones|1976|OLAK5uy_kLYXzWrEvAL-1ydH3JBDtvj07t7dRwSqs|A361|Ramones (album)|Ramones|Punk Rock;Rock",
 "The Rolling Stones|Let It Bleed|1969|OLAK5uy_llFTBG0qz7B88cHVPshAlcx-zOynQi_9c|A152|Let It Bleed|The Rolling Stones|Blues Rock;Rock",
 "Massive Attack|Blue Lines|1991|PLH1JGOJgZ2u1-xaLLgghUc14VtQnXGnjY|A813|Blue Lines|Massive Attack|Trip Hop;Downtempo;Electronic",
-"James Brown|'Live' at the Apollo|1963|OLAK5uy_nPSzR6anEJa2tff79id4vwLg0tcFjazzM|A1|Live at the Apollo (1963 album)|James Brown|Rhythm & Blues;Soul;R&B",
+"James Brown|'Live' at the Apollo|1963|PLowQCq3Ss89iBOasAahhcHl0FEg078bFE|A1|Live at the Apollo (1963 album)|James Brown|Rhythm & Blues;Soul;R&B",
 "Stevie Wonder|Songs in the Key of Life|1976|OLAK5uy_mcG_CMFTptcsuZrsFVztPqlrZaLuaGnSQ|A363|Songs in the Key of Life|Stevie Wonder|Soul;R&B",
 "R.E.M.|Automatic for the People|1992|OLAK5uy_n4B1s2CuQ_r2TUYJlWhaZ-XKrhrvD0fnQ|A841|Automatic for the People|R.E.M.|Alternative Rock;Pop Rock;Pop;Rock",
 "Prince and The Revolution|Purple Rain|1984|OLAK5uy_nZh8Bqp7b-jedaxIGOtSoNPwk_FnqtaCk|A602|Purple Rain (album)|Prince (musician)|Film Soundtrack;Pop Rock;Synth Funk;Descriptor;Funk;Pop;R&B;Rock;Soundtracks",

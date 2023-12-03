@@ -200,7 +200,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/#main)" by Marc Andreessen (Unforeseen consequences.)
 * "[Will India Get Too Hot to Work?](https://www.mckinsey.com/capabilities/sustainability/our-insights/will-india-get-too-hot-to-work)" by the McKinsey Global Institute (Is there a future?)
 * "[Women in Science](https://philip.greenspun.com/careers/women-in-science)" by Philip Greenspun (STEM careers may not be worth the instability.)
-* "[You Weren't Meant to Have a Boss](http://www.paulgraham.com/boss.html)" by Paul Graham (Better to reign in Hell.)
+* "[You Weren't Meant to Have a Boss](http://www.paulgraham.com/boss.html)" by Paul Graham (Hierarchies suck the fun out of work.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Root of every political issue of the past 15 years.)
 
 {:#novels}
