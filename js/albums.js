@@ -1502,7 +1502,7 @@ const albums = [
 "Moondog|Moondog|1969|OLAK5uy_lnc8ol_B_DBAQCEg2ph_Ieg53-xnyQ2GM|A4485|Moondog (album)|Moondog|Modern Classical;Third Stream;Classical Music;Jazz",
 "Millie Jackson|Caught Up|1974|OLAK5uy_n7bmb_rejkvB4txBDp04iHQCHV9fg4dgI|A1152|Caught Up (Millie Jackson album)|Millie Jackson|Southern Soul;R&B;Soul",
 "Archie Shepp|Fire Music|1965|OLAK5uy_mZwPlncapp_P3IY7oVW_w2RYz3RPpTvFw|A1958|Fire Music (Archie Shepp album)|Archie Shepp|Avant-Garde Jazz;Jazz",
-"Booker T. & The MG's|Green Onions|1962|PLtaFuj_Lauuqk9kD_neKsn63BMtoJBm1B|A1652|Green Onions|Booker T. & the M.G.'s|Rhythm & Blues;Soul;R&B",
+"Booker T. & The MG's|Green Onions|1962|OLAK5uy_kAOwSkWW9R8MUKqD0CLrJXFEXi5-VTp5I|A1652|Green Onions|Booker T. & the M.G.'s|Rhythm & Blues;Soul;R&B",
 "Midlake|The Trials of Van Occupanther|2006|OLAK5uy_lj5w17kNhtwU4jWMtta_2QfeQVgifkzqs|A3051|The Trials of Van Occupanther|Midlake|Americana;Folk Rock;Indie Folk;Contemporary Folk;Country;Folk;Rock",
 "PJ Harvey|Is This Desire?|1998|OLAK5uy_ncGpcXRtFLkDmbvxs_F1zHOu1EAeEp6D8|A1046|Is This Desire%3F|PJ Harvey|Alternative Rock;Alternative Singer/Songwriter;Rock;Singer/Songwriter",
 "John Lee Hooker|The Healer|1989|OLAK5uy_nPyytdZcjnh9wmmBXqYXUkt2E6VUqfLsg|A1546|The Healer (album)|John Lee Hooker|Electric Blues;Blues",
