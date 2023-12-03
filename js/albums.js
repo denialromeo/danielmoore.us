@@ -522,7 +522,7 @@ const albums = [
 "Ian Dury|New Boots and Panties!!|1977|OLAK5uy_lSZfzojaraKwzt_qZsUIWA5Jy8Kl-Z1gg|A401|New Boots and Panties!!|Ian Dury|New Wave;Pub Rock;Punk Rock;Rock",
 "Genesis|The Lamb Lies Down on Broadway|1974|OLAK5uy_lJCA3U2TL11PYx7z3L41Ifqem9fThVAkc|A318|The Lamb Lies Down on Broadway|Genesis (band)|Progressive Rock;Rock Opera;Rock",
 "St. Vincent|St. Vincent|2014|OLAK5uy_lC1qP-wK8xXj4cOD13ustkJHRlzeAzRq0|A5390|St. Vincent (album)|St. Vincent (musician)|Art Pop;Pop",
-"Weezer|Pinkerton|1996|PLZOQAY4EGd_J9fxivzsjneW5bWnWHBCHx|A1728|Pinkerton (album)|Weezer|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
+"Weezer|Pinkerton|1996|OLAK5uy_mEo-LLncm4GSVaKFiTq5JP8wA7vMucyNw|A1728|Pinkerton (album)|Weezer|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
 "Snoop Doggy Dogg|Doggystyle|1993|OLAK5uy_kCVtuk6qfCGz0crsZR4ajs1aZIKLqN0f8|A896|Doggystyle|Snoop Dogg|G-Funk;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Gram Parsons|GP|1973|OLAK5uy_kdZinHlcewTmk5m3ljgGpcA1hEz6kvDb0|A287|GP (album)|Gram Parsons|Country;Country Rock;Singer/Songwriter;Rock",
 "Ornette Coleman|Free Jazz|1961|OLAK5uy_khstfAhY_zcWAdpJ93D8VF8FfLK9g9wFw|A1891|Free Jazz: A Collective Improvisation|Ornette Coleman|Free Jazz;Avant-Garde Jazz;Jazz",
