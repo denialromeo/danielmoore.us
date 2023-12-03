@@ -706,7 +706,7 @@ const albums = [
 "Spoon|Kill the Moonlight|2002|OLAK5uy_lqqGWLaeM0I1-Pb7couoDSOa8dkdDwVEQ|A1644|Kill the Moonlight|Spoon (band)|Indie Rock;Alternative Rock;Rock",
 "Eric Clapton|461 Ocean Boulevard|1974|OLAK5uy_mRNqiK0VmtIOAB6WT9y9AkbOUwSa-0WiY|A314|461 Ocean Boulevard|Eric Clapton|Blues Rock;Rock",
 "Pearl Jam|Vs.|1993|OLAK5uy_keXzA6-3T_K8OgGdalCrLvq2fI4te1F7Q|A883|Vs. (Pearl Jam album)|Pearl Jam|Grunge;Alternative Rock;Rock",
-"Various Artists|Woodstock|1970|PLIs4-lL1a_E2Ifw5YFxth1I57HLZv6e78|A207|Woodstock: Music from the Original Soundtrack and More|Woodstock|Contemporary Folk;Film Soundtrack;Folk Rock;Psychedelic Rock;Descriptor;Folk;Rock;Soundtracks",
+"Various Artists|Woodstock|1970|PLSnEc0eT1ST6Tm2yJ5hjiLohx7Uri43b6|A207|Woodstock: Music from the Original Soundtrack and More|Woodstock|Contemporary Folk;Film Soundtrack;Folk Rock;Psychedelic Rock;Descriptor;Folk;Rock;Soundtracks",
 "Justin Timberlake|FutureSex/LoveSounds|2006|OLAK5uy_niiOuL5n3WcUsukbFo6cUVVgsdowPfxPM|A3106|FutureSex/LoveSounds|Justin Timberlake|Dance-Pop;Dance;Pop",
 "Manic Street Preachers|The Holy Bible|1994|OLAK5uy_kHpn7hDUAOVv5lR1wb5Hfp0YB002ObUSI|A922|The Holy Bible (album)|Manic Street Preachers|Alternative Rock;Rock",
 "Sharon Van Etten|Remind Me Tomorrow|2019|OLAK5uy_mm24Dr98SNLOgTxLtautLX6dlFZHN5heg|A6329|Remind Me Tomorrow|Sharon Van Etten|Indie Pop;Synthpop;Electronic;Pop",
