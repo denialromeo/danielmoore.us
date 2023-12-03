@@ -1593,7 +1593,7 @@ const albums = [
 "Buffalo Springfield|Buffalo Springfield|1966|OLAK5uy_mvgscNVoHiGcX-bXW7aNxbW2yMFdvTeGQ|A80|Buffalo Springfield (album)|Buffalo Springfield|Country Rock;Folk Rock;Rock",
 "The Art Tatum - Ben Webster Quartet|Masterpieces, Vol. 8|1958|OLAK5uy_l5Ljw7ziGb7igtoIHhL7w1_JNB-IhsXtA|A1804|The Tatum Group Masterpieces, Volume Eight|Ben Webster|Cool Jazz;Stride;American Folk Music;Folk;Jazz;Ragtime;Regional Music;Traditional Folk Music",
 "Low|Things We Lost in the Fire|2001|OLAK5uy_loLfXnAtPFfyeUltLh64UQisE7AXc9FVc|A3854|Things We Lost in the Fire (album)|Low (band)|Slowcore;Alternative Rock;Indie Rock;Rock",
-"The Velvet Underground|VU|1985|PL6D82143B781ACDB5|A3069|VU (album)|The Velvet Underground|Art Rock;Rock",
+"The Velvet Underground|VU|1985|PLxQpHEbxKcsic66eIYUVHFQfKhORxMBsO|A3069|VU (album)|The Velvet Underground|Art Rock;Rock",
 "Kurt Vile|Smoke Ring for My Halo|2011|OLAK5uy_n5qNQF92bQbypS45tZYiK-YcK1j_G7KZg|A5185|Smoke Ring for My Halo|Kurt Vile|Folk Rock;Singer/Songwriter;Rock",
 "Miranda Lambert|Crazy Ex-Girlfriend|2007|OLAK5uy_nQFGHLTymulXCIrKgkHGmyv-q5rRuYYOU|A4282|Crazy Ex-Girlfriend (album)|Miranda Lambert|Contemporary Country;Country",
 "No Doubt|Tragic Kingdom|1995|OLAK5uy_kz9ueSJLK4IeWQiryyHt8GNiOJYWDj_VE|A3566|Tragic Kingdom|No Doubt|Alternative Rock;Pop Rock;Third Wave Ska;Pop;Rock;Ska",
