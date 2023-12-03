@@ -496,7 +496,7 @@ const classical = [
 "Giuseppe Verdi|Falstaff|1893|We0heyFkqXU|Giuseppe Verdi|Falstaff (opera)",
 "Jean Sibelius|Karelia Suite|1893|adKwG9ZuzFw|Jean Sibelius|Karelia Suite",
 "Antonín Dvořák|Symphony No. 9|1893|89jOPAGJq-M|Antonín Dvořák|Symphony No. 9 (Dvořák)",
-"Anton Stepanovich Arensky|Piano Trio No. 1|1894|WR7IgPqscJE|Anton Arensky|",
+"Anton Stepanovich Arensky|Piano Trio No. 1|1894|WR7IgPqscJE|Anton Arensky|Piano Trio No. 1 (Arensky)",
 "Claude Debussy|Prélude à L’après-midi d’un faune|1894|Y9iDOt2WbjY|Claude Debussy|Prélude à l'après-midi d'un faune",
 "Gustav Mahler|Symphony No. 2, “Resurrection”|1894|sHsFIv8VA7w|Gustav Mahler|Symphony No. 2 (Mahler)",
 "Johannes Brahms|Clarinet Sonatas|1894|V39p4Fbgz_A|Johannes Brahms|Clarinet Sonatas (Brahms)",
