@@ -2246,7 +2246,7 @@ const albums = [
 "Journey|Escape|1981|PLSTBTvGGPW4CGr566a0FX-W7cXDZ1PIwN|A538|Escape (Journey album)|Journey (band)|AOR;Pop Rock;Pop;Rock",
 "Gas|Pop|2000|PLzhtzupJ_gz9VGQT0pccsr42uFc1xPKxK|A4924|Pop (Gas album)|Pacific Gas & Electric (band)|Ambient",
 "Bronski Beat|The Age of Consent|1984|OLAK5uy_ntHqQMQhKv-rKaXva2g-QMV3F_EWhwat8|A1489|The Age of Consent (album)|Bronski Beat|Hi-NRG;Synthpop;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;Pop",
-"John Grant|Queen of Denmark|2010|PL3599CDC7BBD96FE7|A5077|Queen of Denmark (album)|John Grant (musician)|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop",
+"John Grant|Queen of Denmark|2010|OLAK5uy_mEqZAmSn6M8boTDlflcA5xJor2qXddouY|A5077|Queen of Denmark (album)|John Grant (musician)|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop",
 "Faust|IV|1973|OLAK5uy_nwPO8uVvYVTZ2v_5WbaNdtVghTdGzZ02A|A2489|Faust IV|Faust (band)|Krautrock;Experimental Rock;Progressive Rock;Rock",
 "Scritti Politti|Songs to Remember|1982|OLAK5uy_kGLBEuGF6z6E1B0SW83fl9vHv845JrxCM|A570|Songs to Remember|Scritti Politti|New Wave;Sophisti-Pop;Pop;Rock",
 "Iron & Wine|The Creek Drank the Cradle|2002|PL21C6DEEAF4F6832A|A1754|The Creek Drank the Cradle|Iron & Wine|Contemporary Folk;Lo-Fi / Slacker Rock;Singer/Songwriter;Alternative Rock;Folk;Indie Rock;Rock",
