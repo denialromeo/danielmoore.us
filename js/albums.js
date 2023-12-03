@@ -2638,7 +2638,7 @@ const albums = [
 "The Damned|Machine Gun Etiquette|1979|OLAK5uy_ns7xKsERCdGXyv0E2Cl0USr8RuvX9HicA|A1460|Machine Gun Etiquette|The Damned (band)|Punk Rock;Rock",
 "Alabama Shakes|Boys & Girls|2012|OLAK5uy_mOMhOheoUjmv91b9gQuOJR0fQr8YXIJRs|A5189|Boys & Girls (album)|Alabama Shakes|Blues Rock;Southern Rock;Rock",
 "Broadcast|Haha Sound|2003|OLAK5uy_m7lZLs80Jm7bdZdlv4MC6BTetrZTIL_JE|A3917|Haha Sound|Broadcast (band)|Dream Pop;Indietronica;Alternative Rock;Electronic;Rock",
-"Butthole Surfers|Locust Abortion Technician|1987|PL5DE0B4D77BBD63DE|A1527|Locust Abortion Technician|Butthole Surfers|Experimental Rock;Noise Rock;Rock",
+"Butthole Surfers|Locust Abortion Technician|1987|OLAK5uy_ng7dlwW2DBk48coM9oikHNYHAehcMJ3M0|A1527|Locust Abortion Technician|Butthole Surfers|Experimental Rock;Noise Rock;Rock",
 "The Everly Brothers|Roots|1968|OLAK5uy_m5QRjuQKNvhBWXnBB98G6OCDwmjN74ess|A2224|Roots (The Everly Brothers album)|The Everly Brothers|Close Harmony;Country Pop;American Folk Music;Country;Folk;Pop;Regional Music;Traditional Country;Traditional Folk Music",
 "Pink Floyd|Atom Heart Mother|1970|OLAK5uy_m-_hJUy5TAO10yRvbxgvSO3ZrBp9_zXg4|A2329|Atom Heart Mother|Pink Floyd|Progressive Rock;Psychedelic Rock;Rock",
 "Protomartyr|The Agent Intellect|2015|OLAK5uy_lgF2BP-liFbp28B9PqLKhOaTOT_UzetbU|A5601|The Agent Intellect|Protomartyr (band)|Post-Punk;Rock",
