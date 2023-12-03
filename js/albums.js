@@ -1129,7 +1129,7 @@ const albums = [
 "Janet Jackson|The Velvet Rope|1997|OLAK5uy_lHGTvXkRC5zqWD08FFkJzMPwy-hzYKn78|A5265|The Velvet Rope|Janet Jackson|Contemporary R&B;Pop;R&B",
 "Pixies|Trompe le Monde|1991|OLAK5uy_nlgCie3jBl7av5CghptEfh9qnACXItvUk|A831|Trompe le Monde|Pixies (band)|Indie Rock;Alternative Rock;Rock",
 "Animal Collective|Feels|2005|OLAK5uy_l0kdY7iF_0jpnYcOIA8YhB6L6Iky3k4OI|A4199|Feels (album)|Animal Collective|Experimental Rock;Neo-Psychedelia;Psychedelic Rock;Rock",
-"INXS|Kick|1987|PLsN1W4c-yjVXlsquNzQ10UFT4Y4mp6RMl|A1522|Kick (INXS album)|INXS|Pop Rock;Pop;Rock",
+"INXS|Kick|1987|OLAK5uy_mKjoAV-X6lgzg4FSxNKZERaBlWChPZh_Y|A1522|Kick (INXS album)|INXS|Pop Rock;Pop;Rock",
 "Happy Mondays|Bummed|1988|OLAK5uy_kU1c-DK9KoOoUcCRmsO8d4lUt2HeV7Uts|A1530|Bummed|Happy Mondays|Baggy / Madchester;Alternative Rock;Rock",
 "Perfume Genius|No Shape|2017|OLAK5uy_lOe8luY2Z-x7cjiHfWvzFdjndf75updEU|A5960|No Shape|Perfume Genius|Art Pop;Pop",
 "Roxy Music|Country Life|1974|OLAK5uy_m0wBxaewH-lbo6eGyZQUbE-fzlUeug7fM|A310|Country Life (Roxy Music album)|Roxy Music|Art Rock;Glam Rock;Rock",
