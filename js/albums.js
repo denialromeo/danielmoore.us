@@ -1733,7 +1733,7 @@ const albums = [
 "Pixies|Come On Pilgrim EP|1987|OLAK5uy_nP04hAP7_QezHzFwScr1oD2KeFgZslPsg|A1528|Come On Pilgrim|Pixies (band)|Indie Rock;Alternative Rock;Rock",
 "Grant Lee Buffalo|Fuzzy|1993|OLAK5uy_nUUJPN5wr8xjgvmeqHf39dKpdBUElA3eU|A1580|Fuzzy (album)|Grant Lee Buffalo|Alt-Country;Americana;Indie Rock;Alternative Rock;Country;Rock",
 "Billy Idol|Rebel Yell|1983|OLAK5uy_nYOJcPiU2EQgMwEBkBXRK_1eEZ2AVM7ws|A2959|Rebel Yell (album)|Billy Idol|New Wave;Pop Rock;Pop;Rock",
-"Earth, Wind & Fire|That's the Way of the World|1975|PLcSy3etBG3X9GAOiXbPiyuTd42hCm37kw|A1672|That's the Way of the World|Earth, Wind & Fire|Funk;Soul;R&B",
+"Earth, Wind & Fire|That's the Way of the World|1975|OLAK5uy_nOZoqYKs7rDlrfo_5lm2MJ_SVaUiQr_Js|A1672|That's the Way of the World|Earth, Wind & Fire|Funk;Soul;R&B",
 "Earl Sweatshirt|Some Rap Songs|2018|OLAK5uy_mw6k0v80FRFWZFcNDwPY0UufIdb-hzukc|A6061|Some Rap Songs|Earl Sweatshirt|Abstract Hip Hop;Experimental Hip Hop;Hip Hop",
 "The Dream Syndicate|The Days of Wine and Roses|1982|OLAK5uy_lovjgA2dVkfw6-FFAwrNm49TnSIn0vmaE|A566|The Days of Wine and Roses|The Dream Syndicate|Jangle Pop;Paisley Underground;Alternative Rock;Pop;Pop Rock;Psychedelic Rock;Rock",
 "Tame Impala|Innerspeaker|2010|OLAK5uy_k4doG5RdilYBelHruNokW5rhEUHl46tEM|A5102|Innerspeaker|Tame Impala|Neo-Psychedelia;Psychedelic Rock;Rock",
