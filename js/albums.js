@@ -1349,7 +1349,7 @@ const albums = [
 "Milton Nascimento & Lô Borges|Clube da esquina|1972|OLAK5uy_m_6iBMMVsYB4jpp7b5yXh1W-qZRyKbCio|A2444|Clube da Esquina (album)|Milton Nascimento|MPB;Brazilian Music;Regional Music",
 "Judas Priest|British Steel|1980|OLAK5uy_nUe38-sZcpAhS3TirDX-XiSmVx16wrROQ|A2817|British Steel (album)|Judas Priest|Heavy Metal;Metal;Rock",
 "Morrissey|Viva Hate|1988|OLAK5uy_kcv3ugFC_OWVkQuzYd161yd97VLhV_p4o|A735|Viva Hate|Morrissey|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
-"Pink Floyd|Meddle|1971|PL5aWbCMRfsdj_qmErmIrVjHYKNtxZz0Rv|A1347|Meddle|Pink Floyd|Progressive Rock;Rock",
+"Pink Floyd|Meddle|1971|OLAK5uy_nznfbOMyruTyQ1CAOO8AON_qXVbA4fAA8|A1347|Meddle|Pink Floyd|Progressive Rock;Rock",
 "The Beat|I Just Can't Stop It|1980|OLAK5uy_lP9HhITz9-Yt5UhJV_g5yB2X5M6_SgZLs|A497|I Just Can't Stop It|The Beat (British band)|2 Tone;New Wave;Rock;Ska",
 "The Rolling Stones|Tattoo You|1981|OLAK5uy_mBb4NN3ekjd3NyC022WvfbQxaYZXEIWPA|A514|Tattoo You|The Rolling Stones|Rock",
 "U.S. Girls|In a Poem Unlimited|2018|OLAK5uy_nrE8bnCcG4c6ofx6zl3fN_kMEsvOoNLys|A6040|In a Poem Unlimited|U.S. Girls|Art Pop;Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock",
