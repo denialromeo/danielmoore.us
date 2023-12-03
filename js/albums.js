@@ -2018,7 +2018,7 @@ const albums = [
 "Hawkwind|Doremi Fasol Latido|1972|OLAK5uy_k4siU6Hi2whcfaBRG2JgqV--vvC1UVs7U|A3283|Doremi Fasol Latido|Hawkwind|Space Rock;Psychedelic Rock;Rock",
 "Roberta Flack|First Take|1969|OLAK5uy_khEQhG8qv_D5A3NIb-i1Vay4QE-JLNUYo|A2282|First Take (album)|Roberta Flack|Soul;R&B",
 "Kings of Leon|Only by the Night|2008|OLAK5uy_kil1pZKWRLBDxadB4Fi8PyiLym2nJkuX4|A4350|Only by the Night|Kings of Leon|Indie Rock;Alternative Rock;Rock",
-"Stan Getz|Focus|1961|PLfOleD7-7Oj90W890D0puroQgM7yTR-0P|A1901|Focus (Stan Getz album)|Stan Getz|Avant-Garde Jazz;Cool Jazz;Jazz",
+"Stan Getz|Focus|1961|PL6xLjp7yrKTZdUbGE8fciv9PuURt-2fTo|A1901|Focus (Stan Getz album)|Stan Getz|Avant-Garde Jazz;Cool Jazz;Jazz",
 "The Beach Boys|Wild Honey|1967|OLAK5uy_lhHqJ0mEjREnVWhB_0QBxpeJlNTAAgaXA|A2168|Wild Honey (album)|The Beach Boys|Baroque Pop;Blue Eyed Soul;Soul;Pop;R&B",
 "João Gilberto|João Gilberto|1973|PL5rn4dznj_QSe1-bTJemUWDq7VDfxfbxt|A4543|João Gilberto (album)|João Gilberto|Bossa Nova;Brazilian Music;Regional Music",
 "Clifford Brown & Max Roach|Study in Brown|1955|PLL-NbN8uTOijXw0CVjv89ANYPLLEeRiVf|A1781|Study in Brown|Clifford Brown|Hard Bop;Bebop;Jazz",
