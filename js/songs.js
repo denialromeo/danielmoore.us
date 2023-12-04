@@ -9600,7 +9600,7 @@ const songs = [
 "Rick James|Mary Jane|1978|PrPNwLuk0zQ|Rick James|S12064|Funk;Smooth Soul;R&B;Soul|Mary Jane (Rick James song)",
 "Sam Mayo|Things Are Worse in Russia|1922|oOOo2_E_WQw|Sam Mayo|S14987|Music Hall;Musical Theatre and Entertainment|",
 "Iceage|Pain Killer|2018|4nbLSGDeQSE|Iceage|S16645|Art Punk;Post-Punk;Punk Rock;Rock|",
-"Louis Armstrong|Hotter Than That|1928|UofL8pD69co|Louis Armstrong|S13554|Dixieland;Jazz|Louis Armstrong and His Hot Five",
+"Louis Armstrong|Hotter Than That|1928|DegptkMFLUY|Louis Armstrong|S13554|Dixieland;Jazz|Louis Armstrong and His Hot Five",
 "Scritti Politti|Absolute|1984|teHqHmnXnhE|Scritti Politti|S15856|Sophisti-Pop;Synthpop;Electronic;Pop|",
 "Percy Faith|Delicado|1952|z1JGCIPcmt0|Percy Faith|S7929|Easy Listening;Pop|Delicado (song)",
 "Murray Head|Superstar|1970|KPHitSseT40|Murray Head|S12959|Pop Rock;Rock Opera;Pop;Rock|Superstar (Jesus Christ Superstar song)",
