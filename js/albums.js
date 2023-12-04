@@ -139,7 +139,7 @@ const albums = [
 "Simon and Garfunkel|Bridge Over Troubled Water|1970|OLAK5uy_lF6Ssr_qLb3dnu-dBKTweziKkr72nuLH8|A188|Bridge over Troubled Water|Simon & Garfunkel|Folk Pop;Pop Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock",
 "Bruce Springsteen|Nebraska|1982|OLAK5uy_mP8T22kYL-tavvs0Mrd9UeFWZK2kUH1_Y|A544|Nebraska (album)|Bruce Springsteen|Americana;Contemporary Folk;Singer/Songwriter;Country;Folk",
 "Pink Floyd|The Piper at the Gates of Dawn|1967|OLAK5uy_kSgXPSP2bLvCWtPF64Wopm2N1OHhCe4sg|A97|The Piper at the Gates of Dawn|Pink Floyd|Psychedelic Pop;Psychedelic Rock;Pop;Rock",
-"Smashing Pumpkins|Siamese Dream|1993|PLslxS_gBiOu7AuMHzmaH4UWAZLTvmsa5p|A875|Siamese Dream|The Smashing Pumpkins|Alternative Rock;Rock",
+"Smashing Pumpkins|Siamese Dream|1993|OLAK5uy_kvIqMAtp8ULKF_0TAezWllgdVdk_NBPUM|A875|Siamese Dream|The Smashing Pumpkins|Alternative Rock;Rock",
 "Pearl Jam|Ten|1991|OLAK5uy_mw4FTsQlVeKTVFhffMb2t1qIThWg3qsN4|A827|Ten (Pearl Jam album)|Pearl Jam|Grunge;Hard Rock;Alternative Rock;Rock",
 "Aretha Franklin|Lady Soul|1968|OLAK5uy_nvqCtrRYIo5bCApiLEMUZbUKuSuHN1VKg|A126|Lady Soul|Aretha Franklin|Southern Soul;R&B;Soul",
 "Tom Waits|Swordfishtrombones|1983|OLAK5uy_m6QNS6sbdI80_gPlk0kJDlOlhDzhaQwgQ|A571|Swordfishtrombones|Tom Waits|Experimental Rock;Singer/Songwriter;Rock",
