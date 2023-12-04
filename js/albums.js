@@ -885,7 +885,7 @@ const albums = [
 "Belle and Sebastian|Tigermilk|1996|OLAK5uy_m38AZv08ORxQaTCxLIDHZYwLqQUUfMIJ4|A981|Tigermilk|Belle and Sebastian|Chamber Pop;Twee Pop;Baroque Pop;Indie Pop;Pop",
 "Simon and Garfunkel|Sounds of Silence|1966|OLAK5uy_ndR342tuMJO4yBVPdLjKL6eqa0y9odSyY|A77|Sounds of Silence|Simon & Garfunkel|Folk Pop;Folk Rock;Contemporary Folk;Folk;Pop;Rock",
 "The Beatles|Beatles for Sale|1964|OLAK5uy_nv2VlKz5RX3VLLz5YNMKY6YP9A68k1R_A|A7|Beatles for Sale|The Beatles|Merseybeat;Beat Music;Pop;Pop Rock;Rock",
-"The Weeknd|Trilogy|2011|PLks3NpQP6i_bTGNnxONBNi0TbwMR9VYbo|A5180|Trilogy (The Weeknd album)|The Weeknd|Alternative R&B;Contemporary R&B;R&B",
+"The Weeknd|Trilogy|2011|OLAK5uy_kR-AE6JanB8Y1X7BFkFrGIWKNyJ5UvpVQ|A5180|Trilogy (The Weeknd album)|The Weeknd|Alternative R&B;Contemporary R&B;R&B",
 "Grandaddy|The Sophtware Slump|2000|OLAK5uy_m4Lt-3lsotfdhRWa6KQKde6X8_erfM9ko|A1096|The Sophtware Slump|Grandaddy|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
 "Horace Silver|Song for My Father|1965|OLAK5uy_maEHDCvs9peIT7Q_zHyBbUvs8i0bYvqX0|A1950|Song for My Father (album)|Horace Silver|Hard Bop;Bebop;Jazz",
 "R.E.M.|Green|1988|PL6vwnon3sINofVWeA0zauiMFmvWMU_Mzx|A726|Green (R.E.M. album)|R.E.M.|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
