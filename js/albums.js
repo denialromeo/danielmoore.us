@@ -1988,7 +1988,7 @@ const albums = [
 "Nat King Cole|After Midnight|1957|OLAK5uy_kF1h4OZG95iE0xxS0ntYQc0rSac1qQA34|A1813|After Midnight (Nat King Cole album)|Nat King Cole|Vocal Jazz;Jazz",
 "Sheryl Crow|Tuesday Night Music Club|1993|OLAK5uy_lJpLTtRp1g-z0eDVXvMKVQbpqnan5rLyw|A1715|Tuesday Night Music Club|Sheryl Crow|Pop Rock;Singer/Songwriter;Pop;Rock",
 "Lionel Richie|Can't Slow Down|1983|OLAK5uy_klrqXyGViTQtl7r7o9zZIpVckWIYA8PLc|A2952|Can't Slow Down (Lionel Richie album)|Lionel Richie|Pop Soul;Pop;R&B;Soul",
-"Minor Threat|Minor Threat|1981|OLAK5uy_m_BpHB3kAp8BM22Ed2jJCHKJv2JOxYlmg|A3013|Minor Threat (album)|Minor Threat|Hardcore Punk;Punk Rock;Rock",
+"Minor Threat|Minor Threat|1981|OLAK5uy_nR5qqYxWEFViIO08fo8GhARWjeh0ZspUA|A3013|Minor Threat (album)|Minor Threat|Hardcore Punk;Punk Rock;Rock",
 "Tom Petty|Wildflowers|1994|OLAK5uy_lfYfdBOC83MvlaQe0sIgUIE4fIRN4keZU|A3525|Wildflowers (Tom Petty album)|Tom Petty|Heartland Rock;Pop Rock;Singer/Songwriter;Pop;Rock",
 "Bob Dylan|Bob Dylan|1962|PLYq_mcte9NvCCthOQhYEWbjYMVVseFfqz|A2070|Bob Dylan (album)|Bob Dylan|Contemporary Folk;Country Blues;Acoustic Blues;American Folk Music;Blues;Folk;Regional Music;Traditional Folk Music",
 "Jim O'Rourke|Eureka|1999|PLGxyU_3RFNSSDkH9dUNe2tnbmNHoZ1rS4|A3759|Eureka (Jim O'Rourke album)|Jim O'Rourke (musician)|Art Pop;Chamber Pop;Jazz Pop;Baroque Pop;Indie Pop;Pop",
