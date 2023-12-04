@@ -2018,7 +2018,7 @@ const songs = [
 "Nico|These Days|1967|-nGLqXZ-f70|Nico|S3665|Baroque Pop;Chamber Folk;Contemporary Folk;Folk;Pop|These Days (Jackson Browne song)",
 "Grinderman|No Pussy Blues|2007|HhUhWrqv9Js|Grinderman|S4285|Punk Blues;Punk Rock;Rock|Grinderman (album)",
 "The Darkness|I Believe in a Thing Called Love|2003|tKjZuykKY1I|The Darkness (band)|S2401|Hard Rock;Power Pop;Pop;Pop Rock;Rock|I Believe in a Thing Called Love",
-"Louis Armstrong|Potato Head Blues|1927|AeBn_TZ4Iak|Louis Armstrong|S9281|Dixieland;Jazz|",
+"Louis Armstrong|Potato Head Blues|1927|fJwry8rLjeE|Louis Armstrong|S9281|Dixieland;Jazz|",
 "Junior Boys|In the Morning|2006|BiI-3uRfaSc|Junior Boys|S4012|Electropop;Synthpop;Electronic;Pop|",
 "Neil Young|Southern Man|1970|m5FCcDEA6mY|Neil Young|S4145|Country Rock;Hard Rock;Rock|Southern Man (song)",
 "Louis Armstrong|Weather Bird|1930|BNJJV2iPeXs|Louis Armstrong|S9283|Swing;Jazz|Weather Bird",
