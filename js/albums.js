@@ -960,7 +960,7 @@ const albums = [
 "Aretha Franklin|Amazing Grace|1972|OLAK5uy_nO8nO5WFSLcwqwAugnKJMCuc3KpR6kfm4|A265|Amazing Grace (Aretha Franklin album)|Aretha Franklin|Gospel;Southern Soul;American Folk Music;Folk;R&B;Regional Music;Soul;Traditional Folk Music",
 "Salif Keita|Soro|1987|OLAK5uy_mrJuZjOtvHVJSswr8XdpO9Kt9JCQJG4Nw|A2151|Soro (album)|Salif Keita|Mande Music;African Music;Regional Music;West African Music",
 "ANOHNI|Hopelessness|2016|OLAK5uy_muGg4GpIX7SN3xwFl6CXr21ygU9uNnPBM|A5695|Hopelessness (album)|Anohni|Art Pop;Electropop;Electronic;Pop",
-"Robyn|Honey|2018|PLyRknbIIGHvjYHmcEZ76iWq9UasMRXbyJ|A6026|Honey (Robyn album)|Robyn|Dance-Pop;Electropop;Dance;Electronic;Pop",
+"Robyn|Honey|2018|OLAK5uy_mJ_tpu91cUuUQyXzb8ugw6CJFTQVdTeOs|A6026|Honey (Robyn album)|Robyn|Dance-Pop;Electropop;Dance;Electronic;Pop",
 "Sam Cooke|Night Beat|1963|OLAK5uy_mDQZPULekS6BDWg_50UGWVWbQqx14ZiIw|A21|Night Beat (Sam Cooke album)|Sam Cooke|Southern Soul;R&B;Soul",
 "Lucinda Williams|Lucinda Williams|1988|PLnEnlVSr-1iiXrNX8nXDHmTzueDV3nV1Y|A729|Lucinda Williams (album)|Lucinda Williams|Alt-Country;Americana;Singer/Songwriter;Country",
 "Graham Parker & The Rumour|Squeezing Out Sparks|1979|PLjO4QRS_y93N2XOG2RdS55baq86GsQE71|A455|Squeezing Out Sparks|Graham Parker|Power Pop;Pub Rock;Pop;Pop Rock;Rock",
