@@ -5871,7 +5871,7 @@ const songs = [
 "Duran Duran|Planet Earth|1981|8NF6Qa84mno|Duran Duran|S6171|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock|",
 "U2|Miss Sarajevo|1995|Zlmg0yzxKvQ|Original Soundtracks 1|S7853|Ambient Pop;Pop|Miss Sarajevo",
 "Camp Cope|The Opener|2018|40nc_8ij3MI|Camp Cope|S16625|Indie Rock;Alternative Rock;Rock|",
-"Louis Armstrong|I Can't Give You Anything But Love|1929|9Scd9WGDZog|Louis Armstrong|S11485|Dixieland;Vocal Jazz;Jazz|I Can't Give You Anything but Love, Baby",
+"Louis Armstrong|I Can't Give You Anything But Love|1929|ifUwQrayMqE|Louis Armstrong|S11485|Dixieland;Vocal Jazz;Jazz|I Can't Give You Anything but Love, Baby",
 "Elvis Presley|Surrender|1961|O3Bj9fQkvGo|Elvis Presley|S6261|Pop;Rock & Roll;Rock|Surrender (Elvis Presley song)",
 "Ray Price|For the Good Times|1970|1BW0_D6jJ1g|Ray Price (musician)|S8111|Nashville Sound;Country;Country Pop;Pop|For the Good Times (song)",
 "Journey|Any Way You Want It|1980|atxUuldUcfI|Journey (band)|S11255|AOR;Rock|Any Way You Want It",
