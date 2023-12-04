@@ -1547,7 +1547,7 @@ const albums = [
 "Talking Heads|Little Creatures|1985|OLAK5uy_lEQSMtgInPbxLK8E_mABa1cVGB02-7zeI|A644|Little Creatures|Talking Heads|Art Pop;Pop",
 "Charli XCX|Pop 2|2017|OLAK5uy_nkh3tYPGN8_J8Y59szYq4eS8K0JQhzQWc|A6902|Pop 2 (mixtape)|Charli XCX|Bubblegum Bass;Electropop;Dance;Electronic;Electronic Dance Music;Pop",
 "Public Enemy|Apocalypse '91 - The Enemy Strikes Black|1991|OLAK5uy_l-ZszPBS_eIj1T9rBMKrEJtSL5-SFFuWw|A820|Apocalypse 91... The Enemy Strikes Black|Public Enemy (band)|Conscious Hip Hop;Hardcore Hip Hop;Political Hip Hop;Hip Hop",
-"Red House Painters|Rollercoaster|1993|OLAK5uy_nxYMeh_9xi2LUQH06axkCSxmYH7bRaSaU|A1582|Red House Painters (Rollercoaster)|Red House Painters|Slowcore;Alternative Rock;Indie Rock;Rock",
+"Red House Painters|Rollercoaster|1993|PLfimnwaZdumgcrFDqpFP6FhXhSqStrDQe|A1582|Red House Painters (Rollercoaster)|Red House Painters|Slowcore;Alternative Rock;Indie Rock;Rock",
 "Nick Cave & The Bad Seeds|The Firstborn Is Dead|1985|OLAK5uy_k8hUSyCv44CTlaPF-tEZc8BD_cJqFmcg8|A636|The Firstborn Is Dead|Nick Cave and the Bad Seeds|Post-Punk;Punk Blues;Punk Rock;Rock",
 "Underworld|Second Toughest in the Infants|1996|OLAK5uy_n87_tujzscISac_VLcYLnR6-Ay-q05M_U|A967|Second Toughest in the Infants|Underworld (band)|Techno;Dance;Electronic;Electronic Dance Music",
 "David Sylvian|Brilliant Trees|1984|OLAK5uy_lZDgAzsShgBuySm0WMZ92dhQSCQuf4XRo|A628|Brilliant Trees|David Sylvian|Art Pop;Pop",
