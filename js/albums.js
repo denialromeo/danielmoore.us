@@ -188,7 +188,7 @@ const albums = [
 "Kanye West|Yeezus|2013|OLAK5uy_m6VFZd8KNhbFoHGRhtzFakGNVSkMMGvbU|A5381|Yeezus|Kanye West|Experimental Hip Hop;Hip Hop",
 "The Velvet Underground|The Velvet Underground|1969|OLAK5uy_lhdpySsfvUL_e9yjflV_DQvB0KZfHrYHQ|A156|The Velvet Underground (album)|The Velvet Underground|Rock",
 "Björk|Homogenic|1997|OLAK5uy_mw9Bb_0yJljnRsT_PFQ8pSKE_eDsQbL4k|A996|Homogenic|Björk|Art Pop;Electronic;Progressive Pop;Pop",
-"The Byrds|Sweetheart of the Rodeo|1968|PLX66jEixZe1xElVpNx_5sWXCEiJCszjKs|A134|Sweetheart of the Rodeo|The Byrds|Country Rock;Rock",
+"The Byrds|Sweetheart of the Rodeo|1968|OLAK5uy_mbaM46q3EayVER44rwXIcsO8epjhlmFk4|A134|Sweetheart of the Rodeo|The Byrds|Country Rock;Rock",
 "Bob Marley and The Wailers|Natty Dread|1974|OLAK5uy_mHXE3Pe2KDqh6t-KC_jo_irZk4VoaR968|A303|Natty Dread|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Eminem|The Marshall Mathers LP|2000|OLAK5uy_nyRZBNr6_NOMq4osjNSBbB7xpS2L_AH8w|A1082|The Marshall Mathers LP|Eminem|Hardcore Hip Hop;Hip Hop",
 "Sly and the Family Stone|Stand!|1969|OLAK5uy_lds6SNiYAmfPYFaJyoLweNn4tdfja-wZE|A157|Stand!|Sly and the Family Stone|Funk;Psychedelic Soul;R&B;Soul",
