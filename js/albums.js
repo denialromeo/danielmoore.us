@@ -3,7 +3,7 @@ const albums = [
 "Nirvana|Nevermind|1991|OLAK5uy_nN3UV5AlNbRP9di-cmgC-ACgL8JLK6jGk|A811|Nevermind|Kurt Cobain|Grunge;Alternative Rock;Rock",
 "The Beatles|Revolver|1966|OLAK5uy_lNtG5JNk-z_s4xVH06JXsHXwXm0StlHss|A63|Revolver (Beatles album)|The Beatles|Pop Rock;Pop;Rock",
 "The Velvet Underground & Nico|The Velvet Underground & Nico|1967|OLAK5uy_ngt5QCFCxWPcpApM_frvpcbOKJPtAKbpo|A91|The Velvet Underground & Nico|The Velvet Underground|Art Rock;Experimental Rock;Rock",
-"Marvin Gaye|What's Going On|1971|PLc60gkdW0bcFbUwumMvBpxVrFbkeRzoPf|A211|What's Going On (Marvin Gaye album)|Marvin Gaye|Soul;R&B",
+"Marvin Gaye|What's Going On|1971|OLAK5uy_l-hhzLzHi80rt_eJxbyrPt78qSNcXBMdo|A211|What's Going On (Marvin Gaye album)|Marvin Gaye|Soul;R&B",
 "The Beatles|Sgt. Pepper's Lonely Hearts Club Band|1967|OLAK5uy_kXTCtXTKA6DMJOSGKweNRGC0aoPn1iBF8|A92|Sgt. Pepper's Lonely Hearts Club Band|The Beatles|Pop Rock;Psychedelic Pop;Pop;Rock",
 "The Clash|London Calling|1979|OLAK5uy_nY4cg7X3mkJovrJebYc8GlS82gAcjsX_U|A451|London Calling|The Clash|Punk Rock;Rock",
 "Radiohead|OK Computer|1997|OLAK5uy_nEGbRK3IZ018QZqnVmZtq-0k-vtJdysnA|A991|OK Computer|Radiohead|Alternative Rock;Art Rock;Rock",
