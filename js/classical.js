@@ -847,7 +847,7 @@ const classical = [
 "Béla Bartók|Piano Concerto No. 3|1945|l7J7L53b8U0|Béla Bartók|Piano Concerto No. 3 (Bartók)",
 "Erich Wolfgang Korngold|Violin Concerto|1945|lcGEGl5bdbk|Erich Wolfgang Korngold|Violin Concerto (Korngold)",
 "Béla Bartók|Viola Concerto|1945|yu56HvCgdOU|Béla Bartók|Viola Concerto (Bartók)",
-"Frank Martin|Petite symphonie concertante|1945|hTkbjOzsLCI|Frank Martin|",
+"Frank Martin|Petite symphonie concertante|1945|hTkbjOzsLCI|Frank Martin (composer)|Petite symphonie concertante",
 "Bohuslav Martinu|Symphony No. 4|1945|2r-YJbhvhfM|Bohuslav Martinů|",
 "Dmitri Shostakovich|Symphony No. 9|1948|16MIEhqoHNI|Dmitri Shostakovich|Symphony No. 9 (Shostakovich)",
 "Richard Strauss|Metamorphosen|1945|7jwml0jevv0|Richard Strauss|Metamorphosen",
