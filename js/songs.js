@@ -2329,7 +2329,7 @@ const songs = [
 "Johnny Boy|You Are the Generation that Bought More Shoes and You Get What You Deserve|2004|qp4GdI_bTD4|Johnny Boy|S4634|Indie Pop;Pop|",
 "Kanye West|Mercy|2012|7Dqgr0wNyPo|Kanye West|S5053|Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Mercy (Kanye West song)",
 "Tommy Edwards|It's All in the Game|1958|eB_9YloCXok|Tommy Edwards|S3065|Traditional Pop;Pop|It's All in the Game (song)",
-"Louis Armstrong|St. James Infirmary|1928|QzcpUdBw7gs|Louis Armstrong|S7327|Dixieland;Vocal Jazz;Jazz|St. James Infirmary Blues",
+"Louis Armstrong|St. James Infirmary|1928|JGPvGkgbQ_E|Louis Armstrong|S7327|Dixieland;Vocal Jazz;Jazz|St. James Infirmary Blues",
 "Madonna|Beautiful Stranger|1999|Dsh0TfIKhoE|Madonna (entertainer)|S1351|Film Soundtrack;Psychedelic Pop;Descriptor;Pop;Soundtracks|Beautiful Stranger",
 "Beck|Sexx Laws|1999|IQfwgzoiq4c|Beck|S1368|Alternative Dance;Funk Rock;Alternative Rock;Dance;Rock|Sexx Laws",
 "Tears for Fears|Mad World|1982|u1ZvPSpLxCg|Tears for Fears|S3885|New Wave;Synthpop;Electronic;Pop;Rock|Change (Tears for Fears song)",
