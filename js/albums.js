@@ -286,7 +286,7 @@ const albums = [
 "Radiohead|A Moon Shaped Pool|2016|OLAK5uy_l1vVev88V56XX61im75q8VaXUjaImZ0nA|A5798|A Moon Shaped Pool|Radiohead|Art Pop;Art Rock;Chamber Pop;Baroque Pop;Indie Pop;Pop;Rock",
 "AC/DC|Highway to Hell|1979|OLAK5uy_ndtC-L5jVj2N2yhizWxXYqBnm9-5Pn9y4|A463|Highway to Hell|AC/DC|Hard Rock;Rock",
 "Queens of the Stone Age|Songs for the Deaf|2002|OLAK5uy_n91lMmHJmdGl5CqkZd_Zen6a55EnpNsao|A1627|Songs for the Deaf|Queens of the Stone Age|Alternative Rock;Stoner Rock;Hard Rock;Rock",
-"The Zombies|Odessey & Oracle|1968|PLSLhmsDEJIKhQMRC4Tv4TKveDXUFMrwUV|A145|Odessey and Oracle|The Zombies|Baroque Pop;Psychedelic Pop;Pop",
+"The Zombies|Odessey & Oracle|1968|OLAK5uy_mgYNf2YoDxbgHrWJ1n9cut7uhEFn-1Kwk|A145|Odessey and Oracle|The Zombies|Baroque Pop;Psychedelic Pop;Pop",
 "Antony and The Johnsons|I Am a Bird Now|2005|OLAK5uy_lU0kpaqldM7W3A3USymZqi6HQNjU8APRQ|A4147|I Am a Bird Now|Antony and the Johnsons|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop",
 "Eno|Another Green World|1975|OLAK5uy_kJ6pm0l3Tx-jLt0l3HP52SjaIAL6uF0-M|A340|Another Green World|Brian Eno|Art Rock;Rock",
 "Frank Sinatra|Songs for Swingin' Lovers!|1956|PLmzP977za2bLEmZwTzpMGGJAtDZOk-bud|A1803|Songs for Swingin' Lovers!|Frank Sinatra|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
