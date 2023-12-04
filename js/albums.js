@@ -1049,7 +1049,7 @@ const albums = [
 "Duke Ellington with Charles Mingus|Money Jungle and Max Roach|1963|OLAK5uy_lPvMrHepzyi_QKr_MaFVVbvo6m784eW7U|A1911|Duke Ellington & John Coltrane|Duke Ellington|Jazz",
 "Scott Walker|Tilt|1995|OLAK5uy_njHhUqsHRAta7S-mDRn7ul0rB6tLOYy50|A1606|Tilt (Scott Walker album)|Scott Walker (singer)|Experimental;Singer/Songwriter",
 "Stevie Ray Vaughan and Double Trouble|Texas Flood|1983|OLAK5uy_l3CrHmVPpKvzyqe73IotCbtt1JCSA1DUU|A598|Texas Flood|Stevie Ray Vaughan|Blues Rock;Electric Texas Blues;Blues;Electric Blues;Rock",
-"Gorillaz|Plastic Beach|2010|PLu3BJGjI3wHd2ilTSFY6Mg0mywWMbuOTr|A5071|Plastic Beach|Gorillaz|Electropop;Electronic;Pop",
+"Gorillaz|Plastic Beach|2010|OLAK5uy_mYzpOFB-6D0ooK-rCL5PuR9zjAxFIV9lo|A5071|Plastic Beach|Gorillaz|Electropop;Electronic;Pop",
 "The Costello Show|King of America|1986|OLAK5uy_kGjL5w580zRTWU_q8CVM75VVdhC120cK8|A671|King of America|Elvis Costello|Folk Rock;Pop Rock;Singer/Songwriter;Pop;Rock",
 "Rush|2112|1976|PLXPYMcRIi2fHdvKx6Orw2ux9Lpj3tsBC2|A1424|2112 (album)|Rush (band)|Hard Rock;Progressive Rock;Rock",
 "Miossec|Boire|1995|OLAK5uy_mDQKfygjq3X1NjHEVKBnoehXBoF4EVyVI|A2989|Boire|Miossec|Nouvelle chanson française;Chanson;Regional Music",
