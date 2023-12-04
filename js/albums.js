@@ -655,7 +655,7 @@ const albums = [
 "The Slits|Cut|1979|OLAK5uy_kQ1HFkFsawryfRaBddb9AwPMz_GWimTAo|A477|Cut (The Slits album)|The Slits|Post-Punk;Rock",
 "Brian Eno|Before and After Science|1977|OLAK5uy_nRhRN9GE6oNJx-Dl1bTxhZAnMrgl7MqfU|A418|Before and After Science|Brian Eno|Art Rock;Rock",
 "Bobby Bland|Two Steps from the Blues|1961|OLAK5uy_lg7YFw9CYFT0pJnxxkj_-75vsGW9RTIck|A9|Two Steps from the Blues|Bobby Bland|Rhythm & Blues;R&B",
-"Taylor Swift|1989|2014|PLrJBFu1DgTkiELowkIZWwZv0-Ufwn50QM|A5418|1989 (Taylor Swift album)|Taylor Swift|Electropop;Synthpop;Electronic;Pop",
+"Taylor Swift|1989|2014|OLAK5uy_mvRgYPh8u-KBTbU6mkGyrg5CBduos_LEY|A5418|1989 (Taylor Swift album)|Taylor Swift|Electropop;Synthpop;Electronic;Pop",
 "The Nitty Gritty Dirt Band|Will the Circle Be Unbroken|1972|OLAK5uy_mkudQRxyPOIzNAGN6HZE_8nE5T-o6ZBv0|A264|Will the Circle be Unbroken (Nitty Gritty Dirt Band album)|Nitty Gritty Dirt Band|Bluegrass;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music",
 "D'Angelo|Brown Sugar|1995|PLj0iicDFTqJr8--ztYXoBDcVfOYIGSoZr|A950|Brown Sugar (D'Angelo album)|D'Angelo|Neo-Soul;R&B;Soul",
 "Al Green|I'm Still in Love with You|1972|OLAK5uy_nIzP9Exg2R-K3D4rFeKErOSC1IzEAZWhg|A254|I'm Still in Love with You (Al Green album)|Al Green|Southern Soul;R&B;Soul",
