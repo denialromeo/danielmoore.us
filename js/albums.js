@@ -2036,7 +2036,7 @@ const albums = [
 "Aretha Franklin|Aretha Now|1968|OLAK5uy_leZ4T2I3s3yZtymM-bhizHDVfyPE2ypUI|A1238|Amazing Grace (Aretha Franklin album)|Aretha Franklin|Southern Soul;R&B;Soul",
 "Algiers|The Underside of Power|2017|OLAK5uy_nyGFuFPAkCWd_OgPnloO8J3WKy55Ci35c|A5848|The Underside of Power|Algiers (band)|Industrial Music;Post-Punk;Rock",
 "Dion|Born to Be with You|1975|PLzvFf9lFuV-cHEgPdOjb8zZfBAUKvgnsW|A1409|Born to Be with You (album)|Dion DiMucci|Baroque Pop;Pop Rock;Pop;Rock",
-"Mastodon|Crack the Skye|2009|OLAK5uy_mO7esBOtByOa6ri2uOIZurWwnqqdyoEzU|A5005|Crack the Skye|Mastodon (band)|Progressive Metal;Metal;Rock",
+"Mastodon|Crack the Skye|2009|PL6ogdCG3tAWhGTXuRCdbqHxK_EKsUEfc9|A5005|Crack the Skye|Mastodon (band)|Progressive Metal;Metal;Rock",
 "Joe Henderson|Page One|1963|OLAK5uy_kg5_qBd5vUBJ19wWOvaa69-daoztcPzCI|A1932|Page One (Joe Henderson album)|Joe Henderson|Hard Bop;Bebop;Jazz",
 "World Party|Goodbye Jumbo|1990|OLAK5uy_mxFu6KJEMQwx5YakRYGY6iEODQTvjX-3U|A798|Goodbye Jumbo|World Party|Pop Rock;Pop;Rock",
 "Wishbone Ash|Argus|1972|OLAK5uy_lRhWX9I55in_PjoGkiqKLPBHG8zgHuzJ0|A2430|Argus (album)|Wishbone Ash|Hard Rock;Progressive Rock;Rock",
