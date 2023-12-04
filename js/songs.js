@@ -6173,7 +6173,7 @@ const songs = [
 "Yves Simon|Au pays des merveilles de Juliet|1972|lnP_kAfQkpI|Yves Simon (singer)|S9106|Chanson;Regional Music|",
 "Julio Bashmore|Battle for Middle You|2011|aLqWjUWGYFA|Julio Bashmore|S7022|UK Bass;UK Funky;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "Bicep|Glue|2017|A7ZxRs45tTg|https://www.discogs.com/artist/1540289-Bicep|S16337|Breakbeat;UK Garage;Dance;Electronic;Electronic Dance Music|",
-"Louis Armstrong|Tight Like This|1929|vU1ALkLumqs|Louis Armstrong|S13228|Dixieland;Jazz|",
+"Louis Armstrong|Tight Like This|1929|uANq7w-EmEI|Louis Armstrong|S13228|Dixieland;Jazz|",
 "Blur|Music Is My Radar|2000|49FeYz2JpHo|Blur (band)|S2186|Alternative Rock;Art Rock;Rock|Music Is My Radar",
 "Charles Bradley|Changes|2016|xi49yirJiEA|Charles Bradley (singer)|S16059|Deep Soul;Psychedelic Soul;R&B;Soul;Southern Soul|Changes (Black Sabbath song)",
 "David Bowie|Kooks|1971|jCaMwqtwJTc|David Bowie|S10522|Folk Rock;Glam Rock;Pop Rock;Pop;Rock|Kooks (song)",
