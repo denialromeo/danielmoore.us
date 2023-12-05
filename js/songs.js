@@ -5625,7 +5625,7 @@ const songs = [
 "Umberto Tozzi|Gloria|1979|c1P8jDSsykc|Umberto Tozzi|S8893|Europop;Italo Pop;Pop|Gloria (Umberto Tozzi song)",
 "Adam and the Ants|Goody Two Shoes|1982|o41A91X5pns|Adam Ant|S5097|New Wave;Rock & Roll;Rock|",
 "Eddy Arnold|Bouquet of Roses|1948|BmKmXs52pks|Eddy Arnold|S4066|Country|Bouquet of Roses (song)",
-"Bob Marley and the Wailers|Buffalo Soldier|1983|uMUQMSXLlHM|Bob Marley|S5563|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
+"Bob Marley and the Wailers|Buffalo Soldier|1983|uMUQMSXLlHM|Bob Marley|S5563|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Buffalo Soldier (song)",
 "El Último de la Fila|Insurrección|1986|IQAKaLZLl7w|El Último de la Fila|S6218|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Garbage|Push It|1998|Pmd3UiNfNkA|Garbage (band)|S6499|Alternative Rock;Rock|Push It (Garbage song)",
 "Betty Everett|It's in His Kiss (The Shoop-Shoop Song)|1963|B4KN6TFhy2I|Betty Everett|S1047|Pop Soul;Pop;R&B;Soul|",
