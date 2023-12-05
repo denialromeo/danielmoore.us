@@ -1040,7 +1040,7 @@ const albums = [
 "Elliott Smith|From a Basement on the Hill|2004|OLAK5uy_m--KBMJFHrHEEDv4LMHUA8LEUj672ByOs|A4065|From a Basement on the Hill|Elliott Smith|Indie Rock;Singer/Songwriter;Alternative Rock;Rock",
 "Junior Wells' Chicago Blues Band|Hoodoo Man Blues|1965|OLAK5uy_nWka2S1PiXr5vJozMDjZS03lEhVRXzT0M|A48|Hoodoo Man Blues|Junior Wells|Chicago Blues;Blues;Electric Blues",
 "Los Lobos|How Will the Wolf Survive?|1984|OLAK5uy_kt5BFDajnt_JH6hJp6z48JrvmxLEKKxow|A617|How Will the Wolf Survive%3F|Los Lobos|Tex-Mex;Rock;Roots Rock",
-"The Beta Band|The Three EP's|1998|OLAK5uy_nd4zPVyWELtA7n7_Vj6BHsZ-VCZFSkF3Y|A1042|The_Three_E.P.%27s|The Beta Band|Indie Rock;Alternative Rock;Rock",
+"The Beta Band|The Three EP's|1998|OLAK5uy_mgh1euTfsYZ4qpKYW1K22ITyNC89_rNtI|A1042|The_Three_E.P.%27s|The Beta Band|Indie Rock;Alternative Rock;Rock",
 "Bill Callahan|Sometimes I Wish We Were an Eagle|2009|OLAK5uy_nCkXxWMYLk3FcwbIMb18O0lMxxEdb4Q_c|A4998|Sometimes I Wish We Were an Eagle|Bill Callahan (musician)|Alt-Country;Singer/Songwriter;Country",
 "Le Mystère des Voix Bulgares|Le Mystère des Voix Bulgares|1975|OLAK5uy_n9yg2yxV-5qM6alw4Qwt9NVVGHTp1NshY|A2047|Le Mystère des Voix Bulgares|Bulgarian State Television Female Vocal Choir|Bulgarian Folk Music;Balkan Folk Music;Balkan Music;European Folk Music;Folk;Regional Music;Slavic Folk Music;Traditional Folk Music",
 "Steve Earle|Guitar Town|1986|OLAK5uy_m1AVlwrQJR2E4xzQEeN8FgHZih3kdnDo4|A690|Guitar Town|Steve Earle|Alt-Country;Country Rock;Country;Rock",
