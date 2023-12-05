@@ -1897,7 +1897,7 @@ const albums = [
 "Planxty|Planxty|1973|OLAK5uy_nQ2TkzzPR7bxdnEXGU6Tqo1nDZfPo_xzQ|A2448|Planxty (album)|Planxty|Irish Folk Music;Celtic Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music",
 "Aaliyah|Aaliyah|2001|OLAK5uy_nqlpDp3QeMv24mPkwvx2Wa0uwaYIcVhW8|A3881|Aaliyah (album)|Aaliyah|Contemporary R&B;Pop;R&B",
 "Real Estate|Days|2011|OLAK5uy_nQcQmAEi82I0oCKblI1-bQ5gveKFeYxEI|A5166|Days (album)|Real Estate (band)|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
-"The Pains of Being Pure at Heart|The Pains of Being Pure at Heart|2009|OLAK5uy_kh8ZFcFHH7BTvIGxqYJObMwDaNG9Sd7rM|A4996|The Pains of Being Pure at Heart (album)|The Pains of Being Pure at Heart|Twee Pop;Indie Pop;Pop",
+"The Pains of Being Pure at Heart|The Pains of Being Pure at Heart|2009|OLAK5uy_mYEVR7wSrMv8LjqMp8rPAUrSQhkHZ-xHA|A4996|The Pains of Being Pure at Heart (album)|The Pains of Being Pure at Heart|Twee Pop;Indie Pop;Pop",
 "The Jayhawks|Tomorrow the Green Grass|1995|OLAK5uy_kqRT_WukJfQT0i9d5p3zXchUaAp4Hqq88|A958|Tomorrow the Green Grass|The Jayhawks|Alt-Country;Americana;Country",
 "808 State|Newbuild|1988|PLah_-5NuaeJGn41fmp5CuQAOR6jK20L-5|A3225|Newbuild (album)|808 State|Acid House;Dance;Electronic;Electronic Dance Music;House",
 "Muddy Waters|Folk Singer|1964|OLAK5uy_lhgXpmLphS_Y4pT17W2J1x5OWnua2M1EI|A1293|Folk Singer (album)|Muddy Waters|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music",
