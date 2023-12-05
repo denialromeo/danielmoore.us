@@ -2042,7 +2042,7 @@ const albums = [
 "Wishbone Ash|Argus|1972|OLAK5uy_lRhWX9I55in_PjoGkiqKLPBHG8zgHuzJ0|A2430|Argus (album)|Wishbone Ash|Hard Rock;Progressive Rock;Rock",
 "Vashti Bunyan|Just Another Diamond Day|1970|OLAK5uy_niAQbVlOKbtFI6OeAmDN1sPbRuddT8fbA|A2342|Just Another Diamond Day|Vashti Bunyan|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Slowdive|Souvlaki|1993|OLAK5uy_kL4-koXbPqeBxIGNoPO5d60Lb0o5cuUAA|A4790|Souvlaki (album)|Slowdive|Dream Pop;Shoegaze;Alternative Rock;Rock",
-"The Byrds|Turn! Turn! Turn!|1965|PLz6cAheObZchZtbIQBQQOOIb1ebKjODMF|A57|Turn! Turn! Turn!|The Byrds|Folk Rock;Pop Rock;Pop;Rock",
+"The Byrds|Turn! Turn! Turn!|1965|PLL-NbN8uTOigsM1f3D5J2BfTQUNyXkjUJ|A57|Turn! Turn! Turn!|The Byrds|Folk Rock;Pop Rock;Pop;Rock",
 "Sam & Dave|Soul Men|1967|OLAK5uy_lJJtTVNdWUG_nhzrjscBln4H5wwP6VOL8|A2171|Soul Men (album)|Sam & Dave|Southern Soul;R&B;Soul",
 "The Mighty Diamonds|Right Time|1976|OLAK5uy_kK3AGuCxCS9piZ0WLytgZlZjrzreTl6_0|A1416|Right Time|Mighty Diamonds|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Common|Be|2005|OLAK5uy_nDEj1P3Bk0qNAWGEWG3R1nuW3BbDiaJmk|A4184|Be (Common album)|Common (rapper)|Conscious Hip Hop;Hip Hop",
