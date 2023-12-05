@@ -1193,7 +1193,7 @@ const albums = [
 "Dolly Parton|Coat of Many Colors|1971|OLAK5uy_k5QFQ8QgmhwVunSjQKYiJqtBROA__CB8E|A2385|Coat of Many Colors|Dolly Parton|Country",
 "Morrissey|You Are the Quarry|2004|OLAK5uy_nsWMysU-Xuzl3GMmcP_N25VGCeSsUcQRM|A4080|You Are the Quarry|Morrissey|Alternative Rock;Pop Rock;Pop;Rock",
 "Paul and Linda McCartney|Ram|1971|PLJBNO_2F3argG3iNTJpgXxhLGac3vkm6d|A1140|Ram (album)|Linda McCartney|Pop Rock;Pop;Rock",
-"Grandmaster Flash and The Furious Five|The Message|1982|PLI_ALvbIIw8PLp39CBA0ay4NUUfr8Mn2a|A1689|The Message (Grandmaster Flash and the Furious Five album)|Grandmaster Flash and the Furious Five|Disco Rap;Hip Hop",
+"Grandmaster Flash and The Furious Five|The Message|1982|OLAK5uy_kGpqnptmqBgXZCiL8GF-LFoSokjbhVVzs|A1689|The Message (Grandmaster Flash and the Furious Five album)|Grandmaster Flash and the Furious Five|Disco Rap;Hip Hop",
 "Faith No More|Angel Dust|1992|OLAK5uy_ndtPuMt8e6TOdYs0iO7dGA6zUNTCO5Ckw|A1565|Angel Dust (Faith No More album)|Faith No More|Alternative Metal;Alternative Rock;Metal;Rock",
 "Mott the Hoople|All the Young Dudes|1972|OLAK5uy_n3o9dSd5F3v8d4NDQ3oVSwcYn7ZunVZ38|A1180|All the Young Dudes (album)|Mott the Hoople|Glam Rock;Rock",
 "Jefferson Airplane|Volunteers|1969|OLAK5uy_lISo2IXu6GHY3N-UNMocMuPDXRP2x5HsM|A1227|Volunteers (Jefferson Airplane album)|Jefferson Airplane|Folk Rock;Psychedelic Rock;Yacht Rock;Pop;Pop Rock;Rock",
