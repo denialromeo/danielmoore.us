@@ -2395,7 +2395,7 @@ const albums = [
 "Van Morrison|Into the Music|1979|OLAK5uy_kE6rlL7QifU6pAgu2gyJyseH44fd4DIXQ|A468|Into the Music|Van Morrison|Folk Rock;Singer/Songwriter;Rock",
 "Korn|Follow the Leader|1998|OLAK5uy_lN3gSClGJU--GAHceqHudhjb4id44kPY4|A3726|Follow the Leader (Korn album)|Korn|Nu Metal;Alternative Metal;Metal;Rock",
 "Suzanne Vega|Solitude Standing|1987|OLAK5uy_msO7Lh05VetvLvh0-ZLZffJTAwL4pJSdw|A3333|Solitude Standing|Suzanne Vega|Pop Rock;Singer/Songwriter;Pop;Rock",
-"Otis Redding/The Jimi Hendrix Experience|Historic Performances Recorded at the Monterey International Pop Festival|1970|PL8j2Ud5lrvRKMwayBPZv0wI8OEEd8-RwZ|A1336|Historic Performances Recorded at the Monterey International Pop Festival|Jimi Hendrix|Blues Rock;Psychedelic Rock;Soul;R&B;Rock",
+"Otis Redding/The Jimi Hendrix Experience|Historic Performances Recorded at the Monterey International Pop Festival|1970|PL1X3qTzT40Vnntw9ahFPOU-KHg3ZjB91e|A1336|Historic Performances Recorded at the Monterey International Pop Festival|Jimi Hendrix|Blues Rock;Psychedelic Rock;Soul;R&B;Rock",
 "Danny Brown|Old|2013|PLxjkwclpxxIyQ3IGa8EPPGRwSfu_yqBDY|A5283|Old (Danny Brown album)|Danny Brown|Hardcore Hip Hop;Hip Hop",
 "Glasvegas|Glasvegas|2008|PLb3nKaB6PMJj_EJOUYQaM3N_UtoX45s_L|A4348|Glasvegas (album)|Glasvegas|Indie Rock;Alternative Rock;Rock",
 "Shabazz Palaces|Lese Majesty|2014|OLAK5uy_lCR8wQ5ZhRYhIxXzK4XAHR7o1kmzfFXMY|A5415|Lese Majesty (album)|Shabazz Palaces|Abstract Hip Hop;Experimental Hip Hop;Hip Hop",
