@@ -7888,7 +7888,7 @@ const songs = [
 "Megadeth|Peace Sells|1986|aiQpRQeIiHY|Megadeth|S7502|Thrash Metal;Metal;Rock|Peace Sells",
 "Westerman|Confirmation|2018|Ch1lNNwwa90|https://www.discogs.com/artist/6360693-Westerman-2|S16620|Art Pop;Dream Pop;Alternative Rock;Pop;Rock|",
 "The Kinks|Till the End of the Day|1965|Ua8OsW9bMk0|The Kinks|S7119|Garage Rock;Mod;Rock|Till the End of the Day",
-"Master P|Make 'Em Say Uhh!|1997|D2q0erDlPEU|Master P|S11571|Southern Hip Hop;Hip Hop|Make 'Em Say Uhh!",
+"Master P|Make 'Em Say Uhh!|1997|bQSHAfzU5ks|Master P|S11571|Southern Hip Hop;Hip Hop|Make 'Em Say Uhh!",
 "The Jimi Hendrix Experience|If 6 Was 9|1967|Zhrcf0szbXg|Jimi Hendrix|S11202|Blues Rock;Psychedelic Rock;Rock|Fire (The Jimi Hendrix Experience song)",
 "America|Ventura Highway|1972|tnV7dTXlXxs|America (band)|S9984|Folk Pop;Folk Rock;Soft Rock;Contemporary Folk;Folk;Pop;Pop Rock;Rock|Ventura Highway",
 "Elvis Presley|Good Luck Charm|1962|Z0gx4kPDW0w|Elvis Presley|S6262|Pop Rock;Rock & Roll;Pop;Rock|Good Luck Charm",
