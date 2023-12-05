@@ -1,7 +1,7 @@
 const albums = [ 
 "The Beach Boys|Pet Sounds|1966|OLAK5uy_mJN3N2XYKY6P2RpKP_-Zk20HwDSewNAYY|A62|Pet Sounds|The Beach Boys|Baroque Pop;Pop",
 "Nirvana|Nevermind|1991|OLAK5uy_nN3UV5AlNbRP9di-cmgC-ACgL8JLK6jGk|A811|Nevermind|Kurt Cobain|Grunge;Alternative Rock;Rock",
-"The Beatles|Revolver|1966|OLAK5uy_lNtG5JNk-z_s4xVH06JXsHXwXm0StlHss|A63|Revolver (Beatles album)|The Beatles|Pop Rock;Pop;Rock",
+"The Beatles|Revolver|1966|OLAK5uy_n9q-ezB2RZF1WS7PR3h3drrTgNCf-DRSk|A63|Revolver (Beatles album)|The Beatles|Pop Rock;Pop;Rock",
 "The Velvet Underground & Nico|The Velvet Underground & Nico|1967|OLAK5uy_ngt5QCFCxWPcpApM_frvpcbOKJPtAKbpo|A91|The Velvet Underground & Nico|The Velvet Underground|Art Rock;Experimental Rock;Rock",
 "Marvin Gaye|What's Going On|1971|OLAK5uy_l-hhzLzHi80rt_eJxbyrPt78qSNcXBMdo|A211|What's Going On (Marvin Gaye album)|Marvin Gaye|Soul;R&B",
 "The Beatles|Sgt. Pepper's Lonely Hearts Club Band|1967|OLAK5uy_kXTCtXTKA6DMJOSGKweNRGC0aoPn1iBF8|A92|Sgt. Pepper's Lonely Hearts Club Band|The Beatles|Pop Rock;Psychedelic Pop;Pop;Rock",
@@ -11,7 +11,7 @@ const albums = [
 "The Rolling Stones|Exile on Main St.|1972|OLAK5uy_mlSgwMnHtgteaiw5pjyjZFc6T2Y8BX7bw|A241|Exile on Main St.|The Rolling Stones|Blues Rock;Rock",
 "Bob Dylan|Highway 61 Revisited|1965|PLXRKTcRs-Xs7rr36o5_Cs7fBn8B7KsmRG|A31|Highway 61 Revisited|Bob Dylan|Folk Rock;Singer/Songwriter;Rock",
 "Sex Pistols|Never Mind the Bollocks - Here's the Sex Pistols|1977|OLAK5uy_nVIN3eJ40u07IXPL_3LzV5KMl_B6AXHyE|A391|Never Mind the Bollocks, Here's the Sex Pistols|Sex Pistols|Punk Rock;Rock",
-"The Beatles|White Album|1968|OLAK5uy_mMcxAy3_NLEnsuSq9I_qWIONOpdRfWlWw|A122|The Beatles (album)|The Beatles|Pop Rock;Pop;Rock",
+"The Beatles|White Album|1968|OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI|A122|The Beatles (album)|The Beatles|Pop Rock;Pop;Rock",
 "The Jimi Hendrix Experience|Are You Experienced|1967|OLAK5uy_nDSwZRsfyAwg6G0nBW7oleWiz41Z7OezU|A93|Are You Experienced|Jimi Hendrix|Acid Rock;Blues Rock;Psychedelic Rock;Rock",
 "Van Morrison|Astral Weeks|1968|OLAK5uy_n7XQ-d3Nwn06S0JZO-9KcuqQyYxvf-iQw|A121|Astral Weeks|Van Morrison|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Bruce Springsteen|Born to Run|1975|OLAK5uy_nZs0gvllzGn7y9-5OuorN7W37HPrPGrn8|A331|Born to Run|Bruce Springsteen|Heartland Rock;Rock",
