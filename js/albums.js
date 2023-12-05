@@ -1211,7 +1211,7 @@ const albums = [
 "Bob Dylan|Oh Mercy|1989|OLAK5uy_nrg3q95iN3w1vwHQKFCJ4YJ52AxRTgqcI|A754|Oh Mercy|Bob Dylan|Folk Rock;Pop Rock;Singer/Songwriter;Pop;Rock",
 "U2|All That You Can't Leave Behind|2000|OLAK5uy_lVdueWc8yDa60f31gnE1Jyr3oIdKU3xtc|A1094|All That You Can't Leave Behind|U2|Pop Rock;Pop;Rock",
 "Joe Jackson|Look Sharp!|1979|OLAK5uy_m1App3XZeVi3mtSHPTbvzIWQCyj0WAIo4|A480|Look Sharp! (Joe Jackson album)|Joe Jackson (musician)|New Wave;Power Pop;Pop;Pop Rock;Rock",
-"Pharoah Sanders|Karma|1969|OLAK5uy_l9sQvojH3P7cXLzXia1ba3bU3EudvIhw0|A2600|Karma (Pharoah Sanders album)|Pharoah Sanders|Spiritual Jazz;Avant-Garde Jazz;Jazz",
+"Pharoah Sanders|Karma|1969|PL1X3qTzT40VloPz1yWspqhh68Y5pMJkIX|A2600|Karma (Pharoah Sanders album)|Pharoah Sanders|Spiritual Jazz;Avant-Garde Jazz;Jazz",
 "Donovan|Sunshine Superman|1966|PLL-NbN8uTOihUvmYNHVj7eqep_ddtm_ne|A78|Sunshine Superman (album)|Donovan|Psychedelic Folk;Psychedelic Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop",
 "The Specials|More Specials|1980|OLAK5uy_nZBLVXh5dsx1qgtdOehF_yrE00gCdTaXo|A2825|More Specials|The Specials|2 Tone;Ska",
 "Blondie|Blondie|1976|OLAK5uy_mT96ExWy1z8tYKMcKakqKGZ6Se7GXdODc|A381|Blondie (album)|Debbie Harry|New Wave;Rock",
