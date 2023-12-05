@@ -1784,7 +1784,7 @@ const albums = [
 "Erykah Badu|Mama's Gun|2000|OLAK5uy_nVbTkMueWi85QST59zL7qC8TFeUwmtzCA|A4879|Mama's Gun|Erykah Badu|Neo-Soul;R&B;Soul",
 "The Cult|Love|1985|OLAK5uy_miYpccjI7afJK7QxyzrRpt_N-RbqRyDvo|A3056|Love (The Cult album)|The Cult|Alternative Rock;Post-Punk;Rock",
 "Charles Mingus|Mingus Mingus Mingus Mingus Mingus|1964|OLAK5uy_k9qD6rwcnXdKcKINWLEruWVjarV727nsM|A1933|Mingus Mingus Mingus Mingus Mingus|Charles Mingus|Post-Bop;Bebop;Jazz",
-"Coil|Horse Rotorvator|1986|PL10DEC90A47163804|A3117|Horse Rotorvator|Coil (band)|Industrial;Experimental;Industrial Music",
+"Coil|Horse Rotorvator|1986|PLj83GpwkJx-3DdK0B7TFi8AzlGad73A9K|A3117|Horse Rotorvator|Coil (band)|Industrial;Experimental;Industrial Music",
 "The Sugarcubes|Life's Too Good|1988|OLAK5uy_nOTsHrDhJgWXPlBHmGyrUxiGnDwXWWkVM|A745|Life's Too Good|The Sugarcubes|Alternative Rock;Post-Punk;Rock",
 "The Flaming Lips|Zaireeka|1997|OLAK5uy_moP2d9WwAAYwE9YANls_rLwrGEm2ZrZkg|A3674|Zaireeka|The Flaming Lips|Experimental Rock;Neo-Psychedelia;Psychedelic Rock;Rock",
 "CHVRCHES|The Bones of What You Believe|2013|OLAK5uy_lUd3UwhcdZ2mxJ4Kgko9PQc8xtBnzBYQ4|A5290|The Bones of What You Believe|Chvrches|Electropop;Synthpop;Electronic;Pop",
