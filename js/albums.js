@@ -1176,7 +1176,7 @@ const albums = [
 "Fugazi|The Argument|2001|OLAK5uy_lpgLAeRnh4yrCqeGJOKcELP0oeu7hRbxU|A1198|The Argument|Fugazi|Indie Rock;Post-Hardcore;Alternative Rock;Punk Rock;Rock",
 "The Allman Brothers Band|Eat a Peach|1972|OLAK5uy_kbxCWOX-pVVYnbuquo6tNjaBZF-qyc9dk|A1363|Eat a Peach|The Allman Brothers Band|Blues Rock;Jam Band;Southern Rock;Rock",
 "Raekwon|Only Built 4 Cuban Linx... Pt II|2009|OLAK5uy_lpozztJNmati-Fk7P5XPcOanclFza9vJg|A5007|Only Built 4 Cuban Linx... Pt. II|Raekwon|Hardcore Hip Hop;Hip Hop",
-"Minor Threat|Out of Step EP|1983|OLAK5uy_k02Gy4M5XFbBJQc8ENgG1aiuzVu9MkQx0|A2964|Minor Threat (album)|Minor Threat|Hardcore Punk;Punk Rock;Rock",
+"Minor Threat|Out of Step|1983|OLAK5uy_k02Gy4M5XFbBJQc8ENgG1aiuzVu9MkQx0|A2964|Out of Step (album)|Minor Threat|Hardcore Punk;Punk Rock;Rock",
 "Joe Cocker|Mad Dogs and Englishmen|1970|OLAK5uy_l9QGAunBIiVf3vjc4FGRDvOBYq86QSRLQ|A1255|Mad Dogs & Englishmen (album)|Joe Cocker|Blue Eyed Soul;Rhythm & Blues;Rock;Pop;R&B",
 "Fred Neil|Fred Neil|1966|OLAK5uy_mgCP-GHkrKqnCkp9Y8cqiwffHCSV6hhqg|A1296|Fred Neil (album)|Fred Neil|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock",
 "Blues Explosion|Orange|1994|OLAK5uy_nschsh_d8TruDKOdEIWQpHPVd3ZFiPJw0|A928|Orange (Jon Spencer Blues Explosion album)|Jon Spencer Blues Explosion|Garage Punk;Punk Blues;Garage Rock;Punk Rock;Rock",
