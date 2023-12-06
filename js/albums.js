@@ -2118,7 +2118,7 @@ const albums = [
 "Nick Cave and The Bad Seeds|No More Shall We Part|2001|OLAK5uy_kXl4e87cdnJm9KOQLh2Gb5Pgjb8ycjxyE|A1212|No More Shall We Part|Nick Cave and the Bad Seeds|Singer/Songwriter",
 "Womack and Womack|Love Wars|1983|OLAK5uy_lt1rhIA-t07z4v0FdUUgnbZBwoXoS3fNM|A590|Love Wars|Womack & Womack|Soul;R&B",
 "Anthrax|Among the Living|1987|OLAK5uy_m33WI9cPaRX0NY0E4Wgl8pL-iNWbZDtGA|A3179|Among the Living|Anthrax (American band)|Thrash Metal;Metal;Rock",
-"Michael Hurley/The Unholy Modal Rounders/Jeffrey Fredericks & The Clamtones|Have Moicy!|1976|PLA6J6l_aJK4aSwVPmhU1dQRUuyfKcQNv2|A1420|Have Moicy!|Michael Hurley (musician)|Contemporary Folk;Folk",
+"Michael Hurley|Have Moicy!|1976|OLAK5uy_nYmC1CjTzgtmwUVsiAyTrAffffhx9IAbw|A1420|Have Moicy!|Michael Hurley (musician)|Contemporary Folk;Folk",
 "Jorge Ben|África Brasil|1976|OLAK5uy_nx7x05rbTmujqqNBPDnHQl-F5OJEE6ghQ|A2021|África Brasil|Jorge Ben|Funk;MPB;Samba-Rock;Brazilian Music;R&B;Regional Music;Samba",
 "These New Puritans|Hidden|2010|OLAK5uy_ncnkpzu5czBjSmFp2dWc26D5wDET6WFZM|A5111|Hidden (These New Puritans album)|These New Puritans|Post-Punk;Rock",
 "The Dismemberment Plan|Change|2001|OLAK5uy_lWtxgH3R7Fa_ALHf8O1NmIH4fmH9pLSwI|A3036|Change (The Dismemberment Plan album)|The Dismemberment Plan|Indie Rock;Alternative Rock;Rock",
