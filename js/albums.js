@@ -906,7 +906,7 @@ const albums = [
 "Tito Puente|Dance Mania|1958|PLowQCq3Ss89jCvspYiBk8pEhrpzVUVkKR|A1849|Dance Mania (album)|Tito Puente|Guaguancó;Mambo;Cuban Music;Cuban Rumba;Hispanic Music;Latin American Music;Regional Music",
 "Charles Mingus|Pithecanthropus Erectus|1956|OLAK5uy_kbmwbMIfhLqI6Be1WdORzwujdeGPpXcb0|A1797|Pithecanthropus Erectus (album)|Charles Mingus|Post-Bop;Bebop;Jazz",
 "Frankie Goes to Hollywood|Welcome to the Pleasuredome|1984|OLAK5uy_kgP8in2fUSz0PCb0gPnhcZyNWOMrRiDBI|A607|Welcome to the Pleasuredome|Frankie Goes to Hollywood|New Wave;Synthpop;Electronic;Pop;Rock",
-"Elastica|Elastica|1995|OLAK5uy_kZw4nYrw-tYmncX5Oppwablq-wQFXVMUc|A935|Elastica (album)|Elastica|Britpop;Indie Rock;Alternative Rock;Pop;Pop Rock;Rock",
+"Elastica|Elastica|1995|OLAK5uy_kRibsJ6xOGWp2FcBwX_Hffq5fhRg6-3VY|A935|Elastica (album)|Elastica|Britpop;Indie Rock;Alternative Rock;Pop;Pop Rock;Rock",
 "De La Soul|De La Soul Is Dead|1991|OLAK5uy_m0H5jtq0APDsQnQ4zusOB9aYKr1eA7UhA|A1559|De La Soul Is Dead|De La Soul|Conscious Hip Hop;Hip Hop",
 "Linda Ronstadt|Heart Like a Wheel|1974|OLAK5uy_mKCp9WeV8wvT6I5sa4GwfVF5nBQUK5UME|A311|Heart Like a Wheel|Linda Ronstadt|Country Rock;Soft Rock;Pop;Pop Rock;Rock",
 "LCD Soundsystem|American Dream|2017|OLAK5uy_n0oTHvVLeTp5BYugnhljMrpnvrIAuUNyc|A5936|American Dream (LCD Soundsystem album)|LCD Soundsystem|Dance-Punk;New Wave;Post-Punk;Rock",
