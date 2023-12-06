@@ -164,7 +164,7 @@ const albums = [
 "Kate Bush|Hounds of Love|1985|OLAK5uy_myrEBs-bnmBCDOAk1wn5nPvJ2gs88dlE8|A635|Hounds of Love|Kate Bush|Art Pop;Progressive Pop;Pop",
 "Blur|Parklife|1994|OLAK5uy_kc9Y8ZFQxQB_vSByLJELvSOgE3ydwnPQA|A903|Parklife|Blur (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "Daft Punk|Homework|1997|OLAK5uy_mEsIguFz_qxWaG4BoK1NAR2lhytSdyoEU|A1005|Homework (Daft Punk album)|Daft Punk|French House;Dance;Electronic;Electronic Dance Music;House",
-"Pink Floyd|The Wall|1979|OLAK5uy_nE3dmeYl_9Jgv2CT0aqufkDcyB6BBMcGM|A466|Pink Floyd – The Wall|Pink Floyd|Art Rock;Progressive Rock;Rock Opera;Rock",
+"Pink Floyd|The Wall|1979|OLAK5uy_nE3dmeYl_9Jgv2CT0aqufkDcyB6BBMcGM|A466|The Wall|Pink Floyd|Art Rock;Progressive Rock;Rock Opera;Rock",
 "Solange|A Seat at the Table|2016|OLAK5uy_nsxO5SLNvFyBlnbnws51VTk0bG4eBNQys|A5808|A Seat at the Table|Solange Knowles|Neo-Soul;R&B;Soul",
 "Arctic Monkeys|Whatever People Say I Am, That's What I'm Not|2006|OLAK5uy_nbQ-Z3A6g3hfs2F5tpbNLjdiZ8H6S4U7U|A2075|Whatever People Say I Am, That's What I'm Not|Arctic Monkeys|Indie Rock;Alternative Rock;Rock",
 "Nas|Illmatic|1994|OLAK5uy_mfR8HPzH9f-VXdBe40SF3iRxcrLRvFg30|A929|Illmatic|Nas|Boom Bap;Hardcore Hip Hop;Hip Hop",
