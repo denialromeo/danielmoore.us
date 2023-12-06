@@ -62,7 +62,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>Even further (still in progress) &ndash;</p>
     <ul>
         <li>The early 19th century's most influential people included Napoleon Bonaparte, Toussaint Louverture, Michael Faraday, Samuel Morse, and Charles Dickens.</li>
-        <li>The 18th century's most influential people included Robert Clive, George Washington, Maximilien Robespierre, and Thomas Newcomen.</li>
+        <li>The 18th century's most influential people included Robert Clive, George Washington, Maximilien Robespierre, Adam Smith, and Thomas Newcomen.</li>
     </ul>
 </div>
 
