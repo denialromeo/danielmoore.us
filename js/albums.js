@@ -1433,7 +1433,7 @@ const albums = [
 "Neil Young & Crazy Horse|Live Rust|1979|OLAK5uy_mdmelGMrFeHwB855y-qXZZgF1QtM2cpd4|A2774|Live Rust|Neil Young|Country Rock;Singer/Songwriter;Rock",
 "Astor Piazzolla|Tango: Zero Hour|1986|OLAK5uy_lr5ckmBjxrhndK8vTAsNl00ZLzn-3tBPw|A3128|Tango: Zero Hour|Astor Piazzolla|Tango Nuevo;Hispanic Music;Latin American Music;Regional Music;Tango",
 "Frank Sinatra|September of My Years|1965|OLAK5uy_mgV39PPPQeTEn8LiUCKtZ1UHU9GLo2WeQ|A1959|September of My Years|Frank Sinatra|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
-"Michel Polnareff|Polnareff's|1971|PLnI0OmWSL5VDg6YwK4wRP-qgAQwzY_nhW|A2390|Polnareff's|Michel Polnareff|Baroque Pop;French Pop;Pop",
+"Michel Polnareff|Polnareff's|1971|OLAK5uy_l-Gml8Yvpj0iAoxHK0SxPIvk2Lp6DWj0A|A2390|Polnareff's|Michel Polnareff|Baroque Pop;French Pop;Pop",
 "Lambchop|Nixon|2000|OLAK5uy_lDSY-Ws0skxXGw8iQomrn61iVoZTcl_U8|A1089|Nixon (album)|Lambchop (band)|Chamber Pop;Baroque Pop;Indie Pop;Pop",
 "Jackson Browne|Jackson Browne (Saturate Before Using)|1972|OLAK5uy_m1wF33UQXt-6ctK04OZK28PAbut6rUj9c|A1364|Jackson Browne (album)|Jackson Browne|Singer/Songwriter",
 "Jerry Lee Lewis|Jerry Lee Lewis|1958|PLVvs250yQiIA-s8Nv4GOscUd2ipUYP1CJ|A2261|Jerry Lee Lewis (album)|Jerry Lee Lewis|Rock & Roll;Rock",
