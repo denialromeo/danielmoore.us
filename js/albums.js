@@ -2606,7 +2606,7 @@ const albums = [
 "Willie Dixon|I Am the Blues|1970|OLAK5uy_lEIfGT3y9IjJ3BNvdzI0EPRU6MnCnVNLU|A4492|I Am the Blues|Willie Dixon|Chicago Blues;Blues;Electric Blues",
 "The Rolling Stones|Their Satanic Majesties Request|1967|OLAK5uy_k7sFpByf4WGIs459jSJrpmvXWbUhasQFo|A4465|Their Satanic Majesties Request|The Rolling Stones|Psychedelic Pop;Psychedelic Rock;Pop;Rock",
 "Neurosis|Through Silver in Blood|1996|OLAK5uy_nO7k9Gm9CNJqiK93PJWDPp1pOb9ex6LHs|A2997|Through Silver in Blood|Neurosis (band)|Atmospheric Sludge Metal;Metal;Rock;Sludge Metal",
-"Jeff Buckley|Sketches for My Sweetheart the Drunk|1998|PLubaifwtWlQ_np_8_0zhUngvvc_SAV7_y|A1620|Sketches for My Sweetheart the Drunk|Jeff Buckley|Alternative Rock;Singer/Songwriter;Rock",
+"Jeff Buckley|Sketches for My Sweetheart the Drunk|1998|OLAK5uy_ldOxrAvUzGSRlECfMmPTcbX7Tc44dKtqc|A1620|Sketches for My Sweetheart the Drunk|Jeff Buckley|Alternative Rock;Singer/Songwriter;Rock",
 "The Darkness|Permission to Land|2003|OLAK5uy_mLpzLgFoHOVNuUv_xBGKmYeipfMue8_6s|A4003|Permission to Land|The Darkness (band)|Hard Rock;Rock",
 "Keith Richards|Talk Is Cheap|1988|OLAK5uy_kAnNLaBcCb6r_xDRBB_7rbDxHPxZ48xZM|A747|Talk Is Cheap|Keith Richards|Blues Rock;Rock",
 "Blackalicious|Blazing Arrow|2002|OLAK5uy_mdFgM_kU3yZv5ZtjismKFou6DSIhqqKxQ|A3902|Blazing Arrow|Blackalicious|Conscious Hip Hop;Hip Hop",
