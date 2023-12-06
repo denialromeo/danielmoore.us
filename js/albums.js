@@ -2790,7 +2790,7 @@ const albums = [
 "The Gabby Pahinui Hawaiian Band|The Gabby Pahinui Hawaiian Band|1975|OLAK5uy_k4r1ArM_Q42xQExIN-no5D7-C_ECx83ds|A2704|Gabby Pahinui|Gabby Pahinui|Slack-Key Guitar;Hawaiian Music;Polynesian Music;Regional Music",
 "Oasis|Be Here Now|1997|OLAK5uy_k3-e2D3C78sDjuvrAixBK2NvXc4QNONag|A1011|Be Here Now (album)|Oasis (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "Echo and the Bunnymen|Porcupine|1983|OLAK5uy_nDuEZ86TMviYaHlqmXj8pyMdE-nHmvBkk|A595|Echo & the Bunnymen (album)|Echo & the Bunnymen|Post-Punk;Rock",
-"Ali Farka Touré|The River|1990|PLetv3SCC-r3aIIYw89HKH8-1vngYpgYf3|A4758|The River (Ali Farka Touré album)|Ali Farka Touré|Mande Music;Songhai Music;African Music;Regional Music;West African Music",
+"Ali Farka Touré|The River|1990|OLAK5uy_kwg1wzudTpbsgtD_fGMUaz8h2rbn0WmIw|A4758|The River (Ali Farka Touré album)|Ali Farka Touré|Mande Music;Songhai Music;African Music;Regional Music;West African Music",
 "Cameo|Word Up!|1986|OLAK5uy_kg3pouRyHsrDsPB9CWQMxB3I3adjuDXlQ|A682|Word Up! (album)|Cameo (band)|Contemporary R&B;Synth Funk;Funk;R&B",
 "Simply Red|Picture Book|1985|OLAK5uy_msPfSwupLZj8kAmNJyarKARd9taxh8Ebk|A656|Picture Book (Simply Red album)|Simply Red|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul",
 "SBTRKT|SBTRKT|2011|OLAK5uy_n5h-Iqdogy6kMId3BriCkKjgr09dgRwto|A5169|Sbtrkt (album)|Sbtrkt|Future Garage;Dance;Electronic;Electronic Dance Music;UK Garage",
