@@ -790,7 +790,7 @@ const albums = [
 "Grace Jones|Nightclubbing|1981|OLAK5uy_m7geWgV15WtzQKMIeTSiaYqXbUVKmUbug|A515|Nightclubbing (Grace Jones album)|Grace Jones|Art Pop;Dance-Pop;Sophisti-Pop;Dance;Pop",
 "The Doors|Strange Days|1967|OLAK5uy_l-m_4SAE-T_VC8HHIDePvu3FRkbRfLNu8|A101|Strange Days (The Doors album)|The Doors|Psychedelic Rock;Rock",
 "Buzzcocks|Another Music in a Different Kitchen|1978|OLAK5uy_meARJDYF0eah2XmlL1hvnOvliKJrtXgvg|A446|Another Music in a Different Kitchen|Buzzcocks|Punk Rock;Rock",
-"Suede|Dog Man Star|1994|PLPUNxNjRn0dF9r92uX3FqCzgogTrIzjAD|A905|Dog Man Star|Suede (band)|Britpop;Glam Rock;Alternative Rock;Pop;Pop Rock;Rock",
+"Suede|Dog Man Star|1994|OLAK5uy_ln567ctaOt1yYnxIsDudbvbC07gECBdX0|A905|Dog Man Star|Suede (band)|Britpop;Glam Rock;Alternative Rock;Pop;Pop Rock;Rock",
 "Dr. John|Gris-Gris|1968|OLAK5uy_kqvk9YsRjnAekT6CCYXUBLM9N2-fty1Qo|A142|Gris-Gris|Dr. John|New Orleans R&B;Psychedelic Rock;R&B;Rock",
 "Gorillaz|Demon Days|2005|OLAK5uy_n6OIG6WH-BVE-xbdyDfjQeydPbN6l9tF4|A4182|Demon Days|Gorillaz|Trip Hop;Downtempo;Electronic",
 "The Pogues|If I Should Fall from Grace with God|1988|OLAK5uy_m_0ygJDif8AyxMLpLARUB5v33vrvouLi4|A744|If I Should Fall from Grace with God|The Pogues|Celtic Punk;Celtic Rock;Folk Punk;Folk Rock;Punk Rock;Rock",
