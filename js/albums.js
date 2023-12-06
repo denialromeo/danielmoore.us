@@ -2499,7 +2499,7 @@ const albums = [
 "Poet and the Roots|Dread, Beat an' Blood|1978|OLAK5uy_mIgmQCcsWUCXulUFRn545Bo3tgEEDjMzk|A2749|Dread Beat an' Blood|Poet and the Roots|Dub Poetry;Caribbean Music;Descriptor;Jamaican Music;Poetry;Reggae;Regional Music;Roots Reggae;Spoken Word",
 "The Horrors|Skying|2011|OLAK5uy_l7bV1GjnhtZmfIi8JeMdMPT51Z0_t0se0|A5151|Skying|The Horrors|Neo-Psychedelia;Psychedelic Rock;Rock",
 "Lambchop|How I Quit Smoking|1996|OLAK5uy_k5RvqNBLTa9ebc7fNCunXWsRVKlRQpSwc|A3625|How I Quit Smoking|Lambchop (band)|Alt-Country;Americana;Chamber Pop;Baroque Pop;Country;Indie Pop;Pop",
-"Harold Melvin & The Blue Notes|Wake Up Everybody|1975|OLAK5uy_l1GkaF74dSTPeDnFM_ZmgTjD2NCtIESNI|A1404|Wake Up Everybody|Harold Melvin & the Blue Notes|Philly Soul;R&B;Soul",
+"Harold Melvin & The Blue Notes|Wake Up Everybody|1975|OLAK5uy_kqSgP2fXVVXzT0vczuuR2MlrZvCbE2hWQ|A1404|Wake Up Everybody (Harold Melvin & the Blue Notes album)|Harold Melvin & the Blue Notes|Philly Soul;R&B;Soul",
 "Waxahatchee|Cerulean Salt|2013|OLAK5uy_keVc_5_pzN4lpkdON5pdB5vcz5_bj0K4A|A5380|Cerulean Salt|Waxahatchee|Alternative Singer/Songwriter;Indie Rock;Alternative Rock;Rock;Singer/Songwriter",
 "Elis Regina & Antonio Carlos Jobim|Elis & Tom|1974|PLrt7VbxNS8rcaHppOqrezMOWHwSmvti7t|A4559|Elis & Tom|Antônio Carlos Jobim|Bossa Nova;Brazilian Music;Regional Music",
 "Pete Townshend|Empty Glass|1980|OLAK5uy_ltSqGgJ3kklqr-DEMYrWdpzbNm8l9kxTA|A505|Empty Glass|Pete Townshend|Pop Rock;Pop;Rock",
