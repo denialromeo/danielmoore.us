@@ -1140,7 +1140,7 @@ const albums = [
 "Muddy Waters|Hard Again|1977|OLAK5uy_muvV7PJfBySmWPLOse84Qv-HtDScpeVHg|A415|Hard Again|Muddy Waters|Chicago Blues;Blues;Electric Blues",
 "Refused|The Shape of Punk to Come|1998|OLAK5uy_lJ-xX_Sc_NSZ3-ypH9poCTJDtVBXZlycs|A3024|The Shape of Punk to Come|Refused|Hardcore Punk;Post-Hardcore;Punk Rock;Rock",
 "Thelonious Monk|Genius of Modern Music, Vol. 2|1952|PLBJenJIJrq0xIeDWYAfP8Zu4uxmU8UAH6|A1763|Genius of Modern Music: Volume 2|Thelonious Monk|Bebop;Jazz",
-"Stan Getz & Charlie Byrd|Jazz Samba|1962|PLowQCq3Ss89gvQfZu8I4_E1dWH4mOI8sd|A1913|Jazz Samba|Charlie Byrd|Samba-Jazz;Bossa Nova;Brazilian Music;Jazz;Regional Music",
+"Stan Getz & Charlie Byrd|Jazz Samba|1962|PLL-NbN8uTOiiD7HBTvAStYyxdemjY6IIa|A1913|Jazz Samba|Charlie Byrd|Samba-Jazz;Bossa Nova;Brazilian Music;Jazz;Regional Music",
 "Robert Plant & Alison Krauss|Raising Sand|2007|OLAK5uy_mhgkCtPqOh8_4e9MN4XeJIxphLzX5FvUo|A4261|Raising Sand|Alison Krauss|Americana;Country Rock;Country;Rock",
 "Robyn|Robyn|2005|OLAK5uy_mP4x6HQ8juzSHVTmAhQL69jiyA7lX1ITg|A4333|Robyn (album)|Robyn|Electropop;Electronic;Pop",
 "Throbbing Gristle|20 Jazz Funk Greats|1979|OLAK5uy_lRUlpMRiVHaiR284WEgrxFqJFBjqT-mvA|A2777|20 Jazz Funk Greats|Throbbing Gristle|Industrial;Experimental;Industrial Music",
