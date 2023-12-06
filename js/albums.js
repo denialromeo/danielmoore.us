@@ -1284,7 +1284,7 @@ const albums = [
 "Autechre|Tri Repetae|1995|OLAK5uy_mkghGHjjNQD3-sgZzWVxyeh5EtZAcyYdE|A3567|Tri Repetae|Autechre|IDM;Electronic",
 "Bright Eyes|Lifted or the Story Is in the Soil, Keep Your Ear to the Ground|2002|OLAK5uy_mn7ACQ16K20P4_Y-6v-mIJuVnMLg5JNew|A1642|Lifted or The Story Is in the Soil, Keep Your Ear to the Ground|Bright Eyes (band)|Indie Folk;Contemporary Folk;Folk",
 "Titus Andronicus|The Monitor|2010|OLAK5uy_nblgYPjIbmht9oXIvKtz8GuitSQsPYJFE|A5112|The Monitor (album)|Titus Andronicus (band)|Folk Punk;Indie Rock;Alternative Rock;Punk Rock;Rock",
-"Sade|Diamond Life|1984|PLa3HlKFsnLvaypukMEvaMocu6dV4kglRS|A621|Diamond Life|Sade (band)|Smooth Soul;Sophisti-Pop;Pop;R&B;Soul",
+"Sade|Diamond Life|1984|OLAK5uy_mRQRzGDTzzLF61nU9n2cJ9x2ElPLHR9WE|A621|Diamond Life|Sade (band)|Smooth Soul;Sophisti-Pop;Pop;R&B;Soul",
 "Tom Petty and the Heartbreakers|Tom Petty and the Heartbreakers|1976|OLAK5uy_llU41nPp_1kFibTxwU46O5xmGYLcx56xs|A389|Tom Petty and the Heartbreakers (album)|Tom Petty|Heartland Rock;Pop Rock;Pop;Rock",
 "Arctic Monkeys|Favourite Worst Nightmare|2007|OLAK5uy_nfZ17klf8vLzhRMfLlj4aeatoR2ilY6mI|A4258|Favourite Worst Nightmare|Arctic Monkeys|Indie Rock;Alternative Rock;Rock",
 "Norah Jones|Come Away with Me|2002|PLo63J_ezJTloqhDiJ-Fc1_Z8azRnV5wGU|A3955|Come Away with Me|Norah Jones|Jazz Pop;Vocal Jazz;Jazz;Pop",
