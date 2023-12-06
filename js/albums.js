@@ -1555,7 +1555,7 @@ const albums = [
 "Stereolab|Transient Random-Noise Bursts with Announcements|1993|OLAK5uy_mFybSFWfAJENx0ilIi1P6IPoTguaJq6g4|A1716|Transient Random-Noise Bursts with Announcements|Stereolab|Experimental Rock;Noise Pop;Alternative Rock;Rock",
 "Bunny Wailer|Blackheart Man|1976|OLAK5uy_k2mQzaYdIjGL8Xjn4wZZEsmdUbDBuwP7Y|A365|Blackheart Man|Bunny Wailer|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Four Tops|Reach Out|1967|OLAK5uy_l_WLQNCsAkkJ5fO8GU1yXPQ4T3xXEcGdY|A1231|Reach Out (Four Tops album)|Four Tops|Soul;R&B",
-"Bad Company|Bad Co.|1974|PLz6cAheObZcjG2DIK3sw6I30iicwaHg_i|A1182|Bad Company (album)|Bad Company|Blues Rock;Hard Rock;Rock",
+"Bad Company|Bad Company|1974|OLAK5uy_kLJwdJol3qTCRujrVkTJctelJNS8ZzWgY|A1182|Bad Company (album)|Bad Company|Blues Rock;Hard Rock;Rock",
 "Therapy?|Troublegum|1994|OLAK5uy_kTR9LTVGXXYNJObs2VIq2StRW7blJ35E0|A927|Troublegum|Therapy%3F|Alternative Metal;Alternative Rock;Metal;Rock",
 "Flamin' Groovies|Shake Some Action|1976|PLmwiuq6S4xIAFf2VhHS1Gxcj0CHRN7NwW|A1418|Shake Some Action|Flamin' Groovies|Power Pop;Rock & Roll;Pop;Pop Rock;Rock",
 "Dire Straits|Making Movies|1980|OLAK5uy_kIhNMHBFI8pc-r9bTCxnXcm0MO-cUebxY|A496|Making Movies|Dire Straits|Pop Rock;Pop;Rock",
