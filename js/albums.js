@@ -1104,7 +1104,7 @@ const albums = [
 "Fiona Apple|Extraordinary Machine|2005|OLAK5uy_k8qlEIl8H_6SI-9QB4cMnEIby4KgqA0g0|A4220|Extraordinary Machine|Fiona Apple|Baroque Pop;Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock",
 "The Soft Boys|Underwater Moonlight|1980|OLAK5uy_lPmSggGd0jJoTRcozggDnnJvreBlVBFWI|A1174|Underwater Moonlight|The Soft Boys|Jangle Pop;Neo-Psychedelia;Alternative Rock;Pop;Pop Rock;Psychedelic Rock;Rock",
 "The Police|Zenyatta Mondatta|1980|OLAK5uy_mctDATS-H8mOzk3RAPT9j_S0mVgjvkJVg|A1173|Zenyatta Mondatta|The Police|New Wave;Pop Rock;Pop;Rock",
-"Hercules and Love Affair|Hercules and Love Affair|2008|PLqGJJiYsnquxnX9DiN7QzfzWFgWC5Bzmq|A4345|Hercules and Love Affair (album)|Hercules and Love Affair|Electro-Disco;Dance;Disco;Electronic;Electronic Dance Music",
+"Hercules and Love Affair|Hercules and Love Affair|2008|OLAK5uy_kZoJu_wKXaW1PQkCTiWZnn39r0TGZoloY|A4345|Hercules and Love Affair (album)|Hercules and Love Affair|Electro-Disco;Dance;Disco;Electronic;Electronic Dance Music",
 "Danger Mouse|The Grey Album|2004|PLS5QeUQYxzna_v8cU0DnoPYTU5Ahl4cVl|A4090|The Grey Album|Danger Mouse (musician)|Hip Hop;Mashup;Experimental;Plunderphonics;Sound Collage;Tape Music",
 "ZZ Top|Eliminator|1983|OLAK5uy_lNkF0KnpICFVl079NmbTulL2wPaAexiVU|A575|Eliminator (album)|ZZ Top|Hard Rock;Southern Rock;Rock",
 "Cornershop|When I Was Born for the 7th Time|1997|OLAK5uy_nxRPEx2vYZp4ZNY_y9RHbUJpXfusOQFQY|A995|When I Was Born for the 7th Time|Cornershop|Indie Pop;Indie Rock;Indietronica;Alternative Rock;Electronic;Pop;Rock",
