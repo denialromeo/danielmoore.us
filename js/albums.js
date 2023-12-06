@@ -1856,7 +1856,7 @@ const albums = [
 "Frank Sinatra|Come Fly with Me|1958|PLCIoIl3wD0UaHHzJPAfV-CMoDYvUQzFmg|A1851|Come Fly with Me (Frank Sinatra album)|Frank Sinatra|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "Parquet Courts|Wide Awake!|2018|OLAK5uy_leBje7eHHfrBQOJTpi0FmqIHBqSPcXpgA|A6034|Wide Awake!|Parquet Courts|Art Punk;Indie Rock;Alternative Rock;Punk Rock;Rock",
 "The Mothers of Invention|Absolutely Free|1967|OLAK5uy_m2ZtCW2av-6BOB9GRzbLcYyFkwbjkwreo|A1232|Absolutely Free|The Mothers of Invention|Experimental Rock;Jazz-Rock;Psychedelic Rock;Rock",
-"Suede|Coming Up|1996|PLZwKPH_vMi1xqghp3JYUkDNc2lHPFZzPc|A966|Coming Up (album)|Suede (band)|Britpop;Glam Rock;Alternative Rock;Pop;Pop Rock;Rock",
+"Suede|Coming Up|1996|OLAK5uy_nS6fUyvxh8LLd4luNbvtNRCriKdQhACtY|A966|Coming Up (album)|Suede (band)|Britpop;Glam Rock;Alternative Rock;Pop;Pop Rock;Rock",
 "Holly Herndon|Platform|2015|OLAK5uy_m0yddCHks1ejM6Fmblx_2bKwvxfTbIeFc|A5558|Platform (album)|Holly Herndon|Deconstructed Club;Glitch;Glitch Pop;Dance;Electronic;Electronic Dance Music;Experimental;Industrial;Industrial Music;Pop",
 "Lykke Li|Wounded Rhymes|2011|OLAK5uy_lrD49SZA2YYu6udHraqx4D61yFEOcXsaA|A5155|Wounded Rhymes|Lykke Li|Indie Pop;Pop",
 "U2|Zooropa|1993|OLAK5uy_lhObq8N9gtpO9FEfGiqDeHo6WKtMh42N4|A879|Zooropa|U2|Alternative Rock;Pop Rock;Pop;Rock",
