@@ -2836,7 +2836,7 @@ const albums = [
 "Tom Waits|The Heart of Saturday Night|1974|OLAK5uy_nuPH_FkjAcu9mUefX549hIaBruABIEol0|A2697|The Heart of Saturday Night|Tom Waits|Singer/Songwriter",
 "Rush|Permanent Waves|1980|OLAK5uy_npYplEYAmBcund-gpc3v65mDrsZ3T2KPg|A3300|Permanent Waves|Rush (band)|Hard Rock;Progressive Rock;Rock",
 "Bettie Serveert|Palomine|1992|OLAK5uy_lekQnR4tpKOWd8sBb4HGdFf60Njz1UpKI|A3432|Palomine|Bettie Serveert|Indie Rock;Alternative Rock;Rock",
-"Ted Leo & The Pharmacists|The Tyranny of Distance|2001|OLAK5uy_kEVH4fM9nZCO30wWSIEL3JvMr_AZYzWwY|A4938|The Tyranny of Distance (album)|Ted Leo and the Pharmacists|Indie Rock;Alternative Rock;Rock",
+"Ted Leo & The Pharmacists|The Tyranny of Distance|2001|OLAK5uy_n2LNrt7dArHGThqidXDHHqSgNAHv3Xuyc|A4938|The Tyranny of Distance (album)|Ted Leo and the Pharmacists|Indie Rock;Alternative Rock;Rock",
 "Propellerheads|Decksandrumsandrockandroll|1998|OLAK5uy_lVizV5D0lKZI5UHHnIFJ7kH8OjkvAuPlI|A3712|Decksandrumsandrockandroll|Propellerheads|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music",
 "Grateful Dead|Anthem of the Sun|1968|OLAK5uy_mujc5PgT1GJzsPWbN6fhrKPkgZna32tKg|A2225|Anthem of the Sun|Grateful Dead|Jam Band;Psychedelic Rock;Yacht Rock;Pop;Pop Rock;Rock",
 "Descendents|Milo Goes to College|1982|OLAK5uy_muAZdTmhO8pQ0vkGnXFJL0U5UlHZL1Jbc|A1481|Milo Goes to College|Descendents|Hardcore Punk;Skate Punk;Punk Rock;Rock",
