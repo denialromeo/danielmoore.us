@@ -1202,7 +1202,7 @@ const albums = [
 "Boogie Down Productions|By All Means Necessary|1988|OLAK5uy_ls7xY5kDFhKpdmKxNDefZsqWWa6RQQHgk|A740|By All Means Necessary|Boogie Down Productions|Boom Bap;Conscious Hip Hop;Hardcore Hip Hop;Political Hip Hop;Hip Hop",
 "Aerosmith|Pump|1989|OLAK5uy_nY9miz7N8WPgkPzOuVnZXZw9eka-8BAAI|A773|Pump (album)|Aerosmith|Hard Rock;Rock",
 "Electric Light Orchestra|Out of the Blue|1977|OLAK5uy_kvKulDHeJoC4eDETug3o2Fad76jax2VTM|A1159|Out of the Blue (Electric Light Orchestra album)|Electric Light Orchestra|Pop Rock;Symphonic Rock;Pop;Rock",
-"Lou Reed|Rock n Roll Animal|1974|OLAK5uy_lHdSVW2uCLD72vA27UrYL1UjGR9zCgtNM|A321|Rock 'n' Roll Animal|Lou Reed|Glam Rock;Rock",
+"Lou Reed|Rock 'n' Roll Animal|1974|OLAK5uy_lHdSVW2uCLD72vA27UrYL1UjGR9zCgtNM|A321|Rock 'n' Roll Animal|Lou Reed|Glam Rock;Rock",
 "Nick Cave & The Bad Seeds|The Good Son|1990|OLAK5uy_mCh3usBXdnmS1tA2qcLT_0Xp0tjjVH7t4|A794|The Good Son (album)|Nick Cave and the Bad Seeds|Gothic Rock;Singer/Songwriter;Rock",
 "Miles Davis|On the Corner|1972|OLAK5uy_nhjLHQR1Qbzw8z-6ttwwDRNLQIm-Rny90|A2005|On the Corner|Miles Davis|Jazz Fusion;Jazz-Funk;Funk;Jazz;R&B",
 "The Antlers|Hospice|2009|OLAK5uy_m7STdCVyx8Rva9nOUPOcA84eFJMDmEmAU|A5002|Hospice (The Antlers album)|The Antlers (band)|Indie Rock;Alternative Rock;Rock",
