@@ -1696,7 +1696,7 @@ const albums = [
 "A Guy Called Gerald|Black Secret Technology|1995|PLwXmcy0JQnx4PZZgBKSBSzIxXQXXgoOBD|A955|Black Secret Technology|A Guy Called Gerald|Atmospheric Drum and Bass;Dance;Drum and Bass;Electronic;Electronic Dance Music",
 "Stereo MC's|Connected|1992|OLAK5uy_lTNL9Qxryhoc7buOqDKf4akxVJ0ZGpoW0|A856|Connected (Stereo MC's album)|Stereo MC's|Alternative Dance;Dance-Pop;Alternative Rock;Dance;Pop;Rock",
 "Alice Cooper|School's Out|1972|OLAK5uy_krsCII4MCWnRORGli0sy_lVZWkVyjaUOY|A269|School's Out (album)|Alice Cooper|Glam Rock;Hard Rock;Rock",
-"Nina Hagen Band|Nina Hagen Band|1978|OLAK5uy_mQDhN3q_4r7VXiKOm616PceUttvU_yucU|A4605|Nina Hagen Band (album)|Nina Hagen|Deutschrock;Rock",
+"Nina Hagen Band|Nina Hagen Band|1978|PLK4n_ekS5J96Y2szcX4nL1nsPv-1GCMaG|A4605|Nina Hagen Band (album)|Nina Hagen|Deutschrock;Rock",
 "Mazzy Star|So Tonight That I Might See|1993|OLAK5uy_kWWk5SFwLk9g2RibigTVe2urRmOcBygZ8|A1718|So Tonight That I Might See|Mazzy Star|Dream Pop;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock",
 "Bauhaus|In the Flat Field|1980|OLAK5uy_mwucSISqHOX1HXsYyKZp_WUQjR9h1Paw0|A2757|In the Flat Field|Bauhaus (band)|Gothic Rock;Post-Punk;Rock",
 "The Raincoats|The Raincoats|1979|OLAK5uy_m-cMwHj7oJp1M7t6fXTX5KAaxZTnRzIjk|A1682|The Raincoats (album)|The Raincoats|Art Punk;Post-Punk;Punk Rock;Rock",
