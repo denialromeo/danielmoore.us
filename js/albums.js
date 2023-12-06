@@ -2591,7 +2591,7 @@ const albums = [
 "Wild Beasts|Present Tense|2014|OLAK5uy_m86DKYYI6t7wqPnXXfIQZKwv_mkLrgNY4|A5407|Present Tense (Wild Beasts album)|Wild Beasts|Art Pop;Pop",
 "The Smashing Pumpkins|Adore|1998|OLAK5uy_nSb5IP1YBEHIGXswBmDy8TOz2uLmGiWm4|A1026|Adore (album)|The Smashing Pumpkins|Alternative Rock;Rock",
 "Scott Walker|Bish Bosch|2012|OLAK5uy_kZeKhbm0Ikt0x-kA-taKXtr-7KpBxynbk|A5245|Bish Bosch|Scott Walker (singer)|Experimental;Singer/Songwriter",
-"The Blasters|Hard Line|1985|PLfNolntK4QWQB3h-vVf1J8PZ5Pq_B5kPL|A3067|Hard Line (album)|The Blasters|Rockabilly;Roots Rock;Rock;Rock & Roll",
+"The Blasters|Hard Line|1985|PLIBwV0cYJZFV3volw7VliN-Ln6fJ3o1Gl|A3067|Hard Line (album)|The Blasters|Rockabilly;Roots Rock;Rock;Rock & Roll",
 "Blondie|Eat to the Beat|1979|OLAK5uy_kOkgiQfN1H91ukvupMERBHkTbHASoGZys|A1459|Eat to the Beat|Debbie Harry|New Wave;Pop Rock;Pop;Rock",
 "Manu Chao|Próxima Estación: Esperanza|2001|OLAK5uy_lU2dtZKNWa1gkhma6S5cXbbncx87OfZyY|A3868|Próxima Estación: Esperanza|Manu Chao|Latin Alternative;Hispanic Music;Latin American Music;Regional Music",
 "Ornette Coleman|Science Fiction|1972|OLAK5uy_kICb0uviL9z3OmSR_Ec4vXiDzKzvALWEI|A2655|Science Fiction (Ornette Coleman album)|Ornette Coleman|Free Jazz;Avant-Garde Jazz;Jazz",
