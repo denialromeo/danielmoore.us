@@ -1474,7 +1474,7 @@ const albums = [
 "Parquet Courts|Light Up Gold|2012|OLAK5uy_mmCUdc739j-YRXPEBzvl2Gr9C6qqM_SPo|A5352|Light Up Gold|Parquet Courts|Indie Rock;Alternative Rock;Rock",
 "The Beach Boys|Smiley Smile|1967|OLAK5uy_kNxsv47ezuB7YUV0-GHpMiwEdGsDDqG1k|A112|Smiley Smile|The Beach Boys|Psychedelic Pop;Sunshine Pop;Pop",
 "Wilco|Sky Blue Sky|2007|OLAK5uy_nPDjZ0vQKTPZqWL93Ud9NJ2X9O3heZE5s|A4247|Sky Blue Sky|Wilco|Alt-Country;Alternative Rock;Pop Rock;Country;Pop;Rock",
-"Santogold|Santogold|2008|OLAK5uy_koHQq15Q5lBCMon-CiRpGk1AgI32Eo430|A4343|Santogold (album)|Santigold|Electropop;Indie Rock;Alternative Rock;Electronic;Pop;Rock",
+"Santogold|Santogold|2008|OLAK5uy_kouQdRycMLQ1u6VZC0SV-9PhmJY1Tx20s|A4343|Santogold (album)|Santigold|Electropop;Indie Rock;Alternative Rock;Electronic;Pop;Rock",
 "Mary J. Blige|What's the 411?|1992|OLAK5uy_kcG4D7J8l5keQ2s3o7fxOXTZjH4MuBazc|A3425|What's the 411%3F|Mary J. Blige|New Jack Swing;Contemporary R&B;R&B",
 "Junior Boys|So This Is Goodbye|2006|OLAK5uy_n9_cZYc4_3RgoPK3KYTs3rz2UYi3bPFEE|A3076|So This Is Goodbye|Junior Boys|Electropop;Synthpop;Electronic;Pop",
 "Philip Glass|Einstein on the Beach|1979|OLAK5uy_lIB1Za0mJ0vRmIbL6gv9IonJ2fawvmEKI|A2029|Einstein on the Beach|Philip Glass|Minimalism;Opera;Classical Music;Modern Classical;Western Classical Music",
