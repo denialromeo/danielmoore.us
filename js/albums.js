@@ -589,7 +589,7 @@ const albums = [
 "Underworld|Dubnobasswithmyheadman|1994|OLAK5uy_kog7h-Mfv5sc02JhwsXqQOHlFtyTTeu-s|A894|Dubnobasswithmyheadman|Underworld (band)|Techno;Dance;Electronic;Electronic Dance Music",
 "Carly Rae Jepsen|E*MO*TION|2015|OLAK5uy_k0fBNtcgrBca0_WFALAdBezKu6EGv0QnI|A5563|Emotion (Carly Rae Jepsen album)|Carly Rae Jepsen|Dance-Pop;Synthpop;Dance;Electronic;Pop",
 "Jay-Z|Reasonable Doubt|1996|OLAK5uy_lgp-WXLELSsU8wpwrXA9yqROtYgRuVnAE|A3626|Reasonable Doubt (album)|Jay-Z|Boom Bap;Hip Hop",
-"George Michael|Faith|1987|PLFBgfSAIU1-sRfkGoSd4f9zBFpywPme2c|A709|Faith (George Michael album)|George Michael|Pop",
+"George Michael|Faith|1987|OLAK5uy_kUnwYFlvNxRBScSQRN1SpHF5dXY_F7l9s|A709|Faith (George Michael album)|George Michael|Pop",
 "Destroyer|Kaputt|2011|OLAK5uy_lRlVSDWmj1cHN-eXLOT1-r0uL-bOjxn5g|A5137|Kaputt (album)|Destroyer (band)|Art Pop;Sophisti-Pop;Pop",
 "Brian Wilson|SMiLE|2004|OLAK5uy_mR9pK5phEHUR__YHG9xj4rgPwzmDQpKt4|A4063|Brian Wilson Presents Smile|Brian Wilson|Baroque Pop;Pop Rock;Psychedelic Pop;Pop;Rock",
 "Leonard Cohen|I'm Your Man|1988|OLAK5uy_lD43sQBFt949GAYyNubpu6ZR7qLc-NiLk|A728|I'm Your Man (Leonard Cohen album)|Leonard Cohen|Singer/Songwriter;Sophisti-Pop;Pop",
