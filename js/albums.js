@@ -31,7 +31,7 @@ const albums = [
 "Prince|Sign 'O' the Times|1987|OLAK5uy_no49E01AwNz3OQt1CDwLYD1n82szSO8BI|A691|Sign o' the Times|Prince (musician)|Funk Rock;Pop Rock;Pop;Rock",
 "The Jimi Hendrix Experience|Electric Ladyland|1968|OLAK5uy_mYWPkHE6zV6px1NrufGZgni8KPoqsvC34|A124|Electric Ladyland|Jimi Hendrix|Acid Rock;Blues Rock;Psychedelic Rock;Rock",
 "The Beatles|Rubber Soul|1965|OLAK5uy_lvTG69VbZm3r3r9crRBvT1Tj305YEbuaM|A32|Rubber Soul|The Beatles|Pop Rock;Pop;Rock",
-"Led Zeppelin|Led Zeppelin IV|1971|PLnif9Rfb5Adk-e0rvMJgJIKqkANw3VfPm|A216|Led Zeppelin IV|Led Zeppelin|Hard Rock;Rock",
+"Led Zeppelin|Led Zeppelin IV|1971|OLAK5uy_miixGWs374VbB0oCVRHZ2JWssBydwz7V8|A216|Led Zeppelin IV|Led Zeppelin|Hard Rock;Rock",
 "The Strokes|Is This It|2001|OLAK5uy_kxPqiwIfVH7nzHfsH6gOCNB6FGpnJojNM|A1191|Is This It|The Strokes|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock",
 "Radiohead|Kid A|2000|OLAK5uy_nZquM-iYg8ppQxrwe-KpcxH3FfcrL8smI|A1081|Kid A|Radiohead|Art Rock;Electronic;Experimental Rock;Rock",
 "The Doors|The Doors|1967|OLAK5uy_mx98OhRuCf1iPS49rGdS-PxBTvjXdlU6I|A94|The Doors (album)|The Doors|Psychedelic Rock;Rock",
