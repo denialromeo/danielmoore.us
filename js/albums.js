@@ -566,7 +566,7 @@ const albums = [
 "The Postal Service|Give Up|2003|OLAK5uy_lglNftf4qJbZB3obucQxD7OSP_yL2hCww|A4004|Give Up|The Postal Service|Indie Pop;Indietronica;Electronic;Pop",
 "Drake|Take Care|2011|OLAK5uy_m6Sss1kO7j8so_ce3sDT8Xa5RZz6mERNQ|A5138|Take Care (album)|Drake (musician)|Contemporary R&B;Pop Rap;Hip Hop;R&B",
 "Deep Purple|Made in Japan|1972|OLAK5uy_lUXN_NbErijEFkhxAU7L06omtAnWV5Ij0|A270|Made in Japan (Deep Purple album)|Deep Purple|Hard Rock;Rock",
-"Dire Straits|Dire Straits|1978|PL5LlGBkh2rZN-GLWBO4c6Bb3paqOAxHm7|A440|Dire Straits (album)|Dire Straits|Rock",
+"Dire Straits|Dire Straits|1978|OLAK5uy_nLx0NCKIsznuYZ4IMVqD9hik3FcM47fe4|A440|Dire Straits (album)|Dire Straits|Rock",
 "David Bowie|Aladdin Sane|1973|OLAK5uy_n6SqLC8xrc7tS5Cw9pDr7ECauksk3hgtQ|A281|Aladdin Sane|David Bowie|Art Rock;Glam Rock;Pop Rock;Pop;Rock",
 "Kamasi Washington|The Epic|2015|OLAK5uy_kjCOsQy9suACJkg5RBls_0ZOfzpT6Tovc|A5552|The Epic (album)|Kamasi Washington|Spiritual Jazz;Avant-Garde Jazz;Jazz",
 "Herbie Hancock|Maiden Voyage|1966|OLAK5uy_leRUjc1FeLNRL56q2jzPACZWlnNLkU8Xw|A1955|Maiden Voyage (Herbie Hancock album)|Herbie Hancock|Modal Jazz;Jazz",
