@@ -1490,7 +1490,7 @@ const albums = [
 "Daughters|You Won't Get What You Want|2018|OLAK5uy_lRNKcLYcmtc-CHuytwrTRoGgiX54MasxE|A6066|You Won't Get What You Want|Daughters (band)|Industrial Rock;Noise Rock;Industrial Music;Rock",
 "Crosby, Stills, Nash & Young|4 Way Street|1971|OLAK5uy_mb76K5hNa-OnqunrS29m3D2jqIk92I-fM|A239|4 Way Street|Crosby, Stills, Nash & Young|Folk Rock;Rock",
 "Silver Apples|Silver Apples|1968|OLAK5uy_nWjjSryPYyQEW8ohN9Jd3jqHCuv2fLFgk|A4471|Silver Apples (album)|Silver Apples|Electronic;Psychedelic Rock;Rock",
-"Count Basie|April in Paris|1957|PL5ae6iB5xkhHFIebZE-9cF6MVcEg0m9I8|A1810|April in Paris (album)|Count Basie|Big Band;Swing;Jazz",
+"Count Basie|April in Paris|1957|OLAK5uy_m2vp-QSO5Bt7gSydUVm-RorPWTIPi4zfY|A1810|April in Paris (album)|Count Basie|Big Band;Swing;Jazz",
 "Faust|So Far|1972|OLAK5uy_m20Dr-r78zpA_puvbYRgoXW2v62ALSKNU|A2439|Faust So Far|Faust (band)|Krautrock;Experimental Rock;Progressive Rock;Rock",
 "Lizzo|Cuz I Love You|2019|PLbHR-EqT3TYRM_5vgT5aaLZtY0G6SRwg7|A6294|Cuz I Love You|Lizzo|Pop Rap;Pop Soul;Hip Hop;Pop;R&B;Soul",
 "Jeff Beck|Blow by Blow|1975|OLAK5uy_m4RIkO4KeNSHtAFD13dMT_ydhSJVb73Bc|A356|Blow by Blow|Jeff Beck|Blues Rock;Jazz-Rock;Rock",
