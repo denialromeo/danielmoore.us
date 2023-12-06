@@ -2494,7 +2494,7 @@ const albums = [
 "Beth Orton|Trailer Park|1996|OLAK5uy_mEP82yFYVANf3cBtJpdwXRp6uT7UJAnnQ|A987|Trailer Park (album)|Beth Orton|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop",
 "Angelo Badalamenti|Soundtrack from Twin Peaks|1990|OLAK5uy_kjzgzCowTlBA3NHORpTITf4WKHzKhm3bc|A4751|Soundtrack from Twin Peaks|Angelo Badalamenti|Ambient Pop;Dark Jazz;Television Music;Ambient;Dark Ambient;Descriptor;Jazz;Pop;Soundtracks",
 "The Afghan Whigs|1965|1998|OLAK5uy_lp6U4OTzepjt_zrN2fJgRCajewKxqCAsc|A3703|1965 (album)|The Afghan Whigs|Alternative Rock;Rock",
-"Christine and The Queens|Chaleur humaine|2014|PL61CSmcjUDL6bxdR-TbLRVB9SysyvlMHD|A5710|Chaleur humaine|Christine and the Queens|Electropop;Nouvelle chanson française;Chanson;Electronic;Pop;Regional Music",
+"Christine and The Queens|Chaleur humaine|2014|OLAK5uy_ns9M3gc3gg5__cAcOzIeX8Vxs8IvYeEPk|A5710|Chaleur humaine|Christine and the Queens|Electropop;Nouvelle chanson française;Chanson;Electronic;Pop;Regional Music",
 "Radio Futura|La ley del desierto, La ley del mar|1984|OLAK5uy_lt9q3goYjPAKjdqAkHgc38F_KVS9ZYc-g|A4698|https://es.wikipedia.org/wiki/La_ley_del_desierto_/_La_ley_del_mar|Radio Futura|New Wave;Pop Rock;Pop;Rock",
 "Poet and the Roots|Dread, Beat an' Blood|1978|OLAK5uy_mIgmQCcsWUCXulUFRn545Bo3tgEEDjMzk|A2749|Dread Beat an' Blood|Poet and the Roots|Dub Poetry;Caribbean Music;Descriptor;Jamaican Music;Poetry;Reggae;Regional Music;Roots Reggae;Spoken Word",
 "The Horrors|Skying|2011|OLAK5uy_l7bV1GjnhtZmfIi8JeMdMPT51Z0_t0se0|A5151|Skying|The Horrors|Neo-Psychedelia;Psychedelic Rock;Rock",
