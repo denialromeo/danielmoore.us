@@ -902,7 +902,7 @@ const albums = [
 "Gene Clark|No Other|1974|OLAK5uy_lFAuNg8GbjivFUsVGuK58goa5S3GN1VPw|A320|No Other|Gene Clark|Country Rock;Singer/Songwriter;Rock",
 "Nick Cave and The Bad Seeds|Tender Prey|1988|OLAK5uy_luVhEvpFH1WPhPAijKwDdtVwe8YVrpyBE|A734|Tender Prey|Nick Cave and the Bad Seeds|Gothic Rock;Post-Punk;Rock",
 "St. Vincent|MASSEDUCTION|2017|OLAK5uy_lsk36jNCiAQYfr1JMACCaRkeuKQsXBrD0|A5987|Masseduction|St. Vincent (musician)|Art Pop;Pop",
-"k.d. Lang|Ingénue|1992|PLwn6Hs1ZcuZm5Nw--AOaQmTV3qDT9n4Nz|A851|Ingénue (album)|K.d. lang|Adult Contemporary;Country Pop;Singer/Songwriter;Country;Pop",
+"k.d. Lang|Ingénue|1992|OLAK5uy_lfXa9Ko3pZtIBpbSDuxNnB1xcvqHVvgvM|A851|Ingénue (album)|K.d. lang|Adult Contemporary;Country Pop;Singer/Songwriter;Country;Pop",
 "Tito Puente|Dance Mania|1958|PLowQCq3Ss89jCvspYiBk8pEhrpzVUVkKR|A1849|Dance Mania (album)|Tito Puente|Guaguancó;Mambo;Cuban Music;Cuban Rumba;Hispanic Music;Latin American Music;Regional Music",
 "Charles Mingus|Pithecanthropus Erectus|1956|OLAK5uy_kbmwbMIfhLqI6Be1WdORzwujdeGPpXcb0|A1797|Pithecanthropus Erectus (album)|Charles Mingus|Post-Bop;Bebop;Jazz",
 "Frankie Goes to Hollywood|Welcome to the Pleasuredome|1984|OLAK5uy_kgP8in2fUSz0PCb0gPnhcZyNWOMrRiDBI|A607|Welcome to the Pleasuredome|Frankie Goes to Hollywood|New Wave;Synthpop;Electronic;Pop;Rock",
