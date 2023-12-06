@@ -248,7 +248,7 @@ const albums = [
 "Franz Ferdinand|Franz Ferdinand|2004|OLAK5uy_kqKayhi4VDq4fcNpmLIdN19fdU1xPjsxA|A4035|Franz Ferdinand (album)|Franz Ferdinand (band)|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock",
 "M.I.A.|Kala|2007|OLAK5uy_nTzlg-6phaEt0Qr3UglBbhan17nz9xK-A|A4238|Kala (album)|M.I.A. (rapper)|Electropop;Electronic;Pop",
 "Fleet Foxes|Fleet Foxes|2008|OLAK5uy_muUUJTW3e3aebLvjgJp0nyQqEN_GX5xmo|A4338|Fleet Foxes (album)|Fleet Foxes|Americana;Chamber Folk;Indie Folk;Contemporary Folk;Country;Folk",
-"Van Halen|Van Halen|1978|OLAK5uy_mkKylcM5JkWtsKfTJkS8DluAazxYugH68|A436|Van Halen (album)|Van Halen|Hard Rock;Rock",
+"Van Halen|Van Halen|1978|OLAK5uy_kuLN1YgM795yEKfSz5nMiq_naBnQWvF2Y|A436|Van Halen (album)|Van Halen|Hard Rock;Rock",
 "The Flaming Lips|Yoshimi Battles the Pink Robots|2002|OLAK5uy_nUVQvMU2o34YgR4tKZPfQp7Yl5v_EdGKs|A1624|Yoshimi Battles the Pink Robots|The Flaming Lips|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock",
 "Kraftwerk|Die Mensch Maschine|1978|OLAK5uy_lpF64nOVPBv72HvvFlP6PAJdyAlY1cxgM|A428|The Man-Machine|Kraftwerk|Synthpop;Electronic;Pop",
 "Elliott Smith|Either/Or|1997|OLAK5uy_m4EZ95AgI9beJA-uVamuqELm9ZchAZzJM|A1020|Either/Or (album)|Elliott Smith|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk",
