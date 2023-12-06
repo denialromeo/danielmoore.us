@@ -2732,7 +2732,7 @@ const albums = [
 "Jimmy Reed|Jimmy Reed at Carnegie Hall|1961|OLAK5uy_mjcWLW9v7OKqz0NL84GizlsAmg5WEQ4Vo|A1278|Jimmy Reed at Carnegie Hall|Jimmy Reed|Chicago Blues;Blues;Electric Blues",
 "The Animals|Animalisms|1966|OLAK5uy_n6HWEcnQHkLC9PLihJbBuXKT98m5SH0Vk|A85|Animalisms|The Animals|British Blues;Rhythm & Blues;Blues;Electric Blues;R&B",
 "Bob Marley and The Wailers|Kaya|1978|OLAK5uy_lvzphoMpbHOIsTACZbMvLLr4t7dPM733c|A1441|Kaya (album)|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
-"Veneno|Veneno|1977|PLE7g82kI14UiHQjKhAu3_EIAmOlYlMgBm|A4599|Kiko Veneno|Veneno|Andalusian Rock;Flamenco Nuevo;European Folk Music;Flamenco;Folk;Folk Rock;Hispanic Music;Progressive Rock;Regional Music;Rock;Spanish Folk Music;Spanish Music;Traditional Folk Music",
+"Veneno|Veneno|1977|PLW9grP7HsH5dS8gHiGROeALLptDbSVMqW|A4599|Kiko Veneno|Veneno|Andalusian Rock;Flamenco Nuevo;European Folk Music;Flamenco;Folk;Folk Rock;Hispanic Music;Progressive Rock;Regional Music;Rock;Spanish Folk Music;Spanish Music;Traditional Folk Music",
 "Elvis Presley|King Creole|1958|OLAK5uy_lLtP9bjyraAIY67NVGq1MC0Hh6uYjzSyo|A1221|King Creole (soundtrack)|Elvis Presley|Film Soundtrack;Rock & Roll;Descriptor;Rock;Soundtracks",
 "Travis Scott|Astroworld|2018|OLAK5uy_m6xt1ZipEd_hALlmTOFY6S9OORu5LqPqc|A6050|Astroworld (album)|Travis Scott|Pop Rap;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Buffy Sainte-Marie|It's My Way!|1964|OLAK5uy_mRSrTnBfbTtkW480r1H13hMbWUfaoT1Cg|A1291|It's My Way!|Buffy Sainte-Marie|Folk Revival;Singer/Songwriter;Contemporary Folk;Folk",
