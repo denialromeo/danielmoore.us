@@ -2402,7 +2402,7 @@ const albums = [
 "Miguel|Wildheart|2015|OLAK5uy_lsE6MeZR0zzDVaVftf4Ent2PPlMYWwZXc|A5574|Wildheart (album)|Miguel (singer)|Alternative R&B;Contemporary R&B;R&B",
 "Terry Callier|What Color Is Love|1972|OLAK5uy_ncwkf705KJa_ui0k44uihCX5CjhZP4OCw|A4541|What Color Is Love|Terry Callier|Chicago Soul;R&B;Soul",
 "Aldous Harding|Party|2017|OLAK5uy_m8KzshJBxNPexYsHhx3EFqyx-gz2bAZxc|A5846|Party (Aldous Harding album)|Aldous Harding|Contemporary Folk;Singer/Songwriter;Folk",
-"Ray Charles|Genius + Soul = Jazz|1961|PLBPzjajC_OZXOvEXJLJP5Sznh51dLwx0E|A1276|Genius + Soul = Jazz|Ray Charles|Rhythm & Blues;Soul Jazz;Jazz;R&B",
+"Ray Charles|Genius + Soul = Jazz|1961|PL1a1FcevWP18qowbeQQOusZSvB2rx2WqU|A1276|Genius + Soul = Jazz|Ray Charles|Rhythm & Blues;Soul Jazz;Jazz;R&B",
 "Jenny Hval|Apocalypse, Girl|2015|OLAK5uy_nYqA8WJkJwaCSviMdw-oVDH1x2puvvOQ0|A5591|Apocalypse, Girl|Jenny Hval|Art Pop;Pop",
 "Ariel Pink|Pom Pom|2014|OLAK5uy_lM22cNJGJ2uNu07h2TiGDxZGvqroDOKEQ|A5417|Pom Pom (album)|Ariel Pink|Hypnagogic Pop;Psychedelic Pop;Neo-Psychedelia;Pop;Psychedelic Rock;Rock",
 "MF Doom|Operation: Doomsday|1999|OLAK5uy_nENZLyEbKKR6TbLUd0QCZ6DHoREZ3N50o|A5266|Operation: Doomsday|MF Doom|Abstract Hip Hop;Hip Hop",
