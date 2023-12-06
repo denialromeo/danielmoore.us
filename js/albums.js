@@ -1876,7 +1876,7 @@ const albums = [
 "David Bowie|The Man Who Sold the World|1970|OLAK5uy_nFLZQSiLN1Unp7-pgo0ZxmBiSkBFY5DNw|A1126|The Man Who Sold the World (album)|David Bowie|Glam Rock;Rock",
 "Miles Davis|Cookin' with the Miles Davis Quintet|1957|OLAK5uy_lVoJQCYgviJTsWpzZPSVaXhp81UxKmmPo|A1816|Cookin' with the Miles Davis Quintet|Miles Davis|Hard Bop;Bebop;Jazz",
 "Miles Davis|Steamin' with the Miles Davis Quintet|1961|PLJkLcbXVA4Bw3NCgwxPj3hkt2xSBJvemY|A1896|Steamin' with the Miles Davis Quintet|Miles Davis|Hard Bop;Bebop;Jazz",
-"The Fall|The Wonderful and Frightening World of...The Fall|1984|OLAK5uy_n3aaHcMxz4oHlY7YyfaA_dHTjDjfDoNhc|A3015|The Wonderful and Frightening World Of...|The Fall (band)|Post-Punk;Rock",
+"The Fall|The Wonderful and Frightening World Of...|1984|OLAK5uy_n3aaHcMxz4oHlY7YyfaA_dHTjDjfDoNhc|A3015|The Wonderful and Frightening World Of...|The Fall (band)|Post-Punk;Rock",
 "Christine and The Queens|Chris|2018|OLAK5uy_kS7jCU3AOQNzPcvKe1lsBfNNQsOgGxkXI|A6036|Chris (album)|Christine and the Queens|Art Pop;Synthpop;Electronic;Pop",
 "Ornette Coleman|This Is Our Music|1961|PLx_OwX8qVcovuCjKr-XJrLaQdw8LjzI6F|A2310|This Is Our Music (Ornette Coleman album)|Ornette Coleman|Avant-Garde Jazz;Jazz",
 "Jackie McLean|Let Freedom Ring|1962|OLAK5uy_lXEwswxIotruwvrCK9QNOlhooIxUA2h6s|A1918|Let Freedom Ring|Jackie McLean|Post-Bop;Bebop;Jazz",
