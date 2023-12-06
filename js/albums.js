@@ -1671,7 +1671,7 @@ const albums = [
 "Brittany Howard|Jaime|2019|OLAK5uy_nyZt3MnqFEqWl-dkegN5RvZBA99-a1-fw|A6229|Jaime (album)|Brittany Howard|Psychedelic Soul;Singer/Songwriter;R&B;Soul",
 "Mastodon|Leviathan|2004|OLAK5uy_lpb_p7gUoQh0UIf7lGUyejj5Aorm86o_I|A4914|Leviathan (Mastodon album)|Mastodon (band)|Progressive Metal;Sludge Metal;Metal;Rock",
 "Nick Lowe|Jesus of Cool|1978|OLAK5uy_nKt58sA8qLce9omTnIOJYKtVA_36q2Pcs|A443|Jesus of Cool|Nick Lowe|New Wave;Power Pop;Pub Rock;Pop;Pop Rock;Rock",
-"Kings of Leon|Youth & Young Manhood|2003|PL3D116EE49D931AB4|A3939|Youth & Young Manhood|Kings of Leon|Garage Rock Revival;Southern Rock;Garage Rock;Rock",
+"Kings of Leon|Youth & Young Manhood|2003|OLAK5uy_mfRDzehQ4I9obJOc59Rd-QjoYcUzEfx2g|A3939|Youth & Young Manhood|Kings of Leon|Garage Rock Revival;Southern Rock;Garage Rock;Rock",
 "Future Islands|Singles|2014|OLAK5uy_mVpKjp0hbxXqB245jz6Sw-OBsGnhljEvk|A5401|Singles (Future Islands album)|Future Islands|Synthpop;Electronic;Pop",
 "Tori Amos|Under the Pink|1994|OLAK5uy_mhLuFQz9hq9VJQX3QJdkVHAGYDbe7oKkQ|A1719|Under the Pink|Tori Amos|Singer/Songwriter",
 "Black Sabbath|Heaven and Hell|1980|OLAK5uy_ntUL0EtULe_HmXHacRIaRd8nvMIiJ6FRQ|A2758|Heaven and Hell (Black Sabbath album)|Black Sabbath|Hard Rock;Heavy Metal;Metal;Rock",
