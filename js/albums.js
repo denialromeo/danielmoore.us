@@ -2723,7 +2723,7 @@ const albums = [
 "Midnight Oil|Blue Sky Mining|1990|OLAK5uy_kpXaEYA-WOqF0ELpkXUb2aWPhRTHkx30I|A1551|Blue Sky Mining|Midnight Oil|Alternative Rock;Rock",
 "Rod Stewart|Atlantic Crossing|1975|OLAK5uy_ltwPxT0mDwW1qhEfRDLXbklpIMAfKZcME|A1415|Atlantic Crossing|Rod Stewart|Pop Rock;Pop;Rock",
 "Sloan|Twice Removed|1994|OLAK5uy_komv-fwU-HJ_Gr8UGzaMeRf4Z4Q_fy0OA|A4811|Twice Removed|Sloan (band)|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
-"Freddie Hubbard|Hub-Tones|1962|PLvi2o7pgqcHCuyvp56UaYE2k8d4LxG6KO|A2315|Hub-Tones|Freddie Hubbard|Hard Bop;Bebop;Jazz",
+"Freddie Hubbard|Hub-Tones|1962|PL24zkCh8SiK7ryQem7bo9RitpYDDEYFWx|A2315|Hub-Tones|Freddie Hubbard|Hard Bop;Bebop;Jazz",
 "Stan Ridgway|The Big Heat|1986|OLAK5uy_khZEO_MAKwRTzG8AKJg-519VUOMQjFXco|A1506|The Big Heat (album)|Stan Ridgway|New Wave;Synthpop;Electronic;Pop;Rock",
 "John Maus|We Must Become the Pitiless Censors of Ourselves|2011|OLAK5uy_m6nm5w4gY-1EB8Y2leYzsPbUcaK6aY_Co|A5160|We Must Become the Pitiless Censors of Ourselves|John Maus|Hypnagogic Pop;Synthpop;Electronic;Neo-Psychedelia;Pop;Psychedelic Rock;Rock",
 "John McLaughlin|Extrapolation|1969|OLAK5uy_mKm4NpG6DQs2o_fM-VCd5NOsejjFAetrg|A1991|Extrapolation (album)|John McLaughlin (musician)|Post-Bop;Bebop;Jazz",
