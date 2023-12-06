@@ -815,7 +815,7 @@ const albums = [
 "Mogwai|Young Team|1997|OLAK5uy_ng0GKCsEbZre4s2qfhaXbCCXDnM6CCT24|A3661|Mogwai Young Team|Mogwai|Post-Rock;Rock",
 "Tom Waits|Mule Variations|1999|OLAK5uy_mqGIpkUEUGh7wRnQW8-D668V1sFSjgJ1s|A1064|Mule Variations|Tom Waits|Blues Rock;Singer/Songwriter;Rock",
 "Swans|The Seer|2012|OLAK5uy_mwzPGDQ5o6RDxBS_2CK0gMJ3uSO6sQYf8|A5240|The Seer (Swans album)|Swans (band)|Experimental Rock;Post-Rock;Rock",
-"The Sonics|Here Are the Sonics!!!|1965|OLAK5uy_nuBe8VzYvk-q6oJcHLYUjRUuekiLL5ySg|A45|Here Are The Sonics|The Sonics|Garage Rock;Proto-Punk;Rock",
+"The Sonics|Here Are the Sonics|1965|OLAK5uy_nuBe8VzYvk-q6oJcHLYUjRUuekiLL5ySg|A45|Here Are the Sonics|The Sonics|Garage Rock;Proto-Punk;Rock",
 "Def Leppard|Hysteria|1987|OLAK5uy_mTLr7-VXRiKoo3TTPbcKPSLQ7WnegbN28|A703|Hysteria (Def Leppard album)|Def Leppard|AOR;Hard Rock;Rock",
 "Orbital|The Brown Album|1993|OLAK5uy_loGUePcjMIhir-NrzAtewCzazrGZh_uho|A891|Orbital (1993 album)|Orbital (band)|Techno;Dance;Electronic;Electronic Dance Music",
 "Chic|C'est Chic|1978|OLAK5uy_nr6Oayul14irh3I6oz2v9KGCBcyFPIPxY|A1440|C'est Chic|Chic (band)|Disco;Dance",
