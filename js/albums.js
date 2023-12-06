@@ -1471,7 +1471,7 @@ const albums = [
 "Devendra Banhart|Rejoicing in the Hands|2004|OLAK5uy_krXX-MQ6korCYLNOi_pdzD4tjosFR5zQ8|A4053|Rejoicing in the Hands|Devendra Banhart|Contemporary Folk;Singer/Songwriter;Folk",
 "Björk|Medulla|2004|OLAK5uy_mOTiVGXtk3SjbOf44x9Z5MyQBRJMhVCg0|A4058|Medúlla|Björk|A cappella;Art Pop;Experimental;Descriptor;Pop",
 "Blood, Sweat & Tears|Child Is Father to the Man|1968|OLAK5uy_njrj_L4SXKzPJPtHBbWmyO_cvWsp1zXPE|A146|Child Is Father to the Man|Blood, Sweat & Tears|Jazz-Rock;Psychedelic Pop;Pop;Rock",
-"Parquet Courts|Light Up Gold|2012|PL92t_uwJ4pwK145GPStSsiQN_L10t0qRw|A5352|Light Up Gold|Parquet Courts|Indie Rock;Alternative Rock;Rock",
+"Parquet Courts|Light Up Gold|2012|OLAK5uy_mmCUdc739j-YRXPEBzvl2Gr9C6qqM_SPo|A5352|Light Up Gold|Parquet Courts|Indie Rock;Alternative Rock;Rock",
 "The Beach Boys|Smiley Smile|1967|OLAK5uy_kNxsv47ezuB7YUV0-GHpMiwEdGsDDqG1k|A112|Smiley Smile|The Beach Boys|Psychedelic Pop;Sunshine Pop;Pop",
 "Wilco|Sky Blue Sky|2007|OLAK5uy_nPDjZ0vQKTPZqWL93Ud9NJ2X9O3heZE5s|A4247|Sky Blue Sky|Wilco|Alt-Country;Alternative Rock;Pop Rock;Country;Pop;Rock",
 "Santogold|Santogold|2008|OLAK5uy_koHQq15Q5lBCMon-CiRpGk1AgI32Eo430|A4343|Santogold (album)|Santigold|Electropop;Indie Rock;Alternative Rock;Electronic;Pop;Rock",
