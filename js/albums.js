@@ -2007,7 +2007,7 @@ const albums = [
 "Courtney Barnett|Tell Me How You Really Feel|2018|https://www.youtube.com/embed/IWgAePYIEp8|A6032|Tell Me How You Really Feel|Courtney Barnett|Indie Rock;Singer/Songwriter;Alternative Rock;Rock",
 "Björk|Utopia|2017|OLAK5uy_kKHUKv52oO7iWMtV942GqiJTu03NxkI9c|A5864|Utopia (Björk album)|Björk|Art Pop;Glitch Pop;Electronic;Pop",
 "Cheap Trick|In Color|1977|OLAK5uy_nwqkdQSn99j4jITGJAN101bAPUjpV1YLM|A1157|In Color (album)|Cheap Trick|Hard Rock;Power Pop;Pop;Pop Rock;Rock",
-"Scissor Sisters|Scissor Sisters|2004|OLAK5uy_maS7ePGNf83WxCFdUYYYH82BWHmIM-vBU|A4037|Scissor Sisters (album)|Scissor Sisters|Dance-Pop;Pop Rock;Dance;Pop;Rock",
+"Scissor Sisters|Scissor Sisters|2004|OLAK5uy_lf3OhfoH_2gwPSITxV7IV8jtWPqSvFark|A4037|Scissor Sisters (album)|Scissor Sisters|Dance-Pop;Pop Rock;Dance;Pop;Rock",
 "War|The World Is a Ghetto|1972|OLAK5uy_mNoDa5G0lNoPHlM-0UWaHCYfTyoGxDREY|A1366|The World Is a Ghetto|War (American band)|Funk;Soul;R&B",
 "Barry White|Can't Get Enough|1974|OLAK5uy_lemoLpuonbDKN-zZF85-10WXq9mbzKj10|A2526|Can't Get Enough (Barry White album)|Barry White|Smooth Soul;R&B;Soul",
 "Lou Reed|Magic and Loss|1992|OLAK5uy_ltlGRxWgEzpLTvF0USvvJxR3CJkAOz_bA|A859|Magic and Loss|Lou Reed|Art Rock;Rock",
