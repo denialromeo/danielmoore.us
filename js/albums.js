@@ -1405,7 +1405,7 @@ const albums = [
 "Yes|The Yes Album|1971|OLAK5uy_nY-QvLEUh8bovdW1btwUXJHE8I_W5bIbA|A232|The Yes Album|Yes (band)|Progressive Rock;Rock",
 "Blood Orange|Cupid Deluxe|2013|OLAK5uy_nlGKgMpeKVswSBdC7BeNoU4U21MsfRFMM|A5278|Cupid Deluxe|Dev Hynes|Alternative R&B;Synth Funk;Contemporary R&B;Funk;R&B",
 "Neil Young and Crazy Horse|Weld|1991|OLAK5uy_mnDr2jN8JOV08QDi-nvkbCrxBkEJychps|A818|Weld (album)|Neil Young|Hard Rock;Rock",
-"Hank Mobley|Soul Station|1960|PLg7mJ3BwdABJB42JDMr1ueIe8viY5FgC8|A1885|Soul Station|Hank Mobley|Hard Bop;Bebop;Jazz",
+"Hank Mobley|Soul Station|1960|OLAK5uy_lBDG1CNQ6KrboGM6nE6WkYPj3DMHxnsxg|A1885|Soul Station|Hank Mobley|Hard Bop;Bebop;Jazz",
 "Dexter Gordon|Go|1962|OLAK5uy_ldEgeU2IYstfUuhavk6y_jkbhhuAHHgSw|A1915|Go (Dexter Gordon album)|Dexter Gordon|Hard Bop;Bebop;Jazz",
 "Nick Cave & The Bad Seeds|Your Funeral... My Trial|1986|OLAK5uy_nYaEpwWvn2Y2y4qM5Yz5qC6-bYcPtKKRw|A1509|Your Funeral... My Trial|Nick Cave and the Bad Seeds|Gothic Rock;Post-Punk;Rock",
 "Einstürzende Neubauten|Kollaps|1981|OLAK5uy_lokqiB03F_FZvo-MwbzFHisgOiuncL3k8|A2875|Kollaps|Einstürzende Neubauten|Industrial;Experimental;Industrial Music",
