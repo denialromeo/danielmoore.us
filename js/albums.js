@@ -1778,7 +1778,7 @@ const albums = [
 "The Tony Williams Lifetime|Emergency!|1969|OLAK5uy_mTe0_-knDJvVQA9oTi_IieuGgoJOgZh6U|A1994|Emergency! (album)|The Tony Williams Lifetime|Jazz Fusion;Jazz",
 "Against Me!|Transgender Dysphoria Blues|2014|OLAK5uy_lApTM5aYXIj34giMCEfHC0Sk6EAI-_cj8|A5430|Transgender Dysphoria Blues|Against Me!|Punk Rock;Rock",
 "Jens Lekman|Night Falls Over Kortedala|2007|OLAK5uy_lVkQu3QQLTEMoRWhp-aJVrhAS8HoLVdsU|A4256|Night Falls Over Kortedala|Jens Lekman|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop",
-"David Bowie|The Next Day|2013|PLW5_8eogYFDMwzMUvMemTd7ohnkMwJjNw|A5282|The Next Day|David Bowie|Art Rock;Rock",
+"David Bowie|The Next Day|2013|OLAK5uy_lF9UfJzMsEZRfnpTuui_ClUWZvjv6KfAI|A5282|The Next Day|David Bowie|Art Rock;Rock",
 "Germs|(GI)|1979|PLpvztXgGzYSFP2xEoeZ8D1bnUHYiTSDaz|A2778|GI (album)|Germs (band)|Hardcore Punk;Punk Rock;Rock",
 "Drive-By Truckers|Decoration Day|2003|OLAK5uy_k_ZHaRcIXDQnM3J_cencEm0HRNeLbl4Vw|A3938|Decoration Day (album)|Drive-By Truckers|Country Rock;Southern Rock;Rock",
 "Erykah Badu|Mama's Gun|2000|OLAK5uy_nVbTkMueWi85QST59zL7qC8TFeUwmtzCA|A4879|Mama's Gun|Erykah Badu|Neo-Soul;R&B;Soul",
