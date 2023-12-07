@@ -1293,7 +1293,7 @@ const albums = [
 "M83|Saturdays = Youth|2008|OLAK5uy_m4_YiDEjRBps6T4INNek8ustDGrVkWq_s|A4355|Saturdays = Youth|M83 (band)|Dream Pop;Alternative Rock;Rock",
 "Faces|A Nod Is As Good As a Wink...to a Blind Horse|1971|OLAK5uy_nuhOXbGTz3w_fpTNh3XyHOwD270G5H5zI|A231|A Nod Is As Good As a Wink... to a Blind Horse|Faces (band)|Hard Rock;Rock",
 "Modest Mouse|Good News for People Who Love Bad News|2004|OLAK5uy_npjMD0PuGFqEm84aU-JcLIIrZUV7oTZqQ|A4044|Good News for People Who Love Bad News|Modest Mouse|Indie Rock;Alternative Rock;Rock",
-"Bob Seger & The Silver Bullet Band|Night Moves|1976|OLAK5uy_l3YmrT6XEgBUvYzJV1LJmyH62cBlYsU_k|A370|Night Moves (album)|Bob Seger|Heartland Rock;Pop Rock;Pop;Rock",
+"Bob Seger & The Silver Bullet Band|Night Moves|1976|OLAK5uy_mTrF7V5vqfhkuXzjKBMQ6a5RgbVEhQZzc|A370|Night Moves (album)|Bob Seger|Heartland Rock;Pop Rock;Pop;Rock",
 "Genesis|Foxtrot|1972|OLAK5uy_n_3u90Fry-oB3UBXAHVEma7KLlsm2hxF8|A1145|Foxtrot (album)|Genesis (band)|Progressive Rock;Rock",
 "John Coltrane|Ascension|1966|https://www.youtube.com/embed/-81AEUqHPzU|A1952|Ascension (John Coltrane album)|John Coltrane|Free Jazz;Spiritual Jazz;Avant-Garde Jazz;Jazz",
 "Bruce Springsteen|The Rising|2002|OLAK5uy_n9UUWeHA2YKfymVQqETeHazNMUstNmLqY|A1628|The Rising (album)|Bruce Springsteen|Heartland Rock;Pop Rock;Singer/Songwriter;Pop;Rock",
