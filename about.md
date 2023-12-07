@@ -234,13 +234,10 @@ I hope you have a good time here. Thanks for dropping by.
 {:#television}
 **Television**
 
-* [*American Sniper*](https://www.max.com/movies/american-sniper/a6698ebf-192c-45e6-852a-4fc98679882f) by [Clint Eastwood](https://en.wikipedia.org/wiki/Clint_Eastwood) (Masterclass in emotional manipulation.)
-* [*Changjin Hu*](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=battle+at+lake+changjin) by [Chen Kaige](https://en.wikipedia.org/wiki/Chen_Kaige) (Resist U.S. aggression and aid Korea!)
 * [*Coraline*](https://play.max.com/movie/2c315d70-082d-44e4-b5fc-1085a62e8d90) by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman) (Even a rigged game can be won if you cheat.)
 * [*Death Note*](https://www.netflix.com/title/70204970) by [Araki Tetsuro](https://en.wikipedia.org/wiki/Tetsur%C5%8D_Araki) (Refines drawn-out moments of tension to an art form.)
 * [*Der Untergang*](https://www.peacocktv.com/watch/asset/movies/downfall/6d4b8832-41a9-39b1-be77-a879c597160f) by [Oliver Hirschbiegel](https://en.wikipedia.org/wiki/Oliver_Hirschbiegel) (Final days of the Third Reich.)
 * [*Django Unchained*](https://www.amazon.com/Django-Unchained-Jamie-Foxx/dp/B0B3NBCHMR) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Escaping misery is a universal struggle.)
-* [*Get Out*](https://www.amazon.com/Get-Out-Daniel-Kaluuya/dp/B06Y1L8T75) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Lampoons the racial weirdness of the Obama years.)
 * [*Gisaengchung*](https://play.max.com/movie/d5e3be11-eb8b-449f-89cf-db887ddee777) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (Class struggle is swiftly returning.)
 * [*The Green Knight*](https://www.amazon.com/dp/B09CP38JQ5) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (It really is all a game.)
 * [*Jiro Dreams of Sushi*](https://www.amazon.com/gp/video/detail/B00BR1FD26) by [Ono Jiro](https://en.wikipedia.org/wiki/Jiro_Ono_(chef)) (There is bliss in running a business well.)
@@ -250,10 +247,8 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Mononoke Hime*](https://play.max.com/movie/e31c2dc2-cb8b-416e-9eda-769be3bb3a6b) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (Everyone's the hero of their own story.)
 * [*Nightcrawler*](https://play.max.com/movie/130a3280-93bf-4907-a6c9-de7daa8a8de7) by [Dan Gilroy](https://en.wikipedia.org/wiki/Dan_Gilroy) (Markets don't reward what's best for society.)
 * [*Nope*](https://www.amazon.com/Nope-Daniel-Kaluuya/dp/B0B8V71GPC) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Make not a spectacle of others, lest you be destroyed in turn.)
-* [*The Office*](https://www.peacocktv.com/watch/asset/tv/the-office-superfan-episodes/8229469043710582112) by [Greg Daniels](https://en.wikipedia.org/wiki/Greg_Daniels) (Pair with "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" to forever alter your life goals.)
 * [*Oldboy*](https://www.amazon.com/gp/video/detail/0MGWDXCL13ZZ9KTAE6STVRJT52) by [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook) (We are but playthings for the gods.)
 * [*The Personal History of David Copperfield*](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10baee16-44cc-e332-e3c6-0796dd7162e9) by [Armando Ianucci](https://en.wikipedia.org/wiki/Armando_Ianucci) (My favorite comedy.)
-* [*Piper*](https://www.disneyplus.com/movies/piper/3j2llXeKBRCu) by [Alan Barillaro](https://en.wikipedia.org/wiki/Alan_Barillaro) (Keep your eyes open to the patterns in the world, and you'll eat well.)
 * [*Schindler's List*](https://www.amazon.com/gp/video/detail/B00BEN0V8S) by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) (Still the best film ever made about racism.)
 * [*Soylent Green*](https://www.amazon.com/dp/B001QUM4IY) by [Richard Fleischer](https://en.wikipedia.org/wiki/Richard_Fleischer) (Filmed in 1972, set in 2022 &ndash; much of it came true.)
 * [*Squid Game*](https://www.netflix.com/title/81040344) by [Hwang Dong-hyuk](https://en.wikipedia.org/wiki/Hwang_Dong-hyuk) (Thinly veiled metaphor for corporate life.)
