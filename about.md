@@ -103,9 +103,6 @@ I hope you have a good time here. Thanks for dropping by.
 {:#philosophy-books}
 **Philosophy Books**
 
-* [*The Analects*](http://classics.mit.edu/Confucius/analects.1.1.html) by [Kong Fuzi](https://en.wikipedia.org/wiki/Confucius) (Building a society that works starts from the bottom.)
-* [*The Art of War*](https://www.goodreads.com/notes/20112728-the-art-of-war/71655209-daniel-moore) by [Sun Zi](https://en.wikipedia.org/wiki/Sun_Tzu) (Conflict is the default state for all life.)
-* [*The Book of Five Rings*](https://www.goodreads.com/notes/21188395-musashi-s-book-of-five-rings/71655209-daniel-moore) by [Miyamoto Musashi](https://en.wikipedia.org/wiki/Miyamoto_Musashi) (From one thing, know ten thousand things.)
 * [*Certain to Win*](https://www.goodreads.com/notes/39774984-certain-to-win/71655209-daniel-moore) by [Chet Richards](https://slightlyeastofnew.com/page-1/) (How to outmaneuver and defeat much larger enemies.)
 * [*The Complete Works*](/schopenhauer) by [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (Patron saint of intellectuals.)
 * [*Disciplined Minds*](/disciplined-minds) by [Jeff Schmidt](https://disciplinedminds.tripod.com/) (Thriving in the white-collar workplace.)
