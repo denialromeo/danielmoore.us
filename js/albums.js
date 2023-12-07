@@ -1019,7 +1019,7 @@ const albums = [
 "Hüsker Dü|Candy Apple Grey|1986|OLAK5uy_mgAZNWea3Df5fXmy_V2Yw-ENmMnyGTTsQ|A684|Candy Apple Grey|Hüsker Dü|Alternative Rock;Rock",
 "U2|Boy|1980|OLAK5uy_k8Z9dcVLFRTPDFJTQJ26s_zGiEdwfJ-Mc|A500|Boy (album)|U2|Post-Punk;Rock",
 "Tom Petty|Full Moon Fever|1989|OLAK5uy_nqur5FM4SwScflrZwXGOT73SIl028tsnU|A757|Full Moon Fever|Tom Petty|Heartland Rock;Pop Rock;Pop;Rock",
-"Tindersticks|Tindersticks|1993|OLAK5uy_kRZRrAYdRx258pyHXKjqZnnnG5AtR1uz0|A885|Tindersticks (1993 album)|Tindersticks|Chamber Pop;Baroque Pop;Indie Pop;Pop",
+"Tindersticks|Tindersticks|1993|PLy4u88AKUauJ8PyHEZXdgBOlDq5m-mrAO|A885|Tindersticks (1993 album)|Tindersticks|Chamber Pop;Baroque Pop;Indie Pop;Pop",
 "Johnny Cash|American III: Solitary Man|2000|OLAK5uy_mVSU6stwVwwvy3J0ts8rBqSCFwcayOXN0|A1095|American III: Solitary Man|Johnny Cash|Americana;Country",
 "The Soft Machine|Third|1970|OLAK5uy_npMsgAP_TDP4sTuXYwXLNs-FUNTKolzPw|A1128|Third (Soft Machine album)|Soft Machine|Canterbury Scene;Jazz Fusion;Jazz-Rock;Jazz;Progressive Rock;Rock",
 "Sigur Rós|Takk...|2005|OLAK5uy_l3vcrsLiz7vn1Bnwp0oIlZsuFXWtkUSzA|A4193|Takk...|Sigur Rós|Post-Rock;Rock",
