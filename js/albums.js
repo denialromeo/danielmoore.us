@@ -1499,7 +1499,7 @@ const albums = [
 "Belle and Sebastian|The Life Pursuit|2006|OLAK5uy_nqrhdN3f-Mj09jX0FfmDa96tvorQnaz4g|A2079|The Life Pursuit|Belle and Sebastian|Chamber Pop;Baroque Pop;Indie Pop;Pop",
 "William Basinski|The Disintegration Loops|2002|OLAK5uy_lytWy9yNDJqd4N7qHGA6pXwtEx1kByZ90|A4947|The Disintegration Loops|William Basinski|Ambient;Minimalism;Tape Music;Classical Music;Experimental;Modern Classical",
 "Kali Uchis|Isolation|2018|OLAK5uy_mDBx9zKmDyvGMR1obcyOGwq-knkpK7ez8|A6039|Isolation (Kali Uchis album)|Kali Uchis|Contemporary R&B;Neo-Soul;R&B;Soul",
-"Moondog|Moondog|1969|OLAK5uy_lnc8ol_B_DBAQCEg2ph_Ieg53-xnyQ2GM|A4485|Moondog (album)|Moondog|Modern Classical;Third Stream;Classical Music;Jazz",
+"Moondog|Moondog|1969|OLAK5uy_mjWtfGHH8izapMP60aOKsS8OGv9g0O9jM|A4485|Moondog (1969 album)|Moondog|Modern Classical;Third Stream;Classical Music;Jazz",
 "Millie Jackson|Caught Up|1974|OLAK5uy_n7bmb_rejkvB4txBDp04iHQCHV9fg4dgI|A1152|Caught Up (Millie Jackson album)|Millie Jackson|Southern Soul;R&B;Soul",
 "Archie Shepp|Fire Music|1965|OLAK5uy_mZwPlncapp_P3IY7oVW_w2RYz3RPpTvFw|A1958|Fire Music (Archie Shepp album)|Archie Shepp|Avant-Garde Jazz;Jazz",
 "Booker T. & The MG's|Green Onions|1962|OLAK5uy_kAOwSkWW9R8MUKqD0CLrJXFEXi5-VTp5I|A1652|Green Onions|Booker T. & the M.G.'s|Rhythm & Blues;Soul;R&B",
