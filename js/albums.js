@@ -1976,7 +1976,7 @@ const albums = [
 "The Caretaker|An Empty Bliss Beyond This World|2011|PLAuCcYDkZiSRn2Gv7BOM1qjHVMM4xMYN0|A5538|An Empty Bliss Beyond This World|The Caretaker (musician)|Ambient;Turntable Music;Experimental",
 "Pavement|Brighten the Corners|1997|OLAK5uy_lcX5R8K69p_hH9YpWqRLTQjWWcLIv5R6Q|A999|Brighten the Corners|Pavement (band)|Indie Rock;Alternative Rock;Rock",
 "Rahsaan Roland Kirk|Rip, Rig and Panic|1965|OLAK5uy_no-AlwOLIdflhHL-sKUWk08ckBteR3CSU|A1956|Rip, Rig and Panic (album)|Rahsaan Roland Kirk|Post-Bop;Bebop;Jazz",
-"2 Many DJs|As Heard on Radio Soulwax Pt. 2|2002|PLB768EFFA27B7E581|A3954|As Heard on Radio Soulwax Pt. 2|Soulwax|House;Mashup;Dance;Electronic;Electronic Dance Music;Experimental;Plunderphonics;Sound Collage;Tape Music",
+"2 Many DJs|As Heard on Radio Soulwax Pt. 2|2002|https://www.youtube.com/embed/4Xe23QBP1bE|A3954|As Heard on Radio Soulwax Pt. 2|Soulwax|House;Mashup;Dance;Electronic;Electronic Dance Music;Experimental;Plunderphonics;Sound Collage;Tape Music",
 "Dr. John|Dr. John's Gumbo|1972|OLAK5uy_mCzQMweVqg10m5Qx_8cObQ3gm188GAWJ4|A1178|Dr. John's Gumbo|Dr. John|New Orleans R&B;R&B",
 "Enya|Watermark|1988|OLAK5uy_nAfwEW_AOsN52i6p7w1tfgm66FnZEMuh0|A1531|Watermark (Enya album)|Enya|Celtic New Age;New Age",
 "Fats Domino|Rock and Rollin' with Fats Domino|1956|PLqoJm0T2W3p2T463kIALpw4tyFfXJcyUZ|A1257|Rock and Rollin' with Fats Domino|Fats Domino|Rock & Roll;Rock",
