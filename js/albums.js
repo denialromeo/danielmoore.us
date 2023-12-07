@@ -495,7 +495,7 @@ const albums = [
 "Herbie Hancock|Head Hunters|1973|OLAK5uy_m789U0dt-J4aLVd7p-dXJxSfDliep-NT0|A2011|Head Hunters|Herbie Hancock|Jazz Fusion;Jazz-Funk;Funk;Jazz;R&B",
 "Bill Evans|Sunday at the Village Vanguard|1961|PL0q2VleZJVEnDAOJmxWPFQEiB6nTOCPBJ|A1898|Sunday at the Village Vanguard|Bill Evans|Cool Jazz;Jazz",
 "Angel Olsen|All Mirrors|2019|OLAK5uy_nIN6hlJmFOn0tQZ9hcL6GDGg0X7wTBb-w|A6207|All Mirrors|Angel Olsen|Art Pop;Chamber Pop;Baroque Pop;Indie Pop;Pop",
-"Black Sabbath|Black Sabbath|1970|OLAK5uy_m-G9Pf4ubGqV0OhmjHBIrQDyfEtjhbWjI|A1251|Black Sabbath (album)|Black Sabbath|Hard Rock;Heavy Metal;Metal;Rock",
+"Black Sabbath|Black Sabbath|1970|PL1gLT2gwYzAGfiwS3GfXVCIo0ep9P8p1B|A1251|Black Sabbath (album)|Black Sabbath|Hard Rock;Heavy Metal;Metal;Rock",
 "Ryan Adams|Heartbreaker|2000|OLAK5uy_nY7TJE_LkqI36OPjvrKRPL82VP0XYT6mY|A1103|Heartbreaker (Ryan Adams album)|Ryan Adams|Alt-Country;Americana;Country",
 "FKA twigs|Magdalene|2019|OLAK5uy_mDsp7RarLZ8aslznqXQtM0R8wCGdep1R0|A6257|Magdalene (album)|FKA Twigs|Art Pop;Glitch Pop;Electronic;Pop",
 "The Prodigy|The Fat of the Land|1997|OLAK5uy_lOlkFeq5MvTV5YV-U3gZKPvBvVf4sPzoA|A1002|The Fat of the Land|The Prodigy|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music",
