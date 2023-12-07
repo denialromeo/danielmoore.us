@@ -1082,7 +1082,7 @@ const albums = [
 "tUnE-yArDs|w h o k i l l|2011|OLAK5uy_lD991KfAOE5YMjNYKMNIE45wN1gsJxa28|A5175|Whokill|Tune-Yards|Art Pop;Indie Pop;Pop",
 "Jackson Browne|The Pretender|1976|OLAK5uy_mcgWXJcoQXH0Ku7TqDiLe10NcOJ8xMwbA|A368|The Pretender (album)|Jackson Browne|Singer/Songwriter",
 "Fever Ray|Plunge|2017|OLAK5uy_mL7lfdFxey41b4uzVQ4X4OqOlHVGb6ZUM|A5893|Plunge (album)|Karin Dreijer|Art Pop;Electropop;Electronic;Pop",
-"Thelonious Monk with John Coltrane|Thelonious Monk with John Coltrane|1961|PL0q2VleZJVEk3Tmv67HXOebr_CzZwuARj|A1826|Thelonious Monk with John Coltrane|Thelonious Monk|Hard Bop;Bebop;Jazz",
+"Thelonious Monk with John Coltrane|Thelonious Monk with John Coltrane|1961|OLAK5uy_mWdkV7gls3MQfP_jUiP41iSJ_WRTiafj8|A1826|Thelonious Monk with John Coltrane|Thelonious Monk|Hard Bop;Bebop;Jazz",
 "Lennie Tristano|Lennie Tristano|1956|OLAK5uy_mIeY2ZSFZSbx8MKyl_vJ1DIGtcAW4DIag|A1805|Lennie Tristano (album)|Lennie Tristano|Cool Jazz;Jazz",
 "Caribou|Swim|2010|OLAK5uy_lvczAgZvAum82L7r0e7GsBdLG45qpYj10|A5060|Swim (Caribou album)|Dan Snaith|Electronic",
 "The Wrens|The Meadowlands|2003|OLAK5uy_lKtXZor_IFDp7PzK21h-RYb_BiOiOKoCM|A3923|The Meadowlands (album)|The Wrens|Indie Rock;Alternative Rock;Rock",
