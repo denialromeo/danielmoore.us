@@ -1492,7 +1492,7 @@ const albums = [
 "Silver Apples|Silver Apples|1968|OLAK5uy_nWjjSryPYyQEW8ohN9Jd3jqHCuv2fLFgk|A4471|Silver Apples (album)|Silver Apples|Electronic;Psychedelic Rock;Rock",
 "Count Basie|April in Paris|1957|OLAK5uy_m2vp-QSO5Bt7gSydUVm-RorPWTIPi4zfY|A1810|April in Paris (album)|Count Basie|Big Band;Swing;Jazz",
 "Faust|So Far|1972|OLAK5uy_m20Dr-r78zpA_puvbYRgoXW2v62ALSKNU|A2439|Faust So Far|Faust (band)|Krautrock;Experimental Rock;Progressive Rock;Rock",
-"Lizzo|Cuz I Love You|2019|PLbHR-EqT3TYRM_5vgT5aaLZtY0G6SRwg7|A6294|Cuz I Love You|Lizzo|Pop Rap;Pop Soul;Hip Hop;Pop;R&B;Soul",
+"Lizzo|Cuz I Love You|2019|OLAK5uy_lgHUFYtG3rJleXQLOxCbq4QQo0wIk5C1o|A6294|Cuz I Love You|Lizzo|Pop Rap;Pop Soul;Hip Hop;Pop;R&B;Soul",
 "Jeff Beck|Blow by Blow|1975|OLAK5uy_m4RIkO4KeNSHtAFD13dMT_ydhSJVb73Bc|A356|Blow by Blow|Jeff Beck|Blues Rock;Jazz-Rock;Rock",
 "Rod Stewart|Gasoline Alley|1970|OLAK5uy_nVCFLO9ckSIXY1MFgU0DIoXLzjPj11W8o|A204|Gasoline Alley (album)|Rod Stewart|Blues Rock;Folk Rock;Rock",
 "2Pac|Me Against the World|1995|OLAK5uy_lEdGf7rogpXnvYrOSeSInzlt4gV2rXYmo|A1612|Me Against the World|Tupac Shakur|Conscious Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
