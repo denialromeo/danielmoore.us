@@ -1675,7 +1675,7 @@ const albums = [
 "Future Islands|Singles|2014|OLAK5uy_mVpKjp0hbxXqB245jz6Sw-OBsGnhljEvk|A5401|Singles (Future Islands album)|Future Islands|Synthpop;Electronic;Pop",
 "Tori Amos|Under the Pink|1994|OLAK5uy_mhLuFQz9hq9VJQX3QJdkVHAGYDbe7oKkQ|A1719|Under the Pink|Tori Amos|Singer/Songwriter",
 "Black Sabbath|Heaven and Hell|1980|OLAK5uy_ntUL0EtULe_HmXHacRIaRd8nvMIiJ6FRQ|A2758|Heaven and Hell (Black Sabbath album)|Black Sabbath|Hard Rock;Heavy Metal;Metal;Rock",
-"Van Morrison & The Chieftains|Irish Heartbeat|1988|OLAK5uy_lwyC0hRtj-HUylypSZVlb_Mj38QtUZpsA|A736|Irish Heartbeat|The Chieftains|Celtic Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music",
+"Van Morrison & The Chieftains|Irish Heartbeat|1988|OLAK5uy_m76I_gurxvPyoO5X76P6QJ1pv_F4hlCp4|A736|Irish Heartbeat|The Chieftains|Celtic Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music",
 "Dennis Wilson|Pacific Ocean Blue|1977|OLAK5uy_klPsmD5kh6iWwKvrExqaWMvce6Hg9n2RI|A2744|Pacific Ocean Blue|Dennis Wilson|Pop Rock;Singer/Songwriter;Pop;Rock",
 "McCoy Tyner|The Real McCoy|1967|OLAK5uy_nWXm4PZn0z31VXBsGYON-CMQYaFU4Pp8k|A1979|The Real McCoy (album)|McCoy Tyner|Post-Bop;Bebop;Jazz",
 "Jack White|Blunderbuss|2012|OLAK5uy_lyP7d87YKODkCmVIyEM8FA0UnfvNebX6k|A5249|Blunderbuss (album)|Jack White|Blues Rock;Garage Rock Revival;Singer/Songwriter;Garage Rock;Rock",
