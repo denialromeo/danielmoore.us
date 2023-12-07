@@ -1234,7 +1234,7 @@ const albums = [
 "Clifton Chenier|Bogalusa Boogie|1975|OLAK5uy_liD5wKQcDgj9qljewSZ934XrX6KdUO-L4|A2208|Bogalusa Boogie|Clifton Chenier|Zydeco;American Folk Music;Cajun;Folk;Regional Music;Traditional Folk Music",
 "Neu!|Neu! 75|1975|OLAK5uy_llyvnQtaDMpDznvuwL9kJfpsAGWE4PvuA|A2579|Neu! '75|Neu!|Krautrock;Experimental Rock;Progressive Rock;Rock",
 "Sonny Rollins|Way Out West|1957|OLAK5uy_lo3xzERtuhxDmj9fwsgN6PkO-WS9ZyWJ4|A1830|Way Out West (Sonny Rollins album)|Sonny Rollins|Hard Bop;Bebop;Jazz",
-"The Gun Club|Miami|1982|PLglUu7rOaMDshUaHPuM-0Av1NhoDwAVzC|A1480|Miami (The Gun Club album)|The Gun Club|Post-Punk;Punk Blues;Punk Rock;Rock",
+"The Gun Club|Miami|1982|OLAK5uy_mYKEmWrDj7fbb9mKjwAlffRW9i6xrDp3E|A1480|Miami (The Gun Club album)|The Gun Club|Post-Punk;Punk Blues;Punk Rock;Rock",
 "Four Tet|There Is Love in You|2010|OLAK5uy_msFCzM2AF2JwAkW66qbJ0GHZFhID4Vvjc|A5067|There Is Love in You|Four Tet|Electronic",
 "Cream|Fresh Cream|1966|OLAK5uy_kH0ymfYA3c3HNH6XxT6-4dpjfXn1vzkqM|A71|Fresh Cream|Cream (band)|Blues Rock;British Blues;Psychedelic Rock;Blues;Electric Blues;Rock",
 "Stevie Wonder|Music of My Mind|1972|OLAK5uy_lVWg0-VGysMgpGZsKAuJ0G5CRfScnMuyY|A1141|Music of My Mind|Stevie Wonder|Funk;Soul;R&B",
