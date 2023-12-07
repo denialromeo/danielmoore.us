@@ -2490,7 +2490,7 @@ const albums = [
 "Crystal Castles|Crystal Castles (I)|2008|OLAK5uy_nxZB3H1wY3A2ckkkaOo2eS-g8VOxJxoqw|A4362|Crystal Castles (album)|Crystal Castles|Synthpop;Electronic;Pop",
 "Aimee Mann|Whatever|1993|OLAK5uy_kEitimObm8N7JkgGZFKhwK0YQXuT-vnq0|A1584|Whatever (Aimee Mann album)|Aimee Mann|Pop Rock;Singer/Songwriter;Pop;Rock",
 "Cecil Taylor|Nefertiti, the Beautiful One Has Come|1963|OLAK5uy_nt0riSosGtciCbnao8exIZA8AJsr2QVsw|A1922|Nefertiti, the Beautiful One Has Come|Cecil Taylor|Free Jazz;Avant-Garde Jazz;Jazz",
-"Prince|Lovesexy|1988|PLVZiSGNMlM0vRiwgWG9OsgEoHB05taRY-|A732|Lovesexy|Prince (musician)|Contemporary R&B;Funk;Pop Rock;Pop;R&B;Rock",
+"Prince|Lovesexy|1988|OLAK5uy_kGgQ0WxbgeEmySpwyCVQvMFSukl_UGXiw|A732|Lovesexy|Prince (musician)|Contemporary R&B;Funk;Pop Rock;Pop;R&B;Rock",
 "Beth Orton|Trailer Park|1996|OLAK5uy_mEP82yFYVANf3cBtJpdwXRp6uT7UJAnnQ|A987|Trailer Park (album)|Beth Orton|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop",
 "Angelo Badalamenti|Soundtrack from Twin Peaks|1990|OLAK5uy_kjzgzCowTlBA3NHORpTITf4WKHzKhm3bc|A4751|Soundtrack from Twin Peaks|Angelo Badalamenti|Ambient Pop;Dark Jazz;Television Music;Ambient;Dark Ambient;Descriptor;Jazz;Pop;Soundtracks",
 "The Afghan Whigs|1965|1998|OLAK5uy_lp6U4OTzepjt_zrN2fJgRCajewKxqCAsc|A3703|1965 (album)|The Afghan Whigs|Alternative Rock;Rock",
