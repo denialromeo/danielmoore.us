@@ -1582,7 +1582,7 @@ const albums = [
 "Gene Vincent and His Blue Caps|Gene Vincent and the Blue Caps|1957|OLAK5uy_kFmsx0iMAev00WPYF09hxQguFEadIXTgw|A27|Gene Vincent and the Blue Caps|Gene Vincent|Rockabilly;Rock;Rock & Roll",
 "Parliament|Funkentelechy vs. the Placebo Syndrome|1977|OLAK5uy_kSgDSfvP7iK2EOYy0wkHg4F0FCTzFG8kM|A1156|Funkentelechy vs. the Placebo Syndrome|Parliament (band)|P-Funk;Funk;R&B",
 "Jethro Tull|Thick as a Brick|1972|OLAK5uy_kk5Y4OYWFNpEAo-Ib4SSy4qDyFj_Oj4oA|A1176|Thick as a Brick|Jethro Tull (band)|Progressive Rock;Rock",
-"Dave Holland|Conference of the Birds|1973|PL694ct-ZcR0rAp-NGALj_3hCKj1_MYHAx|A2006|Conference of the Birds (Dave Holland album)|Dave Holland|Avant-Garde Jazz;Jazz",
+"Dave Holland|Conference of the Birds|1973|OLAK5uy_lVLO3vsJ_sL2u6nti4WN_a5H1rvKr8OGA|A2006|Conference of the Birds (Dave Holland album)|Dave Holland|Avant-Garde Jazz;Jazz",
 "Ice Cube|Death Certificate|1991|OLAK5uy_kfSeVlf9q278IHfsMJlmFa_jzwc6ct9VM|A1560|Death Certificate (album)|Ice Cube|Gangsta Rap;Political Hip Hop;Hardcore Hip Hop;Hip Hop",
 "The Strokes|Room On Fire|2003|OLAK5uy_maPJVRMRXRbnI955d2PdBCIhy7Y-vTQDE|A4011|Room on Fire|The Strokes|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock",
 "The Modern Jazz Quartet|Django|1956|PLccpwGk_xup-GlPzUCDggz3K1M3YtNi8I|A1798|Django (album)|Modern Jazz Quartet|Cool Jazz;Third Stream;Jazz",
