@@ -1483,7 +1483,7 @@ const albums = [
 "Neil Young|Harvest Moon|1992|OLAK5uy_lf76NofcXC0ukS9j09UJenazhj4k2ka74|A855|Harvest Moon (album)|Neil Young|Acoustic Rock;Country Rock;Folk Rock;Singer/Songwriter;Rock",
 "David Sylvian|Secrets of the Beehive|1987|OLAK5uy_mr9PGReUfztuLn7ICLcX7EQqZIrT3bNR8|A3163|Secrets of the Beehive|David Sylvian|Ambient Pop;Art Pop;Pop",
 "Fugazi|In On the Kill Taker|1993|OLAK5uy_miEyr4-xsOjWoILv9Nx8mbH4eeplVSnvk|A3473|In on the Kill Taker|Fugazi|Post-Hardcore;Punk Rock;Rock",
-"Iron Maiden|Iron Maiden|1980|PLEivWbown2xRIXBDEPhupgSEawFsUvM1I|A2816|Iron Maiden (album)|Iron Maiden|NWOBHM;Heavy Metal;Metal;Rock",
+"Iron Maiden|Iron Maiden|1980|PL1X3qTzT40VnhLADSyb22qj_FeP3jEswQ|A2816|Iron Maiden (album)|Iron Maiden|NWOBHM;Heavy Metal;Metal;Rock",
 "Queens of the Stone Age|...Like Clockwork|2013|OLAK5uy_l6uriqG1kd-gI9MHXQoIz6IYX2_Vcyv9c|A5359|...Like Clockwork|Queens of the Stone Age|Alternative Rock;Rock",
 "Flying Lotus|Los Angeles|2008|OLAK5uy_nlsLRecArw04-4_Vo3qGJjlIUYXJ3a8Yc|A4365|Los Angeles (Flying Lotus album)|Flying Lotus|IDM;Wonky;Dance;Electronic;Electronic Dance Music",
 "Todd Terje|It's Album Time|2014|OLAK5uy_mCMP_lzIdDyILsQvsOOuapi4hT2AjPFmw|A5408|It's Album Time|Todd Terje|Electro-Disco;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House",
