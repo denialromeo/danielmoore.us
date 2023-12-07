@@ -1687,7 +1687,7 @@ const albums = [
 "Tom Waits|Frank's Wild Years|1987|OLAK5uy_nsiVbObMv28EkxMou9uOPnNjP9N3DhHps|A706|Franks Wild Years|Tom Waits|Singer/Songwriter",
 "Randy Newman|Randy Newman|1968|OLAK5uy_k4h0wz3aa8RBQ5rvxDSszEuu3qwRTTzLQ|A2589|Randy Newman (album)|Randy Newman|Baroque Pop;Singer/Songwriter;Pop",
 "Sun Ra|Jazz in Silhouette|1958|OLAK5uy_kCd5gkLXOTUIu55sLUsGz2ehP--_Uuw80|A1854|Jazz in Silhouette|Sun Ra|Post-Bop;Bebop;Jazz",
-"Brigitte Fontaine & Art Ensemble of Chicago|Comme à la Radio|1970|OLAK5uy_l-IX2aZUo_40YzqUzapIJTobIjqTVSTt4|A2640|Comme à la radio|Art Ensemble of Chicago|Chamber Jazz;Jazz",
+"Brigitte Fontaine & Art Ensemble of Chicago|Comme à la Radio|1970|OLAK5uy_l3eL1LI_oeMyaEppbHEjR9Otqt_G6dmgs|A2640|Comme à la radio|Art Ensemble of Chicago|Chamber Jazz;Jazz",
 "Ani DiFranco|Dilate|1996|OLAK5uy_mqobS5ePH-kXlFAZQmn8rbc5s0wV-GDEg|A3622|Dilate (Ani DiFranco album)|Ani DiFranco|Alternative Singer/Songwriter;Folk Rock;Rock;Singer/Songwriter",
 "Sonny Clark|Cool Struttin'|1958|PLopzRFdmXSEMHcpqvslB0nQj2uEtLjUmo|A1836|Cool Struttin'|Sonny Clark|Hard Bop;Bebop;Jazz",
 "Kelela|Take Me Apart|2017|OLAK5uy_k0KEq9gJu_GvZ1u0DKO32foOs7h3YdPII|A5925|Take Me Apart|Kelela|Alternative R&B;UK Bass;Contemporary R&B;Dance;Electronic;Electronic Dance Music;R&B;UK Garage",
