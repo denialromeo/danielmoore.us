@@ -236,7 +236,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Der Untergang*](https://www.peacocktv.com/watch/asset/movies/downfall/6d4b8832-41a9-39b1-be77-a879c597160f) by [Oliver Hirschbiegel](https://en.wikipedia.org/wiki/Oliver_Hirschbiegel) (Final days of the Third Reich.)
 * [*Django Unchained*](https://www.amazon.com/Django-Unchained-Jamie-Foxx/dp/B0B3NBCHMR) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Escaping misery is a universal struggle.)
 * [*Gisaengchung*](https://play.max.com/movie/d5e3be11-eb8b-449f-89cf-db887ddee777) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (Class struggle is swiftly returning.)
-* [*The Green Knight*](https://www.amazon.com/dp/B09CP38JQ5) by [David Lowery](https://en.wikipedia.org/wiki/David_Lowery_(director)) (It really is all a game.)
 * [*Jiro Dreams of Sushi*](https://www.amazon.com/gp/video/detail/B00BR1FD26) by [Ono Jiro](https://en.wikipedia.org/wiki/Jiro_Ono_(chef)) (There is bliss in running a business well.)
 * [*Kaze Tachinu*](https://play.max.com/movie/f769960a-91db-4e24-8ecc-de9bd41b8102) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
 * [*The Little Matchgirl*](https://www.disneyplus.com/movies/the-little-matchgirl/wmSKUWJPmahA) by [Roger Allers](https://en.wikipedia.org/wiki/Roger_Allers) (Life is a banquet, and most poor suckers are starving.)
