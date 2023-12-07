@@ -232,7 +232,6 @@ I hope you have a good time here. Thanks for dropping by.
 **Television**
 
 * [*Coraline*](https://play.max.com/movie/2c315d70-082d-44e4-b5fc-1085a62e8d90) by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman) (Even a rigged game can be won if you cheat.)
-* [*Death Note*](https://www.netflix.com/title/70204970) by [Araki Tetsuro](https://en.wikipedia.org/wiki/Tetsur%C5%8D_Araki) (Refines drawn-out moments of tension to an art form.)
 * [*Der Untergang*](https://www.peacocktv.com/watch/asset/movies/downfall/6d4b8832-41a9-39b1-be77-a879c597160f) by [Oliver Hirschbiegel](https://en.wikipedia.org/wiki/Oliver_Hirschbiegel) (Final days of the Third Reich.)
 * [*Django Unchained*](https://www.amazon.com/Django-Unchained-Jamie-Foxx/dp/B0B3NBCHMR) by [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) (Escaping misery is a universal struggle.)
 * [*Gisaengchung*](https://play.max.com/movie/d5e3be11-eb8b-449f-89cf-db887ddee777) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (Class struggle is swiftly returning.)
