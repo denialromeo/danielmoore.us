@@ -2213,7 +2213,7 @@ const albums = [
 "Noir Désir|Des Visages des Figures|2001|OLAK5uy_nxFrQnAuElOEaAjIL4Q2Z2f0il8OZuhIE|A4891|Des Visages des Figures|Noir Désir|Alternative Rock;Rock",
 "The Cure|Kiss Me Kiss Me Kiss Me|1987|OLAK5uy_mo68fTFxuxToWC-7fHD6hds09tB-Vg6Pg|A714|Kiss Me, Kiss Me, Kiss Me|The Cure|Alternative Rock;Post-Punk;Rock",
 "The Style Council|Café Bleu|1984|OLAK5uy_kwRDdAilxmPKF6VZcjj9BirXU4t8OcaDw|A625|Café Bleu|The Style Council|Sophisti-Pop;Pop",
-"Chick Corea & Return to Forever|Light As a Feather|1973|OLAK5uy_kQ3l2nQ15Vv7NBjUpggmXw6bnCmvHi4Xs|A2009|Return to Forever (Chick Corea album)|Chick Corea|Jazz Fusion;Jazz",
+"Chick Corea & Return to Forever|Light As a Feather|1973|PL0InWeXzSpM429enKauv20bEhqVfZ5hTb|A2009|Light as a Feather|Chick Corea|Jazz Fusion;Jazz",
 "Konono No. 1|Congotronics|2005|OLAK5uy_lmftIfz1kI0kgDGn0KP-EnhavnjCUbNQQ|A4917|Congotronics|Konono Nº1|Tradi-Modern;African Music;Regional Music",
 "El Guincho|Pop Negro|2010|PLP7Y4EGN52lw2WJTxxCfyTBxAYwp1MqCJ|A6395|Pop Negro|El Guincho|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock",
 "The House of Love|The House of Love (I)|1988|OLAK5uy_ld96mgRASkh89APYD_smfn36D-yaHmCIw|A1536|The House of Love (1988 album)|The House of Love|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
