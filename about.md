@@ -230,7 +230,6 @@ I hope you have a good time here. Thanks for dropping by.
 {:#television}
 **Television**
 
-* [*Coraline*](https://play.max.com/movie/2c315d70-082d-44e4-b5fc-1085a62e8d90) by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman) (Even a rigged game can be won if you cheat.)
 * [*Der Untergang*](https://www.peacocktv.com/watch/asset/movies/downfall/6d4b8832-41a9-39b1-be77-a879c597160f) by [Oliver Hirschbiegel](https://en.wikipedia.org/wiki/Oliver_Hirschbiegel) (Final days of the Third Reich.)
 * [*Gisaengchung*](https://play.max.com/movie/d5e3be11-eb8b-449f-89cf-db887ddee777) by [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho) (Class struggle is swiftly returning.)
 * [*Jiro Dreams of Sushi*](https://www.amazon.com/gp/video/detail/B00BR1FD26) by [Ono Jiro](https://en.wikipedia.org/wiki/Jiro_Ono_(chef)) (There is bliss in running a business well.)
