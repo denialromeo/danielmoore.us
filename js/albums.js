@@ -74,7 +74,7 @@ const albums = [
 "De La Soul|3 Feet High and Rising|1989|OLAK5uy_kegy-FlX2IVAKWRaM-pNWsytbj1jqHBcs|A752|3 Feet High and Rising|De La Soul|Conscious Hip Hop;Hip Hop",
 "Otis Redding|Otis Blue/Otis Redding Sings Soul|1965|OLAK5uy_ni818SaU3O1M7XSVGNzq96nO9mzgfY_gE|A33|Otis Blue/Otis Redding Sings Soul|Otis Redding|Deep Soul;R&B;Soul;Southern Soul",
 "David Bowie|Hunky Dory|1971|OLAK5uy_l3dApVDHu4bSmCeYdmC2KoSVaTwS_cpd0|A214|Hunky Dory|David Bowie|Art Rock;Glam Rock;Pop Rock;Pop;Rock",
-"Captain Beefheart & His Magic Band|Trout Mask Replica|1969|OLAK5uy_k2Wu1sNQ1DaaAcH7IJGbvReH1Mkhmlczo|A154|Trout Mask Replica|Captain Beefheart|Art Rock;Experimental Rock;Rock",
+"Captain Beefheart & His Magic Band|Trout Mask Replica|1969|PL8A458D75DB12E873|A154|Trout Mask Replica|Captain Beefheart|Art Rock;Experimental Rock;Rock",
 "John Lennon|John Lennon/Plastic Ono Band|1970|OLAK5uy_kbX1qxSoPOt4KT1hG-yEAseivqMi7GgmA|A181|John Lennon/Plastic Ono Band|Plastic Ono Band|Pop Rock;Singer/Songwriter;Pop;Rock",
 "Joy Division|Unknown Pleasures|1979|OLAK5uy_l84jSeZ18j9y6x23gTPCeW3yLwaqU4XpE|A452|Unknown Pleasures|Joy Division|Post-Punk;Rock",
 "DJ Shadow|Endtroducing.....|1996|OLAK5uy_l0tZ0Cm7dKTZ7nWG4SGJo57khOl_FExf4|A964|Endtroducing.....|DJ Shadow|Experimental Hip Hop;Instrumental Hip Hop;Plunderphonics;Experimental;Hip Hop;Sound Collage;Tape Music",
