@@ -17,7 +17,7 @@ const albums = [
 "Bruce Springsteen|Born to Run|1975|OLAK5uy_nZs0gvllzGn7y9-5OuorN7W37HPrPGrn8|A331|Born to Run|Bruce Springsteen|Heartland Rock;Rock",
 "Kendrick Lamar|To Pimp a Butterfly|2015|OLAK5uy_n_dmtzA0IWImBN3fbUBUl_WgD-YSaMZaI|A5541|To Pimp a Butterfly|Kendrick Lamar|Conscious Hip Hop;Jazz Rap;Hip Hop",
 "Public Enemy|It Takes a Nation of Millions to Hold Us Back|1988|OLAK5uy_kwze7VNecQccBk0d_c35bXP1jcC89GUKI|A721|It Takes a Nation of Millions to Hold Us Back|Public Enemy (band)|Conscious Hip Hop;Hardcore Hip Hop;Political Hip Hop;Hip Hop",
-"David Bowie|Ziggy Stardust|1972|OLAK5uy_lLqrDSsxVNgt7dqhjvnHtKh0PAHIDw5Lw|A242|The Rise and Fall of Ziggy Stardust and the Spiders from Mars|David Bowie|Glam Rock;Pop Rock;Pop;Rock",
+"David Bowie|The Rise and Fall of Ziggy Stardust and the Spiders from Mars|1972|OLAK5uy_lLqrDSsxVNgt7dqhjvnHtKh0PAHIDw5Lw|A242|The Rise and Fall of Ziggy Stardust and the Spiders from Mars|David Bowie|Glam Rock;Pop Rock;Pop;Rock",
 "The Beatles|Abbey Road|1969|OLAK5uy_k2JcEE3_maNjnVBKU2s1JjhaZ4rxwgaME|A153|Abbey Road|The Beatles|Pop Rock;Pop;Rock",
 "Pink Floyd|The Dark Side of the Moon|1973|OLAK5uy_m7qn0i6YwAIGmlyBQHS3KXPxe6e_Lg_DE|A273|The Dark Side of the Moon|Pink Floyd|Art Rock;Progressive Rock;Rock",
 "Bob Dylan|Blood on the Tracks|1975|OLAK5uy_lvz0faaZfaiCiyx9wWnvEl84d__8vIUT8|A333|Blood on the Tracks|Bob Dylan|Folk Rock;Singer/Songwriter;Rock",
