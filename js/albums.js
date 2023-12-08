@@ -19,7 +19,7 @@ const albums = [
 "Public Enemy|It Takes a Nation of Millions to Hold Us Back|1988|OLAK5uy_kwze7VNecQccBk0d_c35bXP1jcC89GUKI|A721|It Takes a Nation of Millions to Hold Us Back|Public Enemy (band)|Conscious Hip Hop;Hardcore Hip Hop;Political Hip Hop;Hip Hop",
 "David Bowie|The Rise and Fall of Ziggy Stardust and the Spiders from Mars|1972|OLAK5uy_lLqrDSsxVNgt7dqhjvnHtKh0PAHIDw5Lw|A242|The Rise and Fall of Ziggy Stardust and the Spiders from Mars|David Bowie|Glam Rock;Pop Rock;Pop;Rock",
 "The Beatles|Abbey Road|1969|OLAK5uy_k2JcEE3_maNjnVBKU2s1JjhaZ4rxwgaME|A153|Abbey Road|The Beatles|Pop Rock;Pop;Rock",
-"Pink Floyd|The Dark Side of the Moon|1973|OLAK5uy_m7qn0i6YwAIGmlyBQHS3KXPxe6e_Lg_DE|A273|The Dark Side of the Moon|Pink Floyd|Art Rock;Progressive Rock;Rock",
+"Pink Floyd|The Dark Side of the Moon|1973|OLAK5uy_l1x-JAx0w53suECoCI0YJtW6VB8DBQWRQ|A273|The Dark Side of the Moon|Pink Floyd|Art Rock;Progressive Rock;Rock",
 "Bob Dylan|Blood on the Tracks|1975|OLAK5uy_lvz0faaZfaiCiyx9wWnvEl84d__8vIUT8|A333|Blood on the Tracks|Bob Dylan|Folk Rock;Singer/Songwriter;Rock",
 "Michael Jackson|Thriller|1982|OLAK5uy_lmkszQnwSe59ADO4IPsiGylSTgz15P_yY|A543|Thriller (album)|Michael Jackson|Contemporary R&B;Pop;R&B",
 "Arcade Fire|Funeral|2004|OLAK5uy_mUItEx7wND_P-iRSSgRiUo33fhJdFUL5E|A4074|Funeral (Arcade Fire album)|Arcade Fire|Chamber Pop;Indie Rock;Alternative Rock;Baroque Pop;Indie Pop;Pop;Rock",
