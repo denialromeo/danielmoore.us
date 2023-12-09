@@ -1903,7 +1903,7 @@ const albums = [
 "Muddy Waters|Folk Singer|1964|OLAK5uy_lhgXpmLphS_Y4pT17W2J1x5OWnua2M1EI|A1293|Folk Singer (album)|Muddy Waters|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music",
 "Emerson, Lake & Palmer|Brain Salad Surgery|1973|OLAK5uy_mF40O_tVS7DNNnzWLRqP12O6P1jxYledU|A2473|Brain Salad Surgery|Emerson, Lake & Palmer|Progressive Rock;Rock",
 "Jimmy Giuffre 3|Thesis|1961|PLestjaPEwHQ-MKh2EeGeA-kDBKCTOcOZo|A1903|Thesis (Jimmy Giuffre 3 album)|Jimmy Giuffre|Cool Jazz;Third Stream;Jazz",
-"Ketama/Toumani Diabaté/Danny Thompson|Songhai|1988|PLBLXtHXQZ-bUvC-cPIqq3GEgwQewB-k4E|A2897|Songhai (album)|Danny Thompson|African Folk Music;Flamenco Nuevo;Songhai Music;African Music;European Folk Music;Flamenco;Folk;Hispanic Music;Regional Music;Spanish Folk Music;Spanish Music;Traditional Folk Music;West African Music",
+"Ketama|Songhai|1988|OLAK5uy_nxHzcBymDhz0RaYzFv9i2nbs8uGbN64hs|A2897|Songhai (album)|Ketama|African Folk Music;Flamenco Nuevo;Songhai Music;African Music;European Folk Music;Flamenco;Folk;Hispanic Music;Regional Music;Spanish Folk Music;Spanish Music;Traditional Folk Music;West African Music",
 "Michael Jackson|Dangerous|1991|OLAK5uy_m9zXENU37EA1SQOBMJVncMstQXSntpAXg|A3375|Dangerous (Michael Jackson album)|Michael Jackson|Contemporary R&B;Pop;R&B",
 "Dizzy Gillespie|Groovin' High|1955|OLAK5uy_lmlcbKfTOht3DJWxOyKjr8_SKOrVc_HzU|A1784|Groovin' High (Dizzy Gillespie album)|Dizzy Gillespie|Bebop;Jazz",
 "Son Volt|Trace|1995|OLAK5uy_l_rYBx5tto1OK0JxlsaqCgk64WQAetQSE|A959|Trace (Son Volt album)|Son Volt|Alt-Country;Americana;Country",
