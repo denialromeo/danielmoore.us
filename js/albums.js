@@ -726,7 +726,7 @@ const albums = [
 "Johnny Cash|At San Quentin|1969|OLAK5uy_nn7U-6BCr_JPwSaOMyUmtXmYeRtC4cFEM|A1116|At San Quentin|Johnny Cash|Country",
 "Bruce Springsteen|The Wild, the Innocent & the E Street Shuffle|1973|OLAK5uy_kVpI9n-dmnHW7df2Iloxk8nXaya4yEzEw|A286|The Wild, the Innocent & the E Street Shuffle|Bruce Springsteen|Heartland Rock;Rock",
 "The Mahavishnu Orchestra|The Inner Mounting Flame|1971|OLAK5uy_mgq7cJhffMAjjMitVAzluiX8_CZKJzWEU|A2000|The Inner Mounting Flame|Mahavishnu Orchestra|Jazz Fusion;Jazz-Rock;Jazz;Rock",
-"The Knife|Shaking the Habitual|2013|OLAK5uy_nY1GP_o4fvVGCrkIEIckXKoCxqjoxwjO0|A5328|Shaking the Habitual|The Knife|Electronic;Experimental",
+"The Knife|Shaking the Habitual|2013|OLAK5uy_ndZO5au3823DLUNPmfX93U6DkoVctBdJ8|A5328|Shaking the Habitual|The Knife|Electronic;Experimental",
 "Ghostface Killah|Supreme Clientele|2000|OLAK5uy_k8ydUromoccQJvdUvm94tfBCV-TahfnzE|A3819|Supreme Clientele|Ghostface Killah|Hardcore Hip Hop;Hip Hop",
 "Cat Power|The Greatest|2006|OLAK5uy_kXlFDo6893Ef1I6o2NUWBpQeiDpTikZ9Q|A2076|The Greatest (Cat Power album)|Cat Power|Indie Rock;Singer/Songwriter;Alternative Rock;Rock",
 "Count Basie|The Atomic Mr. Basie|1958|OLAK5uy_kYzmv7IbzRXb1Xyc7LoMaZ1gtFDNwigAc|A1812|The Atomic Mr. Basie|Count Basie|Big Band;Swing;Jazz",
