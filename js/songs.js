@@ -4004,7 +4004,7 @@ const songs = [
 "The Beatles|The Ballad of John and Yoko|1969|v-1OgNqBkVE|The Beatles|S5381|Pop Rock;Pop;Rock|The Ballad of John and Yoko",
 "Deep Purple|Hush|1968|_4QBhC1uCP4|Deep Purple|S6014|Hard Rock;Rock|",
 "Danger Mouse|99 Problems|2004|DtfEYuZhDjo|Danger Mouse (musician)|S10492|Mashup;Rap Rock;Alternative Rock;Experimental;Plunderphonics;Rock;Sound Collage;Tape Music|",
-"Run-D.M.C.|It's Tricky|1986|l-O5IHVhWj0|Run-DMC|S3788|East Coast Hip Hop;Hip Hop|It's Like That (Run-D.M.C. song)",
+"Run-D.M.C.|It's Tricky|1986|l-O5IHVhWj0|Run-DMC|S3788|East Coast Hip Hop;Hip Hop|It's Tricky",
 "Soundgarden|Burden in My Hand|1996|XmIqIVxUuKs|Soundgarden|S8505|Grunge;Alternative Rock;Rock|Burden in My Hand",
 "The Pogues|Dirty Old Town|1985|s11BuatTuXk|The Pogues|S2360|Celtic Folk Music;Celtic Rock;European Folk Music;Folk;Folk Rock;Regional Music;Rock;Traditional Folk Music|Dirty Old Town",
 "Van Morrison|And It Stoned Me|1970|AYqJtqyeilE|Van Morrison|S3639|Folk Rock;Singer/Songwriter;Rock|And It Stoned Me",
