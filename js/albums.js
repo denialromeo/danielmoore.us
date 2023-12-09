@@ -652,7 +652,7 @@ const albums = [
 "Cyndi Lauper|She's So Unusual|1983|OLAK5uy_nhtkx55x9GLPWYSS1HZsFc6UEWo-X3A3k|A624|She's So Unusual|Cyndi Lauper|Pop Rock;Pop;Rock",
 "Fugazi|Repeater|1990|OLAK5uy_mHyThoN28hKeqsmN6DfqpxA6Gvp4qTtKU|A802|Repeater (album)|Fugazi|Post-Hardcore;Punk Rock;Rock",
 "The Orb|The Orb's Adventures Beyond the Ultraworld|1991|OLAK5uy_mkoc8wXczkwynhGUwl3PT9wdqzD2EOBGY|A819|The Orb's Adventures Beyond the Ultraworld|The Orb|Ambient Dub;Ambient House;Ambient;Dance;Electronic;Electronic Dance Music;House",
-"The Slits|Cut|1979|OLAK5uy_kQ1HFkFsawryfRaBddb9AwPMz_GWimTAo|A477|Cut (The Slits album)|The Slits|Post-Punk;Rock",
+"The Slits|Cut|1979|OLAK5uy_kJo1drfByUTZ5K__Whg7oJ9Bp_8pETOjg|A477|Cut (The Slits album)|The Slits|Post-Punk;Rock",
 "Brian Eno|Before and After Science|1977|OLAK5uy_nRhRN9GE6oNJx-Dl1bTxhZAnMrgl7MqfU|A418|Before and After Science|Brian Eno|Art Rock;Rock",
 "Bobby Bland|Two Steps from the Blues|1961|OLAK5uy_lg7YFw9CYFT0pJnxxkj_-75vsGW9RTIck|A9|Two Steps from the Blues|Bobby Bland|Rhythm & Blues;R&B",
 "Taylor Swift|1989|2014|OLAK5uy_lglIKPOFCG5X9_Rf4Hxsmmh9GEeHL94Jo|A5418|1989 (Taylor Swift album)|Taylor Swift|Electropop;Synthpop;Electronic;Pop",
