@@ -355,7 +355,7 @@ const albums = [
 "Beyoncé|Beyoncé|2013|OLAK5uy_kGjAOvICgms-KmyUZGF-mUUG880Xh503g|A5275|Beyoncé (album)|Beyoncé|Contemporary R&B;R&B",
 "Deerhunter|Halcyon Digest|2010|OLAK5uy_kJbXwYt1u6xN4L_fLmlfbpFgsX6-TMnPE|A5062|Halcyon Digest|Deerhunter|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock",
 "Coldplay|A Rush of Blood to the Head|2002|OLAK5uy_k2FivlV4BFfc5fGkDXmmt_gTGAqhN00YE|A1626|A Rush of Blood to the Head|Coldplay|Pop Rock;Pop;Rock",
-"Courtney Barnett|Sometimes I Sit and Think, and Sometimes I Just Sit|2015|https://www.youtube.com/embed/3k2sW53Hjo30|A5546|Sometimes I Sit and Think, and Sometimes I Just Sit|Courtney Barnett|Indie Rock;Singer/Songwriter;Alternative Rock;Rock",
+"Courtney Barnett|Sometimes I Sit and Think, and Sometimes I Just Sit|2015|https://www.youtube.com/embed/k2sW53Hjo30|A5546|Sometimes I Sit and Think, and Sometimes I Just Sit|Courtney Barnett|Indie Rock;Singer/Songwriter;Alternative Rock;Rock",
 "New Order|Power, Corruption & Lies|1983|OLAK5uy_kag21ttevXQka1GpdQK5j8ivV1wrfc4Nc|A579|Power, Corruption & Lies|New Order (band)|New Wave;Post-Punk;Synthpop;Electronic;Pop;Rock",
 "Nick Cave & The Bad Seeds|Skeleton Tree|2016|OLAK5uy_mnnnX_Ky9vFBcPe9eSujWKk0NTM2f0EGU|A5783|Skeleton Tree|Nick Cave and the Bad Seeds|Art Rock;Singer/Songwriter;Rock",
 "The National|Boxer|2007|OLAK5uy_kafrkwlOgNnuXlp3AlIvUuG0i_nF8THTw|A4240|Boxer (The National album)|The National (band)|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock",
