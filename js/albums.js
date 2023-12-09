@@ -305,7 +305,7 @@ const albums = [
 "Massive Attack|Mezzanine|1998|OLAK5uy_lPHEPJubeJ6r29goLe92GrHCmxNiTm6y0|A1023|Mezzanine (album)|Massive Attack|Trip Hop;Downtempo;Electronic",
 "Minutemen|Double Nickels on the Dime|1984|OLAK5uy_k2Z3rgjaTsI4Y5a5G1H6dB6FC1CxihPnQ|A615|Double Nickels on the Dime|Minutemen (band)|Post-Punk;Punk Rock;Rock",
 "Bruce Springsteen|The River|1980|OLAK5uy_nQCRH689dsWcnQUgI1Tv3xx4UqJCzlHA4|A483|The River (Bruce Springsteen album)|Bruce Springsteen|Heartland Rock;Pop Rock;Singer/Songwriter;Pop;Rock",
-"Eric B. & Rakim|Paid in Full|1987|OLAK5uy_ly06JPyheBc2EJu0cKyGN0VMhWwodhhmk|A716|Paid in Full (album)|Eric B. & Rakim|Boom Bap;Hardcore Hip Hop;Hip Hop",
+"Eric B. & Rakim|Paid in Full|1987|OLAK5uy_mQxo6h3IJJ962mG7K4796lJOI0RA6gOLg|A716|Paid in Full (album)|Eric B. & Rakim|Boom Bap;Hardcore Hip Hop;Hip Hop",
 "Slint|Spiderland|1991|OLAK5uy_k1t9OEnvxzco03Yy8UwVfIiybcDMBmMZA|A836|Spiderland|Slint|Math Rock;Post-Rock;Alternative Rock;Rock",
 "Beastie Boys|Ill Communication|1994|OLAK5uy_nGHow_3MJvDJVtNUON9SB1VAZegqAQ7kc|A912|Ill Communication|Beastie Boys|Hip Hop",
 "Violent Femmes|Violent Femmes|1983|OLAK5uy_lP4s8mDxTc72wD_I64pJyBi3oLZRnz4so|A587|Violent Femmes (album)|Violent Femmes|Acoustic Rock;Alternative Rock;Folk Punk;Post-Punk;Punk Rock;Rock",
