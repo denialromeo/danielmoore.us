@@ -2267,7 +2267,7 @@ const albums = [
 "Steve Earle|El Corazon|1997|OLAK5uy_n3ByTAYSrqrBkFi2_TLin7GVmTr0HUymk|A1016|El Corazón (Steve Earle album)|Steve Earle|Alt-Country;Americana;Country Rock;Singer/Songwriter;Country;Rock",
 "The Roches|The Roches|1979|OLAK5uy_mr9u5KO5nWR4Mwc1L0BFKkPSIDsH2NLEA|A1166|The Roches (album)|The Roches|Folk Pop;Contemporary Folk;Folk;Pop",
 "Sons of Kemet|Your Queen is a Reptile|2018|OLAK5uy_mdR5-PUuPUSgBH5P9NE3YqHbSIHawdriU|A6055|Your Queen Is a Reptile|Sons of Kemet|Afro-Jazz;African Music;Jazz;Regional Music",
-"Barbra Streisand|The Barbra Streisand Album|1963|OLAK5uy_k8Mw6H9ddMkFMfgDvOjqwDzFXD8UpFp38|A1936|The Barbra Streisand Album|Barbra Streisand|Standards;Pop;Traditional Pop",
+"Barbra Streisand|The Barbra Streisand Album|1963|PLECD9F0A6A16BB298|A1936|The Barbra Streisand Album|Barbra Streisand|Standards;Pop;Traditional Pop",
 "Freddie Gibbs & Madlib|Bandana|2019|PLsAk6h4n-dS1VtUl1HGJhna8HN7NYrwGY|A6263|Bandana (album)|Freddie Gibbs|Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Dinosaur Jr.|Where You Been|1993|OLAK5uy_lJQfrDnp40SVakjBfz3yc5Y_i3O4YJ79s|A888|Where You Been|Dinosaur Jr.|Alternative Rock;Rock",
 "Aretha Franklin|Aretha Live at Fillmore West|1971|OLAK5uy_mYfKtiDbWPtvupfxtpo4v1UoM3m7Xz4II|A2387|Aretha Live at Fillmore West|Aretha Franklin|Deep Soul;R&B;Soul;Southern Soul",
