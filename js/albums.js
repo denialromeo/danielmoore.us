@@ -1435,7 +1435,7 @@ const albums = [
 "Frank Sinatra|September of My Years|1965|OLAK5uy_mgV39PPPQeTEn8LiUCKtZ1UHU9GLo2WeQ|A1959|September of My Years|Frank Sinatra|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "Michel Polnareff|Polnareff's|1971|OLAK5uy_l-Gml8Yvpj0iAoxHK0SxPIvk2Lp6DWj0A|A2390|Polnareff's|Michel Polnareff|Baroque Pop;French Pop;Pop",
 "Lambchop|Nixon|2000|OLAK5uy_lDSY-Ws0skxXGw8iQomrn61iVoZTcl_U8|A1089|Nixon (album)|Lambchop (band)|Chamber Pop;Baroque Pop;Indie Pop;Pop",
-"Jackson Browne|Jackson Browne (Saturate Before Using)|1972|OLAK5uy_m1wF33UQXt-6ctK04OZK28PAbut6rUj9c|A1364|Jackson Browne (album)|Jackson Browne|Singer/Songwriter",
+"Jackson Browne|Jackson Browne|1972|OLAK5uy_m1wF33UQXt-6ctK04OZK28PAbut6rUj9c|A1364|Jackson Browne (album)|Jackson Browne|Singer/Songwriter",
 "Jerry Lee Lewis|Jerry Lee Lewis|1958|PLVvs250yQiIA-s8Nv4GOscUd2ipUYP1CJ|A2261|Jerry Lee Lewis (album)|Jerry Lee Lewis|Rock & Roll;Rock",
 "Prince and The Revolution|Around the World in a Day|1985|OLAK5uy_lu_FfvNuX_ze54AgMWA14iM3T9PjuqvSs|A658|Around the World in a Day|Prince (musician)|Neo-Psychedelia;Pop Rock;Psychedelic Soul;Pop;Psychedelic Rock;R&B;Rock;Soul",
 "Rickie Lee Jones|Rickie Lee Jones|1979|OLAK5uy_niC68kZZvH4BX8-lrNDticTwrBmIhHJhA|A474|Rickie Lee Jones (album)|Rickie Lee Jones|Jazz Pop;Singer/Songwriter;Pop",
