@@ -1813,7 +1813,7 @@ const albums = [
 "Amadou & Mariam|Dimanche à Bamako|2004|PLdqZQPNShYrCOmDKDXSsyaVnMnn4DB4yU|A4215|Dimanche à Bamako|Amadou & Mariam|African Music;Regional Music",
 "Shuggie Otis|Inspiration Information|1974|PLP0IenmeCOtwt2JZxb2aud-QSlagwiKw4|A2691|Inspiration Information|Shuggie Otis|Psychedelic Soul;R&B;Soul",
 "St. Vincent|Actor|2009|OLAK5uy_ki37Kdm3N5LdEfrTAzgcmraqZMGphZtZg|A5008|Actor (album)|St. Vincent (musician)|Indie Pop;Pop",
-"Afrika Bambaataa & Soulsonic Force|Planet Rock - The Album|1986|PLCcygph9UbTiy08md8gpZkWjK1SpmPCds|A1512|Planet Rock: The Album|Afrika Bambaataa|Electro;Dance;Electronic;Electronic Dance Music",
+"Afrika Bambaataa & Soulsonic Force|Planet Rock - The Album|1986|OLAK5uy_m4xa109BcuQY_h6DXko9SEqpgeNHXAY10|A1512|Planet Rock: The Album|Afrika Bambaataa|Electro;Dance;Electronic;Electronic Dance Music",
 "The Go! Team|Thunder, Lightning, Strike|2004|OLAK5uy_lM4xqUHMtbABJqs8jFWDOQa9LO1jP0DR4|A4102|Thunder, Lightning, Strike|The Go! Team|Indie Rock;Indietronica;Alternative Rock;Electronic;Rock",
 "Alabama Shakes|Sound & Color|2015|OLAK5uy_nVh93u5ztK805qF8wA1mewigmJsKockkY|A5562|Sound & Color|Alabama Shakes|Blues Rock;Rock",
 "Deftones|White Pony|2000|OLAK5uy_nNY4jMVsAwHmoQMPBtVJizcKzfGeVOUyQ|A3803|White Pony|Deftones|Alternative Metal;Alternative Rock;Metal;Rock",
