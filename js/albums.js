@@ -1599,7 +1599,7 @@ const albums = [
 "No Doubt|Tragic Kingdom|1995|OLAK5uy_kz9ueSJLK4IeWQiryyHt8GNiOJYWDj_VE|A3566|Tragic Kingdom|No Doubt|Alternative Rock;Pop Rock;Third Wave Ska;Pop;Rock;Ska",
 "Thundercat|Drunk|2017|OLAK5uy_k210B4ojZQpxfcgQI_6gLYcecIPKGCe8c|A6005|Drunk (Thundercat album)|Thundercat (musician)|Funktronica;Neo-Soul;Psychedelic Soul;Dance;Electronic;Electronic Dance Music;R&B;Soul",
 "Lana Del Rey|Ultraviolence|2014|OLAK5uy_lZVgcQp3acwd7iL5xm6d_I-ACj5F_gf1c|A5411|Ultraviolence (album)|Lana Del Rey|Art Pop;Dream Pop;Alternative Rock;Pop;Rock",
-"Anthony Braxton|For Alto|1971|PL20iOj9g23x1EpEm7DZxG9oTP5w-Mlrzn|A1980|For Alto|Anthony Braxton|Free Jazz;Avant-Garde Jazz;Jazz",
+"Anthony Braxton|For Alto|1971|OLAK5uy_k3tHwrzmtiIftU2i0w6AkizJ5pcmyJdTk|A1980|For Alto|Anthony Braxton|Free Jazz;Avant-Garde Jazz;Jazz",
 "Deutsch Amerikanische Freundschaft|Alles ist gutt|1981|OLAK5uy_nWHg-O6Su1jtlYlFNzhY5wMXFfcfzGw28|A540|Alles Ist Gut|Deutsch Amerikanische Freundschaft|EBM;Neue Deutsche Welle;Synth Punk;Dance;Electronic;Electronic Dance Music;Industrial Music;Punk Rock;Rock",
 "The Meters|Look-Ka Py Py|1970|OLAK5uy_mtI9_-Dz8QQywoS7nmSsAzteXQKei-TfA|A2339|Look-Ka Py Py|The Meters|Funk;R&B",
 "Matthew Sweet|Girlfriend|1991|OLAK5uy_nLJMZV919VBZbRbHfH3YMKXozdK6_u-ro|A840|Girlfriend (album)|Matthew Sweet|Jangle Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock",
