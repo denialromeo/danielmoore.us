@@ -2558,7 +2558,7 @@ const albums = [
 "George Benson|Breezin'|1976|OLAK5uy_nco2trv7lSMpGKgIDfaTQMBYWSRLk04ZY|A2210|Breezin'|George Benson|Jazz-Funk;Smooth Jazz;Soul Jazz;Funk;Jazz;R&B",
 "Editors|The Back Room|2005|OLAK5uy_n2WwhfRvXjPSP3B8ujsQUXTZ9i5E8cbbY|A3348|The Back Room (album)|Editors (band)|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock",
 "Shirley Collins and The Albion Country Band|No Roses|1971|OLAK5uy_mOjtAx3EMq6SofLSDU15wb-cUxjwLarFs|A2377|No Roses|The Albion Band|British Folk Rock;Folk Rock;Rock",
-"The Original Broadway Cast|Hamilton|2015|OLAK5uy_nRAj82ywkJ_YHiRh-sXKAbpiCiUfSx0-k|A5672|Hamilton (album)|https://en.wikipedia.org/wiki/Hamilton_(album)#Personnel|Show Tunes;Descriptor;Musical Theatre and Entertainment;Soundtracks",
+"The Original Broadway Cast|Hamilton|2015|OLAK5uy_nRAj82ywkJ_YHiRh-sXKAbpiCiUfSx0-k|A5672|Hamilton (musical)|https://en.wikipedia.org/wiki/Hamilton_(album)#Personnel|Show Tunes;Descriptor;Musical Theatre and Entertainment;Soundtracks",
 "Swamp Dogg|Total Destruction to Your Mind|1970|OLAK5uy_mXVbNqXbhCOnKYbl4fjMv3eI2z1oeuBQ8|A2335|Swamp Dogg|Swamp Dogg|Soul;R&B",
 "Herman Brood & His Wild Romance|Shpritsz|1978|OLAK5uy_kDtPNBCwZuUnTrlUmkkUzZZAIwd_kdbVI|A4603|Herman Brood & His Wild Romance (album)|Herman Brood & His Wild Romance|Rock & Roll;Rock",
 "Third Ear Band|Third Ear Band|1970|OLAK5uy_mev4Xb8e57mY1u7BZejPQ27nRU_qgYODU|A2632|Third Ear Band (album)|Third Ear Band|Free Folk;Progressive Folk;Contemporary Folk;Folk;Psychedelic Folk",
