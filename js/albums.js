@@ -2728,7 +2728,7 @@ const albums = [
 "John Maus|We Must Become the Pitiless Censors of Ourselves|2011|OLAK5uy_m6nm5w4gY-1EB8Y2leYzsPbUcaK6aY_Co|A5160|We Must Become the Pitiless Censors of Ourselves|John Maus|Hypnagogic Pop;Synthpop;Electronic;Neo-Psychedelia;Pop;Psychedelic Rock;Rock",
 "John McLaughlin|Extrapolation|1969|OLAK5uy_mKm4NpG6DQs2o_fM-VCd5NOsejjFAetrg|A1991|Extrapolation (album)|John McLaughlin (musician)|Post-Bop;Bebop;Jazz",
 "Marquis de Sade|Rue De Siam|1981|OLAK5uy_no773Y_CPIJZPGnhH5UREJiYQVs1_CSo4|A4657|Marquis de Sade (band)|Marquis de Sade (band)|Post-Punk;Rock",
-"Cardinal|Cardinal|1994|OLAK5uy_m_mmRkAWW1ktTVdvPUJ9cTEsl959p7D0M|A3543|Cardinal (Cardinal album)|Cardinal (band)|Chamber Pop;Baroque Pop;Indie Pop;Pop",
+"Cardinal|Cardinal|1994|OLAK5uy_mlJhN-JJW1734K0VLZ2tEepPN5UTk9iRY|A3543|Cardinal (Cardinal album)|Cardinal (band)|Chamber Pop;Baroque Pop;Indie Pop;Pop",
 "Jimmy Reed|Jimmy Reed at Carnegie Hall|1961|OLAK5uy_mjcWLW9v7OKqz0NL84GizlsAmg5WEQ4Vo|A1278|Jimmy Reed at Carnegie Hall|Jimmy Reed|Chicago Blues;Blues;Electric Blues",
 "The Animals|Animalisms|1966|OLAK5uy_n6HWEcnQHkLC9PLihJbBuXKT98m5SH0Vk|A85|Animalisms|The Animals|British Blues;Rhythm & Blues;Blues;Electric Blues;R&B",
 "Bob Marley and The Wailers|Kaya|1978|OLAK5uy_lvzphoMpbHOIsTACZbMvLLr4t7dPM733c|A1441|Kaya (album)|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
