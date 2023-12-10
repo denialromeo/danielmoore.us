@@ -679,7 +679,7 @@ const albums = [
 "Howlin' Wolf|Moanin' in the Moonlight|1959|OLAK5uy_n7shPzSnjgMNFCpkrtkvsGizRoNVbFl2U|A14|Moanin' in the Moonlight|Howlin' Wolf|Chicago Blues;Blues;Electric Blues",
 "The Congos|Heart of the Congos|1977|OLAK5uy_lZ-jLMzonI-U97lPiXhPQvfqFMW9V5uxE|A1187|Heart of the Congos|The Congos|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Basement Jaxx|Remedy|1999|OLAK5uy_kuMzUcKV7AsPiAWxwC8oCUEr0X5quUIIQ|A1055|Remedy (Basement Jaxx album)|Basement Jaxx|Dance-Pop;Funky House;Dance;Electronic;Electronic Dance Music;House;Pop",
-"King Crimson|Red|1974|PLjPIe5KlzbfVieL1zPh3LjDNJQBV98WTF|A315|Red (King Crimson album)|King Crimson|Art Rock;Progressive Rock;Rock",
+"King Crimson|Red|1974|PLXhfRoiJBIislZ9MHBBNYK0h3N30Gv7Ja|A315|Red (King Crimson album)|King Crimson|Art Rock;Progressive Rock;Rock",
 "Motörhead|Ace of Spades|1980|OLAK5uy_nzjjZLTZmiYsGcM0IteFeZhE6qCnS3wLw|A507|Ace of Spades (album)|Motörhead|Hard Rock;Heavy Metal;Metal;Rock",
 "The Quintet|Jazz at Massey Hall|1953|OLAK5uy_nRcwV4icxcpB9iqD2oKhIOd7Zpx5o2Y-8|A1768|Jazz at Massey Hall|Jazz at Massey Hall|Bebop;Jazz",
 "Madonna|Madonna|1983|OLAK5uy_layBXi2EfMEz6Go4mbWI-lisArr7XBxmU|A2958|Madonna (Madonna album)|Madonna (entertainer)|Dance-Pop;Dance;Pop",
