@@ -6199,7 +6199,7 @@ const songs = [
 "Lalo Schifrin|Mission: Impossible|1967|fjgjU9C8UUc|Lalo Schifrin|S14645|Big Band;Television Music;Descriptor;Jazz;Soundtracks|",
 "Michael Kiwanuka|Black Man in a White World|2016|-TYlcVNI2AM|Michael Kiwanuka|S16146|Soul;R&B|",
 "Pavement|Stereo|1997|Z5j4W2Y7RPQ|Pavement (band)|S4521|Indie Rock;Alternative Rock;Rock|",
-"LeAnn Rimes|Blue|1996|GozdIQx1Wow|LeAnn Rimes|S7200|Country Pop;Country;Pop|",
+"LeAnn Rimes|Blue|1996|GozdIQx1Wow|LeAnn Rimes|S7200|Country Pop;Country;Pop|https://en.wikipedia.org/wiki/Blue_(Bill_Mack_song)#LeAnn_Rimes_versions",
 "Cam'ron|Oh Boy|2002|9GvB9ySUJ3A|Cam'ron|S5699|East Coast Hip Hop;Pop Rap;Hip Hop|",
 "The Stop the Violence Movement|Self-Destruction|1989|jxyYP_bS_6s|Stop the Violence Movement|S8601|Conscious Hip Hop;East Coast Hip Hop;Hip Hop|",
 "Ultramagnetic MCs|Ego Tripping|1986|Gnb9vljBLTg|Ultramagnetic MCs|S8890|Abstract Hip Hop;Boom Bap;East Coast Hip Hop;Hip Hop|Ego Trippin' (song)",
