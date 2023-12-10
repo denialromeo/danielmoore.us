@@ -1625,7 +1625,7 @@ const albums = [
 "Babatunde Olatunji|Drums of Passion|1960|https://www.youtube.com/embed/xA7bHnYPZb4|A2418|Drums of Passion|Babatunde Olatunji|Apala;African Folk Music;African Music;Folk;Regional Music;Traditional Folk Music;West African Music;Yoruba Music",
 "The Birthday Party|Prayers on Fire|1981|OLAK5uy_lTDpY2pDqNOsPdFgkprncEAlpaGctLiVo|A2863|Prayers on Fire|The Birthday Party (band)|Noise Rock;Post-Punk;Rock",
 "Crowded House|Crowded House|1986|OLAK5uy_nwhPGW2CfrMKcpzBoEVCdAvkYLxa2lLGw|A685|Crowded House (album)|Crowded House|Pop Rock;Pop;Rock",
-"John Zorn|Naked City|1990|OLAK5uy_mInZFknguhH5Flk5Mk6D9avPmGehuNaSk|A2155|Naked City (album)|John Zorn|Avant-Garde Jazz;Jazz",
+"John Zorn|Naked City|1990|https://www.youtube.com/embed/It5D3w534Cc|A2155|Naked City (album)|John Zorn|Avant-Garde Jazz;Jazz",
 "Boz Scaggs|Silk Degrees|1976|OLAK5uy_nZTh1HEzA-0BEvwFzgp4mURFvMXV0LBXw|A387|Silk Degrees|Boz Scaggs|Adult Contemporary;Blue Eyed Soul;Pop Rock;Pop;Rock",
 "50 Cent|Get Rich or Die Tryin'|2003|OLAK5uy_llBNVDBNncoPNlOvXcZSny32SLEFepdwQ|A3994|Get Rich or Die Tryin'|50 Cent|Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "The White Stripes|Get Behind Me Satan|2005|OLAK5uy_n7H9yY5gS_QZ9byDQ2GDsAE0oxTLqeXJQ|A4188|Get Behind Me Satan|The White Stripes|Alternative Rock;Garage Rock Revival;Garage Rock;Rock",
