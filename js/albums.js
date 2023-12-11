@@ -2771,7 +2771,7 @@ const albums = [
 "Low|The Great Destroyer|2005|PLB9679DF6DA8DD64B|A4137|The Great Destroyer|Low (band)|Indie Rock;Alternative Rock;Rock",
 "Antônio Carlos Jobim|Wave|1967|OLAK5uy_k1YZIBJ7UJbfdxLay8qCwLk4dg5lVEJGA|A4464|Wave (Antônio Carlos Jobim album)|Antônio Carlos Jobim|Bossa Nova;Brazilian Music;Regional Music",
 "The Thermals|The Body, The Blood, The Machine|2006|OLAK5uy_nxENCKMxJVueADec5kNi_sWCoO_6_Q1Nk|A3086|The Body, the Blood, the Machine|The Thermals|Indie Rock;Pop Punk;Alternative Rock;Punk Rock;Rock",
-"Emerson, Lake & Palmer|Pictures at an Exhibition|1971|OLAK5uy_mF40O_tVS7DNNnzWLRqP12O6P1jxYledU|A1351|Pictures at an Exhibition (Emerson, Lake & Palmer album)|Emerson, Lake & Palmer|Symphonic Prog;Progressive Rock;Rock",
+"Emerson, Lake & Palmer|Pictures at an Exhibition|1971|OLAK5uy_l_Bx3CuewS783jcXDvM9dpMU6s2ni3irM|A1351|Pictures at an Exhibition (Emerson, Lake & Palmer album)|Emerson, Lake & Palmer|Symphonic Prog;Progressive Rock;Rock",
 "Horace Silver|Blowin' the Blues Away|1959|PL0q2VleZJVElqF8_SWuWQsUXp3Op6t-OD|A1871|Blowin' the Blues Away|Horace Silver|Hard Bop;Bebop;Jazz",
 "Manic Street Preachers|This Is My Truth Tell Me Yours|1998|OLAK5uy_lk5tC4Vt-DCQ5hY6IcJaQV-Ae2o-zg8hg|A1043|This Is My Truth Tell Me Yours|Manic Street Preachers|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "LL Cool J|BAD: Bigger and Deffer|1987|OLAK5uy_mPmpyYbVfYDfpP-49VRiXopRGNeq3yiJU|A715|Bigger and Deffer|LL Cool J|Hardcore Hip Hop;Hip Hop",
