@@ -2268,7 +2268,7 @@ const albums = [
 "The Roches|The Roches|1979|OLAK5uy_mr9u5KO5nWR4Mwc1L0BFKkPSIDsH2NLEA|A1166|The Roches (album)|The Roches|Folk Pop;Contemporary Folk;Folk;Pop",
 "Sons of Kemet|Your Queen is a Reptile|2018|OLAK5uy_mdR5-PUuPUSgBH5P9NE3YqHbSIHawdriU|A6055|Your Queen Is a Reptile|Sons of Kemet|Afro-Jazz;African Music;Jazz;Regional Music",
 "Barbra Streisand|The Barbra Streisand Album|1963|PLECD9F0A6A16BB298|A1936|The Barbra Streisand Album|Barbra Streisand|Standards;Pop;Traditional Pop",
-"Freddie Gibbs & Madlib|Bandana|2019|PLsAk6h4n-dS1VtUl1HGJhna8HN7NYrwGY|A6263|Bandana (album)|Freddie Gibbs|Gangsta Rap;Hardcore Hip Hop;Hip Hop",
+"Freddie Gibbs & Madlib|Bandana|2019|OLAK5uy_mFm9YeVwJhmfKfrJRLdK0eZ_WJnpPxG1c|A6263|Bandana (album)|Freddie Gibbs|Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Dinosaur Jr.|Where You Been|1993|OLAK5uy_lJQfrDnp40SVakjBfz3yc5Y_i3O4YJ79s|A888|Where You Been|Dinosaur Jr.|Alternative Rock;Rock",
 "Aretha Franklin|Aretha Live at Fillmore West|1971|OLAK5uy_mYfKtiDbWPtvupfxtpo4v1UoM3m7Xz4II|A2387|Aretha Live at Fillmore West|Aretha Franklin|Deep Soul;R&B;Soul;Southern Soul",
 "The Fugs|The Fugs First Album|1965|OLAK5uy_lQ3I93spzY6zGjco-eeyZZLhZcUOeDb2s|A2052|The Fugs First Album|The Fugs|Beat Poetry;Folk Rock;Garage Rock;Psychedelic Folk;Contemporary Folk;Descriptor;Folk;Poetry;Rock;Spoken Word",
