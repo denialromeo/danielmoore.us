@@ -2194,7 +2194,7 @@ const albums = [
 "Mekons|Fear and Whiskey|1985|OLAK5uy_lMtEsvjQdM6g7UuhoYaUZxUmiTMRkTNlI|A1499|Fear and Whiskey|The Mekons|Cowpunk;Post-Punk;Country Rock;Punk Rock;Rock",
 "Jason Isbell|Southeastern|2013|OLAK5uy_n5aWcS8trMj0UHc8gPfjTdwD02Jk-Wldo|A5323|Southeastern (album)|Jason Isbell|Americana;Contemporary Folk;Singer/Songwriter;Country;Folk",
 "Doves|Lost Souls|2000|OLAK5uy_n4yx19bXOZkq3CX_xix7bm48Ak82nSTqM|A1104|Lost Souls (Doves album)|Doves (band)|Britpop;Dream Pop;Alternative Rock;Pop;Pop Rock;Rock",
-"Died Pretty|Free Dirt|1986|OLAK5uy_m-StcC_mnM9JXhg23sBNHLSfn2jPbFEDM|A3118|Free Dirt|Died Pretty|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock",
+"Died Pretty|Free Dirt|1986|OLAK5uy_k71zJin1xncOyiVP_YXrCi_0gPOKQb05g|A3118|Free Dirt|Died Pretty|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock",
 "David Ackles|American Gothic|1972|OLAK5uy_lxmgtz8gF6s7SgOaOlFItum6qdUtv1sqA|A1667|American Gothic (album)|David Ackles|Americana;Singer/Songwriter;Country",
 "Bob Marley and The Wailers|Uprising|1980|OLAK5uy_mUOfL06eKV2Qr53a8RlSDdJUUDObI3pn4|A1172|Uprising (Bob Marley and the Wailers album)|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Megadeth|Rust in Peace|1990|OLAK5uy_lBLXRW43EViiE9xRRCR6l1Ghtj1Ko6Mhc|A3330|Rust in Peace|Megadeth|Speed Metal;Thrash Metal;Metal;Rock",
