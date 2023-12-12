@@ -1046,7 +1046,7 @@ const albums = [
 "Steve Earle|Guitar Town|1986|OLAK5uy_m1AVlwrQJR2E4xzQEeN8FgHZih3kdnDo4|A690|Guitar Town|Steve Earle|Alt-Country;Country Rock;Country;Rock",
 "The Jam|In the City|1977|OLAK5uy_k8bElYja1TKOKyF7NQIVnkXycudqS06bw|A408|In the City (The Jam album)|The Jam|Mod Revival;New Wave;Punk Rock;Mod;Rock",
 "Charles Mingus|Blues and Roots|1960|OLAK5uy_nHGmMYCHKtI9XvW6lirnJAOen6a0N5c9E|A1867|Blues & Roots|Charles Mingus|Post-Bop;Bebop;Jazz",
-"Duke Ellington with Charles Mingus|Money Jungle and Max Roach|1963|OLAK5uy_lPvMrHepzyi_QKr_MaFVVbvo6m784eW7U|A1911|Duke Ellington & John Coltrane|Duke Ellington|Jazz",
+"Duke Ellington with Charles Mingus and Max Roach|Money Jungle|1963|OLAK5uy_lPvMrHepzyi_QKr_MaFVVbvo6m784eW7U|A1911|Money Jungle|Duke Ellington|Jazz",
 "Scott Walker|Tilt|1995|OLAK5uy_njHhUqsHRAta7S-mDRn7ul0rB6tLOYy50|A1606|Tilt (Scott Walker album)|Scott Walker (singer)|Experimental;Singer/Songwriter",
 "Stevie Ray Vaughan and Double Trouble|Texas Flood|1983|OLAK5uy_l3CrHmVPpKvzyqe73IotCbtt1JCSA1DUU|A598|Texas Flood|Stevie Ray Vaughan|Blues Rock;Electric Texas Blues;Blues;Electric Blues;Rock",
 "Gorillaz|Plastic Beach|2010|OLAK5uy_mYzpOFB-6D0ooK-rCL5PuR9zjAxFIV9lo|A5071|Plastic Beach|Gorillaz|Electropop;Electronic;Pop",
