@@ -2984,7 +2984,7 @@ const albums = [
 "The Stranglers|No More Heroes|1977|OLAK5uy_kVBPDWFwCOmqopPd79qhCTHvZnFQi3jJY|A2674|No More Heroes (album)|The Stranglers|Post-Punk;Punk Rock;Rock",
 "Funkadelic|Funkadelic|1970|OLAK5uy_lP73uV21bB2lygdf22o4Nn33xdkjwEBG8|A2349|Funkadelic (album)|Funkadelic|Funk Rock;P-Funk;Funk;R&B;Rock",
 "Badfinger|No Dice|1970|OLAK5uy_kZ1UvfXNjVzBJq1iCIzW3dtu_DlzjieCw|A1663|No Dice|Badfinger|Power Pop;Pop;Pop Rock;Rock",
-"Faces|Long Player|1971|PLkgqtBCgw5D18IItsC--e1mrh0xKPO_IV|A1356|Long Player (album)|Faces (band)|Rock",
+"Faces|Long Player|1971|OLAK5uy_lc3A9CTG7P3EvPuJNeckvXT-11IL3XEiQ|A1356|Long Player (album)|Faces (band)|Rock",
 "Wayne Shorter|The All Seeing Eye|1966|OLAK5uy_nBm8UC7XfAi3on2pirbUD1KY6a2w7jbLA|A2360|The All Seeing Eye|Wayne Shorter|Avant-Garde Jazz;Jazz",
 "Canned Heat|Boogie with Canned Heat|1968|OLAK5uy_mDI7gh6Xa54j_TfvAzbbU77eBXSTR8qzw|A1657|Boogie with Canned Heat|Canned Heat|Boogie Rock;Blues Rock;Rock",
 "Ol' Dirty Bastard|Return to the 36 Chambers: The Dirty Version|1995|OLAK5uy_m-dn_O_kguFShQ4LTkQBTlvga1eOdjcV0|A1720|Return to the 36 Chambers: The Dirty Version|Ol' Dirty Bastard|Hardcore Hip Hop;Hip Hop",
