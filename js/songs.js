@@ -2510,7 +2510,7 @@ const songs = [
 "Justin Timberlake|Mirrors|2013|uuZE_IRwLNI|Justin Timberlake|S9468|Contemporary R&B;Pop Soul;Pop;R&B;Soul|Mirrors (Justin Timberlake song)",
 "Ernie K-Doe|Mother-in-Law|1961|6EN5eJf5h_k|Ernie K-Doe|S1135|Doo-Wop;New Orleans R&B;Soul;Descriptor;R&B;Vocal Group|Mother-in-Law (song)",
 "Lana Del Rey|West Coast|2014|oKxuiw3iMBE|Lana Del Rey|S9566|Art Pop;Dream Pop;Alternative Rock;Pop;Rock|West Coast (Lana Del Rey song)",
-"Blind Alfred Reed|How Can a Poor Man Stand Such Times and Live|1929|GtLNCmsJVFI|Blind Alfred Reed|S4350|Appalachian Folk Music;Old-Time;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|How Can a Poor Man Stand Such Times and Live?",
+"Blind Alfred Reed|How Can a Poor Man Stand Such Times and Live|1929|GtLNCmsJVFI|Blind Alfred Reed|S4350|Appalachian Folk Music;Old-Time;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|How Can a Poor Man Stand Such Times and Live%3F",
 "Radiohead|Just|1995|oIFLtNYI3Ls|Radiohead|S4512|Alternative Rock;Rock|Just (song)",
 "Blondie|Hanging on the Telephone|1978|uWhkbDMISl8|Debbie Harry|S5505|New Wave;Pop Rock;Pop;Rock|Hanging on the Telephone",
 "The Stone Roses|Made of Stone|1989|NpMzUa4YXR8|The Stone Roses|S264|Baggy / Madchester;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
