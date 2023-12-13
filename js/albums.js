@@ -990,7 +990,7 @@ const albums = [
 "Meat Puppets|Meat Puppets II|1984|OLAK5uy_k8aNpL2RDS2twaukCKH8cnV9OrHAj_ihA|A599|Meat Puppets II|Meat Puppets|Alternative Rock;Cowpunk;Country Rock;Punk Rock;Rock",
 "Talk Talk|The Colour of Spring|1986|OLAK5uy_koE4rtsIJ002pzrNOUIjuhnft_Aun9pkY|A1514|The Colour of Spring|Talk Talk|Art Pop;Chamber Pop;Baroque Pop;Indie Pop;Pop",
 "Def Leppard|Pyromania|1983|OLAK5uy_l3oLLC5ms690aykS8xuz62HQqjEA8OrUA|A585|Pyromania (album)|Def Leppard|Glam Metal;Hard Rock;Rock",
-"Elvis Presley|Elvis Is Back!|1960|PLvDaQTRzMiRqlrvX4a2_ynOuIPW84dfZJ|A20|Elvis Is Back!|Elvis Presley|Pop;Rock & Roll;Rock",
+"Elvis Presley|Elvis Is Back!|1960|PLL-NbN8uTOiiAjSLODUdDMefWt_JDjZ9E|A20|Elvis Is Back!|Elvis Presley|Pop;Rock & Roll;Rock",
 "Pet Shop Boys|Very|1993|OLAK5uy_kJNHXIqR-_M70MaoMjMoN_xfm7WpeOLrw|A878|Very (Pet Shop Boys album)|Pet Shop Boys|Synthpop;Electronic;Pop",
 "Shabazz Palaces|Black Up|2011|OLAK5uy_m4osqPwgG9lghYoipG9XQZbxz6Uop8WIg|A5171|Black Up|Shabazz Palaces|Abstract Hip Hop;Experimental Hip Hop;Hip Hop",
 "Blur|Think Tank|2003|OLAK5uy_nSZx3hE_GeKlHEHuiieD5WnVkJ317fia8|A3927|Think Tank (Blur album)|Blur (band)|Alternative Rock;Rock",
