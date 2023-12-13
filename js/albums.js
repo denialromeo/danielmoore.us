@@ -678,7 +678,7 @@ const albums = [
 "Bob Dylan|Nashville Skyline|1969|OLAK5uy_k7RFXzJVIrZJuX3lkezse6UNXE4i1wzN8|A175|Nashville Skyline|Bob Dylan|Country;Country Rock;Folk Rock;Singer/Songwriter;Rock",
 "Howlin' Wolf|Moanin' in the Moonlight|1959|OLAK5uy_n7shPzSnjgMNFCpkrtkvsGizRoNVbFl2U|A14|Moanin' in the Moonlight|Howlin' Wolf|Chicago Blues;Blues;Electric Blues",
 "The Congos|Heart of the Congos|1977|OLAK5uy_lZ-jLMzonI-U97lPiXhPQvfqFMW9V5uxE|A1187|Heart of the Congos|The Congos|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
-"Basement Jaxx|Remedy|1999|OLAK5uy_kuMzUcKV7AsPiAWxwC8oCUEr0X5quUIIQ|A1055|Remedy (Basement Jaxx album)|Basement Jaxx|Dance-Pop;Funky House;Dance;Electronic;Electronic Dance Music;House;Pop",
+"Basement Jaxx|Remedy|1999|OLAK5uy_kzDq07GHJ5lhTR0L3sKZj2B38Sww0sXzw|A1055|Remedy (Basement Jaxx album)|Basement Jaxx|Dance-Pop;Funky House;Dance;Electronic;Electronic Dance Music;House;Pop",
 "King Crimson|Red|1974|PLXhfRoiJBIislZ9MHBBNYK0h3N30Gv7Ja|A315|Red (King Crimson album)|King Crimson|Art Rock;Progressive Rock;Rock",
 "Motörhead|Ace of Spades|1980|OLAK5uy_nzjjZLTZmiYsGcM0IteFeZhE6qCnS3wLw|A507|Ace of Spades (album)|Motörhead|Hard Rock;Heavy Metal;Metal;Rock",
 "The Quintet|Jazz at Massey Hall|1953|OLAK5uy_nRcwV4icxcpB9iqD2oKhIOd7Zpx5o2Y-8|A1768|Jazz at Massey Hall|Jazz at Massey Hall|Bebop;Jazz",
