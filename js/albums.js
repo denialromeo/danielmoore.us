@@ -1488,7 +1488,7 @@ const albums = [
 "Flying Lotus|Los Angeles|2008|OLAK5uy_nlsLRecArw04-4_Vo3qGJjlIUYXJ3a8Yc|A4365|Los Angeles (Flying Lotus album)|Flying Lotus|IDM;Wonky;Dance;Electronic;Electronic Dance Music",
 "Todd Terje|It's Album Time|2014|OLAK5uy_mCMP_lzIdDyILsQvsOOuapi4hT2AjPFmw|A5408|It's Album Time|Todd Terje|Electro-Disco;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House",
 "Daughters|You Won't Get What You Want|2018|OLAK5uy_lRNKcLYcmtc-CHuytwrTRoGgiX54MasxE|A6066|You Won't Get What You Want|Daughters (band)|Industrial Rock;Noise Rock;Industrial Music;Rock",
-"Crosby, Stills, Nash & Young|4 Way Street|1971|OLAK5uy_mb76K5hNa-OnqunrS29m3D2jqIk92I-fM|A239|4 Way Street|Crosby, Stills, Nash & Young|Folk Rock;Rock",
+"Crosby, Stills, Nash & Young|4 Way Street|1971|OLAK5uy_mOdL4eUhMyhhUMzJpVyvqjJtZyxzqvGYQ|A239|4 Way Street|Crosby, Stills, Nash & Young|Folk Rock;Rock",
 "Silver Apples|Silver Apples|1968|OLAK5uy_nWjjSryPYyQEW8ohN9Jd3jqHCuv2fLFgk|A4471|Silver Apples (album)|Silver Apples|Electronic;Psychedelic Rock;Rock",
 "Count Basie|April in Paris|1957|PLlvikwomg9DCCuiio85VLJp1cpKOLmeeD|A1810|April in Paris (album)|Count Basie|Big Band;Swing;Jazz",
 "Faust|So Far|1972|OLAK5uy_m20Dr-r78zpA_puvbYRgoXW2v62ALSKNU|A2439|Faust So Far|Faust (band)|Krautrock;Experimental Rock;Progressive Rock;Rock",
