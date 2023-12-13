@@ -1180,7 +1180,7 @@ const albums = [
 "Joe Cocker|Mad Dogs and Englishmen|1970|OLAK5uy_l9QGAunBIiVf3vjc4FGRDvOBYq86QSRLQ|A1255|Mad Dogs & Englishmen (album)|Joe Cocker|Blue Eyed Soul;Rhythm & Blues;Rock;Pop;R&B",
 "Fred Neil|Fred Neil|1966|OLAK5uy_mgCP-GHkrKqnCkp9Y8cqiwffHCSV6hhqg|A1296|Fred Neil (album)|Fred Neil|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock",
 "Blues Explosion|Orange|1994|OLAK5uy_nschsh_d8TruDKOdEIWQpHPVd3ZFiPJw0|A928|Orange (Jon Spencer Blues Explosion album)|Jon Spencer Blues Explosion|Garage Punk;Punk Blues;Garage Rock;Punk Rock;Rock",
-"Eric B. & Rakim|Follow the Leader|1988|OLAK5uy_lQ9ox5i7aR_VcOJ-jtKAIVzu1_9tHNi-Q|A739|Follow the Leader (Eric B. & Rakim album)|Eric B. & Rakim|Boom Bap;Hardcore Hip Hop;Hip Hop",
+"Eric B. & Rakim|Follow the Leader|1988|OLAK5uy_mNJvHDmwqgGA6bRmTo4cCF28BZ2yQwT6I|A739|Follow the Leader (Eric B. & Rakim album)|Eric B. & Rakim|Boom Bap;Hardcore Hip Hop;Hip Hop",
 "Grouper|Ruins|2014|OLAK5uy_lSwOB8wHMsZoOTYowFuTuJR_0aNl9Ecmg|A5423|Ruins (Grouper album)|Grouper (musician)|Ambient;Singer/Songwriter",
 "Ramones|It's Alive|1979|OLAK5uy_l_5lZ180lirjTxKhLX3wNIrEmtRxYyDtY|A1453|It's Alive (Ramones album)|Ramones|Punk Rock;Rock",
 "Blue Cheer|Vincebus Eruptum|1968|OLAK5uy_mcLWhskFTIYUhp5QTrfA1e1GrXSomERyc|A2229|Vincebus Eruptum|Blue Cheer|Acid Rock;Blues Rock;Heavy Psych;Hard Rock;Psychedelic Rock;Rock",
