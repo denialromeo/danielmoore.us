@@ -1243,7 +1243,7 @@ const albums = [
 "TV on the Radio|Desperate Youth, Blood Thirsty Babes|2004|OLAK5uy_ndZHWXAAaOgfJK8okBHfaCPqZ1HqNE6EU|A4047|Desperate Youth, Blood Thirsty Babes|TV on the Radio|Art Rock;Experimental Rock;Indie Rock;Alternative Rock;Rock",
 "Calexico|The Black Light|1998|OLAK5uy_lrbWV0RQEjQ_3egBxHyuCwzCjJ6_Po3V4|A3724|The Black Light|Calexico (band)|Alt-Country;Americana;Country",
 "Goldfrapp|Felt Mountain|2000|OLAK5uy_namnaLo2WwtIcO_ds8VJEgiMoDSQfWcto|A1106|Felt Mountain|Goldfrapp|Dream Pop;Trip Hop;Alternative Rock;Downtempo;Electronic;Rock",
-"Nick Cave & The Bad Seeds|Dig!!! Lazarus Dig!!!|2008|OLAK5uy_mDMSm7zXgbGhs314cDlRGYhFqqLbpfikk|A4341|Dig, Lazarus, Dig!!!|Nick Cave and the Bad Seeds|Post-Punk;Rock",
+"Nick Cave & The Bad Seeds|Dig, Lazarus, Dig!!!|2008|OLAK5uy_mDMSm7zXgbGhs314cDlRGYhFqqLbpfikk|A4341|Dig, Lazarus, Dig!!!|Nick Cave and the Bad Seeds|Post-Punk;Rock",
 "Spacemen 3|The Perfect Prescription|1987|PL29AFF9CD00E84F91|A1696|The Perfect Prescription|Spacemen 3|Neo-Psychedelia;Space Rock;Psychedelic Rock;Rock",
 "Badly Drawn Boy|The Hour of Bewilderbeast|2000|OLAK5uy_ly77T7OMEj-SU32jr5LZ2jz2Pk-x1iAeY|A1085|The Hour of Bewilderbeast|Badly Drawn Boy|Chamber Pop;Baroque Pop;Indie Pop;Pop",
 "Metallica|...And Justice for All|1988|OLAK5uy_kwDDSWKgSgMcCmR7XGOZ7KTyxK-XJO-fo|A1540|...And Justice for All (album)|Metallica|Thrash Metal;Metal;Rock",
