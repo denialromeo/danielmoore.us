@@ -1990,7 +1990,7 @@ const songs = [
 "Ike and Tina Turner|Nutbush City Limits|1973|ALAWxatDoD0|Ike & Tina Turner|S3913|Funk;Rhythm & Blues;Soul;R&B|Nutbush City Limits",
 "Tori Amos|Cornflake Girl|1994|w_HA5Czhtx4|Tori Amos|S3150|Art Pop;Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Cornflake Girl",
 "Beyoncé|Hold Up|2016|PeonBmeFR8o|Beyoncé|S16037|Contemporary R&B;Pop;R&B|Hold Up (song)",
-"The Archies|Sugar, Sugar|1969|4wUlBhnxOX4|The Archies|S2291|Bubblegum;Pop|Sugar, Sugar",
+"The Archies|Sugar, Sugar|1969|eX28cgKHHyc|The Archies|S2291|Bubblegum;Pop|Sugar, Sugar",
 "Shirley Bassey|Goldfinger|1964|-orFtcORyuM?start=62|Shirley Bassey|S4088|Film Soundtrack;Traditional Pop;Descriptor;Pop;Soundtracks|Goldfinger (Shirley Bassey song)",
 "Todd Rundgren|Hello It's Me|1972|0I-s_FBU74c|Todd Rundgren|S4100|Pop Rock;Pop;Rock|Hello It's Me",
 "Serge Gainsbourg|Requiem pour un con|1968|6Uzq82SHGGE|Serge Gainsbourg|S8357|French Pop;Pop|",
