@@ -1901,7 +1901,7 @@ const albums = [
 "The Jayhawks|Tomorrow the Green Grass|1995|OLAK5uy_kqRT_WukJfQT0i9d5p3zXchUaAp4Hqq88|A958|Tomorrow the Green Grass|The Jayhawks|Alt-Country;Americana;Country",
 "808 State|Newbuild|1988|PLah_-5NuaeJGn41fmp5CuQAOR6jK20L-5|A3225|Newbuild (album)|808 State|Acid House;Dance;Electronic;Electronic Dance Music;House",
 "Muddy Waters|Folk Singer|1964|OLAK5uy_lhgXpmLphS_Y4pT17W2J1x5OWnua2M1EI|A1293|Folk Singer (album)|Muddy Waters|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music",
-"Emerson, Lake & Palmer|Brain Salad Surgery|1973|OLAK5uy_mF40O_tVS7DNNnzWLRqP12O6P1jxYledU|A2473|Brain Salad Surgery|Emerson, Lake & Palmer|Progressive Rock;Rock",
+"Emerson, Lake & Palmer|Brain Salad Surgery|1973|OLAK5uy_k0hQMgNN7BQdyXhurRMojLEASGtZlbdGo|A2473|Brain Salad Surgery|Emerson, Lake & Palmer|Progressive Rock;Rock",
 "Jimmy Giuffre 3|Thesis|1961|PLestjaPEwHQ-MKh2EeGeA-kDBKCTOcOZo|A1903|Thesis (Jimmy Giuffre 3 album)|Jimmy Giuffre|Cool Jazz;Third Stream;Jazz",
 "Ketama|Songhai|1988|OLAK5uy_nxHzcBymDhz0RaYzFv9i2nbs8uGbN64hs|A2897|Songhai (album)|Ketama|African Folk Music;Flamenco Nuevo;Songhai Music;African Music;European Folk Music;Flamenco;Folk;Hispanic Music;Regional Music;Spanish Folk Music;Spanish Music;Traditional Folk Music;West African Music",
 "Michael Jackson|Dangerous|1991|OLAK5uy_m9zXENU37EA1SQOBMJVncMstQXSntpAXg|A3375|Dangerous (Michael Jackson album)|Michael Jackson|Contemporary R&B;Pop;R&B",
