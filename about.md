@@ -234,7 +234,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Kaze Tachinu*](https://play.max.com/movie/f769960a-91db-4e24-8ecc-de9bd41b8102) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (You can do everything right and still fail.)
 * [*The Menu*](https://play.max.com/movie/9bcb57c8-b5c6-4a26-8305-fbb49e2258b9) by [Will Tracy](https://www.creativescreenwriting.com/seth-reiss-and-will-tracy-take-a-look-at-the-menu/) (Eating is not the same as cooking.)
 * [*Mononoke Hime*](https://play.max.com/movie/e31c2dc2-cb8b-416e-9eda-769be3bb3a6b) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (Everyone's the hero of their own story.)
-* [*Nightcrawler*](https://play.max.com/movie/130a3280-93bf-4907-a6c9-de7daa8a8de7) by [Dan Gilroy](https://en.wikipedia.org/wiki/Dan_Gilroy) (Markets don't reward what's best for society.)
 * [*Nope*](https://www.amazon.com/Nope-Daniel-Kaluuya/dp/B0B8V71GPC) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Make not a spectacle of others, lest you be destroyed in turn.)
 * [*The Personal History of David Copperfield*](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10baee16-44cc-e332-e3c6-0796dd7162e9) by [Armando Ianucci](https://en.wikipedia.org/wiki/Armando_Ianucci) (My favorite comedy.)
 * [*Schindler's List*](https://www.amazon.com/gp/video/detail/B00BEN0V8S) by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) (Still the best film ever made about racism.)
