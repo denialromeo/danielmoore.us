@@ -2814,7 +2814,7 @@ const albums = [
 "Jefferson Airplane|Crown of Creation|1968|OLAK5uy_nYxt46J5zZ5smu87gAx8-3cwS5sTRJyJM|A1305|Crown of Creation|Jefferson Airplane|Acid Rock;Psychedelic Rock;Rock",
 "John Coltrane|Crescent|1964|OLAK5uy_ntIG3BqJHbCBYCWXkrSL4eh66W3Soshl8|A2323|Crescent (John Coltrane album)|John Coltrane|Avant-Garde Jazz;Post-Bop;Bebop;Jazz",
 "Parquet Courts|Sunbathing Animal|2014|OLAK5uy_k3Yobm0wR6DZwL4ogkFcxxe5TZJk4JKxQ|A5427|Sunbathing Animal|Parquet Courts|Indie Rock;Alternative Rock;Rock",
-"Art Pepper|Smack-Up|1960|PLTPgQ0VoqzDEcmUh-7x8WYY5BlZX2PTBI|A2465|Smack Up|Art Pepper|Cool Jazz;Jazz",
+"Art Pepper|Smack Up|1960|OLAK5uy_lHdk0xLKGquRby6ET862qaDuWWU0u2ni4|A2465|Smack Up|Art Pepper|Cool Jazz;Jazz",
 "Billy Fury|The Sound of Fury|1960|OLAK5uy_mIxdzqlIPd5LTi_xlHYhSUbT15XpCKP8o|A1222|The Sound of Fury (album)|Billy Fury|Rock & Roll;Rock",
 "Kenny Burrell|Midnight Blue|1963|PLWFMZQRDtw5YXVGDix0_V3Ucg7woYu_tX|A1924|Midnight Blue (Kenny Burrell album)|Kenny Burrell|Hard Bop;Bebop;Jazz",
 "Florence + The Machine|How Big, How Blue, How Beautiful|2015|OLAK5uy_nWGFKO2nwoAnGfsvLikZAELpr68mTEEPM|A5565|How Big, How Blue, How Beautiful|Florence and the Machine|Art Pop;Pop",
