@@ -6888,7 +6888,7 @@ const songs = [
 "Feist|I Feel It All|2007|l-iAS18rv68|Feist (singer)|S15476|Chamber Pop;Baroque Pop;Indie Pop;Pop|I Feel It All",
 "George Michael|Outside|1998|gwZAYdHcDtU|George Michael|S4241|Dance-Pop;Dance;Pop|Outside (George Michael song)",
 "Animal Collective|Leaf House|2004|VPWR98JCCRE|Animal Collective|S4686|Avant-Folk;Freak Folk;Neo-Psychedelia;Contemporary Folk;Folk;Psychedelic Folk;Psychedelic Rock;Rock|",
-"Lambchop|Your Fucking Sunny Day|1997|S8qUpq_arik|Lambchop (band)|S11366|Americana;Chamber Pop;Baroque Pop;Country;Indie Pop;Pop|",
+"Lambchop|Your Fucking Sunny Day|1997|693elXkyGcI|Lambchop (band)|S11366|Americana;Chamber Pop;Baroque Pop;Country;Indie Pop;Pop|",
 "The Clash|This Is England|1985|qkj0wUcbUeE|The Clash|S1933|New Wave;Post-Punk;Synth Funk;Funk;R&B;Rock|This Is England (song)",
 "Patricio Rey y Sus Redonditos de Ricota|Jijiji|1986|CGJzdKV9l1w|Patricio Rey y sus Redonditos de Ricota|S11848|Hard Rock;Post-Punk;Rock|",
 "The Beatles|Mother Nature's Son|1968|TMMiXjwhODU|The Beatles|S5378|Folk Pop;Contemporary Folk;Folk;Pop|Mother Nature's Son",
