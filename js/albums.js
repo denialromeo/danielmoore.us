@@ -1164,7 +1164,7 @@ const albums = [
 "Sonny Rollins|The Bridge|1962|PL0q2VleZJVEljT52xpNPlT2zyXvMNrvSA|A1921|The Bridge (Sonny Rollins album)|Sonny Rollins|Hard Bop;Bebop;Jazz",
 "John Cale|Music for a New Society|1982|OLAK5uy_moburjVE3qbQLeqv6kJtprR4NRS-8X-zY|A565|Music for a New Society|John Cale|Art Rock;Rock",
 "Miles Davis|Milestones|1958|OLAK5uy_k6N48hdUbNKf7iImi1mGDOol1p3GEZLZA|A1840|Milestones (Miles Davis album)|Miles Davis|Hard Bop;Bebop;Jazz",
-"The Flaming Lips|Embryonic|2009|OLAK5uy_kfdz0l95eCSSo-r5g-ljNzektaokDDGSg|A4994|Embryonic|The Flaming Lips|Experimental Rock;Neo-Psychedelia;Noise Pop;Alternative Rock;Psychedelic Rock;Rock",
+"The Flaming Lips|Embryonic|2009|OLAK5uy_kfdz0l95eCSSo-r5g-ljNzektaokDDGSg|A4994|Embryonic (album)|The Flaming Lips|Experimental Rock;Neo-Psychedelia;Noise Pop;Alternative Rock;Psychedelic Rock;Rock",
 "Wild Beasts|Two Dancers|2009|OLAK5uy_kS0jI4fH8ALCvAHNPzLnKDQSjgkIhcqGs|A5001|Two Dancers|Wild Beasts|Art Rock;Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
 "Bad Brains|I Against I|1986|OLAK5uy_ne8TUTWf4gQP8guO1WOxF9oum-5YN9W2c|A689|I Against I|Bad Brains|Alternative Metal;Hardcore Punk;Metal;Punk Rock;Rock",
 "Aphex Twin|Syro|2014|OLAK5uy_lkOYA0UAwvxnh-p3AdLbwovH02j-IGfik|A5397|Syro|Aphex Twin|IDM;Electronic",
