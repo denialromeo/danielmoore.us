@@ -266,7 +266,7 @@ const albums = [
 "The Streets|Original Pirate Material|2002|OLAK5uy_mBnV0kRV1nE4pvfvOVSDzExl_WQHTJ1nM|A1623|Original Pirate Material|The Streets|UK Garage;UK Hip Hop;Dance;Electronic;Electronic Dance Music;Hip Hop",
 "The Smashing Pumpkins|Mellon Collie and the Infinite Sadness|1995|OLAK5uy_nHuN2cshoHbYgOgBMyeLvFS3nlD0DJOAA|A942|Mellon Collie and the Infinite Sadness|The Smashing Pumpkins|Alternative Rock;Rock",
 "Bob Dylan|Time Out of Mind|1997|OLAK5uy_kTw8fsbuQcxHecb7BZb7wZu-J5Tl8m8Go|A1007|Time Out of Mind (Bob Dylan album)|Bob Dylan|Folk Rock;Singer/Songwriter;Rock",
-"The Velvet Underground|Loaded|1970|PLsQfpW7FBkHwJFQwZJyrQUGIS2nA38PDP|A187|Loaded (The Velvet Underground album)|The Velvet Underground|Pop Rock;Pop;Rock",
+"The Velvet Underground|Loaded|1970|OLAK5uy_knj6lw9T3B9va1hkHQhXAaCy0PmodZMf8|A187|Loaded (The Velvet Underground album)|The Velvet Underground|Pop Rock;Pop;Rock",
 "David Bowie|Heroes|1977|PLL1ZJvW8jPWfiCwN57VW3hTVtbBshVHEO|A399|Heroes (David Bowie album)|David Bowie|Art Rock;Experimental Rock;Rock",
 "The Human League|Dare!|1981|OLAK5uy_kleqYoWvyce3vqYTULVYUavBk-ncUkOxc|A511|Dare (album)|The Human League|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock",
 "Nirvana|MTV Unplugged in New York|1994|OLAK5uy_khF-bYQKOZrX9U1WH0-7z1xzssUd4q4_I|A906|MTV Unplugged in New York|Kurt Cobain|Acoustic Rock;Alternative Rock;Rock",
