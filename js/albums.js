@@ -1062,7 +1062,7 @@ const albums = [
 "Built to Spill|There's Nothing Wrong with Love|1994|OLAK5uy_mAbV8J0oKuXhDpu-qmZPSRr1NbcGNwrqE|A1600|There's Nothing Wrong with Love|Built to Spill|Indie Rock;Alternative Rock;Rock",
 "The Upsetters|Super Ape|1976|OLAK5uy_kDxfQ_PKmxA3dE0Kq46v-rBjB-1IFrAgY|A2624|Super Ape|The Upsetters|Dub;Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Wolf Parade|Apologies to the Queen Mary|2005|OLAK5uy_luLSBoFV6MHLoA-WL1QuOSCmWfK7QN5SY|A4196|Apologies to the Queen Mary|Wolf Parade|Indie Rock;Alternative Rock;Rock",
-"The Velvet Underground|1969: Velvet Underground Live with Lou Reed|1974|PLokvsi1OMd-funNmAeMOi2TUcpG1RRL_k|A319|1969: The Velvet Underground Live|The Velvet Underground|Rock",
+"The Velvet Underground|1969: Velvet Underground Live with Lou Reed|1974|OLAK5uy_lcrYCzXgFFktINSPSGaFdiTGuyOQ5nE60|A319|1969: The Velvet Underground Live|The Velvet Underground|Rock",
 "Cypress Hill|Cypress Hill|1991|OLAK5uy_m55DcsmCrbnns_UWbaxXvPVnUh_5Uhn1Q|A825|Cypress Hill (album)|Cypress Hill|Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Johnny Cash|American IV: The Man Comes Around|2002|OLAK5uy_nK2REovV8SHLTOfiXzF-fIQPR4O7IbxVU|A1737|American IV: The Man Comes Around|Johnny Cash|Americana;Country",
 "Fleet Foxes|Helplessness Blues|2011|OLAK5uy_mhaB5rxn2fOLSf_ANa9MA4JZl3eK--Wok|A5143|Helplessness Blues|Fleet Foxes|Chamber Folk;Indie Folk;Contemporary Folk;Folk",
