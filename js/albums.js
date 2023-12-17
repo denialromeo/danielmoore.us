@@ -2217,7 +2217,7 @@ const albums = [
 "Konono No. 1|Congotronics|2005|OLAK5uy_lmftIfz1kI0kgDGn0KP-EnhavnjCUbNQQ|A4917|Congotronics|Konono Nº1|Tradi-Modern;African Music;Regional Music",
 "El Guincho|Pop Negro|2010|PLP7Y4EGN52lw2WJTxxCfyTBxAYwp1MqCJ|A6395|Pop Negro|El Guincho|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock",
 "The House of Love|The House of Love (I)|1988|OLAK5uy_ld96mgRASkh89APYD_smfn36D-yaHmCIw|A1536|The House of Love (1988 album)|The House of Love|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
-"Kaleidoscope (US)|A Beacon from Mars|1968|PLPZD3YW453KrQJjleslpgtaEvuD8Mdd_k|A2233|A Beacon from Mars|Kaleidoscope (American band)|Folk Rock;Psychedelic Rock;Rock",
+"Kaleidoscope|A Beacon from Mars|1968|OLAK5uy_n9IlKVeWP8yOXYfMXG3ENfDIs6NR2y3Wc|A2233|A Beacon from Mars|Kaleidoscope (American band)|Folk Rock;Psychedelic Rock;Rock",
 "Peter Doherty|Grace/Wastelands|2009|OLAK5uy_n-XQQsIxvcnTDGNhHHGUAdZicSx8Wpu48|A5045|Grace/Wastelands|Pete Doherty|Acoustic Rock;Singer/Songwriter;Rock",
 "The Black Keys|Rubber Factory|2004|OLAK5uy_n92FRjLIEztgKvAGQtSN6AJFEjsN5i_Gw|A4971|Rubber Factory|The Black Keys|Blues Rock;Rock",
 "John Williams|Star Wars|1977|PL1X3qTzT40VkxsQoMqp6kN2CZG4ZWhOwK|A4601|Star Wars (soundtrack)|John Williams|Film Score;Orchestral;Classical Music;Descriptor;Film Soundtrack;Soundtracks;Western Classical Music",
