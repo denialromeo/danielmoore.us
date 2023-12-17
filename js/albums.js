@@ -2052,7 +2052,7 @@ const albums = [
 "Chuck Berry|St. Louis to Liverpool|1964|OLAK5uy_kCc1kvTx1ud38QDSzEtB09YL3VkZwlvd4|A19|St. Louis to Liverpool|Chuck Berry|Rock & Roll;Rock",
 "Jenny Hval|Blood Bitch|2016|OLAK5uy_nDWj2gQhjLrLE8O2L6aeNPDmiGXJYU3UU|A5746|Blood Bitch|Jenny Hval|Ambient Pop;Art Pop;Pop",
 "Snail Mail|Lush|2018|OLAK5uy_kqzaox0m6VKgkvlAaYrH-_Z1j3M9XfO8U|A6046|Lush (Snail Mail album)|Snail Mail (musician)|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
-"The Original Soundtrack|The Sound of Music|1965|PLoLRT0VccMFaMXdaYGm1dLPSWgIDR79JX|A2558|The Sound of Music (soundtrack)|Oscar Hammerstein II|Film Soundtrack;Show Tunes;Descriptor;Musical Theatre and Entertainment;Soundtracks",
+"The Original Soundtrack|The Sound of Music|1965|PLVnkoLiLMTm5mXryikKaW03XjpsXbyGCX|A2558|The Sound of Music (soundtrack)|Oscar Hammerstein II|Film Soundtrack;Show Tunes;Descriptor;Musical Theatre and Entertainment;Soundtracks",
 "Fountains of Wayne|Welcome Interstate Managers|2003|OLAK5uy_lStpX3VbPhk6_7GLU_U09cwEPGkuz0G7E|A3933|Welcome Interstate Managers|Fountains of Wayne|Indie Pop;Power Pop;Pop;Pop Rock;Rock",
 "Bérurier Noir|Concerto pour détraqués|1985|OLAK5uy_nPAgcMMh-Dxfjl00YbmDHiCr_66MdANW8|A4704|https://fr.wikipedia.org/wiki/Concerto_pour_d%C3%A9traqu%C3%A9s|Bérurier Noir|Punk Rock;Rock",
 "Joan Manuel Serrat|Mediterráneo|1971|OLAK5uy_k6h0_Ckv1xjVjcFWY7JfcMw7d-6uIIuzY|A4525|Mediterráneo|Joan Manuel Serrat|Nueva canción española;Contemporary Folk;Folk;Hispanic Music;Nueva canción;Regional Music;Singer/Songwriter;Spanish Music",
