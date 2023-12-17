@@ -1532,7 +1532,7 @@ const albums = [
 "Serge Gainsbourg|Initials B. B.|1968|PLAyqE9JL0JKPd5tQGLqZ_Fb1AzEvcLNux|A4466|Initials B.B.|Serge Gainsbourg|Baroque Pop;Chanson;French Pop;Pop;Regional Music",
 "The Kinks|Muswell Hillbillies|1971|OLAK5uy_kpYk1KS6WZC9kwcOHTsWVStQq6xeZ3Q0o|A1355|Muswell Hillbillies|The Kinks|Country Rock;Pop Rock;Pop;Rock",
 "Louis Armstrong|Louis Armstrong Plays W.C. Handy|1954|OLAK5uy_kCdwl7RbtQCGBepd1Gh-wIgh_1JXFn8ck|A1769|Louis Armstrong Plays W.C. Handy|Louis Armstrong|Dixieland;Vocal Jazz;Jazz",
-"Otis Redding|Live in Europe|1967|OLAK5uy_kutUH47zxFPlyUAK_p5XihqWpIqQpivPk|A110|Live in Europe (Otis Redding album)|Otis Redding|Southern Soul;R&B;Soul",
+"Otis Redding|Live in Europe|1967|PLc37VQKooQKLY37UP5WnoTuwXn59grpap|A110|Live in Europe (Otis Redding album)|Otis Redding|Southern Soul;R&B;Soul",
 "Luomo|Vocalcity|2000|OLAK5uy_lPmQZfUA6gFHSFg-1I7--xyqmZ0d9JWpE|A4926|Vocalcity|Vladislav Delay|Deep House;Microhouse;Dance;Electronic;Electronic Dance Music;House",
 "Shania Twain|Come On Over|1997|OLAK5uy_kPPGnzUd00XdI1Rfgrwb6WEqtAIWh6i2Q|A3666|Come On Over|Shania Twain|Country Pop;Country;Pop",
 "Various Artists|The Concert for Bangladesh|1971|PL0l960HMI5BCesojQ5OfQbKyeRrvaFFf1|A1354|The Concert for Bangladesh (album)|The Concert for Bangladesh|Folk Rock;Rock",
