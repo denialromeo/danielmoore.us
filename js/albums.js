@@ -994,7 +994,7 @@ const albums = [
 "Pet Shop Boys|Very|1993|OLAK5uy_kJNHXIqR-_M70MaoMjMoN_xfm7WpeOLrw|A878|Very (Pet Shop Boys album)|Pet Shop Boys|Synthpop;Electronic;Pop",
 "Shabazz Palaces|Black Up|2011|OLAK5uy_m4osqPwgG9lghYoipG9XQZbxz6Uop8WIg|A5171|Black Up|Shabazz Palaces|Abstract Hip Hop;Experimental Hip Hop;Hip Hop",
 "Blur|Think Tank|2003|OLAK5uy_nSZx3hE_GeKlHEHuiieD5WnVkJ317fia8|A3927|Think Tank (Blur album)|Blur (band)|Alternative Rock;Rock",
-"Donna Summer|Bad Girls|1979|PLI6kLIhBBwmQ279u6h_lhZM_Spu3eeNKu|A471|Bad Girls (Donna Summer album)|Donna Summer|Disco;Dance",
+"Donna Summer|Bad Girls|1979|OLAK5uy_nOCptCWRNZw_Nfh3lcXx_JCYWLKy-c5Bc|A471|Bad Girls (Donna Summer album)|Donna Summer|Disco;Dance",
 "The Beach Boys|The Beach Boys Today!|1965|OLAK5uy_mtkZMTzc65ItKF1vsQ5rnqMEK95wV84EE|A36|The Beach Boys Today!|The Beach Boys|Baroque Pop;Pop Rock;Pop;Rock",
 "Arrested Development|3 Years, 5 Months and 2 Days in the Life of...|1992|OLAK5uy_mQ_CAMoudfTB12jZpY3hM8wRlI81PM4jc|A842|3 Years, 5 Months and 2 Days in the Life Of...|Arrested Development (group)|Hip Hop",
 "Tangerine Dream|Phaedra|1974|OLAK5uy_l3T7t42x3I32hhautRFyRSlYUp5GS3nVs|A1184|Phaedra (album)|Tangerine Dream|Berlin School;Electronic;Progressive Electronic",
