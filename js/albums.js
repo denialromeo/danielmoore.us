@@ -1537,7 +1537,7 @@ const albums = [
 "Shania Twain|Come On Over|1997|OLAK5uy_kPPGnzUd00XdI1Rfgrwb6WEqtAIWh6i2Q|A3666|Come On Over|Shania Twain|Country Pop;Country;Pop",
 "Various Artists|The Concert for Bangladesh|1971|PL0l960HMI5BCesojQ5OfQbKyeRrvaFFf1|A1354|The Concert for Bangladesh (album)|The Concert for Bangladesh|Folk Rock;Rock",
 "Cassandra Wilson|Blue Light 'Til Dawn|1993|OLAK5uy_n6_LgDS1ugy6KUW8nkcQku4FmTVmnCx5A|A2202|Blue Light 'til Dawn|Cassandra Wilson|Vocal Jazz;Jazz",
-"Tindersticks|Tindersticks (II)|1995|PLiN-7mukU_RG1dtAGCEyj7YxerbkglTQa|A944|Tindersticks (1995 album)|Tindersticks|Chamber Pop;Baroque Pop;Indie Pop;Pop",
+"Tindersticks|Tindersticks (II)|1995|OLAK5uy_m8Ci6bsim7PfqAF1JaLSPy87h1hSCq_4k|A944|Tindersticks (1995 album)|Tindersticks|Chamber Pop;Baroque Pop;Indie Pop;Pop",
 "The Cult|Electric|1987|OLAK5uy_mpXHDLaHc5MmxcnJAcAnxT_OwPMRNz6k8|A1525|Electric (The Cult album)|The Cult|Hard Rock;Rock",
 "Solomon Burke|Don't Give Up On Me|2002|OLAK5uy_lGzyGTBYmhVKS465S3A5ix0HB5XDZNpt8|A1637|Don't Give Up on Me|Solomon Burke|Southern Soul;R&B;Soul",
 "The Associates|Sulk|1982|OLAK5uy_k-ivyNcvL0zovevkCxXVPzkz4X5J8zb-4|A569|Sulk|The Associates (band)|Art Pop;New Romantic;Synthpop;Electronic;New Wave;Pop;Rock",
