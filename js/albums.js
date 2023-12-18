@@ -2778,7 +2778,7 @@ const albums = [
 "Clipse|Lord Willin'|2002|OLAK5uy_mpNSYzaYRQexRfoj3WcFFvxnJ88Uuc8dU|A4950|Lord Willin'|Clipse|Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Frank Sinatra|Sinatra at the Sands|1966|PLGIcZonDP3p6DdQbh-lVFYDI053V3NBD3|A1970|Sinatra at the Sands|Frank Sinatra|Vocal Jazz;Jazz",
 "Jesse Winchester|Jesse Winchester|1970|OLAK5uy_nwj10Jk0-Ny-z98hQMih--JzdeclFuOsc|A2368||Jesse Winchester|Singer/Songwriter",
-"Bobby Womack|The Poet II|1984|OLAK5uy_l12drswaG9IRM5v6Munw6RZHkudulm0gY|A1491|The Poet II|Bobby Womack|Soul;R&B",
+"Bobby Womack|The Poet II|1984|OLAK5uy_kBfBs9kTJH50MZHEFmeDbfrW3lwM651HI|A1491|The Poet II|Bobby Womack|Soul;R&B",
 "Bill Haley and His Comets|Shake, Rattle and Roll|1954|PL1X3qTzT40Vk1qJsmGslmNLsbVKESOuq6|A1256|Shake, Rattle and Roll (album)|Bill Haley & His Comets|Rock & Roll;Rock",
 "Van Morrison|Avalon Sunset|1989|OLAK5uy_mumXNGfYRbwr9iKvs1H5Irp0OoWlBOo0A|A765|Avalon Sunset|Van Morrison|Pop Rock;Pop;Rock",
 "The Original Motion Picture Cast|The Wizard of Oz|1956|PL-jq4DwiS5LRVrj66z1N4advRt8XmTF7K|A2257|Musical selections in The Wizard of Oz|Harold Arlen|Film Soundtrack;Descriptor;Soundtracks",
