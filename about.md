@@ -233,7 +233,6 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Mononoke Hime*](https://play.max.com/movie/e31c2dc2-cb8b-416e-9eda-769be3bb3a6b) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (Everyone's the hero of their own story.)
 * [*Nope*](https://www.amazon.com/Nope-Daniel-Kaluuya/dp/B0B8V71GPC) by [Jordan Peele](https://en.wikipedia.org/wiki/Jordan_Peele) (Make not a spectacle of others, lest you be destroyed in turn.)
-* [*World's Greatest Dad*](https://www.amazon.com/gp/video/detail/B00C0J535Q) by [Bobcat Goldthwait](https://en.wikipedia.org/wiki/Bobcat_Goldthwait) (Quiet desperation is the American way.)
 
 {:#comic-books}
 **Comic Books**
