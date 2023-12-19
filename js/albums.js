@@ -2285,7 +2285,7 @@ const albums = [
 "Peter Gabriel|Passion: Music for The Last Temptation of Christ|1989|OLAK5uy_mSwaG0kKJilN3R9tQkBQFgIsuKfHHZgC0|A2900|Passion (Peter Gabriel album)|Peter Gabriel|Ambient;Film Score;New Age;Regional Music;Descriptor;Film Soundtrack;Soundtracks",
 "Wyclef Jean|The Carnival|1997|OLAK5uy_mt2FHSQwJPrVGNYj_yi5Dne0hCGd32NGM|A3657|Wyclef Jean Presents The Carnival|Wyclef Jean|Pop Rap;Hip Hop",
 "The Coral|The Coral|2002|OLAK5uy_lpm4ZY06B3LbopRs25sBiKcTelfDMaUjw|A1635|The Coral (album)|The Coral|Indie Rock;Alternative Rock;Rock",
-"Don Cherry|Eternal Rhythm|1969|PLNQ784izNnfdrGDd9GmsV8ep-WW7uKJ6C|A4476|Eternal Rhythm|Don Cherry (trumpeter)|Free Jazz;Avant-Garde Jazz;Jazz",
+"Don Cherry|Eternal Rhythm|1969|PL1X3qTzT40VksH3F5Y2gVfhnklm14_Bpp|A4476|Eternal Rhythm|Don Cherry (trumpeter)|Free Jazz;Avant-Garde Jazz;Jazz",
 "Steel Pulse|Handsworth Revolution|1978|OLAK5uy_njmoeozAkUw4Yh63Jrjz0RWvojSVqt6r0|A2730|Handsworth Revolution|Steel Pulse|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Company Flow|Funcrusher Plus|1997|OLAK5uy_mgdBgo4c23b57ldam75iK8Tj4kM7_D5SU|A3669|Funcrusher Plus|Company Flow|Abstract Hip Hop;Experimental Hip Hop;Hip Hop",
 "Michael Kiwanuka|Love & Hate|2016|OLAK5uy_lRfZcmzag2CL9nEFH9m-w0UzIhwAlgLZw|A5775|Love & Hate (Michael Kiwanuka album)|Michael Kiwanuka|Singer/Songwriter;Soul;R&B",
