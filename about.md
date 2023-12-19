@@ -228,11 +228,6 @@ I hope you have a good time here. Thanks for dropping by.
 * "[A Hunger Artist](https://www.kafka-online.info/a-hunger-artist.html)" by [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka) (The best gifts find the fewest admirers.)
 * "[Yellow Card Man](https://www.goodreads.com/notes/41758281-pump-six-and-other-stories/71655209-daniel-moore)" by [Paolo Bacigalupi](https://windupstories.com/) (In the end, you're alone.)
 
-{:#television}
-**Television**
-
-* [*Mononoke Hime*](https://play.max.com/movie/e31c2dc2-cb8b-416e-9eda-769be3bb3a6b) by [Miyazaki Hayao](https://en.wikipedia.org/wiki/Hayao_Miyazaki) (Everyone's the hero of their own story.)
-
 {:#comic-books}
 **Comic Books**
 
