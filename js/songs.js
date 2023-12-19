@@ -2719,7 +2719,7 @@ const songs = [
 "The Weeknd feat. Daft Punk|Starboy|2016|34Na4j8AVgA|The Weeknd|S16204|Alternative R&B;Electropop;Contemporary R&B;Electronic;Pop;R&B|Starboy (song)",
 "Earth, Wind & Fire|After the Love Has Gone|1979|CUCLNPOjPZw|Earth, Wind & Fire|S3382|Pop Soul;Smooth Soul;Pop;R&B;Soul|After the Love Has Gone",
 "Randy Newman|God's Song (That's Why I Love Mankind)|1972|C0TvfqmWf4M|Randy Newman|S4158|Piano Blues;Singer/Songwriter;Blues|Sail Away (Randy Newman album)",
-"Oasis|Rock'n'roll Star|1994|DMzZcmQ2byc|Oasis (band)|S7778|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Rock 'n' Roll Star",
+"Oasis|Rock 'n' Roll Star|1994|DMzZcmQ2byc|Oasis (band)|S7778|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Rock 'n' Roll Star",
 "Roy Brown|Good Rockin' Tonight|1947|cgdzS4OSQ1M|Roy Brown (blues musician)|S3246|Jump-Blues;Rhythm & Blues;Blues;R&B|Good Rocking Tonight",
 "Scissor Sisters|I Don't Feel Like Dancin'|2006|4H5I6y1Qvz0|Scissor Sisters|S4004|Dance-Pop;Dance;Pop|I Don't Feel Like Dancin'",
 "SOPHIE|Immaterial|2018|Kv3yIv9nwf8|Sophie (musician)|S16545|Bubblegum Bass;Electropop;Dance;Electronic;Electronic Dance Music;Pop|Immaterial",
