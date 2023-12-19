@@ -6745,7 +6745,7 @@ const songs = [
 "Acker Bilk|Stranger on the Shore|1961|dFaH1KFmLyI|Acker Bilk|S5094|Easy Listening;Jazz Pop;Pop|",
 "Whigfield|Saturday Night|1994|8DNQRtmIMxk|Whigfield|S2949|Euro House;Eurodance;Dance;Dance-Pop;Electronic;Electronic Dance Music;House;Pop|Saturday Night (Whigfield song)",
 "Randy Crawford|One Day I'll Fly Away|1980|tH2rgPqi8Ag|Randy Crawford|S8091|Adult Contemporary;Pop Soul;Smooth Soul;Pop;R&B;Soul|One Day I'll Fly Away",
-"Neil Diamond|Song Sung Blue|1972|ighSddnnaPE|Neil Diamond|S7678|Country Pop;Singer/Songwriter;Soft Rock;Country;Pop;Pop Rock;Rock|Song Sung Blue",
+"Neil Diamond|Song Sung Blue|1972|lSy9dt5FeS0|Neil Diamond|S7678|Country Pop;Singer/Songwriter;Soft Rock;Country;Pop;Pop Rock;Rock|Song Sung Blue",
 "Dean Blunt feat. Inga Copeland|The Narcissist|2012|GKYGYpqtUP8|Dean Blunt|S15408|Hypnagogic Pop;Neo-Psychedelia;Psychedelic Rock;Rock|",
 "The Dells|There Is|1967|q5hf7cjA7co|The Dells|S6027|Northern Soul;R&B;Soul|",
 "Alice Coltrane|Journey in Satchidananda|1971|TQtEFdyhgdE|Alice Coltrane|S5154|Spiritual Jazz;Avant-Garde Jazz;Jazz|",
