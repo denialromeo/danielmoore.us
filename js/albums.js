@@ -1720,7 +1720,7 @@ const albums = [
 "Ricardo Villalobos|Alcachofa|2003|PLPv4v3pf19D5KJiyD39_tSvPEYXWYLsW5|A4969|Alcachofa (album)|Ricardo Villalobos|Microhouse;Minimal Techno;Dance;Electronic;Electronic Dance Music;House;Techno",
 "Fucked Up|David Comes to Life|2011|OLAK5uy_lY8BTZpUznCF6IN6ZmIRc9vC5rFi2wmk4|A5146|David Comes to Life|Fucked Up|Post-Hardcore;Rock Opera;Punk Rock;Rock",
 "Arctic Monkeys|Tranquility Base Hotel + Casino|2018|OLAK5uy_k1mcSWx0aLWGsylsyyXaprA2arXKF-o0I|A6031|Tranquility Base Hotel & Casino|Arctic Monkeys|Art Rock;Psychedelic Pop;Pop;Rock",
-"The Last Shadow Puppets|The Age of the Understatement|2008|PLcnPdZHPO1-Y6_dyMOpW1g81mN_VkjCqQ|A4354|The Age of the Understatement|The Last Shadow Puppets|Chamber Pop;Indie Rock;Alternative Rock;Baroque Pop;Indie Pop;Pop;Rock",
+"The Last Shadow Puppets|The Age of the Understatement|2008|OLAK5uy_mA22c28ZSe19UGx0Glahe4-gh9jXC7DBM|A4354|The Age of the Understatement|The Last Shadow Puppets|Chamber Pop;Indie Rock;Alternative Rock;Baroque Pop;Indie Pop;Pop;Rock",
 "Sizzla|Black Woman & Child|1997|OLAK5uy_miRw7BnCbQmnhpL43PVfWwqOqf_FA5WC4|A3677|Black Woman & Child|Sizzla|Ragga;Roots Reggae;Caribbean Music;Dancehall;Jamaican Music;Reggae;Regional Music",
 "Khaled|Khaled|1992|PL-Yv-f8rcErbE-kEVnBNR64xMJZ25M4_j|A2157|Khaled (album)|Khaled (musician)|Pop Raï;African Music;Arabic Music;North African Music;Pop;Raï;Regional Music",
 "Orchestra Baobab|Pirates Choice|1982|OLAK5uy_mJhISuN-sWIX2az0mbLyZ9hnaRmQhozCs|A2922||Orchestra Baobab|Afro-Cuban Jazz;Hispanic Music;Jazz;Latin American Music;Latin Jazz;Regional Music",
