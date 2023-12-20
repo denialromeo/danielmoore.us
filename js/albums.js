@@ -402,7 +402,7 @@ const albums = [
 "Grateful Dead|American Beauty|1970|OLAK5uy_kZGGsSBwmZSn_K5NHHgvMC91rrmhWVa0A|A200|American Beauty (album)|Grateful Dead|Country Rock;Folk Rock;Rock",
 "Arctic Monkeys|AM|2013|OLAK5uy_kk162BW2lzsM8QE54N8nt6dvmsM9gdn4M|A5271|AM (Arctic Monkeys album)|Arctic Monkeys|Indie Rock;Alternative Rock;Rock",
 "Steely Dan|Pretzel Logic|1974|OLAK5uy_l27wSAG4cjBNyy_rysLPBRcpXdUWy07uo|A304|Pretzel Logic|Steely Dan|Pop Rock;Pop;Rock",
-"Madvillain|Madvillainy|2004|OLAK5uy_kEP-HLC0Et4S_FWW-HGDhwGHt3lFhJQCA|A4042|Madvillainy|Madvillain|Abstract Hip Hop;Hip Hop",
+"Madvillain|Madvillainy|2004|OLAK5uy_nf8bBBv8PcA9wGIQUdlusX16tLRHCqbuk|A4042|Madvillainy|Madvillain|Abstract Hip Hop;Hip Hop",
 "Aerosmith|Toys in the Attic|1975|OLAK5uy_lsCF7NU8XBHfYDSIpVR1Qg4k3W4XvoSpM|A345|Toys in the Attic (album)|Aerosmith|Hard Rock;Rock",
 "IDLES|Joy as an Act of Resistance|2018|OLAK5uy_nuCb02XH29bSUXAESb7lC_MyKUPuEpnWY|A6023|Joy as an Act of Resistance|Idles|Post-Hardcore;Post-Punk;Punk Rock;Rock",
 "Jamie xx|In Colour|2015|OLAK5uy_kpSsO-tz6WVsp9QQJBd-oHiZSUL-I1Fn8|A5543|In Colour (Jamie xx album)|Jamie xx|UK Bass;Dance;Electronic;Electronic Dance Music;UK Garage",
