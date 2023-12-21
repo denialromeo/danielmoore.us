@@ -2371,7 +2371,7 @@ const albums = [
 "Living Colour|Time's Up|1990|OLAK5uy_mi6OuWCoOgFDXBVOF5zMYoLxc1M3O0dwk|A805|Time's Up (Living Colour album)|Living Colour|Funk Metal;Hard Rock;Alternative Metal;Metal;Rock",
 "Sturgill Simpson|A Sailor's Guide to Earth|2016|OLAK5uy_k3p-XxvOyvpO2WddAs4wDiw_W3ydWjnXU|A5810|A Sailor's Guide to Earth|Sturgill Simpson|Alt-Country;Country Soul;Country;R&B;Soul",
 "Bill Callahan|Dream River|2013|OLAK5uy_kUNUiVHTjmgM2HJWH5qWY_LOdW3M-ClNg|A5284|Dream River|Bill Callahan (musician)|Americana;Singer/Songwriter;Country",
-"King Gizzard & The Lizard Wizard|Nonagon Infinity|2016|OLAK5uy_ndc_y0YANWAPKbNAja59tcyX2_t_F8kP8|A5761|Nonagon Infinity|King Gizzard & the Lizard Wizard|Garage Rock;Psychedelic Rock;Rock",
+"King Gizzard & The Lizard Wizard|Nonagon Infinity|2016|OLAK5uy_mZl4XGD9wjmdnALDXLhiXbX1KufvfFZZY|A5761|Nonagon Infinity|King Gizzard & the Lizard Wizard|Garage Rock;Psychedelic Rock;Rock",
 "Manic Street Preachers|Generation Terrorists|1992|OLAK5uy_m1_a_-MYKwUU5qkewtWkcq4G37xgRXBh8|A866|Generation Terrorists|Manic Street Preachers|Alternative Rock;Hard Rock;Rock",
 "The Residents|Eskimo|1979|OLAK5uy_mP9-XE1XbmuRiCV69afJ0sqdRCNIIdnN8|A2764|Eskimo (album)|The Residents|Experimental",
 "Tool|Fear Inoculum|2019|OLAK5uy_krq_ZS_QzdAelhJqlSSkpFNDRnff6CQgs|A6357|Fear Inoculum|Tool (band)|Progressive Metal;Metal;Rock",
