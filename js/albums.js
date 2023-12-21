@@ -1811,7 +1811,7 @@ const albums = [
 "The Dandy Warhols|Thirteen Tales from Urban Bohemia|2000|OLAK5uy_kpxwyF2RQqjfvB_ijTw1ivRCXxIPmDQEo|A1098|Thirteen Tales from Urban Bohemia|The Dandy Warhols|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock",
 "Miles Davis|A Tribute to Jack Johnson|1971|PL7PoLThzHckLGkkiGaTMYMu0UcJ4_pGci|A1997|Jack Johnson (album)|Miles Davis|Jazz Fusion;Jazz-Rock;Jazz;Rock",
 "Amadou & Mariam|Dimanche à Bamako|2004|PLdqZQPNShYrCOmDKDXSsyaVnMnn4DB4yU|A4215|Dimanche à Bamako|Amadou & Mariam|African Music;Regional Music",
-"Shuggie Otis|Inspiration Information|1974|PLP0IenmeCOtwt2JZxb2aud-QSlagwiKw4|A2691|Inspiration Information|Shuggie Otis|Psychedelic Soul;R&B;Soul",
+"Shuggie Otis|Inspiration Information|1974|OLAK5uy_kbvVZzHPb1uDWO6bhg_9Ik9Sr55yvvlD0|A2691|Inspiration Information|Shuggie Otis|Psychedelic Soul;R&B;Soul",
 "St. Vincent|Actor|2009|OLAK5uy_ki37Kdm3N5LdEfrTAzgcmraqZMGphZtZg|A5008|Actor (album)|St. Vincent (musician)|Indie Pop;Pop",
 "Afrika Bambaataa & Soulsonic Force|Planet Rock - The Album|1986|OLAK5uy_m4xa109BcuQY_h6DXko9SEqpgeNHXAY10|A1512|Planet Rock: The Album|Afrika Bambaataa|Electro;Dance;Electronic;Electronic Dance Music",
 "The Go! Team|Thunder, Lightning, Strike|2004|OLAK5uy_lM4xqUHMtbABJqs8jFWDOQa9LO1jP0DR4|A4102|Thunder, Lightning, Strike|The Go! Team|Indie Rock;Indietronica;Alternative Rock;Electronic;Rock",
