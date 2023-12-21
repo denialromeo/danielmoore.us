@@ -59,7 +59,7 @@ const songs = [
 "The Byrds|Mr. Tambourine Man|1965|NyOzGPbn2tg|The Byrds|S997|Folk Rock;Pop Rock;Pop;Rock|Mr. Tambourine Man",
 "The Verve|Bitter Sweet Symphony|1997|1lyu1KKwC74|The Verve|S1|Britpop;Chamber Pop;Alternative Rock;Baroque Pop;Indie Pop;Pop;Pop Rock;Rock|Bitter Sweet Symphony",
 "Bill Haley and His Comets|(We're Gonna) Rock Around the Clock|1954|ZgdufzXvjqw|Bill Haley & His Comets|S1324|Rock & Roll;Rock|",
-"Derek and the Dominos|Layla|1970|TngViNw2pOo|Derek and the Dominos|S841|Blues Rock;Rock|Bell Bottom Blues (Derek and the Dominos song)",
+"Derek and the Dominos|Layla|1970|TngViNw2pOo|Derek and the Dominos|S841|Blues Rock;Rock|Layla",
 "Ike and Tina Turner|River Deep - Mountain High|1966|jhkIh4x4mmM|Ike & Tina Turner|S962|Brill Building;Pop Soul;Pop;R&B;Soul|",
 "Massive Attack|Unfinished Sympathy|1991|ZWmrfgj0MZI|Massive Attack|S187|Trip Hop;Downtempo;Electronic|Unfinished Sympathy",
 "Beck|Loser|1993|YgSPaXgAdzE|Beck|S129|Abstract Hip Hop;Alternative Rock;Hip Hop;Rock|Loser (Beck song)",
