@@ -171,6 +171,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Revolutionary Suicide*](https://www.goodreads.com/notes/8176686-revolutionary-suicide/71655209-daniel-moore) by [Huey Newton](https://en.wikipedia.org/wiki/Huey_Newton) (Rising up against the system is usually martyrdom.)
 * [*What Happened*](https://www.goodreads.com/notes/34114362-what-happened/71655209-daniel-moore) by [Hillary Clinton](https://en.wikipedia.org/wiki/Hillary_Clinton) (Her electoral losses defined the 21st century.)
 
+{%comment%}
 {:#blog-posts}
 **Blog Posts**
 
@@ -200,6 +201,7 @@ I hope you have a good time here. Thanks for dropping by.
 * "[Women in Science](https://philip.greenspun.com/careers/women-in-science)" by Philip Greenspun (STEM careers may not be worth the instability.)
 * "[You Weren't Meant to Have a Boss](http://www.paulgraham.com/boss.html)" by Paul Graham (Hierarchies suck the fun out of work.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Root of every political issue of the past 15 years.)
+{%endcomment%}
 
 {:#novels}
 **Novels**
