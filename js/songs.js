@@ -828,7 +828,7 @@ const songs = [
 "Bauhaus|Bela Lugosi's Dead|1979|OKRJfIPiJGY|Bauhaus (band)|S1822|Gothic Rock;Post-Punk;Rock|Bela Lugosi's Dead",
 "Oasis|Champagne Supernova|1995|tI-5uv4wryI|Oasis (band)|S2635|Britpop;Neo-Psychedelia;Alternative Rock;Pop;Pop Rock;Psychedelic Rock;Rock|Champagne Supernova",
 "Wu-Tang Clan|C.R.E.A.M. (Cash Rules Everything Around Me)|1993|PBwAxmrE194|Wu-Tang Clan|S2090|Boom Bap;Conscious Hip Hop;East Coast Hip Hop;Hip Hop|C.R.E.A.M.",
-"John Coltrane|My Favourite Things|1961|UlFNy9iWrpE|John Coltrane|S3297|Modal Jazz;Post-Bop;Bebop;Jazz|My Favorite Things",
+"John Coltrane|My Favorite Things|1961|UlFNy9iWrpE|John Coltrane|S3297|Modal Jazz;Post-Bop;Bebop;Jazz|My Favorite Things (song)",
 "Nirvana|About a Girl|1989|AhcttcXcRYY|Kurt Cobain|S2431|Grunge;Alternative Rock;Rock|About a Girl (Nirvana song)",
 "Labelle|Lady Marmalade|1974|t4LWIP7SAjY|Labelle|S698|Disco;Funk;Soul;Dance;R&B|Lady Marmalade",
 "Kelis|Caught Out There|1999|N3JFwd1bk4Q|Kelis|S1388|Contemporary R&B;R&B|",
