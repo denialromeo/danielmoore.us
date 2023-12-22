@@ -326,6 +326,7 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/understanding-comics/06.jpg" itemprop="contentUrl" data-size="934x1403"><img src="/assets/img/comics/understanding-comics/06.jpg"/></a></figcaption></figure>
 </div>
 
+{%comment%}
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/buddha3.png" itemprop="contentUrl" data-size="1300x1800"><img style="border: 1px solid black;" src="/assets/img/comics/showcase/buddha3.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/buddha4.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/showcase/buddha4.png"/></a><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
@@ -344,6 +345,50 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/strange_embrace.jpg" itemprop="contentUrl" data-size="1074x1650"><img src="/assets/img/comics/showcase/strange_embrace.jpg"/></a><p><i>Strange Embrace</i> by David Hine</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sculptor.jpg" itemprop="contentUrl" data-size="1454x2060"><img src="/assets/img/comics/showcase/sculptor.jpg"/></a><p><i>The Sculptor</i> by Scott McCloud</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/batman_whatever_happened2.jpg" itemprop="contentUrl" data-size="1985x3086"><img src="/assets/img/comics/showcase/batman_whatever_happened2.jpg"/></a><p><i>Whatever Happened to the Caped Crusader?</i> by Neil Gaiman</p></figcaption></figure>
+</div>
+
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/invincible/01.jpg" itemprop="contentUrl" data-size="1987x3056"><img style="border: 1px solid black;" src="/assets/img/comics/invincible/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Invincible</i> by Robert Kirkman</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/invincible/02.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/invincible/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/invincible/03.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/invincible/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/invincible/04.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/invincible/04.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/invincible/05.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/invincible/05.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/walking-dead2/walking_dead.jpg"/></a><figcaption itemprop="caption description"><p><i>The Walking Dead</i> by Robert Kirkman</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead2.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead2.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead3.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead3.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead4.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead4.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead7.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead7.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead5.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead5.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead8.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead5.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/01.jpg" itemprop="contentUrl" data-size="1920x2951"><img style="border: 1px solid black;" src="/assets/img/comics/sandman2/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/02.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/03.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/04.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/04.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/05.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/05.jpg"/></a></figcaption></figure>
+</div>
+
+{%endcomment%}
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/01.jpg" itemprop="contentUrl" data-size="701x922"><img style="border: 1px solid black;" src="assets/img/comics/web/01.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/02.jpg" itemprop="contentUrl" data-size="720x555"><img src="assets/img/comics/web/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/03.jpg" itemprop="contentUrl" data-size="850x1017"><img src="assets/img/comics/web/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/04.jpg" itemprop="contentUrl" data-size="1500x1150"><img src="assets/img/comics/web/04.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/05.jpg" itemprop="contentUrl" data-size="691x480"><img src="assets/img/comics/web/05.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/06.jpg" itemprop="contentUrl" data-size="601x659"><img src="assets/img/comics/web/06.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/07.jpg" itemprop="contentUrl" data-size="1080x1351"><img src="assets/img/comics/web/07.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/08.jpg" itemprop="contentUrl" data-size="900x654"><img src="assets/img/comics/web/08.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/09.jpg" itemprop="contentUrl" data-size="684x3863"><img src="assets/img/comics/web/09.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/10.jpg" itemprop="contentUrl" data-size="540x3494"><img src="assets/img/comics/web/10.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/11.jpg" itemprop="contentUrl" data-size="459x1023"><img src="assets/img/comics/web/11.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/12.jpg" itemprop="contentUrl" data-size="800x4266"><img src="assets/img/comics/web/12.jpg"/></a></figcaption></figure>
 </div>
 
 <div id="clear"></div>
@@ -366,26 +411,6 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/invincible/01.jpg" itemprop="contentUrl" data-size="1987x3056"><img style="border: 1px solid black;" src="/assets/img/comics/invincible/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Invincible</i> by Robert Kirkman</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/invincible/02.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/invincible/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/invincible/03.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/invincible/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/invincible/04.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/invincible/04.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/invincible/05.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/invincible/05.jpg"/></a></figcaption></figure>
-</div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/walking-dead2/walking_dead.jpg"/></a><figcaption itemprop="caption description"><p><i>The Walking Dead</i> by Robert Kirkman</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead2.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead2.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead3.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead3.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead4.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead4.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead7.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead7.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead5.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead5.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/walking-dead2/walking_dead8.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/walking-dead2/walking_dead5.jpg"/></a></figcaption></figure>
-</div>
-
-<div id="clear"></div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/swamp-thing/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Swamp Thing</i> by Alan Moore</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/02.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/swamp-thing/03.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/swamp-thing/03.jpg"/></a></figcaption></figure>
@@ -400,53 +425,14 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/extinction-parade/04.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="assets/img/comics/extinction-parade/04.jpg"/></a></figcaption></figure>
 </div>
 
+<div id="clear"></div>
+
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/01.jpg" itemprop="contentUrl" data-size="1920x2951"><img style="border: 1px solid black;" src="/assets/img/comics/sandman3/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/02.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman3/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/03.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman3/03.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/04.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman3/04.jpg"/></a></figcaption></figure>
 </div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/01.jpg" itemprop="contentUrl" data-size="1920x2951"><img style="border: 1px solid black;" src="/assets/img/comics/sandman2/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/02.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/03.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/04.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/04.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/05.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/05.jpg"/></a></figcaption></figure>
-</div>
-
-<div id="clear"></div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/blankets/1.jpg" itemprop="contentUrl" data-size="1000x1581"><img style="border: 1px solid black;" src="/assets/img/comics/blankets/1.jpg"/></a><figcaption itemprop="caption description"><p><i>Blankets</i> by Craig Thompson</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/blankets/2.jpg" itemprop="contentUrl" data-size="1000x1556"><img src="/assets/img/comics/blankets/2.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/blankets/3.jpg" itemprop="contentUrl" data-size="1000x1562"><img src="/assets/img/comics/blankets/3.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/blankets/4.jpg" itemprop="contentUrl" data-size="1000x1565"><img src="/assets/img/comics/blankets/4.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/blankets/5.jpg" itemprop="contentUrl" data-size="1000x1455"><img src="/assets/img/comics/blankets/5.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
-</div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/courtyard/01.jpg" itemprop="contentUrl" data-size="1976x3056"><img style="border: 1px solid black;" src="/assets/img/comics/courtyard/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Courtyard</i> by Alan Moore</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/courtyard/02.jpg" itemprop="contentUrl" data-size="3950x3056"><img src="/assets/img/comics/courtyard/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/courtyard/03.jpg" itemprop="contentUrl" data-size="3950x3056"><img src="/assets/img/comics/courtyard/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/courtyard/04.jpg" itemprop="contentUrl" data-size="3950x3056"><img src="/assets/img/comics/courtyard/04.jpg"/></a></figcaption></figure>
-</div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/01.jpg" itemprop="contentUrl" data-size="1280x1990"><img style="border: 1px solid black;" src="/assets/img/comics/neonomicon/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Neonomicon</i> by Alan Moore</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/02.jpg" itemprop="contentUrl" data-size="1280x1989"><img src="/assets/img/comics/neonomicon/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/03.jpg" itemprop="contentUrl" data-size="1280x1988"><img src="/assets/img/comics/neonomicon/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/04.jpg" itemprop="contentUrl" data-size="1280x2004"><img src="/assets/img/comics/neonomicon/04.jpg"/></a></figcaption></figure>
-</div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/providence/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/providence/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Providence</i> by Alan Moore</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/providence/02.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/providence/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/providence/03.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/providence/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/providence/04.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/providence/04.jpg"/></a></figcaption></figure>
-</div>
-
-<div id="clear"></div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/01.jpg" itemprop="contentUrl" data-size="1987x3056"><img style="border: 1px solid black;" src="/assets/img/comics/boys/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Boys</i> by Garth Ennis</p></figcaption></figure>
@@ -470,21 +456,6 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/watchmen4.5.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/showcase/watchmen4.5.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/watchmen4.7.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/showcase/watchmen4.7.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/watchmen4.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/showcase/watchmen4.jpg"/></a></figcaption></figure>
-</div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/01.jpg" itemprop="contentUrl" data-size="701x922"><img style="border: 1px solid black;" src="assets/img/comics/web/01.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/02.jpg" itemprop="contentUrl" data-size="720x555"><img src="assets/img/comics/web/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/03.jpg" itemprop="contentUrl" data-size="850x1017"><img src="assets/img/comics/web/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/04.jpg" itemprop="contentUrl" data-size="1500x1150"><img src="assets/img/comics/web/04.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/05.jpg" itemprop="contentUrl" data-size="691x480"><img src="assets/img/comics/web/05.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/06.jpg" itemprop="contentUrl" data-size="601x659"><img src="assets/img/comics/web/06.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/07.jpg" itemprop="contentUrl" data-size="1080x1351"><img src="assets/img/comics/web/07.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/08.jpg" itemprop="contentUrl" data-size="900x654"><img src="assets/img/comics/web/08.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/09.jpg" itemprop="contentUrl" data-size="684x3863"><img src="assets/img/comics/web/09.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/10.jpg" itemprop="contentUrl" data-size="540x3494"><img src="assets/img/comics/web/10.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/11.jpg" itemprop="contentUrl" data-size="459x1023"><img src="assets/img/comics/web/11.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/web/12.jpg" itemprop="contentUrl" data-size="800x4266"><img src="assets/img/comics/web/12.jpg"/></a></figcaption></figure>
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
@@ -536,6 +507,37 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman/01.jpg" itemprop="contentUrl" data-size="1920x2951"><img style="border: 1px solid black;" src="/assets/img/comics/sandman/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman/02.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman/03.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman/03.jpg"/></a></figcaption></figure>
+</div>
+
+<div id="clear"></div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/blankets/1.jpg" itemprop="contentUrl" data-size="1000x1581"><img style="border: 1px solid black;" src="/assets/img/comics/blankets/1.jpg"/></a><figcaption itemprop="caption description"><p><i>Blankets</i> by Craig Thompson</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/blankets/2.jpg" itemprop="contentUrl" data-size="1000x1556"><img src="/assets/img/comics/blankets/2.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/blankets/3.jpg" itemprop="contentUrl" data-size="1000x1562"><img src="/assets/img/comics/blankets/3.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/blankets/4.jpg" itemprop="contentUrl" data-size="1000x1565"><img src="/assets/img/comics/blankets/4.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/blankets/5.jpg" itemprop="contentUrl" data-size="1000x1455"><img src="/assets/img/comics/blankets/5.jpg"/></a><figcaption itemprop="caption description"></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/courtyard/01.jpg" itemprop="contentUrl" data-size="1976x3056"><img style="border: 1px solid black;" src="/assets/img/comics/courtyard/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Courtyard</i> by Alan Moore</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/courtyard/02.jpg" itemprop="contentUrl" data-size="3950x3056"><img src="/assets/img/comics/courtyard/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/courtyard/03.jpg" itemprop="contentUrl" data-size="3950x3056"><img src="/assets/img/comics/courtyard/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/courtyard/04.jpg" itemprop="contentUrl" data-size="3950x3056"><img src="/assets/img/comics/courtyard/04.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/01.jpg" itemprop="contentUrl" data-size="1280x1990"><img style="border: 1px solid black;" src="/assets/img/comics/neonomicon/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Neonomicon</i> by Alan Moore</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/02.jpg" itemprop="contentUrl" data-size="1280x1989"><img src="/assets/img/comics/neonomicon/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/03.jpg" itemprop="contentUrl" data-size="1280x1988"><img src="/assets/img/comics/neonomicon/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/neonomicon/04.jpg" itemprop="contentUrl" data-size="1280x2004"><img src="/assets/img/comics/neonomicon/04.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/providence/01.jpg" itemprop="contentUrl" data-size="1988x3056"><img style="border: 1px solid black;" src="/assets/img/comics/providence/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Providence</i> by Alan Moore</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/providence/02.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/providence/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/providence/03.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/providence/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/providence/04.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/providence/04.jpg"/></a></figcaption></figure>
 </div>
 
 <div id="clear"></div>
