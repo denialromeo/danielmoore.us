@@ -120,6 +120,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Bullshit Jobs*](https://www.goodreads.com/notes/38217638-bullshit-jobs/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (Work is more about social control than actual work.)
 * [*The Case Against Education*](https://www.goodreads.com/notes/52147324-the-case-against-education/71655209-daniel-moore) by [Bryan Caplan](http://www.bcaplan.com/) (We waste a third of our lives social signaling.)
+* [*The Gervais Principle*](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content) by [Venkatesh Rao](https://www.ribbonfarm.com/now-reading/#content) (Companies work for managers &ndash; not vice versa.)
 * [*Open Borders*](https://www.amazon.com/dp/1250316960) by [Bryan Caplan](https://en.wikipedia.org/wiki/Bryan_Caplan) (Immigration restrictions make no economic sense.)
 * [*River Out of Eden*](https://www.goodreads.com/notes/19196310-river-out-of-eden/71655209-daniel-moore) by [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) (Suffering and scarcity are built into the system.)
 * [*Screen Schooled*](https://www.goodreads.com/notes/36357274-screen-schooled/71655209-daniel-moore) by [Joe Clement](http://screenschooled.com/aboutauthors/) (Social media has mentally crippled multiple generations.)
@@ -178,7 +179,6 @@ I hope you have a good time here. Thanks for dropping by.
 * "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html#main)" by Seshadri Kumar (World War 3 has begun.)
 * "[The Dying Americans](https://hipcrime.blogspot.com/2015/11/the-dying-americans.html#main)" by the Hipcrime Vocab (Understanding Trump voters. [Sequel](https://web.archive.org/web/20230422142306/http://hipcrimevocab.com/2016/09/08/the-dying-americans-2/#main).)
 * "[Generation X Faces a Bleak Old Age](https://rall.com/2019/10/21/generation-x-faces-a-bleak-impoverished-old-age)" by Ted Rall (Après Boomers, le déluge.)
-* "[The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content)" by [Venkat Rao](https://www.ribbonfarm.com/now-reading/#content) (Pair with [*The Office*](https://www.peacocktv.com/watch/asset/tv/the-office-superfan-episodes/8229469043710582112) to forever alter your life goals.)
 * "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
 * "[How the Taliban Did It](https://www.atlanticcouncil.org/blogs/new-atlanticist/how-the-taliban-did-it-inside-the-operational-art-of-its-military-victory/)" by Benjamin Jensen (Teamwork and resolve trump everything.)
 * "[India: Another China or Another Brazil?](https://thenextrecession.wordpress.com/2019/05/19/india-another-china-or-another-brazil/)" by Michael Roberts (A sobering assessment.)
