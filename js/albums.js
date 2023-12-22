@@ -2216,7 +2216,7 @@ const albums = [
 "Chick Corea & Return to Forever|Light As a Feather|1973|PL0InWeXzSpM429enKauv20bEhqVfZ5hTb|A2009|Light as a Feather|Chick Corea|Jazz Fusion;Jazz",
 "Konono No. 1|Congotronics|2005|OLAK5uy_lmftIfz1kI0kgDGn0KP-EnhavnjCUbNQQ|A4917|Congotronics|Konono Nº1|Tradi-Modern;African Music;Regional Music",
 "El Guincho|Pop Negro|2010|PLP7Y4EGN52lw2WJTxxCfyTBxAYwp1MqCJ|A6395|Pop Negro|El Guincho|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock",
-"The House of Love|The House of Love (I)|1988|OLAK5uy_ld96mgRASkh89APYD_smfn36D-yaHmCIw|A1536|The House of Love (1988 album)|The House of Love|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
+"The House of Love|The House of Love (I)|1988|OLAK5uy_l7O1bZfFD0f2IbmQUF4PpVKX8IXdsjSfY|A1536|The House of Love (1988 album)|The House of Love|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Kaleidoscope|A Beacon from Mars|1968|OLAK5uy_n9IlKVeWP8yOXYfMXG3ENfDIs6NR2y3Wc|A2233|A Beacon from Mars|Kaleidoscope (American band)|Folk Rock;Psychedelic Rock;Rock",
 "Peter Doherty|Grace/Wastelands|2009|OLAK5uy_n-XQQsIxvcnTDGNhHHGUAdZicSx8Wpu48|A5045|Grace/Wastelands|Pete Doherty|Acoustic Rock;Singer/Songwriter;Rock",
 "The Black Keys|Rubber Factory|2004|OLAK5uy_n92FRjLIEztgKvAGQtSN6AJFEjsN5i_Gw|A4971|Rubber Factory|The Black Keys|Blues Rock;Rock",
