@@ -120,7 +120,7 @@ const albums = [
 "LCD Soundsystem|Sound of Silver|2007|OLAK5uy_kfluH9O67czeVupfm63wLv0HTyfCTHn4g|A4237|Sound of Silver|LCD Soundsystem|Dance-Punk;Indietronica;Electronic;Post-Punk;Rock",
 "Arcade Fire|The Suburbs|2010|OLAK5uy_kOfZOMGV2jWvc-wz2ZlpCkSLaVC92nUAE|A5053|The Suburbs|Arcade Fire|Indie Rock;Alternative Rock;Rock",
 "Dr. Dre|The Chronic|1992|OLAK5uy_m5n3RTp0n8L5gkp054sSIEe3uaYkh4yVc|A853|The Chronic|Dr. Dre|G-Funk;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
-"David Bowie|Low|1977|PLiN-7mukU_REnx_JyyDIB0ZnV7i6c6mIv|A397|Low (David Bowie album)|David Bowie|Art Rock;Experimental Rock;Rock",
+"David Bowie|Low|1977|PLI6kLIhBBwmTRz_KjOMLKSc65hKd2GPrH|A397|Low (David Bowie album)|David Bowie|Art Rock;Experimental Rock;Rock",
 "Pixies|Surfer Rosa|1988|PL2Kt87NbIXSX2-eD_LBXN5j_9cXeZEwpx|A722|Surfer Rosa|Pixies (band)|Indie Rock;Alternative Rock;Rock",
 "Jay-Z|The Blueprint|2001|OLAK5uy_ld1uSlLl8ydjfmg2gclp_wh2qPtFhvHcI|A1206|The Blueprint|Jay-Z|Hip Hop",
 "Beyoncé|Lemonade|2016|OLAK5uy_m9dO997hqyquaE-xTYmZUqhm2pyKbQj-k|A5701|Lemonade (Beyoncé album)|Beyoncé|Contemporary R&B;Pop;R&B",
