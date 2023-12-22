@@ -78,9 +78,6 @@ box: random-acclaimed-song
     if ("playlist" in params) {
         pool = pool.filter(s => new RegExp("^PL").exec(s.split("|")[3]) !== null)
     }
-    if ("matching" in params) {
-        pool = pool.filter(s => s.split("|")[0] == s.split("|")[1])
-    }
     } catch (e) { }
     if (pool.length === 0) { pool = albums }
     if (pool.length !== albums.length) {
