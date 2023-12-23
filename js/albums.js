@@ -2126,7 +2126,7 @@ const albums = [
 "Art Blakey Quintet|A Night at Birdland Vol. 2|1954|PLUJ7V33M1wR23EpzFsG3OTGSG30mVmrDa|A1772|A Night at Birdland Vol. 2|Art Blakey|Hard Bop;Bebop;Jazz",
 "Purity Ring|Shrines|2012|OLAK5uy_mQIAkzEeYLoYyNIHIOT0vx2RoJBwyLe6M|A5233|Shrines (album)|Purity Ring (band)|Synthpop;Electronic;Pop",
 "These New Puritans|Field of Reeds|2013|OLAK5uy_lVhJiA0xTSGv_RMCJ1OQw5tJIlcQ8RcLo|A5373|Field of Reeds|These New Puritans|Art Rock;Post-Rock;Rock",
-"Wes Montgomery|Full House: Recorded 'Live' at Tsubo - Berkeley, California|1962|OLAK5uy_kShytdy5ZXduvO47jH6qjlsGOE1BZvXlA|A1919|Full House (Wes Montgomery album)|Wes Montgomery|Hard Bop;Bebop;Jazz",
+"Wes Montgomery|Full House|1962|OLAK5uy_kShytdy5ZXduvO47jH6qjlsGOE1BZvXlA|A1919|Full House (Wes Montgomery album)|Wes Montgomery|Hard Bop;Bebop;Jazz",
 "Bon Iver|i,i|2019|OLAK5uy_nkbzCsqlRDoDC4DFv-frWbokz6D-VOkmw|A6225|I, I|Bon Iver|Art Pop;Pop",
 "Dr. Feelgood|Stupidity|1976|PLOFsCPXqLYfoWD07IiwcqxUsBrMj6gxoN|A1417|Stupidity (Dr. Feelgood album)|Dr. Feelgood (band)|British Blues;Pub Rock;Blues;Electric Blues;Rock",
 "Iron & Wine|The Shepherd's Dog|2007|OLAK5uy_nm1DkzaqR81zqRlfuMF5vUtZpKqYxNsWA|A4254|The Shepherd's Dog|Iron & Wine|Americana;Folk Rock;Indie Folk;Singer/Songwriter;Contemporary Folk;Country;Folk;Rock",
