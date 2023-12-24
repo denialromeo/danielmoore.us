@@ -125,7 +125,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*River Out of Eden*](https://www.goodreads.com/notes/19196310-river-out-of-eden/71655209-daniel-moore) by [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) (Suffering and scarcity are built into the system.)
 * [*Screen Schooled*](https://www.goodreads.com/notes/36357274-screen-schooled/71655209-daniel-moore) by [Joe Clement](http://screenschooled.com/aboutauthors/) (Social media has mentally crippled multiple generations.)
 * [*The Singularity Is Near*](https://www.goodreads.com/notes/5804507-the-singularity-is-near/71655209-daniel-moore) by [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil) (I, for one, welcome our new AI overlords.)
-* [*The Uninhabitable Earth*](https://www.goodreads.com/notes/43373984-the-uninhabitable-earth/71655209-daniel-moore) by [David Wallace-Wells](https://www.nytimes.com/column/david-wallace-wells) (Global climate change will ruin [everything](https://www.mckinsey.com/capabilities/sustainability/our-insights/will-india-get-too-hot-to-work).)
+* [*The Uninhabitable Earth*](https://www.goodreads.com/notes/43373984-the-uninhabitable-earth/71655209-daniel-moore) by [David Wallace-Wells](https://www.nytimes.com/column/david-wallace-wells) (Global climate change will ruin everything.)
 * [*Untrue: Women, Lust, and Infidelity*](https://www.goodreads.com/notes/38907660-untrue/71655209-daniel-moore) by [Wednesday Martin](https://en.wikipedia.org/wiki/Wednesday_Martin) (Primate dating market dynamics.)
 
 {:#history-books}
@@ -176,13 +176,9 @@ I hope you have a good time here. Thanks for dropping by.
 **Blog Posts**
 
 * "[Automation and the Future of Work](http://hipcrimevocab.com/2016/04/19/automation-and-the-future-of-work-black-lives-matter/#main)" by the Hipcrime Vocab (Technology causes poverty.)
-* "[The Coming European Economic Apocalypse](https://www.leftbrainwave.com/2022/11/the-coming-european-economic-apocalypse.html#main)" by Seshadri Kumar (World War 3 has begun.)
 * "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
-* "[India: Another China or Another Brazil?](https://thenextrecession.wordpress.com/2019/05/19/india-another-china-or-another-brazil/)" by Michael Roberts (A sobering assessment.)
-* "[The Merge](https://blog.samaltman.com/the-merge#main)" by Sam Altman (If intelligent life has a future, it's post-human.)
 * "[The Obama Factor](https://www.tabletmag.com/sections/arts-letters/articles/david-garrow-interview-obama)" by David Samuels (In some ways, he set the stage for Trump.)
 * "[Reducing the Male Population Will Solve Everything](https://www.vice.com/en/article/5gkkj5/is-reducing-the-male-population-by-90-percent-the-solution-to-all-our-problems)" by Krista Milburn (It actually would.)
-* "[We're Gonna Need a Bigger Moat](https://steve-yegge.medium.com/were-gonna-need-a-bigger-moat-478a8df6a0d2)" by Steve Yegge (The AI genie is out of the bottle.)
 * "[What I Think Is Going On With U.S.-China Relations](https://www.linkedin.com/pulse/what-i-think-going-1-china-us-relations-2-other-countries-ray-dalio/)" by Ray Dalio (We're f\*\*ked.)
 * "[You Weren't Meant to Have a Boss](http://www.paulgraham.com/boss.html)" by Paul Graham (Hierarchies suck the fun out of work.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Root of every political issue of the past 15 years.)
