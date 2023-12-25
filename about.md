@@ -180,7 +180,6 @@ I hope you have a good time here. Thanks for dropping by.
 * "[The Obama Factor](https://www.tabletmag.com/sections/arts-letters/articles/david-garrow-interview-obama)" by David Samuels (In some ways, he set the stage for Trump.)
 * "[Reducing the Male Population Will Solve Everything](https://www.vice.com/en/article/5gkkj5/is-reducing-the-male-population-by-90-percent-the-solution-to-all-our-problems)" by Krista Milburn (It actually would.)
 * "[What I Think Is Going On With U.S.-China Relations](https://www.linkedin.com/pulse/what-i-think-going-1-china-us-relations-2-other-countries-ray-dalio/)" by Ray Dalio (We're f\*\*ked.)
-* "[You Weren't Meant to Have a Boss](http://www.paulgraham.com/boss.html)" by Paul Graham (Hierarchies suck the fun out of work.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Root of every political issue of the past 15 years.)
 {%endcomment%}
 
