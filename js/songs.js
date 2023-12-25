@@ -10247,7 +10247,7 @@ const songs = [
 "Prefab Sprout|Electric Guitars|1997|z-KIHpU2Ly8|Prefab Sprout|S7998|Sophisti-Pop;Pop|",
 "Vince Staples|Blue Suede|2014|NJLfCBBcZAo|Vince Staples|S9663|Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "Lou Reed|Sad Song|1973|QG_ooIR0DTY|Lou Reed|S13874|Art Rock;Symphonic Rock;Rock|Lou Reed Live",
-"Nino Ferrer|La Maison près de la fontaine|1971|RgW_AX8cuqo|Nino Ferrer|S11766|Progressive Pop;Pop|",
+"Nino Ferrer|La Maison près de la fontaine|1971|no_DRNT_DuU|Nino Ferrer|S11766|Progressive Pop;Pop|",
 "Joe Cocker|Feelin' Alright|1969|JQECeouNVjI|Joe Cocker|S6931|Piano Rock;Pop;Pop Rock;Rock|Feelin' Alright?",
 "The Beatles|Birthday|1968|dhdOPhTHeoE|The Beatles|S5376|Hard Rock;Pop Rock;Pop;Rock|Birthday (Beatles song)",
 "Mr. Big|To Be With You|1991|L6-uJLteKek|Mr. Big (American band)|S15725|Acoustic Rock;Pop Rock;Pop;Rock|To Be with You",
