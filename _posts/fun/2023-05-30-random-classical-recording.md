@@ -79,7 +79,7 @@ box: random-classical-recording
     }
     const info = choice(pool).split("|")
     const infoLog = info.slice(0,3).concat(info.slice(6,7))
-    iframe.src = info[3].startsWith("http") ? info[3] : `https://youtube.com/embed/${info[3]}`
+    iframe.src = info[3].startsWith("PL") ? `https://youtube.com/embed/playlist?list=${info[3]}` : `https://youtube.com/embed/${info[3]}`
     const wikiLink = `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[4])}>${info[0]}</a>`
     const songLink = info[5] == '' ? `<span>${info[1]}</span>` : `<a style='text-decoration:none;border-bottom:none;' href=${wiki_link(info[5])}>${info[1]}</a>`
     title.innerHTML = `${wikiLink} - ${songLink} (${info[2]})`

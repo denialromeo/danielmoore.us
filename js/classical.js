@@ -743,7 +743,7 @@ const classical = [
 "Arnold Schoenberg|Variations for Orchestra|1928|iL1XzH6gpAY|Arnold Schoenberg|",
 "Igor Stravinsky|Apollo|1928|Ys9xmuPH1eg|Igor Stravinsky|Apollo (ballet)",
 "Kurt Weill|Das Berliner Requiem|1928|QxYbcNJHv_o|Kurt Weill|The Berlin Requiem (Weill)",
-"Kurt Weill|The Threepenny Opera|1928|JCd6hT0Gn0M|Kurt Weill|The Threepenny Opera",
+"Kurt Weill|The Threepenny Opera|1928|PLjA79Xk8j1xgH7aT2gusAByfAQaL6G6yO|Kurt Weill|The Threepenny Opera",
 "Arnold Bax|Symphony No. 3|1929|gwS20neKvVM|Arnold Bax|Symphony No. 3 (Bax)",
 "William Walton|Viola Concerto|1929-1961|ozL-R0yWhPs|William Walton|Viola Concerto (Walton)",
 "Frank Bridge|Oration|1930|UurMi-JW_pQ|Frank Bridge|",
