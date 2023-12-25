@@ -7065,7 +7065,7 @@ const songs = [
 "Michael Jackson|Got to Be There|1971|yvv4GmmcjYU|Michael Jackson|S7531|Pop Soul;Pop;R&B;Soul|",
 "Pierre Perret|Lily|1977|urVfi9Yswaw|Pierre Perret|S11896|Chanson;Regional Music|",
 "Faze Action|In the Trees|1996|UKW_i-hastw|Faze Action|S54|Deep House;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|",
-"Wanda Jackson|Fujiyama Mama|1957|ztFHvNwRb6Q|Wanda Jackson|S4373|Country;Rockabilly;Rock;Rock & Roll|Fujiyama Mama",
+"Wanda Jackson|Fujiyama Mama|1957|IStr0Pfm-jk|Wanda Jackson|S4373|Country;Rockabilly;Rock;Rock & Roll|Fujiyama Mama",
 "Charlélie Couture|Comme un avion sans ailes|1981|068G1r0hP28|Charlélie Couture|S5755|French Pop;Pop|",
 "Brigitte Fontaine & Art Ensemble of Chicago|Comme à La Radio|1970|bH61SPbdqUU|Art Ensemble of Chicago|S10295|Chamber Jazz;Jazz|",
 "Pearl Jam|The Fixer|2009|b8I_3JVYn6U|Pearl Jam|S7924|Alternative Rock;Rock|The Fixer (song)",
