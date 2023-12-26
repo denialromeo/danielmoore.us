@@ -7683,7 +7683,7 @@ const songs = [
 "Blink-182|The Rock Show|2001|z7hhDINyBP0|Blink-182|S5493|Pop Punk;Punk Rock;Rock|",
 "Bruce Springsteen|Adam Raised a Cain|1978|i0xoClNtXi0|Bruce Springsteen|S10305|Hard Rock;Heartland Rock;Rock|Adam Raised a Cain",
 "Bastille|Pompeii|2013|F90Cw4l-8NY|Bastille (band)|S9411|Indie Pop;Pop Rock;Pop;Rock|Pompeii (song)",
-"Beat Happening|Indian Summer|1988|gDJrrcx8Nbs|Beat Happening|S4579|Twee Pop;Indie Pop;Pop|Indian summer",
+"Beat Happening|Indian Summer|1988|Eaw-zW7RVus|Beat Happening|S4579|Twee Pop;Indie Pop;Pop|Indian summer",
 "Andy Stott|Numb|2012|uTOsBk-V9uA|Andy Stott|S5040|Ambient Dub;Minimal Techno;Ambient;Dance;Electronic;Electronic Dance Music;Techno|",
 "Claude Nougaro|O Toulouse|1967|L0GMQzCxrXc|Claude Nougaro|S10428|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Link Wray|Raw-Hide|1959|Fn5hl2IA7_s|Link Wray|S4383|Rock & Roll;Rock|",
