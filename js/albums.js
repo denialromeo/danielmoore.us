@@ -1097,7 +1097,7 @@ const albums = [
 "The Libertines|The Libertines|2004|OLAK5uy_k6SSp2g3QYlviIyUpm9mliUdZTatiJs5c|A4060|The Libertines (album)|The Libertines|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock",
 "Sun Ra|The Heliocentric Worlds of Sun Ra, Volume One|1965|OLAK5uy_m5frM5j7OywTOMw1UhoeiV0vJ7jA1SK1M|A1961|The Heliocentric Worlds of Sun Ra, Volume One|Sun Ra|Free Jazz;Avant-Garde Jazz;Jazz",
 "Emmylou Harris|Wrecking Ball|1995|OLAK5uy_lS7colroE7Gl_fUXfCrYbDzPSDPd_BVAU|A952|Wrecking Ball (Emmylou Harris album)|Emmylou Harris|Alt-Country;Country",
-"The KLF|Chill Out|1990|PLa8IXsuu_ujg3WqK9yir4t9SyNBpdVikc|A1550|Chill Out (KLF album)|The KLF|Ambient",
+"The KLF|Chill Out|1990|https://www.youtube.com/embed/0t4Z-Qs32WI|A1550|Chill Out (KLF album)|The KLF|Ambient",
 "Karen Dalton|It's So Hard to Tell Who's Going to Love You the Best|1969|OLAK5uy_mG_zPB1erNwn90sygVI_AXMyV75LpOZKU|A4480|It's So Hard to Tell Who's Going to Love You the Best|Karen Dalton|Contemporary Folk;Folk",
 "Simple Minds|New Gold Dream (81-82-83-84)|1982|OLAK5uy_n1zW5jxCASkzYCNFaZ-DxJmT06230I4nU|A555|New Gold Dream (81–82–83–84)|Simple Minds|New Wave;Synthpop;Electronic;Pop;Rock",
 "Gil Evans|Out of the Cool|1961|PL1X3qTzT40VmAl3kx02OjTSztMwigWS-N|A1880|Out of the Cool|Gil Evans|Big Band;Cool Jazz;Jazz",
