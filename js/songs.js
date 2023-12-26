@@ -1917,7 +1917,7 @@ const songs = [
 "Tenor Saw|Ring the Alarm|1985|C4fjGwVpbm0|Tenor Saw|S400|Dancehall;Caribbean Music;Jamaican Music;Regional Music|",
 "Guitar Slim|The Things That I Used to Do|1953|fj33EGMbazY|Guitar Slim|S1608|Electric Blues;New Orleans Blues;Blues|",
 "Rickie Lee Jones|Chuck E.'s in Love|1979|UjeEV9L9SJM|Rickie Lee Jones|S4189|Jazz Pop;Singer/Songwriter;Pop|",
-"Peter Tosh|Legalize It|1976|ER51ZvTHNpM|Peter Tosh|S1784|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Legalize It",
+"Peter Tosh|Legalize It|1976|6cIePqdz03A|Peter Tosh|S1784|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Legalize It",
 "Phoenix|Too Young|2000|yIOL5SSjWdw|Phoenix (band)|S2188|Alternative Dance;Indie Pop;Alternative Rock;Dance;Pop;Rock|Too Young (Phoenix song)",
 "The Pipettes|Pull Shapes|2006|HbnVNZe2D_0|The Pipettes|S4003|Girl Group;Indie Pop;Pop|",
 "Sousa's Band|The Stars and Stripes Forever|1897|a-7XWhyvIpE?start=58|John Philip Sousa|S8509|Classical March;Classical Music;Western Classical Music|",
