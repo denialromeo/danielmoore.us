@@ -6548,7 +6548,7 @@ const songs = [
 "Sufjan Stevens|Come on Feel the Illinoise|2005|rmJwraC4p5A|Sufjan Stevens|S12344|Chamber Pop;Progressive Pop;Baroque Pop;Indie Pop;Pop|",
 "Jorja Smith|Blue Lights|2016|fYwRsJAPfec|Jorja Smith|S16107|Alternative R&B;Trip Hop;Contemporary R&B;Downtempo;Electronic;R&B|Jorja Smith|Blue Lights (song)",
 "Pee Wee King|Slow Poke|1951|J68XhyH97BA|Pee Wee King|S7925|Traditional Country;American Folk Music;Country;Folk;Regional Music;Traditional Folk Music|",
-"Adam Green|Jessica Simpson|2003|Xq0co7N_7Qw|Adam Green (musician)|S4254|Indie Pop;Satire;Comedy;Descriptor;Pop|",
+"Adam Green|Jessica Simpson|2003|NRsNj0ZwocM|Adam Green (musician)|S4254|Indie Pop;Satire;Comedy;Descriptor;Pop|",
 "The World Famous Supreme Team|Hey DJ|1984|Lq1RCMROWDo|The World's Famous Supreme Team|S1925|East Coast Hip Hop;Electro;Pop Rap;Dance;Electronic;Electronic Dance Music;Hip Hop|Hey DJ (The World's Famous Supreme Team song)",
 "Billy Preston|Nothing From Nothing|1974|IX2bE-OBtwk|Billy Preston|S10179|Pop Soul;Rhythm & Blues;Pop;R&B;Soul|Nothing from Nothing",
 "Harry James|Sleepy Lagoon|1942|t1r6PCa6II0|Harry James|S6686|Big Band;Jazz|By the Sleepy Lagoon",
