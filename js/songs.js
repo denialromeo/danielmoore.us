@@ -2752,7 +2752,7 @@ const songs = [
 "Jorge Ben|Taj Mahal|1972|rfrpOhC6858|Jorge Ben|S7004|MPB;Samba-Rock;Brazilian Music;Regional Music;Samba|Ben (Jorge Ben album)",
 "Almendra|Muchacha (Ojos de papel)|1969|5wscEdlj5qM|Almendra (band)|S5176|Folk Rock;Psychedelic Folk;Psychedelic Pop;Contemporary Folk;Folk;Pop;Rock|",
 "Gary \"U.S.\" Bonds|Quarter to Three|1961|hoopfp5iaKw|Gary U.S. Bonds|S1117|Rhythm & Blues;R&B|New Orleans (Gary U.S. Bonds song)",
-"Louis Armstrong|St. Louis Blues|1929|VeS29FJmLTw|Louis Armstrong|S9282|Dixieland;Vocal Jazz;Jazz|Saint Louis Blues (song)",
+"Louis Armstrong|St. Louis Blues|1929|JYis-zCnJZM|Louis Armstrong|S9282|Dixieland;Vocal Jazz;Jazz|Saint Louis Blues (song)",
 "Bennie Moten|Moten's Swing|1933|hr42hm6GvkQ|Bennie Moten|S9140|Big Band;Swing;Jazz|",
 "Beastie Boys|No Sleep Till Brooklyn|1986|07Y0cy-nvAg|Beastie Boys|S1972|East Coast Hip Hop;Rap Rock;Alternative Rock;Hip Hop;Rock|No Sleep till Brooklyn",
 "Miriam Makeba|Pata pata|1967|lNeP3hrm__k|Miriam Makeba|S11657|Marabi;African Music;Jazz;Regional Music;Southern African Music|Pata Pata",
