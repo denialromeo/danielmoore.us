@@ -1445,7 +1445,7 @@ const songs = [
 "Canned Heat|On the Road Again|1968|qRKNw477onU|Canned Heat|S2845|Blues Rock;Rock|On the Road Again (Canned Heat song)",
 "The Monkees|Last Train to Clarksville|1966|ZcXpKiY2MXE|The Monkees|S975|Pop Rock;Pop;Rock|Last Train to Clarksville",
 "Beyoncé|Countdown|2011|2XY3AvVgDns|Beyoncé|S4944|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|Countdown (Beyoncé song)",
-"Primal Scream|Higher Than the Sun|1991|GpvccejvVng|Primal Scream|S184|Alternative Dance;Ambient House;Downtempo;Neo-Psychedelia;Alternative Rock;Dance;Electronic;Electronic Dance Music;House;Psychedelic Rock;Rock|",
+"Primal Scream|Higher Than the Sun|1991|R3m0rmCtLyE|Primal Scream|S184|Alternative Dance;Ambient House;Downtempo;Neo-Psychedelia;Alternative Rock;Dance;Electronic;Electronic Dance Music;House;Psychedelic Rock;Rock|",
 "Steely Dan|Rikki Don't Lose That Number|1974|3tvRSFAVAqU|Steely Dan|S727|Pop Rock;Pop;Rock|",
 "Funkadelic/Parliament|Maggot Brain|1971|JOKn33-q4Ao|Funkadelic|S3430|Psychedelic Rock;Rock|",
 "Eric Clapton|Tears in Heaven|1992|JxPj3GAYYZ0|Eric Clapton|S163|Acoustic Rock;Adult Contemporary;Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|Tears in Heaven",
