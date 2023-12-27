@@ -3324,7 +3324,7 @@ const songs = [
 "The Drifters|This Magic Moment|1960|bacBKKgc4Uo|The Drifters|S1165|Soul;R&B|This Magic Moment",
 "Bobby Freeman|Do You Want to Dance|1958|_-tmZHMnlAo?start=106|Bobby Freeman|S1628|Rhythm & Blues;Rock & Roll;R&B;Rock|Do You Want to Dance",
 "Nina Simone|Sinnerman|1965|r57J0jPyZRs|Nina Simone|S7745|Rhythm & Blues;Soul Jazz;Vocal Jazz;Jazz;R&B|",
-"Lloyd Cole and the Commotions|Perfect Skin|1984|fm5rMu3Wtr4|Lloyd Cole and the Commotions|S2353|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Perfect Skin (Lloyd Cole and the Commotions song)",
+"Lloyd Cole and the Commotions|Perfect Skin|1984|y7iPeZeOdRY|Lloyd Cole and the Commotions|S2353|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Perfect Skin (Lloyd Cole and the Commotions song)",
 "Real Estate|Talking Backwards|2014|MgsdblVq8wo|Real Estate (band)|S9564|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Talking backwards",
 "Bob Dylan|My Back Pages|1964|rGEIMCWob3U|Bob Dylan|S10235|Contemporary Folk;Singer/Songwriter;Folk|My Back Pages",
 "The Manhattans|Kiss and Say Goodbye|1976|wtjro7_R3-4|The Manhattans|S1781|Smooth Soul;R&B;Soul|Kiss and Say Goodbye",
