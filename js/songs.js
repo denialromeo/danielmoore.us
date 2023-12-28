@@ -6622,7 +6622,7 @@ const songs = [
 "Blondie|Maria|1999|abw49k3rIN0|Debbie Harry|S5508|Pop Rock;Pop;Rock|Maria (Blondie song)",
 "Bill Medley|(I've Had) The Time of My Life|1987|4BQLE_RrTSU|Bill Medley|S3613|Film Soundtrack;Pop;Descriptor;Soundtracks|(I've Had) The Time of My Life",
 "The Wombats|Let's Dance to Joy Division|2007|ayuooyWPEUc|The Wombats|S9059|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Let's Dance to Joy Division",
-"The Rockin' Rebels|Wild Weekend|1962|z49t7c5cRmk|The Rebels (surf band)|S2810|Rock & Roll;Surf Rock;Rock;Surf Music|",
+"The Rockin' Rebels|Wild Weekend|1962|trfygOaosT8|The Rebels (surf band)|S2810|Rock & Roll;Surf Rock;Rock;Surf Music|",
 "Redbone|Come and Get Your Love|1973|OnJqFrVD3uE|Redbone (band)|S3747|Pop Rock;Pop Soul;Pop;R&B;Rock;Soul|Come and Get Your Love",
 "Héroes del Silencio|La chispa adecuada|1995|jnDjEHyhFpU|Héroes del Silencio|S13103|Rock|",
 "The Presidents of the United States of America|Peaches|1995|3GCrzjVdmSg|The Presidents of the United States of America (band)|S7999|Indie Rock;Alternative Rock;Rock|Peaches (The Presidents of the United States of America song)",
