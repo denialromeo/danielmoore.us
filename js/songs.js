@@ -30,7 +30,7 @@ const songs = [
 "Sam Cooke|A Change Is Gonna Come|1964|wEBlaMOmKV4|Sam Cooke|S995|Deep Soul;R&B;Soul;Southern Soul|A Change Is Gonna Come",
 "David Bowie|Heroes|1977|lXgkuM2NhYI|David Bowie|S633|Art Rock;Rock|Heroes (David Bowie song)",
 "Prince|When Doves Cry|1984|UG3VcCAlUgE|Prince (musician)|S421|Film Soundtrack;Pop Rock;Synthpop;Descriptor;Electronic;Pop;Rock;Soundtracks|When Doves Cry",
-"Stevie Wonder|Superstition|1972|_ul7X5js1vE|Stevie Wonder|S782|Funk;Soul;R&B|Superstition (song)",
+"Stevie Wonder|Superstition|1972|97hwNY3ni10|Stevie Wonder|S782|Funk;Soul;R&B|Superstition (song)",
 "Pulp|Common People|1995|yuTMWgOduFM|Pulp (band)|S61|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Common People",
 "The Rolling Stones|Gimme Shelter|1969|RbmS3tQJ7Os|The Rolling Stones|S2544|Blues Rock;Rock|Gimme Shelter",
 "Billie Holiday|Strange Fruit|1939|-DGY9HvChXk?start=28|Billie Holiday|S2693|Vocal Jazz;Jazz|Strange Fruit",
