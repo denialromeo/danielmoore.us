@@ -4217,7 +4217,7 @@ const songs = [
 "Horace Silver|The Preacher|1955|yzPlNNwJhbs|Horace Silver|S13200|Hard Bop;Soul Jazz;Bebop;Jazz|",
 "Booker T. & The MG's|Time Is Tight|1969|nbBcXvKvB08|Booker T. & the M.G.'s|S3227|Rhythm & Blues;Southern Soul;R&B;Soul|",
 "Doves|The Cedar Room|1998|RadUfjnnqOE|Doves (band)|S3353|Britpop;Dream Pop;Indie Rock;Alternative Rock;Pop;Pop Rock;Rock|",
-"Nino Ferrer|Le Sud|1975|FgxwKEuy-pM|Nino Ferrer|S7750|Psychedelic Pop;Pop|",
+"Nino Ferrer|Le Sud|1975|He5dcAOXSY4|Nino Ferrer|S7750|Psychedelic Pop;Pop|",
 "Jacques Dutronc|(Il est 5 heures) Paris s'éveille|1968|7whXkifG_ms|Jacques Dutronc|S4410|Chanson;French Pop;Yé-yé;Pop;Regional Music|",
 "Joe South|Games People Play|1968|vDeVonv3kY0|Joe South|S3834|Country Pop;Psychedelic Pop;Country;Pop|Games People Play (Joe South song)",
 "Ozzy Osbourne|Bark at the Moon|1983|F89-MOy7Xfg|Ozzy Osbourne|S11824|Hard Rock;Heavy Metal;Metal;Rock|",
