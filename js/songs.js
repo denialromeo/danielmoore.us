@@ -3550,7 +3550,7 @@ const songs = [
 "KT Tunstall|Black Horse and the Cherry Tree|2004|PQmDUEv939A|KT Tunstall|S7155|Acoustic Rock;Pop Rock;Singer/Songwriter;Pop;Rock|Black Horse and the Cherry Tree",
 "Led Zeppelin|Since I've Been Loving You|1970|N_lSJ-0Gl7Q|Led Zeppelin|S2555|Blues Rock;Hard Rock;Rock|Since I've Been Loving You",
 "John Travolta|You're the One That I Want|1978|itRFjzQICJU|John Travolta|S6962|Film Soundtrack;Pop;Descriptor;Soundtracks|You're the One That I Want",
-"James|Sit Down|1989|Ew7Zkkucos8|James (band)|S2435|Baggy / Madchester;Indie Pop;Alternative Rock;Pop;Rock|Sit Down (song)",
+"James|Sit Down|1989|zPNw_2h0CnU|James (band)|S2435|Baggy / Madchester;Indie Pop;Alternative Rock;Pop;Rock|Sit Down (song)",
 "Elvis Costello|Everyday I Write the Book|1983|V1d4r9awjKE|Elvis Costello|S472|Blue Eyed Soul;New Wave;Pop Rock;Sophisti-Pop;Pop;Rock|Everyday I Write the Book",
 "Meat Loaf|Bat out of Hell|1977|3QGMCSCFoKA|Meat Loaf|S7496|Hard Rock;Pop Rock;Rock Opera;Pop;Rock|Bat Out of Hell (song)",
 "John Lennon|Cold Turkey|1969|2C6ThAaxrWw|Plastic Ono Band|S1589|Hard Rock;Rock|Cold Turkey",
