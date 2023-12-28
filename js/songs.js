@@ -1927,7 +1927,7 @@ const songs = [
 "Albert King|Born Under a Bad Sign|1967|SeLddbrzsHk|Albert King|S1446|Electric Blues;Soul Blues;Blues|Born Under a Bad Sign (song)",
 "Neutral Milk Hotel|In the Aeroplane Over the Sea|1998|hD6_QXwKesU|Neutral Milk Hotel|S7703|Indie Folk;Psychedelic Folk;Contemporary Folk;Folk|",
 "Massive Attack|Karmacoma|1994|Vi76bxT7K6U|Massive Attack|S2108|Trip Hop;Downtempo;Electronic|Karmacoma",
-"Carpenters|We've Only Just Begun|1970|__VQX2Xn7tI|The Carpenters|S868|Adult Contemporary;Pop|",
+"Carpenters|We've Only Just Begun|1970|9hJCr9cq5co|The Carpenters|S868|Adult Contemporary;Pop|",
 "The Kinks|All Day and All of the Night|1964|fOGMRnKl5co|The Kinks|S1416|Garage Rock;Mod;Proto-Punk;Rock|All Day and All of the Night",
 "QT|Hey QT|2014|1MQUleX1PeA|QT (musician)|S9574|Bubblegum Bass;Dance-Pop;Dance;Electronic;Electronic Dance Music;Pop|",
 "Fats Domino|The Fat Man|1950|jeWmMJ-J45c|Fats Domino|S3345|New Orleans R&B;Rhythm & Blues;R&B|",
