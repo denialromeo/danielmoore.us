@@ -7582,7 +7582,7 @@ const songs = [
 "Devo|Girl U Want|1980|g4-2onb62y8|Devo|S6061|New Wave;Rock|Girl U Want",
 "Ramones|I Don't Want to Grow Up|1995|1Tpu_XoNABA|Ramones|S14920|Punk Rock;Rock|https://en.wikipedia.org/wiki/Bone_Machine#I_Don't_Wanna_Grow_Up",
 "Freeway|What We Do|2002|1swlUtEkXZ0|Freeway (rapper)|S6481|East Coast Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop|What We Do (song)",
-"Count Basie|Every Day (I Have the Blues)|1955|L31pDORVifQ|Count Basie Orchestra|S9194|Big Band;Jazz|Every Day I Have the Blues",
+"Count Basie|Every Day (I Have the Blues)|1955|VYY6mldMz0I|Count Basie Orchestra|S9194|Big Band;Jazz|Every Day I Have the Blues",
 "Cosmo Vitelli|Party Day|2001|ZGcxC8fdSI8|https://fr.wikipedia.org/wiki/Cosmo_Vitelli|S5876|Electro House;Dance;Electronic;Electronic Dance Music;House|Erlend Øye",
 "Patty Pravo|Pensiero stupendo|1978|1dMLBPPjzkE|Patty Pravo|S12961|Italo Pop;Pop|Pensiero stupendo",
 "The Beatles|Blue Jay Way|1967|Coz0TmK2ZIg|The Beatles|S10102|Art Rock;Psychedelic Rock;Rock|Blue Jay Way",
