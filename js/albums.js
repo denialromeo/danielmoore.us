@@ -2957,7 +2957,7 @@ const albums = [
 "Planxty|The Well Below the Valley|1973|OLAK5uy_mzOzv9XratIxMZXvHTk8UarRL-pjkDuDQ|A2669|The Well Below the Valley (album)|Planxty|Irish Folk Music;Celtic Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music",
 "Erykah Badu|New Amerykah, Pt. 2 (Return of the Ankh)|2010|OLAK5uy_mO0nhhrOKMih-HK8LLZrDhpt1aJlJop_A|A5064|New Amerykah Part Two (Return of the Ankh)|Erykah Badu|Neo-Soul;R&B;Soul",
 "Otis Rush|Right Place, Wrong Time|1976|OLAK5uy_nquUy4QgNIV-jH6JtmbTtKvD-pIZwCPpo|A2621|Right Place, Wrong Time (album)|Otis Rush|Electric Blues;Blues",
-"Hound Dog Taylor and the Houserockers|Hound Dog Taylor and the Houserockers|1971|PLvxWibFr0wiJ3znkCgC_TZ39xDYt_BtsE|A2388|Hound Dog Taylor and the HouseRockers|Hound Dog Taylor|Electric Blues;Blues",
+"Hound Dog Taylor and the Houserockers|Hound Dog Taylor and the Houserockers|1971|OLAK5uy_lYryjM4Vsj_bhaQbfgEVfbm4vfwjewnsk|A2388|Hound Dog Taylor and the HouseRockers|Hound Dog Taylor|Electric Blues;Blues",
 "Childish Gambino|Awaken, My Love!|2016|OLAK5uy_lbuUPQuPZcgV0-GZ-1CXsNPWZsTqzNPCM|A5709|Awaken, My Love!|Donald Glover|Funk;Neo-Soul;Psychedelic Soul;R&B;Soul",
 "Father John Misty|God's Favorite Customer|2018|OLAK5uy_kbSQMfqrkKAJ9uCGz_tJiJiC5-cIa1zeE|A6051|God's Favorite Customer|Josh Tillman|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop",
 "Band of Horses|Cease to Begin|2007|OLAK5uy_k2CTNEK-s-GdBpnAnS1054i9zGNgnWhXw|A4263|Cease to Begin|Band of Horses|Folk Pop;Indie Rock;Alternative Rock;Contemporary Folk;Folk;Pop;Rock",
