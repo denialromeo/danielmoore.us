@@ -3445,7 +3445,7 @@ const songs = [
 "Skeeter Davis|The End of the World|1962|xHa6a3FtPJg|Skeeter Davis|S1645|Nashville Sound;Country;Country Pop;Pop|",
 "Kendrick Lamar|Sing About Me (I'm Dying of Thirst)|2012|Z3CnfFQENkw|Kendrick Lamar|S7085|Conscious Hip Hop;West Coast Hip Hop;Hip Hop|Sing About Me, I'm Dying of Thirst",
 "The Jackson 5|The Love You Save|1970|OkuULWqF3AY|The Jackson 5|S1721|Motown Sound;Pop;Pop Soul;R&B;Soul|The Love You Save",
-"Prince|Erotic City|1984|pqcX8PtzC3Y|Prince (musician)|S9326|Dance-Pop;Synth Funk;Dance;Funk;Pop;R&B|Erotic City",
+"Prince|Erotic City|1984|UO8mZ9ALXUw|Prince (musician)|S9326|Dance-Pop;Synth Funk;Dance;Funk;Pop;R&B|Erotic City",
 "John Lennon|Gimme Some Truth|1971|WbhktzkGoH0|John Lennon|S6952|Pop Rock;Pop;Rock|Gimme Some Truth",
 "Phil Collins|Against All Odds (Take a Look at Me Now)|1984|wuvtoyVi7vY|Phil Collins|S7952|Adult Contemporary;Film Soundtrack;Pop Rock;Descriptor;Pop;Rock;Soundtracks|Against All Odds (Take a Look at Me Now)",
 "Brian Eno|By This River|1977|SrZYP8SzlN8|Brian Eno|S5614|Ambient Pop;Pop|",
