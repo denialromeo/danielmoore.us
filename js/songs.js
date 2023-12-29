@@ -6981,7 +6981,7 @@ const songs = [
 "Lizzo|Truth Hurts|2017|P00HMxdsVZI|Lizzo|S16924|Pop Rap;Hip Hop|Truth Hurts (song)",
 "Andy Williams|Moon River|1962|grgn8z96FzM?start=172|Andy Williams|S12930|Easy Listening;Pop|Moon River",
 "Rod Stewart|The First Cut Is the Deepest|1976|c5NRH_DxWJE|Rod Stewart|S8200|Pop Rock;Pop;Rock|The First Cut Is the Deepest",
-"Sandy Nelson|Teen Beat|1959|1lbxeJRtfGw|Sandy Nelson|S14989|Rock & Roll;Surf Rock;Rock;Surf Music|",
+"Sandy Nelson|Teen Beat|1959|Uy_t4nQ9xMo|Sandy Nelson|S14989|Rock & Roll;Surf Rock;Rock;Surf Music|",
 "Hum|Stars|1995|gMEB4HNNZ2I|Hum (band)|S6752|Alternative Rock;Post-Hardcore;Punk Rock;Rock|",
 "New Order|Confusion|1983|c_L_-CKg6pw|New Order (band)|S11741|Alternative Dance;Electro;Synthpop;Alternative Rock;Dance;Electronic;Electronic Dance Music;Pop;Rock|",
 "The Contours|First I Look at the Purse|1965|9z9IPli01HQ|The Contours|S3076|Pop Soul;Rhythm & Blues;Pop;R&B;Soul|First I Look at the Purse",
