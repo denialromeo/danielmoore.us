@@ -8395,7 +8395,7 @@ const songs = [
 "Ivory Joe Hunter|I Almost Lost My Mind|1949|ZKLbIn8yx-o|Ivory Joe Hunter|S6806|Rhythm & Blues;Traditional Pop;Pop;R&B|I Almost Lost My Mind",
 "Radiohead|Talk Show Host|1996|V1HM7t1z9D8|Radiohead|S13606|Alternative Rock;Art Rock;Rock|Radiohead: The Best Of",
 "Tricky Woo|Fly the Orient|1999|cj3QuobCyA0|Tricky Woo|S8848|Garage Rock;Rock|",
-"Triana|En el lago|1975|CxmUcT86hw8|Triana (band)|S13140|Andalusian Rock;Folk Rock;Hispanic Music;Progressive Rock;Regional Music;Rock;Spanish Music|",
+"Triana|En el lago|1975|TFl_eeQgflQ|Triana (band)|S13140|Andalusian Rock;Folk Rock;Hispanic Music;Progressive Rock;Regional Music;Rock;Spanish Music|",
 "Cliff Richard|We Don't Talk Anymore|1979|m8FCZ5x8Gpg|Cliff Richard|S5833|Pop|We Don't Talk Anymore (Cliff Richard song)",
 "Blind Faith|Presence of the Lord|1969|HIcESt9eYRk|Blind Faith|S4123|Blues Rock;British Blues;Blues;Electric Blues;Rock|",
 "Charles Trenet|Douce France|1947|kbQ5e5wt60s|Charles Trenet|S10376|Chanson;Regional Music|",
