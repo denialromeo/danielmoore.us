@@ -5824,7 +5824,7 @@ const songs = [
 "The Zombies|A Rose for Emily|1968|Ha2fLpBaB1k|The Zombies|S9114|Baroque Pop;Pop|",
 "Del Shannon|Stranger in Town|1965|-fNca3JgfeY|Del Shannon|S1429|Pop Rock;Pop;Rock|Stranger in Town (Del Shannon song)",
 "Bruce Springsteen|Point Blank|1980|l0DjrXDBJnU|Bruce Springsteen|S5648|Heartland Rock;Rock|Point Blank (Bruce Springsteen song)",
-"Blind Willie Johnson|Mother's Children Have a Hard Time|1928|-MWeDuS5ask|Blind Willie Johnson|S9154|Acoustic Texas Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Mother's Children Have a Hard Time",
+"Blind Willie Johnson|Mother's Children Have a Hard Time|1928|f9xAin4JfpY|Blind Willie Johnson|S9154|Acoustic Texas Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Mother's Children Have a Hard Time",
 "Washed Out|Amor Fati|2011|7fYnfE5Cycg|Washed Out|S8943|Chillwave;Electronic;Indietronica|",
 "Julie Driscoll with Brian Auger & The Trinity|This Wheel's on Fire|1968|FkCBVZHrstE|Julie Driscoll Tippetts|S2290|Psychedelic Rock;Rock|This Wheel's on Fire",
 "Bryan Ferry|Let's Stick Together|1976|Z9EbR0ckb40|Bryan Ferry|S687|Pop Rock;Pop;Rock|Let's Stick Together (song)",
