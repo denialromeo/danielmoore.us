@@ -8266,7 +8266,7 @@ const songs = [
 "Jacques Higelin|Pars|1978|eNmoKIIwoWQ|Jacques Higelin|S6836|Blues;Chanson;Pop Rock;Pop;Regional Music;Rock|No Man's Land (Jacques Higelin album)",
 "The Duprees|You Belong to Me|1962|CIEBErVs0fY|The Duprees|S6170|Doo-Wop;Descriptor;R&B;Vocal Group|You Belong to Me (1952 song)",
 "Bette Midler|The Rose|1980|m0CvciW9AkQ|Bette Midler|S5424|Adult Contemporary;Film Soundtrack;Descriptor;Pop;Soundtracks|The Rose (song)",
-"Mother Love Bone|Chloe Dancer/Crown of Thorns|1989|lH0gnwtSEGI|Mother Love Bone|S7616|Glam Rock;Grunge;Hard Rock;Alternative Rock;Rock|Chloe Dancer/Crown of Thorns",
+"Mother Love Bone|Chloe Dancer/Crown of Thorns|1989|FUtGBItRLTs|Mother Love Bone|S7616|Glam Rock;Grunge;Hard Rock;Alternative Rock;Rock|Chloe Dancer/Crown of Thorns",
 "R. Kelly|Bump n' Grind|1993|BpyZV8hTnto|R. Kelly|S11985|Contemporary R&B;R&B|Bump n' Grind (R. Kelly song)",
 "Joe Goddard|Gabriel|2011|1XtEFMP3-hA|Joe Goddard (musician)|S6935|House;UK Bass;Dance;Electronic;Electronic Dance Music;UK Garage|Gabriel (Joe Goddard song)",
 "The Charlatans|Weirdo|1992|SXBR96Z8_e8|The Charlatans (English band)|S5753|Baggy / Madchester;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|Weirdo (song)",
