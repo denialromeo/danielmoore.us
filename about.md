@@ -176,7 +176,6 @@ I hope you have a good time here. Thanks for dropping by.
 **Blog Posts**
 
 * "[Automation and the Future of Work](http://hipcrimevocab.com/2016/04/19/automation-and-the-future-of-work-black-lives-matter/#main)" by the Hipcrime Vocab (Technology causes poverty.)
-* "[The Obama Factor](https://www.tabletmag.com/sections/arts-letters/articles/david-garrow-interview-obama)" by David Samuels (In some ways, he set the stage for Trump.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Root of every political issue of the past 15 years.)
 {%endcomment%}
 
