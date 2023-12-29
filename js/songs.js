@@ -2999,7 +2999,7 @@ const songs = [
 "Ted Leo|Where Have All the Rude Boys Gone?|2003|hzTZzo40PUg|Ted Leo and the Pharmacists|S4255|Indie Rock;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|Where Have All the Rude Boys Gone?",
 "Rhye|Open|2012|sng_CdAAw8M|Rhye|S9515|Alternative R&B;Smooth Soul;Sophisti-Pop;Contemporary R&B;Pop;R&B;Soul|",
 "Mahalia Jackson|Take My Hand, Precious Lord|1956|FMSWJxNlaww|Mahalia Jackson|S7383|Gospel;American Folk Music;Folk;Regional Music;Traditional Folk Music|Take My Hand, Precious Lord",
-"Primal Scream|Movin' On Up|1991|wWUC2-ypnDQ|Primal Scream|S176|Alternative Dance;Neo-Psychedelia;Alternative Rock;Dance;Psychedelic Rock;Rock|",
+"Primal Scream|Movin' On Up|1991|SnkjvECEQr4|Primal Scream|S176|Alternative Dance;Neo-Psychedelia;Alternative Rock;Dance;Psychedelic Rock;Rock|",
 "Strafe|Set It Off|1985|YWUpgzRK1vc|Strafe (band)|S3860|Electro;Freestyle;Dance;Dance-Pop;Electronic;Electronic Dance Music;Pop|Set It Off|",
 "Elvis Presley|Little Sister|1961|Di2ThVZeGV4|Elvis Presley|S1140|Pop Rock;Rock & Roll;Pop;Rock|Little Sister (Elvis Presley song)",
 "Lucinda Williams|Passionate Kisses|1988|1rj3Z1KPE6E|Lucinda Williams|S2008|Alt-Country;Jangle Pop;Alternative Rock;Country;Pop;Pop Rock;Rock|Passionate Kisses",
