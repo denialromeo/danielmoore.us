@@ -1998,7 +1998,7 @@ const songs = [
 "Arthur Conley|Sweet Soul Music|1967|sp3JOzcpBds|Arthur Conley|S954|Southern Soul;R&B;Soul|Sweet Soul Music",
 "Dead Boys|Sonic Reducer|1977|30bv915bDtY|Dead Boys|S4431|Punk Rock;Rock|Sonic Reducer",
 "John Coltrane|A Love Supreme, Part 2: Resolution|1965|CsxtKQW9ggg|John Coltrane|S11225|Spiritual Jazz;Avant-Garde Jazz;Jazz|",
-"Michael Jackson|Smooth Criminal|1987|sFvENQBc-F8|Michael Jackson|S3506|Dance-Pop;Dance;Pop|Smooth Criminal",
+"Michael Jackson|Smooth Criminal|1987|h_D3VFfhvs4?start=64|Michael Jackson|S3506|Dance-Pop;Dance;Pop|Smooth Criminal",
 "Timmy Thomas|Why Can't We Live Together|1972|KYx2uZRlJCk|Timmy Thomas|S799|Soul;R&B|Why Can't We Live Together",
 "Michael Jackson|Bad|1987|dsUXAEzaC3Q|Michael Jackson|S2921|Contemporary R&B;Pop;R&B|Bad (Michael Jackson song)",
 "Eddie Cantor|Makin' Whoopee|1929|ANRPmTZRqkg|Eddie Cantor|S2656|Vaudeville;Musical Theatre and Entertainment|Makin' Whoopee",
