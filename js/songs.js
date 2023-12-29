@@ -7951,7 +7951,7 @@ const songs = [
 "Richard and Linda Thompson|Shoot Out the Lights|1982|60Kdf17Btrs?start=724|Richard Thompson (musician)|S9332|Folk Rock;Singer/Songwriter;Rock|",
 "Bis|Kandy Pop|1996|3QahHw5pcjA?start=2|Bis (Scottish band)|S10182|Dance-Punk;Indie Pop;Pop;Post-Punk;Rock|",
 "My Bloody Valentine|Swallow|1991|NxoI9bIdi7A|My Bloody Valentine (band)|S3102|Dream Pop;Neo-Psychedelia;Shoegaze;Alternative Rock;Psychedelic Rock;Rock|",
-"Michigan & Smiley|Nice Up the Dance|1979|1-fAy5_tb_0|Michigan & Smiley|S14748|Dancehall;Caribbean Music;Jamaican Music;Regional Music|Yellowman",
+"Michigan & Smiley|Nice Up the Dance|1979|xM3uRNTOITg|Michigan & Smiley|S14748|Dancehall;Caribbean Music;Jamaican Music;Regional Music|",
 "Toto|Rosanna|1982|qmOLtTGvsbM|Toto (band)|S12472|AOR;Rock|Rosanna (song)",
 "The Gaslight Anthem|The '59 Sound|2008|G1lq40tR72Q|The Gaslight Anthem|S6509|Alternative Rock;Heartland Rock;Punk Rock;Rock|",
 "Taraf de Haidouks|Balada conducatorolui|1991|IlWLuchrMuQ|Taraf de Haïdouks|S15105|Lăutari;Balkan Folk Music;Balkan Music;European Folk Music;Folk;Regional Music;Romanian Folk Music;Romanian Music;Traditional Folk Music|",
