@@ -3203,7 +3203,7 @@ const songs = [
 "Elvis Costello|Less Than Zero|1977|QrNDxNYb92U|Elvis Costello|S1787|New Wave;Rock|",
 "Stetsasonic|Talkin' All That Jazz|1988|2kdQ4soLcac|Stetsasonic|S320|East Coast Hip Hop;Jazz Rap;Hip Hop|",
 "Parquet Courts|Wide Awake|2018|eZXS8Jpkiac|Parquet Courts|S16549|Dance-Punk;New Wave;Post-Punk;Rock|",
-"Kraftwerk|Tour De France|1983|Yt3p-F2x7rY|Kraftwerk|S1900|Electro;Synthpop;Dance;Electronic;Electronic Dance Music;Pop|Tour de France (song)",
+"Kraftwerk|Tour De France|1983|invtIKKl2Hw|Kraftwerk|S1900|Electro;Synthpop;Dance;Electronic;Electronic Dance Music;Pop|Tour de France (song)",
 "ESG|Moody|1981|DKWrXD8DnnA|ESG (band)|S4451|Dance-Punk;Post-Punk;Rock|",
 "Van Halen|Panama|1984|fuKDBPw8wQA|Van Halen|S8917|Hard Rock;Rock|Panama (song)",
 "The Temptations|Psychedelic Shack|1969|G5ZS6zCwsmk|The Temptations|S4144|Psychedelic Soul;R&B;Soul|",
