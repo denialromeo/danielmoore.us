@@ -4350,7 +4350,7 @@ const songs = [
 "The Chemical Brothers feat. Q-Tip|Go|2015|LO2RPDZkY88|The Chemical Brothers|S9850|Big Beat;Hip House;Breakbeat;Dance;Electronic;Electronic Dance Music;Hip Hop;House|MNDR",
 "!!!|Heart of Hearts|2007|QDq8Krv6irE|!!!|S4317|Dance-Punk;Indie Rock;Alternative Rock;Post-Punk;Rock|Two of Hearts (song)|Heart of Glass (song)",
 "Harold Melvin & The Blue Notes|Don't Leave Me This Way|1975|MnIkcB8GObo|Harold Melvin & the Blue Notes|S6682|Disco;Philly Soul;Dance;R&B;Soul|Don't Leave Me This Way",
-"Ted Nugent|Cat Scratch Fever|1977|I47floRRAFs|Ted Nugent|S8699|Boogie Rock;Hard Rock;Blues Rock;Rock|",
+"Ted Nugent|Cat Scratch Fever|1977|I47floRRAFs|Ted Nugent|S8699|Boogie Rock;Hard Rock;Blues Rock;Rock|Cat Scratch Fever (song)",
 "Santana|Evil Ways|1969|nPauXWjY4T8|Carlos Santana|S3794|Latin Rock;Hispanic Music;Latin American Music;Regional Music;Rock|Evil Ways",
 "Jerry Butler|He Will Break Your Heart|1960|cAohwPAFTLk|Jerry Butler|S1164|Rhythm & Blues;Soul;R&B|He Will Break Your Heart",
 "Cesária Évora|Sodade|1992|qx4z9V2hydQ|Cesária Évora|S14221|Morna;African Music;Cape Verdean Music;Regional Music|",
