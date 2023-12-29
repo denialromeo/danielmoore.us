@@ -176,9 +176,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Blog Posts**
 
 * "[Automation and the Future of Work](http://hipcrimevocab.com/2016/04/19/automation-and-the-future-of-work-black-lives-matter/#main)" by the Hipcrime Vocab (Technology causes poverty.)
-* "[Has China Turned to Capitalism?](https://sociologicalfragments.files.wordpress.com/2019/05/losurdo-defence_of_modern_day_china-1.pdf)" by Domenico Losurdo (Understanding modern China.)
 * "[The Obama Factor](https://www.tabletmag.com/sections/arts-letters/articles/david-garrow-interview-obama)" by David Samuels (In some ways, he set the stage for Trump.)
-* "[Reducing the Male Population Will Solve Everything](https://www.vice.com/en/article/5gkkj5/is-reducing-the-male-population-by-90-percent-the-solution-to-all-our-problems)" by Krista Milburn (It actually would.)
 * "[The ZIRPing of America](https://www.swissamerica.com/ZIRP.php)" by Craig Smith (Root of every political issue of the past 15 years.)
 {%endcomment%}
 
