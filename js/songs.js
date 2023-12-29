@@ -7091,7 +7091,7 @@ const songs = [
 "Jennifer Holliday|And I Am Telling You I'm Not Going|1982|mIDimztxcq8|Jennifer Holliday|S14551|Show Tunes;Soul;Descriptor;Musical Theatre and Entertainment;R&B;Soundtracks|And I Am Telling You I'm Not Going",
 "Bo Diddley|Mona|1957|luMQUzJzZLQ|Bo Diddley|S3332|Electric Blues;Rhythm & Blues;Rock & Roll;Blues;R&B;Rock|Mona (I Need You Baby)",
 "Tame Impala|Apocalypse Dreams|2012|KQH2Kq1QXaI|Tame Impala|S8679|Neo-Psychedelia;Space Rock;Psychedelic Rock;Rock|",
-"Christopher Cross|Ride Like the Wind|1979|ur8ftRFb2Ac|Christopher Cross|S10408|Yacht Rock;Pop;Pop Rock;Rock|Ride Like the Wind",
+"Christopher Cross|Ride Like the Wind|1979|NLch6HFze7Q|Christopher Cross|S10408|Yacht Rock;Pop;Pop Rock;Rock|Ride Like the Wind",
 "Bob Dylan|To Ramona|1964|oBQWxDusL6I|Bob Dylan|S10246|Contemporary Folk;Singer/Songwriter;Folk|To Ramona",
 "Modest Mouse|3rd Planet|2000|Hf9Bc4cq5rI?start=36|Modest Mouse|S4668|Art Rock;Indie Rock;Alternative Rock;Rock|",
 "Ethel Waters|Dinah|1925|SDsI4N2fHF4|Ethel Waters|S6307|Vocal Jazz;Jazz|Dinah (song)",
