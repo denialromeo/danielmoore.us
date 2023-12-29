@@ -3760,7 +3760,7 @@ const songs = [
 "Prince|The Most Beautiful Girl in the World|1994|uFtfrd8_K9k|Prince (musician)|S3730|Pop Soul;Pop;R&B;Soul|The Most Beautiful Girl in the World (Prince song)",
 "Yazoo|Only You|1982|w67Uspp_PsQ|Yazoo (band)|S1882|Synthpop;Electronic;Pop|Only You (Yazoo song)",
 "The Temper Trap|Sweet Disposition|2008|vN7HQrgakZU|The Temper Trap|S8713|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|Sweet Disposition",
-"Jaydee|Plastic Dreams|1993|UwPKi1H8t9M|Jaydee|S2062|Progressive House;Dance;Electronic;Electronic Dance Music;House|",
+"Jaydee|Plastic Dreams|1993|OJ2tHzhfUOg|Jaydee|S2062|Progressive House;Dance;Electronic;Electronic Dance Music;House|",
 "Tocotronic|Jackpot|1999|Cg8uPahgjjY|Tocotronic|S9375|Hamburger Schule;Noise Pop;Alternative Rock;Indie Rock;Rock|Jackpot",
 "Marc Cohn|Walking in Memphis|1991|PgRafRp-P-o|Marc Cohn|S7417|Adult Contemporary;Blue Eyed Soul;Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Walking in Memphis",
 "Nilüfer Yanya|In Your Head|2019|fsxf541UI-8|Nilüfer Yanya|S16839|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
