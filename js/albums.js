@@ -2522,7 +2522,7 @@ const albums = [
 "George Russell|Ezz-Thetics|1961|OLAK5uy_l86b7abD20RUZFgVEdyK9CyAqI7Z3Qm0U|A2314|Ezz-thetics|George Russell (composer)|Avant-Garde Jazz;Modal Jazz;Jazz",
 "The Sisters of Mercy|Floodland|1987|OLAK5uy_lCnXcRKjslBeWDtuIt8IIOmf91eLbeuBk|A702|Floodland (album)|The Sisters of Mercy|Gothic Rock;Rock",
 "Bad Religion|Suffer|1988|OLAK5uy_mRPBCGKGzMeKLhENm1HPrzo7mlaJrDbDU|A3217|Suffer (album)|Bad Religion|Melodic Hardcore;Skate Punk;Hardcore Punk;Punk Rock;Rock",
-"Herbie Hancock|Mwandishi|1971|PLBypzeQDUetxHFgvCh83Rwwz_3xD0b8Io|A1999|Mwandishi|Herbie Hancock|Jazz Fusion;Jazz",
+"Herbie Hancock|Mwandishi|1971|PL1X3qTzT40VnFepAWZ8qrfMAaFWPY7ucF|A1999|Mwandishi|Herbie Hancock|Jazz Fusion;Jazz",
 "Ariana Grande|Sweetener|2018|OLAK5uy_kvi6xfWSkfUFjGtPHjvxuOcNsdnIlSUr8|A6053|Sweetener (album)|Ariana Grande|Contemporary R&B;Electropop;Electronic;Pop;R&B",
 "Sleater-Kinney|The Hot Rock|1999|OLAK5uy_melHsHchLPE2H2_JHXX69sJlI3TUHfUjM|A3762|The Hot Rock (album)|Sleater-Kinney|Indie Rock;Alternative Rock;Rock",
 "Yo La Tengo|I Am Not Afraid of You and I Will Beat Your Ass|2006|OLAK5uy_mbSqHltHv5TPbGPAWH0P6ZLA9LSXA0CFc|A3075|I Am Not Afraid of You and I Will Beat Your Ass|Yo La Tengo|Indie Rock;Alternative Rock;Rock",
