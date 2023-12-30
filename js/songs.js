@@ -1246,7 +1246,7 @@ const songs = [
 "Fiona Apple|Criminal|1996|FFOzayDpWoI|Fiona Apple|S3154|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Criminal (Fiona Apple song)",
 "Jay-Z|Big Pimpin'|1999|Cgoqrgc_0cM|Jay-Z|S2204|East Coast Hip Hop;Hip Hop|Big Pimpin'",
 "The Jam|In the City|1977|fXz7iOmNJ8E|The Jam|S1786|Mod Revival;New Wave;Punk Rock;Mod;Rock|",
-"Sex Pistols|Holidays in the Sun|1977|XWF9MMxnekQ|Sex Pistols|S652|Punk Rock;Rock|Holidays in the Sun (song)",
+"Sex Pistols|Holidays in the Sun|1977|3kOT8XY4GKY|Sex Pistols|S652|Punk Rock;Rock|Holidays in the Sun (song)",
 "Annie|Heartbeat|2004|RqwuuWYNFJk|Annie (singer)|S2468|Dance-Pop;Dance;Pop|Heartbeat (Annie song)",
 "Aerosmith|Sweet Emotion|1975|82cJgPXU-ik|Aerosmith|S1769|Hard Rock;Rock|Sweet Emotion",
 "Henry Mancini|Moon River|1961|MKnZ174_kWk?start=16|Henry Mancini|S2808|Film Score;Lounge;Traditional Pop;Descriptor;Easy Listening;Film Soundtrack;Pop;Soundtracks|Moon River",
