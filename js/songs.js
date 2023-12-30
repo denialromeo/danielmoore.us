@@ -3850,7 +3850,7 @@ const songs = [
 "Leon Bridges|Coming Home|2015|MTrKkqE9p1o|Leon Bridges|S9811|Smooth Soul;Southern Soul;R&B;Soul|Coming Home (Leon Bridges song)",
 "The Carters|APESHIT|2018|kbMqWXnpXcA|The Carters|S16547|Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Apeshit",
 "John Mellencamp|Small Town|1985|0CVLVaBECuc|John Mellencamp|S3616|Heartland Rock;Pop Rock;Pop;Rock|Small Town",
-"Rick Nelson|Travelin' Man|1961|k0vFdCdNQP4|Ricky Nelson|S3658|Rockabilly;Teen Pop;Pop;Rock;Rock & Roll|Travelin' Man",
+"Rick Nelson|Travelin' Man|1961|eZiSuKLOKeM|Ricky Nelson|S3658|Rockabilly;Teen Pop;Pop;Rock;Rock & Roll|Travelin' Man",
 "Betty Hutton|It Had to Be You|1944|NZqoH6qLkSg|Betty Hutton|S5425|Big Band;Vocal Jazz;Jazz|",
 "Clifford Brown|Joy Spring|1954|dnK6OHPQZbA|Clifford Brown|S9191|Hard Bop;Bebop;Jazz|",
 "John Grant|GMF|2013|PV8eoV5pQAk|John Grant (musician)|S9465|Americana;Indie Folk;Singer/Songwriter;Contemporary Folk;Country;Folk|GMF",
