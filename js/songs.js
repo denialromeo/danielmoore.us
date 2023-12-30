@@ -3060,7 +3060,7 @@ const songs = [
 "Richard and Linda Thompson|I Want to See the Bright Lights Tonight|1974|60Kdf17Btrs?start=492|Richard Thompson (musician)|S736|British Folk Rock;Folk Rock;Rock|",
 "Al Green|How Can You Mend a Broken Heart|1972|K9YIq0oNiSM|Al Green|S9127|Smooth Soul;Southern Soul;R&B;Soul|How Can You Mend a Broken Heart",
 "Big Audio Dynamite|E=MC2|1986|cHTDkJ-bQqM|Big Audio Dynamite|S4206|Alternative Dance;New Wave;Alternative Rock;Dance;Rock|",
-"Scritti Politti|The Sweetest Girl|1981|C4qVS6GrmRc|Scritti Politti|S535|Art Pop;New Wave;Pop;Rock|",
+"Scritti Politti|The Sweetest Girl|1981|Q7xyLXO0Utk|Scritti Politti|S535|Art Pop;New Wave;Pop;Rock|The \"Sweetest Girl\"",
 "Radiohead|Exit Music (For a Film)|1997|QqLuw1tXxwI|Radiohead|S12001|Art Rock;Rock|Creep (Radiohead song)",
 "ZZ Top|Sharp Dressed Man|1983|7wRHBLwpASw|ZZ Top|S9120|Boogie Rock;Hard Rock;Blues Rock;Rock|Sharp Dressed Man",
 "Alice in Chains|Would?|1992|JB_fNVOPzyM|Alice in Chains|S3148|Grunge;Alternative Rock;Rock|Would?",
