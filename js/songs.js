@@ -9253,7 +9253,7 @@ const songs = [
 "Otis Redding|Shake|1965|ohkFgdCE2yQ|Otis Redding|S4534|Southern Soul;R&B;Soul|Otis Blue/Otis Redding Sings Soul",
 "Étienne Daho|Week-end à Rome|1984|Ft2U58G5Szw|Étienne Daho|S12714|French Pop;Synthpop;Electronic;Pop|",
 "Simply Red|If You Don't Know Me By Now|1989|zTcu7MCtuTs|Simply Red|S12969|Blue Eyed Soul;Sophisti-Pop;Pop|If You Don't Know Me by Now",
-"The Coasters|That Is Rock'n'roll|1959|a1-1wloMbzI|The Coasters|S2794|Rhythm & Blues;Rock & Roll;R&B;Rock|",
+"The Coasters|That Is Rock'n'roll|1959|XiELVerzdpY|The Coasters|S2794|Rhythm & Blues;Rock & Roll;R&B;Rock|",
 "Liars|No. 1 Against the Rush|2012|ggR6RuBh8I0|Liars (band)|S7258|Art Rock;Minimal Synth;Electronic;Minimal Wave;Rock|",
 "Rae Sremmurd|No Type|2014|wzMrK-aGCug|Rae Sremmurd|S9885|Pop Rap;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
 "MC Solaar|Caroline|1991|16vqDtITmcc|MC Solaar|S11589|Boom Bap;French Hip Hop;Hip Hop|Caroline (MC Solaar song)",
