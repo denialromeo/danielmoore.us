@@ -9312,7 +9312,7 @@ const songs = [
 "Grandaddy|Hewlett's Daughter|2000|Ibshu3vkkgY|Grandaddy|S6629|Indie Pop;Indie Rock;Space Rock;Alternative Rock;Pop;Psychedelic Rock;Rock|",
 "Teenage Head|Picture My Face|1978|oc_wy8KNVXQ|Teenage Head (band)|S13366|Punk Rock;Rock|",
 "Joy Orbison|Ellipsis|2012|ghz2klpZLr4|Joy Orbison|S5020|House;UK Funky;Dance;Electronic;Electronic Dance Music;UK Garage|",
-"Odyssey|Inside Out|1982|LIXK6u2bHTg|Odyssey (band)|S7791|Boogie;Dance;Disco;R&B|Inside Out (Odyssey song)",
+"Odyssey|Inside Out|1982|HrkvzmVrX50|Odyssey (band)|S7791|Boogie;Dance;Disco;R&B|Inside Out (Odyssey song)",
 "Grace Jones|La Vie en rose|1977|YEM8TspcCBY|Grace Jones|S12875|Disco;Pop Soul;Dance;Pop;R&B;Soul|La Vie en rose",
 "Public Image Ltd.|Memories|1979|P5VtuJROYc8|Public Image Ltd|S3736|Post-Punk;Rock|",
 "Sheila E.|A Love Bizarre|1985|56gpwl6cohc|Sheila E.|S8387|Contemporary R&B;Synth Funk;Funk;R&B|A Love Bizarre",
