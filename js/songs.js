@@ -4013,7 +4013,7 @@ const songs = [
 "Whitesnake|Here I Go Again|1987|WyF8RHM1OCg|Whitesnake|S3953|Glam Metal;Pop Rock;Hard Rock;Pop;Rock|Here I Go Again",
 "Lennie Tristano|Requiem|1956|eYEl4EaCPJs|Lennie Tristano|S11410|Bebop;Cool Jazz;Jazz|",
 "Len|Steal My Sunshine|1999|E1fzJ_AYajA|Len (band)|S1375|Psychedelic Pop;Pop|Steal My Sunshine",
-"Cybotron|Clear|1983|V3QHj7lai9I|Cybotron (American band)|S5932|Electro;Dance;Electronic;Electronic Dance Music|Clear (Cybotron song)",
+"Cybotron|Clear|1983|Unc8kDUzbU8|Cybotron (American band)|S5932|Electro;Dance;Electronic;Electronic Dance Music|Clear (Cybotron song)",
 "Cher|Bang Bang (My Baby Shot Me Down)|1966|KfyBHZc9rK4?start=3|Cher|S5775|Baroque Pop;Folk Pop;Contemporary Folk;Folk;Pop|",
 "OutKast|Spottieottiedopaliscious|1998|dIPJfdjnR_8|Outkast|S4590|Funk;Neo-Soul;Psychedelic Soul;R&B;Soul|",
 "Aerosmith|Dude (Looks Like a Lady)|1987|nf0oXY4nDxE|Aerosmith|S5105|Hard Rock;Rock|Dude (Looks Like a Lady)",
