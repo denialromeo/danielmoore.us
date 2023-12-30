@@ -9,7 +9,7 @@ const albums = [
 "Radiohead|OK Computer|1997|OLAK5uy_nEGbRK3IZ018QZqnVmZtq-0k-vtJdysnA|A991|OK Computer|Radiohead|Alternative Rock;Art Rock;Rock",
 "Bob Dylan|Blonde on Blonde|1966|OLAK5uy_nbJEu2bei2ZKwYjx26ZJEbjF8rBFqAb6g|A61|Blonde on Blonde|Bob Dylan|Folk Rock;Singer/Songwriter;Rock",
 "The Rolling Stones|Exile on Main St.|1972|OLAK5uy_mlSgwMnHtgteaiw5pjyjZFc6T2Y8BX7bw|A241|Exile on Main St.|The Rolling Stones|Blues Rock;Rock",
-"Bob Dylan|Highway 61 Revisited|1965|PLXRKTcRs-Xs7rr36o5_Cs7fBn8B7KsmRG|A31|Highway 61 Revisited|Bob Dylan|Folk Rock;Singer/Songwriter;Rock",
+"Bob Dylan|Highway 61 Revisited|1965|PLKZWLu6q09LNgiuMV9iTRF2_eRTCoKF3G|A31|Highway 61 Revisited|Bob Dylan|Folk Rock;Singer/Songwriter;Rock",
 "Sex Pistols|Never Mind the Bollocks, Here's the Sex Pistols|1977|OLAK5uy_nVIN3eJ40u07IXPL_3LzV5KMl_B6AXHyE|A391|Never Mind the Bollocks, Here's the Sex Pistols|Sex Pistols|Punk Rock;Rock",
 "The Beatles|White Album|1968|OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI|A122|The Beatles (album)|The Beatles|Pop Rock;Pop;Rock",
 "The Jimi Hendrix Experience|Are You Experienced|1967|OLAK5uy_nDSwZRsfyAwg6G0nBW7oleWiz41Z7OezU|A93|Are You Experienced|Jimi Hendrix|Acid Rock;Blues Rock;Psychedelic Rock;Rock",
