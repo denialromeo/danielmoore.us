@@ -2254,7 +2254,7 @@ const songs = [
 "Led Zeppelin|Ramble On|1969|_h9MxNn8P7w|Led Zeppelin|S7202|Folk Rock;Rock|Ramble On",
 "Can|Yoo Doo Right|1969|gPXkIWYYVfQ|Can (band)|S5700|Krautrock;Psychedelic Rock;Experimental Rock;Progressive Rock;Rock|Yoo Doo Right",
 "Cream|Crossroads|1968|PE9HvSdcaL4|Cream (band)|S897|Blues Rock;Hard Rock;Rock|Cross Road Blues",
-"Maurice Williams and the Zodiacs|Stay|1960|o1Z_hskvz1M|Maurice Williams and the Zodiacs|S1145|Doo-Wop;Descriptor;R&B;Vocal Group|Stay (Maurice Williams song)",
+"Maurice Williams and the Zodiacs|Stay|1960|mSI6zlUeeCA|Maurice Williams and the Zodiacs|S1145|Doo-Wop;Descriptor;R&B;Vocal Group|Stay (Maurice Williams song)",
 "Crosby, Stills, Nash (& Young)|Woodstock|1970|4lx86B6a3kc|Crosby, Stills, Nash & Young|S3311|Folk Rock;Rock|",
 "Pet Shop Boys|Suburbia|1986|-VCqAjYO3NM|Pet Shop Boys|S2919|Synthpop;Electronic;Pop|Suburbia (song)",
 "Armand Van Helden|U Don't Know Me|1999|a8u5-CnmJk8|Armand van Helden|S1361|French House;Funky House;Dance;Electronic;Electronic Dance Music;House|You Don't Know Me (Armand Van Helden song)",
