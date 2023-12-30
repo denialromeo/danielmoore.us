@@ -10412,7 +10412,7 @@ const songs = [
 "Barbara|Drouot|1970|g5ZPFuEkgyM|Barbara (singer)|S13389|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "The Go-Betweens|Love Goes On!|1989|l4pGeHg-02E?start=221|The Go-Betweens|S6598|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Limp Bizkit|Nookie|1999|JTMVOzPPtiw|Limp Bizkit|S7267|Hip Hop;Nu Metal;Rap Metal;Alternative Metal;Metal;Rock|Nookie (Limp Bizkit song)",
-"The Automatic|Monster|2006|o7X3LYGV_N8|The Automatic|S5276|Indie Rock;Alternative Rock;Rock|",
+"The Automatic|Monster|2006|o7X3LYGV_N8|The Automatic|S5276|Indie Rock;Alternative Rock;Rock|Monster (The Automatic song)",
 "John Grant|(I Wanna Go To) Marz|2010|2jhXIDoXf7k|John Grant (musician)|S11229|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk|",
 "Johnny Cash|What Is Truth?|1970|pgbL4ETqEiA|Johnny Cash|S6976|Country|What Is Truth",
 "Charli XCX|You (Ha Ha Ha)|2013|qtrHH1BDlzk|Charli XCX|S9417|Electropop;Electronic;Pop|",
