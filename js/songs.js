@@ -1914,7 +1914,7 @@ const songs = [
 "Big Boi|Shutterbugg|2010|rWsvkW6rKkQ|Big Boi|S4892|Southern Hip Hop;Hip Hop|Shutterbugg",
 "Wilson Pickett|Mustang Sally|1966|16u6w0cjjrU|Wilson Pickett|S1445|Southern Soul;R&B;Soul|Mustang Sally (song)",
 "Léo Ferré|Avec le temps|1971|v_nbdcPB0iw?start=3|Léo Ferré|S4415|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|Avec le temps (Léo Ferré song)",
-"Tenor Saw|Ring the Alarm|1985|C4fjGwVpbm0|Tenor Saw|S400|Dancehall;Caribbean Music;Jamaican Music;Regional Music|",
+"Tenor Saw|Ring the Alarm|1985|UpjLLw-cVzU|Tenor Saw|S400|Dancehall;Caribbean Music;Jamaican Music;Regional Music|",
 "Guitar Slim|The Things That I Used to Do|1953|fj33EGMbazY|Guitar Slim|S1608|Electric Blues;New Orleans Blues;Blues|",
 "Rickie Lee Jones|Chuck E.'s in Love|1979|UjeEV9L9SJM|Rickie Lee Jones|S4189|Jazz Pop;Singer/Songwriter;Pop|",
 "Peter Tosh|Legalize It|1976|6cIePqdz03A|Peter Tosh|S1784|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Legalize It",
