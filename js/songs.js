@@ -8763,7 +8763,7 @@ const songs = [
 "John Hiatt|Thing Called Love|1987|TWPW3Na1xl4|John Hiatt|S6948|Roots Rock;Singer/Songwriter;Rock|",
 "Jacques Brel|Mathilde|1964|FBKNMs5kdKo|Jacques Brel|S11115|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Wilson Pickett|Don't Knock My Love|1971|aZ0lwNceywE|Wilson Pickett|S14014|Southern Soul;R&B;Soul|",
-"Dinah Washington|Baby Get Lost|1949|rFKUvnXfRiA|Dinah Washington|S6077|Vocal Jazz;Jazz|",
+"Dinah Washington|Baby Get Lost|1949|KwIAF3NDywk|Dinah Washington|S6077|Vocal Jazz;Jazz|",
 "The Staple Singers|Let's Do It Again|1975|NIS4P8xbPtg|The Staple Singers|S8545|Chicago Soul;Pop Soul;Pop;R&B;Soul|Let's Do It Again (song)",
 "Limp Bizkit|Break Stuff|1999|ZpUYjpKg9KY|Limp Bizkit|S7266|Nu Metal;Rap Metal;Southern Hip Hop;Alternative Metal;Hip Hop;Metal;Rock|Break Stuff",
 "France Gall|Poupée de cire, poupée de son|1965|s5aeeSmkPwQ|France Gall|S10853|Yé-yé;Pop|Poupée de cire, poupée de son",
