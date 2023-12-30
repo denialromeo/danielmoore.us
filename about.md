@@ -204,7 +204,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Buddha*](https://archive.org/details/manga_Buddha-v01) by [Osamu Tezuka](https://en.wikipedia.org/wiki/Osamu_Tezuka) (Existence is a fever dream, and the self is an illusion.)
 * [*Invincible*](https://getcomics.org/other-comics/invincible-compendium-vol-1-2013-2019/) by [Robert Kirkman](https://en.wikipedia.org/wiki/Robert_Kirkman) (Thrilling visions of U.S.-led, post-racial multilateralism.)
 * [*Sandcastle*](https://www.amazon.com/Sandcastle-new-preface-Original-Fiction-ebook/dp/B097YWJMQF) by [Pierre Oscar Levy](https://fr.wikipedia.org/wiki/Pierre_Oscar_L%C3%A9vy) (Life's a beach and then you die.)
-* [*The Sandman*](https://getcomics.org/dc/the-sandman-1-75-extras/) by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman) (However powerful you become, you're still [mortal](http://comic-academic.00server.com/suspects.html).)
+* [*The Sandman*](https://getcomics.org/dc/the-sandman-1-75-extras/) by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman) (Failing to grow can be fatal. Pair with the [companion](https://www.amazon.com/gp/product/1563894653).)
 * [*Spider-Man: India*](https://www.amazon.com/gp/product/180491133X) by [Jeevan Kang](https://en.wikipedia.org/wiki/Jeevan_Kang) ("Teenage superhero" is an infinitely malleable archetype.)
 * [*Swamp Thing*](https://getcomics.org/dc/saga-of-the-swamp-thing-vol-1-6/) by [Alan Moore](https://en.wikipedia.org/wiki/Alan_Moore) (It's better to be a plant than an animal.)
 * [*Yossel: April 19, 1943*](https://www.amazon.com/gp/product/074347516X) by [Joe Kubert](https://en.wikipedia.org/wiki/Joe_Kubert) (When the state is your enemy, there's nowhere to run.)

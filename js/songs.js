@@ -7322,7 +7322,7 @@ const songs = [
 "Jacques Brel|Quand on n'a que l'amour|1957|lruOTwH98j0|Jacques Brel|S11117|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Robert Palmer|Johnny and Mary|1980|7_SAMrDnXOE|Robert Palmer (singer)|S8178|New Wave;Synthpop;Electronic;Pop;Rock|Johnny and Mary",
 "Journey|Wheel in the Sky|1978|MxGEVIvSFeY|Journey (band)|S11259|AOR;Hard Rock;Rock|Wheel in the Sky",
-"Bob Dylan|Highlands|1997|dw5fUErCBd0|Bob Dylan|S10228|Americana;Singer/Songwriter;Country|Highlands (song)",
+"Bob Dylan|Highlands|1997|BxDU9Q2RDBc|Bob Dylan|S10228|Americana;Singer/Songwriter;Country|Highlands (song)",
 "King Biscuit Time|I Walk the Earth|2000|_cdDmqvkpV4|King Biscuit Time|S7105|Indietronica;Singer/Songwriter;Electronic|",
 "Ce Ce Rogers|Someday|1987|PPveJo1MZWM|CeCe Rogers|S4474|Chicago House;Deep House;Garage House;Dance;Electronic;Electronic Dance Music;House|Finally (CeCe Peniston song)",
 "France Gall|Laisse tomber les filles|1964|FWRCJhsz5t4|France Gall|S6431|French Pop;Yé-yé;Pop|Laisse tomber les filles",
