@@ -8745,7 +8745,7 @@ const songs = [
 "Attaque 77|Hacelo por mí|1990|sXELAFRxgFg|Attaque 77|S10036|Punk Rock;Rock|",
 "C.W. McCall|Convoy|1975|Sd5ZLJWQmss|C. W. McCall|S13710|Novelty;Truck Driving Country;Country;Descriptor;Honky Tonk|Convoy (song)",
 "Frank Sinatra|I'm a Fool to Want You|1951|wV9OcYhk4CU|Frank Sinatra|S13478|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|I'm a Fool to Want You",
-"Boris Vian|Je bois|1956|5qXkV1e6yZY|Boris Vian|S10273|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
+"Boris Vian|Je bois|1956|21Q-8MuIxu8|Boris Vian|S10273|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "The Jimi Hendrix Experience|Voodoo Chile|1968|qFfnlYbFEiE|Jimi Hendrix|S14561|Acid Rock;Blues Rock;Electric Blues;Blues;Psychedelic Rock;Rock|Fire (The Jimi Hendrix Experience song)",
 "The Bobbettes|Mr. Lee|1957|Y9-iomXVZZQ|The Bobbettes|S2788|Doo-Wop;Girl Group;Descriptor;Pop;R&B;Vocal Group|Mr. Lee (song)|",
 "Léo Ferré|La Vie d'artiste|1951|4DKHW1FSpew|Léo Ferré|S11416|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
