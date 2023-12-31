@@ -1427,7 +1427,7 @@ const albums = [
 "Randy Newman|Little Criminals|1977|OLAK5uy_lrU_YRFg4HZVP4O8D4Qtv2_nb_6UnPess|A412|Little Criminals|Randy Newman|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock",
 "Nick Cave feat. The Bad Seeds|From Her to Eternity|1984|OLAK5uy_mTp-m61SG0rhkzYvSq7vkwWouEbg7rr58|A618|From Her to Eternity|Nick Cave|Post-Punk;Rock",
 "Super Furry Animals|Rings Around the World|2001|OLAK5uy_mXpTAZICJUE70LXNGHbfEwTGtENshs0hs|A1207|Rings Around the World|Super Furry Animals|Neo-Psychedelia;Progressive Pop;Pop;Psychedelic Rock;Rock",
-"Country Joe & The Fish|Electric Music for the Mind and Body|1967|OLAK5uy_k766Wn-K7KPSYZIYEE2ed82mzMwYJEVO0|A118|Electric Music for the Mind and Body|Country Joe and the Fish|Acid Rock;Yacht Rock;Pop;Pop Rock;Psychedelic Rock;Rock",
+"Country Joe & The Fish|Electric Music for the Mind and Body|1967|OLAK5uy_mQWAVnyf6o3mftnsLBkMMFTOFIEu35-Wk|A118|Electric Music for the Mind and Body|Country Joe and the Fish|Acid Rock;Yacht Rock;Pop;Pop Rock;Psychedelic Rock;Rock",
 "Ash|1977|1996|OLAK5uy_kgpi6XR2Z2A6hubA0Y2AtaiV7v2eYpx1w|A969|1977 (Ash album)|Ash (band)|Britpop;Pop Punk;Alternative Rock;Pop;Pop Rock;Punk Rock;Rock",
 "Super Furry Animals|Radiator|1997|OLAK5uy_nPXVFugbYrgfsoAZi3di5MD9m5Puy_KbI|A1013|Radiator (album)|Super Furry Animals|Alternative Rock;Neo-Psychedelia;Psychedelic Rock;Rock",
 "Neil Young & Crazy Horse|Live Rust|1979|OLAK5uy_mdmelGMrFeHwB855y-qXZZgF1QtM2cpd4|A2774|Live Rust|Neil Young|Country Rock;Singer/Songwriter;Rock",
