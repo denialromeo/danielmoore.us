@@ -9256,7 +9256,7 @@ const songs = [
 "The Coasters|That Is Rock'n'roll|1959|XiELVerzdpY|The Coasters|S2794|Rhythm & Blues;Rock & Roll;R&B;Rock|",
 "Liars|No. 1 Against the Rush|2012|ggR6RuBh8I0|Liars (band)|S7258|Art Rock;Minimal Synth;Electronic;Minimal Wave;Rock|",
 "Rae Sremmurd|No Type|2014|wzMrK-aGCug|Rae Sremmurd|S9885|Pop Rap;Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
-"MC Solaar|Caroline|1991|16vqDtITmcc|MC Solaar|S11589|Boom Bap;French Hip Hop;Hip Hop|Caroline (MC Solaar song)",
+"MC Solaar|Caroline|1991|5_OZuEwqpbo|MC Solaar|S11589|Boom Bap;French Hip Hop;Hip Hop|Caroline (MC Solaar song)",
 "Kanye West|Gone|2005|TwPCaWQIJME|Kanye West|S7050|Pop Rap;Hip Hop|Gone (Kanye West song)",
 "Ted Leo|Me and Mia|2004|zRD4CoiDzuQ|Ted Leo and the Pharmacists|S8698|Indie Rock;Pop Punk;Power Pop;Alternative Rock;Pop;Pop Rock;Punk Rock;Rock|Shake the Sheets|",
 "Procol Harum|Homburg|1967|whiEpmkOIV4|Procol Harum|S12997|Baroque Pop;Psychedelic Pop;Pop|",
