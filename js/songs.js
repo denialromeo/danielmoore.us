@@ -1101,7 +1101,7 @@ const songs = [
 "Madness|Our House|1982|oXA6CLTDekw|Madness (band)|S499|New Wave;Pop Rock;Pop;Rock|Our House (Madness song)",
 "The Doobie Brothers|What a Fool Believes|1978|qKYQNtF11eg|The Doobie Brothers|S1573|Blue Eyed Soul;Yacht Rock;Pop;Pop Rock;Rock|What a Fool Believes",
 "Warren G|Regulate|1994|1plPyJdXKIY|Warren G|S97|G-Funk;West Coast Hip Hop;Hip Hop|Regulate (song)",
-"Eels|Novocaine for the Soul|1996|qv-_sIZlHoM|Eels (band)|S47|Alternative Rock;Indie Pop;Pop;Rock|Novocaine for the Soul",
+"Eels|Novocaine for the Soul|1996|V2yy141q8HQ|Eels (band)|S47|Alternative Rock;Indie Pop;Pop;Rock|Novocaine for the Soul",
 "Al Green|Love and Happiness|1972|rqqAnjY2Rmo|Al Green|S2316|Southern Soul;R&B;Soul|Love and Happiness",
 "Beach House|Myth|2012|FuvWc3ToDHg|Beach House|S5001|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|Myth (song)",
 "ABBA|Waterloo|1974|Sj_9CiNkkn4|ABBA|S749|Europop;Pop|",
