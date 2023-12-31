@@ -10167,7 +10167,7 @@ const songs = [
 "The Prodigy|Omen|2009|xMVTKOoy1uk|The Prodigy|S8024|Big Beat;Hardcore Breaks;Breakbeat;Breakbeat Hardcore;Dance;Electronic;Electronic Dance Music;Hardcore [EDM]|",
 "Da Brat|Funkdafied|1994|zfpR9jKy0IQ|Da Brat|S5940|G-Funk;Southern Hip Hop;Hip Hop|",
 "Taylor Swift|Mine|2010|rRsJRa7cp0g|Taylor Swift|S12400|Pop Rock;Pop;Rock|Mine (Taylor Swift song)",
-"Cat Power|Nothing But Time|2012|x4OTnortXpc|Cat Power|S5734|Art Pop;Singer/Songwriter;Pop|Cat Stevens",
+"Cat Power|Nothing But Time|2012|FU8557bK0kY|Cat Power|S5734|Art Pop;Singer/Songwriter;Pop|Cat Stevens",
 "Nitro DeLuxe|This Brutal House|1987|BnqJ7ojAPro|https://www.discogs.com/artist/3130-Nitro-Deluxe|S338|Chicago House;Dance;Electronic;Electronic Dance Music;House|",
 "Kelis|Millionaire|2003|-vw1j69FBLo|Kelis|S7080|Contemporary R&B;Pop Rap;Hip Hop;R&B|Millionaire (Kelis song)",
 "INXS|Disappear|1990|Xvo-bfaVsg0|INXS|S6797|Pop Rock;Pop;Rock|Disappear (INXS song)",
