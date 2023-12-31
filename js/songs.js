@@ -645,7 +645,7 @@ const songs = [
 "Roxy Music|More Than This|1982|kOnde5c7OG8|Roxy Music|S3785|New Romantic;Sophisti-Pop;New Wave;Pop;Rock|More Than This (Roxy Music song)",
 "Elmore James|Dust My Broom|1951|5jcGY7NbaQw|Elmore James|S1350|Electric Blues;Blues|Dust My Broom",
 "Solange|Losing You|2012|Hy9W_mrY_Vk|Solange Knowles|S5038|Alternative R&B;Synthpop;Contemporary R&B;Electronic;Pop;R&B|Losing You (Solange song)",
-"Jeff Buckley|Hallelujah|1994|y8AWFf7EAc4|Jeff Buckley|S2089|Indie Rock;Singer/Songwriter;Alternative Rock;Rock|",
+"Jeff Buckley|Hallelujah|1994|y8AWFf7EAc4|Jeff Buckley|S2089|Indie Rock;Singer/Songwriter;Alternative Rock;Rock|https://en.wikipedia.org/wiki/Hallelujah_(Leonard_Cohen_song)#Jeff_Buckley",
 "Bill Monroe|Blue Moon of Kentucky|1947|4syA9aNnNa0|Bill Monroe|S2723|Bluegrass;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|Blue Moon of Kentucky",
 "Leonard Cohen|Hallelujah|1984|YrLk4vdY28Q|Leonard Cohen|S3291|Adult Contemporary;Singer/Songwriter;Sophisti-Pop;Pop|Hallelujah (Leonard Cohen song)",
 "Janis Joplin/Big Brother and the Holding Company|Piece of My Heart|1968|9hcxbIln3sc|Big Brother and the Holding Company|S919|Acid Rock;Blues Rock;Psychedelic Rock;Rock|Piece of My Heart",
