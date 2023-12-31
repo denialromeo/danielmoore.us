@@ -6675,7 +6675,7 @@ const songs = [
 "Soho|Hippychick|1990|ILaTgQBKRbE|Soho (band)|S2424|Alternative Dance;Alternative Rock;Dance;Rock|",
 "Elvis Presley|An American Trilogy|1972|0FT3SmZ_zx0|Elvis Presley|S6265|Adult Contemporary;Pop|An American Trilogy",
 "Strawberry Switchblade|Since Yesterday|1984|x7QPBzAJ_io|Strawberry Switchblade|S4466|Synthpop;Electronic;Pop|Since Yesterday",
-"Jim Croce|Bad, Bad Leroy Brown|1973|QvwDohEEQ1E|Jim Croce|S6908|Acoustic Rock;Pop Rock;Singer/Songwriter;Pop;Rock|Bad, Bad Leroy Brown",
+"Jim Croce|Bad, Bad Leroy Brown|1973|yTrsS8SGwx4|Jim Croce|S6908|Acoustic Rock;Pop Rock;Singer/Songwriter;Pop;Rock|Bad, Bad Leroy Brown",
 "Toots and the Maytals|Sweet and Dandy|1969|RvXAn8Tuz4k|Toots and the Maytals|S8819|Reggae;Caribbean Music;Jamaican Music;Regional Music|",
 "The Four Aces|Love Is a Many-Splendored Thing|1955|GnDtxiNwDS8|The Four Aces|S6423|Traditional Pop;Vocal Group;Descriptor;Pop|Love Is a Many-Splendored Thing (song)",
 "Yuck|Get Away|2011|Kz7vyrFhFE8|Yuck (band)|S9104|Indie Rock;Noise Pop;Alternative Rock;Rock|",
