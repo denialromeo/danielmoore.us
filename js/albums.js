@@ -1867,7 +1867,7 @@ const albums = [
 "Drake|If You're Reading This It's Too Late|2015|OLAK5uy_mzFOUXdaAgjlZjJFNOcXOqMuXVwXUOw0I|A5564|If You're Reading This It's Too Late|Drake (musician)|Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Horace Silver|Horace Silver and The Jazz Messengers|1955|PLUso-SyaGLt0Zt1lsh4OZQiKXGWgxTwtW|A1802|Horace Silver and the Jazz Messengers|Horace Silver|Hard Bop;Bebop;Jazz",
 "Black Sabbath|Sabbath Bloody Sabbath|1973|OLAK5uy_nrdNnPdQzKIgjvVeAUGZHksBmivyA_-Fg|A1379|Sabbath Bloody Sabbath|Black Sabbath|Hard Rock;Heavy Metal;Metal;Rock",
-"The Original Soundtrack|West Side Story|1961|PLCD30B46A0041DF14|A1920|West Side Story (soundtrack)|Leonard Bernstein|Film Soundtrack;Show Tunes;Descriptor;Musical Theatre and Entertainment;Soundtracks",
+"The Original Soundtrack|West Side Story|1961|PLuvevlgMagnF-32bNgC9qSiK8oaJH3iX0|A1920|West Side Story (1961 soundtrack)|Leonard Bernstein|Film Soundtrack;Show Tunes;Descriptor;Musical Theatre and Entertainment;Soundtracks",
 "Baaba Maal & Mansour Seck|Djam Leelii|1983|OLAK5uy_lRy_Bfbvm9dpoD57yjTQFBQsdXop7mvt8|A2813|Djam Leelii|Baaba Maal|Mande Music;Mbalax;African Music;Regional Music;West African Music;Wolof Music",
 "Robert Wyatt|Comicopera|2007|OLAK5uy_kpsHbAKUVv98bKY2qjflUmCqLZNyrFFVo|A4266|Comicopera|Robert Wyatt|Canterbury Scene;Singer/Songwriter;Progressive Rock;Rock",
 "Aretha Franklin|Spirit in the Dark|1970|OLAK5uy_n775KO9c2006IOfyLZkVrmGMzZ2Q5HHiY|A201|Spirit in the Dark|Aretha Franklin|Deep Soul;R&B;Soul;Southern Soul",
