@@ -7191,7 +7191,7 @@ const songs = [
 "Nino Ferrer|Mirza|1965|u5XwT6fc_Gg|Nino Ferrer|S11769|French Pop;Pop Rock;Pop;Rock|",
 "Morrissey|We Hate It When Our Friends Become Successful|1992|l6g0gDrCUi8|Morrissey|S14778|Indie Pop;Indie Rock;Pop Rock;Alternative Rock;Pop;Rock|We Hate It When Our Friends Become Successful",
 "Badfinger|No Matter What|1970|ffzfa_PYUmY|Badfinger|S5301|Power Pop;Pop;Pop Rock;Rock|No Matter What (Badfinger song)",
-"Can|Future Days|1973|PXX5-p6sUwI|Can (band)|S12773|Krautrock;Experimental Rock;Progressive Rock;Rock|Future Days",
+"Can|Future Days|1973|Lsl28RkPso8|Can (band)|S12773|Krautrock;Experimental Rock;Progressive Rock;Rock|Future Days",
 "Beck|Dreams|2015|-zhIO2YeBGo|Beck|S9708|Alternative Dance;Indietronica;Alternative Rock;Dance;Electronic;Rock|Dreams (Beck song)",
 "Johnny Paycheck|Take This Job and Shove It|1977|gj2iGAifSNI|Johnny Paycheck|S13842|Outlaw Country;Country;Progressive Country|Take This Job and Shove It",
 "Joe Jones|You Talk Too Much|1960|2GOYYbiEul0|Joe Jones (singer)|S6936|Rhythm & Blues;R&B|",
