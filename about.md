@@ -250,17 +250,26 @@ I hope you have a good time here. Thanks for dropping by.
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha6/01.png" itemprop="contentUrl" data-size="1300x1800"><img style="border: 1px solid black;" src="/assets/img/comics/buddha6/01.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha6/02.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha6/02.png"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha6/03.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha6/03.png"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha6/04.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha6/04.png"/></a></figcaption></figure>
-</div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha7/01.png" itemprop="contentUrl" data-size="1300x1800"><img style="border: 1px solid black;" src="/assets/img/comics/buddha7/01.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha7/02.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha7/02.png"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha7/03.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha7/03.png"/></a></figcaption></figure>
 </div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/buddha4.png" itemprop="contentUrl" data-size="1300x1800"><img style="border: 1px solid black;" src="/assets/img/comics/showcase/buddha4.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/buddha.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/showcase/buddha.png"/></a><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/death-note.jpg" itemprop="contentUrl" data-size="640x999"><img src="/assets/img/comics/showcase/death-note.jpg"/></a><p><i>Death Note</i> by Oba Tsugumi</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/habibi2.png" itemprop="contentUrl" data-size="1280x1651"><img src="/assets/img/comics/showcase/habibi2.png"/></a><p><i>Habibi</i> by Craig Thompson</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/judge_dredd.jpg" itemprop="contentUrl" data-size="1376x2110"><img src="/assets/img/comics/showcase/judge_dredd.jpg"/></a><p><i>Judge Dredd: America</i> by John Wagner</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/league.jpg" itemprop="contentUrl" data-size="1988x3054"><img src="/assets/img/comics/showcase/league.jpg"/></a><p><i>The League of Extraordinary Gentlemen</i> by Alan Moore</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/new-xmen.jpg" itemprop="contentUrl" data-size="1980x3000"><img src="/assets/img/comics/showcase/open_borders.jpg"/></a><p><i>New X-Men</i> by Grant Morrison</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/open_borders.jpg" itemprop="contentUrl" data-size="741x956"><img src="/assets/img/comics/showcase/open_borders.jpg"/></a><p><i>Open Borders</i> by Bryan Caplan</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/portal.jpg" itemprop="contentUrl" data-size="800x1236"><img src="/assets/img/comics/showcase/portal.jpg"/></a><p><i>Portal 2: Lab Rat</i> by Ted Kosmatka</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/strange_embrace2.jpg" itemprop="contentUrl" data-size="1074x1650"><img src="/assets/img/comics/showcase/strange_embrace.jpg"/></a><p><i>Strange Embrace</i> by David Hine</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sculptor.jpg" itemprop="contentUrl" data-size="1454x2060"><img src="/assets/img/comics/showcase/sculptor.jpg"/></a><p><i>The Sculptor</i> by Scott McCloud</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/batman_whatever_happened2.jpg" itemprop="contentUrl" data-size="1985x3086"><img src="/assets/img/comics/showcase/batman_whatever_happened2.jpg"/></a><p><i>Whatever Happened to the Caped Crusader?</i> by Neil Gaiman</p></figcaption></figure>
+</div>
+
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha8/01.png" itemprop="contentUrl" data-size="1300x1800"><img style="border: 1px solid black;" src="/assets/img/comics/buddha8/01.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
@@ -297,6 +306,13 @@ I hope you have a good time here. Thanks for dropping by.
 {%comment%}
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha6/01.png" itemprop="contentUrl" data-size="1300x1800"><img style="border: 1px solid black;" src="/assets/img/comics/buddha6/01.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha6/02.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha6/02.png"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha6/03.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha6/03.png"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/buddha6/04.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/buddha6/04.png"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/invincible/01.jpg" itemprop="contentUrl" data-size="1987x3056"><img style="border: 1px solid black;" src="/assets/img/comics/invincible/01.jpg"/></a><figcaption itemprop="caption description"><p><i>Invincible</i> by Robert Kirkman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/invincible/02.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/invincible/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/invincible/03.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/invincible/03.jpg"/></a></figcaption></figure>
@@ -320,13 +336,6 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/03.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/03.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/04.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/04.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman2/05.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman2/05.jpg"/></a></figcaption></figure>
-</div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/01.jpg" itemprop="contentUrl" data-size="1987x3056"><img style="border: 1px solid black;" src="/assets/img/comics/boys/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Boys</i> by Garth Ennis</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/02.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/02.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/03.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/03.jpg"/></a></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/04.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/04.jpg"/></a></figcaption></figure>
 </div>
 
 {%endcomment%}
@@ -383,27 +392,18 @@ I hope you have a good time here. Thanks for dropping by.
 <div id="clear"></div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/01.jpg" itemprop="contentUrl" data-size="1987x3056"><img style="border: 1px solid black;" src="/assets/img/comics/boys/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Boys</i> by Garth Ennis</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/02.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/02.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/03.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/03.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/boys/04.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="/assets/img/comics/boys/04.jpg"/></a></figcaption></figure>
+</div>
+
+<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/01.jpg" itemprop="contentUrl" data-size="1920x2951"><img style="border: 1px solid black;" src="/assets/img/comics/sandman3/01.jpg"/></a><figcaption itemprop="caption description"><p><i>The Sandman</i> by Neil Gaiman</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/02.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman3/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/03.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman3/03.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/sandman3/04.jpg" itemprop="contentUrl" data-size="1920x2951"><img src="/assets/img/comics/sandman3/04.jpg"/></a></figcaption></figure>
 </div>
-
-<div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
-<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/buddha4.png" itemprop="contentUrl" data-size="1300x1800"><img style="border: 1px solid black;" src="/assets/img/comics/showcase/buddha4.png"/></a><figcaption itemprop="caption description"><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/buddha.png" itemprop="contentUrl" data-size="1300x1800"><img src="/assets/img/comics/showcase/buddha.png"/></a><p><i>Buddha</i> by Osamu Tezuka</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/death-note.jpg" itemprop="contentUrl" data-size="640x999"><img src="/assets/img/comics/showcase/death-note.jpg"/></a><p><i>Death Note</i> by Oba Tsugumi</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/habibi2.png" itemprop="contentUrl" data-size="1280x1651"><img src="/assets/img/comics/showcase/habibi2.png"/></a><p><i>Habibi</i> by Craig Thompson</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/judge_dredd.jpg" itemprop="contentUrl" data-size="1376x2110"><img src="/assets/img/comics/showcase/judge_dredd.jpg"/></a><p><i>Judge Dredd: America</i> by John Wagner</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/league.jpg" itemprop="contentUrl" data-size="1988x3054"><img src="/assets/img/comics/showcase/league.jpg"/></a><p><i>The League of Extraordinary Gentlemen</i> by Alan Moore</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/new-xmen.jpg" itemprop="contentUrl" data-size="1980x3000"><img src="/assets/img/comics/showcase/open_borders.jpg"/></a><p><i>New X-Men</i> by Grant Morrison</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/open_borders.jpg" itemprop="contentUrl" data-size="741x956"><img src="/assets/img/comics/showcase/open_borders.jpg"/></a><p><i>Open Borders</i> by Bryan Caplan</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/portal.jpg" itemprop="contentUrl" data-size="800x1236"><img src="/assets/img/comics/showcase/portal.jpg"/></a><p><i>Portal 2: Lab Rat</i> by Ted Kosmatka</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/strange_embrace2.jpg" itemprop="contentUrl" data-size="1074x1650"><img src="/assets/img/comics/showcase/strange_embrace.jpg"/></a><p><i>Strange Embrace</i> by David Hine</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sculptor.jpg" itemprop="contentUrl" data-size="1454x2060"><img src="/assets/img/comics/showcase/sculptor.jpg"/></a><p><i>The Sculptor</i> by Scott McCloud</p></figcaption></figure>
-<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/batman_whatever_happened2.jpg" itemprop="contentUrl" data-size="1985x3086"><img src="/assets/img/comics/showcase/batman_whatever_happened2.jpg"/></a><p><i>Whatever Happened to the Caped Crusader?</i> by Neil Gaiman</p></figcaption></figure>
-</div>
-
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/watchmen.jpg" itemprop="contentUrl" data-size="1920x2951"><img style="border: 1px solid black;" src="/assets/img/comics/showcase/watchmen.jpg"/></a><figcaption itemprop="caption description"><p><i>Watchmen</i> by Alan Moore</p></figcaption></figure>
