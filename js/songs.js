@@ -9260,7 +9260,7 @@ const songs = [
 "Kanye West|Gone|2005|TwPCaWQIJME|Kanye West|S7050|Pop Rap;Hip Hop|Gone (Kanye West song)",
 "Ted Leo|Me and Mia|2004|zRD4CoiDzuQ|Ted Leo and the Pharmacists|S8698|Indie Rock;Pop Punk;Power Pop;Alternative Rock;Pop;Pop Rock;Punk Rock;Rock|Shake the Sheets|",
 "Procol Harum|Homburg|1967|whiEpmkOIV4|Procol Harum|S12997|Baroque Pop;Psychedelic Pop;Pop|",
-"Rihanna|Pon de Replay|2005|oEauWw9ZGrA|Rihanna|S15826|Contemporary R&B;Dance-Pop;Dancehall;Caribbean Music;Dance;Jamaican Music;Pop;R&B;Regional Music|",
+"Rihanna|Pon de Replay|2005|oEauWw9ZGrA|Rihanna|S15826|Contemporary R&B;Dance-Pop;Dancehall;Caribbean Music;Dance;Jamaican Music;Pop;R&B;Regional Music|Pon de Replay",
 "David Bowie|Jump, They Say|1993|xPZWgCLMsW8|David Bowie|S14281|Alternative Dance;Art Pop;Alternative Rock;Dance;Pop;Rock|Jump They Say",
 "Renaud|Laisse Béton|1977|DmGaP5i3OpI|Renaud|S12052|Chanson;Regional Music|Laisse béton",
 "P!nk|Just Like a Pill|2001|JDKGWaCglRM|Pink (singer)|S11902|Pop Rock;Pop;Rock|Just Like a Pill",
