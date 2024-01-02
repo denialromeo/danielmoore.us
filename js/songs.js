@@ -9276,7 +9276,7 @@ const songs = [
 "Boogie|Oh My|2015|KuMF4EvYsuc|Boogie (rapper)|S9714|West Coast Hip Hop;Hip Hop|",
 "Ma Rainey & Her Tub Jug Washboard Band|Prove It on Me Blues|1928|hOPybfTnQ5E|Ma Rainey|S15677|Jug Band;Vaudeville Blues;Acoustic Blues;American Folk Music;Blues;Folk;Musical Theatre and Entertainment;Regional Music;Traditional Folk Music;Vaudeville|",
 "Lloyd Cole and the Commotions|My Bag|1987|hMdyuUk94Ao|Lloyd Cole and the Commotions|S7290|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|My Bag (Lloyd Cole and the Commotions song)",
-"Gladys Knight and the Pips|Friendship Train|1969|LxnqSjKlhZc|Gladys Knight & the Pips|S6575|Pop Soul;Pop;R&B;Soul|",
+"Gladys Knight and the Pips|Friendship Train|1969|Lvj5df224C8|Gladys Knight & the Pips|S6575|Pop Soul;Pop;R&B;Soul|",
 "The Animals|Inside - Looking Out|1966|D8PMWfBGLDs|The Animals|S13266|British Rhythm & Blues;R&B;Rhythm & Blues;Rock|",
 "Pink Floyd|Lucifer Sam|1967|f35gUESUFvU|Pink Floyd|S11908|Psychedelic Rock;Rock|Lucifer Sam",
 "Ramones|I Wanna Be Your Boyfriend|1976|6q_mHFfOMWE|Ramones|S12022|Pop Punk;Punk Rock;Rock|I Wanna Be Your Boyfriend",
