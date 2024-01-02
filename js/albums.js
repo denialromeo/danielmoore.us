@@ -926,7 +926,7 @@ const albums = [
 "Lynyrd Skynyrd|Second Helping|1974|OLAK5uy_nYue9hzLjY28GdXmrptur8OqNy5zDmjhw|A330|Second Helping|Lynyrd Skynyrd|Southern Rock;Rock",
 "Yardbirds|Roger the Engineer|1966|OLAK5uy_n4AFKOBrg3TyM9MnnL6vgIInyrc6jJo9o|A75|Roger the Engineer|The Yardbirds|Blues Rock;Psychedelic Rock;Rock",
 "LL Cool J|Radio|1985|OLAK5uy_nr5VFVqSB_1-tQWQmWGnPnxuRwE-t4Fbo|A645|Radio (LL Cool J album)|LL Cool J|Hardcore Hip Hop;Hip Hop",
-"The Moody Blues|Days of Future Passed|1967|PLzEG2f9QAl8Oq2k0TQ96E3rNhIkdtQkek|A115|Days of Future Passed|The Moody Blues|Art Rock;Baroque Pop;Symphonic Prog;Pop;Progressive Rock;Rock",
+"The Moody Blues|Days of Future Passed|1967|PLy5kryT0xrJMr7AlBimw4Yvd3NL2DMwRe|A115|Days of Future Passed|The Moody Blues|Art Rock;Baroque Pop;Symphonic Prog;Pop;Progressive Rock;Rock",
 "Roxy Music|Siren|1975|OLAK5uy_m9Ayg0FNLlj3--lQ0W3RGwTFu6UbhY37E|A343|Siren (Roxy Music album)|Roxy Music|Art Rock;Glam Rock;Pop Rock;Pop;Rock",
 "Frank Sinatra|Frank Sinatra Sings for Only the Lonely|1958|PL0srAWbMDn1SR7yFg6savblRfNAF_uEYA|A1852|Frank Sinatra Sings for Only the Lonely|Frank Sinatra|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "The Kinks|Arthur (Or the Decline and Fall of the British Empire)|1969|OLAK5uy_kQUXZZkmam2R2TQvS7XQtPgC_zFofBF4U|A1125|Arthur (Or the Decline and Fall of the British Empire)|The Kinks|Pop Rock;Pop;Rock",
