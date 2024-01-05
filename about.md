@@ -80,7 +80,7 @@ I hope you have a good time here. Thanks for dropping by.
 {:#consumer-goods}
 **Consumer Goods**
 
-* [AccuCheck Digital Body Weight Scale](https://www.amazon.com/gp/product/B084SFRSBD) (Measure daily to avoid surprises.)
+* [AccuCheck Digital Body Weight Scale](https://www.amazon.com/gp/product/B084SFRSBD) (Measure often to avoid surprises.)
 * [Alera High Performance Task Chair](https://www.amazon.com/gp/product/B01IIGMMW6) (My spine's best friend.)
 * [AmazonBasics 8" Chef's Knife](https://www.amazon.com/dp/B09WW6VGHX) (Kitchen workhorse at an unbeatable price.)
 * [Asus VS228H-P 21.5" 1080p Monitor](https://www.amazon.com/dp/B00MZ36J32) (Ideal bezel, size, and display ports for extended use.)
