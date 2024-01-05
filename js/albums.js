@@ -1621,7 +1621,7 @@ const albums = [
 "Spiritualized|Lazer-Guided Melodies|1992|OLAK5uy_k9UmekfO-S06msLHAIvjoFMobH1cZVn7A|A847|Lazer Guided Melodies|Spiritualized|Dream Pop;Neo-Psychedelia;Space Rock;Alternative Rock;Psychedelic Rock;Rock",
 "The Breeders|Pod|1990|OLAK5uy_lyG2X17AWppCYnxgmPFOfhV_QtaFFxeAM|A1701|Pod (The Breeders album)|The Breeders|Indie Rock;Alternative Rock;Rock",
 "The Beach Boys|Sunflower|1970|OLAK5uy_nzLudNQ4vBd8o4eD6iIqJ0h8GPJsk71sI|A1130|Sunflower (Beach Boys album)|The Beach Boys|Pop Rock;Sunshine Pop;Pop;Rock",
-"Belle and Sebastian|The Boy with the Arab Strap|1998|OLAK5uy_mDOCaCbhnTj7VOfl1QcGy4dhwcCr6Li1U|A1031|The Boy with the Arab Strap|Belle and Sebastian|Chamber Pop;Twee Pop;Baroque Pop;Indie Pop;Pop",
+"Belle and Sebastian|The Boy with the Arab Strap|1998|PLOUPdUHsi8joGmPdqdd6rMIGfVudCpsrt|A1031|The Boy with the Arab Strap|Belle and Sebastian|Chamber Pop;Twee Pop;Baroque Pop;Indie Pop;Pop",
 "Babatunde Olatunji|Drums of Passion|1960|https://www.youtube.com/embed/xA7bHnYPZb4|A2418|Drums of Passion|Babatunde Olatunji|Apala;African Folk Music;African Music;Folk;Regional Music;Traditional Folk Music;West African Music;Yoruba Music",
 "The Birthday Party|Prayers on Fire|1981|OLAK5uy_lTDpY2pDqNOsPdFgkprncEAlpaGctLiVo|A2863|Prayers on Fire|The Birthday Party (band)|Noise Rock;Post-Punk;Rock",
 "Crowded House|Crowded House|1986|OLAK5uy_nwhPGW2CfrMKcpzBoEVCdAvkYLxa2lLGw|A685|Crowded House (album)|Crowded House|Pop Rock;Pop;Rock",
