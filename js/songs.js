@@ -4663,7 +4663,7 @@ const songs = [
 "Los Del Río|Macarena|1993|UoUmyY6CQRo|Los del Río|S3571|Dance-Pop;Flamenco Pop;Dance;Hispanic Music;Pop;Regional Music;Spanish Music|Macarena",
 "Etta James|Tell Mama|1967|b34yqCI2tPU|Etta James|S3510|Soul Blues;Southern Soul;Blues;R&B;Soul|Tell Mama (song)",
 "King Sunny Adé|365 Is My Number/The Message|1982|DGxgUAkFl0k|King Sunny Adé|S7110|Jùjú;African Music;Regional Music;West African Music;Yoruba Music|",
-"Rodriguez|Sugar Man|1970|E90_aL870ao|Sixto Rodriguez|S8203|Folk Rock;Psychedelic Folk;Singer/Songwriter;Contemporary Folk;Folk;Rock|Sugar Man (song)",
+"Rodriguez|Sugar Man|1970|esG4gK-pieA|Sixto Rodriguez|S8203|Folk Rock;Psychedelic Folk;Singer/Songwriter;Contemporary Folk;Folk;Rock|Sugar Man (song)",
 "Bonnie Raitt|Something to Talk About|1991|mJ58TVYNFro|Bonnie Raitt|S2030|Adult Contemporary;Country Pop;Pop Rock;Country;Pop;Rock|Something to Talk About (Bonnie Raitt song)",
 "Charles Brown|Black Night|1951|-71jfEwX-xQ|Charles Brown (musician)|S3242|Electric Blues;Piano Blues;Blues|Black Night (Charles Brown song)",
 "Ride|Leave Them All Behind|1992|E2jRRXou_D4|Ride (band)|S9333|Noise Pop;Shoegaze;Alternative Rock;Rock|Leave Them All Behind",
