@@ -10144,7 +10144,7 @@ const songs = [
 "The Sonics|Boss Hoss|1965|7hAT-Lz7M_g|The Sonics|S1674|Garage Rock;Proto-Punk;Rock & Roll;Rock|",
 "Blur|Lonesome Street|2015|oo55vzpL85w|Blur (band)|S9713|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Lonesome Street",
 "Midlake|Acts of Man|2009|fEIdxj1mSmU?start=56|Midlake|S11636|Indie Folk;Contemporary Folk;Folk|",
-"Serge Gainsbourg|Valse de Melody|1971|7zgfTj_za08|Serge Gainsbourg|S8359|Chanson;French Pop;Pop;Regional Music|Histoire de Melody Nelson",
+"Serge Gainsbourg|Valse de Melody|1971|WIUiLBFKRII|Serge Gainsbourg|S8359|Chanson;French Pop;Pop;Regional Music|",
 "Manic Street Preachers|From Despair to Where|1993|6WRzjx042p0|Manic Street Preachers|S136|Alternative Rock;Hard Rock;Rock|",
 "Royal Blood|Little Monster|2014|ere2Mstl8ww|Royal Blood (band)|S15844|Alternative Rock;Stoner Rock;Hard Rock;Rock|Little Monster (song)",
 "The Verve|Lucky Man|1997|MH6TJU0qWoY|The Verve|S8977|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Lucky Man (The Verve song)",

@@ -58,6 +58,9 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li>The early 20th century's most influential people were Vladimir Lenin, Leon Trotsky, Wilhelm II, Sun Yat-Sen, Mohandas Gandhi, Franklin Roosevelt, Adolf Hitler, Tojo Hideki, and Fritz Haber.</li>
         <li>Others in the early 20th included Ismail Enver, Jinnah, David Ben-Gurion, Albert Einstein, Julius Rosenberg, Henry Ford, John Keynes, Philo Farnsworth, and the Wright Brothers.</li>
+    </ul>
+    <p>Further yet (still in progress) &ndash;</p>
+    <ul>
         <li>The late 19th century's most influential people were Victoria, Nathaniel Rothschild, Cixi, James Broun-Ramsey, Abraham Lincoln, Otto von Bismarck, Karl Marx, and Charles Darwin.</li>
         <li>Others in the late 19th included James Maxwell, Nikola Tesla, Thomas Edison, Carl Benz, Harriet Stowe, and Lev Tolstoy.</li>
     </ul>
@@ -133,7 +136,7 @@ I hope you have a good time here. Thanks for dropping by.
 **History Books**
 
 * [*100 Decisive Battles*](https://www.amazon.com/gp/product/0195143663) by [Paul Davis](https://en.wikipedia.org/wiki/Paul_K._Davis_(historian)) (We are puppets dancing on our predecessors' strings.)
-* [*The Book of Islamic Dynasties*](https://www.goodreads.com/notes/25056329-the-book-of-islamic-dynasties/71655209-daniel-moore) by [Luqman Nagy](https://www.tahapublishers.com/author/luqman-nagy) (History's most successful cult.)
+* [*The Book of Islamic Dynasties*](https://www.goodreads.com/notes/25056329-the-book-of-islamic-dynasties/71655209-daniel-moore) by [Luqman Nagy](https://www.tahapublishers.com/author/luqman-nagy) (Succeeded where Alexander failed.)
 * [*Born in Blackness*](https://www.goodreads.com/notes/57777449-born-in-blackness/71655209-daniel-moore) by [Howard French](https://en.wikipedia.org/wiki/Howard_W._French) (African slaves built Western civilization.)
 * [*Debt: The First 5,000 Years*](https://www.goodreads.com/notes/23814811-debt---updated-and-expanded/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (Modern finance is rooted in medieval Europe.)
 * [*Early Indians*](https://en.wikipedia.org/wiki/Early_Indians) by [Tony Joseph](https://en.wikipedia.org/wiki/Tony_Joseph) (Genomics-based insights into 65,000 years of India's history.)
