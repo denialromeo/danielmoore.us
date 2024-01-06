@@ -3306,7 +3306,7 @@ const songs = [
 "The Impressions|Gypsy Woman|1961|3Wd4tlX5t-Q|The Impressions|S1123|Pop Soul;Pop;R&B;Soul|Gypsy Woman (The Impressions song)",
 "Selena Gomez|Bad Liar|2017|NZKXkD6EgBk|Selena Gomez|S16475|Dance-Pop;Dance;Pop|Bad Liar (Selena Gomez song)",
 "Giorgio Moroder|Chase|1978|mpW3C_k0WMY|Giorgio Moroder|S6568|Film Score;Space Disco;Dance;Descriptor;Disco;Electro-Disco;Electronic;Electronic Dance Music;Film Soundtrack;Soundtracks|",
-"LCD Soundsystem|All I Want|2010|A6BYCcy5aeo|LCD Soundsystem|S4917|Alternative Dance;Indietronica;Post-Punk Revival;Alternative Rock;Dance;Electronic;Indie Rock;Post-Punk;Rock|I Can Change (LCD Soundsystem song)",
+"LCD Soundsystem|All I Want|2010|AAGZ9xFosNA|LCD Soundsystem|S4917|Alternative Dance;Indietronica;Post-Punk Revival;Alternative Rock;Dance;Electronic;Indie Rock;Post-Punk;Rock|I Can Change (LCD Soundsystem song)",
 "Aterciopelados|Bolero falaz|1995|GEe-G4w0ifc|Aterciopelados|S5265|Alternative Rock;Latin Alternative;Hispanic Music;Latin American Music;Regional Music;Rock|",
 "Def Leppard|Pour Some Sugar on Me|1987|0UIB9Y4OFPs|Def Leppard|S3325|Glam Metal;Hard Rock;Rock|Pour Some Sugar on Me",
 "Tom Waits|Innocent When You Dream|1987|95gu6758320|Tom Waits|S3928|Cabaret;Singer/Songwriter;Musical Theatre and Entertainment|Innocent When You Dream (song)",
