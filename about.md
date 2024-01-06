@@ -51,7 +51,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
-        <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Barack Obama, Donald Trump, Joseph Biden, Mark Zuckerberg, Steve Jobs, and Satya Nadella.</li>
+        <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Barack Obama, Donald Trump, Benjamin Netanyahu, Mark Zuckerberg, Steve Jobs, Satya Nadella, and Ben Bernanke.</li>
         <li>Others in the late 20th were Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Ho&nbsp;Chi Minh, Ruhollah Khomeini, Zia-ul-Haq, Qian Xuesen, and Norman Borlaug.</li>
     </ul>
     {%if site.url contains 'local'%}
