@@ -52,8 +52,9 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, George W. Bush, Barack Obama, Donald Trump, Joseph Biden, Mark Zuckerberg, Steve Jobs, and Satya Nadella.</li>
-        <li>Others in the late 20th include Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Ho&nbsp;Chi Minh, Ruhollah Khomeini, Zia-ul-Haq, Qian Xuesen, and Norman Borlaug.</li>
+        <li>Others in the late 20th were Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Ho&nbsp;Chi Minh, Ruhollah Khomeini, Zia-ul-Haq, Qian Xuesen, and Norman Borlaug.</li>
     </ul>
+    {%if site.url contains 'local'%}
     <p>Looking back a bit further (still in progress) &ndash;</p>
     <ul>
         <li>The early 20th century's most influential people were Vladimir Lenin, Leon Trotsky, Wilhelm II, Sun Yat-Sen, Mohandas Gandhi, Franklin Roosevelt, Adolf Hitler, Tojo Hideki, and Fritz Haber.</li>
@@ -69,6 +70,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>The early 19th century's most influential people included Napoleon Bonaparte, Toussaint Louverture, Michael Faraday, Samuel Morse, and Charles Dickens.</li>
         <li>The 18th century's most influential people included Robert Clive, George Washington, Maximilien Robespierre, Adam Smith, and Thomas Newcomen.</li>
     </ul>
+    {%endif%}
 </div>
 
 # Favorite
