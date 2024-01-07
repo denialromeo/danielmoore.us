@@ -10684,7 +10684,7 @@ const songs = [
 "Jim Croce|I Got a Name|1973|cadvn16N188|Jim Croce|S11199|Chamber Folk;Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|",
 "Metallica|Welcome Home (Sanitarium)|1986|Lqee-u7Uq2I|Metallica|S14741|Thrash Metal;Metal;Rock|Master of Puppets",
 "Roy Harper|When an Old Cricketer Leaves the Crease|1975|GJCqECUmx44|Roy Harper (singer)|S8259|Contemporary Folk;Singer/Songwriter;Folk|",
-"13th Floor Elevators|Slip Inside This House|1967|nwSA0Tckwbk|The 13th Floor Elevators|S9123|Garage Rock;Psychedelic Rock;Rock|",
+"13th Floor Elevators|Slip Inside This House|1967|3c67o_s2jjw|The 13th Floor Elevators|S9123|Garage Rock;Psychedelic Rock;Rock|",
 "The Wedding Present|Nobody's Twisting Your Arm|1988|8DTHmPtOTBo|The Wedding Present|S8958|C86;Indie Rock;Jangle Pop;Alternative Rock;Indie Pop;Pop;Pop Rock;Rock|",
 "Huey Lewis and the News|Hip to Be Square|1986|HbF1g3k2mtw|Huey Lewis|S14488|Pop Rock;Pop;Rock|Hip to Be Square",
 "Dinosaur Jr.|Little Fury Things|1987|4WAFdBU88bg|Dinosaur Jr.|S10589|Indie Rock;Noise Rock;Alternative Rock;Rock|",
