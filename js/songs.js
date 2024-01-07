@@ -8769,7 +8769,7 @@ const songs = [
 "France Gall|Poupée de cire, poupée de son|1965|s5aeeSmkPwQ|France Gall|S10853|Yé-yé;Pop|Poupée de cire, poupée de son",
 "D Train|You're the One for Me|1982|OZ5KE_XzORA|D Train (music group)|S10481|Boogie;Synth Funk;Dance;Disco;Funk;R&B|You're the One for Me (D. Train song)",
 "War|Summer|1976|gSQAlfyaKyc|War (American band)|S15164|Pop Soul;Pop;R&B;Soul|Summer (War song)",
-"James Brown|King Heroin|1972|07SWjWaOxc4|James Brown|S11132|Soul Jazz;Spoken Word;Descriptor;Jazz|King Heroin",
+"James Brown|King Heroin|1972|DAslzMPpcik|James Brown|S11132|Soul Jazz;Spoken Word;Descriptor;Jazz|King Heroin",
 "Los Auténticos Decadentes|Loco (Tu forma de ser)|1989|AFwpWzOpfjQ|Los Auténticos Decadentes|S11469|Latin Alternative;Hispanic Music;Latin American Music;Regional Music|",
 "Razorlight|America|2006|V9NhncU5_CE|Razorlight|S8116|Alternative Rock;Pop Rock;Pop;Rock|America (Razorlight song)",
 "Arthur Gibbs & His Gang|Charleston|1924|4pTscWvmIkw|https://www.discogs.com/artist/3370337-Arthur-Gibbs-His-Gang|S14084|Swing;Jazz|Runnin' Wild (1922 song)",
