@@ -1381,7 +1381,7 @@ const albums = [
 "Ben Folds Five|Whatever and Ever Amen|1997|OLAK5uy_ke9Q77XD2ybBbCBkfjEHdppVVy-Z-TiPY|A3660|Whatever and Ever Amen|Ben Folds Five|Piano Rock;Pop;Pop Rock;Rock",
 "Napalm Death|Scum|1987|OLAK5uy_lEg4EL0Atnp7or1-QwKWoS6Ix22XvIu0s|A1524|Scum (Napalm Death album)|Napalm Death|Grindcore;Hardcore Punk;Metal;Punk Rock;Rock",
 "The Modern Jazz Quartet|Fontessa|1956|PL0q2VleZJVEkkAgOlOSxz9CCcNnILwdmz|A1799|Fontessa|Modern Jazz Quartet|Cool Jazz;Jazz",
-"Jeff Beck|Beck-Ola|1969|OLAK5uy_lNGPpBS-2nkuJO968C9ebiXF7WV4QPQuc|A1119|Truth (Jeff Beck album)|Jeff Beck|Blues Rock;Hard Rock;Rock",
+"Jeff Beck|Beck-Ola|1969|OLAK5uy_lNGPpBS-2nkuJO968C9ebiXF7WV4QPQuc|A1119|Beck-Ola|Jeff Beck|Blues Rock;Hard Rock;Rock",
 "Blur|Modern Life Is Rubbish|1993|OLAK5uy_l2_DBIh4d9AlVKYgp3-LgglUJYapOW-dg|A876|Modern Life Is Rubbish|Blur (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "Sufjan Stevens|Michigan|2003|OLAK5uy_llQ_EdghdVMuAQhPQqrAttQwSrn09tLWQ|A3913|Illinois (Sufjan Stevens album)|Sufjan Stevens|Chamber Folk;Indie Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Lily Allen|Alright, Still|2006|OLAK5uy_lb50u3BosBN93zTEG5BQpKyBL_CtpljSY|A3050|Alright, Still|Lily Allen|Pop",
