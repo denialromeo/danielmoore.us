@@ -5573,7 +5573,7 @@ const songs = [
 "Mel and Tim|Starting All Over Again|1972|ZBvdhODRNHI|Mel and Tim|S1736|Southern Soul;R&B;Soul|Starting All Over Again (Mel & Tim song)",
 "The Isley Brothers|Summer Breeze|1973|BsVGbV_j2aY|The Isley Brothers|S2323|Pop Soul;Pop;R&B;Soul|Summer Breeze (song)",
 "Steve \"Silk\" Hurley|Jack Your Body|1986|ZaHUK5GnDgE|Steve \"Silk\" Hurley|S8564|Chicago House;Dance;Electronic;Electronic Dance Music;House|Jack Your Body",
-"Ray Ventura et ses Collégiens|Tout va très bien madame la marquise|1935|RnEwIQQybh0|Ray Ventura|S12035|Chanson;Satire;Comedy;Descriptor;Regional Music|",
+"Ray Ventura et ses Collégiens|Tout va très bien madame la marquise|1935|bbm3mMMeZFY|Ray Ventura|S12035|Chanson;Satire;Comedy;Descriptor;Regional Music|",
 "DMX|Party Up (Up in Here)|1999|thIVtEOtlWM|DMX (rapper)|S3342|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Party Up (Up in Here)",
 "Beirut|Santa Fe|2011|JRCTLJQBRC4|Beirut (band)|S5401|Indie Pop;Pop|",
 "Dire Straits|Private Investigations|1982|KcXUiNHFngI|Dire Straits|S1879|Art Rock;Experimental Rock;Rock|Private Investigations",
