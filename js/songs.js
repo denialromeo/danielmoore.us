@@ -4751,7 +4751,7 @@ const songs = [
 "Caribou/Manitoba|Sun|2010|f-qof_oiF0M|Dan Snaith|S5715|Microhouse;Dance;Electronic;Electronic Dance Music;House|",
 "Japanese Breakfast|Road Head|2017|cCmLjb-ocPY|Japanese Breakfast|S16399|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|",
 "Paul Revere & The Raiders|Kicks|1966|IP8G4clUJBY|Paul Revere & the Raiders|S3757|Garage Rock;Pop Rock;Pop;Rock|",
-"Pere Ubu|30 Seconds over Tokyo|1975|czNdbKdwL6s|Pere Ubu|S11877|Art Rock;Post-Punk;Rock|",
+"Pere Ubu|30 Seconds over Tokyo|1975|czNdbKdwL6s|Pere Ubu|S11877|Art Rock;Post-Punk;Rock|30 Seconds Over Tokyo (song)",
 "Belle and Sebastian|I'm a Cuckoo|2003|GuKuw71YBbI|Belle and Sebastian|S2469|Jangle Pop;Twee Pop;Alternative Rock;Indie Pop;Pop;Pop Rock;Rock|",
 "Tom Tom Club|Wordy Rappinghood|1981|fHL8Vi8Edt4|Tom Tom Club|S2895|Disco Rap;New Wave;Hip Hop;Rock|",
 "Cannonball Adderley|Autumn Leaves|1958|u37RF5xKNq8|Cannonball Adderley|S10350|Hard Bop;Bebop;Jazz|",
