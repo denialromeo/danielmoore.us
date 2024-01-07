@@ -909,7 +909,7 @@ const songs = [
 "Devo|Whip It|1980|j_QLzthSkfM?start=3|Devo|S560|New Wave;Synthpop;Electronic;Pop;Rock|Whip It (Devo song)",
 "Robert Johnson|Love in Vain|1937|07T3h0b93Rg|Robert Johnson|S2710|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Love in Vain",
 "Guns N' Roses|Paradise City|1987|Rbm6GXllBiw|Guns N' Roses|S265|Glam Metal;Hard Rock;Rock|Paradise City",
-"Pink Floyd|Astronomy Domine|1967|pJh9OLlXenM|Pink Floyd|S3702|Experimental Rock;Space Rock;Psychedelic Rock;Rock|Astronomy Domine",
+"Pink Floyd|Astronomy Domine|1967|uTfDUyUkVYE|Pink Floyd|S3702|Experimental Rock;Space Rock;Psychedelic Rock;Rock|Astronomy Domine",
 "The Rolling Stones|Ruby Tuesday|1967|ADtnUC_ctNk|The Rolling Stones|S2515|Baroque Pop;Pop Rock;Pop;Rock|Ruby Tuesday (song)",
 "Cardi B feat. Bad Bunny and J Balvin|I Like It|2018|xTlNMmZKwpA|Cardi B|S16519|Latin Rap;Pop Rap;Hip Hop|I Like It (Cardi B, Bad Bunny and J Balvin song)",
 "Panda Bear|Bro's|2006|FQUrf6DpXjc|Panda Bear (musician)|S4311|Neo-Psychedelia;Progressive Pop;Psychedelic Pop;Pop;Psychedelic Rock;Rock|Bro's (song)",
