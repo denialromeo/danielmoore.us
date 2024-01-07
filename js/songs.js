@@ -3998,7 +3998,7 @@ const songs = [
 "Janis Ian|Society's Child (Baby I've Been Thinking)|1966|YbVFy7nx88Q|Janis Ian|S3490|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|",
 "Cat Stevens|Wild World|1970|Jta56wBl7SM?start=21|Cat Stevens|S5737|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Wild World (song)",
 "Crowded House|Weather with You|1991|NZ3Ck43m_ZY|Crowded House|S2054|Pop Rock;Pop;Rock|Weather with You",
-"YG feat. Nipsey Hussle|FDT (Fuck Donald Trump)|2016|HOKDqvlYpQI|YG (rapper)|S16218|Hardcore Hip Hop;Political Hip Hop;West Coast Hip Hop;Hip Hop|",
+"YG feat. Nipsey Hussle|FDT (Fuck Donald Trump)|2016|HOKDqvlYpQI?start=59|YG (rapper)|S16218|Hardcore Hip Hop;Political Hip Hop;West Coast Hip Hop;Hip Hop|",
 "Edith Piaf|Hymne à l'amour|1950|sgBldNsK-xw|Édith Piaf|S6204|Chanson;Regional Music|Hymne à l'amour",
 "TV on the Radio|Golden Age|2008|Fl4Oms4qcoE|TV on the Radio|S4758|Art Rock;Indie Rock;Alternative Rock;Rock|",
 "The Beatles|The Ballad of John and Yoko|1969|v-1OgNqBkVE|The Beatles|S5381|Pop Rock;Pop;Rock|The Ballad of John and Yoko",
