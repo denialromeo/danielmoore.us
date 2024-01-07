@@ -7196,7 +7196,7 @@ const songs = [
 "Johnny Paycheck|Take This Job and Shove It|1977|gj2iGAifSNI|Johnny Paycheck|S13842|Outlaw Country;Country;Progressive Country|Take This Job and Shove It",
 "Joe Jones|You Talk Too Much|1960|2GOYYbiEul0|Joe Jones (singer)|S6936|Rhythm & Blues;R&B|",
 "Art of Noise|Beat Box|1983|JSWhzsGY3hA|Art of Noise|S5241|Electro;Dance;Electronic;Electronic Dance Music|Beat Box (Art of Noise song)",
-"Roger Sanchez|Another Chance|2001|Bj_qd2EWthY|Roger Sanchez|S8208|French House;Dance;Electronic;Electronic Dance Music;House|Another Chance (Roger Sanchez song)",
+"Roger Sanchez|Another Chance|2001|Pf4fiP7SQF8|Roger Sanchez|S8208|French House;Dance;Electronic;Electronic Dance Music;House|Another Chance (Roger Sanchez song)",
 "The Hold Steady|Constructive Summer|2008|dyMal2onfuM|The Hold Steady|S6720|Heartland Rock;Indie Rock;Alternative Rock;Rock|",
 "Demics|New York City|1979|wwfkpW63Nj8|The Demics|S1831|Punk Rock;Rock|",
 "Jessie Ware|Say You Love Me|2014|DAMM8JVbr8g|Jessie Ware|S9669|Contemporary R&B;Pop Soul;Pop;R&B;Soul|Say You Love Me (Jessie Ware song)",
