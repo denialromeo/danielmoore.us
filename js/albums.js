@@ -1999,7 +1999,7 @@ const albums = [
 "Lambert, Hendricks and Ross|The Hottest New Group in Jazz|1959|OLAK5uy_my3ZL35lv77XR5lbykDHXOnNGPOqheaF4|A1866|The Hottest New Group in Jazz|Lambert, Hendricks & Ross|Vocal Jazz;Jazz",
 "Pata Negra|Blues de la frontera|1988|OLAK5uy_m0LZU-Awpn6WBAfb8pMiirnX7Cq8uxUhg|A4732|https://en.wikipedia.org/wiki/Pata_Negra|Pata Negra|Flamenco Nuevo;European Folk Music;Flamenco;Folk;Hispanic Music;Regional Music;Spanish Folk Music;Spanish Music;Traditional Folk Music",
 "Lee Morgan|Search for the New Land|1966|OLAK5uy_mDQUijgzKgU6RAxMSj-sJqwkrc8Y0cT_w|A1947|Search for the New Land|Lee Morgan|Post-Bop;Bebop;Jazz",
-"Mos Def|The Ecstatic|2009|PLEYJynw_xzwBK-xa0kMKlnfCyjYO5807k|A5013|The Ecstatic|Mos Def|Hip Hop",
+"Mos Def|The Ecstatic|2009|https://www.youtube.com/embed/I0Es0aIi4oI|A5013|The Ecstatic|Mos Def|Hip Hop",
 "UB40|Signing Off|1980|OLAK5uy_k3aWfvT1iIAfRkp7zGuOLY5_rRqEa-lyM|A1175|Signing Off|UB40|Reggae;Caribbean Music;Jamaican Music;Regional Music",
 "Frank Ocean|Nostalgia, Ultra|2011|PL3JPGA3BFYVceW50V61QRVn86b8P_Rwpi|A5162|Nostalgia, Ultra|Frank Ocean|Alternative R&B;Contemporary R&B;R&B",
 "Fugazi|Red Medicine|1995|OLAK5uy_mblHoD6YtHxabYHuQzoWSswWccwii7nCk|A3574|Red Medicine|Fugazi|Post-Hardcore;Punk Rock;Rock",
