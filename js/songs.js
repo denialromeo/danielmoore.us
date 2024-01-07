@@ -573,7 +573,7 @@ const songs = [
 "U2|I Still Haven't Found What I'm Looking For|1987|e3-5YC_oHjE|U2|S347|Pop Rock;Pop;Rock|I Still Haven't Found What I'm Looking For",
 "Fleetwood Mac|Dreams|1977|Y3ywicffOj4|Fleetwood Mac|S1560|Soft Rock;Pop;Pop Rock;Rock|Dreams (Fleetwood Mac song)",
 "Lil Nas X feat. Billy Ray Cyrus|Old Town Road (Remix)|2019|w2Ov5jzm3j8|Lil Nas X|S16820|Country Rap;Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
-"Stevie Wonder|Higher Ground|1973|4wZ3ZG_Wams|Stevie Wonder|S756|Funk;Soul;R&B|Higher Ground (Stevie Wonder song)",
+"Stevie Wonder|Higher Ground|1973|I1_uU9eIZRo|Stevie Wonder|S756|Funk;Soul;R&B|Higher Ground (Stevie Wonder song)",
 "Creedence Clearwater Revival|Who'll Stop the Rain|1970|jaEEFBTtofc|Creedence Clearwater Revival|S848|Folk Rock;Swamp Rock;Rock;Roots Rock|Who'll Stop the Rain (song)",
 "The Crystals|He's a Rebel|1962|aF7V2dSvxpo|The Crystals|S1088|Brill Building;Girl Group;Pop|He's a Rebel",
 "Aerosmith|Walk This Way|1975|O3vdkQjiEDo|Aerosmith|S720|Hard Rock;Rock|Walk This Way",
