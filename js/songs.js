@@ -6862,7 +6862,7 @@ const songs = [
 "Lee Konitz & Lennie Tristano|Subconscious-Lee|1949|RK4U0Q3LbWE|Lennie Tristano|S13222|Cool Jazz;Jazz|",
 "Andy Gibb|I Just Wanna Be Your Everything|1977|VkNeoTcGwrc|Andy Gibb|S5195|Pop|I Just Want to Be Your Everything",
 "Purple Mountains|That's Just the Way That I Feel|2019|6CtxkCmcsiw|Purple Mountains|S16850|Alt-Country;Indie Rock;Alternative Rock;Country;Rock|",
-"Renaud|Hexagone|1975|eUbj8aUC_rQ|Renaud|S8135|Chanson;Folk Rock;Regional Music;Rock|",
+"Renaud|Hexagone|1975|v9j7oWUuH18|Renaud|S8135|Chanson;Folk Rock;Regional Music;Rock|",
 "Sons of Kemet|My Queen is Harriet Tubman|2018|twjaSC5Ym9s|Sons of Kemet|S16628|Afro-Jazz;Jazz-Funk;African Music;Funk;Jazz;R&B;Regional Music|",
 "1910 Fruitgum Company|Simon Says|1967|53wYiKgY3Xg?start=6|1910 Fruitgum Company|S5065|Bubblegum;Pop|Simon Says (1910 Fruitgum Company song)",
 "Keith Richards|Take It So Hard|1988|vbaiQ00gywI|Keith Richards|S327|Blues Rock;Rock|",
