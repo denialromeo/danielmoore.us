@@ -2223,7 +2223,7 @@ const songs = [
 "Os Mutantes|A Minha Menina|1968|XIbJylD_c84|Os Mutantes|S7826|Psychedelic Pop;Psychedelic Rock;Tropicália;Brazilian Music;MPB;Pop;Regional Music;Rock|",
 "Black Sheep|The Choice Is Yours (Revisited)|1991|entXdFDTT-Q|Black Sheep (group)|S2049|Boom Bap;East Coast Hip Hop;Hip Hop|The Choice Is Yours (Revisited)",
 "Aaliyah|We Need a Resolution|2001|78YDlgZfPus|Aaliyah|S1479|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|We Need a Resolution",
-"Sister Sledge|Lost in Music|1979|43qB9FpfCR8|Sister Sledge|S1834|Disco;Pop Soul;Dance;Pop;R&B;Soul|",
+"Sister Sledge|Lost in Music|1979|nIrnevgyCFw|Sister Sledge|S1834|Disco;Pop Soul;Dance;Pop;R&B;Soul|",
 "Jimmy Eat World|The Middle|2001|oKsxPW6i3pM|Jimmy Eat World|S1517|Emo-Pop;Pop Rock;Alternative Rock;Emo;Pop;Rock|The Middle (Jimmy Eat World song)",
 "Muse|Supermassive Black Hole|2006|Xsp3_a-PMTw|Muse (band)|S4046|Alternative Rock;Rock|Supermassive Black Hole (song)",
 "First Aid Kit|Emmylou|2012|PC57z-oDPLs|First Aid Kit (band)|S5011|Alt-Country;Americana;Folk Pop;Contemporary Folk;Country;Folk;Pop|",
