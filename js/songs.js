@@ -3212,7 +3212,7 @@ const songs = [
 "Thelonious Monk|Misterioso|1958|7te1syRAYO0|Thelonious Monk|S8733|Bebop;Jazz|",
 "Urge Overkill|Girl, You'll Be a Woman Soon|1994|1fr1iyhkyVs?start=5|Urge Overkill|S8899|Alternative Rock;Pop Rock;Pop;Rock|Girl, You'll Be a Woman Soon",
 "Bone Thugs-N-Harmony|Tha Crossroads|1995|VMYAEHE2GrM|Bone Thugs-n-Harmony|S4863|Conscious Hip Hop;Pop Rap;Hip Hop|Tha Crossroads",
-"Little Anthony and the Imperials|Goin' out of My Head|1964|v3j9bAVqt3c|Little Anthony and the Imperials|S3565|Pop Soul;Pop;R&B;Soul|Goin' Out of My Head",
+"Little Anthony and the Imperials|Goin' out of My Head|1964|Kq204wG8UfA|Little Anthony and the Imperials|S3565|Pop Soul;Pop;R&B;Soul|Goin' Out of My Head",
 "Johnny Thunders|You Can't Put Your Arms Around a Memory|1978|TknY89kECq0|Johnny Thunders|S6991|Glam Rock;Punk Rock;Rock|You Can't Put Your Arms Around a Memory",
 "Kansas|Dust in the Wind|1977|tH2w6Oxx0kQ|Kansas (band)|S7045|Folk Rock;Soft Rock;Pop;Pop Rock;Rock|Dust in the Wind",
 "Lyn Collins|Think (About It)|1972|HKix_06L5AY|Lyn Collins|S4416|Funk;Soul;R&B|Think (About It)",
