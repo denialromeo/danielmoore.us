@@ -10135,7 +10135,7 @@ const songs = [
 "Rihanna|Rude Boy|2009|e82VE8UtW8A|Rihanna|S8162|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|Rude Boy (Rihanna song)",
 "Oneohtrix Point Never|Sticky Drama|2015|td-e4i2BL_Q|Oneohtrix Point Never|S9826|Deconstructed Club;Electro-Industrial;Dance;Electronic;Electronic Dance Music;Experimental;Industrial;Industrial Music|",
 "The Kinks|David Watts|1967|hGrniCrIHGg|The Kinks|S7123|Pop Rock;Pop;Rock|David Watts (song)",
-"The Subways|Rock & Roll Queen|2005|lLZvJ_rtZO8|The Subways|S8621|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|",
+"The Subways|Rock & Roll Queen|2005|lLZvJ_rtZO8|The Subways|S8621|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|Rock & Roll Queen",
 "Wire|1 2 X U|1977|CGeypZc5Gg8|Wire (band)|S9042|Art Punk;Punk Rock;Rock|",
 "Roger Glover|Love Is All|1974|RW9OYsMn4ds|Roger Glover|S8204|Pop Rock;Pop;Rock|Love Is All (Roger Glover song)",
 "Beyoncé feat. Kendrick Lamar|Freedom|2016|GFKo95dMzro|Beyoncé|S16039|Contemporary R&B;Pop Rap;Hip Hop;R&B|Freedom (Beyoncé song)",
