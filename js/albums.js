@@ -1756,7 +1756,7 @@ const albums = [
 "Santana|Caravanserai|1972|OLAK5uy_m2tVTuVBA6Xa870BKCmezMEwQIiXojzTk|A1376|Caravanserai (album)|Carlos Santana|Jazz-Rock;Latin Rock;Hispanic Music;Latin American Music;Regional Music;Rock",
 "The Weavers|The Weavers at Carnegie Hall|1957|OLAK5uy_k8FPwbWPiuxTYbleKCNpatRrba8cSzqDo|A1258|The Weavers at Carnegie Hall|The Weavers|Contemporary Folk;Folk",
 "Warren Zevon|Excitable Boy|1978|OLAK5uy_ll2bX4IjT808loalfBHlO1EUXAhvGpah4|A1444|Excitable Boy|Warren Zevon|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock",
-"Freddie Gibbs & Madlib|Piñata|2014|PLkuZFJvrpJGuo245KWTO10m3G7QwmjYrr|A5409|Piñata (Freddie Gibbs and Madlib album)|Freddie Gibbs|Gangsta Rap;Hardcore Hip Hop;Hip Hop",
+"Freddie Gibbs & Madlib|Piñata|2014|OLAK5uy_nWgYNwy_If96pi6iiOHTPqJ4JHmuQxs1M|A5409|Piñata (Freddie Gibbs and Madlib album)|Freddie Gibbs|Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Camarón|La leyenda del tiempo|1979|OLAK5uy_n6lU6r_3cVcnd9EfumA7sBKoZWnX1xjnQ|A4612|La Leyenda del Tiempo|Camarón de la Isla|Flamenco Nuevo;European Folk Music;Flamenco;Folk;Hispanic Music;Regional Music;Spanish Folk Music;Spanish Music;Traditional Folk Music",
 "Caravan|In the Land of Grey and Pink|1971|OLAK5uy_mFz0nR_h7FWnmMQ90QMaMVh7Gadk3hA8k|A1349|In the Land of Grey and Pink|Caravan (band)|Canterbury Scene;Progressive Rock;Rock",
 "The Disposable Heroes of Hiphoprisy|Hypocrisy Is the Greatest Luxury|1992|OLAK5uy_mIxOBQ4VG2uAY_1hQNIt4p29Zv-rco7yg|A848|Hypocrisy Is the Greatest Luxury|The Disposable Heroes of Hiphoprisy|Conscious Hip Hop;Political Hip Hop;Hip Hop",
