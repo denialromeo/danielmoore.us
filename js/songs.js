@@ -7577,7 +7577,7 @@ const songs = [
 "Hank Williams|Ramblin' Man|1953|V41gDDWEPso|Hank Williams|S9239|Country|Ramblin' Man (Hank Williams song)",
 "Brian Hyland|Sealed With a Kiss|1962|9755RnDqMFQ|Brian Hyland|S10292|Teen Pop;Pop|Sealed with a Kiss",
 "John Coltrane|Alabama|1964|saN1BwlxJxA|John Coltrane|S13213|Post-Bop;Bebop;Jazz|",
-"The Last Poets|Niggers Are Scared of Revolution|1970|dV615-rdHsg|The Last Poets|S14647|Jazz Poetry;Descriptor;Jazz;Poetry;Spoken Word|The Last Poets (album)",
+"The Last Poets|Niggers Are Scared of Revolution|1970|W4H0rwumscA|The Last Poets|S14647|Jazz Poetry;Descriptor;Jazz;Poetry;Spoken Word|The Last Poets (album)",
 "Vess L. Ossman|Honolulu Cake Walk|1899|Sq3B_2JizCI|Vess Ossman|S15975|Cakewalk;American Folk Music;Folk;Ragtime;Regional Music;Traditional Folk Music|",
 "Devo|Girl U Want|1980|g4-2onb62y8|Devo|S6061|New Wave;Rock|Girl U Want",
 "Ramones|I Don't Want to Grow Up|1995|1Tpu_XoNABA|Ramones|S14920|Punk Rock;Rock|https://en.wikipedia.org/wiki/Bone_Machine#I_Don't_Wanna_Grow_Up",
