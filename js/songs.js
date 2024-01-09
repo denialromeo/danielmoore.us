@@ -3992,7 +3992,7 @@ const songs = [
 "Ken Boothe|Everything I Own|1974|fLfT5MuNT-I|Ken Boothe|S743|Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Everything I Own",
 "The Four Seasons|Rag Doll|1964|EwuL3Up_mpg|The Four Seasons (band)|S1049|Doo-Wop;Pop;Descriptor;R&B;Vocal Group|Rag Doll (The Four Seasons song)",
 "PJ Harvey|Dress|1991|A29BMj3v86w|PJ Harvey|S4488|Alternative Rock;Singer/Songwriter;Rock|Dress (PJ Harvey song)",
-"Jackson C. Frank|Blues Run the Game|1965|f4it9vK6G7o|Jackson C. Frank|S9247|Contemporary Folk;Singer/Songwriter;Folk|Blues Run the Game",
+"Jackson C. Frank|Blues Run the Game|1965|RyI7ph709x4|Jackson C. Frank|S9247|Contemporary Folk;Singer/Songwriter;Folk|Blues Run the Game",
 "Clarence Carter|Patches|1970|ITFYEgCdI-0|Clarence Carter|S2296|Southern Soul;R&B;Soul|Patches (Chairmen of the Board song)",
 "The Paragons|The Tide Is High|1967|sjcWJyKeScI|The Paragons|S7847|Rocksteady;Caribbean Music;Jamaican Music;Regional Music|The Tide Is High",
 "Janis Ian|Society's Child (Baby I've Been Thinking)|1966|YbVFy7nx88Q|Janis Ian|S3490|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|",
