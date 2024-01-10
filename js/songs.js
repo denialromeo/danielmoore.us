@@ -9773,7 +9773,7 @@ const songs = [
 "Big Audio Dynamite II|Rush|1991|-h8zs898lr4|Big Audio Dynamite|S15286|Alternative Dance;Alternative Rock;Dance;Rock|Rush (Big Audio Dynamite II song)",
 "Paul Revere & The Raiders|Him or Me - What's It Gonna Be?|1967|stvsYO9KM2E|Paul Revere & the Raiders|S7891|Pop Rock;Psychedelic Pop;Pop;Rock|",
 "Téléphone|La Bombe humaine|1979|lgfoOJziPfc|Téléphone|S12412|Rock|",
-"Julian Cope|Sunspots|1984|SQpOtdZdnPQ|Julian Cope|S4467|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|Sunspots (song)",
+"Julian Cope|Sunspots|1984|Jyq6FfLh09w|Julian Cope|S4467|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|Sunspots (song)",
 "Marion Williams|Packing Up|1959|1QlDUmX_3yA|Marion Williams|S15684|Gospel;American Folk Music;Folk;Regional Music;Traditional Folk Music|Clara Ward",
 "Carpenters|For All We Know|1971|9t1JUi39XCo|The Carpenters|S5724|Pop|For All We Know (1970 song)",
 "LCD Soundsystem|American Dream|2017|ML1MUKOJIIo|LCD Soundsystem|S16428|Synthpop;Electronic;Pop|",
