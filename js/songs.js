@@ -8992,7 +8992,7 @@ const songs = [
 "boygenius|Bite the Hand|2018|hZlR6DjehDc|Boygenius|S16595|Indie Rock;Singer/Songwriter;Alternative Rock;Rock|",
 "Radio Futura|Escuela de calor|1984|LyCQvyrZzW0|Radio Futura|S11995|New Wave;Pop Rock;Pop;Rock|",
 "The Boomtown Rats|Rat Trap|1978|YtPgwAj2M9c|The Boomtown Rats|S5598|New Wave;Pop Rock;Pub Rock;Pop;Rock|",
-"Telex|Moskow Diskow|1979|wg9fb5JG3v8|Telex (band)|S8712|Electro-Disco;Synthpop;Dance;Disco;Electronic;Electronic Dance Music;Pop|",
+"Telex|Moskow Diskow|1979|___U9R8C2rU|Telex (band)|S8712|Electro-Disco;Synthpop;Dance;Disco;Electronic;Electronic Dance Music;Pop|",
 "Ralph McTell|Streets of London|1969|92_qgqj9cx8|Ralph McTell|S8087|Contemporary Folk;Singer/Songwriter;Folk|Streets of London (song)",
 "Pet Shop Boys|I Don't Know What You Want But I Can't Give It Anymore|1999|rp8uNaon5B0|Pet Shop Boys|S7940|Synthpop;Electronic;Pop|I Don't Know What You Want but I Can't Give It Any More",
 "Yvonne Elliman|I Don't Know How to Love Him|1971|DM3dYCp-op8|Yvonne Elliman|S9107|Rock Opera;Rock|",
