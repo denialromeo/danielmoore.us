@@ -7885,7 +7885,7 @@ const songs = [
 "Isolée|Schrapnell|2005|mBfhQisZDpg|Isolée|S6803|Microhouse;Dance;Electronic;Electronic Dance Music;House|",
 "Ray Charles|I Don't Need No Doctor|1966|fPPDehYZkoE|Ray Charles|S8106|Rhythm & Blues;R&B|I Don't Need No Doctor",
 "Frank Yankovic|Just Because Polka|1948|qNwzaS0jEOk|Frankie Yankovic|S6446|Polka;European Folk Music;Folk;Regional Music;Traditional Folk Music|",
-"Megadeth|Peace Sells|1986|aiQpRQeIiHY|Megadeth|S7502|Thrash Metal;Metal;Rock|Peace Sells",
+"Megadeth|Peace Sells|1986|rdEupVsL07E|Megadeth|S7502|Thrash Metal;Metal;Rock|Peace Sells",
 "Westerman|Confirmation|2018|Ch1lNNwwa90|https://www.discogs.com/artist/6360693-Westerman-2|S16620|Art Pop;Dream Pop;Alternative Rock;Pop;Rock|",
 "The Kinks|Till the End of the Day|1965|Ua8OsW9bMk0|The Kinks|S7119|Garage Rock;Mod;Rock|Till the End of the Day",
 "Master P|Make 'Em Say Uhh!|1997|bQSHAfzU5ks|Master P|S11571|Southern Hip Hop;Hip Hop|Make 'Em Say Uhh!",
