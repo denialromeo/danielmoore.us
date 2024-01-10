@@ -7793,7 +7793,7 @@ const songs = [
 "Black Sabbath|Heaven and Hell|1980|RstDRoVf_1k|Black Sabbath|S10201|Heavy Metal;Metal;Rock|",
 "The Police|King of Pain|1983|yuOPRfq-q6U|The Police|S11932|New Wave;Pop Rock;Pop;Rock|King of Pain",
 "The Leaves|Hey Joe|1966|KWv03Wgz0PQ|The Leaves|S2502|Garage Rock;Rock|Hey Joe",
-"Parliament|P. Funk (Wants to Get Funked Up)|1975|ZyJzylk8d_M|Parliament (band)|S13593|P-Funk;Funk;R&B|P. Funk (Wants to Get Funked Up)",
+"Parliament|P. Funk (Wants to Get Funked Up)|1975|Iq8bTcEIu-E|Parliament (band)|S13593|P-Funk;Funk;R&B|P. Funk (Wants to Get Funked Up)",
 "Led Zeppelin|Tangerine|1970|_0Auvlsv860|Led Zeppelin|S11393|Folk Rock;Rock|Tangerine (Led Zeppelin song)",
 "The Doors|Alabama Song (Whisky Bar)|1967|rY1ZwubOOm0|The Doors|S10635|Psychedelic Rock;Rock|Alabama Song",
 "Max Roach|Driva' Man|1961|IF6q6XKKrik|Max Roach|S7477|Avant-Garde Jazz;Vocal Jazz;Work Songs;Folk;Jazz;Regional Music;Traditional Folk Music|",
