@@ -74,7 +74,7 @@ const songs = [
 "Jay-Z|99 Problems|2003|31GjRnXfUjo|Jay-Z|S2443|East Coast Hip Hop;Rap Rock;Alternative Rock;Hip Hop;Rock|",
 "Robyn|Dancing on My Own|2010|CcNo07Xp8aQ|Robyn|S4920|Dance-Pop;Electropop;Synthpop;Dance;Electronic;Pop|Dancing On My Own",
 "Beyoncé|Formation|2016|WDZJPJV__bQ|Beyoncé|S16036|Pop Rap;Hip Hop|Formation (song)",
-"Al Green|Let's Stay Together|1971|COiIC3A0ROM|Al Green|S814|Southern Soul;R&B;Soul|Let's Stay Together (Al Green song)",
+"Al Green|Let's Stay Together|1971|uSu6tcbMOu0|Al Green|S814|Southern Soul;R&B;Soul|Let's Stay Together (Al Green song)",
 "The Rolling Stones|Jumpin' Jack Flash|1968|0cPXwc-5Kw8|The Rolling Stones|S904|Rock|Jumpin' Jack Flash",
 "LCD Soundsystem|All My Friends|2007|aygY5OqMuKE|LCD Soundsystem|S4276|Alternative Dance;Alternative Rock;Dance;Rock|All My Friends (LCD Soundsystem song)",
 "The Mamas and the Papas|California Dreamin'|1965|XJIAvpqwJJU|The Mamas and the Papas|S1010|Sunshine Pop;Pop|",
