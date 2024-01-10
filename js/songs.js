@@ -10405,7 +10405,7 @@ const songs = [
 "Shop Assistants|Safety Net|1986|MugWrKFcGS8|The Shop Assistants|S8402|C86;Jangle Pop;Noise Pop;Alternative Rock;Indie Pop;Pop;Pop Rock;Rock|Safety Net",
 "Eddie Amador|House Music|1998|i5vnIX1niDQ|Eddie Amador|S10678|Deep House;Dance;Electronic;Electronic Dance Music;House|",
 "The Motors|Airport|1978|SU5buMgojTo|The Motors|S7617|New Wave;Pub Rock;Synthpop;Electronic;Pop;Rock|",
-"Herman's Hermits|There's a Kind of Hush|1967|EXAogu7i7hQ|Herman's Hermits|S11031|Pop|There's a Kind of Hush",
+"Herman's Hermits|There's a Kind of Hush|1967|vhvQq8L4ofo|Herman's Hermits|S11031|Pop|There's a Kind of Hush",
 "Starship|We Built This City|1985|K1b8AhIsSYQ|Starship (band)|S15061|AOR;Pop Rock;Pop;Rock|We Built This City",
 "MØ|XXX 88|2013|bmLMPFXzBLA|MØ|S9496|Electropop;Future Bass;Synthpop;Dance;Electronic;Electronic Dance Music;Pop|",
 "Lucio Battisti|I giardini di marzo|1972|IsIezhvQUmE|Lucio Battisti|S13037|Pop Rock;Singer/Songwriter;Pop;Rock|",
