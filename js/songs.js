@@ -5373,7 +5373,7 @@ const songs = [
 "Iggy Pop|China Girl|1977|9BBAEUOOFKQ|Iggy Pop|S6772|Art Rock;Rock|China Girl (song)",
 "Big Star|Kanga-Roo|1978|p3dYmtbLs20|Big Star|S3213|Art Pop;Art Rock;Pop;Rock|Koo Koo Kanga Roo",
 "Beyoncé|1+1?|2011|KaasJ44O5lI|Beyoncé|S5429|Adult Contemporary;Contemporary R&B;Pop;R&B|1+1 (song)",
-"The Doors|The Crystal Ship|1967|imcHmSUVEvk|The Doors|S3351|Psychedelic Rock;Rock|The Crystal Ship",
+"The Doors|The Crystal Ship|1967|rbulIrN4scs|The Doors|S3351|Psychedelic Rock;Rock|The Crystal Ship",
 "The Rolling Stones|Monkey Man|1969|yZJaCqrxCT4|The Rolling Stones|S12097|Blues Rock;Rock|Monkey Man (Rolling Stones song)",
 "Destiny's Child|Jumpin' Jumpin'|1999|Vjw92oUduEM|Destiny's Child|S1397|Contemporary R&B;Pop;R&B|Jumpin', Jumpin'",
 "Funkadelic/Parliament|(Not Just) Knee Deep|1979|av2vgiYAlXY|Funkadelic|S3429|P-Funk;Synth Funk;Funk;R&B|",
