@@ -8474,7 +8474,7 @@ const songs = [
 "The Replacements|Merry Go Round|1990|uac_KQn9Q-M|The Replacements (band)|S4213|Alternative Rock;Rock|Merry Go Round (The Replacements song)",
 "Europe's Society Orchestra|Castle House Rag (Castles in Europe)|1914|Wu16WTdT3hQ|James Reese Europe|S15469|Ragtime;American Folk Music;Folk;Regional Music;Traditional Folk Music|",
 "LL Cool J|Jingling Baby (Remixed and Still Jingling)|1990|fH2-wWPcwAQ|LL Cool J|S2024|East Coast Hip Hop;Hip Hop|Jingling Baby",
-"Charly García|Cerca de la revolución|1984|xet-0U1ACNM|Charly García|S10385|New Wave;Pop Rock;Pop;Rock|",
+"Charly García|Cerca de la revolución|1984|VDEsZfpXWQs|Charly García|S10385|New Wave;Pop Rock;Pop;Rock|",
 "Mitch Miller|The Yellow Rose of Texas|1955|2Xe6TrWp0kc|Mitch Miller|S7575|Classical March;Classical Music;Western Classical Music|The Yellow Rose of Texas (song)",
 "Jungle Brothers|Straight out the Jungle|1988|K0wVNPWWZIw|Jungle Brothers|S11281|East Coast Hip Hop;Hip Hop|",
 "Miranda Lambert|The House That Built Me|2009|DQYNM6SjD_o|Miranda Lambert|S11655|Contemporary Country;Country|The House That Built Me",
