@@ -361,7 +361,7 @@ const albums = [
 "The National|Boxer|2007|OLAK5uy_kafrkwlOgNnuXlp3AlIvUuG0i_nF8THTw|A4240|Boxer (The National album)|The National (band)|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock",
 "Eminem|The Slim Shady LP|1999|OLAK5uy_kqHXZBl9FyDtb2UckFaLtvT2L0HLVnqTs|A1062|The Slim Shady LP|Eminem|Hardcore Hip Hop;Hip Hop",
 "B.B. King|Live at the Regal|1965|OLAK5uy_mLTQe_lQKmUn2mTwPhGLgenKn0w4rOtmI|A50|Live at the Regal|B.B. King|Electric Blues;Blues",
-"Mercury Rev|Deserter's Songs|1998|OLAK5uy_lCVVzsWkG9L39im26doQ2fz5FMnjBZKo4|A1022|Deserter's Songs|Mercury Rev|Chamber Pop;Neo-Psychedelia;Baroque Pop;Indie Pop;Pop;Psychedelic Rock;Rock",
+"Mercury Rev|Deserter's Songs|1998|PLMxy067kbpQh2xnU7drN9mn8pXPUY2sAH|A1022|Deserter's Songs|Mercury Rev|Chamber Pop;Neo-Psychedelia;Baroque Pop;Indie Pop;Pop;Psychedelic Rock;Rock",
 "Johnny Cash|American Recordings|1994|OLAK5uy_m37d9ZOzWWO3nwUHnBOxdtr1BZgLMjpRo|A918|American Recordings (album)|Johnny Cash|Americana;Country",
 "Miles Davis|Birth of the Cool|1954|PLVG1KRr_9ktFPDolNocVHs3YDmI6XngEb|A1788|Birth of the Cool|Miles Davis|Cool Jazz;Jazz",
 "The Kinks|Something Else by the Kinks|1967|OLAK5uy_kz4CAu_YsTraMwDg6lyuWQf3s_eFgK9c4|A104|Something Else by the Kinks|The Kinks|Baroque Pop;Pop Rock;Pop;Rock",
