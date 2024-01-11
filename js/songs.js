@@ -5460,7 +5460,7 @@ const songs = [
 "Crash Test Dummies|Mmmm Mmmm Mmmm Mmmm|1993|eTeg1txDv8w|Crash Test Dummies|S5885|Pop Rock;Pop;Rock|Mmm Mmm Mmm Mmm",
 "Ride|Vapour Trail|1990|ygGw_zo_W8A|Ride (band)|S8158|Dream Pop;Shoegaze;Alternative Rock;Rock|Vapour Trail (song)",
 "Joanna Newsom|Sapokanikan|2015|ky9Ro9pP2gc|Joanna Newsom|S9793|Art Pop;Progressive Pop;Singer/Songwriter;Pop|",
-"Coleman Hawkins|The Man I Love|1944|i7m8DRtx_Xc|Coleman Hawkins|S13430|Bebop;Jazz|",
+"Coleman Hawkins|The Man I Love|1944|SveFvtRfR5w|Coleman Hawkins|S13430|Bebop;Jazz|",
 "REO Speedwagon|Keep On Loving You|1980|wJzNZ1c5C9c|REO Speedwagon|S3754|AOR;Soft Rock;Pop;Pop Rock;Rock|",
 "Alain Bashung|Osez Josephine|1991|4bZWH1th3_w|Alain Bashung|S5137|Chanson;French Pop;Pop Rock;Pop;Regional Music;Rock|",
 "Dinosaur L|#5 (Go Bang!)|1981|kyZMuldK61s|Arthur Russell (musician)|S10590|Disco;Dance|",
