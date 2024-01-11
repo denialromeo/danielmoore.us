@@ -2130,7 +2130,7 @@ const albums = [
 "Bon Iver|i,i|2019|OLAK5uy_nkbzCsqlRDoDC4DFv-frWbokz6D-VOkmw|A6225|I, I|Bon Iver|Art Pop;Pop",
 "Dr. Feelgood|Stupidity|1976|PLOFsCPXqLYfoWD07IiwcqxUsBrMj6gxoN|A1417|Stupidity (Dr. Feelgood album)|Dr. Feelgood (band)|British Blues;Pub Rock;Blues;Electric Blues;Rock",
 "Iron & Wine|The Shepherd's Dog|2007|OLAK5uy_nm1DkzaqR81zqRlfuMF5vUtZpKqYxNsWA|A4254|The Shepherd's Dog|Iron & Wine|Americana;Folk Rock;Indie Folk;Singer/Songwriter;Contemporary Folk;Country;Folk;Rock",
-"Lester Young|Lester Young with the Oscar Peterson Trio|1954|PLEyxWPyoryRLKDfzaEogRXalsKlKAauvA|A2213|Lester Young with the Oscar Peterson Trio|Lester Young|Swing;Jazz",
+"Lester Young|Lester Young with the Oscar Peterson Trio|1954|OLAK5uy_nb9lftJ-BBZgXciIDt3JUn3-2L-hDu2w8|A2213|Lester Young with the Oscar Peterson Trio|Lester Young|Swing;Jazz",
 "Scritti Politti|Cupid & Psyche 85|1985|OLAK5uy_mPSpdzRuFhnoTnWnms-4PmHTG_YrqeAwQ|A659|Cupid & Psyche 85|Scritti Politti|Sophisti-Pop;Synthpop;Electronic;Pop",
 "You Am I|Hi Fi Way|1995|OLAK5uy_l2rrsRjdsTwZ1y1VXiAe6sUPZ689WWpKg|A3359|Hi Fi Way|You Am I|Power Pop;Pop;Pop Rock;Rock",
 "Jimmy Giuffre 3|Fusion|1961|PLx_OwX8qVcou6SrgLDTEQfGKy-pU2MUIK|A1902|Fusion (Jimmy Giuffre 3 album)|Jimmy Giuffre|Cool Jazz;Third Stream;Jazz",
