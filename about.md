@@ -33,6 +33,7 @@ I hope you have a good time here. Thanks for dropping by.
     <ul>
         <li>Only invest in stocks or bonds. Real estate <sup>[1]</sup>, gold, <a href="https://www.stephendiehl.com/blog.html">Bitcoin</a>, etc. are all scams long-term.</li>
         <li>Insider trading is <a href="https://www.capitoltrades.com/">rampant</a>. Never buy individual stocks. Only index funds like <a href="https://investor.vanguard.com/investment-products/etfs/profile/voo#overview">VOO</a>.</li>
+        <li>The best companies remain private. Public companies focus on nothing but the next quarter to appease shareholders. So any individual stock you buy is likely a long-term loser.</li>
         <li>Check if <a href="https://fred.stlouisfed.org/series/MORTGAGE30US">interest rates</a> are at long-term highs or lows. If low, dollar-cost average into VOO <sup>[2]</sup>. When high (like present), cash out and buy <a href="https://client.schwab.com/Areas/Trade/FixedIncomeSearch/FISearch.aspx/TreasuryAuctions">T-Bills</a> for a 5-6% annual return.</li>
         <li>As a rule, never enter a position unless you're comfortable holding it for at least a year.</li>
         <li>Keep in mind that stock market returns from 1971 to 2018 were predicated on globalization and good relations with China. Post-Trump, this may no longer be possible.</li>
