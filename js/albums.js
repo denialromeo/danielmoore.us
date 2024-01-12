@@ -2458,7 +2458,7 @@ const albums = [
 "Franz Ferdinand|You Could Have It So Much Better|2005|OLAK5uy_ks0MJ1hNnGzboxRPFkJDmCvNmTOS96_bQ|A4195|You Could Have It So Much Better|Franz Ferdinand (band)|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock",
 "Akufen|My Way|2002|PL3iCnWmU-tOIm50ASTGdfesAJ63f2T2MO|A4946|My Way (Akufen album)|Akufen|Microhouse;Tech House;Dance;Electronic;Electronic Dance Music;House;Techno",
 "Gomez|Bring It On|1998|OLAK5uy_mngBydgkJIIYr_d_VvtmROCTWXyB3m7BI|A1025|Bring It On (Gomez album)|Gomez (band)|Indie Rock;Alternative Rock;Rock",
-"The Go-Betweens|Before Hollywood|1983|PLy4u88AKUauK8wOQhIn2roP0-Tl84BeUJ|A1690|Before Hollywood|The Go-Betweens|Indie Pop;Jangle Pop;Post-Punk;Alternative Rock;Pop;Pop Rock;Rock",
+"The Go-Betweens|Before Hollywood|1983|OLAK5uy_lLVex-FJyfEgEUU9HYIuJqotLPN8WSOzE|A1690|Before Hollywood|The Go-Betweens|Indie Pop;Jangle Pop;Post-Punk;Alternative Rock;Pop;Pop Rock;Rock",
 "Spiritualized|Let It Come Down|2001|OLAK5uy_lSbyADTVqqxoGBMAxqn8TFpiwzTkV_sP0|A1200|Let It Come Down (Spiritualized album)|Spiritualized|Neo-Psychedelia;Psychedelic Rock;Rock",
 "Wilco|The Whole Love|2011|OLAK5uy_np25lwGsW6YY_TYYTI52hVnRdwZiojPMM|A5182|The Whole Love|Wilco|Indie Rock;Alternative Rock;Rock",
 "John Coltrane|Meditations|1966|OLAK5uy_krwq5cKtkCVdD3rrDjvwbGHqNU_zeqEqI|A1966|Meditations (John Coltrane album)|John Coltrane|Free Jazz;Avant-Garde Jazz;Jazz",
