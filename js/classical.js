@@ -213,7 +213,7 @@ const classical = [
 "Ludwig van Beethoven|Fidelio|1814|sm7hGCSkhTE|Ludwig van Beethoven|Fidelio",
 "Franz Schubert|Lieder|1814-1828|fYiw37hpZtY|Franz Schubert|",
 "Ludwig van Beethoven|Cello Sonatas, Op. 102|1815|nUFGQqzznkM|Ludwig van Beethoven|Cello Sonatas Nos. 4 and 5 (Beethoven)",
-"Nicolò Paganini|Violin Concertos nos. 1-6|1815-1830|7AfxA17L8bg|Niccolò Paganini|Violin Concerto No. 1 (Paganini)",
+"Nicolò Paganini|Violin Concertos nos. 1-6|1815-1830|OLAK5uy_kd-Lb1LH0hUtj_i75jeuu0phvBktV-3dg|Niccolò Paganini|Violin Concerto No. 1 (Paganini)",
 "Gioachino Rossini|The Barber of Seville|1816|gDbBhzIcYj4|Gioachino Rossini|The Barber of Seville",
 "Franz Schubert|Symphony No. 5|1816|OHkot1TmvZU|Franz Schubert|Symphony No. 5 (Schubert)",
 "Nicolò Paganini|Twenty-four Caprices|1817|WMLoBXgPil8|Niccolò Paganini|24 Caprices for Solo Violin (Paganini)",
