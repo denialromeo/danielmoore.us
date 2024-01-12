@@ -2858,7 +2858,7 @@ const albums = [
 "Charles Mingus|Oh Yeah|1962|OLAK5uy_mG1casFMlkbr7DaVgs4vMjoX5Wuyuo0Yw|A1905|Oh Yeah (Charles Mingus album)|Charles Mingus|Post-Bop;Bebop;Jazz",
 "The Divine Comedy|Liberation|1993|OLAK5uy_mrlflgvCgkg6K-YsWS6MqWjNPvIROAYZA|A3467|Liberation (The Divine Comedy album)|The Divine Comedy (band)|Chamber Pop;Baroque Pop;Indie Pop;Pop",
 "Dizzy Gillespie with Roy Eldridge|Roy and Diz #2|1954|OLAK5uy_k9CAaaDZGL8Q-u6_E041t7n_LisXEFNxQ|A2251|Roy and Diz|Dizzy Gillespie|Jazz",
-"Matching Mole|Matching Mole|1972|PL07C366E19439D057|A1370|Matching Mole (album)|Matching Mole|Canterbury Scene;Progressive Rock;Rock",
+"Matching Mole|Matching Mole|1972|PLemSNLmBjkJ7VUqGT-ehQhCqpyNQ9oNc4|A1370|Matching Mole (album)|Matching Mole|Canterbury Scene;Progressive Rock;Rock",
 "Colin Blunstone|One Year|1971|OLAK5uy_l8ksiDPV7-uuQ-N-n3Q-z5yfi9WxJCpZs|A4510|One Year|Colin Blunstone|Baroque Pop;Singer/Songwriter;Pop",
 "Lee Konitz|Motion|1961|PLLh_UKQFKe9Fe056ZVtEo6aD_cf18c_3H|A2313|Motion (Lee Konitz album)|Lee Konitz|Cool Jazz;Jazz",
 "Los Lobos|By the Light of the Moon|1987|OLAK5uy_kdiS_8TqiJV4_0iI0lkRZUm_IWjB6TUmU|A719|By the Light of the Moon (album)|Los Lobos|Americana;Tex-Mex;Country;Rock;Roots Rock",
