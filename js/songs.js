@@ -3016,7 +3016,7 @@ const songs = [
 "The Rolling Stones|Time Is on My Side|1964|_oSRvcdlgSI|The Rolling Stones|S1045|British Rhythm & Blues;R&B;Rhythm & Blues;Rock|Time Is on My Side",
 "Janelle Monáe|Cold War|2010|lqmORiHNtN4|Janelle Monáe|S4907|Art Pop;Contemporary R&B;Pop;R&B|Tightrope (Janelle Monáe song)",
 "The Kinks|Tired of Waiting for You|1965|UbVEdAaC7L4|The Kinks|S2829|Beat Music;Mod;Pop;Pop Rock;Rock|Tired of Waiting for You",
-"LCD Soundsystem|North American Scum|2007|Jmm14g4cAFc|LCD Soundsystem|S4283|Dance-Punk;Indietronica;Electronic;Post-Punk;Rock|North American Scum",
+"LCD Soundsystem|North American Scum|2007|gJ2np7R-Uwg|LCD Soundsystem|S4283|Dance-Punk;Indietronica;Electronic;Post-Punk;Rock|North American Scum",
 "Luomo|Tessio|2000|eZ8CpUYm470|Vladislav Delay|S4624|Deep House;Microhouse;Dance;Electronic;Electronic Dance Music;House|",
 "Nick Cave & The Bad Seeds|Jesus Alone|2016|9iGxoJnygW8|Nick Cave and the Bad Seeds|S16157|Art Rock;Singer/Songwriter;Rock|",
 "U2|Vertigo|2004|98W9QuMq-2k|U2|S2464|Alternative Rock;Pop Rock;Pop;Rock|Vertigo (U2 song)",
