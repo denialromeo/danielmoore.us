@@ -9418,7 +9418,7 @@ const songs = [
 "Placebo|Teenage Angst|1996|Fx5bfLI5slU|Placebo (band)|S7975|Alternative Rock;Rock|Teenage Angst (song)",
 "Tirzah|Holding On|2018|zexqEPvCZk8|Tirzah (musician)|S16648|Alternative R&B;Art Pop;Contemporary R&B;Pop;R&B|",
 "Sam & Dave|You Don't Know Like I Know|1966|eB_gwY02724|Sam & Dave|S3793|Southern Soul;R&B;Soul|You Oughta Know",
-"Pavement|Trigger Cut/Wounded-Kite At :17|1992|Lcrp3mGV_eg|Pavement (band)|S7907|Indie Rock;Alternative Rock;Rock|Slanted and Enchanted",
+"Pavement|Trigger Cut/Wounded-Kite At :17|1992|Lcrp3mGV_eg|Pavement (band)|S7907|Indie Rock;Alternative Rock;Rock|",
 "Depeche Mode|Freelove|2001|xZ3nJ6KhWOo|Depeche Mode|S6046|Synthpop;Electronic;Pop|",
 "Caesars Palace|Jerk It Out|2002|w869Avr_fXI|Caesars (band)|S5691|Indie Pop;Pop|Jerk It Out",
 "MC Solaar|Bouge de là|1990|MNYsmMDZfiA|MC Solaar|S11588|French Hip Hop;Hip Hop|",
