@@ -175,7 +175,7 @@ const classical = [
 "Luigi Cherubini|Médée|1796|fW-gtPnslo8|Luigi Cherubini|Médée (Cherubini)",
 "Joseph Haydn|Trumpet Concerto|1797|ZUZYoVw7moc|Joseph Haydn|Trumpet Concerto (Haydn)",
 "Joseph Haydn|String Quartets, Op. 76|1797|k5IR5Wt0yEw|Joseph Haydn|String Quartets, Op. 76 (Haydn)",
-"Ludwig van Beethoven|Piano Sonata in C minor, Op. 13, “Pathétique”|1798|91MTUXla-lE|Ludwig van Beethoven|Piano Sonata No. 8 (Beethoven)",
+"Ludwig van Beethoven|Sonata Pathétique|1798|XuldgIR02dY|Ludwig van Beethoven|Piano Sonata No. 8 (Beethoven)",
 "Joseph Haydn|Mass in D minor, “Nelson”|1798|7EiefC0eesc|Joseph Haydn|",
 "Joseph Haydn|The Creation|1798|EuIs7R2BpvQ|Joseph Haydn|The Creation (Haydn)",
 "John Field|Piano Concertos|1799-1832|KRZuxaKlXkg|John Field (composer)|Piano Concerto No. 2 (Field)",
