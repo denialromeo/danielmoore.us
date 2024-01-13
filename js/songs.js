@@ -4023,7 +4023,7 @@ const songs = [
 "Tex Williams & His Western Caravan|Smoke! Smoke! Smoke! (That Cigarette)|1947|65_-vNtWLLs|Tex Williams|S8727|Novelty;Talking Blues;Western Swing;American Folk Music;Country;Descriptor;Folk;Regional Music;Traditional Folk Music|Smoke! Smoke! Smoke! (That Cigarette)",
 "Joey Dee|Peppermint Twist|1961|7WIvZu4dPQQ|Joey Dee and the Starliters|S4387|Rhythm & Blues;Rock & Roll;R&B;Rock|Peppermint Twist",
 "Brothers Johnson|Strawberry Letter 23|1977|mXpAzy0WVPg|The Brothers Johnson|S10302|Funk;Soul;R&B|Strawberry Letter 23",
-"Teenage Fanclub|Star Sign|1991|YHfasfkX8MM|Teenage Fanclub|S189|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|",
+"Teenage Fanclub|Star Sign|1991|xw49UgKoZnQ|Teenage Fanclub|S189|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|",
 "Art Tatum|Tea for Two|1939|btJWbMXTx2U|Art Tatum|S2749|Stride;American Folk Music;Folk;Jazz;Ragtime;Regional Music;Traditional Folk Music|Tea for Two (song)",
 "Bing Crosby|I'll Be Seeing You|1944|1ld7pkvZPQk|Bing Crosby|S5467|Traditional Pop;Pop|I'll Be Seeing You (song)",
 "I-F|Space Invaders Are Smoking Grass|1997|tIAZTV_sYtk|I-F|S30|Electro;Electroclash;Dance;Electronic;Electronic Dance Music|",
