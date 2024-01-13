@@ -1957,7 +1957,7 @@ const songs = [
 "Whitney|No Woman|2016|CGKN6qiDqnk|Whitney (band)|S16214|Chamber Folk;Indie Folk;Contemporary Folk;Folk|",
 "Yes|Owner of a Lonely Heart|1983|SVOuYquXuuc|Yes (band)|S1892|AOR;Pop Rock;Pop;Rock|Owner of a Lonely Heart",
 "The Champs|Tequila|1958|U_JFLb1IItM|The Champs|S1227|Rock & Roll;Rock|Tequila (The Champs song)",
-"John Prine|Sam Stone|1971|Sl9ZkYViEIs|John Prine|S3732|Contemporary Folk;Country;Singer/Songwriter;Folk|Sam Stone (song)",
+"John Prine|Sam Stone|1971|OLVWEYUqGew|John Prine|S3732|Contemporary Folk;Country;Singer/Songwriter;Folk|Sam Stone (song)",
 "T. Rex|Metal Guru|1972|tUqAGoPtfto|T. Rex (band)|S8664|Glam Rock;Rock|Metal Guru",
 "Pixies|Here Comes Your Man|1989|tPgf_btTFlc|Pixies (band)|S3708|Indie Rock;Alternative Rock;Rock|Here Comes Your Man",
 "Cream|Badge|1969|0FGxH50WS7Q|Cream (band)|S3306|Blues Rock;Pop Rock;Pop;Rock|Badge (song)",
