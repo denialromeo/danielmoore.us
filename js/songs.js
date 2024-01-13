@@ -979,7 +979,7 @@ const songs = [
 "Robert Wyatt|Sea Song|1974|8Co0_BZiLdg|Robert Wyatt|S1758|Art Rock;Canterbury Scene;Singer/Songwriter;Progressive Rock;Rock|",
 "The Crystals|Then He Kissed Me|1963|MSkum4B162M|The Crystals|S2409|Brill Building;Girl Group;Pop|Then He Kissed Me",
 "Joni Mitchell|Help Me|1974|Q4oY8ojxp_8|Joni Mitchell|S739|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Help Me (Joni Mitchell song)",
-"Cream|White Room|1968|V5BF1V1pbTs|Cream (band)|S2418|Acid Rock;Psychedelic Rock;Rock|White Room",
+"Cream|White Room|1968|gXUHb_l-1HU|Cream (band)|S2418|Acid Rock;Psychedelic Rock;Rock|White Room",
 "Tina Turner|What's Love Got to Do with It|1984|oGpFcHTxjZs|Tina Turner|S430|Adult Contemporary;Pop Soul;Pop;R&B;Soul|What's Love Got to Do with It (song)",
 "ABBA|The Winner Takes It All|1980|iyIOl-s7JTU|ABBA|S554|Europop;Pop|The Winner Takes It All",
 "The Supremes|Baby Love|1964|9_y6nFjoVp4|Diana Ross|S1034|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|Baby Love",
