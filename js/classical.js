@@ -571,7 +571,7 @@ const classical = [
 "Frederick Delius|Brigg Fair|1907|Z_JUKXwHZz4|Frederick Delius|Brigg Fair",
 "Gustav Mahler|Symphony No. 8|1907|nxf3xtH31jA|Gustav Mahler|Symphony No. 8 (Mahler)",
 "Sergei Rachmaninoff|Symphony No. 2|1907|SvuitFzDxDg|Sergei Rachmaninoff|Symphony No. 2 (Rachmaninoff)",
-"Nicolai Rimsky-Korsakov|The Golden Cockerel Suite|1907|484zNF-MpQo|Nikolai Rimsky-Korsakov|",
+"Nicolai Rimsky-Korsakov|The Golden Cockerel Suite|1907|484zNF-MpQo|Nikolai Rimsky-Korsakov|The Golden Cockerel",
 "Edward Elgar|Symphony No. 1|1908|6SX9m2V9mbM|Edward Elgar|Symphony No. 1 (Elgar)",
 "Maurice Ravel|Gaspard de la nuit|1908|f39a8rhk8mI|Maurice Ravel|Gaspard de la nuit",
 "Isaac Albéniz|Iberia|1908|R13GcRQSPxU|Isaac Albéniz|Iberia (Albéniz)",
