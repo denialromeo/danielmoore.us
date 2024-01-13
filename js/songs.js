@@ -7860,7 +7860,7 @@ const songs = [
 "Ghostface Killah|Shakey Dog|2006|s8n7nYA8CIM|Ghostface Killah|S10936|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "Little Simz|101 FM|2018|Qqmv4daiBZg|Little Simz|S16822|UK Hip Hop;Hip Hop|",
 "The Good, the Bad and the Queen|Herculean|2006|iSj0dkqBiWc|The Good, the Bad & the Queen|S6611|Dream Pop;Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|",
-"Clap Your Hands Say Yeah|Upon This Tidal Wave of Young Blood|2005|mzHo2ji_U-A|Clap Your Hands Say Yeah|S5820|Indie Pop;New Wave;Pop;Rock|",
+"Clap Your Hands Say Yeah|Upon This Tidal Wave of Young Blood|2005|YL4AakRygU8|Clap Your Hands Say Yeah|S5820|Indie Pop;New Wave;Pop;Rock|",
 "The Slits|Shoplifting|1979|Xz6EZlGMxXY|The Slits|S8454|Art Punk;Post-Punk;Punk Rock;Rock|Palmolive (musician)",
 "Zara Larsson|Lush Life|2015|tD4HCZe-tew|Zara Larsson|S16954|Dance-Pop;Electropop;Dance;Electronic;Pop|Lush Life (Zara Larsson song)",
 "Matias Aguayo|Minimal|2008|CsjwT0X2-e8|https://de.wikipedia.org/wiki/Matias_Aguayo|S7471|Microhouse;Dance;Electronic;Electronic Dance Music;House|Gloss Drop",
