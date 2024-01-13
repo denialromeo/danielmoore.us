@@ -1677,7 +1677,7 @@ const albums = [
 "Black Sabbath|Heaven and Hell|1980|OLAK5uy_ntUL0EtULe_HmXHacRIaRd8nvMIiJ6FRQ|A2758|Heaven and Hell (Black Sabbath album)|Black Sabbath|Hard Rock;Heavy Metal;Metal;Rock",
 "Van Morrison & The Chieftains|Irish Heartbeat|1988|OLAK5uy_m76I_gurxvPyoO5X76P6QJ1pv_F4hlCp4|A736|Irish Heartbeat|The Chieftains|Celtic Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music",
 "Dennis Wilson|Pacific Ocean Blue|1977|OLAK5uy_klPsmD5kh6iWwKvrExqaWMvce6Hg9n2RI|A2744|Pacific Ocean Blue|Dennis Wilson|Pop Rock;Singer/Songwriter;Pop;Rock",
-"McCoy Tyner|The Real McCoy|1967|OLAK5uy_nWXm4PZn0z31VXBsGYON-CMQYaFU4Pp8k|A1979|The Real McCoy (album)|McCoy Tyner|Post-Bop;Bebop;Jazz",
+"McCoy Tyner|The Real McCoy|1967|OLAK5uy_nWXm4PZn0z31VXBsGYON-CMQYaFU4Pp8k|A1979|The Real McCoy (McCoy Tyner album)|McCoy Tyner|Post-Bop;Bebop;Jazz",
 "Jack White|Blunderbuss|2012|OLAK5uy_lyP7d87YKODkCmVIyEM8FA0UnfvNebX6k|A5249|Blunderbuss (album)|Jack White|Blues Rock;Garage Rock Revival;Singer/Songwriter;Garage Rock;Rock",
 "Buddy Holly|Buddy Holly|1958|OLAK5uy_nJC8Cy256oJhnvMFlBA_o_RbPAifBSl2w|A1223|Buddy Holly (album)|Buddy Holly|Rockabilly;Rock;Rock & Roll",
 "Ennio Morricone|Once Upon a Time in the West|1968|OLAK5uy_nBrim5tkGfSCP-IDeYBpxhAMTbuqUxUxo|A3279|Once Upon a Time in the West (soundtrack)|Ennio Morricone|Film Score;Spaghetti Western;Cinematic Classical;Classical Music;Descriptor;Film Soundtrack;Soundtracks",
