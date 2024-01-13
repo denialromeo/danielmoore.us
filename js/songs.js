@@ -1077,7 +1077,7 @@ const songs = [
 "Portishead|The Rip|2008|kBOaLjtR4mw|Portishead (band)|S4742|Folktronica;Electronic|The Rip (song)",
 "Rae Sremmurd feat. Gucci Mane|Black Beatles|2016|b8m9zhNAgKs|Rae Sremmurd|S16172|Pop Rap;Southern Hip Hop;Hip Hop|Black Beatles",
 "Dizzy Gillespie|Manteca|1947|A5tRGMHfKrE|Dizzy Gillespie|S2687|Afro-Cuban Jazz;Big Band;Hispanic Music;Jazz;Latin American Music;Latin Jazz;Regional Music|",
-"Gene Chandler|Duke of Earl|1962|AkwM3GLW8BQ|Gene Chandler|S1087|Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|",
+"Gene Chandler|Duke of Earl|1962|AkwM3GLW8BQ|Gene Chandler|S1087|Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|Duke of Earl",
 "Four Tops|I Can't Help Myself|1965|qXavZYeXEc0|Four Tops|S1542|Motown Sound;Pop;Pop Soul;R&B;Soul|I Can't Help Myself (Sugar Pie Honey Bunch)",
 "The Beach Boys|In My Room|1963|5a4YupnT1sM?start=867|The Beach Boys|S1068|Traditional Pop;Vocal Group;Descriptor;Pop|In My Room",
 "Bikini Kill|Rebel Girl|1993|L0oeqAQ1qE8|Bikini Kill|S1536|Riot Grrrl;Punk Rock;Rock|Rebel Girl (Bikini Kill song)",
