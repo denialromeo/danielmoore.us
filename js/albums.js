@@ -975,7 +975,7 @@ const albums = [
 "Willie Nelson|Stardust|1978|OLAK5uy_krDD7M2zt0dvgCu7RtuLn2VVoliugldcE|A1161|Stardust (Willie Nelson album)|Willie Nelson|Standards;Pop;Traditional Pop",
 "Kanye West|808s & Heartbreak|2008|OLAK5uy_nhrmFsJ8c44jdVUkW4oFRSv_ScIeUqSyw|A4390|808s & Heartbreak|Kanye West|Electropop;Synthpop;Electronic;Pop",
 "Cowboy Junkies|The Trinity Session|1988|OLAK5uy_n2rZZpCKfbh-5QS-A3b3WzjfpEFeOjxJ0|A750|The Trinity Session|Cowboy Junkies|Alt-Country;Contemporary Folk;Country;Folk",
-"Andrew Hill|Point of Departure|1965|PLUJ7V33M1wR0HsYG3F_VGMso2liyvsJ7r|A1944|Point of Departure (Andrew Hill album)|Andrew Hill (jazz musician)|Avant-Garde Jazz;Jazz",
+"Andrew Hill|Point of Departure|1965|PLBJenJIJrq0xrsEt-57PmtAeHZIs_ZP7Q|A1944|Point of Departure (Andrew Hill album)|Andrew Hill (jazz musician)|Avant-Garde Jazz;Jazz",
 "Godspeed You! Black Emperor|F♯ A♯ ∞|1997|OLAK5uy_leNpfjYgnSp8bhkVTYkCFsuMB4cd3k3-M|A3668|F%E2%99%AF_A%E2%99%AF_%E2%88%9E|Godspeed You! Black Emperor|Post-Rock;Rock",
 "Blumfeld|L'Etat Et Moi|1994|OLAK5uy_llGRtGq4m75tjqoYK-RE1u0BLI8CN0T4E|A3539|L'Etat Et Moi|Blumfeld|Indie Rock;Alternative Rock;Rock",
 "Fehlfarben|Monarchie und Alltag|1980|OLAK5uy_lz5Q6mivIsOcQnHJ_KEseOiHvu7cCZTok|A2818|Monarchie und Alltag|Fehlfarben|Neue Deutsche Welle;Post-Punk;Rock",
