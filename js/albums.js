@@ -1399,7 +1399,7 @@ const albums = [
 "Tocotronic|Digital Ist Besser|1995|OLAK5uy_kZWW4PzHmIRRnLX8QHuIPzH_fqkFSI7JY|A3581|https://de.wikipedia.org/wiki/Digital_ist_besser|Tocotronic|Indie Rock;Noise Pop;Alternative Rock;Rock",
 "Laura Nyro|New York Tendaberry|1969|OLAK5uy_n442Yyu5QfmBYT_3pXlQzLsFeDxb46gFE|A1124|New York Tendaberry|Laura Nyro|Pop Soul;Singer/Songwriter;Pop;R&B;Soul",
 "Bruce Springsteen|Live 1975-1985|1986|OLAK5uy_mrHx1dve8r_KqMzbDiKhgcMG0DUjSOcb4|A688|Live 1975–85|Bruce Springsteen|Heartland Rock;Rock",
-"Upsetters|Blackboard Jungle Dub|1973|PLCB91157881160643|A2495|Upsetters 14 Dub Blackboard Jungle|The Upsetters|Dub;Caribbean Music;Jamaican Music;Reggae;Regional Music",
+"Upsetters|Blackboard Jungle Dub|1973|PLzWm0rO03K_g2IVQutmuHeERtS_lwovfN|A2495|Upsetters 14 Dub Blackboard Jungle|The Upsetters|Dub;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Cypress Hill|Black Sunday|1993|OLAK5uy_loRybc1dq5NuQ8EGlress81ZXhWSI7td0|A886|Black Sunday (Cypress Hill album)|Cypress Hill|Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Eagles|Desperado|1973|OLAK5uy_mpfl_Yq5rQAtP6Ro3qIc6bcJRZbx2eHH4|A295|Desperado (Eagles album)|Eagles (band)|Country Rock;Rock",
 "Yes|The Yes Album|1971|OLAK5uy_nY-QvLEUh8bovdW1btwUXJHE8I_W5bIbA|A232|The Yes Album|Yes (band)|Progressive Rock;Rock",
