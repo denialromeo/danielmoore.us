@@ -5902,7 +5902,7 @@ const songs = [
 "Animal Collective|For Reverend Green|2007|Vc2Av1dY1p4|Animal Collective|S5199|Art Pop;Neo-Psychedelia;Pop;Psychedelic Rock;Rock|",
 "The Vines|Highly Evolved|2002|ppJAAC69uE8|The Vines (band)|S1527|Garage Rock Revival;Grunge;Alternative Rock;Garage Rock;Rock|",
 "Tom Waits|Hell Broke Luce|2011|0Fju9o8BVJ8|Tom Waits|S12458|Experimental Rock;Rock|",
-"Bad Company|Ready For Love|1974|nbqjBpNT1sc|Bad Company|S10064|Blues Rock;Rock|Ready for Love (Mott the Hoople song)",
+"Bad Company|Ready For Love|1974|ZUzZvaMYL60|Bad Company|S10064|Blues Rock;Rock|Ready for Love (Mott the Hoople song)",
 "A-ha|The Sun Always Shines on TV|1985|a3ir9HC9vYg|A-ha|S5117|Synthpop;Electronic;Pop|The Sun Always Shines on T.V.",
 "Caetano Veloso|Tropicália|1968|9754NizSyIA|Caetano Veloso|S12697|Tropicália;Brazilian Music;MPB;Regional Music|",
 "Chicago|25 or 6 to 4|1970|7uAUoz7jimg|Chicago (band)|S5780|Jazz-Rock;Rock|25 or 6 to 4",
