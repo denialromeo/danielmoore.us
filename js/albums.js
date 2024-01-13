@@ -1057,7 +1057,7 @@ const albums = [
 "Echo and the Bunnymen|Crocodiles|1980|OLAK5uy_lkmH4WATdKYn6iLbcSoindzqG8osCIM5U|A494|Echo & the Bunnymen (album)|Echo & the Bunnymen|Post-Punk;Rock",
 "The O'Jays|Back Stabbers|1972|OLAK5uy_lVYwNxfOyqChwveT4W4Dm6jOsDt1AInj0|A256|Back Stabbers|The O'Jays|Philly Soul;R&B;Soul",
 "Sky Ferreira|Night Time, My Time|2013|OLAK5uy_lzYQwY1vV77sCpfwjrAVH9dsQHBwZw4j4|A5303|Night Time, My Time|Sky Ferreira|Synthpop;Electronic;Pop",
-"Fuck Buttons|Tarot Sport|2009|PLZqsyBiYZFQ3RVfQc09sDW-_QLg0ae7Cs|A4995|Tarot Sport|Fuck Buttons|Electronic;Neo-Psychedelia;Psychedelic Rock;Rock",
+"Fuck Buttons|Tarot Sport|2009|OLAK5uy_mwIazFeT0XEgLiEbokR4wFYZCQ3S8eXLk|A4995|Tarot Sport|Fuck Buttons|Electronic;Neo-Psychedelia;Psychedelic Rock;Rock",
 "New York Dolls|Too Much Too Soon|1974|OLAK5uy_kJIcM27EZ_Y-yc9jG6lxS-IAHxSi9qIqQ|A312|Too Much Too Soon (album)|New York Dolls|Glam Rock;Proto-Punk;Rock",
 "Built to Spill|There's Nothing Wrong with Love|1994|OLAK5uy_mAbV8J0oKuXhDpu-qmZPSRr1NbcGNwrqE|A1600|There's Nothing Wrong with Love|Built to Spill|Indie Rock;Alternative Rock;Rock",
 "The Upsetters|Super Ape|1976|OLAK5uy_kDxfQ_PKmxA3dE0Kq46v-rBjB-1IFrAgY|A2624|Super Ape|The Upsetters|Dub;Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
