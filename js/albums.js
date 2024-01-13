@@ -2026,7 +2026,7 @@ const albums = [
 "Tom Waits|Orphans: Brawlers, Bawlers & Bastards|2006|OLAK5uy_nfeY4H-hcVzvM7QjwZn30oX5vHYQ-1aDE|A3100|Orphans: Brawlers, Bawlers & Bastards|Tom Waits|Blues Rock;Folk Rock;Singer/Songwriter;Rock",
 "Band of Horses|Everything All the Time|2006|OLAK5uy_lyA8m62F0QCMQWvYo2BeDyuVedd_dLOKc|A2112|Everything All the Time|Band of Horses|Indie Rock;Alternative Rock;Rock",
 "Lou Reed|The Blue Mask|1982|OLAK5uy_nuArZQbEsQuppPxNOetYsuzCxijTtj97Y|A556|The Blue Mask|Lou Reed|Rock;Singer/Songwriter",
-"Nina Simone|Wild Is the Wind|1966|PLowQCq3Ss89hAlXlLvF_foMWR0nGW3-98|A2365|Wild Is the Wind (album)|Nina Simone|Soul;Vocal Jazz;Jazz;R&B",
+"Nina Simone|Wild Is the Wind|1966|PLL-NbN8uTOiheddeLpYwg5NULNUOXd_Qv|A2365|Wild Is the Wind (album)|Nina Simone|Soul;Vocal Jazz;Jazz;R&B",
 "Ornette Coleman|Something Else!!!!|1958|OLAK5uy_nKXymO37nwtG8vuhVasY9dUsRJMC0qaDA|A1837|Something Else!!!!|Ornette Coleman|Hard Bop;Bebop;Jazz",
 "Primal Scream|Vanishing Point|1997|OLAK5uy_mASYKbUpLCEPb7sB3SAnNEP-bAMQaVZCU|A994|Vanishing Point (Primal Scream album)|Primal Scream|Alternative Dance;Alternative Rock;Dance;Rock",
 "Unwound|Leaves Turn Inside You|2001|OLAK5uy_liDS71z72X4Grx_xhrV0RaZsMfMMVJa7s|A1753|Leaves Turn Inside You|Unwound|Indie Rock;Post-Hardcore;Alternative Rock;Punk Rock;Rock",
