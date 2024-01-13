@@ -4678,7 +4678,7 @@ const songs = [
 "Mick Jagger|Memo from Turner|1970|lP0zsWupANs|Mick Jagger|S2992|Blues Rock;Film Soundtrack;Descriptor;Rock;Soundtracks|",
 "Flamin' Groovies|Slow Death|1972|QU91FmqJZ6w|Flamin' Groovies|S6382|Garage Rock;Proto-Punk;Rock|",
 "Tove Lo|Habits (Stay High)|2014|oh2LWWORoiM|Tove Lo|S9642|Chillstep;Downtempo;Electropop;Dance;Dubstep;Electronic;Electronic Dance Music;Pop|Habits (Stay High)",
-"Carpenters|Yesterday Once More|1973|ywB8vjMnoEw|The Carpenters|S9179|Pop|Yesterday Once More (song)",
+"Carpenters|Yesterday Once More|1973|_CXU6Q4gMeo|The Carpenters|S9179|Pop|Yesterday Once More (song)",
 "Janet Jackson|The Pleasure Principle|1986|Q-gu1KETjVY|Janet Jackson|S6863|Contemporary R&B;Freestyle;Synth Funk;Dance;Dance-Pop;Electronic;Electronic Dance Music;Funk;Pop;R&B|The Pleasure Principle (song)",
 "Muse|Time Is Running Out|2003|O2IuJPh6h_A|Muse (band)|S7646|Alternative Rock;Rock|Time Is Running Out (Muse song)",
 "Shaggy|Boombastic|1995|6W5pq4bIzIw|Shaggy (musician)|S4227|Dancehall;Caribbean Music;Jamaican Music;Regional Music|Boombastic (song)",
