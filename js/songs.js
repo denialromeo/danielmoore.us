@@ -2470,7 +2470,7 @@ const songs = [
 "Tricky|Aftermath|1994|25y3cMC9i94|Tricky (musician)|S105|Trip Hop;Downtempo;Electronic|",
 "Big Joe Williams|Baby Please Don't Go|1935|mwzbLyk3Dpw|Big Joe Williams|S3121|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Baby, Please Don't Go",
 "The Beatles|Back in the U.S.S.R.|1968|0ArlUSVDQIw|The Beatles|S2525|Rock|Back in the U.S.S.R.",
-"The Allman Brothers Band|Midnight Rider|1970|TCRS4DRmf_w|The Allman Brothers Band|S5172|Blues Rock;Country Rock;Southern Rock;Rock|Midnight Rider",
+"The Allman Brothers Band|Midnight Rider|1970|GyfD_jgxIuo|The Allman Brothers Band|S5172|Blues Rock;Country Rock;Southern Rock;Rock|Midnight Rider",
 "Weyes Blood|Movies|2019|RFtRq6t3jOo|Weyes Blood|S16893|Ambient Pop;Art Pop;Progressive Pop;Pop|",
 "Radiohead|Lucky|1995|eu5LGa028Wk|Radiohead|S4233|Alternative Rock;Art Rock;Rock|Lucky (Radiohead song)",
 "Arcade Fire|Afterlife|2013|EcKinnMXuKg|Arcade Fire|S9404|Alternative Dance;New Wave;Alternative Rock;Dance;Rock|Afterlife (Arcade Fire song)",
