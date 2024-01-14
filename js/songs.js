@@ -2531,7 +2531,7 @@ const songs = [
 "Louis Jordan|Let the Good Times Roll|1946|NiVnLYK48X4|Louis Jordan|S4360|Jump-Blues;Rhythm & Blues;Blues;R&B|Let the Good Times Roll (Louis Jordan song)",
 "Duffy|Mercy|2008|y7ZEVA5dy-Y|Duffy (singer)|S4714|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|Mercy (Duffy song)",
 "Nirvana|Drain You|1991|XIFUHzCUHrg|Kurt Cobain|S9308|Grunge;Alternative Rock;Rock|Drain You",
-"Pere Ubu|Final Solution|1976|VelS-YCtHV4|Pere Ubu|S1779|Art Punk;Art Rock;Post-Punk;Punk Rock;Rock|",
+"Pere Ubu|Final Solution|1976|PFbLZXq04jk|Pere Ubu|S1779|Art Punk;Art Rock;Post-Punk;Punk Rock;Rock|",
 "The Four Seasons|Sherry|1962|jMcWldfg28s|The Four Seasons (band)|S1091|Doo-Wop;Pop;Descriptor;R&B;Vocal Group|Sherry (song)",
 "Hole|Violet|1994|cH_rfGBwamc|Hole (band)|S4509|Grunge;Riot Grrrl;Alternative Rock;Punk Rock;Rock|Violet (Hole song)",
 "Mongo Santamaría|Watermelon Man|1963|zJuX-JJ8WF0|Mongo Santamaría|S2819|Afro-Cuban Jazz;Boogaloo;Hispanic Music;Jazz;Latin American Music;Latin Jazz;Regional Music|",
