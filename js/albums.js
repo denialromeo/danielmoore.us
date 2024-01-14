@@ -2701,7 +2701,7 @@ const albums = [
 "Emmylou Harris|Elite Hotel|1975|OLAK5uy_laKZTefAYApXTntzon2HXhUWQ233Gl3LA|A1412|Elite Hotel|Emmylou Harris|Country Rock;Progressive Country;Country;Rock",
 "Gillian Welch|Revival|1996|OLAK5uy_luAzD9AIA8w3R1g37IGqVsMVDOOJH-rEI|A3628|Revival (Gillian Welch album)|Gillian Welch|Americana;Contemporary Folk;Country;Folk",
 "Yeasayer|All Hour Cymbals|2007|OLAK5uy_kKaYz5WT0dfLGbab4AS4Ix9bd6qJzMrtQ|A4985|All Hour Cymbals|Yeasayer|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock",
-"Garth Brooks|No Fences|1990|PLEsJMCDS7LC-xMLQbOebtJVit13yUSicW|A3321|No Fences|Garth Brooks|Contemporary Country;Country Pop;Country;Pop",
+"Garth Brooks|No Fences|1990|PL8BoSR8p2Eo9ESRovF9JhWvz182lps_p-|A3321|No Fences|Garth Brooks|Contemporary Country;Country Pop;Country;Pop",
 "Bob Dylan|Tempest|2012|OLAK5uy_mfkPxdNYeHrh199TwgefR02Q9dtSHj0P0|A5210|Tempest (Bob Dylan album)|Bob Dylan|Singer/Songwriter",
 "The Raconteurs|Consolers of the Lonely|2008|OLAK5uy_l42hATJ5_tTv19ZwAYD5ZBMEsyTxqJLYM|A4372|Consolers of the Lonely|The Raconteurs|Alternative Rock;Garage Rock Revival;Garage Rock;Rock",
 "Plastikman|Musik|1994|OLAK5uy_ktstEtLEt9DfvxP7lrunkgwPZlllc9Jk8|A3523|Musik (album)|Richie Hawtin|Minimal Techno;Dance;Electronic;Electronic Dance Music;Techno",
