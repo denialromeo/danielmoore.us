@@ -760,7 +760,7 @@ const songs = [
 "Robert Johnson|Hellhound on My Trail|1937|OHAIgpih86E|Robert Johnson|S2709|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Hellhound on My Trail",
 "Duke Ellington|Take the \"A\" Train|1941|cb2w2m1JmCY|Duke Ellington|S2679|Big Band;Swing;Jazz|",
 "The Knack|My Sharona|1979|g1T71PGd-J0|The Knack|S583|New Wave;Power Pop;Pop;Pop Rock;Rock|My Sharona",
-"Nancy Sinatra|Some Velvet Morning|1967|j1sq_fdq_Ps|Nancy Sinatra|S1698|Baroque Pop;Psychedelic Pop;Pop|Some Velvet Morning",
+"Nancy Sinatra|Some Velvet Morning|1967|670YMraVnyk|Nancy Sinatra|S1698|Baroque Pop;Psychedelic Pop;Pop|Some Velvet Morning",
 "Elvis Costello|Watching the Detectives|1977|k1Qnt5bx1OI|Elvis Costello|S636|New Wave;Rock|Watching the Detectives (song)",
 "Everything But the Girl|Missing (Todd Terry Remix)|1995|IAkY5m00rpY|Everything but the Girl|S75|Dance-Pop;Deep House;Garage House;Dance;Electronic;Electronic Dance Music;House;Pop|Missing (Everything but the Girl song)",
 "Smokey Robinson and the Miracles|The Tears of a Clown|1967|4heHLbchPKk|The Miracles|S847|Motown Sound;Pop;Pop Soul;R&B;Soul|The Tears of a Clown",
