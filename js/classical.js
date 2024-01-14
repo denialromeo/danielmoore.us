@@ -477,7 +477,7 @@ const classical = [
 "Gabriel Fauré|Requiem|1890-1893|UnilUPXmipM|Gabriel Fauré|Requiem (Fauré)",
 "Pietro Mascagni|Cavalleria rusticana|1890|7OvsVSWB4TI|Pietro Mascagni|Cavalleria rusticana",
 "Pyotr Ilyich Tchaikovsky|The Queen of Spades|1890|aA3lTy7OMM8|Pyotr Ilyich Tchaikovsky|The Queen of Spades (opera)",
-"Claude Debussy|Fêtes galantes|1891-1904|A8sKNGCjC-w|Claude Debussy|Fêtes galantes (Debussy)",
+"Claude Debussy|Fêtes galantes|1891-1904|PL1X3qTzT40VlQEHfIEz4IitNMom8C4gIu|Claude Debussy|Fêtes galantes (Debussy)",
 "Jean Sibelius|Songs|1891-1917|DsLoe5LaKqU|Jean Sibelius|",
 "Johannes Brahms|Clarinet Quintet|1891|NijYtozUHaw|Johannes Brahms|Clarinet Quintet (Brahms)",
 "Ruggero Leoncavallo|Pagliacci|1892|JEcibYtcdZQ|Ruggero Leoncavallo|Pagliacci",
