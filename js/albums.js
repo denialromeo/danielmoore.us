@@ -860,7 +860,7 @@ const albums = [
 "Hot Chip|The Warning|2006|OLAK5uy_k3kDn3IlFJwoQkVI7L0cB4DZFHa3BnUhY|A2139|The Warning (Hot Chip album)|Hot Chip|Electropop;Indietronica;Electronic;Pop",
 "Lee Morgan|The Sidewinder|1964|PLMAB89BlQ_bnEB1BGBLghkty30mWcZtkv|A1935|The Sidewinder|Lee Morgan|Hard Bop;Bebop;Jazz",
 "Laura Nyro|Eli and the Thirteenth Confession|1968|OLAK5uy_ktrLGkubUR9f6Df4Rj7xit8n96O7EzJxs|A135|Eli and the Thirteenth Confession|Laura Nyro|Blue Eyed Soul;Pop Soul;Rhythm & Blues;Singer/Songwriter;Pop;R&B;Soul",
-"The Gun Club|Fire of Love|1981|PLX66jEixZe1zp0STnl6DKxf0o2njde9yB|A524|Fire of Love|The Gun Club|Psychobilly;Punk Blues;Punk Rock;Rock;Rock & Roll;Rockabilly",
+"The Gun Club|Fire of Love|1981|OLAK5uy_lLbIQzscZslE80jkhXbOXESYU_bQVeN_4|A524|Fire of Love|The Gun Club|Psychobilly;Punk Blues;Punk Rock;Rock;Rock & Roll;Rockabilly",
 "Bob Dylan|The Times They Are A-Changin'|1964|OLAK5uy_lcamEMu9kMlvUfqV5vCkFgZK3FcM5o7p4|A13|The Times They Are a-Changin' (Bob Dylan album)|Bob Dylan|Contemporary Folk;Singer/Songwriter;Folk",
 "Brian Eno|Ambient 1: Music for Airports|1978|OLAK5uy_mfRTetqFB_MtRhjeOxR5tp0uVfK1YH-Sw|A1163|Ambient 1: Music for Airports|Brian Eno|Ambient",
 "Cheap Trick|At Budokan|1978|OLAK5uy_mERbOTVsrlaD8NPr9tZu8EYhuiC72HPXw|A1246|Cheap Trick at Budokan|Cheap Trick|Hard Rock;Power Pop;Pop;Pop Rock;Rock",
