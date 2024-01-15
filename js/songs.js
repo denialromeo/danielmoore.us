@@ -4132,7 +4132,7 @@ const songs = [
 "The Decemberists|The Engine Driver|2005|6L7tep8HqKk|The Decemberists|S6008|Chamber Pop;Indie Folk;Baroque Pop;Contemporary Folk;Folk;Indie Pop;Pop|",
 "Arcade Fire|Neighborhood #2 (Laïka)|2004|siFsdInZqC0|Arcade Fire|S3050|Chamber Pop;Post-Punk Revival;Alternative Rock;Baroque Pop;Indie Pop;Indie Rock;Pop;Post-Punk;Rock|",
 "Bob Marley and the Wailers|Three Little Birds|1977|HNBCVM4KbUM|Bob Marley|S3601|Pop Reggae;Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
-"Daughter|Youth|2011|2QT5eGHCJdE|Daughter (band)|S10508|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|If You Leave (Daughter album)",
+"Daughter|Youth|2011|2QT5eGHCJdE|Daughter (band)|S10508|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|",
 "Daft Punk|Aerodynamic|2001|L93-7vRfxNs|Daft Punk|S9198|French House;Dance;Electronic;Electronic Dance Music;House|",
 "Christophe|Les Mots bleus|1974|xJq3g5jG8Vo?start=3|Christophe (singer)|S4426|Art Pop;Chanson;French Pop;Pop;Regional Music|",
 "The Harptones|A Sunday Kind of Love|1953|XNq4PP_tzm0|The Harptones|S3462|Doo-Wop;Descriptor;R&B;Vocal Group|A Sunday Kind of Love",
