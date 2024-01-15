@@ -2967,7 +2967,7 @@ const albums = [
 "Joe Lovano|Quartets: Live at the Village Vanguard|1995|PLfJndz0utgOOm0x7_fkaG_ACeP9oHD2OV|A3550|Quartets: Live at the Village Vanguard|Joe Lovano|Jazz",
 "Secos & Molhados|Secos & Molhados|1973|PL1X3qTzT40Vnx2NzmxGP2eZjgUjr9WRSO|A4548|Secos & Molhados (album)|Secos & Molhados|Art Pop;Folk Pop;Progressive Pop;Contemporary Folk;Folk;Pop",
 "Handsome Boy Modeling School|So... How's Your Girl?|1999|OLAK5uy_mLU81VARA_ud40V0Pd4pYWAix9SGr9f_o|A3760|So... How's Your Girl%3F|Handsome Boy Modeling School|Hip Hop",
-"Julie London|Julie Is Her Name|1955|PLJ-ViTZrvg2x3LP09xnCihYMYhzODayA-|A2198|Julie Is Her Name|Julie London|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
+"Julie London|Julie Is Her Name|1955|OLAK5uy_mySuTjPn3SxiJrI7UyuqK_O5n776w-7Zw|A2198|Julie Is Her Name|Julie London|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "Lightning Bolt|Wonderful Rainbow|2003|OLAK5uy_mYsiOlU_bWixdGhHL00xhZAErVf2cKh8Y|A2403|Wonderful Rainbow|Lightning Bolt (band)|Noise Rock;Rock",
 "Laura Marling|Once I Was an Eagle|2013|OLAK5uy_kp-k5y6339E5z7or-Sl1NQ7uHUvlWLdfo|A5339|Once I Was an Eagle|Laura Marling|Contemporary Folk;Singer/Songwriter;Folk",
 "Sun Ra and His Astro-Infinity Arkestra|Atlantis|1969|OLAK5uy_lpFVsMRcgea16CFDtYYutxNyzdAjI4TLc|A1993|Atlantis (Sun Ra album)|Sun Ra|Experimental Big Band;Free Jazz;Avant-Garde Jazz;Big Band;Jazz",
