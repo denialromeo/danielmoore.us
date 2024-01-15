@@ -2540,7 +2540,7 @@ const albums = [
 "Tom Waits|Alice|2002|OLAK5uy_nvWWEURYrY4StHAgMHS715a6KO7tQ6OgM|A1646|Alice (Tom Waits album)|Tom Waits|Singer/Songwriter",
 "Sonic Youth|Rather Ripped|2006|OLAK5uy_mZ49fiNbJSgP6AYciMjDcydsvcpOU7j-k|A2137|Rather Ripped|Sonic Youth|Indie Rock;Alternative Rock;Rock",
 "The Louvin Brothers|Tragic Songs of Life|1956|PL4BDCD82E321933A7|A2255|Tragic Songs of Life (The Louvin Brothers album)|The Louvin Brothers|Close Harmony;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music",
-"Guy|Guy|1988|PLcHqnUpNexymMP0bNVUJpyS_jAfAxFseE|A3224|Guy (album)|Guy (band)|New Jack Swing;Contemporary R&B;R&B",
+"Guy|Guy|1988|OLAK5uy_mf8L4SlvEzdKy7XAr0W9lA5jCwCuQ6FvY|A3224|Guy (album)|Guy (band)|New Jack Swing;Contemporary R&B;R&B",
 "Underworld|Beaucoup Fish|1999|OLAK5uy_kpz_avfVdfKaoUglk1onG3JkkkbZguH90|A1078|Beaucoup Fish|Underworld (band)|Progressive House;Techno;Dance;Electronic;Electronic Dance Music;House",
 "Nusrat Fateh Ali Khan|Devotional Songs|1992|PLDIxWXRU4UDqLEPDoVpBuo7EqkwfR1imX|A3498|Devotional Songs|Nusrat Fateh Ali Khan|Qawwali;Classical Music;Hindustani Classical Music;Regional Music;South Asian Classical Music;South Asian Music",
 "Parquet Courts|Human Performance|2016|OLAK5uy_n2cNhWC9TXofr-pZ_EFHkelX9uQ-B0wRY|A5791|Human Performance|Parquet Courts|Indie Rock;Alternative Rock;Rock",
