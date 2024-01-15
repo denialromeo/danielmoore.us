@@ -1074,7 +1074,7 @@ const albums = [
 "Warren Zevon|Warren Zevon|1976|OLAK5uy_lm6jMxTjuW-c256Ty7iLFQkP5LtDGwrTE|A378|Warren Zevon (album)|Warren Zevon|Singer/Songwriter",
 "Heartbreakers|L.A.M.F.|1977|OLAK5uy_mRJQp9Ryso7BF0hspcAQhfsVTbTiwSwqo|A1435|L.A.M.F.|The Heartbreakers|Punk Rock;Rock",
 "The Blue Nile|Hats|1989|OLAK5uy_mlzXNqjAUXkxoTyqJxKJYbCo0OgoVIw7Y|A761|Hats (album)|The Blue Nile|Sophisti-Pop;Pop",
-"David Bowie|Let's Dance|1983|PL6ogdCG3tAWg8XLQjzlspxWjKfsl-Jx-s|A578|Let's Dance (David Bowie album)|David Bowie|Dance-Pop;Pop Rock;Dance;Pop;Rock",
+"David Bowie|Let's Dance|1983|OLAK5uy_lwrQ0wVn-xMlPQuaYmOqBfUuoOqdCQcf0|A578|Let's Dance (David Bowie album)|David Bowie|Dance-Pop;Pop Rock;Dance;Pop;Rock",
 "...And You Will Know Us by the Trail of Dead|Source Tags & Codes|2002|OLAK5uy_kRt3JXawwjM3Ty4_ka3bv6HpjGUYHRZQo|A1641|Source Tags & Codes|...And You Will Know Us by the Trail of Dead|Indie Rock;Post-Hardcore;Alternative Rock;Punk Rock;Rock",
 "Built to Spill|Perfect from Now On|1997|OLAK5uy_kqMgVZbjwV3djVc7zPDO_be8_zv8CHSmA|A1619|Perfect from Now On|Built to Spill|Indie Rock;Alternative Rock;Rock",
 "Nick Cave and The Bad Seeds|Murder Ballads|1996|OLAK5uy_kWC77orBuAa5LXHBhsosgWlO0rKMaBo_Y|A974|Murder Ballads|Nick Cave and the Bad Seeds|Alternative Rock;Singer/Songwriter;Rock",
