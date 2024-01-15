@@ -2441,7 +2441,7 @@ const albums = [
 "slowthai|Nothing Great About Britain|2019|OLAK5uy_mi_7QrJGGA_BL3olWExaUJIZggOLrGdvQ|A6333|Nothing Great About Britain|Slowthai|UK Hip Hop;Hip Hop",
 "Popol Vuh|In den Gärten Pharaos|1971|OLAK5uy_l9h6CRK0nikdprQqHRYWw6y-mTuQ0IMcg|A2447|In den Gärten Pharaos|Popol Vuh (band)|Ambient;Krautrock;Experimental Rock;Progressive Rock;Rock",
 "Ry Cooder|Chavez Ravine|2005|OLAK5uy_kpJTFQ2gMvcsLYwV5Q2jR7pJnpgcoendA|A4208|Chávez Ravine (album)|Ry Cooder|Americana;Latin American Music;Country;Hispanic Music;Regional Music",
-"Thelonious Monk|Thelonious Monk Trio|1953|PLp1OjP0tJn_ECjFmCN0gE7zJtvCGJ3YeX|A2214|Thelonious Monk Trio|Thelonious Monk|Hard Bop;Bebop;Jazz",
+"Thelonious Monk|Thelonious Monk Trio|1953|OLAK5uy_kr99hXtYT3W8SsNQtbYVS0WmhtacOdZco|A2214|Thelonious Monk Trio|Thelonious Monk|Hard Bop;Bebop;Jazz",
 "Joe Henderson|Inner Urge|1966|OLAK5uy_lGoJGYkWLYHkul0FHBgPvl_TfjvD_tNd0|A1943|Inner Urge (Joe Henderson album)|Joe Henderson|Hard Bop;Bebop;Jazz",
 "Alvvays|Antisocialites|2017|OLAK5uy_ltdGfHFefC8feeaJTQfdSAvlnCSbe-wvY|A5851|Antisocialites|Alvvays|Dream Pop;Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "The Sabres of Paradise|Haunted Dancehall|1994|OLAK5uy_lmNFQkKSWCKkTTPOBULro9ESGXk0M751A|A3519|Haunted Dancehall|The Sabres of Paradise|Ambient;IDM;Electronic",
