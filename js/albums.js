@@ -1884,7 +1884,7 @@ const albums = [
 "Bob Marley and The Wailers|Babylon by Bus|1978|OLAK5uy_kH654kK_lRxjAN6_LQIhbtU8Ejxujx7ew|A1449|Babylon by Bus|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Art Ensemble of Chicago|Les Stances a Sophie|1970|PLnBVW9fKyNVT2gEDRqNAAWkWsGkJLxsDz|A2346|Les Stances a Sophie|Art Ensemble of Chicago|Avant-Garde Jazz;Film Soundtrack;Descriptor;Jazz;Soundtracks",
 "Wild Tchoupitoulas|Wild Tchoupitoulas|1976|OLAK5uy_kIkN3STFM1csRrgx2UU4WbXZOqKUBKDYU|A383|The Wild Tchoupitoulas (album)|The Wild Tchoupitoulas|Funk;New Orleans R&B;R&B",
-"Curtis Mayfield|Curtis/Live!|1971|PLGASPkxjqVXa0ywqMWJCUww2UQpRr7Yfs|A2381|Curtis/Live!|Curtis Mayfield|Chicago Soul;R&B;Soul",
+"Curtis Mayfield|Curtis/Live!|1971|OLAK5uy_k0PfgcxF8-x4HalhYXv_YqWu0dnQGk-pg|A2381|Curtis/Live!|Curtis Mayfield|Chicago Soul;R&B;Soul",
 "Dead Boys|Young Loud and Snotty|1977|OLAK5uy_nd9wQ-KaoIJDAIBGn5NEXJHDOSvMey0dU|A1679|Young, Loud and Snotty|Dead Boys|Punk Rock;Rock",
 "The Original London Concept Recording|Jesus Christ Superstar|1970|OLAK5uy_nCuAGc1pilSJm4gRQeC2fRn3cdRHKxoTo|A1996|Jesus Christ Superstar (album)|Andrew Lloyd Webber|Rock Opera;Show Tunes;Descriptor;Musical Theatre and Entertainment;Rock;Soundtracks",
 "Ella Fitzgerald|Ella Fitzgerald Sings the Duke Ellington Songbook|1957|OLAK5uy_kYqQfKrgOeZZ53V-RlAkeRHvaYaIYOlxw|A1821|Ella Fitzgerald Sings the Duke Ellington Song Book|Ella Fitzgerald|Big Band;Vocal Jazz;Jazz",
