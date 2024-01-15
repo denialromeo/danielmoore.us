@@ -2582,7 +2582,7 @@ const albums = [
 "Tricky|Pre-Millennium Tension|1996|OLAK5uy_mka0V9likAfOYRoGt01mxdTSGF9uVhFZ4|A972|Pre-Millennium Tension|Tricky (musician)|Experimental Hip Hop;Trip Hop;Downtempo;Electronic;Hip Hop",
 "Passion Pit|Manners|2009|OLAK5uy_lcp_Ju9oBP3VMuW2_h0kfmlO2diljdrEQ|A5012|Manners (album)|Passion Pit|Indie Pop;Indietronica;Electronic;Pop",
 "The Abyssinians|Satta Massagana|1976|OLAK5uy_kOivtKpd-WSiLtPRFKZvYkeNldAKh5g4Y|A2612|Satta Massagana|The Abyssinians|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
-"B.B. King|Singin' the Blues|1957|PLAEGr31zDLTTwIcq2v7X0ez-box_fYuQn|A1796|Singin' the Blues|B.B. King|Electric Blues;Blues",
+"B.B. King|Singin' the Blues|1957|OLAK5uy_nbxP_oeoEKk_lr9RwgKM-kcAMiD1IrnAY|A1796|Singin' the Blues|B.B. King|Electric Blues;Blues",
 "System of a Down|System of a Down|1998|OLAK5uy_ld_QngiUfBzcKb1CnnoBS-b7xauS6N2Us|A3025|System of a Down (album)|System of a Down|Alternative Metal;Metal;Rock",
 "Urge Overkill|Saturation|1993|OLAK5uy_m5flsWOhaQnt-a3DbONfrtC6KeaIRb8Ko|A892|Saturation (Urge Overkill album)|Urge Overkill|Alternative Rock;Rock",
 "Múm|Finally We Are No One|2002|OLAK5uy_khBbRp1FRaNb5LKQjbfpd3wVqslrj9lFg|A3906|Finally We Are No One|Múm|Indietronica;Electronic",
