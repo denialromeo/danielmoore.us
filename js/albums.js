@@ -124,7 +124,7 @@ const albums = [
 "Pixies|Surfer Rosa|1988|PL2Kt87NbIXSX2-eD_LBXN5j_9cXeZEwpx|A722|Surfer Rosa|Pixies (band)|Indie Rock;Alternative Rock;Rock",
 "Jay-Z|The Blueprint|2001|OLAK5uy_ld1uSlLl8ydjfmg2gclp_wh2qPtFhvHcI|A1206|The Blueprint|Jay-Z|Hip Hop",
 "Beyoncé|Lemonade|2016|OLAK5uy_m9dO997hqyquaE-xTYmZUqhm2pyKbQj-k|A5701|Lemonade (Beyoncé album)|Beyoncé|Contemporary R&B;Pop;R&B",
-"Iggy and The Stooges|Raw Power|1973|PLshHxICULapk3j5PzOMZlvWFbsxPa_I37|A274|Raw Power|The Stooges|Garage Rock;Hard Rock;Proto-Punk;Rock",
+"Iggy and The Stooges|Raw Power|1973|OLAK5uy_l2xsgXrxEIb1zWZH3fYnpuXS6qzfW96-A|A274|Raw Power|The Stooges|Garage Rock;Hard Rock;Proto-Punk;Rock",
 "Amy Winehouse|Back to Black|2006|OLAK5uy_lbTwA-JDtWuF6vKJAtp98wZ512LtuqVoM|A3144|Back to Black|Amy Winehouse|Pop;Rhythm & Blues;Soul;R&B",
 "Kendrick Lamar|good kid, m.A.A.d. city|2012|OLAK5uy_lS9HkMve0ec9D9wyWDVvRRKlNEl7E55h4|A5226|Good Kid, M.A.A.D City|Kendrick Lamar|Conscious Hip Hop;Hip Hop",
 "Pulp|Different Class|1995|OLAK5uy_kpuC1lbty7PpQTYoJJg4wLInprUiB07RM|A937|Different Class|Pulp (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
