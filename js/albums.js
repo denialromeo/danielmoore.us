@@ -2177,7 +2177,7 @@ const albums = [
 "Linda Perhacs|Parallelograms|1970|OLAK5uy_kCM2xCswUH8NyAdvTghvdJZDmi2_nYJjA|A4501|Parallelograms (album)|Linda Perhacs|Psychedelic Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Jimmy Smith|Back at the Chicken Shack|1960|OLAK5uy_nSkihhDZ6ydNuAASIacRlnhugKXS-Z65k|A1889|Back at the Chicken Shack|Jimmy Smith (musician)|Soul Jazz;Jazz",
 "ZZ Top|Degüello|1979|OLAK5uy_nLPy4DConrSSmOioUeEBwpvvOMsvW361g|A1456|Degüello|ZZ Top|Blues Rock;Southern Rock;Rock",
-"The Blues Brothers|The Blues Brothers|1980|PL4sfVCWR8nGJ0iZTaheuqSoZ2JC16JEBp|A2820|The Blues Brothers (film)|The Blues Brothers|Film Soundtrack;Rhythm & Blues;Descriptor;R&B;Soundtracks",
+"The Blues Brothers|The Blues Brothers|1980|OLAK5uy_nMIRwpUwvfwt_62wLfimMLOQMpHYRcV0I|A2820|The Blues Brothers (film)|The Blues Brothers|Film Soundtrack;Rhythm & Blues;Descriptor;R&B;Soundtracks",
 "Procol Harum|Procol Harum|1967|OLAK5uy_mVy6i6E1h1MAdpnN6EFx_D6_oNOJ1uh4g|A116|Procol Harum (album)|Procol Harum|Psychedelic Pop;Psychedelic Rock;Pop;Rock",
 "The White Stripes|Icky Thump|2007|OLAK5uy_myk0EZqwpg-QV_EhJD7PPVpeIq4YNgi2w|A4251|Icky Thump|The White Stripes|Alternative Rock;Blues Rock;Garage Rock Revival;Garage Rock;Rock",
 "The Wedding Present|George Best|1987|OLAK5uy_ngjH08UNfcuk1FzcRpu2yjZ25eJLppfkg|A3162|George Best (album)|The Wedding Present|C86;Jangle Pop;Alternative Rock;Indie Pop;Pop;Pop Rock;Rock",
