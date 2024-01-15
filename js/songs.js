@@ -3898,7 +3898,7 @@ const songs = [
 "Grateful Dead|Truckin'|1970|pafY6sZt0FE|Grateful Dead|S3452|Country Rock;Folk Rock;Truck Driving Country;Country;Honky Tonk;Rock|Truckin'",
 "Bruce Springsteen|American Skin (41 Shots)|2001|aQMqWAiWPMs|Bruce Springsteen|S5657|Heartland Rock;Pop Rock;Pop;Rock|American Skin (41 Shots)",
 "Bruce Hornsby & The Range|The Way It Is|1986|cOeKidp-iWo|Bruce Hornsby|S3479|Piano Rock;Pop;Pop Rock;Rock|The Way It Is (Bruce Hornsby song)",
-"Metro Area|Miura|2002|0bNHi6XgcGs|Metro Area|S4678|Electro-Disco;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|Miura",
+"Metro Area|Miura|2002|qR-jT-uGiWM|Metro Area|S4678|Electro-Disco;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|Miura",
 "Oasis|D'You Know What I Mean|1997|GjwRIjrC4io|Oasis (band)|S13|Britpop;Neo-Psychedelia;Alternative Rock;Pop;Pop Rock;Psychedelic Rock;Rock|D'You Know What I Mean?",
 "Gene Pitney|(The Man Who Shot) Liberty Valance|1962|vDN4L7cAQf0|Gene Pitney|S3705|Country Pop;Country;Pop|",
 "U2|Stay (Faraway, So Close!)|1993|QNonGeWR9fI|U2|S8879|Alternative Rock;Pop Rock;Pop;Rock|Stay (Faraway, So Close!)",
