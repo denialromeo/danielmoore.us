@@ -903,7 +903,7 @@ const albums = [
 "Nick Cave and The Bad Seeds|Tender Prey|1988|OLAK5uy_luVhEvpFH1WPhPAijKwDdtVwe8YVrpyBE|A734|Tender Prey|Nick Cave and the Bad Seeds|Gothic Rock;Post-Punk;Rock",
 "St. Vincent|MASSEDUCTION|2017|OLAK5uy_lsk36jNCiAQYfr1JMACCaRkeuKQsXBrD0|A5987|Masseduction|St. Vincent (musician)|Art Pop;Pop",
 "k.d. Lang|Ingénue|1992|OLAK5uy_lfXa9Ko3pZtIBpbSDuxNnB1xcvqHVvgvM|A851|Ingénue (album)|K.d. lang|Adult Contemporary;Country Pop;Singer/Songwriter;Country;Pop",
-"Tito Puente|Dance Mania|1958|PLowQCq3Ss89jCvspYiBk8pEhrpzVUVkKR|A1849|Dance Mania (album)|Tito Puente|Guaguancó;Mambo;Cuban Music;Cuban Rumba;Hispanic Music;Latin American Music;Regional Music",
+"Tito Puente|Dance Mania|1958|OLAK5uy_mrRLzOFO1pSEcGLSt9d6bobi7lFiUg_hs|A1849|Dance Mania (album)|Tito Puente|Guaguancó;Mambo;Cuban Music;Cuban Rumba;Hispanic Music;Latin American Music;Regional Music",
 "Charles Mingus|Pithecanthropus Erectus|1956|OLAK5uy_kbmwbMIfhLqI6Be1WdORzwujdeGPpXcb0|A1797|Pithecanthropus Erectus (album)|Charles Mingus|Post-Bop;Bebop;Jazz",
 "Frankie Goes to Hollywood|Welcome to the Pleasuredome|1984|OLAK5uy_kgP8in2fUSz0PCb0gPnhcZyNWOMrRiDBI|A607|Welcome to the Pleasuredome|Frankie Goes to Hollywood|New Wave;Synthpop;Electronic;Pop;Rock",
 "Elastica|Elastica|1995|OLAK5uy_kRibsJ6xOGWp2FcBwX_Hffq5fhRg6-3VY|A935|Elastica (album)|Elastica|Britpop;Indie Rock;Alternative Rock;Pop;Pop Rock;Rock",
