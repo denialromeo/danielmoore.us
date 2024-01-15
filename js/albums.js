@@ -291,7 +291,7 @@ const albums = [
 "Eno|Another Green World|1975|OLAK5uy_kJ6pm0l3Tx-jLt0l3HP52SjaIAL6uF0-M|A340|Another Green World|Brian Eno|Art Rock;Rock",
 "Frank Sinatra|Songs for Swingin' Lovers!|1956|PLmzP977za2bLEmZwTzpMGGJAtDZOk-bud|A1803|Songs for Swingin' Lovers!|Frank Sinatra|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "Wire|Pink Flag|1977|OLAK5uy_n9pc63ChlIdVC-Fab17EWE2ZnYbarE98A|A402|Pink Flag|Wire (band)|Art Punk;Punk Rock;Rock",
-"Frank Sinatra|In the Wee Small Hours|1955|PLsoD4eYuzH2U4NOhyNrLc8LoB4iiPLdrE|A1785|In the Wee Small Hours|Frank Sinatra|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
+"Frank Sinatra|In the Wee Small Hours|1955|OLAK5uy_naYYYatKD-8BEVdkD_CJVXVrR-XaspLc8|A1785|In the Wee Small Hours|Frank Sinatra|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "The Mothers of Invention|We're Only in It for the Money|1968|OLAK5uy_mZIwX2v46fKfMEDrJoQ3wbSu8Ila4Ciks|A140|We're Only in It for the Money|The Mothers of Invention|Experimental Rock;Satire;Comedy;Descriptor;Rock",
 "Tame Impala|Currents|2015|OLAK5uy_k7FTSn7ydw3cNY9X5w2UJYVO7fLXPDTik|A5545|Currents (Tame Impala album)|Tame Impala|Neo-Psychedelia;Psychedelic Pop;Synthpop;Electronic;Pop;Psychedelic Rock;Rock",
 "Robyn|Body Talk|2010|OLAK5uy_nEjeAJ5kC_X4HbdzQ7YahrKL8N_0Z7jM0|A5094|Body Talk (Robyn album)|Robyn|Dance-Pop;Electropop;Dance;Electronic;Pop",
