@@ -2412,7 +2412,7 @@ const albums = [
 "Eurythmics|Be Yourself Tonight|1985|OLAK5uy_lMCHJQMms9KOtavilPYb2DnsdLyDvTiCU|A657|Be Yourself Tonight|Eurythmics|New Wave;Pop;Rock",
 "The Wedding Present|Seamonsters|1991|OLAK5uy_kiyOOLar1URGbNji-kWWGDgPxeJq4nF5w|A3378|Seamonsters|The Wedding Present|Indie Rock;Noise Pop;Alternative Rock;Rock",
 "Gavin Bryars|The Sinking of the Titanic|1975|OLAK5uy_ndoq2K3neO2mFwauVjjTPfZZi_fzSrUC0|A4563|The Sinking of the Titanic (Bryars)|Gavin Bryars|Minimalism;Classical Music;Modern Classical",
-"Ricky Nelson|Ricky Sings Again|1959|PLNf28LT9IOhFv-7VPm7w_9i3uBdu8HNsx|A1266|Ricky Sings Again|Ricky Nelson|Country",
+"Ricky Nelson|Ricky Sings Again|1959|OLAK5uy_m6rkAxSd6tgkpkOc6NNi4tCOIK3r9NlNA|A1266|Ricky Sings Again|Ricky Nelson|Country",
 "Camper Van Beethoven|Our Beloved Revolutionary Sweetheart|1988|OLAK5uy_k3dguSnvpj3lHFhZjFAJaw_urFFX-WyHs|A3214|Our Beloved Revolutionary Sweetheart|Camper Van Beethoven|Indie Rock;Alternative Rock;Rock",
 "Tubeway Army|Replicas|1979|OLAK5uy_m_dKyKQiiZMVQw_oVVfC716UK6I49CseY|A4617|Replicas (album)|Tubeway Army|New Wave;Synthpop;Electronic;Pop;Rock",
 "Buzzcocks|Love Bites|1978|OLAK5uy_mYTm4eShV63LiQ11dQ2O-uzPqHlAa487E|A2734|Love Bites (album)|Buzzcocks|Pop Punk;Punk Rock;Rock",
