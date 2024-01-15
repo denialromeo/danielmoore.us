@@ -2776,7 +2776,7 @@ const albums = [
 "Manic Street Preachers|This Is My Truth Tell Me Yours|1998|OLAK5uy_lk5tC4Vt-DCQ5hY6IcJaQV-Ae2o-zg8hg|A1043|This Is My Truth Tell Me Yours|Manic Street Preachers|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "LL Cool J|BAD: Bigger and Deffer|1987|OLAK5uy_mPmpyYbVfYDfpP-49VRiXopRGNeq3yiJU|A715|Bigger and Deffer|LL Cool J|Hardcore Hip Hop;Hip Hop",
 "Clipse|Lord Willin'|2002|OLAK5uy_mpNSYzaYRQexRfoj3WcFFvxnJ88Uuc8dU|A4950|Lord Willin'|Clipse|Gangsta Rap;Hardcore Hip Hop;Hip Hop",
-"Frank Sinatra|Sinatra at the Sands|1966|PLGIcZonDP3p6DdQbh-lVFYDI053V3NBD3|A1970|Sinatra at the Sands|Frank Sinatra|Vocal Jazz;Jazz",
+"Frank Sinatra|Sinatra at the Sands|1966|OLAK5uy_nxvm9SaZLe61Z86D16Uk9yAn1S2SZGbbA|A1970|Sinatra at the Sands|Frank Sinatra|Vocal Jazz;Jazz",
 "Jesse Winchester|Jesse Winchester|1970|OLAK5uy_nwj10Jk0-Ny-z98hQMih--JzdeclFuOsc|A2368||Jesse Winchester|Singer/Songwriter",
 "Bobby Womack|The Poet II|1984|OLAK5uy_kBfBs9kTJH50MZHEFmeDbfrW3lwM651HI|A1491|The Poet II|Bobby Womack|Soul;R&B",
 "Bill Haley and His Comets|Shake, Rattle and Roll|1954|PL1X3qTzT40Vk1qJsmGslmNLsbVKESOuq6|A1256|Shake, Rattle and Roll (album)|Bill Haley & His Comets|Rock & Roll;Rock",
