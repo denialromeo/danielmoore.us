@@ -853,7 +853,7 @@ const albums = [
 "ABBA|Arrival|1976|OLAK5uy_kOnW3BfzZ9ep4oHKxXVd-YXCwOLeRT4mU|A380|Arrival (ABBA album)|ABBA|Europop;Pop",
 "Traffic|Mr. Fantasy|1967|OLAK5uy_ns0kxtY7ze8a5Ey3b93WT7hSbqgYVA2u4|A109|Mr. Fantasy|Traffic (band)|Psychedelic Rock;Rock",
 "Morrissey|Vauxhall and I|1994|OLAK5uy_nsgacVXq_GGF6OHH792OI6A0FBDijj_VI|A916|Vauxhall and I|Morrissey|Indie Pop;Pop Rock;Pop;Rock",
-"Os Mutantes|Os Mutantes|1968|PLRQKT-Cu2_2S26KTGzg8b_E2-dxllwEL-|A130|Os Mutantes (album)|Os Mutantes|Psychedelic Rock;Tropicália;Brazilian Music;MPB;Regional Music;Rock",
+"Os Mutantes|Os Mutantes|1968|OLAK5uy_mV0g7HQ9XBUHINJig77XYXy9ElwGT-DjQ|A130|Os Mutantes (album)|Os Mutantes|Psychedelic Rock;Tropicália;Brazilian Music;MPB;Regional Music;Rock",
 "Missy Elliott|Miss E... So Addictive|2001|OLAK5uy_nnDHiAQ8C1bVdqonVYTae3a1XLBYB-1pA|A1197|Miss E... So Addictive|Missy Elliott|Pop Rap;Hip Hop",
 "Wes Montgomery|The Incredible Jazz Guitar of Wes Montgomery|1960|OLAK5uy_npUi-NHpFj0dlxYEHeRi_AOSdwFm8JomY|A1886|The Incredible Jazz Guitar of Wes Montgomery|Wes Montgomery|Hard Bop;Bebop;Jazz",
 "Janet Jackson|Rhythm Nation 1814|1989|OLAK5uy_lkTgDnNnu0TPmRkv8CMbnWqhf7Wdk1g40|A3261|Janet Jackson's Rhythm Nation 1814|Janet Jackson|Dance-Pop;New Jack Swing;Contemporary R&B;Dance;Pop;R&B",
