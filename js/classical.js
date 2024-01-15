@@ -489,7 +489,7 @@ const classical = [
 "Jean Sibelius|Kullervo|1892|hDzor0VXy0M|Jean Sibelius|Kullervo (Sibelius)",
 "Claude Debussy|String Quartet|1893|5VMQuHMq8QQ|Claude Debussy|String Quartet (Debussy)",
 "Engelburt Humperdinck|Hänsel und Gretel|1893|JnMEI4aoUfo|Engelbert Humperdinck (composer)|",
-"Erik Satie|Vexations|1893|sKKxt4KacRo|Erik Satie|",
+"Erik Satie|Vexations|1893|7OjuC2XZm6s|Erik Satie|Vexations",
 "Antonín Dvořák|String Quartet in F major, “American”|1893|DxtAHpYIXdU|Antonín Dvořák|String Quartet No. 12 (Dvořák)",
 "Giacomo Puccini|Manon Lescaut|1893|IOxpbOb9hwk|Giacomo Puccini|Manon Lescaut (Puccini)",
 "Pyotr Ilyich Tchaikovksy|Symphony No. 6, “Pathétique”|1893|KvGC8hZC29U|Pyotr Ilyich Tchaikovsky|Symphony No. 6 (Tchaikovsky)",
