@@ -2259,7 +2259,7 @@ const albums = [
 "Jefferson Airplane|After Bathing at Baxter's|1967|OLAK5uy_l1XnuKwdgBjDw408Qg1SMOhgjxrwI4EyE|A2159|After Bathing at Baxter's|Jefferson Airplane|Acid Rock;Psychedelic Rock;Rock",
 "Eagles|Eagles|1972|OLAK5uy_mvLVGUjdjhtDWv3X6NfDY7-qSW58xktpg|A2442|Eagles (album)|Eagles (band)|Country Rock;Rock",
 "Dominique A.|La mémoire neuve|1995|OLAK5uy_kVPKl51oXyP5SNpTQOt-jGlIEFczbOcs8|A2983|https://fr.wikipedia.org/wiki/La_M%C3%A9moire_neuve|Dominique A|French Pop;Nouvelle chanson française;Singer/Songwriter;Chanson;Pop;Regional Music",
-"Drake|Nothing Was the Same|2013|PLzNa5o4O4ExD-dTItnO_3wxKI6gx6Qib-|A5300|Nothing Was the Same|Drake (musician)|Contemporary R&B;Pop Rap;Hip Hop;R&B",
+"Drake|Nothing Was the Same|2013|OLAK5uy_kRINftXw_QTiPPiJEAwgjZXEUJWn8_nJg|A5300|Nothing Was the Same|Drake (musician)|Contemporary R&B;Pop Rap;Hip Hop;R&B",
 "Fleetwood Mac|Peter Green's Fleetwood Mac|1968|OLAK5uy_l8pAn9J5-SvPDmHPRV6gFwsXJREntUf0w|A149|Fleetwood Mac (1968 album)|Fleetwood Mac|Blues Rock;British Blues;Blues;Electric Blues;Rock",
 "The Cranberries|Everybody Else Is Doing It, So Why Can't We|1993|OLAK5uy_ngS8rOWAd9rptZo2RqzbtQLZ6heBEh5JU|A3417|Everybody Else Is Doing It, So Why Can't We%3F|The Cranberries|Alternative Rock;Pop Rock;Pop;Rock",
 "Boards of Canada|Tomorrow's Harvest|2013|OLAK5uy_kj-NXH-Dp19sAf08Q04Zkn-bWXMUb-_hk|A5280|Tomorrow's Harvest|Boards of Canada|Ambient Techno;IDM;Dance;Electronic;Electronic Dance Music;Techno",
