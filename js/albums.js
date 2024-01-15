@@ -1262,7 +1262,7 @@ const albums = [
 "The Pharcyde|Bizarre Ride II The Pharcyde|1992|OLAK5uy_mCcnx7MooRPQV57JcpZoUFUHZYzNVJn6g|A1576|Bizarre Ride II the Pharcyde|The Pharcyde|Boom Bap;Jazz Rap;Hip Hop",
 "Traffic|Traffic|1968|OLAK5uy_nExr7RHftRqw9qKegOrl1GS6F8IJM47Sg|A141|Traffic (Traffic album)|Traffic (band)|Psychedelic Rock;Rock",
 "The Mars Volta|De-Loused in the Comatorium|2003|OLAK5uy_m-GgGoB9ghWjK1-uDaIvGQv871G_VK-ug|A3935|De-Loused in the Comatorium|The Mars Volta|Progressive Rock;Rock",
-"Marvin Gaye|Midnight Love|1982|PLWoDjyMxQPYhgkTTly2tS2wLIurVZmRIY|A547|Midnight Love|Marvin Gaye|Pop Soul;Smooth Soul;Pop;R&B;Soul",
+"Marvin Gaye|Midnight Love|1982|OLAK5uy_m4achBBnlFKHMWi4qc90Xj3uDSa_XjTo4|A547|Midnight Love|Marvin Gaye|Pop Soul;Smooth Soul;Pop;R&B;Soul",
 "Jungle Brothers|Done by the Forces of Nature|1989|OLAK5uy_liLmDWuYPSyAkRm-rIY6AWoDyBX3Z_NeY|A776|Done by the Forces of Nature|Jungle Brothers|Conscious Hip Hop;Hip Hop",
 "The Black Keys|Brothers|2010|OLAK5uy_kPaI45m75MNBWljD7pRf8BH_bZQ9aLj4I|A5103|Brothers (The Black Keys album)|The Black Keys|Blues Rock;Rock",
 "Erykah Badu|New Amerykah Part One (4th World War)|2008|OLAK5uy_ljX4Rg3qr7qW2qe7O_YbsFb1t4KOwh7Sk|A4351|New Amerykah Part One (4th World War)|Erykah Badu|Neo-Soul;R&B;Soul",
