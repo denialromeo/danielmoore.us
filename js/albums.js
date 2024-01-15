@@ -952,7 +952,7 @@ const albums = [
 "Little Feat|Dixie Chicken|1973|OLAK5uy_mN6p9hDPjVWPCYrtNbDpnuGz3nLDAfNG8|A290|Dixie Chicken (album)|Little Feat|Boogie Rock;Southern Rock;Blues Rock;Rock",
 "XTC|Drums and Wires|1979|OLAK5uy_kNh7p2arge_vvDWZ0BWeG7Bn2A32t4zKQ|A475|Drums and Wires|XTC|New Wave;Pop Rock;Post-Punk;Pop;Rock",
 "Squeeze|East Side Story|1981|OLAK5uy_nmIFbIuQesWnDl7UEnNYJapkZiDsxEUho|A520|East Side Story (Squeeze album)|Squeeze (band)|New Wave;Pop Rock;Pop;Rock",
-"Queens of the Stone Age|Rated R|2000|PLCFC51825B199B241|A1091|Rated R (Queens of the Stone Age album)|Queens of the Stone Age|Alternative Rock;Stoner Rock;Hard Rock;Rock",
+"Queens of the Stone Age|Rated R|2000|OLAK5uy_lcSxZuNnN4NbbBFNRJ6mdkm2R4s8PwNdg|A1091|Rated R (Queens of the Stone Age album)|Queens of the Stone Age|Alternative Rock;Stoner Rock;Hard Rock;Rock",
 "XTC|English Settlement|1982|OLAK5uy_mq8ATP7TsXJceKXHoQXkDk4rugQRJRp3Y|A564|English Settlement|XTC|Pop Rock;Pop;Rock",
 "Flamin' Groovies|Teenage Head|1971|OLAK5uy_mIbzIN3D3fClQ6_C2LR4ebDI605jSD724|A233|Teenage Head (Flamin' Groovies album)|Flamin' Groovies|Blues Rock;Garage Rock;Rock & Roll;Rock",
 "A Tribe Called Quest|People's Instinctive Travels and the Paths of Rhythm|1990|OLAK5uy_l-V2TVJfrsGd6cPZbR4SnGVGMqO0Qpl-k|A792|People's Instinctive Travels and the Paths of Rhythm|A Tribe Called Quest|Jazz Rap;Hip Hop",
