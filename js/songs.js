@@ -8604,7 +8604,7 @@ const songs = [
 "Metallica|Orion|1986|iL42fwM5muE|Metallica|S11606|Progressive Metal;Thrash Metal;Metal;Rock|Orion (Metallica song)",
 "Marv Johnson|You Got What It Takes|1959|6oOtECHc5uA|Marv Johnson|S7449|Rhythm & Blues;Soul;R&B|",
 "Department S|Is Vic There?|1981|YlbcNvlseVI|Department S (band)|S1872|New Wave;Post-Punk;Rock|Is Vic There?",
-"Fanfare Ciocărlia|lag bari|2001|YR20RvETfPs|Fanfare Ciocarlia|S14389|Balkan Brass Band;Balkan Folk Music;Balkan Music;European Folk Music;Folk;Regional Music;Traditional Folk Music|",
+"Fanfare Ciocărlia|lag bari|2001|U2UyUq4ibew|Fanfare Ciocarlia|S14389|Balkan Brass Band;Balkan Folk Music;Balkan Music;European Folk Music;Folk;Regional Music;Traditional Folk Music|",
 "Ministry|Stigmata|1988|qxaPj19VnRA|Ministry (band)|S4476|Industrial Rock;Industrial Music;Rock|Stigmata (song)",
 "Neil Young|Walk On|1974|Cby46XsFm7Y|Neil Young|S7688|Country Rock;Rock|",
 "Devendra Banhart|Santa Maria da Feira|2005|GXyp4bYOZEc|Devendra Banhart|S6058|Contemporary Folk;Folk|Cripple Crow",
