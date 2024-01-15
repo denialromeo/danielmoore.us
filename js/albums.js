@@ -452,7 +452,7 @@ const albums = [
 "Modest Mouse|The Moon & Antarctica|2000|OLAK5uy_nFdNj3q6bRRDfQOe1bUmGKu-wU4F9kjac|A3818|The Moon & Antarctica|Modest Mouse|Indie Rock;Alternative Rock;Rock",
 "John Mayall|Blues Breakers with Eric Clapton|1966|OLAK5uy_lN0EVnPVy-yIdeqjG10RKV9xJ7L0zOcNI|A66|Blues Breakers with Eric Clapton|John Mayall|Blues Rock;British Blues;Blues;Electric Blues;Rock",
 "Kacey Musgraves|Golden Hour|2018|OLAK5uy_kSDZsWub6uFJmTYpR5JhZdtpbp6sQ_Mv0|A6027|Golden Hour (Kacey Musgraves album)|Kacey Musgraves|Country Pop;Singer/Songwriter;Country;Pop",
-"Deep Purple|Deep Purple in Rock|1970|PL2L2BDLggO-Bm55H30PsLTtEQcPR2OQYo|A197|Deep Purple in Rock|Deep Purple|Hard Rock;Rock",
+"Deep Purple|Deep Purple in Rock|1970|OLAK5uy_nqVaYvdE___OMWs7Hu58WMEZJln-xhVmM|A197|Deep Purple in Rock|Deep Purple|Hard Rock;Rock",
 "Elliott Smith|XO|1998|OLAK5uy_kO6YipcR0bwlJu0HLMhNMGLbea2KYgkfA|A1034|XO (Elliott Smith album)|Elliott Smith|Indie Pop;Singer/Songwriter;Pop",
 "Fairport Convention|Liege and Lief|1969|OLAK5uy_mBym1ep-QysZNmHOxPo3-MaPIVFFeNj8E|A177|Liege & Lief|Fairport Convention|British Folk Rock;Folk Rock;Rock",
 "Run the Jewels|Run the Jewels 2|2014|OLAK5uy_lwRiMTw4k8XEg75FHxrSOujvjd_cGGoBo|A5392|Run the Jewels 2|Run the Jewels|Hardcore Hip Hop;Hip Hop",
