@@ -1566,7 +1566,7 @@ const albums = [
 "Oscar Peterson|Night Train|1963|OLAK5uy_kIY84BQbVFhSQVxwwA5dmq4MBryI9YdBs|A2319|Night Train (Oscar Peterson album)|Oscar Peterson|Cool Jazz;Jazz",
 "The Hold Steady|Separation Sunday|2005|OLAK5uy_kgpg0oPUHL4On3KzsOugJdOX8wLST10hA|A4175|Separation Sunday|The Hold Steady|Indie Rock;Pub Rock;Alternative Rock;Rock",
 "Jon Hopkins|Immunity|2013|OLAK5uy_lKA2GOHTZI6wSo_W03FKlUDS4s03a0wIo|A5320|Immunity (Jon Hopkins album)|Jon Hopkins|IDM;Microhouse;Dance;Electronic;Electronic Dance Music;House",
-"Chuck Berry|After School Session|1957|PL799CC2EB2A529393|A1262|After School Session|Chuck Berry|Rhythm & Blues;Rock & Roll;R&B;Rock",
+"Chuck Berry|After School Session|1957|PLKxz1SUkyH_FXfFByxcwUI_JtF_t9H0Y9|A1262|After School Session|Chuck Berry|Rhythm & Blues;Rock & Roll;R&B;Rock",
 "Caetano Veloso|Estrangeiro|1989|OLAK5uy_m24TJ-cNeBTYd_F0vTL6SnhgiyGyIFecc|A2904|Estrangeiro|Caetano Veloso|MPB;Singer/Songwriter;Brazilian Music;Regional Music",
 "Converge|All We Love We Leave Behind|2012|OLAK5uy_lyQC3_EiB6YQUHL45xcfwfO4vjW3S15Pk|A5200|All We Love We Leave Behind|Converge (band)|Metalcore;Hardcore Punk;Metal;Punk Rock;Rock",
 "Black Star|Mos Def & Talib Kweli Are Black Star|1998|OLAK5uy_llbs30uzr9Yv-tsC3HEuakyIlpLzxZtRw|A3739|Mos Def & Talib Kweli Are Black Star|Black Star (rap duo)|Boom Bap;Conscious Hip Hop;Hip Hop",
