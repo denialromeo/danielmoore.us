@@ -1653,7 +1653,7 @@ const songs = [
 "Angel Olsen|Lark|2019|6uaN60k0-zY|Angel Olsen|S16731|Art Pop;Chamber Pop;Baroque Pop;Indie Pop;Pop|",
 "The Strokes|The Modern Age|2001|RzO7IGWGxu8|The Strokes|S1461|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|",
 "Beastie Boys|Hey Ladies|1989|Naf5uJYGoiU|Beastie Boys|S1999|East Coast Hip Hop;Hip Hop|Hey Ladies",
-"Stevie Nicks|Edge of Seventeen (Just Like the White Winged Dove)|1981|UmPgMc3R8zg|Stevie Nicks|S1869|Pop Rock;Pop;Rock|Edge of Seventeen",
+"Stevie Nicks|Edge of Seventeen|1981|UmPgMc3R8zg|Stevie Nicks|S1869|Pop Rock;Pop;Rock|Edge of Seventeen",
 "The Verve|The Drugs Don't Work|1997|ToQ0n3itoII|The Verve|S3|Britpop;Alternative Rock;Pop;Pop Rock;Rock|The Drugs Don't Work",
 "The Jackson 5|I'll Be There|1970|QMbC6OBGAxo?start=8|The Jackson 5|S849|Pop Soul;Pop;R&B;Soul|",
 "Golden Earring|Radar Love|1973|ckM51xoTC2U|Golden Earring|S3449|Blues Rock;Hard Rock;Rock|Radar Love",
