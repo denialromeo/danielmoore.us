@@ -1707,7 +1707,7 @@ const albums = [
 "Jorge Ben|Samba Esquema Novo|1963|PLVnkoLiLMTm4nHQm47nAu-i3LY5_hpxkO|A4443|Samba Esquema Novo|Jorge Ben|Samba;Brazilian Music;Regional Music",
 "Death in Vegas|The Contino Sessions|1999|OLAK5uy_kbisxYKsxKb3PzW_Nk7S7EKS67fTRYicA|A1053|The Contino Sessions|Death in Vegas|Psychedelic Rock;Trip Hop;Downtempo;Electronic;Rock",
 "Throbbing Gristle|Second Annual Report|1977|OLAK5uy_m9P4zY4aVNSHesdXLoxbex-mMnrTzpewI|A2742|D.o.A: The Third and Final Report of Throbbing Gristle|Throbbing Gristle|Industrial;Experimental;Industrial Music",
-"Miles Davis|Miles Davis at Plugged Nickel, Chicago|1976|PLlW6NEknXQP_swjrQojOdFC6sqdgCFNey|A2023|The Complete Live at the Plugged Nickel 1965|Miles Davis|Jazz",
+"Miles Davis|Miles Davis at Plugged Nickel, Chicago|1976|OLAK5uy_lwAKg1viWJaJo8QZ4g7DXOge6NeMa9Jp4|A2023|The Complete Live at the Plugged Nickel 1965|Miles Davis|Jazz",
 "Shelby Lynne|I Am Shelby Lynne|1999|OLAK5uy_lZIYs1rG1VCrZI-LAUmg6Fl0nTBEjehgQ|A1079|I Am Shelby Lynne|Shelby Lynne|Country Pop;Country;Pop",
 "Mogwai|Come On Die Young|1999|OLAK5uy_ntUCDqHiMeA2ty5fFgrCRnYd3M9coXlXs|A1076|Come On Die Young|Mogwai|Post-Rock;Rock",
 "João Gilberto|Chega De Saudade|1959|PLCkmYOs4j7okDGRTyBsEKWh6QwuaVD0BV|A4435|Chega de Saudade (album)|João Gilberto|Bossa Nova;Brazilian Music;Regional Music",
