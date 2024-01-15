@@ -205,7 +205,7 @@ const albums = [
 "Neil Young|Tonight's the Night|1975|OLAK5uy_n7FPJTfkbKccxYcTo0MKOfonAhT3UeZnU|A334|Tonight's the Night (Neil Young album)|Neil Young|Country Rock;Folk Rock;Singer/Songwriter;Rock",
 "The Replacements|Let It Be|1984|OLAK5uy_mu0Y-Cw8U1AIZX-I_m6eFKfH8wXrYHcc8|A604|Let It Be (The Replacements album)|The Replacements (band)|Alternative Rock;Rock",
 "Rod Stewart|Every Picture Tells a Story|1971|OLAK5uy_kBUQKzz4zGkK3O4UG3OiBlqmDjpN6AAjA|A218|Every Picture Tells a Story|Rod Stewart|Pop Rock;Pop;Rock",
-"Prince and The Revolution|1999|1982|PLAn-T5fEM_WAFPUVEHb-F0im28dldXr4z|A546|1999 (Prince album)|Prince (musician)|Pop;Synth Funk;Funk;R&B",
+"Prince and The Revolution|1999|1982|OLAK5uy_lcDK1XaEixztzKe5RQjPn6rY8rts_fagg|A546|1999 (Prince album)|Prince (musician)|Pop;Synth Funk;Funk;R&B",
 "The Modern Lovers|The Modern Lovers|1976|OLAK5uy_kbSSB4NkDvPozTOpn3k3g6OrjR5oaMQ0Y|A366|The Modern Lovers (album)|The Modern Lovers|Proto-Punk;Rock",
 "Creedence Clearwater Revival|Cosmo's Factory|1970|OLAK5uy_kvQqKIbIb1tfTC3LWEN89FPWno2088htk|A191|Cosmo's Factory|Creedence Clearwater Revival|Swamp Rock;Rock;Roots Rock",
 "Bob Marley and The Wailers|Exodus|1977|OLAK5uy_ltwqeftDcEhfFWynJ4ZDJZjaVQ_VK10DY|A407|Exodus (Bob Marley and the Wailers album)|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
