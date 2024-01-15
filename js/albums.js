@@ -478,7 +478,7 @@ const albums = [
 "Yeah Yeah Yeahs|Fever to Tell|2003|OLAK5uy_lUB6Mt3ZuTyFaTvCHmYQ4Zh1DhI5hhluY|A3926|Fever to Tell|Yeah Yeah Yeahs|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock",
 "The Breeders|Last Splash|1993|OLAK5uy_lTNYcmbWKiwu3f5YJvNLjHUN4xe9nRknc|A880|Last Splash|The Breeders|Alternative Rock;Rock",
 "Erykah Badu|Baduizm|1997|OLAK5uy_nRpuCYXBRs7FMe2lbktXYQqk4X-CC1f8I|A1001|Baduizm|Erykah Badu|Neo-Soul;R&B;Soul",
-"Big Star|#1 Record|1972|PLX66jEixZe1zjm2ArvCeMwkutc0uHk39C|A260|Number 1 Record|Big Star|Power Pop;Pop;Pop Rock;Rock",
+"Big Star|#1 Record|1972|OLAK5uy_mZqXFt2lB8RR84-1eQwkTOhP955XEz7uE|A260|Number 1 Record|Big Star|Power Pop;Pop;Pop Rock;Rock",
 "TLC|CrazySexyCool|1994|OLAK5uy_lSESESuJsiR3SmWS0xBzLg8ImmVNHHfbk|A925|CrazySexyCool|TLC (group)|Contemporary R&B;R&B",
 "PJ Harvey|Dry|1992|OLAK5uy_kou10Kcrv5B4XEKvr99DulBTLCvNI4eRY|A843|Dry (album)|PJ Harvey|Alternative Rock;Alternative Singer/Songwriter;Rock;Singer/Songwriter",
 "Bob Dylan|John Wesley Harding|1967|OLAK5uy_mSVIv9SSGEoofy9r30Z3kr35d2mYozF6w|A98|John Wesley Harding|Bob Dylan|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock",
