@@ -6030,7 +6030,7 @@ const songs = [
 "Café Tacvba|Las Flores|1994|HxqAJVxE5ww|Café Tacuba|S13412|Latin Alternative;Son Jarocho;Folk;Hispanic Music;Latin American Music;Mexican Folk Music;Mexican Music;Regional Music;Traditional Folk Music|",
 "Charly Bliss|Capacity|2019|Z3yayHHmUxs|Charly Bliss|S16760|Indie Pop;Synthpop;Electronic;Pop|Capacity (song)",
 "Kaiser Chiefs|Oh My God|2004|54DtVXjk2jY|Kaiser Chiefs|S7039|Indie Rock;Alternative Rock;Rock|",
-"Jónsi|Go Do|2010|c1WomtTi0wY|Jónsi|S7003|Art Pop;Dream Pop;Alternative Rock;Pop;Rock|",
+"Jónsi|Go Do|2010|2guwCl9yw38|Jónsi|S7003|Art Pop;Dream Pop;Alternative Rock;Pop;Rock|",
 "Bon Iver|re: Stacks|2007|GhDnyPsQsB0|Bon Iver|S5584|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|",
 "Madonna|Take a Bow|1994|XDeiovnCv1o|Madonna (entertainer)|S7373|Sophisti-Pop;Pop|Take a Bow (Madonna song)",
 "Kate Bush|Babooshka|1980|6xckBwPdo1c|Kate Bush|S7060|Art Pop;Pop|Babooshka (song)",
