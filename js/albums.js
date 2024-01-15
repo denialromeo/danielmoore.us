@@ -878,7 +878,7 @@ const albums = [
 "The Horrors|Primary Colours|2009|OLAK5uy_nWr4SNZmDupukX0EQY3SZakqqoyXxDGKs|A4997|Primary Colours (The Horrors album)|The Horrors|Post-Punk Revival;Shoegaze;Alternative Rock;Indie Rock;Post-Punk;Rock",
 "The Cramps|Songs the Lord Taught Us|1980|OLAK5uy_kNGPKdgTpvtR63ggXl6H9hgbkeyzjBRNI|A502|Songs the Lord Taught Us|The Cramps|Garage Punk;Psychobilly;Garage Rock;Punk Rock;Rock;Rock & Roll;Rockabilly",
 "Clipse|Hell Hath No Fury|2006|OLAK5uy_krnBiaJjPs1VJiS5YWcPgOaKyKlB2ZgHw|A3102|Hell Hath No Fury (Clipse album)|Clipse|Gangsta Rap;Hardcore Hip Hop;Hip Hop",
-"Kanye West|Graduation|2007|PL1Tx_5tVnHqCzljqYlu_zZiqgLKhDqCqP|A4250|Graduation (album)|Kanye West|Pop Rap;Hip Hop",
+"Kanye West|Graduation|2007|OLAK5uy_nc43MhHfperN5ZrIST7rsl0o5NOURZISk|A4250|Graduation (album)|Kanye West|Pop Rap;Hip Hop",
 "The Byrds|Fifth Dimension|1966|OLAK5uy_lgfup6V2bkcjBtJ9Pdi_KRqIRrd7qoMTc|A67|Fifth Dimension (album)|The Byrds|Folk Rock;Psychedelic Rock;Rock",
 "Neil Young|Freedom|1989|OLAK5uy_mK22DuiRqvi4EcouP6xaKtiEXydmoVEp8|A756|Freedom (Neil Young album)|Neil Young|Heartland Rock;Singer/Songwriter;Rock",
 "David Crosby|If I Could Only Remember My Name|1971|OLAK5uy_l6yMRPkE5Sso_UTB_3bgBmXE6C-TGGlfI|A235|If I Could Only Remember My Name|David Crosby|Folk Rock;Singer/Songwriter;Rock",
