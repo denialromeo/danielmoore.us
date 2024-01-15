@@ -1051,7 +1051,7 @@ const albums = [
 "Stevie Ray Vaughan and Double Trouble|Texas Flood|1983|OLAK5uy_l3CrHmVPpKvzyqe73IotCbtt1JCSA1DUU|A598|Texas Flood|Stevie Ray Vaughan|Blues Rock;Electric Texas Blues;Blues;Electric Blues;Rock",
 "Gorillaz|Plastic Beach|2010|OLAK5uy_mYzpOFB-6D0ooK-rCL5PuR9zjAxFIV9lo|A5071|Plastic Beach|Gorillaz|Electropop;Electronic;Pop",
 "The Costello Show|King of America|1986|OLAK5uy_kGjL5w580zRTWU_q8CVM75VVdhC120cK8|A671|King of America|Elvis Costello|Folk Rock;Pop Rock;Singer/Songwriter;Pop;Rock",
-"Rush|2112|1976|PLXPYMcRIi2fHdvKx6Orw2ux9Lpj3tsBC2|A1424|2112 (album)|Rush (band)|Hard Rock;Progressive Rock;Rock",
+"Rush|2112|1976|OLAK5uy_miQ0aViBzxOZj7XbA6Q61Mo5FM84xvTdU|A1424|2112 (album)|Rush (band)|Hard Rock;Progressive Rock;Rock",
 "Miossec|Boire|1995|OLAK5uy_mDQKfygjq3X1NjHEVKBnoehXBoF4EVyVI|A2989|Boire|Miossec|Nouvelle chanson française;Chanson;Regional Music",
 "Dinosaur Jr.|Bug|1988|OLAK5uy_lwwwNUm28J2UMrAcvp0zKcLY4cOnuSI1k|A1541|Bug (Dinosaur Jr. album)|Dinosaur Jr.|Indie Rock;Noise Rock;Alternative Rock;Rock",
 "Echo and the Bunnymen|Crocodiles|1980|OLAK5uy_lkmH4WATdKYn6iLbcSoindzqG8osCIM5U|A494|Echo & the Bunnymen (album)|Echo & the Bunnymen|Post-Punk;Rock",
