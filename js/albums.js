@@ -1704,7 +1704,7 @@ const albums = [
 "The Traveling Wilburys|Traveling Wilburys, Volume One|1988|OLAK5uy_m-mNOXTKXedS7rFT3L3RQFeFwNQWFU1aM|A742|Traveling Wilburys Vol. 1|Traveling Wilburys|Pop Rock;Pop;Rock",
 "Joe Cocker|With a Little Help from My Friends|1969|OLAK5uy_nnEW-wK8S1zZHSIS9y-0H_YJAzqW-EnrU|A180|With a Little Help from My Friends (Joe Cocker album)|Joe Cocker|Blues Rock;Pop Rock;Pop;Rock",
 "The Auteurs|New Wave|1993|OLAK5uy_khtIueY6nZekcZJ6pKCA2-_X3MPIitzQo|A887|New Wave (The Auteurs album)|The Auteurs|Britpop;Indie Pop;Alternative Rock;Pop;Pop Rock;Rock",
-"Jorge Ben|Samba Esquema Novo|1963|PLVnkoLiLMTm4nHQm47nAu-i3LY5_hpxkO|A4443|Samba Esquema Novo|Jorge Ben|Samba;Brazilian Music;Regional Music",
+"Jorge Ben|Samba Esquema Novo|1963|OLAK5uy_mmKyNs3KrPIxOdfuo6t8kHbfs7Xvuc2X8|A4443|Samba Esquema Novo|Jorge Ben|Samba;Brazilian Music;Regional Music",
 "Death in Vegas|The Contino Sessions|1999|OLAK5uy_kbisxYKsxKb3PzW_Nk7S7EKS67fTRYicA|A1053|The Contino Sessions|Death in Vegas|Psychedelic Rock;Trip Hop;Downtempo;Electronic;Rock",
 "Throbbing Gristle|Second Annual Report|1977|OLAK5uy_m9P4zY4aVNSHesdXLoxbex-mMnrTzpewI|A2742|D.o.A: The Third and Final Report of Throbbing Gristle|Throbbing Gristle|Industrial;Experimental;Industrial Music",
 "Miles Davis|Miles Davis at Plugged Nickel, Chicago|1976|OLAK5uy_lwAKg1viWJaJo8QZ4g7DXOge6NeMa9Jp4|A2023|The Complete Live at the Plugged Nickel 1965|Miles Davis|Jazz",
