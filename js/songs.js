@@ -6914,7 +6914,7 @@ const songs = [
 "Superorganism|Everybody Wants to Be Famous|2018|mJQYRzAoErc|Superorganism (band)|S16572|Electropop;Glitch Pop;Indietronica;Electronic;Pop|",
 "Nirvana|Love Buzz|1988|ZEh3mO9MPV0|Kurt Cobain|S11770|Grunge;Alternative Rock;Rock|Love Buzz",
 "Minnie Riperton|Les Fleurs|1970|g1kDd6yBQZ4|Minnie Riperton|S7563|Pop Soul;Psychedelic Soul;Pop;R&B;Soul|",
-"Mazzy Star|Into Dust|1993|SiO_7LhPZFM|Mazzy Star|S9292|Dream Pop;Psychedelic Folk;Slowcore;Alternative Rock;Contemporary Folk;Folk;Indie Rock;Rock|Into Dust",
+"Mazzy Star|Into Dust|1993|04J0ihSeIuI|Mazzy Star|S9292|Dream Pop;Psychedelic Folk;Slowcore;Alternative Rock;Contemporary Folk;Folk;Indie Rock;Rock|Into Dust",
 "Beth Orton|She Cries Your Name|1996|rFZc4ax4tJs|Beth Orton|S10158|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|She Cries Your Name",
 "Paul Anka|Put Your Head on My Shoulder|1959|kvazBqAlx58|Paul Anka|S7875|Brill Building;Teen Pop;Traditional Pop;Pop|Put Your Head on My Shoulder",
 "Eddie Vedder|Hard Sun|2007|m8NPNKZ9jB0|Eddie Vedder|S6200|Acoustic Rock;Film Soundtrack;Folk Rock;Descriptor;Rock;Soundtracks|All the Way (Eddie Vedder song)",
