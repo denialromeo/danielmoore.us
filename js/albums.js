@@ -556,7 +556,7 @@ const albums = [
 "Guided by Voices|Bee Thousand|1994|OLAK5uy_kIVrxvcXTlUI9FQKgwD31TanqEYYoTgXQ|A926|Bee Thousand|Guided by Voices|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock",
 "Pet Shop Boys|Behaviour|1990|OLAK5uy_kYVM8Pyu8kmigylAmay2sfROOQfcVVG60|A787|Behaviour (Pet Shop Boys album)|Pet Shop Boys|Synthpop;Electronic;Pop",
 "Steely Dan|Can't Buy a Thrill|1972|OLAK5uy_kT-Wz5yuAHB_pJlDx_RtmwD3K_2CWFLPM|A251|Can't Buy a Thrill|Steely Dan|Pop Rock;Pop;Rock",
-"Meat Loaf|Bat Out of Hell|1977|PL248ar1sMUaBcgwctosA7BA1Yhvh99f5k|A1186|Bat Out of Hell|Meat Loaf|Pop Rock;Rock Opera;Pop;Rock",
+"Meat Loaf|Bat Out of Hell|1977|OLAK5uy_kR6BkUnktxJWYqmWOEXCOYyL3SLIyoR9k|A1186|Bat Out of Hell|Meat Loaf|Pop Rock;Rock Opera;Pop;Rock",
 "Joni Mitchell|The Hissing of Summer Lawns|1975|OLAK5uy_lZhOCRGqZsBFIzNoDn3OmSQodPHvJfjrA|A341|The Hissing of Summer Lawns|Joni Mitchell|Jazz Pop;Singer/Songwriter;Pop",
 "Duke Ellington|Ellington at Newport|1956|PLL-NbN8uTOihEAAeD75eevQTDiFqHi8ta|A1789|Ellington at Newport|Duke Ellington|Big Band;Jazz",
 "At the Drive-In|Relationship of Command|2000|OLAK5uy_nyj4psbrLIw2pxDalEWWcQxD-TIXj0PC8|A1092|Relationship of Command|At the Drive-In|Post-Hardcore;Punk Rock;Rock",
