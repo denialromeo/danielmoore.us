@@ -27,7 +27,7 @@ const albums = [
 "Kanye West|My Beautiful Dark Twisted Fantasy|2010|OLAK5uy_mRFuqe0IIrexXkU7JOxo4rOb0WLEcwuz8|A5079|My Beautiful Dark Twisted Fantasy|Kanye West|Pop Rap;Hip Hop",
 "The Smiths|The Queen Is Dead|1986|OLAK5uy_klS8Pn413KiwpcfIJpyE2aghZDLqAE-dY|A661|The Queen Is Dead|The Smiths|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "Television|Marquee Moon|1977|OLAK5uy_lU2dllEI8TDoCLDKyhrL6GQg4uJDo_DNQ|A392|Marquee Moon|Television (band)|Art Punk;Post-Punk;Punk Rock;Rock",
-"Miles Davis|Kind of Blue|1959|PLrhkpF1bKMG_D2sxTpxG63WGmIxYGB-Jt|A1860|Kind of Blue|Miles Davis|Cool Jazz;Modal Jazz;Jazz",
+"Miles Davis|Kind of Blue|1959|OLAK5uy_kLtBpVbGac_7xgJC4x9cRpeiLfjt9T1Pk|A1860|Kind of Blue|Miles Davis|Cool Jazz;Modal Jazz;Jazz",
 "Prince|Sign o' the Times|1987|OLAK5uy_no49E01AwNz3OQt1CDwLYD1n82szSO8BI|A691|Sign o' the Times|Prince (musician)|Funk Rock;Pop Rock;Pop;Rock",
 "The Jimi Hendrix Experience|Electric Ladyland|1968|OLAK5uy_mYWPkHE6zV6px1NrufGZgni8KPoqsvC34|A124|Electric Ladyland|Jimi Hendrix|Acid Rock;Blues Rock;Psychedelic Rock;Rock",
 "The Beatles|Rubber Soul|1965|OLAK5uy_lvTG69VbZm3r3r9crRBvT1Tj305YEbuaM|A32|Rubber Soul|The Beatles|Pop Rock;Pop;Rock",
