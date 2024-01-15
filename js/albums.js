@@ -1982,7 +1982,7 @@ const albums = [
 "Fats Domino|Rock and Rollin' with Fats Domino|1956|PLqoJm0T2W3p2T463kIALpw4tyFfXJcyUZ|A1257|Rock and Rollin' with Fats Domino|Fats Domino|Rock & Roll;Rock",
 "Billy Bragg|Life's a Riot with Spy vs. Spy|1983|OLAK5uy_kdBcx3ZKc8SGwz_QaCdMU0GIhjm6XrQVs|A592|Life's a Riot with Spy vs Spy|Billy Bragg|Folk Punk;Folk Rock;Singer/Songwriter;Punk Rock;Rock",
 "B.B. King|Live in Cook County Jail|1971|OLAK5uy_m6fpT75ylZ1ZLAVAUE_LiuH8eoxS-sDmo|A2383|Live in Cook County Jail|B.B. King|Electric Blues;Blues",
-"Charlie Parker and Dizzy Gillespie|Bird & Diz|1952|PL7gp579CMkT9GdPwnd35QubHOcn7QLP_f|A1764|Bird and Diz|Charlie Parker|Bebop;Jazz",
+"Charlie Parker and Dizzy Gillespie|Bird & Diz|1952|OLAK5uy_nrbcJAqvWDDDM9ptV5ZEPcTgXViWf7v9Y|A1764|Bird and Diz|Charlie Parker|Bebop;Jazz",
 "Everything But the Girl|Walking Wounded|1996|OLAK5uy_nVrWy7jixt-tF6ADSVJFCAuMh7pyqG5RY|A971|Walking Wounded|Everything but the Girl|Trip Hop;Downtempo;Electronic",
 "Buffy Sainte-Marie|Illuminations|1969|OLAK5uy_nLWB0a494Lt4lflGNnYBPGDgNIBbF0Bzc|A2599|Illuminations (Buffy Sainte-Marie album)|Buffy Sainte-Marie|Psychedelic Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Nat King Cole|After Midnight|1957|OLAK5uy_kF1h4OZG95iE0xxS0ntYQc0rSac1qQA34|A1813|After Midnight (Nat King Cole album)|Nat King Cole|Vocal Jazz;Jazz",
