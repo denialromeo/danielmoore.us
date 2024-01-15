@@ -2475,7 +2475,7 @@ const albums = [
 "Richard Hawley|Truelove's Gutter|2009|OLAK5uy_k9gefAJep7pFLFNTdyBr1AV3CAAzgkAzg|A5024|Truelove's Gutter|Richard Hawley|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop",
 "Photek|Modus Operandi|1997|OLAK5uy_nkFPhU3r_IYAtxd3D5qXb9b9pkf6d_N2U|A4859|Modus Operandi (Photek album)|Photek|Atmospheric Drum and Bass;Dance;Drum and Bass;Electronic;Electronic Dance Music",
 "Count Basie|At Newport|1957|OLAK5uy_ntwB00i4btZlOhxOMA25WqjKE-T0K1MVU|A1811|Count Basie at Newport|Count Basie|Big Band;Jazz",
-"El Guincho|Alegranza|2007|PL28F1FC35CCE491AC|A4336|Alegranza (album)|El Guincho|Neo-Psychedelia;Psychedelic Rock;Rock",
+"El Guincho|Alegranza|2007|OLAK5uy_m7ygvbzryf2qr2DSW2UM63rfEy_fMbCPE|A4336|Alegranza (album)|El Guincho|Neo-Psychedelia;Psychedelic Rock;Rock",
 "The Hold Steady|Stay Positive|2008|OLAK5uy_kd4Iw0QGyKO6xnGoylZuGbTZkCBCjN0nw|A4357|Stay Positive (album)|The Hold Steady|Heartland Rock;Indie Rock;Alternative Rock;Rock",
 "The Cars|Heartbeat City|1984|OLAK5uy_l8zCHgq3Utr7f1dAf9jqop3lbCzugN2Dc|A626|Heartbeat City|The Cars|New Wave;Pop Rock;Pop;Rock",
 "Townes Van Zandt|The Late Great Townes Van Zandt|1972|OLAK5uy_k4xWNTyZmd8qxSSJsl4-XByAs5iUY4Ucs|A2441|Townes Van Zandt (album)|Townes Van Zandt|Country;Singer/Songwriter",
