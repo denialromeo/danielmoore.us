@@ -1689,7 +1689,7 @@ const albums = [
 "Sun Ra|Jazz in Silhouette|1958|OLAK5uy_kCd5gkLXOTUIu55sLUsGz2ehP--_Uuw80|A1854|Jazz in Silhouette|Sun Ra|Post-Bop;Bebop;Jazz",
 "Brigitte Fontaine & Art Ensemble of Chicago|Comme à la Radio|1970|OLAK5uy_l3eL1LI_oeMyaEppbHEjR9Otqt_G6dmgs|A2640|Comme à la radio|Art Ensemble of Chicago|Chamber Jazz;Jazz",
 "Ani DiFranco|Dilate|1996|OLAK5uy_mqobS5ePH-kXlFAZQmn8rbc5s0wV-GDEg|A3622|Dilate (Ani DiFranco album)|Ani DiFranco|Alternative Singer/Songwriter;Folk Rock;Rock;Singer/Songwriter",
-"Sonny Clark|Cool Struttin'|1958|PLopzRFdmXSEMHcpqvslB0nQj2uEtLjUmo|A1836|Cool Struttin'|Sonny Clark|Hard Bop;Bebop;Jazz",
+"Sonny Clark|Cool Struttin'|1958|OLAK5uy_kiQrlTsACcqqqK7mceaGK7-BPrlK5frdQ|A1836|Cool Struttin'|Sonny Clark|Hard Bop;Bebop;Jazz",
 "Kelela|Take Me Apart|2017|OLAK5uy_k0KEq9gJu_GvZ1u0DKO32foOs7h3YdPII|A5925|Take Me Apart|Kelela|Alternative R&B;UK Bass;Contemporary R&B;Dance;Electronic;Electronic Dance Music;R&B;UK Garage",
 "M83|Dead Cities, Red Seas and Lost Ghosts|2003|OLAK5uy_kTUlAhZfWkT3ltX-LjDslYD9u-_YET4C4|A4033|Dead Cities, Red Seas & Lost Ghosts|M83 (band)|Electronic",
 "Blood Orange|Negro Swan|2018|OLAK5uy_lkrhpzrUeq62EzDZ3TLlLwqtpUZecstFg|A6035|Negro Swan|Dev Hynes|Alternative R&B;Sophisti-Pop;Contemporary R&B;Pop;R&B",
