@@ -1585,7 +1585,7 @@ const albums = [
 "Dave Holland|Conference of the Birds|1973|OLAK5uy_lVLO3vsJ_sL2u6nti4WN_a5H1rvKr8OGA|A2006|Conference of the Birds (Dave Holland album)|Dave Holland|Avant-Garde Jazz;Jazz",
 "Ice Cube|Death Certificate|1991|OLAK5uy_kfSeVlf9q278IHfsMJlmFa_jzwc6ct9VM|A1560|Death Certificate (album)|Ice Cube|Gangsta Rap;Political Hip Hop;Hardcore Hip Hop;Hip Hop",
 "The Strokes|Room On Fire|2003|OLAK5uy_maPJVRMRXRbnI955d2PdBCIhy7Y-vTQDE|A4011|Room on Fire|The Strokes|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock",
-"The Modern Jazz Quartet|Django|1956|PLccpwGk_xup-GlPzUCDggz3K1M3YtNi8I|A1798|Django (album)|Modern Jazz Quartet|Cool Jazz;Third Stream;Jazz",
+"The Modern Jazz Quartet|Django|1956|OLAK5uy_kxCsWEdEPc6yjlQPrjyAQ7G8RF9sdj9Ic|A1798|Django (album)|Modern Jazz Quartet|Cool Jazz;Third Stream;Jazz",
 "The Orb|U.F.Orb|1992|OLAK5uy_kr5Cd9eM0HDGb5o9W1rJlfmp2S9DCQ850|A849|U.F.Orb|The Orb|Ambient Dub;Ambient House;Dub Techno;Ambient;Dance;Electronic;Electronic Dance Music;House;Minimal Techno;Techno",
 "Bob Seger & The Silver Bullet Band|'Live' Bullet|1976|PLQMQ0pEi2Ffo3uQZpb71Yur816mYE5sl3|A1426|Live Bullet|Bob Seger|Heartland Rock;Rock",
 "Deee-Lite|World Clique|1990|OLAK5uy_l6b5h-Keoiin0TiXs_1hnLR3pV1ZVhozE|A786|World Clique|Deee-Lite|Dance-Pop;House;Dance;Electronic;Electronic Dance Music;Pop",
