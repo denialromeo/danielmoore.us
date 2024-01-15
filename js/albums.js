@@ -505,7 +505,7 @@ const albums = [
 "Arcade Fire|Neon Bible|2007|OLAK5uy_kjIEzhyTUy0zxOekm1iZyMCCmAqJa4n9Y|A4235|Neon Bible|Arcade Fire|Indie Rock;Alternative Rock;Rock",
 "Rihanna|Anti|2016|OLAK5uy_lnMdsGA9i4rd3GAgarcRAVTW1h4e82BjI|A5799|Anti (album)|Rihanna|Alternative R&B;Contemporary R&B;R&B",
 "Billie Eilish|When We All Fall Asleep, Where Do We Go?|2019|OLAK5uy_kQbMBLWm9sUrVNnooayU8ilISrC7KintI|A6220|When We All Fall Asleep, Where Do We Go%3F|Billie Eilish|Alternative R&B;Electropop;Contemporary R&B;Electronic;Pop;R&B",
-"Nine Inch Nails|Pretty Hate Machine|1989|PL6vwnon3sINo6dfLDk_gsdi6nutySutd2|A768|Pretty Hate Machine|Nine Inch Nails|Electro-Industrial;Industrial Rock;Electronic;Industrial Music;Rock",
+"Nine Inch Nails|Pretty Hate Machine|1989|OLAK5uy_kxE6rMX-COuLZaPTSRr2Rqr-UOkPAEmbs|A768|Pretty Hate Machine|Nine Inch Nails|Electro-Industrial;Industrial Rock;Electronic;Industrial Music;Rock",
 "Radiohead|Amnesiac|2001|OLAK5uy_mdy7nTjwlgdaPiwLf0nDBFBGFsgchzGuc|A1192|Amnesiac (album)|Radiohead|Electronic;Experimental Rock;Rock",
 "Scott Walker|Scott 4|1969|OLAK5uy_k6SPg9_KQWeypHNRci2hvLH79MSUb6gPs|A173|Scott 4|Scott Walker (singer)|Baroque Pop;Singer/Songwriter;Pop",
 "The Wailers|Burnin'|1973|OLAK5uy_kkjKK7BzY-JbuMPebMqrhXj6IQgy1IV0Q|A289|Burnin' (The Wailers album)|Bob Marley|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
