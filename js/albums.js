@@ -143,7 +143,7 @@ const albums = [
 "Pearl Jam|Ten|1991|OLAK5uy_mw4FTsQlVeKTVFhffMb2t1qIThWg3qsN4|A827|Ten (Pearl Jam album)|Pearl Jam|Grunge;Hard Rock;Alternative Rock;Rock",
 "Aretha Franklin|Lady Soul|1968|OLAK5uy_nvqCtrRYIo5bCApiLEMUZbUKuSuHN1VKg|A126|Lady Soul|Aretha Franklin|Southern Soul;R&B;Soul",
 "Tom Waits|Swordfishtrombones|1983|OLAK5uy_m6QNS6sbdI80_gPlk0kJDlOlhDzhaQwgQ|A571|Swordfishtrombones|Tom Waits|Experimental Rock;Singer/Songwriter;Rock",
-"Johnny Cash|At Folsom Prison|1968|PLWCEchB4vYY237z10ZxoNrAWVIbDBMVDi|A136|At Folsom Prison|Johnny Cash|Country",
+"Johnny Cash|At Folsom Prison|1968|OLAK5uy_k2MH6ZLDFnIWPn-tPr3RBRVbokTwavK1U|A136|At Folsom Prison|Johnny Cash|Country",
 "Stevie Wonder|Talking Book|1972|OLAK5uy_k9msukwIx-ZieqE0FmVRFtayWae2xv9YI|A244|Talking Book|Stevie Wonder|Soul;R&B",
 "Queen|A Night at the Opera|1975|OLAK5uy_mz4wksGpUUokxRpbyFKZ8pmRY51dWvDH8|A350|A Night at the Opera (Queen album)|Queen (band)|Art Rock;Hard Rock;Rock",
 "Led Zeppelin|Led Zeppelin|1969|OLAK5uy_kBuigfoB79x8bX2p32UZw1DcZHo7bkMWA|A170|Led Zeppelin (album)|Led Zeppelin|Blues Rock;Hard Rock;Rock",
