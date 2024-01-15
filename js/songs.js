@@ -2191,7 +2191,7 @@ const songs = [
 "James|Laid|1993|g_qZ5B-yioU|James (band)|S3509|Britpop;Indie Pop;Alternative Rock;Pop;Pop Rock;Rock|Laid (song)",
 "Fats Domino|Blue Monday|1956|Fy5WM1xYbGo|Fats Domino|S1282|New Orleans R&B;R&B|Blue Monday (Fats Domino song)",
 "alt-J|Breezeblocks|2012|rVeMiVU77wo|Alt-J|S4996|Indie Pop;Indietronica;Electronic;Pop|",
-"Buffalo Springfield|Expecting to Fly|1967|hzMl0-bhNcM|Buffalo Springfield|S921|Baroque Pop;Psychedelic Folk;Contemporary Folk;Folk;Pop|Expecting to Fly (song)",
+"Buffalo Springfield|Expecting to Fly|1967|6_fefHBpo40?start=41|Buffalo Springfield|S921|Baroque Pop;Psychedelic Folk;Contemporary Folk;Folk;Pop|Expecting to Fly (song)",
 "Leonard Cohen|The Future|1992|3VAxwimExn0|Leonard Cohen|S2044|Blue Eyed Soul;Singer/Songwriter;Sophisti-Pop;Pop|The Future (Leonard Cohen album)",
 "Japandroids|Young Hearts Spark Fire|2009|pRSSKtQHhxA|Japandroids|S4835|Lo-Fi / Slacker Rock;Noise Rock;Alternative Rock;Indie Rock;Rock|",
 "Slim Harpo|I'm a King Bee|1957|XWLvm11MAaM|Slim Harpo|S1260|Swamp Blues;Blues;Electric Blues|I'm a King Bee",
