@@ -985,7 +985,7 @@ const albums = [
 "Chuck Berry|Chuck Berry Is On Top|1959|OLAK5uy_m2DW4CiOzW5ThbA2Hd32pgnDgWqbqPoz0|A1268|Chuck Berry Is on Top|Chuck Berry|Rock & Roll;Rock",
 "Jerry Lee Lewis|Live at the Star Club, Hamburg|1964|OLAK5uy_ksQsqIkRp2L2tmPCVK7qqFTsSGJLXkkdA|A59|Live at the Star Club, Hamburg|Jerry Lee Lewis|Rock & Roll;Rock",
 "Stevie Wonder|Fulfillingness' First Finale|1974|OLAK5uy_knOJ9fKcznUtUEyApBZVSCAaz4hDpckA4|A325|Fulfillingness' First Finale|Stevie Wonder|Soul;R&B",
-"The Last Poets|The Last Poets|1970|PL1X3qTzT40VkFPOUPcV2XLCQhTDTSgocJ|A2337|The Last Poets (album)|The Last Poets|Poetry;Descriptor;Spoken Word",
+"The Last Poets|The Last Poets|1970|OLAK5uy_k1JcnTzAD8SgOupAF9_4wHDaLe8LbBfT0|A2337|The Last Poets (album)|The Last Poets|Poetry;Descriptor;Spoken Word",
 "Cocteau Twins|Heaven or Las Vegas|1990|OLAK5uy_lxPYZGdCg185g6T9C1O--IoeLy1nvDT80|A796|Heaven or Las Vegas|Cocteau Twins|Dream Pop;Alternative Rock;Rock",
 "Meat Puppets|Meat Puppets II|1984|OLAK5uy_k8aNpL2RDS2twaukCKH8cnV9OrHAj_ihA|A599|Meat Puppets II|Meat Puppets|Alternative Rock;Cowpunk;Country Rock;Punk Rock;Rock",
 "Talk Talk|The Colour of Spring|1986|OLAK5uy_koE4rtsIJ002pzrNOUIjuhnft_Aun9pkY|A1514|The Colour of Spring|Talk Talk|Art Pop;Chamber Pop;Baroque Pop;Indie Pop;Pop",
