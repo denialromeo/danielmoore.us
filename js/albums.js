@@ -646,7 +646,7 @@ const albums = [
 "Adele|21|2011|OLAK5uy_n1L0HX3yuyNtq_Xsu5Ofewh0xRvgQQRZc|A5120|21 (Adele album)|Adele|Pop Soul;Pop;R&B;Soul",
 "J Dilla|Donuts|2006|OLAK5uy_m8VPjbn9rF3ninCB-n_ToxxHH5U3_TkvE|A2099|Donuts (album)|J Dilla|Instrumental Hip Hop;Hip Hop",
 "Goldie|Timeless|1995|OLAK5uy_l5FqdhFThd2pkZD9c4ssg6vTUjXUCA5po|A943|Timeless (Goldie album)|Goldie|Atmospheric Drum and Bass;Dance;Drum and Bass;Electronic;Electronic Dance Music",
-"Jay-Z|The Black Album|2003|PLBREYXCBgn80wtnv7CMZHGFkEw4gyDu-r|A3995|The Black Album (Jay-Z album)|Jay-Z|Hip Hop",
+"Jay-Z|The Black Album|2003|OLAK5uy_mdavaKa6H8395K5mq9VOWUMNz6caZH2Qs|A3995|The Black Album (Jay-Z album)|Jay-Z|Hip Hop",
 "Peter Gabriel|Peter Gabriel (III)|1980|OLAK5uy_kOvNCuTebQq39ua5HI8f_qfKdRxu9NjKM|A493|Peter Gabriel (1980 album)|Peter Gabriel|Art Rock;Rock",
 "Soul II Soul|Club Classics Vol. One|1989|OLAK5uy_mgcJcbtm0-U4-LPTfzMlZLZ96ozHlC4p8|A762|Club Classics Vol. One|Soul II Soul|Contemporary R&B;Dance-Pop;Dance;Pop;R&B",
 "Cyndi Lauper|She's So Unusual|1983|OLAK5uy_nhtkx55x9GLPWYSS1HZsFc6UEWo-X3A3k|A624|She's So Unusual|Cyndi Lauper|Pop Rock;Pop;Rock",
