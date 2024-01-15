@@ -558,7 +558,7 @@ const albums = [
 "Steely Dan|Can't Buy a Thrill|1972|OLAK5uy_kT-Wz5yuAHB_pJlDx_RtmwD3K_2CWFLPM|A251|Can't Buy a Thrill|Steely Dan|Pop Rock;Pop;Rock",
 "Meat Loaf|Bat Out of Hell|1977|OLAK5uy_kR6BkUnktxJWYqmWOEXCOYyL3SLIyoR9k|A1186|Bat Out of Hell|Meat Loaf|Pop Rock;Rock Opera;Pop;Rock",
 "Joni Mitchell|The Hissing of Summer Lawns|1975|OLAK5uy_lZhOCRGqZsBFIzNoDn3OmSQodPHvJfjrA|A341|The Hissing of Summer Lawns|Joni Mitchell|Jazz Pop;Singer/Songwriter;Pop",
-"Duke Ellington|Ellington at Newport|1956|PLL-NbN8uTOihEAAeD75eevQTDiFqHi8ta|A1789|Ellington at Newport|Duke Ellington|Big Band;Jazz",
+"Duke Ellington|Ellington at Newport|1956|OLAK5uy_nPQbrWSxG0yLEE0gQfCbawHwQ6NOWryKw|A1789|Ellington at Newport|Duke Ellington|Big Band;Jazz",
 "At the Drive-In|Relationship of Command|2000|OLAK5uy_nyj4psbrLIw2pxDalEWWcQxD-TIXj0PC8|A1092|Relationship of Command|At the Drive-In|Post-Hardcore;Punk Rock;Rock",
 "Talking Heads|Stop Making Sense|1984|OLAK5uy_ncdaBONQVq2qTXgmqN9yFNc9AqIuRt_OY|A619|Stop Making Sense (album)|Talking Heads|Art Rock;New Wave;Post-Punk;Rock",
 "Bright Eyes|I'm Wide Awake, It's Morning|2005|OLAK5uy_koFDMOscWBYpgvTXOMeOpbjucMEEVGsyU|A4136|I'm Wide Awake, It's Morning|Bright Eyes (band)|Indie Folk;Contemporary Folk;Folk",
