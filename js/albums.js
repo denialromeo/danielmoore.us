@@ -2539,7 +2539,7 @@ const albums = [
 "Girl Talk|Night Ripper|2006|OLAK5uy_m_skLgmD7UOM_g5LN8ITKspovVwZiNeQs|A3158|Night Ripper|Girl Talk (musician)|Mashup;Experimental;Plunderphonics;Sound Collage;Tape Music",
 "Tom Waits|Alice|2002|OLAK5uy_nvWWEURYrY4StHAgMHS715a6KO7tQ6OgM|A1646|Alice (Tom Waits album)|Tom Waits|Singer/Songwriter",
 "Sonic Youth|Rather Ripped|2006|OLAK5uy_mZ49fiNbJSgP6AYciMjDcydsvcpOU7j-k|A2137|Rather Ripped|Sonic Youth|Indie Rock;Alternative Rock;Rock",
-"The Louvin Brothers|Tragic Songs of Life|1956|PL4BDCD82E321933A7|A2255|Tragic Songs of Life (The Louvin Brothers album)|The Louvin Brothers|Close Harmony;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music",
+"The Louvin Brothers|Tragic Songs of Life|1956|OLAK5uy_mPr9Vnf-IEpJja-Ab6v4gSocvLOkgYpBQ|A2255|Tragic Songs of Life (The Louvin Brothers album)|The Louvin Brothers|Close Harmony;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music",
 "Guy|Guy|1988|OLAK5uy_mf8L4SlvEzdKy7XAr0W9lA5jCwCuQ6FvY|A3224|Guy (album)|Guy (band)|New Jack Swing;Contemporary R&B;R&B",
 "Underworld|Beaucoup Fish|1999|OLAK5uy_kpz_avfVdfKaoUglk1onG3JkkkbZguH90|A1078|Beaucoup Fish|Underworld (band)|Progressive House;Techno;Dance;Electronic;Electronic Dance Music;House",
 "Nusrat Fateh Ali Khan|Devotional Songs|1992|PLDIxWXRU4UDqLEPDoVpBuo7EqkwfR1imX|A3498|Devotional Songs|Nusrat Fateh Ali Khan|Qawwali;Classical Music;Hindustani Classical Music;Regional Music;South Asian Classical Music;South Asian Music",
