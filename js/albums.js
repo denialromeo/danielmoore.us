@@ -438,7 +438,7 @@ const albums = [
 "Sleater-Kinney|Dig Me Out|1997|OLAK5uy_lGcePdp_0OUn87AHhwMwu-LwyfflxpfCk|A1015|Dig Me Out|Sleater-Kinney|Indie Rock;Punk Rock;Alternative Rock;Rock",
 "James Blake|James Blake|2011|OLAK5uy_lCCejFikzBLzUBOIbMzsnzZbqcdLlRfEg|A5130|James Blake (album)|James Blake (musician)|Alternative R&B;Art Pop;Electronic;Contemporary R&B;Pop;R&B",
 "Donald Fagen|The Nightfly|1982|OLAK5uy_kJmuqJb6DRctnv0NEBJNkhfwy8aSqrYA8|A548|The Nightfly|Donald Fagen|Jazz Pop;Pop Rock;Sophisti-Pop;Pop;Rock",
-"Crosby, Stills & Nash|Crosby, Stills & Nash|1969|PL6RKi--QWt5POoe5VEt4ggGccVx4ByVap|A162|Crosby, Stills & Nash (album)|Crosby, Stills, Nash & Young|Folk Rock;Rock",
+"Crosby, Stills & Nash|Crosby, Stills & Nash|1969|OLAK5uy_ne_9wUoCTi_jERqLA54IMkprmdHQhsA54|A162|Crosby, Stills & Nash (album)|Crosby, Stills, Nash & Young|Folk Rock;Rock",
 "The B-52's|The B-52's|1979|OLAK5uy_lxA_KLcIK1bBrmyFTOm5oWoOIffv825JQ|A465|The B-52's (album)|The B-52's|New Wave;Rock",
 "SZA|Ctrl|2017|OLAK5uy_nc7f_y7E_3cXhJmMkV8yq9CU2iqpnooug|A5993|Ctrl (SZA album)|SZA (singer)|Alternative R&B;Contemporary R&B;R&B",
 "Paul McCartney and Wings|Band on the Run|1973|OLAK5uy_kPjAbFvb9QdwWoKqEXHt8tUgfzkgUeUFY|A288|Band on the Run|Paul McCartney and Wings|Pop Rock;Pop;Rock",
