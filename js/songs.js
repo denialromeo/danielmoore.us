@@ -8981,7 +8981,7 @@ const songs = [
 "Gary U.S. Bonds|School Is Out|1961|wnEbAcvMT9M|Gary U.S. Bonds|S6507|Rhythm & Blues;Rock & Roll;R&B;Rock|",
 "The Drums|Money|2011|4nRX7NIrrzs|The Drums|S6162|Indie Pop;Pop|Money (The Drums song)",
 "LFO|Freak|2003|BL-0nC1vpmI|LFO (American band)|S7253|Acid Techno;Dance;Electronic;Electronic Dance Music;Techno|",
-"Buffalo Springfield|Rock and Roll Woman|1967|_QDpdS3Atyo|Buffalo Springfield|S10323|Country Rock;Folk Rock;Rock|",
+"Buffalo Springfield|Rock and Roll Woman|1967|8ZmlHSJ30wM|Buffalo Springfield|S10323|Country Rock;Folk Rock;Rock|",
 "Bourvil|C'était Bien (Le Petit Bal Perdu)|1960|GXV-1ZebdBs|Bourvil|S9170|Chanson;Regional Music|",
 "Angel Olsen|Forgiven/Forgotten|2014|PinTAGbIsV4|Angel Olsen|S9615|Indie Rock;Alternative Rock;Rock|",
 "Sammy Turner|Lavender Blue|1959|98bMm_jXzZA|Sammy Turner|S8310|Rhythm & Blues;Soul;Traditional Pop;Pop;R&B|Lavender's Blue",
