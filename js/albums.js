@@ -130,7 +130,7 @@ const albums = [
 "Pulp|Different Class|1995|OLAK5uy_kpuC1lbty7PpQTYoJJg4wLInprUiB07RM|A937|Different Class|Pulp (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "Public Enemy|Fear of a Black Planet|1990|OLAK5uy_lVkMdXzkDIdwgd3e1AynvJlKpx-pxTh4A|A783|Fear of a Black Planet|Public Enemy (band)|Conscious Hip Hop;Political Hip Hop;Hip Hop",
 "Elvis Costello|My Aim Is True|1977|OLAK5uy_n-mvT43vQGZxdNYrXHpi1mCM5SiWji_J4|A394|My Aim Is True|Elvis Costello|New Wave;Pub Rock;Rock",
-"The Who|Tommy|1969|PLBnJv6rImVe9Ryn02lRmcDkIAapg5NT9g|A166|Tommy (The Who album)|The Who|Rock Opera;Rock",
+"The Who|Tommy|1969|PLtDQTpmZVt5qR-_Uf6yCqPBrHZ4UdXZKZ|A166|Tommy (The Who album)|The Who|Rock Opera;Rock",
 "Elvis Presley|Elvis Presley|1956|OLAK5uy_mjzGCAYZZ_6GnvycwKLhpChpaYzjvRV3w|A3|Elvis Presley (album)|Elvis Presley|Rock & Roll;Rock",
 "The Allman Brothers Band|At Fillmore East|1971|OLAK5uy_keOsbLSw3v35efcWXuJ59paJLYhYy8fho|A227|At Fillmore East|The Allman Brothers Band|Blues Rock;Jam Band;Southern Rock;Rock",
 "Bruce Springsteen|Born in the U.S.A.|1984|OLAK5uy_knulz6rBDTjgdDwskLxzD8g7gAdqRY4T0|A601|Born in the U.S.A.|Bruce Springsteen|Heartland Rock;Pop Rock;Pop;Rock",
