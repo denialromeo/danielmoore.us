@@ -1048,7 +1048,7 @@ const songs = [
 "Edwyn Collins|A Girl Like You|1994|Wr_ItR4CHpg|Edwyn Collins|S118|Pop Rock;Pop;Rock|A Girl Like You (Edwyn Collins song)",
 "Curtis Mayfield|Superfly|1972|-cmo6MRYf5g|Curtis Mayfield|S808|Chicago Soul;Film Soundtrack;Funk;Descriptor;R&B;Soul;Soundtracks|Superfly (song)",
 "Chuck Berry|Sweet Little Sixteen|1958|ZLV4NGpoy_E|Chuck Berry|S1206|Rock & Roll;Rock|Sweet Little Sixteen",
-"Chris Isaak|Wicked Game|1989|oadhHk2xs6c|Chris Isaak|S220|Pop Rock;Pop;Rock|Wicked Game",
+"Chris Isaak|Wicked Game|1989|jd-qI62gNJM|Chris Isaak|S220|Pop Rock;Pop;Rock|Wicked Game",
 "The Specials|Gangsters|1979|lgCZN1rU5co|The Specials|S575|2 Tone;Ska|",
 "The Streets|Dry Your Eyes|2004|PyHr-4SeILI|The Streets|S2445|Pop Rap;UK Hip Hop;Hip Hop|Dry Your Eyes",
 "MGMT|Electric Feel|2007|MmZexg8sxyk|MGMT|S4734|Indietronica;Synth Funk;Electronic;Funk;R&B|Electric Feel",
