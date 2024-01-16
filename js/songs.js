@@ -9047,7 +9047,7 @@ const songs = [
 "Billie Holiday|Solitude|1941|xiU-O8arVa8|Billie Holiday|S13682|Vocal Jazz;Jazz|",
 "Joe Dassin|Salut les amoureux|1972|dozLCl5cETs?start=3|Joe Dassin|S11220|Chanson;Regional Music|",
 "Gene Vincent|Race with the Devil|1956|A4KaFQN-v1I|Gene Vincent|S6520|Rockabilly;Rock;Rock & Roll|",
-"Flying Lotus|Do the Astral Plane|2010|b8E5KnNPt4g|Flying Lotus|S15483|IDM;Microhouse;Wonky;Dance;Electronic;Electronic Dance Music;House|",
+"Flying Lotus|Do the Astral Plane|2010|V_VeIP_l7iA|Flying Lotus|S15483|IDM;Microhouse;Wonky;Dance;Electronic;Electronic Dance Music;House|",
 "Dick Annegarn|Coutances|1975|je3MYlpuBAc|Dick Annegarn|S13441|Chanson;Regional Music|",
 "Sub Sub|Ain't No Love|1993|pRguEi3wufQ|Sub Sub|S2063|Funky House;Dance;Electronic;Electronic Dance Music;House|",
 "The Fabulous Thunderbirds|Tuff Enuff|1986|EcXT1clXc04|The Fabulous Thunderbirds|S6331|Boogie Rock;Southern Rock;Blues Rock;Rock|Tuff Enuff (song)",
