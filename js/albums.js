@@ -1508,7 +1508,7 @@ const albums = [
 "John Lee Hooker|The Healer|1989|OLAK5uy_nPyytdZcjnh9wmmBXqYXUkt2E6VUqfLsg|A1546|The Healer (album)|John Lee Hooker|Electric Blues;Blues",
 "Betty Carter|The Audience with Betty Carter|1979|OLAK5uy_nUljP8wcIAGTTGA2m4Yo1W1LkzbfZWVYU|A2028|The Audience with Betty Carter|Betty Carter|Vocal Jazz;Jazz",
 "Spirit|Twelve Dreams of Dr. Sardonicus|1970|OLAK5uy_krUrhQaId8wAbDJdtpku8UCffC2TP4enc|A1135|Twelve Dreams of Dr. Sardonicus|Spirit (band)|Psychedelic Rock;Rock",
-"Einstürzende Neubauten|1/2 Mensch|1985|PLiN-7mukU_RExzJpiyQ1fj64zlAkjcrPl|A3065|Halber Mensch|Einstürzende Neubauten|Industrial;Experimental;Industrial Music",
+"Einstürzende Neubauten|1/2 Mensch|1985|OLAK5uy_mu1xYWZuKwttY6xffNC3kG7CxUpybKrSM|A3065|Halber Mensch|Einstürzende Neubauten|Industrial;Experimental;Industrial Music",
 "Bob Dylan/The Band|Before the Flood|1974|OLAK5uy_msgz57HPHS42C5sT844Y1-ngfRZ18lFdw|A329|Before the Flood (album)|The Band|Country Rock;Folk Rock;Roots Rock;Rock",
 "Queensrÿche|Operation: Mindcrime|1988|OLAK5uy_lmyODiaRA3soJR_SxCZIOnhyd4hyk9aqo|A1538|Operation: Mindcrime|Queensrÿche|Heavy Metal;Progressive Metal;Metal;Rock",
 "Magic Sam|West Side Soul|1968|OLAK5uy_lfpxxlGd9n3lyvyWboLbfh_0Zdd66kq_o|A1235|West Side Soul|Magic Sam|Chicago Blues;Blues;Electric Blues",
