@@ -10378,7 +10378,7 @@ const songs = [
 "Saint Etienne|Join Our Club|1992|OYdrwH12Ia4|Saint Etienne (band)|S8297|Alternative Dance;House;Indie Pop;Alternative Rock;Dance;Electronic;Electronic Dance Music;Pop;Rock|Join Our Club",
 "Adam F|Circles|1995|LDRNYUucKvA|Adam F|S12727|Atmospheric Drum and Bass;Dance;Drum and Bass;Electronic;Electronic Dance Music|Break It Off (PinkPantheress song)",
 "Vangelis|Chariots of Fire|1981|8a-HfNE3EIo|Vangelis|S8929|Film Score;Progressive Electronic;Descriptor;Electronic;Film Soundtrack;Soundtracks|",
-"Ultravox|Hiroshima Mon Amour|1977|Q3kQr4lAcsA|Ultravox|S13001|New Wave;Post-Punk;Rock|",
+"Ultravox|Hiroshima Mon Amour|1977|TMkPtOw_r90|Ultravox|S13001|New Wave;Post-Punk;Rock|",
 "Depeche Mode|Barrel of a Gun|1997|V7GCrTFCXYo|Depeche Mode|S10574|Industrial Rock;Synthpop;Electronic;Industrial Music;Pop;Rock|Barrel of a Gun",
 "Violent Femmes|Kiss Off|1983|NJUtlnn4KDg?start=20|Violent Femmes|S3969|Acoustic Rock;Alternative Rock;Folk Punk;Punk Rock;Rock|",
 "Pretenders|My City Was Gone|1982|thu8DWsirJo|The Pretenders|S3725|New Wave;Pop Rock;Pop;Rock|My City Was Gone",
