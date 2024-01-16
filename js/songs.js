@@ -9688,7 +9688,7 @@ const songs = [
 "Blur|Go Out|2015|Sp1ks7PTzng|Blur (band)|S16304|Alternative Rock;Rock|Out of Time (Blur song)",
 "Manuel Göttsching|E2-E4|1984|Vq-kovIr2BE|Manuel Göttsching|S11540|Progressive Electronic;Electronic|",
 "Wavves|King of the Beach|2010|u6dEfAedJpg|Wavves|S12555|Indie Rock;Surf Punk;Alternative Rock;Punk Rock;Rock;Surf Music|",
-"DJ Koze|Zuviel Zeit?|2005|NmPqqAs04dM|DJ Koze|S6105|House;Dance;Electronic;Electronic Dance Music|",
+"DJ Koze|Zuviel Zeit?|2005|3vIlM5PaYHE|DJ Koze|S6105|House;Dance;Electronic;Electronic Dance Music|",
 "Jimmy Soul|If You Wanna Be Happy|1963|MH_PANCU9oQ|Jimmy Soul|S6918|Pop Soul;Pop;R&B;Soul|If You Wanna Be Happy",
 "The Slits|Instant Hit|1979|QgXnkXhnGvc|The Slits|S12828|Art Punk;Post-Punk;Punk Rock;Rock|",
 "Def Leppard|Love Bites|1987|W4XiSFyYRE8|Def Leppard|S10564|AOR;Glam Metal;Pop Rock;Hard Rock;Pop;Rock|Love Bites (Def Leppard song)",
