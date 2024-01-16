@@ -2004,7 +2004,7 @@ const albums = [
 "Frank Ocean|Nostalgia, Ultra|2011|PLm6PTR904OPHxw8wbSNSk21l8Z2u3EKzs|A5162|Nostalgia, Ultra|Frank Ocean|Alternative R&B;Contemporary R&B;R&B",
 "Fugazi|Red Medicine|1995|OLAK5uy_mblHoD6YtHxabYHuQzoWSswWccwii7nCk|A3574|Red Medicine|Fugazi|Post-Hardcore;Punk Rock;Rock",
 "John Coltrane|Ballads|1963|OLAK5uy_lELmp3lItqC6VDTGJLkvFuFBidfOH_WrQ|A1907|Ballads (John Coltrane album)|John Coltrane|Cool Jazz;Modal Jazz;Jazz",
-"Courtney Barnett|Tell Me How You Really Feel|2018|https://www.youtube.com/embed/IWgAePYIEp8|A6032|Tell Me How You Really Feel|Courtney Barnett|Indie Rock;Singer/Songwriter;Alternative Rock;Rock",
+"Courtney Barnett|Tell Me How You Really Feel|2018|OLAK5uy_mYuHq6kVydIZew2AYvT3paeYE9rwrrWe0|A6032|Tell Me How You Really Feel|Courtney Barnett|Indie Rock;Singer/Songwriter;Alternative Rock;Rock",
 "Björk|Utopia|2017|OLAK5uy_kKHUKv52oO7iWMtV942GqiJTu03NxkI9c|A5864|Utopia (Björk album)|Björk|Art Pop;Glitch Pop;Electronic;Pop",
 "Cheap Trick|In Color|1977|OLAK5uy_nwqkdQSn99j4jITGJAN101bAPUjpV1YLM|A1157|In Color (album)|Cheap Trick|Hard Rock;Power Pop;Pop;Pop Rock;Rock",
 "Scissor Sisters|Scissor Sisters|2004|OLAK5uy_lf3OhfoH_2gwPSITxV7IV8jtWPqSvFark|A4037|Scissor Sisters (album)|Scissor Sisters|Dance-Pop;Pop Rock;Dance;Pop;Rock",
