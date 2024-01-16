@@ -9794,7 +9794,7 @@ const songs = [
 "GIT|Es por amor|1986|xN9Ssf-1u8Q|https://es.wikipedia.org/wiki/GIT|S10943|New Wave;Pop Rock;Pop;Rock|",
 "The Gentrys|Keep on Dancing|1965|VeEs6e0FdwU|The Gentrys|S14429|Rock & Roll;Rock|Keep On Dancing (The Gentrys song)",
 "Groove Armada|Superstylin'|2001|_kE0pxRkMtQ|Groove Armada|S6651|House;Dance;Electronic;Electronic Dance Music|",
-"Holly and the Italians|Tell That Girl to Shut Up|1979|shYf4x7PWg4|Holly Beth Vincent|S11037|New Wave;Power Pop;Pop;Pop Rock;Rock|Tell That Girl to Shut Up",
+"Holly and the Italians|Tell That Girl to Shut Up|1979|mhV39CSf3CA|Holly Beth Vincent|S11037|New Wave;Power Pop;Pop;Pop Rock;Rock|Tell That Girl to Shut Up",
 "Objekt|Ganzfeld|2014|sGYzpBoxa-w|https://www.discogs.com/artist/2089744-Objekt|S9652|IDM;Electronic|",
 "Fats Domino|I'm Ready|1959|GUUyvuDGAT8?start=5|Fats Domino|S6359|Rock & Roll;Rock|",
 "Smashing Pumpkins|Rhinoceros|1991|aVfWx9282y0|The Smashing Pumpkins|S15877|Alternative Rock;Rock|Mayonaise (song)",
