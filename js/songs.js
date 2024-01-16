@@ -6758,7 +6758,7 @@ const songs = [
 "Faith No More|I'm Easy|1992|vPzDTfIb0DU|Faith No More|S10782|Alternative Rock;Pop Rock;Pop;Rock|",
 "Tom Waits|Martha|1973|y9Mse62NFl4|Tom Waits|S4550|Piano Blues;Singer/Songwriter;Blues|",
 "Georgia Satellites|Keep Your Hands to Yourself|1986|sWC22NDkBv0?start=124|The Georgia Satellites|S6545|Southern Rock;Rock|Keep Your Hands to Yourself",
-"The Stylistics|You Are Everything|1971|ao8Ttbzqdns|The Stylistics|S8617|Philly Soul;Smooth Soul;R&B;Soul|You Are Everything",
+"The Stylistics|You Are Everything|1971|4xaWdcppjbk|The Stylistics|S8617|Philly Soul;Smooth Soul;R&B;Soul|You Are Everything",
 "Queen|Who Wants to Live Forever|1986|_Jtpf8N5IDE?start=5|Queen (band)|S11980|Film Soundtrack;Pop Rock;Symphonic Rock;Descriptor;Pop;Rock;Soundtracks|Who Wants to Live Forever",
 "Pavement|Rattled by the Rush|1995|dAVLkn-4B9o|Pavement (band)|S4511|Indie Rock;Alternative Rock;Rock|Wowee Zowee",
 "Rino Gaetano|Ma il cielo è sempre più blu|1975|XB3TfBXUOKw|Rino Gaetano|S13613|Pop;Singer/Songwriter|",
