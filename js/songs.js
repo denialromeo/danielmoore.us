@@ -271,7 +271,7 @@ const songs = [
 "Hot Chip|Over and Over|2006|i9Xn-jzZX1E|Hot Chip|S3996|Alternative Dance;Indietronica;Alternative Rock;Dance;Electronic;Rock|",
 "Mott the Hoople|All the Young Dudes|1972|yNHdPPJGowY|Mott the Hoople|S785|Glam Rock;Rock|All the Young Dudes",
 "Thin Lizzy|The Boys Are Back in Town|1976|hQo1HIcSVtg|Thin Lizzy|S668|Hard Rock;Rock|The Boys Are Back in Town",
-"Eminem|Lose Yourself|2002|_Yhyp-_hX2s|Eminem|S1529|Film Soundtrack;Hardcore Hip Hop;Descriptor;Hip Hop;Soundtracks|Lose Yourself",
+"Eminem|Lose Yourself|2002|7YuAzR2XVAM|Eminem|S1529|Film Soundtrack;Hardcore Hip Hop;Descriptor;Hip Hop;Soundtracks|Lose Yourself",
 "Azealia Banks|212|2011|i3Jv9fNPjgk|Azealia Banks|S4942|Dutch House;Hip House;Dance;Electronic;Electronic Dance Music;Hip Hop;House|212 (song)",
 "The Prodigy|Firestarter|1996|wmin5WkOuPw|The Prodigy|S32|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music|Firestarter (The Prodigy song)",
 "MC5|Kick Out the Jams|1969|yvJGQ_piwI0|MC5|S891|Garage Rock;Hard Rock;Proto-Punk;Rock|Kick Out the Jams (song)",
