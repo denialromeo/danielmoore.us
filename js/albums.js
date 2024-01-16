@@ -1161,7 +1161,7 @@ const albums = [
 "Fiona Apple|When the Pawn...|1999|OLAK5uy_nOn6YPJa_ZmbxxdFKFOIpJUJ7o7_UD7ck|A1070|When the Pawn...|Fiona Apple|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock",
 "Pretenders|Learning to Crawl|1984|OLAK5uy_kwbhXe0FfJm2F6GhoIJplEFhkusC0l2Wk|A614|Learning to Crawl|The Pretenders|New Wave;Pop Rock;Pop;Rock",
 "The Mamas and the Papas|If You Can Believe Your Eyes and Ears|1966|OLAK5uy_m6izkhl7zBi-kjUHkgnwnVFIpvAXeI7c4|A74|If You Can Believe Your Eyes and Ears|The Mamas and the Papas|Pop Rock;Sunshine Pop;Pop;Rock",
-"Sonny Rollins|The Bridge|1962|PL0q2VleZJVEljT52xpNPlT2zyXvMNrvSA|A1921|The Bridge (Sonny Rollins album)|Sonny Rollins|Hard Bop;Bebop;Jazz",
+"Sonny Rollins|The Bridge|1962|PLriPIg0RpIgweZ9bD1lA3F6aoxySomwSC|A1921|The Bridge (Sonny Rollins album)|Sonny Rollins|Hard Bop;Bebop;Jazz",
 "John Cale|Music for a New Society|1982|OLAK5uy_moburjVE3qbQLeqv6kJtprR4NRS-8X-zY|A565|Music for a New Society|John Cale|Art Rock;Rock",
 "Miles Davis|Milestones|1958|OLAK5uy_k6N48hdUbNKf7iImi1mGDOol1p3GEZLZA|A1840|Milestones (Miles Davis album)|Miles Davis|Hard Bop;Bebop;Jazz",
 "The Flaming Lips|Embryonic|2009|OLAK5uy_kfdz0l95eCSSo-r5g-ljNzektaokDDGSg|A4994|Embryonic (album)|The Flaming Lips|Experimental Rock;Neo-Psychedelia;Noise Pop;Alternative Rock;Psychedelic Rock;Rock",
