@@ -9626,7 +9626,7 @@ const songs = [
 "U2|A Sort of Homecoming|1984|ot-5qt-T-YQ|U2|S12501|Alternative Rock;Rock|A Sort of Homecoming (song)",
 "Paul Simon|American Tune|1973|AE3kKUEY5WU|Paul Simon|S9313|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|American Tune",
 "The Smithereens|Blood and Roses|1986|vqML7WbOun8|The Smithereens|S3824|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Blood and Roses (song)",
-"Lili Drop|Sur ma mob|1979|zAWbDNhjSUs|https://fr.wikipedia.org/wiki/Lili_Drop|S11439|New Wave;Rock|",
+"Lili Drop|Sur ma mob|1979|3XQ9bRtPK48|https://fr.wikipedia.org/wiki/Lili_Drop|S11439|New Wave;Rock|",
 "Frank Ocean|Solo|2016|X_SEwgDl02E|Frank Ocean|S16090|Ambient Pop;Art Pop;Pop|Solo (Frank Ocean song)",
 "The Communards|Don't Leave Me This Way|1986|1RHBAd5YUR8|The Communards|S10453|Dance-Pop;Hi-NRG;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;Pop|Don't Leave Me This Way",
 "Lynyrd Skynyrd|Simple Man|1973|l-5aPNxv-pU|Lynyrd Skynyrd|S14700|Hard Rock;Southern Rock;Rock|Simple Man (Lynyrd Skynyrd song)",
