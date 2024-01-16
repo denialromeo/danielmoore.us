@@ -10431,7 +10431,7 @@ const songs = [
 "Led Zeppelin|The Wanton Song|1975|iaFK6AHhU8s|Led Zeppelin|S11398|Hard Rock;Rock|The Wanton Song",
 "Sparks|Amateur Hour|1974|k3aH7RtVSLI|Sparks (band)|S12271|Art Rock;Glam Rock;Rock|Amateur Hour (song)",
 "Telepathe|So Fine|2009|_Un5SJ1aAGM|Telepathe|S8710|Electropop;Indietronica;Electronic;Pop|Nine Inch Nails",
-"Giorgio Moroder & Philip Oakley|Together in Electric Dreams|1984|Hdzt3eIfe2g|Philip Oakey|S10939|Film Soundtrack;New Wave;Synthpop;Descriptor;Electronic;Pop;Rock;Soundtracks|",
+"Giorgio Moroder & Philip Oakley|Together in Electric Dreams|1984|vVJYBPQyFTQ|Philip Oakey|S10939|Film Soundtrack;New Wave;Synthpop;Descriptor;Electronic;Pop;Rock;Soundtracks|",
 "Paramore|Still Into You|2013|OblL026SvD4|Paramore|S9501|Power Pop;Pop;Pop Rock;Rock|Still Into You",
 "Florence + The Machine|What the Water Gave Me|2011|am6rArVPip8|Florence and the Machine|S6409|Art Pop;Pop|What the Water Gave Me (song)",
 "Chance the Rapper feat. Kanye West and Chicago Children's Choir|All We Got|2016|awE6XAKh0sY|Chance the Rapper|S16054|Conscious Hip Hop;Neo-Soul;Pop Rap;Hip Hop;R&B;Soul|",
