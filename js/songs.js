@@ -186,7 +186,7 @@ const songs = [
 "Animal Collective|My Girls|2009|zol2MJf6XNE|Animal Collective|S4784|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|My Girls (Animal Collective song)",
 "The Beatles|Eleanor Rigby|1966|HuS5NuXRb5Y|The Beatles|S1444|Baroque Pop;Pop|Eleanor Rigby",
 "T. Rex|Get It On [Bang a Gong (Get It On)]|1971|wZkTh_T75QY|T. Rex (band)|S815|Glam Rock;Rock|Get It On (T. Rex song)",
-"The La's|There She Goes|1988|eu2iv-vMKT8|The La's|S221|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|There She Goes (The La's song)",
+"The La's|There She Goes|1988|-CCfIJgVM6M|The La's|S221|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|There She Goes (The La's song)",
 "The Beatles|Help!|1965|2Q_ZzBGPdqE|The Beatles|S998|Pop Rock;Pop;Rock|Help! (song)",
 "The Rapture|House of Jealous Lovers|2002|hKSTpmQjt7Y|The Rapture (band)|S1508|Dance-Punk;Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|House of Jealous Lovers",
 "The Strokes|Last Nite|2001|TOypSnKFHrE|The Strokes|S1478|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|Last Nite",
