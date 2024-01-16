@@ -259,7 +259,7 @@ const albums = [
 "The Who|My Generation|1965|OLAK5uy_mOvSsBM6uVFI-ag-U7pzrIvTAvuxHxWPk|A35|My Generation (album)|The Who|Beat Music;Mod;Pop;Pop Rock;Rock",
 "Funkadelic|One Nation Under a Groove|1978|PLFXrU3EI1RaxfHxLBaSP8BeoNZzCdXXL9|A431|One Nation Under a Groove|Funkadelic|Funk Rock;P-Funk;Funk;R&B;Rock",
 "Soundgarden|Superunknown|1994|OLAK5uy_kJxFpCNIHxeAUoovlRmuOOTZGZAuE79yY|A911|Superunknown|Soundgarden|Grunge;Alternative Rock;Rock",
-"Can|Tago Mago|1971|PLmaEkFVVTm8OL_CvqQIoGrxew1U9kA5aO|A228|Tago Mago|Can (band)|Krautrock;Psychedelic Rock;Experimental Rock;Progressive Rock;Rock",
+"Can|Tago Mago|1971|OLAK5uy_nSN8EVJcOwg1NTCs4DfXPPKHrAHpk6Pc4|A228|Tago Mago|Can (band)|Krautrock;Psychedelic Rock;Experimental Rock;Progressive Rock;Rock",
 "The Cure|Disintegration|1989|OLAK5uy_mVJSLXrczjRedcJsaknnU_PWPPVai3PI8|A770|Disintegration (The Cure album)|The Cure|Gothic Rock;Post-Punk;Rock",
 "The Mothers of Invention|Freak Out!|1966|OLAK5uy_lsh4ADusOlNrZUdvY3kxYSH-IaryPkEZM|A65|Freak Out!|The Mothers of Invention|Experimental Rock;Satire;Comedy;Descriptor;Rock",
 "D'Angelo and The Vanguard|Black Messiah|2014|OLAK5uy_l3GaVWHBHE3Vwqulz66u2-w4grcvpVYqk|A5403|Black Messiah (album)|D'Angelo|Neo-Soul;R&B;Soul",
