@@ -8055,7 +8055,7 @@ const songs = [
 "Nirvana|Dumb|1993|peclQi67KS8|Kurt Cobain|S7754|Alternative Rock;Rock|Dumb (Nirvana song)",
 "Sonic Youth|Expressway to Yr Skull|1986|Y_-dYUobltk|Sonic Youth|S8487|Experimental Rock;Noise Rock;Rock|",
 "The Equals|Baby, Come Back|1967|1f3o7OcYRIU|The Equals|S6292|Beat Music;Ska;Pop;Pop Rock;Rock|Baby, Come Back (The Equals song)",
-"The Soft Boys|Queen of Eyes|1980|5-7Y2JCAruE|The Soft Boys|S15884|Jangle Pop;Neo-Psychedelia;Post-Punk;Alternative Rock;Pop;Pop Rock;Psychedelic Rock;Rock|",
+"The Soft Boys|Queen of Eyes|1980|SQ4wn55Sc7A|The Soft Boys|S15884|Jangle Pop;Neo-Psychedelia;Post-Punk;Alternative Rock;Pop;Pop Rock;Psychedelic Rock;Rock|",
 "Maurice Fanon|L'écharpe|1963|KYHRgYwrNDQ|https://fr.wikipedia.org/wiki/Maurice_Fanon|S11580|Chanson;Regional Music|",
 "Danny Brown|Grown Up|2012|mOmsU91AxVg|Danny Brown|S5944|Conscious Hip Hop;Hip Hop|",
 "Ian Dury|What a Waste|1978|d57CjU62qYs|The Blockheads|S1807|New Wave;Pub Rock;Rock|What a Waste",
