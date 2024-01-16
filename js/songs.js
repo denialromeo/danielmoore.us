@@ -6839,7 +6839,7 @@ const songs = [
 "George Harrison|Give Me Love (Give Me Peace on Earth)|1973|s-KAvPbO8JY|George Harrison|S10914|Pop Rock;Singer/Songwriter;Pop;Rock|Give Me Love (Give Me Peace on Earth)",
 "Swans|A Little God in My Hands|2014|vfmi0v5vIGo|Swans (band)|S9626|Art Rock;Experimental Rock;Rock|",
 "Love & Rockets|So Alive|1989|-L41MhFPU9s|Love and Rockets (band)|S2003|Alternative Dance;Post-Punk;Alternative Rock;Dance;Rock|So Alive (Love and Rockets song)",
-"Was (Not Was)|Out Come the Freaks|1981|wguF9N0x9do|Was (Not Was)|S3939|Disco;Dance|Out Come the Freaks",
+"Was (Not Was)|Out Come the Freaks|1981|2F3SP9gweac|Was (Not Was)|S3939|Disco;Dance|Out Come the Freaks",
 "The Delmore Brothers|Blues Stay Away from Me|1949|YUk9UDoVyKk|The Delmore Brothers|S4067|Bluegrass;Close Harmony;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
 "The Amboy Dukes|Journey to the Center of the Mind|1968|_onagRhKN5E|The Amboy Dukes|S5185|Psychedelic Rock;Rock|",
 "Étienne de Crécy|Prix Choc|1997|IUNS6xU-kt0|Étienne de Crécy|S10761|Deep House;French House;Dance;Electronic;Electronic Dance Music;House|",
