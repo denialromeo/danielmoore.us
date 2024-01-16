@@ -10701,7 +10701,7 @@ const songs = [
 "Eurythmics|You Have Placed a Chill in My Heart|1987|iQpJqtfCmcM|Eurythmics|S10767|Blue Eyed Soul;Pop|You Have Placed a Chill in My Heart",
 "Absolute Beginner|Liebes Lied|1998|k8gNzJcpHW0|Beginner (band)|S15226|Hip Hop|",
 "Mos Def|Body Rock|1998|HBulS5FanCM|Mos Def|S7612|Boom Bap;East Coast Hip Hop;Hip Hop|Mathematics (Mos Def song)",
-"Huey Lewis and the News|I Want a New Drug|1983|N6uEMOeDZsA|Huey Lewis and the News|S6748|New Wave;Pop Rock;Pop;Rock|",
+"Huey Lewis and the News|I Want a New Drug|1983|N6uEMOeDZsA|Huey Lewis and the News|S6748|New Wave;Pop Rock;Pop;Rock|I Want a New Drug",
 "OK Go|Here It Goes Again|2005|dTAAsCNK7RA|OK Go|S11793|Power Pop;Pop;Pop Rock;Rock|Here It Goes Again",
 "Deftones|Be Quiet and Drive (Far Away)|1997|_t1vqLwqbyA|Deftones|S297|Alternative Metal;Metal;Rock|",
 "Jonathan Richman/The Modern Lovers|She Cracked|1976|oJfPGgr8080|The Modern Lovers|S3635|Garage Rock;Proto-Punk;Rock|Jonathan Richman",
