@@ -208,7 +208,7 @@ const albums = [
 "Prince and The Revolution|1999|1982|OLAK5uy_lcDK1XaEixztzKe5RQjPn6rY8rts_fagg|A546|1999 (Prince album)|Prince (musician)|Pop;Synth Funk;Funk;R&B",
 "The Modern Lovers|The Modern Lovers|1976|OLAK5uy_kbSSB4NkDvPozTOpn3k3g6OrjR5oaMQ0Y|A366|The Modern Lovers (album)|The Modern Lovers|Proto-Punk;Rock",
 "Creedence Clearwater Revival|Cosmo's Factory|1970|OLAK5uy_kvQqKIbIb1tfTC3LWEN89FPWno2088htk|A191|Cosmo's Factory|Creedence Clearwater Revival|Swamp Rock;Rock;Roots Rock",
-"Bob Marley and The Wailers|Exodus|1977|OLAK5uy_ltwqeftDcEhfFWynJ4ZDJZjaVQ_VK10DY|A407|Exodus (Bob Marley and the Wailers album)|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
+"Bob Marley and The Wailers|Exodus|1977|OLAK5uy_kNk8OLihZXKhFewRNxShu6Jq5h2UZ4cmg|A407|Exodus (Bob Marley and the Wailers album)|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Animal Collective|Merriweather Post Pavilion|2009|OLAK5uy_lq6ZY8GSCQhbG7Z6cr-rw5EL9CQ54CdSs|A4987|Merriweather Post Pavilion (album)|Animal Collective|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock",
 "Pink Floyd|Wish You Were Here|1975|OLAK5uy_mzowhqljIOba8BVGEmVkeaWeL2S_bO4bw|A347|Wish You Were Here (Pink Floyd album)|Pink Floyd|Art Rock;Progressive Rock;Rock",
 "Suicide|Suicide|1977|OLAK5uy_nuux79hO00KLMSK6uMJpsoS3jYW2t6qhs|A400|Suicide (1977 album)|Suicide (band)|Minimal Synth;Synth Punk;Electronic;Minimal Wave;Punk Rock;Rock",
