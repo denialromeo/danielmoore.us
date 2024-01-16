@@ -10825,7 +10825,7 @@ const songs = [
 "Blumfeld|Verstärker|1994|cK3vcahVMAw|Blumfeld|S10219|Hamburger Schule;Alternative Rock;Indie Rock;Rock|",
 "Waxahatchee|Air|2015|O2BpdpmqkDA|Waxahatchee|S9868|Indie Rock;Alternative Rock;Rock|",
 "L7|Shove|1990|X-XQV63E0GU|L7 (band)|S7161|Grunge;Alternative Rock;Rock|Shove",
-"Redskins|Bring It Down (This Insane Thing)|1985|uXo6jRGHgr4|The Redskins|S8131|Blue Eyed Soul;Funk Rock;New Wave;Pop Rock;Pop;Rock|",
+"Redskins|Bring It Down (This Insane Thing)|1985|OaACUnN5XTQ|The Redskins|S8131|Blue Eyed Soul;Funk Rock;New Wave;Pop Rock;Pop;Rock|",
 "Kendrick Lamar|Untitled 03 05.28.2013|2015|04HPkc6zRu0|Kendrick Lamar|S16122|Conscious Hip Hop;Jazz Rap;West Coast Hip Hop;Hip Hop|Untitled 03 – 05.28.2013.",
 "Ray Stevens|The Streak|1974|XtzoUu7w-YM?start=6|Ray Stevens|S13940|Country Pop;Novelty;Country;Descriptor;Pop|The Streak (song)",
 "Motörhead/Girlschool|Please Don't Touch|1981|3Va981qGlxM|Girlschool|S11691|Hard Rock;Heavy Metal;Metal;Rock|Please Don't Touch (song)",
