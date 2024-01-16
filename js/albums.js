@@ -617,7 +617,7 @@ const albums = [
 "Vince Staples|Summertime '06|2015|OLAK5uy_medmxEizfe46ruJybOwAbSxoREBh_PoHM|A5553|Summertime '06|Vince Staples|Hardcore Hip Hop;Hip Hop",
 "The Beatles|Let It Be|1970|OLAK5uy_nKumaWFv9ZtpUwQ8XAl85VkmJY_G06ryI|A210|Let It Be (Beatles album)|The Beatles|Pop Rock;Pop;Rock",
 "Primal Scream|Xtrmntr|2000|OLAK5uy_lrxUSxQmPlNDRQgWl1SNBgHfx8yUKjII8|A1083|XTRMNTR|Primal Scream|Alternative Dance;Electronic;Alternative Rock;Dance;Rock",
-"King Sunny Adé|Juju Music|1982|PL0wkubrWzOBa28gmpYhwoP49Onwp0frSX|A2037|Juju Music|King Sunny Adé|Jùjú;African Music;Regional Music;West African Music;Yoruba Music",
+"King Sunny Adé|Juju Music|1982|OLAK5uy_mbex83OgSlw6V7QWDcyg18TYTaoTa8q1I|A2037|Juju Music|King Sunny Adé|Jùjú;African Music;Regional Music;West African Music;Yoruba Music",
 "Teenage Fanclub|Bandwagonesque|1991|OLAK5uy_l_6KUVJSzAw8dMkwjMLOtCLs9NvLyxhz4|A817|Bandwagonesque|Teenage Fanclub|Jangle Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock",
 "A Tribe Called Quest|Midnight Marauders|1993|OLAK5uy_ncxk2dzMeB4E9vgbWeMvM_O_SydgJR2C0|A899|Midnight Marauders|A Tribe Called Quest|Boom Bap;Jazz Rap;Hip Hop",
 "Elvis Presley|Elvis|1956|PLNf28LT9IOhHws7kuAKhOzg1pL29nKob6|A16|Elvis (1956 album)|Elvis Presley|Rock & Roll;Rock",
