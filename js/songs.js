@@ -2948,7 +2948,7 @@ const songs = [
 "Alice Cooper|No More Mr. Nice Guy|1973|PE1vGT-hlLI|Alice Cooper|S5158|Glam Rock;Hard Rock;Rock|No More Mr. Nice Guy (song)",
 "Big Star|The Ballad of El Goodo|1972|Cn1t6l7UUPc|Big Star|S5437|Power Pop;Pop;Pop Rock;Rock|",
 "Tears for Fears|Head Over Heels|1985|CsHiG-43Fzg|Tears for Fears|S4470|Pop Rock;Synthpop;Electronic;Pop;Rock|Head over Heels (Tears for Fears song)",
-"Grateful Dead|Touch of Grey|1987|1uby6jFCDjE|Grateful Dead|S1959|Pop Rock;Roots Rock;Pop;Rock|Touch of Grey",
+"Grateful Dead|Touch of Grey|1987|mzvk0fWtCs0|Grateful Dead|S1959|Pop Rock;Roots Rock;Pop;Rock|Touch of Grey",
 "Rose Royce|Car Wash|1976|PkxaunLybuM|Rose Royce|S3786|Disco;Film Soundtrack;Funk;Dance;Descriptor;R&B;Soundtracks|Car Wash (song)",
 "Goo Goo Dolls|Iris|1998|NdYWuo9OFAw|Goo Goo Dolls|S295|Film Soundtrack;Pop Rock;Descriptor;Pop;Rock;Soundtracks|Iris (song)",
 "Chuck Berry|Memphis, Tennessee|1959|KrbPlr4Wskc|Chuck Berry|S1191|Rock & Roll;Rock|Memphis, Tennessee (song)",
