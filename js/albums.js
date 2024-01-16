@@ -1710,7 +1710,7 @@ const albums = [
 "Miles Davis|Miles Davis at Plugged Nickel, Chicago|1976|OLAK5uy_lwAKg1viWJaJo8QZ4g7DXOge6NeMa9Jp4|A2023|The Complete Live at the Plugged Nickel 1965|Miles Davis|Jazz",
 "Shelby Lynne|I Am Shelby Lynne|1999|OLAK5uy_lZIYs1rG1VCrZI-LAUmg6Fl0nTBEjehgQ|A1079|I Am Shelby Lynne|Shelby Lynne|Country Pop;Country;Pop",
 "Mogwai|Come On Die Young|1999|OLAK5uy_ntUCDqHiMeA2ty5fFgrCRnYd3M9coXlXs|A1076|Come On Die Young|Mogwai|Post-Rock;Rock",
-"João Gilberto|Chega De Saudade|1959|PLCkmYOs4j7okDGRTyBsEKWh6QwuaVD0BV|A4435|Chega de Saudade (album)|João Gilberto|Bossa Nova;Brazilian Music;Regional Music",
+"João Gilberto|Chega De Saudade|1959|OLAK5uy_lXH-TEp-RePn7tcnbPfr5BjCklUIiYP0I|A4435|Chega de Saudade (album)|João Gilberto|Bossa Nova;Brazilian Music;Regional Music",
 "Perfume Genius|Too Bright|2014|OLAK5uy_kLsoY4PMAuQJrjhZYe0kvBGZ1lrrdhvbs|A5399|Too Bright|Perfume Genius|Art Pop;Pop",
 "Tortoise|TNT|1998|OLAK5uy_kSlnlQCHHGgzUzzxrZCsYuNUkBQ4xNwcc|A1732|TNT (Tortoise album)|Tortoise (band)|Electronic;Experimental Rock;Post-Rock;Rock",
 "Sunny Day Real Estate|Diary|1994|OLAK5uy_knTlYxI2IA2GvfTS03EGLAp2jac-0j3C4|A3531|Diary (Sunny Day Real Estate album)|Sunny Day Real Estate|Midwest Emo;Alternative Rock;Emo;Indie Rock;Rock",
