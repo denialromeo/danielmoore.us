@@ -697,7 +697,7 @@ const albums = [
 "Cocteau Twins|Treasure|1984|OLAK5uy_kUGKhEE7r9LeOmqSV0w7zfWfirlPrVFAo|A620|Treasure (Cocteau Twins album)|Cocteau Twins|Dream Pop;Ethereal Wave;Alternative Rock;Darkwave;Gothic Rock;Rock",
 "Muddy Waters|Muddy Waters at Newport 1960|1960|OLAK5uy_lKrUdhwFsNdTajV9oFIkW-Mh_3uH2SxT4|A30|At Newport 1960|Muddy Waters|Chicago Blues;Blues;Electric Blues",
 "Cannonball Adderley|Somethin' Else|1958|OLAK5uy_lSTZ6djuLxsJ-GvHQAQRunrQj776X2J6U|A1834|Somethin' Else (Cannonball Adderley album)|Cannonball Adderley|Hard Bop;Bebop;Jazz",
-"The Cure|Seventeen Seconds|1980|PL8Ea_7_S6Jmt0A64ltRpZnITE-R0oe15u|A509|Seventeen Seconds|The Cure|Gothic Rock;Post-Punk;Rock",
+"The Cure|Seventeen Seconds|1980|PLL1ZJvW8jPWckQR0eBCKOE0yeRVX2-Jk2|A509|Seventeen Seconds|The Cure|Gothic Rock;Post-Punk;Rock",
 "Bob Dylan|Modern Times|2006|OLAK5uy_k2iEaF5d7L3FaBYyaf2c1DrdFCJXyoA2k|A2407|Modern Times (Bob Dylan album)|Bob Dylan|Blues Rock;Folk Rock;Singer/Songwriter;Rock",
 "Massive Attack|Protection|1994|OLAK5uy_nYv8sRHR4n2e_xlz4tDN1IZwGNZfBfoME|A915|Protection (Massive Attack album)|Massive Attack|Trip Hop;Downtempo;Electronic",
 "Cream|Wheels of Fire|1968|OLAK5uy_kzRzJdkE81jXfoeXlJzYhv8Pt4dumbSFY|A139|Wheels of Fire|Cream (band)|Blues Rock;Psychedelic Rock;Rock",
