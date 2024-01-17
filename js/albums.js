@@ -115,7 +115,7 @@ const albums = [
 "Frank Ocean|Blonde|2016|OLAK5uy_kClWWfWghQXro7ONQ-DfH3RZ1oxiu0kMA|A5729|Blonde (Frank Ocean album)|Frank Ocean|Alternative R&B;Neo-Soul;Contemporary R&B;R&B;Soul",
 "Sufjan Stevens|Carrie & Lowell|2015|OLAK5uy_nnb1RaXtqTSMi7dZFxR0YdIm3hxr5RaJc|A5542|Carrie & Lowell|Sufjan Stevens|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "AC/DC|Back in Black|1980|OLAK5uy_l83XNDdw6yoNRNhqxzLgFthzDohguKu_A|A488|Back in Black|AC/DC|Hard Rock;Rock",
-"Kraftwerk|Trans Europe Express|1977|OLAK5uy_nDUpPT0EVhePgXihBpL0XZ6J09mu_TZlU|A396|Trans-Europe Express (album)|Kraftwerk|Electronic",
+"Kraftwerk|Trans-Europe Express|1977|OLAK5uy_nDUpPT0EVhePgXihBpL0XZ6J09mu_TZlU|A396|Trans-Europe Express (album)|Kraftwerk|Electronic",
 "Bruce Springsteen|Darkness on the Edge of Town|1978|OLAK5uy_lDjjM6fhv8UAF1WLd5MyGr39PsIy3DXjs|A422|Darkness on the Edge of Town|Bruce Springsteen|Heartland Rock;Singer/Songwriter;Rock",
 "LCD Soundsystem|Sound of Silver|2007|OLAK5uy_kfluH9O67czeVupfm63wLv0HTyfCTHn4g|A4237|Sound of Silver|LCD Soundsystem|Dance-Punk;Indietronica;Electronic;Post-Punk;Rock",
 "Arcade Fire|The Suburbs|2010|OLAK5uy_kOfZOMGV2jWvc-wz2ZlpCkSLaVC92nUAE|A5053|The Suburbs|Arcade Fire|Indie Rock;Alternative Rock;Rock",
