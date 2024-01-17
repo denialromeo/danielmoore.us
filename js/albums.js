@@ -701,7 +701,7 @@ const albums = [
 "Bob Dylan|Modern Times|2006|OLAK5uy_k2iEaF5d7L3FaBYyaf2c1DrdFCJXyoA2k|A2407|Modern Times (Bob Dylan album)|Bob Dylan|Blues Rock;Folk Rock;Singer/Songwriter;Rock",
 "Massive Attack|Protection|1994|OLAK5uy_nYv8sRHR4n2e_xlz4tDN1IZwGNZfBfoME|A915|Protection (Massive Attack album)|Massive Attack|Trip Hop;Downtempo;Electronic",
 "Cream|Wheels of Fire|1968|OLAK5uy_kzRzJdkE81jXfoeXlJzYhv8Pt4dumbSFY|A139|Wheels of Fire|Cream (band)|Blues Rock;Psychedelic Rock;Rock",
-"Ella Fitzgerald|Ella Fitzgerald Sings the Cole Porter Songbook|1956|PLX-iOQeqo1dM1Zx0-NfEqYDx4l-j48EV2|A1790|Ella Fitzgerald Sings the Cole Porter Song Book|Ella Fitzgerald|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
+"Ella Fitzgerald|Ella Fitzgerald Sings the Cole Porter Songbook|1956|PLcvFO4lyuy_tgAuuzz1gU9T5DkWapccxg|A1790|Ella Fitzgerald Sings the Cole Porter Song Book|Ella Fitzgerald|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "Bo Diddley|Bo Diddley|1958|PLXanDYysHXxk01Ty2LVK4V6xbWkjTk8QC|A1115|Bo Diddley (1958 album)|Bo Diddley|Rhythm & Blues;Rock & Roll;R&B;Rock",
 "Spoon|Kill the Moonlight|2002|OLAK5uy_lqqGWLaeM0I1-Pb7couoDSOa8dkdDwVEQ|A1644|Kill the Moonlight|Spoon (band)|Indie Rock;Alternative Rock;Rock",
 "Eric Clapton|461 Ocean Boulevard|1974|OLAK5uy_mRNqiK0VmtIOAB6WT9y9AkbOUwSa-0WiY|A314|461 Ocean Boulevard|Eric Clapton|Blues Rock;Rock",
