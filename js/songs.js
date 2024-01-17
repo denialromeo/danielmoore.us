@@ -9031,7 +9031,7 @@ const songs = [
 "Babyshambles|Killamangiro|2004|1J5_NyR4CTk|Babyshambles|S5294|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|Killamangiro",
 "Genesis|Turn It On Again|1980|8OIkw9kJ0u4|Genesis (band)|S10911|Pop Rock;Progressive Pop;Pop;Rock|Turn It On Again",
 "David Bowie|Sweet Thing|1974|vrfc8c6VkTA|David Bowie|S5968|Art Rock;Glam Rock;Rock|Sweet Thing (David Bowie song)",
-"Sister Sledge|Thinking of You|1979|mAe54eFGp1o|Sister Sledge|S12894|Disco;Pop Soul;Dance;Pop;R&B;Soul|Thinking of You (Sister Sledge song)",
+"Sister Sledge|Thinking of You|1979|9iUE4F9UHok|Sister Sledge|S12894|Disco;Pop Soul;Dance;Pop;R&B;Soul|Thinking of You (Sister Sledge song)",
 "Bad Company|Rock 'N' Roll Fantasy|1979|Wp6UBRv9rug|Bad Company|S10065|Hard Rock;Rock|Rock 'n' Roll Fantasy",
 "Ariana Grande|Break Free|2014|L8eRzOYhLuw|Ariana Grande|S9684|Dance-Pop;Electro House;Electropop;Dance;Electronic;Electronic Dance Music;House;Pop|Break Free (song)",
 "The Lemonheads|Confetti|1992|4s7Fi2QBXqk|The Lemonheads|S7225|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|",
