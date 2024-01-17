@@ -10692,7 +10692,7 @@ const songs = [
 "ZZ Top|Beer Drinkers & Hell Raisers|1973|ruT5nmwhiic|ZZ Top|S12662|Blues Rock;Hard Rock;Southern Rock;Rock|",
 "Miossec|Regarde un peu la France|1995|jB7sY3FzsEk|Miossec|S7565|Nouvelle chanson française;Chanson;Regional Music|",
 "Jacques Brel|Les Vieux|1963|AR8dtc3zZDU|Jacques Brel|S11114|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
-"Aaron Neville|Hercules|1973|NGGRi2CEFu8|Aaron Neville|S14030|Deep Soul;Funk;R&B;Soul;Southern Soul|",
+"Aaron Neville|Hercules|1973|lHeXMA3BV14|Aaron Neville|S14030|Deep Soul;Funk;R&B;Soul;Southern Soul|",
 "Björk feat. Antony Hegarty|The Dull Flame of Desire|2007|ktoBm0t8KV8|Björk|S10186|Art Pop;Pop|Anohni",
 "Jefferson Airplane|Lather|1968|9WF4FF8QrQE|Jefferson Airplane|S13029|Psychedelic Folk;Contemporary Folk;Folk|Lather (song)",
 "Pantha du Prince|Stick to My Side|2010|XEd4Hzpj604|Pantha du Prince|S7844|Microhouse;Dance;Electronic;Electronic Dance Music;House|",
