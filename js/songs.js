@@ -7186,7 +7186,7 @@ const songs = [
 "Honey Cone|Want Ads|1971|r0V9K0ERzRo|Honey Cone|S6729|Motown Sound;Pop;Pop Soul;R&B;Soul|Want Ads",
 "Aqualung|Strange and Beautiful|2002|wkBCwDypyF4|Aqualung (musician)|S5220|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|",
 "Ringo Starr|Back Off Boogaloo|1972|BXg1AxBXN5g|Ringo Starr|S8167|Glam Rock;Pop Rock;Pop;Rock|Back Off Boogaloo",
-"The Mystics|Hushabye|1959|94VWNiOcss0|The Mystics|S3068|Doo-Wop;Descriptor;R&B;Vocal Group|Hushabye",
+"The Mystics|Hushabye|1959|cXXyO32cOxI|The Mystics|S3068|Doo-Wop;Descriptor;R&B;Vocal Group|Hushabye",
 "Albert Hammond|It Never Rains in Southern California|1972|Gmq4WIjQxp0|Albert Hammond|S5147|Folk Pop;Contemporary Folk;Folk;Pop|It Never Rains in Southern California",
 "Nino Ferrer|Mirza|1965|u5XwT6fc_Gg|Nino Ferrer|S11769|French Pop;Pop Rock;Pop;Rock|",
 "Morrissey|We Hate It When Our Friends Become Successful|1992|l6g0gDrCUi8|Morrissey|S14778|Indie Pop;Indie Rock;Pop Rock;Alternative Rock;Pop;Rock|We Hate It When Our Friends Become Successful",
