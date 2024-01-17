@@ -250,7 +250,7 @@ const albums = [
 "Fleet Foxes|Fleet Foxes|2008|OLAK5uy_muUUJTW3e3aebLvjgJp0nyQqEN_GX5xmo|A4338|Fleet Foxes (album)|Fleet Foxes|Americana;Chamber Folk;Indie Folk;Contemporary Folk;Country;Folk",
 "Van Halen|Van Halen|1978|OLAK5uy_kuLN1YgM795yEKfSz5nMiq_naBnQWvF2Y|A436|Van Halen (album)|Van Halen|Hard Rock;Rock",
 "The Flaming Lips|Yoshimi Battles the Pink Robots|2002|OLAK5uy_nUVQvMU2o34YgR4tKZPfQp7Yl5v_EdGKs|A1624|Yoshimi Battles the Pink Robots|The Flaming Lips|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock",
-"Kraftwerk|The Man Machine|1978|OLAK5uy_lpF64nOVPBv72HvvFlP6PAJdyAlY1cxgM|A428|The Man-Machine|Kraftwerk|Synthpop;Electronic;Pop",
+"Kraftwerk|The Man-Machine|1978|OLAK5uy_lpF64nOVPBv72HvvFlP6PAJdyAlY1cxgM|A428|The Man-Machine|Kraftwerk|Synthpop;Electronic;Pop",
 "Elliott Smith|Either/Or|1997|OLAK5uy_m4EZ95AgI9beJA-uVamuqELm9ZchAZzJM|A1020|Either/Or (album)|Elliott Smith|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Robert Wyatt|Rock Bottom|1974|OLAK5uy_k3KoR5NKhcTHsHH7W5sjsVrqDUbsAL0xg|A307|Rock Bottom (album)|Robert Wyatt|Art Rock;Canterbury Scene;Progressive Rock;Rock",
 "Lou Reed|Berlin|1973|OLAK5uy_levbM71F_8IoxNTuU6hZvJzTm9J85DPMI|A277|Berlin (Lou Reed album)|Lou Reed|Art Rock;Rock",
