@@ -1843,7 +1843,7 @@ const songs = [
 "Veruca Salt|Seether|1994|jC9AUR-iTo0|Veruca Salt|S95|Alternative Rock;Rock|Seether (song)",
 "Charles Brown|Driftin' Blues|1945|rY5olvCpjGY|Charles Brown (musician)|S2653|Piano Blues;Blues|Driftin' Blues",
 "Wanda Jackson|Let's Have a Party|1958|7QlzOCgLzwg|Wanda Jackson|S1167|Rockabilly;Rock;Rock & Roll|Let's Have a Party",
-"Ray Charles|Lonely Avenue|1956|6f4m6Ku2jyk|Ray Charles|S1279|Rhythm & Blues;R&B|Lonely Avenue",
+"Ray Charles|Lonely Avenue|1956|DFEOzbI8mA8|Ray Charles|S1279|Rhythm & Blues;R&B|Lonely Avenue",
 "T. Rex|Telegram Sam|1972|IRG3ugqY4Ks|T. Rex (band)|S786|Glam Rock;Rock|Telegram Sam",
 "R.E.M.|Drive|1992|APwmDgnJbz4|R.E.M.|S154|Alternative Rock;Folk Rock;Rock|Drive (R.E.M. song)",
 "Steely Dan|Deacon Blues|1977|2A0wGO3c2T8|Steely Dan|S1818|Jazz-Rock;Rock|Deacon Blues",
