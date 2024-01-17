@@ -695,7 +695,7 @@ const albums = [
 "Manic Street Preachers|Everything Must Go|1996|OLAK5uy_kvvy-jFGYrU2MBifO40Sj6K_AUM0AAM5w|A963|Everything Must Go (Manic Street Preachers album)|Manic Street Preachers|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "The Afghan Whigs|Gentlemen|1993|OLAK5uy_lP3yfEyli_K2tHnIRB_taWSioLTBMfIdo|A882|Gentlemen (album)|The Afghan Whigs|Alternative Rock;Rock",
 "Cocteau Twins|Treasure|1984|OLAK5uy_kUGKhEE7r9LeOmqSV0w7zfWfirlPrVFAo|A620|Treasure (Cocteau Twins album)|Cocteau Twins|Dream Pop;Ethereal Wave;Alternative Rock;Darkwave;Gothic Rock;Rock",
-"Muddy Waters|Muddy Waters at Newport 1960|1960|OLAK5uy_lKrUdhwFsNdTajV9oFIkW-Mh_3uH2SxT4|A30|At Newport 1960|Muddy Waters|Chicago Blues;Blues;Electric Blues",
+"Muddy Waters|Muddy Waters at Newport 1960|1960|PLKjjIa7cwTkJbHhsl7nLfB0NvXsTkQ9vr|A30|At Newport 1960|Muddy Waters|Chicago Blues;Blues;Electric Blues",
 "Cannonball Adderley|Somethin' Else|1958|OLAK5uy_lSTZ6djuLxsJ-GvHQAQRunrQj776X2J6U|A1834|Somethin' Else (Cannonball Adderley album)|Cannonball Adderley|Hard Bop;Bebop;Jazz",
 "The Cure|Seventeen Seconds|1980|PLL1ZJvW8jPWckQR0eBCKOE0yeRVX2-Jk2|A509|Seventeen Seconds|The Cure|Gothic Rock;Post-Punk;Rock",
 "Bob Dylan|Modern Times|2006|OLAK5uy_k2iEaF5d7L3FaBYyaf2c1DrdFCJXyoA2k|A2407|Modern Times (Bob Dylan album)|Bob Dylan|Blues Rock;Folk Rock;Singer/Songwriter;Rock",
