@@ -2929,7 +2929,7 @@ const albums = [
 "Danny Brown|uknowhatimsayin?|2019|OLAK5uy_m4e3LMEQOJkBCXL3JZEmKIaL5xtLDfooE|A6246|U Know What I'm Sayin%3F|Danny Brown|Abstract Hip Hop;Hardcore Hip Hop;Hip Hop",
 "Foals|What Went Down|2015|OLAK5uy_mgvtZx7FfA6JhJtuko46KkJIs77q80d04|A5576|What Went Down|Foals (band)|Indie Rock;Alternative Rock;Rock",
 "Rustie|Glass Swords|2011|OLAK5uy_m4EkJOrWtYQca6M1QDYR3gS32zntQ3Tt0|A5168|Glass Swords|Rustie|Purple Sound;Wonky;Dance;Dubstep;Electronic;Electronic Dance Music",
-"The Cure|Faith|1981|PLqUXXQAT1y1zCMLuRhs923S7M1Su6TGhH|A530|Faith (The Cure album)|The Cure|Gothic Rock;Post-Punk;Rock",
+"The Cure|Faith|1981|PL1X3qTzT40VmF1DvXbwIZxBEvPdG3Edgb|A530|Faith (The Cure album)|The Cure|Gothic Rock;Post-Punk;Rock",
 "Rocket from the Crypt|Scream, Dracula, Scream!|1995|OLAK5uy_nZMn1QT4Kbt4a6P0BzbLNUBnIDYbU4Nmg|A1605|Scream, Dracula, Scream!|Rocket from the Crypt|Alternative Rock;Punk Rock;Rock",
 "Grateful Dead|Europe '72|1972|OLAK5uy_nZbDmODczPqE_pY-_JWZSTNnbI2OueJcg|A2433|Europe '72|Grateful Dead|Jam Band;Psychedelic Rock;Rock",
 "Marilyn Manson|Mechanical Animals|1998|OLAK5uy_mK3V2-mBKPscUgDIXHtD2YN2gSKHSuBDI|A1731|Mechanical Animals|Marilyn Manson|Industrial Rock;Industrial Music;Rock",
