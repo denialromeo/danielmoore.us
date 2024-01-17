@@ -1610,7 +1610,7 @@ const albums = [
 "Nico|Chelsea Girl|1967|PLowQCq3Ss89j-QXkd6DFO0fEqhtUKU5oV|A1302|Chelsea Girl (album)|Nico|Chamber Folk;Contemporary Folk;Folk",
 "Spoon|Gimme Fiction|2005|OLAK5uy_mtrvCyrl2cwj0g8jEZpQ-JyLrBZmhHZI8|A4179|Gimme Fiction|Spoon (band)|Indie Rock;Alternative Rock;Rock",
 "John Cale|Fear|1974|OLAK5uy_m3wCDLws_oPMDLCquVWCWttqMHu-Rwqzc|A1155|Fear (John Cale album)|John Cale|Art Rock;Rock",
-"Bruce Springsteen|Greetings from Asbury Park N.J.|1973|OLAK5uy_me8xYcyUK7_zcjX-xFU5znBLMwachuxZ0|A297|Greetings from Asbury Park, N.J.|Bruce Springsteen|Heartland Rock;Rock",
+"Bruce Springsteen|Greetings from Asbury Park, N.J.|1973|OLAK5uy_me8xYcyUK7_zcjX-xFU5znBLMwachuxZ0|A297|Greetings from Asbury Park, N.J.|Bruce Springsteen|Heartland Rock;Rock",
 "Cecil Taylor|Conquistador!|1968|OLAK5uy_lTgwqm01x4afocmd5a-1VIkHGeurUPhYE|A1973|Conquistador!|Cecil Taylor|Free Jazz;Avant-Garde Jazz;Jazz",
 "Spoon|They Want My Soul|2014|OLAK5uy_m1j78wraa9XHKTEXQytePwd4K0MgO87gk|A5405|They Want My Soul|Spoon (band)|Indie Rock;Alternative Rock;Rock",
 "Buju Banton|Til Shiloh|1995|OLAK5uy_nPOfOF2RKNEYEmxhi9e6DY9XvkJgVIScw|A956|'Til Shiloh|Buju Banton|Ragga;Caribbean Music;Dancehall;Jamaican Music;Regional Music",
