@@ -8647,7 +8647,7 @@ const songs = [
 "Miranda Lambert|Kerosene|2005|rB7ONnfIjaI|Miranda Lambert|S7566|Contemporary Country;Country Rock;Country;Rock|Kerosene (song)",
 "Terence Trent D'Arby|Sign Your Name|1987|dluHzQhLcME|Terence Trent D'Arby|S8722|Contemporary R&B;Pop Soul;Smooth Soul;Pop;R&B;Soul|",
 "Associated Glee Clubs of America|Adeste Fideles|1925|BuuUyPsLQes|https://www.discogs.com/artist/4643811-Associated-Glee-Clubs-Of-America|S15256|Choral;Christmas Music;Classical Music;Descriptor;Holiday Music;Western Classical Music|",
-"Andrew Hill|Refuge|1965|nPHUz8apHjY|Andrew Hill (jazz musician)|S9992|Avant-Garde Jazz;Jazz|",
+"Andrew Hill|Refuge|1965|AZUHjOHsu9k|Andrew Hill (jazz musician)|S9992|Avant-Garde Jazz;Jazz|",
 "Superpitcher|Tomorrow|2001|M9n7QLJvWZg|Superpitcher|S8640|Deep House;Microhouse;Dance;Electronic;Electronic Dance Music;House|",
 "Serge Gainsbourg|Variations sur Marilou|1976|mLKK3L1Wp_4|Serge Gainsbourg|S8361|Chanson;French Pop;Pop;Regional Music|",
 "Jack Nitzsche|The Lonely Surfer|1963|1o_5z6-OIPY|Jack Nitzsche|S3669|Baroque Pop;Surf Rock;Pop;Rock;Surf Music|",
