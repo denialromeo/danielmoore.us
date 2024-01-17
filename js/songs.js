@@ -8624,7 +8624,7 @@ const songs = [
 "Fats Domino|Let the Four Winds Blow|1961|gVwFpdvls60|Fats Domino|S6360|New Orleans R&B;R&B|",
 "The Romantics|Talking in Your Sleep|1983|JmGMzyajA2U|The Romantics|S12106|New Wave;Power Pop;Pop;Pop Rock;Rock|Talking in Your Sleep (The Romantics song)",
 "Supergrass|Richard III|1997|UnXrrOxzZCE|Supergrass|S2959|Britpop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|Richard III (song)",
-"The Temptations|Runaway Child, Running Wild|1969|f-AATsBO4cI|The Temptations|S15925|Psychedelic Soul;R&B;Soul|",
+"The Temptations|Runaway Child, Running Wild|1969|uoXRjSO34Gw|The Temptations|S15925|Psychedelic Soul;R&B;Soul|",
 "Soundgarden|Outshined|1991|sNh-iw7gsuI|Soundgarden|S12268|Alternative Metal;Grunge;Alternative Rock;Metal;Rock|Outshined",
 "Josef K|It's Kinda Funny|1980|XL5C7KVA0jA|Josef K (band)|S4271|Post-Punk;Rock|",
 "Bangles|Going Down to Liverpool|1985|Zj7OJeyhq2Q|The Bangles|S5314|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Going Down to Liverpool",
