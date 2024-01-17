@@ -388,7 +388,7 @@ const classical = [
 "Johannes Brahms|String Quartets|1873-1875|nWLe7ed8my0|Johannes Brahms|String Quartets, Op. 51 (Brahms)",
 "Edouard Lalo|Symphonie espagnole|1874|fxw3FYPuIzc|Édouard Lalo|Symphonie espagnole",
 "Georges Bizet|Carmen|1874|u_VkfIthWHo|Georges Bizet|Carmen",
-"Johann Strauss II|Die Fledermaus|1874|gPybrOxRoT4|Johann Strauss II|Die Fledermaus",
+"Johann Strauss II|Die Fledermaus|1874|PLKq64tL0GeMF3BWvlZH_rL02bR3HQDoE7|Johann Strauss II|Die Fledermaus",
 "Giuseppe Verdi|Requiem|1874|Nlq9lJRElBk?start=3|Giuseppe Verdi|Requiem (Verdi)",
 "Anton Bruckner|Symphony No. 4, “Romantic”|1874-1888|o0g82i784bw|Anton Bruckner|Symphony No. 4 (Bruckner)",
 "Modest Mussorgsky|Pictures at an Exhibition|1874-1922|kkC3chi_ysw|Modest Mussorgsky|Pictures at an Exhibition",
