@@ -1587,7 +1587,7 @@ const albums = [
 "The Strokes|Room On Fire|2003|OLAK5uy_maPJVRMRXRbnI955d2PdBCIhy7Y-vTQDE|A4011|Room on Fire|The Strokes|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock",
 "The Modern Jazz Quartet|Django|1956|OLAK5uy_kxCsWEdEPc6yjlQPrjyAQ7G8RF9sdj9Ic|A1798|Django (album)|Modern Jazz Quartet|Cool Jazz;Third Stream;Jazz",
 "The Orb|U.F.Orb|1992|OLAK5uy_kr5Cd9eM0HDGb5o9W1rJlfmp2S9DCQ850|A849|U.F.Orb|The Orb|Ambient Dub;Ambient House;Dub Techno;Ambient;Dance;Electronic;Electronic Dance Music;House;Minimal Techno;Techno",
-"Bob Seger & The Silver Bullet Band|'Live' Bullet|1976|PLQMQ0pEi2Ffo3uQZpb71Yur816mYE5sl3|A1426|Live Bullet|Bob Seger|Heartland Rock;Rock",
+"Bob Seger & The Silver Bullet Band|'Live' Bullet|1976|OLAK5uy_m5i-fKUSmpW5C6Iz-AxuPWTMImH1MnVzE|A1426|Live Bullet|Bob Seger|Heartland Rock;Rock",
 "Deee-Lite|World Clique|1990|OLAK5uy_l6b5h-Keoiin0TiXs_1hnLR3pV1ZVhozE|A786|World Clique|Deee-Lite|Dance-Pop;House;Dance;Electronic;Electronic Dance Music;Pop",
 "Van der Graaf Generator|Pawn Hearts|1971|OLAK5uy_kOWdkl7AREpLB5vkYkhbv94GHycru9xHY|A1346|Pawn Hearts|Van der Graaf Generator|Progressive Rock;Rock",
 "Buffalo Springfield|Buffalo Springfield|1966|OLAK5uy_mvgscNVoHiGcX-bXW7aNxbW2yMFdvTeGQ|A80|Buffalo Springfield (album)|Buffalo Springfield|Country Rock;Folk Rock;Rock",
