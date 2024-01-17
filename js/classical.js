@@ -22,7 +22,7 @@ const classical = [
 "William Byrd|My Ladye Nevells Booke|1591|2PdRUGXAzoE|William Byrd|My Ladye Nevells Booke",
 "William Byrd|Masses|1592-1595|1ItRYDvuu3w|William Byrd|Mass for Four Voices",
 "Carlo Gesualdo|Madrigals|1594-1611|JEoOOYA31_E|Carlo Gesualdo|Madrigal",
-"John Dowland|Lute Songs|1597-1612|sElBsL9fvRM|John Dowland|Lute song",
+"John Dowland|Lute Songs|1597-1612|PLI42ZRl64NuuxDIj8_9Va8djSY9NivVsy|John Dowland|Lute song",
 "Giovanni Gabrieli|Sacrae symphoniae|1597-1615|CBobif_00UA|Giovanni Gabrieli|",
 "John Wilbye|Madrigals|1598-1609|UoTQyxL8XM4|John Wilbye|Madrigal",
 "Orlando Gibbons|Anthems|1600s|IUETZeGyMjo|Orlando Gibbons|Anthem",
