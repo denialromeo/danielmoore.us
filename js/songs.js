@@ -5858,7 +5858,7 @@ const songs = [
 "Boogie Down Productions|My Philosophy|1988|h1vKOchATXs|Boogie Down Productions|S5595|Boom Bap;Conscious Hip Hop;East Coast Hip Hop;Hip Hop|",
 "Chris Bell|I Am the Cosmos|1978|7VfJ8dGsAws|Chris Bell (American musician)|S5794|Power Pop;Singer/Songwriter;Pop;Pop Rock;Rock|",
 "Yazoo|Don't Go|1982|_sQGwDeambg|Yazoo (band)|S505|Synthpop;Electronic;Pop|Don't Go (Yazoo song)",
-"Bob Marley and the Wailers|Sun Is Shining|1999|iiWA-9kf0Gg|Funkstar De Luxe|S5564|Funky House;Dance;Electronic;Electronic Dance Music;House|Sun Is Shining (Bob Marley and the Wailers song)",
+"Bob Marley and the Wailers|Sun Is Shining|1999|5T3UmvutR8k|Bob Marley|S5564|Funky House;Dance;Electronic;Electronic Dance Music;House|Sun Is Shining (Bob Marley and the Wailers song)",
 "The Time|Jungle Love|1984|N2FPQvwhSDY|The Time (band)|S8761|Synth Funk;Funk;R&B|Jungle Love (The Time song)",
 "Nina Simone|Black Is the Colour of My True Love's Hair|1960|NWmCbEbMmeU|Nina Simone|S3808|Vocal Jazz;Jazz|Black Is the Color of My True Love's Hair",
 "Kraftwerk|Computerwelt / Computer World|1981|fa7WrCqsTC0|Kraftwerk|S11346|Synthpop;Electronic;Pop|",
