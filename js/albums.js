@@ -2896,7 +2896,7 @@ const albums = [
 "Freedy Johnston|Can You Fly|1992|OLAK5uy_lXG1rGfrlEuLJlfH8WWvfmRS5yMIETqYA|A3422|Can You Fly|Freedy Johnston|Alternative Rock;Singer/Songwriter;Rock",
 "Beach House|Depression Cherry|2015|OLAK5uy_mMfEn3pGb4sxTe5RJ64S6mxfmctbYTUU8|A5560|Depression Cherry|Beach House|Dream Pop;Alternative Rock;Rock",
 "June Christy|Something Cool|1954|OLAK5uy_nRCGUUZ77IUd8MsvXcUCmox-EUIR4f0Os|A1775|Something Cool|June Christy|Cool Jazz;Vocal Jazz;Jazz",
-"Don Henley|The End of the Innocence|1989|PL1X3qTzT40VktZt2Npfh6Fn2GyjkjH_gM|A3257|The End of the Innocence (album)|Don Henley|Pop Rock;Pop;Rock",
+"Don Henley|The End of the Innocence|1989|PLoOy8dltBcdno9DIuS7UW7GUXC-HTQLw-|A3257|The End of the Innocence (album)|Don Henley|Pop Rock;Pop;Rock",
 "Freddie King|Let's Hide Away and Dance Away with Freddie King|1961|PLVaZk5DMLikw9r0a4Q4X_BZvfp8-W2HfV|A2073|Let's Hide Away and Dance Away with Freddy King|Freddie King|Electric Texas Blues;Blues;Electric Blues",
 "Booker Little|Out Front|1961|PL0q2VleZJVEnONKHcyvqzk3naHru_T5ey|A2508|Out Front (Booker Little album)|Booker Little|Hard Bop;Bebop;Jazz",
 "Betty Davis|They Say I'm Different|1974|OLAK5uy_k-QMXEeg4XfFsJh4GO-qLVgm1fgfLlnKE|A3287|They Say I'm Different|Betty Davis|Funk;R&B",
