@@ -5669,7 +5669,7 @@ const songs = [
 "Billy Joel|New York State of Mind|1976|iM4LzEcaTK0|Billy Joel|S5456|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|New York State of Mind",
 "The Weather Girls|It's Raining Men|1982|l5aZJBLAu1E|The Weather Girls|S3942|Dance-Pop;Hi-NRG;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;Pop|It's Raining Men",
 "Aretha Franklin|Until You Come Back to Me (That's What I'm Gonna Do)|1973|bJZwcaWResA|Aretha Franklin|S766|Pop Soul;Pop;R&B;Soul|Until You Come Back to Me (That's What I'm Gonna Do)",
-"The Everly Brothers|Love Hurts|1960|hFE2SnliiV0|The Everly Brothers|S6318|Close Harmony;Pop;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|Love Hurts",
+"The Everly Brothers|Love Hurts|1960|_s5SJH4RRVU|The Everly Brothers|S6318|Close Harmony;Pop;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|Love Hurts",
 "Duran Duran|Save a Prayer|1982|6Uxc9eFcZyM|Duran Duran|S6172|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock|",
 "Paul McCartney|Mull of Kintyre|1977|6SEVPR5Ssck|Paul McCartney and Wings|S3609|Folk Pop;Contemporary Folk;Folk;Pop|Mull of Kintyre (song)",
 "Jimmie Lunceford|For Dancers Only|1937|ddiObTnaXk4|Jimmie Lunceford|S11206|Swing;Jazz|",
