@@ -688,7 +688,7 @@ const classical = [
 "Edgard Varèse|Amériques|1921-1927|Upo5FStElCc|Edgard Varèse|",
 "Sergei Prokofiev|Piano Concerto No. 3|1921|BS0SwRoYAW0|Sergei Prokofiev|Piano Concerto No. 3 (Prokofiev)",
 "Edgard Varèse|Offrandes|1921|1L7VquPejbw|Edgard Varèse|",
-"Igor Stravinsky|Three Movements from “Petrushka”|1921|btNfXh1ybeM|Igor Stravinsky|Trois mouvements de Petrouchka",
+"Igor Stravinsky|Three Movements from “Petrushka”|1921|4Y3n2oJG7q0|Igor Stravinsky|Trois mouvements de Petrouchka",
 "Arthur Bliss|A Colour Symphony|1922-1932|zi6FdphM7CA|Arthur Bliss|",
 "Maurice Ravel|Sonata for Violin and Cello|1922|szPF0KhxYIs|Maurice Ravel|",
 "William Walton|Façade|1922-1951|79ahguBURn4|William Walton|Façade (entertainment)",
