@@ -3616,7 +3616,7 @@ const songs = [
 "Creedence Clearwater Revival|Travelin' Band|1970|VwcJ5WQSamQ|Creedence Clearwater Revival|S2550|Rock & Roll;Rock|",
 "Darlene Love|Christmas (Baby Please Come Home)|1963|4EvZOXEoJ84|Darlene Love|S1649|Brill Building;Christmas Music;Pop Soul;Descriptor;Holiday Music;Pop;R&B;Soul|Christmas (Baby Please Come Home)",
 "Sufjan Stevens|Death With Dignity|2015|dsGODTySH0E|Sufjan Stevens|S16942|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|",
-"Donna Summer|She Works Hard for the Money|1983|tuUEpbGVV2Y|Donna Summer|S1896|Dance-Pop;Dance;Pop|She Works Hard for the Money",
+"Donna Summer|She Works Hard for the Money|1983|I2_dsYFf2D8|Donna Summer|S1896|Dance-Pop;Dance;Pop|She Works Hard for the Money",
 "Nick Lowe|I Love the Sound of Breaking Glass|1978|BDbUEydkuR8|Nick Lowe|S624|New Wave;Power Pop;Pop;Pop Rock;Rock|I Love the Sound of Breaking Glass",
 "Donovan|Mellow Yellow|1966|IQNBQI3UDag|Donovan|S6132|Psychedelic Folk;Psychedelic Pop;Contemporary Folk;Folk;Pop|Mellow Yellow",
 "The Flaming Lips|Fight Test|2002|fye1XtXQn9s|The Flaming Lips|S2403|Indie Pop;Neo-Psychedelia;Progressive Pop;Pop;Psychedelic Rock;Rock|",
