@@ -4285,7 +4285,7 @@ const songs = [
 "Pink Floyd|The Great Gig in the Sky|1973|C8Xc0VptCBY|Pink Floyd|S7963|Art Rock;Piano Rock;Pop;Pop Rock;Rock|The Great Gig in the Sky",
 "Chromatics|I Can Never Be Myself When You're Around|2015|_eB-pRCkGho?start=17|Chromatics (band)|S9724|Dream Pop;Synthpop;Synthwave;Alternative Rock;Electronic;Pop;Rock|",
 "Black Rebel Motorcycle Club|Whatever Happened to My Rock'n'roll? (Punk Song)|2001|jdTmk-YyUKg|Black Rebel Motorcycle Club|S2225|Garage Rock Revival;Punk Rock;Garage Rock;Rock|",
-"Kylie Minogue|I Should Be So Lucky|1987|3_TvpBwSZDM|Kylie Minogue|S4209|Dance-Pop;Teen Pop;Dance;Pop|I Should Be So Lucky",
+"Kylie Minogue|I Should Be So Lucky|1987|2Frd6BIE1_k|Kylie Minogue|S4209|Dance-Pop;Teen Pop;Dance;Pop|I Should Be So Lucky",
 "Pharoahe Monch|Simon Says|1999|T7Fy5w2klbg|Pharoahe Monch|S2176|Boom Bap;East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "Orbital|Halcyon|1992|OO-jHGCX2Gc|Orbital (band)|S7816|Ambient Techno;Ambient Trance;Dance;Electronic;Electronic Dance Music;Techno;Trance|Halcyon (Orbital song)",
 "Pantera|Walk|1992|AkFqg5wAuFk|Pantera|S7843|Groove Metal;Metal;Rock|Walk (Pantera song)",
