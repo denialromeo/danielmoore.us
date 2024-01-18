@@ -8459,7 +8459,7 @@ const songs = [
 "Natalie Prass|Short Court Style|2018|0pv7rN-_IWU|Natalie Prass|S16599|Dance-Pop;Pop Soul;Sophisti-Pop;Dance;Pop;R&B;Soul|",
 "Yes|And You and I|1972|PbS56p4Xt4I|Yes (band)|S9092|Symphonic Prog;Progressive Rock;Rock|And You and I",
 "The Swingin' Medallions|Double Shot (Of My Baby's Love)|1966|57s89xrC93o|The Swingin' Medallions|S3080|Garage Rock;Rock|Double Shot (Of My Baby's Love)",
-"Them|Mystic Eyes|1965|5e-fU0eyVUg|Them (band)|S3894|British Rhythm & Blues;Garage Rock;R&B;Rhythm & Blues;Rock|Mystic Eyes",
+"Them|Mystic Eyes|1965|3b8sHZq6hKo|Them (band)|S3894|British Rhythm & Blues;Garage Rock;R&B;Rhythm & Blues;Rock|Mystic Eyes",
 "Eminem|Mosh|2004|9wRLd5l7WYE|Eminem|S2482|Political Hip Hop;Hip Hop|Mosh (song)",
 "Earl Sweatshirt|Earl|2010|sSTQ4oKNmEo|Earl Sweatshirt|S10672|Horrorcore;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "Talk Talk|Desire|1988|tfnmMl3WmBo|Talk Talk|S13137|Art Rock;Post-Rock;Rock|",
