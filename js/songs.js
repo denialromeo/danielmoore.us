@@ -7117,7 +7117,7 @@ const songs = [
 "Uncle Dave Macon|Keep My Skillet Good and Greasy|1924|4bkLnWN9WSA|Uncle Dave Macon|S4053|Appalachian Folk Music;Old-Time;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
 "Saint Etienne|He's on the Phone|1995|1nGoehZ5DhU|Saint Etienne (band)|S8300|Eurodance;Dance;Dance-Pop;Electronic;Electronic Dance Music;Pop|He's on the Phone",
 "Cut Copy|Out There on the Ice|2008|lISOeKHGrGI|Cut Copy|S4776|Electropop;Synthpop;Electronic;Pop|",
-"Rough Trade|Highschool Confidential|1980|PFwom4D3i4g|Rough Trade (band)|S8249|New Wave;Rock|",
+"Rough Trade|High School Confidential|1980|PFwom4D3i4g|Rough Trade (band)|S8249|New Wave;Rock|High School Confidential (Rough Trade song)",
 "Mason Williams|Classical Gas|1968|mREi_Bb85Sk|Mason Williams|S9290|Baroque Pop;Folk Baroque;Contemporary Folk;English Folk Music;European Folk Music;Folk;Pop;Regional Music;Traditional Folk Music|",
 "Ma$e|Feel So Good|1997|rIvEiTrq9kk|Mase|S3580|East Coast Hip Hop;Pop Rap;Hip Hop|",
 "T-Connection|Do What You Wanna Do|1977|q-hlWa6bQho|T-Connection|S12690|Disco;Funk;Dance;R&B|",
