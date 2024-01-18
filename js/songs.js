@@ -2413,7 +2413,7 @@ const songs = [
 "Artie Shaw|Star Dust|1940|CUCe-b1IQeU|Artie Shaw|S5247|Big Band;Swing;Jazz|",
 "Interpol|NYC|2002|5GRNCNZ_TL4|Interpol (band)|S4612|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Say Hello to the Angels / NYC",
 "Harry Nilsson|One|1968|DYzY7-V5vxY|Harry Nilsson|S3666|Baroque Pop;Pop|One (Harry Nilsson song)",
-"Elvis Presley|Blue Moon of Kentucky|1954|QLb99I86pE4|Elvis Presley|S1602|Rockabilly;Rock;Rock & Roll|Blue Moon of Kentucky",
+"Elvis Presley|Blue Moon of Kentucky|1954|Ggi5Tq3XDRI|Elvis Presley|S1602|Rockabilly;Rock;Rock & Roll|Blue Moon of Kentucky",
 "Heart|Barracuda|1977|p6v6wWmEYvY|Heart (band)|S6695|Hard Rock;Rock|Barracuda (song)",
 "Happy Mondays|Hallelujah|1989|dAk6Euat-6A|Happy Mondays|S2000|Alternative Dance;Baggy / Madchester;Alternative Rock;Dance;Rock|",
 "The Jesus and Mary Chain|Some Candy Talking|1986|oIIdLAQ3nvc|The Jesus and Mary Chain|S366|Noise Pop;Post-Punk;Alternative Rock;Rock|",
