@@ -1368,7 +1368,7 @@ const songs = [
 "Yo La Tengo|Autumn Sweater|1997|UIkMeaAfIRw|Yo La Tengo|S21|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|",
 "The Stone Roses|She Bangs the Drums|1989|wD6Pq0bSMPo|The Stone Roses|S244|Baggy / Madchester;Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|She Bangs the Drums",
 "Hole|Celebrity Skin|1998|O3dWBLoU--E|Hole (band)|S276|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|",
-"Norman Greenbaum|Spirit in the Sky|1969|AZQxH_8raCI|Norman Greenbaum|S1723|Christian Rock;Psychedelic Rock;Rock|Spirit in the Sky",
+"Norman Greenbaum|Spirit in the Sky|1969|vRFo72wuU6w|Norman Greenbaum|S1723|Christian Rock;Psychedelic Rock;Rock|Spirit in the Sky",
 "Jimmy Ruffin|What Becomes of the Brokenhearted|1966|cQywZYoGB1g|Jimmy Ruffin|S1442|Motown Sound;Pop;Pop Soul;R&B;Soul|",
 "Cheap Trick|I Want You to Want Me|1977|-qgpewMCVjs|Cheap Trick|S1828|Hard Rock;Power Pop;Pop;Pop Rock;Rock|I Want You to Want Me",
 "Jimi Hendrix|Manic Depression|1967|Ll7w7Q1uIAk|Jimi Hendrix|S3471|Acid Rock;Blues Rock;Psychedelic Rock;Rock|Manic Depression (song)",
