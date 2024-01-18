@@ -382,7 +382,7 @@ const classical = [
 "Léo Delibes|Coppélia|1870|haxnvx6SHIo|Léo Delibes|Coppélia",
 "Richard Wagner|Siegfried Idyll|1870|891JUSQplzU|Richard Wagner|",
 "Giuseppe Verdi|Aida|1871|AssDQbaIP_I|Giuseppe Verdi|Aida",
-"Pyotr Ilyich Tchaikovsky|String Quartet No. 1|1871|Qa1uv6pUMjQ|Pyotr Ilyich Tchaikovsky|String Quartet No. 1 (Tchaikovsky)",
+"Pyotr Ilyich Tchaikovsky|String Quartet No. 1|1871|1w7w6J5ODqc|Pyotr Ilyich Tchaikovsky|String Quartet No. 1 (Tchaikovsky)",
 "Camille Saint-Saëns|Cello Concerto No. 1|1872|pfBkzWNQTpI?start=3|Camille Saint-Saëns|",
 "Anton Bruckner|Symphony No. 3|1873-1889|kY4l2Xx3crs?start=3|Anton Bruckner|Symphony No. 3 (Bruckner)",
 "Johannes Brahms|String Quartets|1873-1875|nWLe7ed8my0|Johannes Brahms|String Quartets, Op. 51 (Brahms)",
