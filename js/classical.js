@@ -380,7 +380,7 @@ const classical = [
 "Mily Alekseyevich Balakirev|Islamey|1869-1902|78AslTXMp30|Mily Balakirev|",
 "Pyotr Ilyich Tchaikovsky|Romeo and Juliet|1869-1880|_Od7gx3Dc-U|Pyotr Ilyich Tchaikovsky|Romeo and Juliet (Tchaikovsky)",
 "Léo Delibes|Coppélia|1870|haxnvx6SHIo|Léo Delibes|Coppélia",
-"Richard Wagner|Siegfried Idyll|1870|891JUSQplzU|Richard Wagner|",
+"Richard Wagner|Siegfried Idyll|1870|wolO4fJr70Y?start=3|Richard Wagner|",
 "Giuseppe Verdi|Aida|1871|AssDQbaIP_I|Giuseppe Verdi|Aida",
 "Pyotr Ilyich Tchaikovsky|String Quartet No. 1|1871|1w7w6J5ODqc|Pyotr Ilyich Tchaikovsky|String Quartet No. 1 (Tchaikovsky)",
 "Camille Saint-Saëns|Cello Concerto No. 1|1872|pfBkzWNQTpI?start=3|Camille Saint-Saëns|",
