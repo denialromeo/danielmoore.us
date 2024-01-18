@@ -5799,7 +5799,7 @@ const songs = [
 "Ray Noble|The Very Thought of You|1934|OVoN-xmVtNA|Ray Noble|S8107|British Dance Band;Jazz;Pop;Traditional Pop|The Very Thought of You",
 "The Blues Brothers|Everybody Needs Somebody To Love|1980|EHV0zs0kVGg|The Blues Brothers|S12932|Film Soundtrack;Rhythm & Blues;Descriptor;R&B;Soundtracks|Everybody Needs Somebody to Love",
 "Daryl Hall & John Oates|Kiss on My List|1981|lsHld-iArOc|Hall & Oates|S6672|Blue Eyed Soul;Yacht Rock;Pop;Pop Rock;Rock|",
-"Change|The Glow of Love|1980|eMrDJLPlq20|Change (band)|S10371|Boogie;Dance;Disco;R&B|",
+"Change|The Glow of Love|1980|9sL95rzwvSM?start=29|Change (band)|S10371|Boogie;Dance;Disco;R&B|",
 "Elvin Bishop|Fooled Around and Fell in Love|1975|DyMMEmwFQUE|Elvin Bishop|S6242|Blue Eyed Soul;Southern Rock;Pop;Rock|Fooled Around and Fell in Love",
 "Bonnie Raitt|Love Has No Pride|1972|9Wv67n160Ew|Bonnie Raitt|S3740|Blues Rock;Singer/Songwriter;Rock|",
 "Joy Division|New Dawn Fades|1979|aXAthCVbnDI|Joy Division|S11263|Post-Punk;Rock|New Dawn Fades",
