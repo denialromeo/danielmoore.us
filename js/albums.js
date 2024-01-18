@@ -2950,7 +2950,7 @@ const albums = [
 "Frightened Rabbit|The Midnight Organ Fight|2008|OLAK5uy_knEAcXhwf7QPcjIMkC97kfsvcF3wX1jcc|A4403|The Midnight Organ Fight|Frightened Rabbit|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock",
 "Coleman Hawkins & Ben Webster|Coleman Hawkins Encounters Ben Webster/Blue Saxophones|1959|OLAK5uy_lsLyIVDxkbZnHYx6F44kICQRilQLMfm5E|A2413|Coleman Hawkins Encounters Ben Webster|Coleman Hawkins|Post-Bop;Bebop;Jazz",
 "Malcolm McLaren|Duck Rock|1983|OLAK5uy_lpFrsoEM_Lm7latjLJ92ow5BCNhBBZ1vU|A591|Duck Rock|Malcolm McLaren|New Wave;Rock",
-"Kid Creole and The Coconuts|Tropical Gangsters|1982|PLQPUenqFTpybxbWYbeVbspmtkWGIMQK6h|A1486|Tropical Gangsters|Kid Creole and the Coconuts|Disco;Pop;Dance",
+"Kid Creole and The Coconuts|Wise Guy/Tropical Gangsters|1982|PL1X3qTzT40Vm6YfNIEdB1mmqvA25DcUUb|A1486|Tropical Gangsters|Kid Creole and the Coconuts|Disco;Pop;Dance",
 "Lonnie Johnson with Elmer Snowden|Blues and Ballads|1960|PLJ0o-sElmULjMeD0vpMDe06F6VCb2ExUz|A1274|Blues & Ballads|Lonnie Johnson (musician)|Acoustic Blues;Blues",
 "Steve Roach|Dreamtime Return|1988|OLAK5uy_kQ5tfeG4q6wkR-1ID310AqrZj14-7v1g8|A2895|Dreamtime Return|Steve Roach (musician)|Tribal Ambient;Ambient",
 "Neu!|Neu! 2|1973|OLAK5uy_lMChF-EuCZHAx-1TZ-xdziXRAATKFf70A|A2667|Neu! 2|Neu!|Krautrock;Experimental Rock;Progressive Rock;Rock",
