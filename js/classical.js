@@ -17,7 +17,7 @@ const classical = [
 "Giovanni Pierluigi de Palestrina|Missa Papae Marcelli|1567|3n8XdKkrqgo|Giovanni Pierluigi da Palestrina|",
 "Thomas Tallis|Spem in alium|1569|iT-ZAAi4UQQ|Thomas Tallis|Spem in alium",
 "Tomás Luis de Victoria|O magnum mysterium|1572|9xPh-fXYAc4|Tomás Luis de Victoria|O magnum mysterium",
-"Francisco Guerrero|Battle Mass|1582|jbK_2EwcuSQ|Francisco Guerrero|",
+"Francisco Guerrero|Battle Mass|1582|jbK_2EwcuSQ|Francisco Guerrero (composer)|",
 "Claudio Monteverdi|Madrigals|1587-1651|2TjkhWARBVE|Claudio Monteverdi|Madrigal",
 "William Byrd|My Ladye Nevells Booke|1591|2PdRUGXAzoE|William Byrd|My Ladye Nevells Booke",
 "William Byrd|Masses|1592-1595|1ItRYDvuu3w|William Byrd|Mass for Four Voices",
