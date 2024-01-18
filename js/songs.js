@@ -8582,7 +8582,7 @@ const songs = [
 "Drake|Started from the Bottom|2013|-D6USHQMFDE|Drake (musician)|S10651|Pop Rap;Hip Hop|Started from the Bottom",
 "Frank Sinatra|You Make Me Feel So Young|1956|LiILUT_Px84|Frank Sinatra|S13783|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|You Make Me Feel So Young",
 "Patti Smith|Hey Joe (Version)|1974|HVbqHNNHx88|Patti Smith|S11854|Art Rock;Proto-Punk;Rock|Hey Joe",
-"Jimmy Spicer|Adventures of Super Rhyme (Rap)|1980|nkGLco0tGqc|Jimmy Spicer|S11212|Disco Rap;East Coast Hip Hop;Hip Hop|",
+"Jimmy Spicer|Adventures of Super Rhyme (Rap)|1980|MGa5zhTVJeA|Jimmy Spicer|S11212|Disco Rap;East Coast Hip Hop;Hip Hop|",
 "Miles Davis|Spanish Key|1970|ibanLlREjTk|Miles Davis|S11649|Avant-Garde Jazz;Jazz Fusion;Jazz|",
 "David Bowie|Aladdin Sane (1913-1938-197?)|1973|Z_x9fzY4WH0|David Bowie|S10513|Art Rock;Glam Rock;Piano Rock;Pop;Pop Rock;Rock|",
 "Hüsker Dü|These Important Years|1987|9IPJLiIZMVc|Hüsker Dü|S13024|Alternative Rock;Rock|",
