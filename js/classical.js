@@ -205,7 +205,7 @@ const classical = [
 "Ludwig van Beethoven|Piano Trio in B flat major, Op. 97, “Archduke”|1811|ezRNLXBbB8Q|Ludwig van Beethoven|Piano Trio, Op. 97 (Beethoven)",
 "Carl Maria von Weber|Clarinet Concertos nos. 1 &amp; 2|1811|95gL5U4ILFc|Carl Maria von Weber|",
 "Ludwig van Beethoven|Symphony No. 7|1812|-4788Tmz9Zo|Ludwig van Beethoven|Symphony No. 7 (Beethoven)",
-"Ludwig van Beethoven|Symphony No. 8|1812|gCkndZBnMLw|Ludwig van Beethoven|Symphony No. 8 (Beethoven)",
+"Ludwig van Beethoven|Symphony No. 8|1812|WcgxxciDdy0?start=3|Ludwig van Beethoven|Symphony No. 8 (Beethoven)",
 "Carl Lowe|Ballads|1812-1862|-U6xOEKyjSI|Carl Loewe|",
 "Gioachino Rossini|Tancredi|1813|aIhjHLw5ZCY|Gioachino Rossini|Tancredi",
 "Gioachino Rossini|L’italiana in Algeri|1813|b9YmR5zFyLE|Gioachino Rossini|L'italiana in Algeri",
