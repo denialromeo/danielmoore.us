@@ -2895,7 +2895,7 @@ const songs = [
 "Dr. John|Right Place Wrong Time|1973|nnLP3ht8yP8|Dr. John|S1561|Funk;New Orleans R&B;R&B|Right Place, Wrong Time (song)",
 "Slade|Coz I Luv You|1971|4BqJUiaINGg|Slade|S2310|Glam Rock;Rock|Coz I Luv You",
 "MC Hammer|U Can't Touch This|1990|otCpCn0l4Wo|MC Hammer|S2013|Pop Rap;West Coast Hip Hop;Hip Hop|U Can't Touch This",
-"Tommy Tucker|Hi-Heel Sneakers|1964|8bmbSC9c2ys|Tommy Tucker (singer)|S3911|Electric Blues;Soul Blues;Blues|Hi-Heel Sneakers",
+"Tommy Tucker|Hi-Heel Sneakers|1964|K9lIEyWYwvo|Tommy Tucker (singer)|S3911|Electric Blues;Soul Blues;Blues|Hi-Heel Sneakers",
 "Elvis Costello|Pills & Soap|1983|aTn4qGHgzFE|Elvis Costello|S459|New Wave;Post-Punk;Rock|",
 "The Psychedelic Furs|Love My Way|1982|LGD9i718kBU|The Psychedelic Furs|S3734|New Wave;Rock|Love My Way (song)",
 "The Cure|10.15 Saturday Night|1978|zBQpSzKeXyY|The Cure|S5925|Post-Punk;Rock|10:15 Saturday Night",
