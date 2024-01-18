@@ -122,7 +122,7 @@ const songs = [
 "James Brown|Papa's Got a Brand New Bag|1965|QE5D2hJhacU|James Brown|S1000|Funk;Soul;R&B|Papa's Got a Brand New Bag",
 "Simon and Garfunkel|Bridge Over Troubled Water|1970|4G-YQA_bsOU|Simon & Garfunkel|S843|Pop;Singer/Songwriter|Bridge over Troubled Water (song)",
 "Bob Marley and the Wailers|No Woman No Cry|1974|jGqrvn3q1oo?start=25|Bob Marley|S692|Reggae;Caribbean Music;Jamaican Music;Regional Music|No Woman, No Cry",
-"Creedence Clearwater Revival|Proud Mary|1969|XfyEpmQM7bw|Creedence Clearwater Revival|S874|Country Rock;Swamp Rock;Rock;Roots Rock|Lodi (Creedence Clearwater Revival song)",
+"Creedence Clearwater Revival|Proud Mary|1969|7F_ILRVJdes|Creedence Clearwater Revival|S874|Country Rock;Swamp Rock;Rock;Roots Rock|Lodi (Creedence Clearwater Revival song)",
 "The Police|Every Breath You Take|1983|OMOGaugKpzs|The Police|S452|New Wave;Pop Rock;Pop;Rock|Every Breath You Take",
 "Chuck Berry|Maybellene|1955|v124f0i0Xh4|Chuck Berry|S1301|Rock & Roll;Rock|Maybellene",
 "Procol Harum|A Whiter Shade of Pale|1967|Mb3iPP-tHdA|Procol Harum|S935|Baroque Pop;Blue Eyed Soul;Psychedelic Pop;Pop|A Whiter Shade of Pale",
