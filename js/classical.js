@@ -274,7 +274,7 @@ const classical = [
 "Hector Berlioz|Harold in Italy|1834|Q4NC4E5RXik?start=3|Hector Berlioz|",
 "Gaetano Donizetti|Lucia di Lammermoor|1835|_maNJkybAwI|Gaetano Donizetti|",
 "Vincenzo Bellini|I puritani|1835|3CKto2oZ2w8|Vincenzo Bellini|I puritani",
-"Robert Schumann|Études symphoniques|1835-1852|G1FFWgzk4vI|Robert Schumann|",
+"Robert Schumann|Études symphoniques|1835-1852|PLC0324E2JQQZNlEmh1aEBeHAzimfisoxL|Robert Schumann|Symphonic Studies",
 "Robert Schumann|Carnaval|1835|zk8v0HkzKzc|Robert Schumann|Carnaval (Schumann)",
 "Robert Schumann|Piano Sonata No. 1|1835|KM_4iZGBcWM|Robert Schumann|Piano Sonata No. 1 (Schumann)",
 "Frédéric Chopin|Ballades|1835-1841|3QH8MstNkKg|Frédéric Chopin|Ballades (Chopin)",
