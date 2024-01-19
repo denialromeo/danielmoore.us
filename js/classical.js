@@ -834,7 +834,7 @@ const classical = [
 "Benjamin Britten|Serenade for Tenor, Horn, and Strings|1943|gcnw-jBCpPw|Benjamin Britten|Serenade for Tenor, Horn and Strings",
 "Sergei Prokofiev|War and Peace|1943-1952|L50YIs955e0|Sergei Prokofiev|War and Peace (opera)",
 "Ralph Vaughan Williams|Symphony No. 5|1943|LsQGFlcqUmA?start=3|Ralph Vaughan Williams|Symphony No. 5 (Vaughan Williams)",
-"Béla Bartók|Concerto for Orchestra|1943-1945|KP-DAOuBsGA?start=46|Béla Bartók|Concerto for Orchestra (Bartók)",
+"Béla Bartók|Concerto for Orchestra|1943-1945|pG26BMDVR9E?start=3|Béla Bartók|Concerto for Orchestra (Bartók)",
 "Paul Hindemith|Symphonic Metamorphosis of Themes by Carl Maria von Weber|1943|2A8tUpPRyR4|Paul Hindemith|Symphonic Metamorphosis of Themes by Carl Maria von Weber",
 "Dmitri Shostakovich|Symphony No. 8|1943|9jFesZ-jxRw|Dmitri Shostakovich|Symphony No. 8 (Shostakovich)",
 "Aaron Copland|Appalachian Spring|1944|Q4Qt0AIRK-0|Aaron Copland|Appalachian Spring",
