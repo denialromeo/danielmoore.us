@@ -1132,7 +1132,7 @@ const albums = [
 "INXS|Kick|1987|OLAK5uy_mKjoAV-X6lgzg4FSxNKZERaBlWChPZh_Y|A1522|Kick (INXS album)|INXS|Pop Rock;Pop;Rock",
 "Happy Mondays|Bummed|1988|OLAK5uy_kU1c-DK9KoOoUcCRmsO8d4lUt2HeV7Uts|A1530|Bummed|Happy Mondays|Baggy / Madchester;Alternative Rock;Rock",
 "Perfume Genius|No Shape|2017|OLAK5uy_lOe8luY2Z-x7cjiHfWvzFdjndf75updEU|A5960|No Shape|Perfume Genius|Art Pop;Pop",
-"Roxy Music|Country Life|1974|https://www.youtube.com/embed/8npzaDWDbO4|A310|Country Life (Roxy Music album)|Roxy Music|Art Rock;Glam Rock;Rock",
+"Roxy Music|Country Life|1974|PLGqsJ2ZHxaKcWTsfyn3Ecj7Lpfk0pbT-k|A310|Country Life (Roxy Music album)|Roxy Music|Art Rock;Glam Rock;Rock",
 "Ray Charles|The Genius of Ray Charles|1959|PLowQCq3Ss89iND4aDT08rm4CAoOZOYlNv|A23|The Genius of Ray Charles|Ray Charles|Soul;Vocal Jazz;Jazz;R&B",
 "Talking Heads|Speaking in Tongues|1983|OLAK5uy_nYHzD9LEtWIKxLhNm8OfmtIJ2Pu324MfU|A584|Speaking in Tongues (Talking Heads album)|Talking Heads|Art Pop;New Wave;Pop;Rock",
 "Sarah Vaughan with Clifford Brown|Sarah Vaughan with Clifford Brown|1955|PLeDKpf9VYSV2ajRuDfpT4HYifqAQlnlcE|A1760|Sarah Vaughan (1955 album)|Sarah Vaughan|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
