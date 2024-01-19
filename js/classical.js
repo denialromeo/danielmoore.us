@@ -931,7 +931,7 @@ const classical = [
 "Dmitri Shostakovich|String Quartet No. 10|1964|syJy_0KNAOQ|Dmitri Shostakovich|String Quartet No. 10 (Shostakovich)",
 "Leonard Bernstein|Chichester Psalms|1965|7Yhnml4DW9g|Leonard Bernstein|Chichester Psalms",
 "Rodion Shchedrin|Carmen Suite|1967|QysD8zCfGTs|Rodion Shchedrin|Carmen Suite (ballet)",
-"Dmitri Shostakovich|Seven Romances on Poems by Alexander Blok|1967|2K-DtBpDwuY|Dmitri Shostakovich|Seven Romances on Poems by Alexander Blok",
+"Dmitri Shostakovich|Seven Romances on Poems by Alexander Blok|1967|2K-DtBpDwuY?start=330|Dmitri Shostakovich|Seven Romances on Poems by Alexander Blok",
 "György Ligeti|String Quartet No. 2|1968|rMd6EEqukWo|György Ligeti|",
 "Dmitri Shostakovich|Violin Sonata|1968|T_kvs_F5tKY|Dmitri Shostakovich|",
 "Karlheinz Stockhausen|Stimmung|1968|3hPkJW95jsw|Karlheinz Stockhausen|Stimmung",
