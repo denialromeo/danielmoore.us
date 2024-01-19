@@ -8547,7 +8547,7 @@ const songs = [
 "Marmion|Schöneberg|1993|hMqPv-P2imY|https://de.wikipedia.org/wiki/Mijk_van_Dijk|S15686|Trance;Dance;Electronic;Electronic Dance Music|",
 "The Coral|Don't Think You're the First|2003|-Y4wmn-fw-c|The Coral|S5869|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|",
 "Razorlight|Golden Touch|2004|KbANp9cRd6o|Razorlight|S8115|Indie Rock;Alternative Rock;Rock|Golden Touch (song)",
-"Andy Kirk & His Twelve Clouds of Joy|Until the Real Thing Comes Along|1936|VaQYQY7JPSQ|Andy Kirk (musician)|S5196|Swing;Vocal Jazz;Jazz|Chris Cornell|",
+"Andy Kirk & His Twelve Clouds of Joy|Until the Real Thing Comes Along|1936|kWyIPq_vLzw|Andy Kirk (musician)|S5196|Swing;Vocal Jazz;Jazz|Chris Cornell|",
 "Bobby Vinton|Roses Are Red (My Love)|1962|8rjPC7-JMUM|Bobby Vinton|S5580|Traditional Pop;Pop|Roses Are Red (My Love)",
 "Chet Baker|Let's Get Lost|1955|aVmbh93-a24|Chet Baker|S4070|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|",
 "Altered Images|I Could Be Happy|1981|dfqPJp7Q7qE|Altered Images|S9980|New Wave;Twee Pop;Indie Pop;Pop;Rock|Happy Birthday (Altered Images song)|I Could Be Happy",
