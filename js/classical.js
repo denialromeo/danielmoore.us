@@ -231,7 +231,7 @@ const classical = [
 "Franz Schubert|Die schöne Müllerin|1823|_YeITW9A8Rk|Franz Schubert|Die schöne Müllerin",
 "Ludwig van Beethoven|Missa solemnis|1823|hnrFUFVcDmc?start=3|Ludwig van Beethoven|Missa solemnis (Beethoven)",
 "Ludwig van Beethoven|Diabelli Variations|1823|hTmQU4jEgJw|Ludwig van Beethoven|Diabelli Variations",
-"Juan Crisóstomo de Arriaga|String Quartets|1824|n5s84ObFtJI|Juan Crisóstomo Arriaga|List of string quartet composers",
+"Juan Crisóstomo de Arriaga|String Quartets|1824|OLAK5uy_mlEYiNKOSyuhQ5s93iPrH5liQKfcIlFZ0|Juan Crisóstomo Arriaga|",
 "Ludwig van Beethoven|Symphony No. 9, “Choral”|1824|yf2rbcrZzDQ|Ludwig van Beethoven|Symphony No. 9 (Beethoven)",
 "Franz Schubert|Octet in F major, D. 803|1824|fnpVu8Eihj4|Franz Schubert|Octet (Schubert)",
 "Franz Schubert|String Quartet in D minor, D. 810, “Death and the Maiden”|1824|otdayisyIiM|Franz Schubert|String Quartet No. 14 (Schubert)",
