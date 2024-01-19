@@ -6846,7 +6846,7 @@ const songs = [
 "Kent|Musik non stop|1999|4NRCR1QIhB4|Kent (band)|S7090|Alternative Rock;Pop Rock;Pop;Rock|Musik non stop",
 "Crowded House|Distant Sun|1993|Bkd5OQ8b0hQ|Crowded House|S5910|Jangle Pop;Soft Rock;Alternative Rock;Pop;Pop Rock;Rock|Distant Sun",
 "Scott Walker|The Seventh Seal|1969|J6XPXC-AKZ0|Scott Walker (singer)|S8333|Baroque Pop;Singer/Songwriter;Pop|The Seventh Seal",
-"Joanna Newsom|Emily|2006|UGoNCvoZuYA|Joanna Newsom|S6927|Chamber Folk;Progressive Folk;Singer/Songwriter;Contemporary Folk;Folk|",
+"Joanna Newsom|Emily|2006|D1lBOA_8OZ0|Joanna Newsom|S6927|Chamber Folk;Progressive Folk;Singer/Songwriter;Contemporary Folk;Folk|",
 "Cat Power|I Don't Blame You|2003|t4j-h7KDl9E|Cat Power|S4682|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|I Don't Blame You",
 "Johnny Cash|I Still Miss Someone|1958|4xPQ16Asyoo|Johnny Cash|S1179|Traditional Country;American Folk Music;Country;Folk;Regional Music;Traditional Folk Music|I Still Miss Someone",
 "Elvis Costello|Beyond Belief|1982|fZGNJTdh-Z0|Elvis Costello|S4563|New Wave;Rock|Beyond Belief (song)",
