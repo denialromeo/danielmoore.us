@@ -965,7 +965,7 @@ const classical = [
 "Brian Ferneyhough|Funérailles|1980|mzTmjDmyx4k|Brian Ferneyhough|",
 "Tristan Murail|Gondwana|1980|q6WXzOIsBuQ|Tristan Murail|Gondwana (Murail)",
 "Jonathan Harvey|Mortuos Plango, Vivos Voco|1980|0T-H-fVlHE0|Jonathan Harvey|Mortuos Plango, Vivos Voco",
-"William Bolcom|Songs of Innocence and Experience|1981|D9Qhr97wB3g|William Bolcom|Songs of Innocence and of Experience",
+"William Bolcom|Songs of Innocence and Experience|1981|OLAK5uy_kkDXO-7p-NaSEjbADCFu9yYlbIZiSLeTI|William Bolcom|Songs of Innocence and of Experience",
 "John Tavener|Funeral Ikos|1981|4ZRrbixpVV0|John Tavener|",
 "Olivier Messiaen|Saint François d’Assise|1983|0TufQgNdfss|Olivier Messiaen|Saint François d'Assise",
 "Oliver Knussen|Where the Wild Things Are|1984|lDCsKAvjWn0|Oliver Knussen|Where the Wild Things Are (opera)",
