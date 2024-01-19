@@ -2067,7 +2067,7 @@ const songs = [
 "Manic Street Preachers|If You Tolerate This Your Children Will Be Next|1998|oqfw8PVZuA4|Manic Street Preachers|S287|Alternative Rock;Pop Rock;Pop;Rock|If You Tolerate This Your Children Will Be Next",
 "Alabama Shakes|Don't Wanna Fight|2015|nin-fiNz50M|Alabama Shakes|S9702|Soul;Southern Rock;R&B;Rock|",
 "Midlake|Roscoe|2006|Jkqn0d2sAsw|Midlake|S4018|Folk Rock;Indie Rock;Alternative Rock;Rock|",
-"Curtis Mayfield|Pusherman|1972|hCDAfa-NI-M|Curtis Mayfield|S5930|Chicago Soul;Film Soundtrack;Funk;Descriptor;R&B;Soul;Soundtracks|Super Fly (soundtrack)",
+"Curtis Mayfield|Pusherman|1972|qfGKYDIOrks|Curtis Mayfield|S5930|Chicago Soul;Film Soundtrack;Funk;Descriptor;R&B;Soul;Soundtracks|Super Fly (soundtrack)",
 "James Blake|CMYK|2010|D2kr9udP6Zo|James Blake (musician)|S4905|Dubstep;Future Garage;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "Bee Gees|Jive Talkin'|1975|oALKAh_bL5g|Bee Gees|S2587|Disco;Pop;Dance|Jive Talkin'",
 "R.E.M.|What's the Frequency, Kenneth?|1994|jWkMhCLkVOg|R.E.M.|S101|Alternative Rock;Rock|What's the Frequency, Kenneth?",
