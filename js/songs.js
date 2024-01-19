@@ -5932,7 +5932,7 @@ const songs = [
 "Porter|Espiral|2004|Jb7BgzFaMZc|Porter (band)|S13597|Indie Rock;Alternative Rock;Rock|",
 "Buzzcocks|Everybody's Happy Nowadays|1979|SvKMv6SnN-k|Buzzcocks|S1827|Pop Punk;Power Pop;Pop;Pop Rock;Punk Rock;Rock|",
 "Billy Bragg|California Stars|1998|1Lnf0hmj6l0|Wilco|S3236|Alt-Country;Americana;Country|",
-"Richard \"Rabbit\" Brown|James Alley-Blues|1927|MKHkG0GxA0E|Rabbit Brown|S9331|Country Blues;Acoustic Blues;American Folk Music;Blues;Folk;Regional Music;Traditional Folk Music|",
+"Richard \"Rabbit\" Brown|James Alley-Blues|1927|eDN3LCGPajA|Rabbit Brown|S9331|Country Blues;Acoustic Blues;American Folk Music;Blues;Folk;Regional Music;Traditional Folk Music|",
 "Nirvana|Territorial Pissings|1991|x6XBlkvTmv8|Kurt Cobain|S14811|Grunge;Punk Rock;Alternative Rock;Rock|",
 "Eddie Cochran|Three Steps to Heaven|1960|zEueb1kSo9w|Eddie Cochran|S6196|Rockabilly;Rock;Rock & Roll|Three Steps to Heaven (song)",
 "Jonathan Richman/The Modern Lovers|I Was Dancing in a Lesbian Bar|1992|XjFU98mEem4|Jonathan Richman|S6993|Pop Rock;Singer/Songwriter;Pop;Rock|",
