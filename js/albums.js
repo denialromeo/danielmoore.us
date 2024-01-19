@@ -1207,7 +1207,7 @@ const albums = [
 "Miles Davis|On the Corner|1972|OLAK5uy_nhjLHQR1Qbzw8z-6ttwwDRNLQIm-Rny90|A2005|On the Corner|Miles Davis|Jazz Fusion;Jazz-Funk;Funk;Jazz;R&B",
 "The Antlers|Hospice|2009|OLAK5uy_m7STdCVyx8Rva9nOUPOcA84eFJMDmEmAU|A5002|Hospice (The Antlers album)|The Antlers (band)|Indie Rock;Alternative Rock;Rock",
 "808 State|90|1989|OLAK5uy_n5Sjut1dxtoeRcpeAwSZhcxPfyRiLakjQ|A3264|90 (album)|808 State|Acid House;Dance;Electronic;Electronic Dance Music;House",
-"Ice Cube|AmeriKKKas Most Wanted|1990|OLAK5uy_mw1wDF2C9nSXalVkOUSctNOtsUC91Ikuk|A793|AmeriKKKa's Most Wanted|Ice Cube|Gangsta Rap;Political Hip Hop;Hardcore Hip Hop;Hip Hop",
+"Ice Cube|AmeriKKKa's Most Wanted|1990|OLAK5uy_mw1wDF2C9nSXalVkOUSctNOtsUC91Ikuk|A793|AmeriKKKa's Most Wanted|Ice Cube|Gangsta Rap;Political Hip Hop;Hardcore Hip Hop;Hip Hop",
 "Bob Dylan|Oh Mercy|1989|OLAK5uy_nrg3q95iN3w1vwHQKFCJ4YJ52AxRTgqcI|A754|Oh Mercy|Bob Dylan|Folk Rock;Pop Rock;Singer/Songwriter;Pop;Rock",
 "U2|All That You Can't Leave Behind|2000|OLAK5uy_lVdueWc8yDa60f31gnE1Jyr3oIdKU3xtc|A1094|All That You Can't Leave Behind|U2|Pop Rock;Pop;Rock",
 "Joe Jackson|Look Sharp!|1979|OLAK5uy_m1App3XZeVi3mtSHPTbvzIWQCyj0WAIo4|A480|Look Sharp! (Joe Jackson album)|Joe Jackson (musician)|New Wave;Power Pop;Pop;Pop Rock;Rock",
