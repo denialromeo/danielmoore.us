@@ -676,7 +676,7 @@ const classical = [
 "Sergei Prokofiev|The Love for Three Oranges|1919|0eVTR3kYdSw|Sergei Prokofiev|The Love for Three Oranges",
 "Maurice Ravel|Le tombeau du Couperin|1919|7NA4j3VhGY4?start=3|Maurice Ravel|",
 "Joaquin Turina|Danzas fantásticas|1920|gLzU3-YvzPc|Joaquín Turina|",
-"Erich Wolfgang Korngold|Die tote Stadt|1920|4xjLDTTJZxI|Erich Wolfgang Korngold|Die tote Stadt",
+"Erich Wolfgang Korngold|Die tote Stadt|1920|OLAK5uy_kMRfAd22FD9yjsNQFAQcQVi7majisfVtQ|Erich Wolfgang Korngold|Die tote Stadt",
 "Maurice Ravel|La valse|1920|TMSgWhIENSk|Maurice Ravel|",
 "Igor Stravinsky|Pulcinella|1920|pVEcJnlHUMM|Igor Stravinsky|Pulcinella (ballet)",
 "Igor Stravinsky|Symphonies of Wind Instruments|1920-1947|72V_OTSiAkM|Igor Stravinsky|Symphonies of Wind Instruments",
