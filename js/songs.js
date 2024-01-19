@@ -5248,7 +5248,7 @@ const songs = [
 "Bessie Smith|Nobody Knows When You're Down and Out|1929|Zea-1Fzi9JQ|Bessie Smith|S4266|Vaudeville Blues;Vocal Jazz;Blues;Jazz;Musical Theatre and Entertainment;Vaudeville|",
 "Stevie Wonder|My Cherie Amour|1969|Fjufjv4rH0s|Stevie Wonder|S3975|Motown Sound;Pop;Pop Soul;R&B;Soul|My Cherie Amour (song)",
 "Extreme|More Than Words|1991|UrIiLvg58SY|Extreme (band)|S6328|Acoustic Rock;Soft Rock;Pop;Pop Rock;Rock|More Than Words",
-"The Jimi Hendrix Experience|Burning of the Midnight Lamp|1967|imECSsbICJw|Jimi Hendrix|S11201|Psychedelic Rock;Rock|Fire (The Jimi Hendrix Experience song)",
+"The Jimi Hendrix Experience|Burning of the Midnight Lamp|1967|iihu2WWhYOQ|Jimi Hendrix|S11201|Psychedelic Rock;Rock|Fire (The Jimi Hendrix Experience song)",
 "The Clash|1977|1977|1jgcwJxrhbs|The Clash|S5822|Punk Rock;Rock|",
 "David Essex|Rock On|1973|r1rIdSWWiQU|David Essex|S5980|Glam Rock;Pop Rock;Pop;Rock|Rock On (David Essex song)",
 "DeFord Bailey|Pan American Blues|1927|yjlR8eS0YPM|DeFord Bailey|S4055|Country Blues;Acoustic Blues;American Folk Music;Blues;Folk;Regional Music;Traditional Folk Music|",
