@@ -219,7 +219,7 @@ const classical = [
 "Nicolò Paganini|Twenty-four Caprices|1817|WMLoBXgPil8|Niccolò Paganini|24 Caprices for Solo Violin (Paganini)",
 "Franz Schubert|Violin Sonata in A major|1817|to1IAyAv0iI|Franz Schubert|",
 "Gioachino Rossini|La cenerentola|1817|SeVezYX1m6M|Gioachino Rossini|La Cenerentola",
-"Ludwig van Beethoven|Piano Sonata in B flat major, Op. 106 \"Hammerklavier\"|1818|erD1Yy-4F5M|Ludwig van Beethoven|Piano Sonata No. 29 (Beethoven)",
+"Ludwig van Beethoven|Hammerklavier|1818|ETjfAIHpJjY|Ludwig van Beethoven|Piano Sonata No. 29 (Beethoven)",
 "Franz Schubert|Piano Quintet in A major, \"Trout\"|1819|RMr4pDGo0KE|Franz Schubert|",
 "Frédéric Chopin|Mazurkas|1820-1847|H5D46aHhRDM|Frédéric Chopin|Mazurkas (Chopin)",
 "Ludwig van Beethoven|Piano Sonata in E major, Op. 109|1820|8JZGiY--2LM|Ludwig van Beethoven|Piano Sonata No. 14 (Beethoven)",
