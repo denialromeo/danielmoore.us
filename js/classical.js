@@ -721,7 +721,7 @@ const classical = [
 "Carl Nielsen|Symphony No. 6|1925|SRLT5vq1weM?start=3|Carl Nielsen|Symphony No. 6 (Nielsen)",
 "Dmitri Shostakovich|Symphony No. 1|1925|bPQMdtAOXVw?start=3|Dmitri Shostakovich|Symphony No. 1 (Shostakovich)",
 "George Enescu|Violin Sonata No. 3|1926|cu718R86j_Q|George Enescu|Violin Sonata No. 3 (Enescu)",
-"Frank Martin|Mass for double choir|1926|OLAK5uy_l8G1ohPpIt8nM66G2JLDs5-i3rs4TJSKA|Frank Martin (composer)|",
+"Frank Martin|Mass for double choir|1926|J4c0ecGbtqY|Frank Martin (composer)|",
 "Sergei Rachmaninoff|Piano Concerto No. 4|1926-1941|rhL2qQKE4CU|Sergei Rachmaninoff|Piano Concerto No. 4 (Rachmaninoff)",
 "Karol Szymanowski|Mazurkas|1926-1934|fjjoZ0yFB6k|Karol Szymanowski|",
 "Karol Szymanowski|Stabat mater|1926|ds4lcWa9aB4|Karol Szymanowski|Stabat Mater (Szymanowski)",
