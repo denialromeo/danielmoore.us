@@ -7004,7 +7004,7 @@ const songs = [
 "Jagwar Ma|The Throw|2013|1vU6a7Haw78|Jagwar Ma|S9458|Baggy / Madchester;House;Neo-Psychedelia;Alternative Rock;Dance;Electronic;Electronic Dance Music;Psychedelic Rock;Rock|",
 "Crystal Castles|Untrust Us|2008|SpwZr5LY6MY|Crystal Castles|S5915|Bitpop;Electropop;Synthpop;Electronic;Pop|",
 "Earl Sweatshirt|Chum|2012|FCbWLSZrZfw|Earl Sweatshirt|S10671|West Coast Hip Hop;Hip Hop|",
-"Charles Mingus|Haitian Fight Song|1957|L7CoJEyiSfE|Charles Mingus|S13164|Post-Bop;Bebop;Jazz|",
+"Charles Mingus|Haitian Fight Song|1957|6OFleiE81-E|Charles Mingus|S13164|Post-Bop;Bebop;Jazz|",
 "Sparks|Beat the Clock|1979|JoMCip83GZ4|Sparks (band)|S8518|Electro-Disco;New Wave;Synthpop;Dance;Disco;Electronic;Electronic Dance Music;Pop;Rock|Beat the Clock (song)",
 "Jeff Buckley|Mojo Pin|1994|Svo7LZbnUVw|Jeff Buckley|S11181|Alternative Rock;Singer/Songwriter;Rock|Mojo Pin",
 "My Chemical Romance|Helena (So Long and Goodnight)|2004|UCCyoocDxBA|My Chemical Romance|S3023|Emo-Pop;Pop Punk;Alternative Rock;Emo;Punk Rock;Rock|Helena (My Chemical Romance song)",
