@@ -6337,7 +6337,7 @@ const songs = [
 "Rammstein|Du hast|1997|W3q8Od5qJio|Rammstein|S12018|Neue Deutsche Härte;Industrial Metal;Industrial Music;Metal;Rock|Du hast",
 "Martin Carthy|Scarborough Fair|1965|pjWxTGPJrDM|Martin Carthy|S11557|Folk Baroque;Contemporary Folk;English Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music|",
 "Silver Convention|Fly, Robin, Fly|1975|oUPdG4DA42g|Silver Convention|S8410|Euro-Disco;Dance;Disco|Fly, Robin, Fly",
-"The Rascals|How Can I Be Sure|1967|TuKeSUUK-A4|The Rascals|S3745|Baroque Pop;Sunshine Pop;Pop|How Can I Be Sure",
+"The Rascals|How Can I Be Sure|1967|jo2E439KPf8|The Rascals|S3745|Baroque Pop;Sunshine Pop;Pop|How Can I Be Sure",
 "Spoonie Gee|Spoonin Rap|1979|Rv7dmq1FePM|Spoonie Gee|S3441|Disco Rap;East Coast Hip Hop;Hip Hop|",
 "The Kinks|Autumn Almanac|1967|p_u0gn1I8xQ|The Kinks|S14628|Pop Rock;Pop;Rock|Autumn Almanac",
 "Charlie Parker|Billie's Bounce|1946|S4mRaEzwTYo|Charlie Parker|S9186|Bebop;Jazz|",
