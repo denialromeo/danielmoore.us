@@ -934,7 +934,7 @@ const classical = [
 "Dmitri Shostakovich|Seven Romances on Poems by Alexander Blok|1967|2K-DtBpDwuY?start=330|Dmitri Shostakovich|Seven Romances on Poems by Alexander Blok",
 "György Ligeti|String Quartet No. 2|1968|rMd6EEqukWo|György Ligeti|",
 "Dmitri Shostakovich|Violin Sonata|1968|T_kvs_F5tKY|Dmitri Shostakovich|",
-"Karlheinz Stockhausen|Stimmung|1968|3hPkJW95jsw|Karlheinz Stockhausen|Stimmung",
+"Karlheinz Stockhausen|Stimmung|1968|OLAK5uy_mnYfVRiw0SkRJC5wQORBIK1GqShigxNVY|Karlheinz Stockhausen|Stimmung",
 "Luciano Berio|Sinfonia|1969|V1XSmiGO3XE|Luciano Berio|Sinfonia (Berio)",
 "Dmitri Shostakovich|Symphony No. 14|1969|Yfqoz2Ys4CU|Dmitri Shostakovich|Symphony No. 14 (Shostakovich)",
 "Elliott Carter|Concerto for Orchestra|1969|eV0bLIMUvWs|Elliott Carter|Concerto for Orchestra",
