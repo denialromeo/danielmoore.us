@@ -556,7 +556,7 @@ const classical = [
 "Giacomo Puccini|Madama Butterfly|1904|IYrbdiee9SU|Giacomo Puccini|Madama Butterfly",
 "Jean Sibelius|Violin Concerto|1905|J0w0t4Qn6LY|Jean Sibelius|Violin Concerto (Sibelius)",
 "Maurice Ravel|Introduction and Allegro|1905|rv5vXFaKkIg|Maurice Ravel|",
-"Maurice Ravel|Miroirs|1905|0VdZR3deNdI|Maurice Ravel|Miroirs",
+"Maurice Ravel|Miroirs|1905|FH92v4DoQuk?start=5|Maurice Ravel|Miroirs",
 "Claude Debussy|La mer|1905|FOCucJw7iT8|Claude Debussy|La mer (Debussy)",
 "Gustav Mahler|Symphony No. 7|1905|QdxvC7NNSLQ|Gustav Mahler|Symphony No. 7 (Mahler)",
 "Franz Lehár|The Merry Widow|1905|9pUtRjDx2k8|Franz Lehár|The Merry Widow",
