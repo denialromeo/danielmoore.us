@@ -4726,7 +4726,7 @@ const songs = [
 "OMC|How Bizarre|1995|C2cMG33mWVY|OMC (band)|S3679|Dance-Pop;Dance;Pop|How Bizarre (song)",
 "Rick Ross|Hustlin'|2006|JU9TouRnO84|Rick Ross|S4029|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Hustlin'",
 "The Rolling Stones|Sway|1971|ryWIbjsnndo?start=5|The Rolling Stones|S8223|Blues Rock;Rock|Sway (Rolling Stones song)",
-"Richard Ashcroft|A Song for the Lovers|2000|3FVwCm1u8mA|Richard Ashcroft|S1403|Alternative Rock;Pop Rock;Pop;Rock|A Song for the Lovers",
+"Richard Ashcroft|A Song for the Lovers|2000|VRhmu_nqjJs|Richard Ashcroft|S1403|Alternative Rock;Pop Rock;Pop;Rock|A Song for the Lovers",
 "Cassie|Me & U|2006|zVJ5gsLeCSM|Cassie Ventura|S4015|Contemporary R&B;R&B|",
 "Red Hot Chili Peppers|Soul to Squeeze|1993|0XcN12uVHeQ|Red Hot Chili Peppers|S8122|Acoustic Rock;Alternative Rock;Rock|",
 "Judee Sill|Jesus Was a Cross Maker|1971|kTAesI73E1U|Judee Sill|S11267|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk|Jesus Was a Cross Maker",
