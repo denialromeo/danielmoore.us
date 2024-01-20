@@ -256,7 +256,7 @@ const classical = [
 "Franz Schubert|Piano Sonata in C minor, D. 958|1828|ltvKcZ9U5QA|Franz Schubert|Schubert's last sonatas",
 "Franz Schubert|Piano Sonata in A major, D. 959|1828|olmgg0y2o9A|Franz Schubert|Schubert's last sonatas",
 "Franz Schubert|Piano Sonata in B flat major, D. 960|1828|oCn0PjPHdrc|Franz Schubert|Schubert's last sonatas",
-"Frédéric Chopin|Nocturnes|1829-1847|PCD3ICskqKpf710YGF7vcPI9lc35z|Frédéric Chopin|Nocturnes (Chopin)",
+"Frédéric Chopin|Nocturnes|1829-1847|-gDinVAmtA0|Frédéric Chopin|Nocturnes (Chopin)",
 "Frédéric Chopin|Piano Concertos|1829-1830|2bFo65szAP0|Frédéric Chopin|Piano Concerto No. 1 (Chopin)",
 "Frédéric Chopin|Waltzes|1829-1847|tiTu6g2TqC8|Frédéric Chopin|Waltzes (Chopin)",
 "Felix Mendelssohn|String Quartets nos. 1 &amp; 2|1827-1829|r0F6tN6IMiI|Felix Mendelssohn|String Quartet No. 1 (Mendelssohn)",
