@@ -1863,7 +1863,7 @@ const albums = [
 "Slick Rick|The Great Adventures of Slick Rick|1988|OLAK5uy_kvGZP-XNqjGHnbDpD_dBEOcivtPw_gcQM|A1543|The Great Adventures of Slick Rick|Slick Rick|Hardcore Hip Hop;Hip Hop",
 "Wayne Shorter|Juju|1965|OLAK5uy_mS7bo8CdHiUb0kfz2ZZ_3VItJUseMRe7E|A1948|JuJu (album)|Wayne Shorter|Bebop;Modal Jazz;Jazz",
 "Culture Club|Colour by Numbers|1983|OLAK5uy_nu6GiJU5H4PdgBR_VK0bNxwA1HhXvqa8s|A577|Colour by Numbers|Culture Club|New Romantic;Pop;New Wave;Rock",
-"Muse|Absolution|2003|PLq99vbhaejbOR88jIagU-99cetMCzUBC8|A4027|Absolution (album)|Muse (band)|Alternative Rock;Rock",
+"Muse|Absolution|2003|OLAK5uy_k98eBRs05K9dsDBYxNLCyn0AkxQ_E1vIU|A4027|Absolution (album)|Muse (band)|Alternative Rock;Rock",
 "Drake|If You're Reading This It's Too Late|2015|OLAK5uy_mzFOUXdaAgjlZjJFNOcXOqMuXVwXUOw0I|A5564|If You're Reading This It's Too Late|Drake (musician)|Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "Horace Silver|Horace Silver and The Jazz Messengers|1955|PLUso-SyaGLt0Zt1lsh4OZQiKXGWgxTwtW|A1802|Horace Silver and the Jazz Messengers|Horace Silver|Hard Bop;Bebop;Jazz",
 "Black Sabbath|Sabbath Bloody Sabbath|1973|OLAK5uy_nrdNnPdQzKIgjvVeAUGZHksBmivyA_-Fg|A1379|Sabbath Bloody Sabbath|Black Sabbath|Hard Rock;Heavy Metal;Metal;Rock",
