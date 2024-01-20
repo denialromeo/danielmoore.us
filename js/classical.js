@@ -425,7 +425,7 @@ const classical = [
 "Pyotr Ilyich Tchaikovsky|Serenade for Strings|1880|M2ZU-1EyVOw|Pyotr Ilyich Tchaikovsky|Serenade for Strings (Tchaikovsky)",
 "Camille Saint-Saëns|Violin Concerto No. 3|1880|DZxwiABbock|Camille Saint-Saëns|Violin Concerto No. 3 (Saint-Saëns)",
 "Bedrich Smetana|From the Homeland|1880|N0kejxuSPtk|Bedřich Smetana|",
-"Pyotr Ilyich Tchaikovsky|1812 Overture|1880|VbxgYlcNxE8|Pyotr Ilyich Tchaikovsky|1812 Overture",
+"Pyotr Ilyich Tchaikovsky|1812 Overture|1880|QUpuAvQQrC0|Pyotr Ilyich Tchaikovsky|1812 Overture",
 "Charles-Marie Widor|Symphony No. 5|1880|ZqeMJ-UbiZA|Charles-Marie Widor|",
 "Alexander Borodin|String Quartet No. 2|1881|9YVd5efkUnw?start=749|Alexander Borodin|String Quartet No. 2 (Borodin)",
 "Johannes Brahms|Piano Concerto No. 2|1881|BszBccYHuAk|Johannes Brahms|Piano Concerto No. 2 (Brahms)",
