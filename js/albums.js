@@ -2654,7 +2654,7 @@ const albums = [
 "Julia Holter|Ekstasis|2012|OLAK5uy_n598AQM6ENr1_3eoDsGl_4cuT477YPS7Q|A5221|Ekstasis (Julia Holter album)|Julia Holter|Art Pop;Baroque Pop;Progressive Pop;Pop",
 "Cluster|Zuckerzeit|1974|OLAK5uy_mRh8nCrVPeVew_HBgcMguA1G10oC0wgUc|A3286|Zuckerzeit|Cluster (band)|Electronic;Krautrock;Experimental Rock;Progressive Rock;Rock",
 "The dB's|Stands for Decibels|1981|PLIrxMbUXe4rRe-F7jr1Nal7OmI3tydw--|A2792|Stands for Decibels|The dB's|Jangle Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock",
-"Prince & The New Power Generation|Love Symbol Album|1992|OLAK5uy_koF7WhEKlQ2bAZuEeN_no1ibiOcW3hrtU|A1711|Love Symbol (Prince album)|Prince (musician)|Contemporary R&B;Funk;Pop Rock;Pop Soul;Pop;R&B;Rock;Soul",
+"Prince & The New Power Generation|Love Symbol|1992|OLAK5uy_koF7WhEKlQ2bAZuEeN_no1ibiOcW3hrtU|A1711|Love Symbol|Prince (musician)|Contemporary R&B;Funk;Pop Rock;Pop Soul;Pop;R&B;Rock;Soul",
 "Rage Against the Machine|Evil Empire|1996|OLAK5uy_nz7sFlOrSkU6v1TANF3DuteE4FfepFKkM|A1615|Evil Empire (album)|Rage Against the Machine|Rap Metal;Alternative Metal;Metal;Rock",
 "Art Blakey & The Jazz Messengers|A Night in Tunisia|1961|PLUJ7V33M1wR05mAtI0RkzIqE68u7kOcat|A1875|A Night in Tunisia (1961 album)|Art Blakey|Hard Bop;Bebop;Jazz",
 "Q-Tip|The Renaissance|2008|OLAK5uy_mON_08AqqrRQ4bzsqKyaYIFN-7mhbeukE|A4406|The Renaissance (Q-Tip album)|Q-Tip (musician)|Conscious Hip Hop;Hip Hop",
