@@ -493,7 +493,7 @@ const albums = [
 "Talk Talk|Laughing Stock|1991|OLAK5uy_lJMAamtC-B-_S3EJc_I4bgUCR3h67Ic7E|A835|Laughing Stock|Talk Talk|Post-Rock;Rock",
 "Jane's Addiction|Ritual De Lo Habitual|1990|OLAK5uy_k1ekPnNS7aalzipeqArodV88YtV01j_Ns|A785|Ritual de lo habitual|Jane's Addiction|Alternative Rock;Rock",
 "Herbie Hancock|Head Hunters|1973|OLAK5uy_m789U0dt-J4aLVd7p-dXJxSfDliep-NT0|A2011|Head Hunters|Herbie Hancock|Jazz Fusion;Jazz-Funk;Funk;Jazz;R&B",
-"Bill Evans|Sunday at the Village Vanguard|1961|PL0q2VleZJVEnDAOJmxWPFQEiB6nTOCPBJ|A1898|Sunday at the Village Vanguard|Bill Evans|Cool Jazz;Jazz",
+"Bill Evans|Sunday at the Village Vanguard|1961|PLL-NbN8uTOihfnMNf_6zuaGcIafx0wb8f|A1898|Sunday at the Village Vanguard|Bill Evans|Cool Jazz;Jazz",
 "Angel Olsen|All Mirrors|2019|OLAK5uy_nIN6hlJmFOn0tQZ9hcL6GDGg0X7wTBb-w|A6207|All Mirrors|Angel Olsen|Art Pop;Chamber Pop;Baroque Pop;Indie Pop;Pop",
 "Black Sabbath|Black Sabbath|1970|PL1gLT2gwYzAGfiwS3GfXVCIo0ep9P8p1B|A1251|Black Sabbath (album)|Black Sabbath|Hard Rock;Heavy Metal;Metal;Rock",
 "Ryan Adams|Heartbreaker|2000|OLAK5uy_nY7TJE_LkqI36OPjvrKRPL82VP0XYT6mY|A1103|Heartbreaker (Ryan Adams album)|Ryan Adams|Alt-Country;Americana;Country",
