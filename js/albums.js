@@ -2390,7 +2390,7 @@ const albums = [
 "Tinariwen|Aman Iman: Water is Life|2007|OLAK5uy_lv8PWqDzSVcp7CgjpQm8Q5KF6QEjYDpg4|A4279|Aman Iman|Tinariwen|Tishoumaren;African Music;Berber Music;North African Music;Regional Music;Tuareg Music",
 "Basement Jaxx|Kish Kash|2003|OLAK5uy_nXx9odlIOVHH-Ow3D3EljKZYp1De5y1Tk|A3909|Kish Kash|Basement Jaxx|Dance-Pop;Funky House;Dance;Electronic;Electronic Dance Music;House;Pop",
 "Daniel Lanois|Acadie|1989|OLAK5uy_nZn9GrFjdjtgJjSOBsHMkw_-Z3lDZ2G1k|A1547|Acadie (album)|Daniel Lanois|Pop Rock;Singer/Songwriter;Pop;Rock",
-"Dwight Yoakam|Guitars, Cadillacs, Etc., Etc.|1986|PL9Ra9e3yXGpDAkmk5Yu0M_WxoF7JIeDGw|A3115|Guitars, Cadillacs, Etc., Etc.|Dwight Yoakam|Bakersfield Sound;Country;Honky Tonk",
+"Dwight Yoakam|Guitars, Cadillacs, Etc., Etc.|1986|PL1X3qTzT40VkkE_85nA82ISAH-MHr16Vp|A3115|Guitars, Cadillacs, Etc., Etc.|Dwight Yoakam|Bakersfield Sound;Country;Honky Tonk",
 "Bonnie Raitt|Give It Up|1972|OLAK5uy_lOIgiB8rxLkbnmnf7Yz4JgkByigSd0co0|A1369|Give It Up (Bonnie Raitt album)|Bonnie Raitt|Blues Rock;Singer/Songwriter;Rock",
 "Van Morrison|Into the Music|1979|OLAK5uy_kE6rlL7QifU6pAgu2gyJyseH44fd4DIXQ|A468|Into the Music|Van Morrison|Folk Rock;Singer/Songwriter;Rock",
 "Korn|Follow the Leader|1998|OLAK5uy_lN3gSClGJU--GAHceqHudhjb4id44kPY4|A3726|Follow the Leader (Korn album)|Korn|Nu Metal;Alternative Metal;Metal;Rock",
