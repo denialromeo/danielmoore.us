@@ -4274,7 +4274,7 @@ const songs = [
 "Smash Mouth|Walkin' on the Sun|1997|LQj--Kjn0z8|Smash Mouth|S25|Pop Rock;Pop;Rock|Walkin' on the Sun",
 "The Rolling Stones|Bitch|1971|3N0A2b7nbdM|The Rolling Stones|S8220|Hard Rock;Rock|Bitch (Rolling Stones song)",
 "Elvis Costello|Accidents Will Happen|1979|aU_zMvaX05Q|Elvis Costello|S6244|New Wave;Pop Rock;Pop;Rock|Accidents Will Happen",
-"Joe Tex|Show Me|1967|BLcw71tkIDg|Joe Tex|S4408|Southern Soul;R&B;Soul|Show Me (Joe Tex song)",
+"Joe Tex|Show Me|1967|oC3RpfRNoYc|Joe Tex|S4408|Southern Soul;R&B;Soul|Show Me (Joe Tex song)",
 "Tindersticks|Kathleen|1994|7CYcxN9955M|Tindersticks|S2087|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
 "Jacques Brel|Orly|1977|Lq5iD-xV9wI|Jacques Brel|S6834|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Téléphone|Un autre monde|1984|xqnZPHo6qx4|Téléphone|S8711|Pop Rock;Pop;Rock|",
