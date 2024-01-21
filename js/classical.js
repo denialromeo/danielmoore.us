@@ -511,7 +511,7 @@ const classical = [
 "Giacomo Puccini|La bohème|1896|H_1OtRt0_ho|Giacomo Puccini|La bohème",
 "Gustav Mahler|Symphony No. 3|1896|Xplx64LVENg|Gustav Mahler|Symphony No. 3 (Mahler)",
 "Camille Saint-Saëns|Piano Concerto No. 5, \"Egyptian\"|1896|OVZcDkJ3-bQ|Camille Saint-Saëns|Piano Concerto No. 5 (Saint-Saëns)",
-"Richard Strauss|Also sprach Zarathustra|1896|IFPwm0e_K98|Richard Strauss|Also sprach Zarathustra",
+"Richard Strauss|Also sprach Zarathustra|1896|GfwAPg4rQQE?start=3|Richard Strauss|Also sprach Zarathustra",
 "Hugo Wolf|Italienisches Liederbuch|1896|FwjVBdoVaoY|Hugo Wolf|Italienisches Liederbuch (Wolf)",
 "Richard Strauss|Don Quixote|1897|5PvCGu2Ue0U|Richard Strauss|Don Quixote (Strauss)",
 "Paul Dukas|The Sorcerer’s Apprentice|1897|U4yH4B9deok|Paul Dukas|The Sorcerer's Apprentice (Dukas)",
