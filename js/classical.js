@@ -601,7 +601,7 @@ const classical = [
 "Florent Schmitt|La tragédie de Salomé|1910|yDHj8nanq2Q|Florent Schmitt|",
 "Fritz Kreisler|Liebesfreund &amp; Liebesleid|1910|jniNETA36Us|Fritz Kreisler|Alt-Wiener Tanzweisen",
 "Franz Schreker|Der ferne Klang|1910|rt2-Ze2I6kA|Franz Schreker|Der ferne Klang",
-"Alexander Scriabin|Prometheus|1910|6osJBtQRjoY|Alexander Scriabin|Prometheus: The Poem of Fire",
+"Alexander Scriabin|Prometheus|1910|10ESN_t7txI?start=3|Alexander Scriabin|Prometheus: The Poem of Fire",
 "Richard Strauss|Der Rosenkavalier|1910|lxrmLsG7dPY?start=3|Richard Strauss|Der Rosenkavalier",
 "Ralph Vaughan Williams|Fantasia on a Theme of Thomas Tallis|1910-1919|ihx5LCF1yJY|Ralph Vaughan Williams|Fantasia on a Theme by Thomas Tallis",
 "Igor Stravinsky|The Firebird|1910|RZkIAVGlfWk|Igor Stravinsky|The Firebird",
