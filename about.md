@@ -189,7 +189,7 @@ I hope you have a good time here. Thanks for dropping by.
 **Novels**
 
 * [*A Clash of Kings*](https://www.goodreads.com/notes/6584437-a-clash-of-kings/71655209-daniel-moore) by [George R. R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin) (Living history is written in blood.)
-* [*The Haj*](https://www.amazon.com/Haj-Leon-Uris/dp/0385034598) by [Leon Uris](https://en.wikipedia.org/wiki/Leon_Uris) (Israeli history from a pro-Jewish perspective.)
+* [*The Haj*](https://www.amazon.com/Haj-Leon-Uris/dp/0385034598) by [Leon Uris](https://en.wikipedia.org/wiki/Leon_Uris) (Israeli history from a Jewish perspective.)
 * [*The House of God*](https://www.goodreads.com/notes/10562200-the-house-of-god/71655209-daniel-moore) by [Samuel Shem](https://en.wikipedia.org/wiki/Samuel_Shem) (Only [57%](https://www.ama-assn.org/practice-management/physician-health/pandemic-s-wake-only-57-doctors-would-choose-medicine-again) of doctors would go into medicine again.)
 * [*Invisible Man*](https://www.goodreads.com/notes/50176777-invisible-man/71655209-daniel-moore) by [Ralph Ellison](https://en.wikipedia.org/wiki/Ralph_Ellison) (Written in 1952 &ndash; still describes U.S. race relations today.)
 * [*The Long Walk*](https://www.goodreads.com/notes/28165439-the-long-walk/71655209-daniel-moore) by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) (Masculinity in a nutshell.)
