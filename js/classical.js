@@ -770,7 +770,7 @@ const classical = [
 "Zoltán Kodály|Dances of Galánta|1933|Gi_gUeCG_d8|Zoltán Kodály|Dances of Galánta",
 "Karol Szymanowski|Violin Concerto No. 2|1933|roFFn0DL_hU|Karol Szymanowski|Violin Concerto No. 2 (Szymanowski)",
 "Edward Elgar|Symphony No. 3|1934|Tnor-Hg7Utc|Edward Elgar|Symphony No. 3 (Elgar)",
-"Dmitri Shostakovich|Cello Sonata|1934|GKyd_2T4jsM|Dmitri Shostakovich|Cello Sonata (Shostakovich)",
+"Dmitri Shostakovich|Cello Sonata|1934|DBYoug7MTZQ|Dmitri Shostakovich|Cello Sonata (Shostakovich)",
 "Sergei Prokofiev|Lieutenant Kijé Suite|1934|YbaY7p5ahZo|Sergei Prokofiev|Lieutenant Kijé (Prokofiev)",
 "Sergei Rachmaninoff|Rhapsody on a Theme of Paganini|1934|ppJ5uITLECE|Sergei Rachmaninoff|Rhapsody on a Theme of Paganini",
 "Paul Hindemith|Mathis der Maler Symphony|1934|znXWfmfPh8E|Paul Hindemith|Symphony: Mathis der Maler",
