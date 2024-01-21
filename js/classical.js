@@ -59,7 +59,7 @@ const classical = [
 "Marc-Antoine Charpentier|Te Deum|1690s|I3LIlzPtsmw|Marc-Antoine Charpentier|Te Deum (Charpentier)",
 "Henry Purcell|The Fairy Queen|1692|QAvS3AypQfI|Henry Purcell|The Fairy-Queen",
 "Henry Purcell|Come Ye Sons of Art, Away|1694|LSk_kA62duQ|Henry Purcell|Come Ye Sons of Art",
-"Antonio Caldara|Maddalena ai piedi di Cristo|1698|wZ85C2u3GRU|Antonio Caldara|",
+"Antonio Caldara|Maddalena ai piedi di Cristo|1698|RjpfutXceYo|Antonio Caldara|",
 "Arcangelo Corelli|Twelve Concerti Grossi, Op. 6|1700s|UNsrdjzLrzM|Arcangelo Corelli|",
 "Antonio Vivaldi|Gloria, RV 589|1700s|Tu6yiS1Q3dA|Antonio Vivaldi|Gloria (Vivaldi)",
 "Johann Sebastian Bach|Preludes, Fantasias, Toccatas &amp; Fugues|1705-1748|YqpkLWATbbA|Johann Sebastian Bach|",
