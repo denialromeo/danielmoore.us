@@ -7069,7 +7069,7 @@ const songs = [
 "Charlélie Couture|Comme un avion sans ailes|1981|068G1r0hP28|Charlélie Couture|S5755|French Pop;Pop|",
 "Brigitte Fontaine & Art Ensemble of Chicago|Comme à La Radio|1970|bH61SPbdqUU|Art Ensemble of Chicago|S10295|Chamber Jazz;Jazz|",
 "Pearl Jam|The Fixer|2009|b8I_3JVYn6U|Pearl Jam|S7924|Alternative Rock;Rock|The Fixer (song)",
-"Animal Collective|What Would I Want? Sky|2009|-n0_C8uIjp0|Animal Collective|S5200|Art Pop;Neo-Psychedelia;Progressive Pop;Pop;Psychedelic Rock;Rock|",
+"Animal Collective|What Would I Want? Sky|2009|YoXFmo50YBI|Animal Collective|S5200|Art Pop;Neo-Psychedelia;Progressive Pop;Pop;Psychedelic Rock;Rock|",
 "Bobby Vee|The Night Has a Thousand Eyes|1962|3GQAmTznY2o|Bobby Vee|S5579|Pop|The Night Has a Thousand Eyes (song)",
 "Bush|Swallowed|1996|8FIBPKRV3kk|Bush (British band)|S14204|Post-Grunge;Alternative Rock;Rock|Swallowed (song)",
 "Ruby|Paraffin|1995|J5O56vmE_s8|Ruby (British band)|S8262|Trip Hop;Downtempo;Electronic|Paraffin",
