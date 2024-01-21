@@ -373,7 +373,7 @@ const classical = [
 "Camille Saint-Saëns|Piano Concerto No. 2|1868|tVCvJZtzkqQ|Camille Saint-Saëns|",
 "Edvard Grieg|Piano Concerto|1868|I1Yoyz6_Los|Edvard Grieg|Piano Concerto (Grieg)",
 "Henri Duparc|Mélodies|1868-1884|CKoeBLh2Y2M|Henri Duparc (composer)|Mélodie",
-"Arrigo Boito|Mefistofele|1868-1876|5eUUhw0eHbI|Arrigo Boito|Mefistofele",
+"Arrigo Boito|Mefistofele|1868-1876|OLAK5uy_mO5AcL1kMfvMZF0rXDnMelmPZ6FYBH7yk|Arrigo Boito|Mefistofele",
 "Ambroise Thomas|Hamlet|1868|P70KBHeDw7U|Ambroise Thomas|Hamlet (Thomas)",
 "Modest Mussorgsky|Boris Godunov|1869-1908|16NiqpBZMpM|Modest Mussorgsky|Boris Godunov (opera)",
 "Johannes Brahms|Hungarian Dances|1869-1880|PLr8wuhKLeLgwsyJNeX8d2LMTIUsZ5XlEN|Johannes Brahms|Hungarian Dances (Brahms)",
