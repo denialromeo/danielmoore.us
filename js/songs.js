@@ -94,7 +94,7 @@ const songs = [
 "Lorde|Royals|2013|nlcIKh6sBtc|Lorde|S9482|Electropop;Electronic;Pop|Royals (Lorde song)",
 "Daft Punk|Get Lucky|2013|5NV6Rdv1a3I|Daft Punk|S9426|Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|Get Lucky (Daft Punk song)",
 "Elvis Presley|Suspicious Minds|1969|MT3P7p-WNSY|Elvis Presley|S879|Blue Eyed Soul;Pop Rock;Pop;Rock|",
-"David Bowie|Life on Mars?|1971|AZKcl4-tcuo|David Bowie|S760|Art Rock;Glam Rock;Piano Rock;Pop;Pop Rock;Rock|Life on Mars (song)",
+"David Bowie|Life on Mars?|1971|AZKcl4-tcuo?start=7|David Bowie|S760|Art Rock;Glam Rock;Piano Rock;Pop;Pop Rock;Rock|Life on Mars (song)",
 "Four Tops|Reach Out I'll Be There|1966|2EaflX0MWRo|Four Tops|S963|Motown Sound;Pop;Pop Soul;R&B;Soul|Reach Out I'll Be There",
 "Elvis Presley|That's All Right|1954|YZe_8u-rGWE|Elvis Presley|S1325|Rockabilly;Rock;Rock & Roll|Memories (Elvis Presley song)",
 "James Brown|Get Up (I Feel Like Being a) Sex Machine|1970|5SrQ9graFWQ|James Brown|S842|Funk;R&B|Get Up (I Feel Like Being a) Sex Machine",
