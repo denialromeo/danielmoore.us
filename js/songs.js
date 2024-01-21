@@ -7183,7 +7183,7 @@ const songs = [
 "Bob Dylan|Gotta Serve Somebody|1979|wC10VWDTzmU|Bob Dylan|S5551|Christian Rock;Singer/Songwriter;Rock|Gotta Serve Somebody",
 "Beastie Boys|Hold It Now, Hit It|1986|oB0NM6reiRE|Beastie Boys|S14107|East Coast Hip Hop;Hip Hop|Hold It Now, Hit It",
 "The Beach Boys|Sail On, Sailor|1973|Zx6dgEgbMNU|The Beach Boys|S5350|Pop Rock;Pop;Rock|Sail On, Sailor",
-"Honey Cone|Want Ads|1971|r0V9K0ERzRo|Honey Cone|S6729|Motown Sound;Pop;Pop Soul;R&B;Soul|Want Ads",
+"Honey Cone|Want Ads|1971|P2S6pp-n8_M|Honey Cone|S6729|Motown Sound;Pop;Pop Soul;R&B;Soul|Want Ads",
 "Aqualung|Strange and Beautiful|2002|wkBCwDypyF4|Aqualung (musician)|S5220|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|",
 "Ringo Starr|Back Off Boogaloo|1972|BXg1AxBXN5g|Ringo Starr|S8167|Glam Rock;Pop Rock;Pop;Rock|Back Off Boogaloo",
 "The Mystics|Hushabye|1959|cXXyO32cOxI|The Mystics|S3068|Doo-Wop;Descriptor;R&B;Vocal Group|Hushabye",
