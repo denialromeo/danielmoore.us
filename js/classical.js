@@ -426,7 +426,7 @@ const classical = [
 "Camille Saint-Saëns|Violin Concerto No. 3|1880|DZxwiABbock|Camille Saint-Saëns|Violin Concerto No. 3 (Saint-Saëns)",
 "Bedrich Smetana|From the Homeland|1880|N0kejxuSPtk|Bedřich Smetana|",
 "Pyotr Ilyich Tchaikovsky|1812 Overture|1880|QUpuAvQQrC0|Pyotr Ilyich Tchaikovsky|1812 Overture",
-"Charles-Marie Widor|Symphony No. 5|1880|ZqeMJ-UbiZA|Charles-Marie Widor|",
+"Charles-Marie Widor|Symphony for Organ No. 5|1880|glWX6sQQ_dQ?start=115|Charles-Marie Widor|Symphony for Organ No. 5",
 "Alexander Borodin|String Quartet No. 2|1881|9YVd5efkUnw?start=749|Alexander Borodin|String Quartet No. 2 (Borodin)",
 "Johannes Brahms|Piano Concerto No. 2|1881|BszBccYHuAk|Johannes Brahms|Piano Concerto No. 2 (Brahms)",
 "Richard Wagner|Parsifal|1881|JsqPWZNEQvY|Richard Wagner|Parsifal",
