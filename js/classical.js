@@ -376,7 +376,7 @@ const classical = [
 "Arrigo Boito|Mefistofele|1868-1876|5eUUhw0eHbI|Arrigo Boito|Mefistofele",
 "Ambroise Thomas|Hamlet|1868|P70KBHeDw7U|Ambroise Thomas|Hamlet (Thomas)",
 "Modest Mussorgsky|Boris Godunov|1869-1908|16NiqpBZMpM|Modest Mussorgsky|Boris Godunov (opera)",
-"Johannes Brahms|Hungarian Dances|1869-1880|YXT42ghiuZ4|Johannes Brahms|Hungarian Dances (Brahms)",
+"Johannes Brahms|Hungarian Dances|1869-1880|PLr8wuhKLeLgwsyJNeX8d2LMTIUsZ5XlEN|Johannes Brahms|Hungarian Dances (Brahms)",
 "Mily Alekseyevich Balakirev|Islamey|1869-1902|78AslTXMp30|Mily Balakirev|",
 "Pyotr Ilyich Tchaikovsky|Romeo and Juliet|1869-1880|_Od7gx3Dc-U|Pyotr Ilyich Tchaikovsky|Romeo and Juliet (Tchaikovsky)",
 "Léo Delibes|Coppélia|1870|haxnvx6SHIo|Léo Delibes|Coppélia",
