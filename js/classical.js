@@ -791,7 +791,7 @@ const classical = [
 "Dmitri Shostakovich|Symphony No. 4|1936|-Us8ElJ3yUY|Dmitri Shostakovich|Symphony No. 4 (Shostakovich)",
 "Franz Schmidt|The Book with Seven Seals|1937|gQfMFH7UU7s|Franz Schmidt (composer)|The Book with Seven Seals",
 "Benjamin Britten|Variations on a Theme of Frank Bridge|1937|_TkHXHH0w0Q|Benjamin Britten|Variations on a Theme of Frank Bridge",
-"Dmitri Shostakovich|Symphony No. 5|1937|T1h1NJMKtnc|Dmitri Shostakovich|Symphony No. 5 (Shostakovich)",
+"Dmitri Shostakovich|Symphony No. 5|1937|cg0M4LzEITQ?start=3|Dmitri Shostakovich|Symphony No. 5 (Shostakovich)",
 "Richard Strauss|Daphne|1937|OwQ6wmcYGiY|Richard Strauss|Daphne (opera)",
 "Dag Wirén|Serenade for Strings|1937|1bKlWxFSpTI|Dag Wirén|",
 "Francis Poulenc|Organ Concerto|1938|HsFsBNAmCd0?start=3|Francis Poulenc|",
