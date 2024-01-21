@@ -968,7 +968,7 @@ const classical = [
 "William Bolcom|Songs of Innocence and Experience|1981|OLAK5uy_kkDXO-7p-NaSEjbADCFu9yYlbIZiSLeTI|William Bolcom|https://en.wikipedia.org/wiki/Songs_of_Innocence_and_of_Experience#Musical_settings",
 "John Tavener|Funeral Ikos|1981|4ZRrbixpVV0|John Tavener|",
 "Olivier Messiaen|Saint François d’Assise|1983|0TufQgNdfss|Olivier Messiaen|Saint François d'Assise",
-"Oliver Knussen|Where the Wild Things Are|1984|lDCsKAvjWn0|Oliver Knussen|Where the Wild Things Are (opera)",
+"Oliver Knussen|Where the Wild Things Are|1984|PLSO9Kihiwr3N56_74IUqZT-2QG1-dM503|Oliver Knussen|Where the Wild Things Are (opera)",
 "Olivier Messiaen|Livre du Saint Sacrement|1984|RJ_x_8o80TI|Olivier Messiaen|",
 "Hans Werner Henze|Symphony No. 7|1984|QmRpoA74BME|Hans Werner Henze|",
 "Helmut Lachenmann|Mouvement (-vor der Erstarrung)|1984|zRLBdHR2L7c|Helmut Lachenmann|Mouvement (– vor der Erstarrung)",
