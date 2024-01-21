@@ -636,7 +636,7 @@ const classical = [
 "Zoltán Kodály|Duo for Violin and Cello|1914|ihgPqrukvLc|Zoltán Kodály|",
 "Maurice Ravel|Piano Trio|1914|3QzLA5se4co|Maurice Ravel|Piano Trio (Ravel)",
 "Béla Bartók|Romanian Folk Dances|1915|Z50Ooqv1GFg|Béla Bartók|Romanian Folk Dances",
-"Claude Debussy|Douze Études|1915|Qi5A2te4mnI?start=1403|Claude Debussy|Études (Debussy)",
+"Claude Debussy|Douze Études|1915|PLRZHES76K9cuyA2oaYlFWL8vpqdcnNhfo|Claude Debussy|Études (Debussy)",
 "Alban Berg|Three Orchestral Pieces, Op. 6|1915-1929|q6U8AqRNyU8|Alban Berg|Three Pieces for Orchestra (Berg)",
 "Manuel de Falla|Nights in the Gardens of Spain|1915|yo9DJB6wYy8?start=3|Manuel de Falla|Nights in the Gardens of Spain",
 "Claude Debussy|Sonatas|1915-1917|6p1HDpf48Tg|Claude Debussy|Six sonatas for various instruments",
