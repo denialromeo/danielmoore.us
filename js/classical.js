@@ -461,7 +461,7 @@ const classical = [
 "Giuseppe Verdi|Otello|1887|Sm_Usoo7LvY|Giuseppe Verdi|Otello",
 "César Franck|Symphony in D minor|1888|uRWFjK11lfw?start=3|César Franck|",
 "Gustav Mahler|Symphony No. 1|1888|ISBfOpztUZM|Gustav Mahler|Symphony No. 1 (Mahler)",
-"Nicolai Rimsky-Korsakov|Sheherazade|1888|zY4w4_W30aQ|Nikolai Rimsky-Korsakov|",
+"Nicolai Rimsky-Korsakov|Scheherazade|1888|zY4w4_W30aQ|Nikolai Rimsky-Korsakov|Scheherazade (Rimsky-Korsakov)",
 "Hugo Wolf|Mörike Lieder|1888|F4D9DEgFo6k|Hugo Wolf|",
 "Pyotr Ilyich Tchaikovsky|Symphony No. 5|1888|JUk0WZVCnk4|Pyotr Ilyich Tchaikovsky|Symphony No. 5 (Tchaikovsky)",
 "Nicolai Rimsky-Korsakov|Russian Easter Festival Overture|1888|hbDYtAHTQoE?start=10|Nikolai Rimsky-Korsakov|Russian Easter Festival Overture",
