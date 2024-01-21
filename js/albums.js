@@ -543,7 +543,7 @@ const albums = [
 "The Replacements|Tim|1985|OLAK5uy_kC4DTZ6_pcSdQ-bCUHaBX__vYiiDL41PA|A647|Tim (The Replacements album)|The Replacements (band)|Alternative Rock;Power Pop;Pop;Pop Rock;Rock",
 "The Feelies|Crazy Rhythms|1980|OLAK5uy_nlO8r2rfv6v3PLYaDBwc7i0fqCJAsF5-4|A504|Crazy Rhythms|The Feelies|New Wave;Post-Punk;Rock",
 "Nick Cave & The Bad Seeds|The Boatman's Call|1997|OLAK5uy_kLHQliubwmYsfg8QzL4KmK2XldOJIv69U|A1004|The Boatman's Call|Nick Cave and the Bad Seeds|Singer/Songwriter",
-"Sigur Rós|( )|2002|https://www.youtube.com/embed/i7A4qrq3lM4|A1643|( ) (album)|Sigur Rós|Post-Rock;Rock",
+"Sigur Rós|( )|2002|PLp_aP7o4Kj8U78eR1QXn-5N4W0dnYfIqb|A1643|( ) (album)|Sigur Rós|Post-Rock;Rock",
 "Janelle Monáe|Dirty Computer|2018|OLAK5uy_kqbZeag2Ai_9wn4GEH_Pfg0KfNTmqv2I0|A6021|Dirty Computer|Janelle Monáe|Art Pop;Contemporary R&B;Pop;R&B",
 "Buffalo Springfield|Buffalo Springfield Again|1967|OLAK5uy_nPn6mqSZ0x3WHTj-_-cE6nobsD1wPX-tM|A108|Buffalo Springfield Again|Buffalo Springfield|Folk Rock;Psychedelic Rock;Rock",
 "Curtis Mayfield|Curtis|1970|OLAK5uy_nfWKA-syKEdW9c-i_RLaiRMjO8wF_ipxQ|A198|Curtis (Curtis Mayfield album)|Curtis Mayfield|Chicago Soul;R&B;Soul",
