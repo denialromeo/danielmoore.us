@@ -1814,7 +1814,7 @@ const songs = [
 "The White Stripes|Dead Leaves and the Dirty Ground|2001|7OyytKqYjkE|The White Stripes|S4617|Alternative Rock;Blues Rock;Garage Rock Revival;Garage Rock;Rock|Dead Leaves and the Dirty Ground",
 "The Beatles|Love Me Do|1962|0pGOFX1D_jg|The Beatles|S1110|British Rhythm & Blues;Merseybeat;Beat Music;Pop;Pop Rock;R&B;Rhythm & Blues;Rock|",
 "Björk|Joga|1997|loB0kmz_0MM|Björk|S4520|Art Pop;Electronic;Pop|Jóga",
-"The Doors|People Are Strange|1967|GJY8jJkDoMY|The Doors|S3350|Psychedelic Rock;Rock|People Are Strange",
+"The Doors|People Are Strange|1967|uCoCNCJFS7A?start=25|The Doors|S3350|Psychedelic Rock;Rock|People Are Strange",
 "Yves Montand|Les Feuilles mortes|1949|JWfsp8kwJto|Yves Montand|S9105|Chanson;Regional Music|",
 "Doug E. Fresh|La-Di-Da-Di|1985|wr6ld9Rt1bM|Doug E. Fresh|S2912|East Coast Hip Hop;Hip Hop|La Di Da Di",
 "Paul McCartney|Jet|1973|M8V1nFCP058|Paul McCartney and Wings|S744|Power Pop;Pop;Pop Rock;Rock|Jet (song)",
