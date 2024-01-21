@@ -52,7 +52,7 @@ const classical = [
 "Michel-Richard de Lalande|Grand Motets|1680-1700|0Dpnpw6J-cE|Michel Richard Delalande|Motet",
 "Henry Purcell|Fantasias|1680|i5GBozzwWCI|Henry Purcell|",
 "John Blow|Venus and Adonis|1683|0Uf0wfEMb-o|John Blow|",
-"Henry Purcell|Dido and Aeneas|1683-1689|GYdfxNYAVG4|Henry Purcell|Dido and Aeneas",
+"Henry Purcell|Dido and Aeneas|1683-1689|hb1_GaI-1yI|Henry Purcell|Dido and Aeneas",
 "Jean-Baptiste Lully|Armide|1686|2zrbaEHomag|Jean-Baptiste Lully|Armide (Lully)",
 "Alessandro Scarlatti|Cantatas|1688-1720|-ZDAmkt-2_k|Alessandro Scarlatti|",
 "Juan de Araujo|Dixit Dominus|1689|gGZ9ykCZsfg|Juan de Araujo|",
