@@ -7963,7 +7963,7 @@ const songs = [
 "The Smiths|Shoplifters of the World Unite|1987|lJRN76hxFz0|The Smiths|S8464|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Shoplifters of the World Unite",
 "Rush|2112|1976|NJPAjiSX7Rk|Rush (band)|S12127|Hard Rock;Progressive Rock;Rock Opera;Rock|2112 (song)",
 "Neneh Cherry|Kong|2018|W6ivBXh1zGQ|Neneh Cherry|S16587|Art Pop;Trip Hop;Downtempo;Electronic;Pop|",
-"The Everly Brothers|Walk Right Back|1961|c048o_KvWsA|The Everly Brothers|S1136|Close Harmony;Pop;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|Walk Right Back",
+"The Everly Brothers|Walk Right Back|1961|jE6hp2a5mrI|The Everly Brothers|S1136|Close Harmony;Pop;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|Walk Right Back",
 "Aretha Franklin|Freeway of Love|1985|Ip_pjb5_fgA|Aretha Franklin|S3426|Contemporary R&B;Dance-Pop;Pop Soul;Dance;Pop;R&B;Soul|Freeway of Love",
 "Kool Keith|Sex Style|1997|RHfVP3Hv5nc|Kool Keith|S14634|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "Joni Mitchell|For the Roses|1972|96CxiZoecMc|Joni Mitchell|S7001|Contemporary Folk;Singer/Songwriter;Folk|For the Roses",
