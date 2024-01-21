@@ -1,7 +1,7 @@
 const classical = [ 
 "Anonymous|Carmina Burana|1100s|LWWcYygoV1c|Goliards|Carmina Burana",
 "Hildegard of Bingen|Antiphons|1100s|2VWD9bsy2yg|Hildegard of Bingen|",
-"Guillaume de Machaut|Ballades|1300s|LLmUXFck3r0|Guillaume de Machaut|Ballade (forme fixe)",
+"Guillaume de Machaut|Ballades|1300s|PLdOwnh1ORS3r8uGqgYwZ9VWO0zHgYccg2|Guillaume de Machaut|Ballade (forme fixe)",
 "Francesco Landini|Ballatas and Songs|1300s|8aw7Wvivsv4|Francesco Landini|",
 "Guillaume Dufay|Motets|1420-1447|y1qaSdMObLg|Guillaume Du Fay|Motet",
 "Antoine Busnoys|Motets|1400s|owyMR2hAieE|Antoine Busnois|Motet",
