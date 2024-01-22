@@ -8029,7 +8029,7 @@ const songs = [
 "Looking Glass|Brandy (You're a Fine Girl)|1972|DVx8L7a3MuE|Looking Glass (band)|S7300|Soft Rock;Pop;Pop Rock;Rock|Brandy (You're a Fine Girl)",
 "Ethel Waters|Am I Blue?|1929|emOkuPqVDkQ|Ethel Waters|S6308|Blues;Vocal Jazz;Jazz|Am I Blue%3F",
 "The Seekers|I'll Never Find Another You|1964|wZf41UudAbI?start=13|The Seekers|S8347|Folk Pop;Sunshine Pop;Contemporary Folk;Folk;Pop|",
-"Miles Davis|Jeru|1949|MRjjqFogPGI|Miles Davis|S13235|Cool Jazz;Jazz|",
+"Miles Davis|Jeru|1949|qH1x4ODEJo4|Miles Davis|S13235|Cool Jazz;Jazz|",
 "Gerry Mulligan Quartet feat. Chet Baker|My Funny Valentine|1953|u8bP4jcGGAI|Gerry Mulligan|S13495|Bebop;Cool Jazz;Jazz|",
 "Peter Murphy|Cuts You Up|1990|UrfFHzqGBZI|Peter Murphy (musician)|S3647|Alternative Rock;Gothic Rock;Rock|Cuts You Up",
 "Kool & The Gang|Get Down on It|1981|qchPLaiKocI|Kool & the Gang|S11336|Disco;Funk;Dance;R&B|Get Down on It",
