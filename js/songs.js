@@ -6970,7 +6970,7 @@ const songs = [
 "Blue Rodeo|Try|1987|hkMaBy6EX0w|Blue Rodeo|S5519|Alt-Country;Country|Try (Blue Rodeo song)",
 "Röyksopp|Monument|2014|Zo6UnKr6Bwg|Röyksopp|S9601|Ambient House;Art Pop;Electropop;Dance;Electronic;Electronic Dance Music;House;Pop|",
 "Mumdance|Take Time|2014|4b9-eflxM-4|Novelist (MC)|S9639|UK Bass;Weightless;Dance;Electronic;Electronic Dance Music;Grime;UK Garage|Novelist (musician)",
-"Rich Boy|Throw Some D's|2007|COtiM_1noKc|Rich Boy|S4338|Dirty South;Southern Hip Hop;Hip Hop|Throw Some D's",
+"Rich Boy|Throw Some D's|2007|pudIZbCRq_c|Rich Boy|S4338|Dirty South;Southern Hip Hop;Hip Hop|Throw Some D's",
 "Jean Michel Jarre|Oxygene IV|1976|kSIMVnPA994|Jean-Michel Jarre|S6885|Progressive Electronic;Electronic|",
 "Mystery Jets|Two Doors Down|2008|K2Dl3VQ2K2U|Mystery Jets|S4737|Indie Pop;New Wave;Pop;Rock|",
 "The Micronauts|The Jag|1999|XH4Nr6mcNIU?start=13|The Micronauts|S4244|Electro;Dance;Electronic;Electronic Dance Music|",
