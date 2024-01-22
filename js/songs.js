@@ -967,7 +967,7 @@ const songs = [
 "The Contours|Do You Love Me|1962|l3zJZ2d4cis|The Contours|S1082|Pop Soul;Rhythm & Blues;Pop;R&B;Soul|Do You Love Me",
 "Sister Sledge|We Are Family|1979|uyGY2NfYpeE|Sister Sledge|S587|Disco;Pop Soul;Dance;Pop;R&B;Soul|We Are Family (song)",
 "Spice Girls|Wannabe|1996|gJLIiF15wjQ|Spice Girls|S44|Pop|",
-"Stevie Wonder|Uptight (Everything's Alright)|1965|wDbyOLzEyfk|Stevie Wonder|S1002|Motown Sound;Pop;Pop Soul;R&B;Soul|Uptight (Everything's Alright)",
+"Stevie Wonder|Uptight (Everything's Alright)|1965|rXXmeYQRifc|Stevie Wonder|S1002|Motown Sound;Pop;Pop Soul;R&B;Soul|Uptight (Everything's Alright)",
 "The Rolling Stones|Under My Thumb|1966|aGRnokznTF0|The Rolling Stones|S3780|British Rhythm & Blues;Mod;R&B;Rhythm & Blues;Rock|Under My Thumb",
 "Blondie|Atomic|1979|O_WLw_0DFQQ|Debbie Harry|S556|New Wave;Rock|Atomic (song)",
 "Kurtis Blow|The Breaks|1980|5ZDUEilS5M4|Kurtis Blow|S543|Disco Rap;East Coast Hip Hop;Hip Hop|",
