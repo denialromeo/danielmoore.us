@@ -289,7 +289,7 @@ const classical = [
 "Hector Berlioz|Roméo et Juliette|1839|VZhBexI6F6U|Hector Berlioz|Roméo et Juliette (Berlioz)",
 "Frédéric Chopin|Preludes|1839|SqXYIteAfNs|Frédéric Chopin|Preludes (Chopin)",
 "Felix Mendelssohn|Piano Trios nos. 1 &amp; 2|1839-1845|Bu3AI96hBk8|Felix Mendelssohn|Piano Trio No. 1 (Mendelssohn)",
-"Frédéric Chopin|Piano Sonata No. 2, \"Funeral March\"|1839|KUQX-eAOWw0?start=7|Frédéric Chopin|Piano Sonata No. 2 (Chopin)",
+"Frédéric Chopin|Piano Sonata No. 2|1839|KUQX-eAOWw0?start=7|Frédéric Chopin|Piano Sonata No. 2 (Chopin)",
 "Franz Liszt|Paraphrases &amp; Transcriptions|1840|Y8MGa0MOt3c|Franz Liszt|",
 "Robert Schumann|Dichterliebe|1840|ssXOoJAJcMc|Robert Schumann|Dichterliebe",
 "Robert Schumann|Frauenliebe und -leben|1840|eVkJOs8vdRM|Robert Schumann|",
