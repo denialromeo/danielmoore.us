@@ -5767,7 +5767,7 @@ const songs = [
 "Fifth Harmony feat. Ty Dolla $ign|Work from Home|2016|5GL9JoH4Sws|Fifth Harmony|S16084|Contemporary R&B;R&B|Work from Home (song)",
 "Rod Stewart|Mandolin Wind|1971|AlCLTWRFVyI|Rod Stewart|S8196|Pop Rock;Roots Rock;Pop;Rock|Mandolin Wind",
 "Van Halen|Dance the Night Away|1979|pQ9pYwCKopE|Van Halen|S12537|Hard Rock;Pop Rock;Pop;Rock|Dance the Night Away (Van Halen song)",
-"Sonics Rendezvous Band|City Slang|1978|JtqTAvv2kDA|Sonic's Rendezvous Band|S12261|Garage Punk;Hard Rock;Garage Rock;Punk Rock;Rock|",
+"Sonic's Rendezvous Band|City Slang|1978|0tHIUZq09HM|Sonic's Rendezvous Band|S12261|Garage Punk;Hard Rock;Garage Rock;Punk Rock;Rock|",
 "Candido|Jingo|1979|B85dYk77V-o|Cándido Camero|S4439|Latin Disco;Dance;Disco;Hispanic Music;Latin American Music;Regional Music|Jin-go-lo-ba",
 "Wilson Pickett|Ninety-Nine and a Half (Won't Do)|1966|yhX4liVtuCc|Wilson Pickett|S3701|Southern Soul;R&B;Soul|",
 "Thomas Dolby|She Blinded Me with Science|1982|WZOW5GdgCGw|Thomas Dolby|S3343|New Wave;Synthpop;Electronic;Pop;Rock|She Blinded Me with Science",
