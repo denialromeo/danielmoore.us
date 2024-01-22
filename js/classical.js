@@ -450,7 +450,7 @@ const classical = [
 "César Franck|Violin Sonata in A major|1886|oKi8YmP9Ki4|César Franck|Violin Sonata (Franck)",
 "Camille Saint-Saëns|Carnival of the Animals|1886|k2RPKMJmSp0|Camille Saint-Saëns|The Carnival of the Animals",
 "Camille Saint-Saëns|Symphony No. 3, \"Organ\"|1886|ZWCZq33BrOo|Camille Saint-Saëns|Symphony No. 3 (Saint-Saëns)",
-"John Stainer|The Crucifixion|1887|1b1-cqJOBtY|John Stainer|The Crucifixion (Stainer)",
+"John Stainer|The Crucifixion|1887|_tshvog2Eow?start=81|John Stainer|The Crucifixion (Stainer)",
 "Reynaldo Hahn|Mélodies|1887-1947|FHPSa-qQuuI|Reynaldo Hahn|Mélodie",
 "Alexander Borodin|Prince Igor|1887|CzmIu-VjRCM?start=60|Alexander Borodin|Prince Igor",
 "Nicolai Rimsky-Korsakov|Capriccio espagnol|1887|Lh6mDL-VwYw|Nikolai Rimsky-Korsakov|",
