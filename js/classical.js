@@ -776,7 +776,7 @@ const classical = [
 "Paul Hindemith|Mathis der Maler Symphony|1934|znXWfmfPh8E|Paul Hindemith|Symphony: Mathis der Maler",
 "Ralph Vaughan Williams|Symphony No. 4|1934|83StWY0So4Y|Ralph Vaughan Williams|Symphony No. 4 (Vaughan Williams)",
 "Sergei Prokofiev|Romeo and Juliet|1935|7qqrIusxVAI|Sergei Prokofiev|Romeo and Juliet (Prokofiev)",
-"Alban Berg|Lulu|1935|bLuLsFjnCjI|Alban Berg|",
+"Alban Berg|Lulu|1935|bLuLsFjnCjI|Alban Berg|Lulu (opera)",
 "William Walton|Symphony No. 1|1935|R3MNvdEbvik|William Walton|Symphony No. 1 (Walton)",
 "Alban Berg|Violin Concerto|1935|P0GzNmf_AUw|Alban Berg|Violin Concerto (Berg)",
 "George Gershwin|Porgy and Bess|1935|Vi2IWu-C2ds?start=3|George Gershwin|",
