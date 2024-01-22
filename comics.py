@@ -3,9 +3,9 @@ import os
 
 from PIL import Image
 
-DIR = 'assets/img/comics/judge-dredd'
-TITLE = 'Judge Dredd: America'
-AUTHOR = 'John Wagner'
+DIR = 'assets/img/comics/invincible_technicians'
+TITLE = 'Invincible'
+AUTHOR = 'Robert Kirkman'
 
 def get_dim(img):
     im = Image.open(img);

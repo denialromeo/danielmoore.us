@@ -384,6 +384,8 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/invincible_technicians/02.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="assets/img/comics/invincible_technicians/02.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/invincible_technicians/03.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="assets/img/comics/invincible_technicians/03.jpg"/></a></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/invincible_technicians/04.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="assets/img/comics/invincible_technicians/04.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/invincible_technicians/05.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="assets/img/comics/invincible_technicians/05.jpg"/></a></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="assets/img/comics/invincible_technicians/06.jpg" itemprop="contentUrl" data-size="1987x3056"><img src="assets/img/comics/invincible_technicians/06.jpg"/></a></figcaption></figure>
 </div>
 
 <div class="gallery comic-gallery" itemscope="" itemtype="http://schema.org/ImageGallery">
