@@ -885,7 +885,7 @@ const classical = [
 "Francis Poulenc|Stabat mater|1951|quemnTLY3fE|Francis Poulenc|",
 "Igor Stravinsky|The Rake’s Progress|1951|DdJw86l22JA|Igor Stravinsky|The Rake's Progress",
 "Sergei Prokofiev|Symphony-Concerto|1951|-rQyZYPvVew|Sergei Prokofiev|Symphony-Concerto (Prokofiev)",
-"Heitor Villa-Lobos|Guitar Concerto|1951|V1yz2mHXrbM|Heitor Villa-Lobos|",
+"Heitor Villa-Lobos|Guitar Concerto|1951|A5M8EX88PGc|Heitor Villa-Lobos|Guitar Concerto (Villa-Lobos)",
 "Sergei Prokofiev|Symphony No. 7|1952|mF8oTzXoyts|Sergei Prokofiev|Symphony No. 7 (Prokofiev)",
 "Michael Tippett|The Midsummer Marriage|1952|XJbh2Alvw50|Michael Tippett|",
 "Dmitri Shostakovich|Symphony No. 10|1953|gQU9hNxImxA|Dmitri Shostakovich|Symphony No. 5 (Shostakovich)",
