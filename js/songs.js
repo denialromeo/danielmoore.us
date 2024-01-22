@@ -2121,7 +2121,7 @@ const songs = [
 "Jonathan Richman/The Modern Lovers|Pablo Picasso|1976|Kc2iLAubras|The Modern Lovers|S3636|Garage Rock;Proto-Punk;Rock|Pablo Picasso (song)",
 "Frank Ocean|Nikes|2016|diIFhc_Kzng|Frank Ocean|S16088|Alternative R&B;Contemporary R&B;R&B|Nikes (song)",
 "Aphex Twin|Come to Daddy|1997|TZ827lkktYs|Aphex Twin|S2139|Drill and Bass;Electronic;IDM|Come to Daddy (song)",
-"Yeah Yeah Yeahs|Heads Will Roll|2009|auzfTPp4moA|Yeah Yeah Yeahs|S4831|Alternative Dance;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|",
+"Yeah Yeah Yeahs|Heads Will Roll|2009|auzfTPp4moA|Yeah Yeah Yeahs|S4831|Alternative Dance;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|Heads Will Roll (song)",
 "Lucinda Williams|Car Wheels on a Gravel Road|1998|7tUzhodl_rw|Lucinda Williams|S3964|Alt-Country;Americana;Singer/Songwriter;Country|Car Wheels on a Gravel Road",
 "Les Rita Mitsouko|Marcia baila|1984|1zWlnzFXcKY|Les Rita Mitsouko|S2618|French Pop;New Wave;Pop;Rock|Marcia Baila",
 "Nelly|Hot in Herre|2002|GeZZr_p6vB8|Nelly|S1512|Pop Rap;Hip Hop|Hot in Herre",
