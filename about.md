@@ -133,6 +133,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 * [*Bullshit Jobs*](https://www.goodreads.com/notes/38217638-bullshit-jobs/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (Work is more about social control than actual work.)
 * [*The Case Against Education*](https://www.goodreads.com/notes/52147324-the-case-against-education/71655209-daniel-moore) by [Bryan Caplan](http://www.bcaplan.com/) (We waste a third of our lives social signaling.)
+* [*The End of Work*](https://www.amazon.com/gp/product/0874778247) by [Jeremy Rifkin](https://en.wikipedia.org/wiki/Jeremy_Rifkin) (Technology causes poverty.)
 * [*The Gervais Principle*](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content) by [Venkatesh Rao](https://www.ribbonfarm.com/now-reading/#content) (Companies work for managers &ndash; not vice versa.)
 * [*Open Borders*](https://www.amazon.com/dp/1250316960) by [Bryan Caplan](https://en.wikipedia.org/wiki/Bryan_Caplan) (Immigration restrictions make no economic sense.)
 * [*River Out of Eden*](https://www.goodreads.com/notes/19196310-river-out-of-eden/71655209-daniel-moore) by [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) (Suffering and scarcity are built into the system.)
