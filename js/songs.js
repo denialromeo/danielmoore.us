@@ -8965,7 +8965,7 @@ const songs = [
 "Lily Allen|Not Fair|2009|fUYaosyR4bE|Lily Allen|S7265|Country Pop;Country;Pop|Not Fair",
 "Can|Father Cannot Yell|1969|-xh6hECCots|Can (band)|S10347|Krautrock;Psychedelic Rock;Experimental Rock;Progressive Rock;Rock|",
 "Bob Dylan|All I Really Want to Do|1964|_IX0zu2VEPA|Bob Dylan|S5537|Contemporary Folk;Singer/Songwriter;Folk|All I Really Want to Do",
-"Belle and Sebastian|Le pastie de bourgeoisie|1997|NyaJtnUvzqU|Belle and Sebastian|S2135|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
+"Belle and Sebastian|Le pastie de bourgeoisie|1997|GK7lkhBldAM|Belle and Sebastian|S2135|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Sébastien Tellier|Divine|2008|Vz58Hw9hldw|Sébastien Tellier|S8343|Electropop;Synthpop;Electronic;Pop|",
 "Pearl Jam|Yellow Ledbetter|1992|uvrQJFVV3-o|Pearl Jam|S7916|Grunge;Alternative Rock;Rock|Yellow Ledbetter",
 "LaVern Baker|I Cried a Tear|1958|WIoB32fAU2E|LaVern Baker|S3163|Rhythm & Blues;R&B|",
