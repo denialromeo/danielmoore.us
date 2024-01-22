@@ -25,7 +25,7 @@ While [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)'s 
 * "[Black Targaryens](https://grrm.livejournal.com/326474.html?thread=17888842#t17888842)" by George R. R. Martin
 * ["So Spake Martin" Archive](https://www.westeros.org/Citadel/SSM)
 * [Released *The Winds of Winter* Chapters](https://thehawke.github.io/twow-excerpts/)
-* [A Complete Timeline of George R.R. Martin's Progress on *The Winds of Winter*](https://theweek.com/feature/briefing/1022767/a-complete-timeline-of-george-rr-martins-progress-on-the-winds-of-winter#main)
+* [*The Winds of Winter* Writing History](https://en.wikipedia.org/wiki/The_Winds_of_Winter#Writing_history)
 * [*Reigns: Game of Thrones*](https://store.steampowered.com/app/897820/Reigns_Game_of_Thrones/)
 * [Ted Nasmith's Art](https://awoiaf.westeros.org/index.php/Category:Images_by_Ted_Nasmith)
 * [Character Fan Art](https://awoiaf.westeros.org/index.php/Category:Character_Images)
