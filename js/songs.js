@@ -7046,7 +7046,7 @@ const songs = [
 "The Fat White Family|Touch the Leather|2014|m0e5ShFK5aM|Fat White Family|S9666|Post-Punk;Rock|",
 "Payola$|Eyes of a Stranger|1982|1C_fVnE3xHY|Payolas|S7911|New Wave;Pop Rock;Pop;Rock|",
 "Megadeth|Wake Up Dead|1986|4kSvN1dQjxc|Megadeth|S7503|Thrash Metal;Metal;Rock|Wake Up Dead",
-"Duke Ellington|Sepia Panorama|1940|CMxmJkrgWss|Duke Ellington|S13188|Big Band;Jazz|",
+"Duke Ellington|Sepia Panorama|1940|m36okvA_m5I|Duke Ellington|S13188|Big Band;Jazz|",
 "The Jacksons|Blame It on the Boogie|1978|nqxVMLVe62U|The Jackson 5|S11109|Disco;Pop Soul;Dance;Pop;R&B;Soul|Blame It on the Boogie",
 "Félix Leclerc|Le p'tit bonheur|1951|VwOvjAy7EF8|Félix Leclerc|S10797|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Lethal Bizzle|Pow! (Forward)|2004|KSgoH1zrPD0|Lethal Bizzle|S11427|Grime;Electronic|",
