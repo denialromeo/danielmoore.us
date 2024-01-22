@@ -4774,7 +4774,7 @@ const songs = [
 "Cocteau Twins|Lorelei|1984|o7tcFKakZTA|Cocteau Twins|S4569|Dream Pop;Ethereal Wave;Alternative Rock;Darkwave;Gothic Rock;Rock|",
 "Broken Social Scene|Cause = Time|2002|GikWha5TC94|Broken Social Scene|S4619|Indie Rock;Alternative Rock;Rock|",
 "Marvin Gaye|Too Busy Thinking About My Baby|1969|uTISVVWZ1_0|Marvin Gaye|S3438|Motown Sound;Pop;Pop Soul;R&B;Soul|",
-"Marian Anderson|He's Got the Whole World in His Hands|1932|MRGZrv0Hl6k?start=22|Marian Anderson|S7425|Spirituals;American Folk Music;Folk;Regional Music;Traditional Folk Music|",
+"Marian Anderson|He's Got the Whole World in His Hands|1932|MRGZrv0Hl6k?start=22|Marian Anderson|S7425|Spirituals;American Folk Music;Folk;Regional Music;Traditional Folk Music|He's Got the Whole World in His Hands",
 "Belle and Sebastian|The Stars of Track and Field|1996|yCYphHhF4Mo|Belle and Sebastian|S10138|Indie Folk;Twee Pop;Contemporary Folk;Folk;Indie Pop;Pop|Stars of Track and Field",
 "Barry White|Never, Never Gonna Give Ya Up|1973|K5zP7eQltDE|Barry White|S3950|Smooth Soul;R&B;Soul|Never, Never Gonna Give Ya Up",
 "Oasis|Roll with It|1995|DrARl0dzd-0|Oasis (band)|S2429|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Roll with It (Oasis song)",
