@@ -7139,7 +7139,7 @@ const songs = [
 "The Four Seasons|December, 1963 (Oh, What a Night)|1975|mTUhnIY3oRM|The Four Seasons (band)|S3417|Disco;Pop Soul;Dance;Pop;R&B;Soul|December, 1963 (Oh, What a Night)",
 "Broadcast|Before We Begin|2003|z1WIr-S6Fyw|Broadcast (band)|S13078|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|",
 "Los Tres|Déjate caer|1995|V_cX2Eek7ug|Los Tres|S13553|Alternative Rock;Folk Rock;Rock|",
-"Jimi Hendrix|Red House|1967|G2SlSokLN4c|Jimi Hendrix|S3472|Blues Rock;Electric Blues;Blues;Rock|Red House (song)",
+"Jimi Hendrix|Red House|1967|_whI9m0SFys|Jimi Hendrix|S3472|Blues Rock;Electric Blues;Blues;Rock|Red House (song)",
 "Depeche Mode|Shake the Disease|1985|r_0sL_SQYvw|Depeche Mode|S13737|New Wave;Synthpop;Electronic;Pop;Rock|Shake the Disease",
 "Bob Dylan|I'll Keep It with Mine|1985|nLba2PZvVaI|Bob Dylan|S3371|Contemporary Folk;Singer/Songwriter;Folk|I'll Keep It with Mine",
 "Robbie Williams|Feel|2002|p9M0VWyfDx0|Robbie Williams|S8173|Pop Rock;Pop;Rock|Feel (Robbie Williams song)",
