@@ -2682,7 +2682,7 @@ const songs = [
 "Hank Thompson and His Brazos Valley Boys|The Wild Side of Life|1952|YUYnmOuEZEY|Hank Thompson (musician)|S1349|Honky Tonk;Country|The Wild Side of Life",
 "Squarepusher|My Red Hot Car|2001|SqjZUyUtqYs|Squarepusher|S1458|IDM;Electronic|My Red Hot Car",
 "Simon and Garfunkel|Scarborough Fair (Canticle)|1966|-Jj4s9I-53g|Simon & Garfunkel|S9350|Chamber Folk;Folk Pop;Contemporary Folk;Folk;Pop|",
-"Isolée|Beau Mot Plage|1998|mQy2V_3LRMQ|Isolée|S2156|Microhouse;Dance;Electronic;Electronic Dance Music;House|Freeform Five",
+"Isolée|Beau Mot Plage|1998|xIMauhrrWLo|Isolée|S2156|Microhouse;Dance;Electronic;Electronic Dance Music;House|Freeform Five",
 "Echo and the Bunnymen|The Cutter|1983|nMplIrSlg8E|Echo & the Bunnymen|S461|Neo-Psychedelia;Post-Punk;Psychedelic Rock;Rock|",
 "Quintette du Hot Club de France|Minor's Swing|1937|it_JlVlR8JQ|Quintette du Hot Club de France|S10622|Jazz manouche;Swing;Jazz|",
 "The Beat|Save It for Later|1982|0bM0wVjU2-k|The Beat (British band)|S1876|Jangle Pop;New Wave;Alternative Rock;Pop;Pop Rock;Rock|Save It for Later",
