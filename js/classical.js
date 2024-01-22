@@ -667,7 +667,7 @@ const classical = [
 "George Enescu|Symphony No. 3|1918|_7kohi6by-I|George Enescu|Symphony No. 3 (Enescu)",
 "Francis Poulenc|Mélodies|1918-1960|LnMIqM0Z918|Francis Poulenc|Mélodie",
 "Leoš Janácek|Taras Bulba|1918|VOG-YDbe3JA|Leoš Janáček|Taras Bulba (rhapsody)",
-"Giacomo Puccini|Gianni Schicchi|1918|GcH-2uHqLBs|Giacomo Puccini|Gianni Schicchi",
+"Giacomo Puccini|Gianni Schicchi|1918|GcH-2uHqLBs?start=182|Giacomo Puccini|Gianni Schicchi",
 "Igor Stravinsky|The Soldier’s Tale|1918|OLAK5uy_kDYt5a9OPWWeeGRTpWuFMmrBMHjfunS_E|Igor Stravinsky|L'Histoire du soldat",
 "Arnold Bax|Tintagel|1919|ixF5f2cqIKo|Arnold Bax|",
 "Manuel de Falla|The Three-Cornered Hat|1919|Al68zeQQHlg|Manuel de Falla|The Three-Cornered Hat",
