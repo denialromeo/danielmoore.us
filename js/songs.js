@@ -6191,7 +6191,7 @@ const songs = [
 "Caroline Polachek|Door|2019|7w6R4I7I3wA|Caroline Polachek|S16755|Art Pop;Downtempo;Electronic;Pop|Caroline Polachek|Door (song)",
 "Felix|Don't You Want Me|1992|bj8xF2bnxp0|Felix (musician)|S2939|Euro House;Techno;Dance;Electronic;Electronic Dance Music;House|Don't You Want Me (Felix song)",
 "Barbra Streisand|Woman in Love|1980|CzQPJy8Q6qE|Barbra Streisand|S5323|Adult Contemporary;Pop|People (Barbra Streisand song)",
-"Don Henley|The End of the Innocence|1989|TWpEF2P9HXk|Don Henley|S9207|Pop Rock;Pop;Rock|",
+"Don Henley|The End of the Innocence|1989|i6S6a906lRA|Don Henley|S9207|Pop Rock;Pop;Rock|",
 "Sugar|Changes|1992|h3Lo91Z0h3Q|Sugar (American band)|S8626|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Sugar Mama",
 "Sun Ra|Space Is the Place|1973|dokLwszdUgY|Sun Ra|S12833|Avant-Garde Jazz;Jazz|",
 "Metric|Help I'm Alive|2009|A4M068MSUpU|Metric (band)|S7526|Indie Rock;Alternative Rock;Rock|Help I'm Alive",
