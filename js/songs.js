@@ -1019,7 +1019,7 @@ const songs = [
 "Small Faces|Itchycoo Park|1967|fayL1WTR1Go|Small Faces|S958|Mod;Pop Rock;Psychedelic Pop;Pop;Rock|Itchycoo Park",
 "New Order|Temptation|1982|xxDv_RTdLQo|New Order (band)|S486|Alternative Dance;New Wave;Post-Punk;Alternative Rock;Dance;Rock|",
 "Robyn|With Every Heartbeat|2007|-ojHWQrm4UM|Robyn|S4289|Electropop;Synthpop;Electronic;Pop|With Every Heartbeat",
-"The Chords|Sh-Boom|1954|SBgQezOF8kY|The Chords (American band)|S1335|Doo-Wop;Descriptor;R&B;Vocal Group|Sh-Boom",
+"The Chords|Sh-Boom|1954|9jt_q1jM89Y|The Chords (American band)|S1335|Doo-Wop;Descriptor;R&B;Vocal Group|Sh-Boom",
 "Paul McCartney|Live and Let Die|1973|e7aGAIWe3uE|Paul McCartney and Wings|S1752|Pop Rock;Progressive Pop;Pop;Rock|",
 "Ray Charles|I Can't Stop Loving You|1962|r_7iRVtxui8|Ray Charles|S1096|Country Soul;Traditional Pop;Pop;R&B;Soul|I Can't Stop Loving You",
 "Bob Dylan|All Along the Watchtower|1967|bT7Hj-ea0VE|Bob Dylan|S1692|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock|All Along the Watchtower",
