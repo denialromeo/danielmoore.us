@@ -1037,7 +1037,7 @@ const songs = [
 "The Cars|Just What I Needed|1978|gvy2yqUHLLg|The Cars|S623|New Wave;Power Pop;Pop;Pop Rock;Rock|Just What I Needed",
 "The Rolling Stones|Get Off of My Cloud|1965|QYgJZ79FmBo|The Rolling Stones|S1012|British Rhythm & Blues;R&B;Rhythm & Blues;Rock|Get Off of My Cloud",
 "A Tribe Called Quest|We the People...|2016|vO2Su3erRIA|A Tribe Called Quest|S16015|Conscious Hip Hop;East Coast Hip Hop;Political Hip Hop;Hip Hop|",
-"Funkadelic/Parliament|Flash Light|1977|bWurqD68u70|Parliament (band)|S1535|P-Funk;Synth Funk;Funk;R&B|",
+"Funkadelic/Parliament|Flash Light|1977|UkLYlrE2lPs|Parliament (band)|S1535|P-Funk;Synth Funk;Funk;R&B|",
 "Vince Staples|Norf Norf|2015|mb6Jc4juSF8|Vince Staples|S9870|Hardcore Hip Hop;West Coast Hip Hop;Hip Hop|Norf Norf",
 "Queen|Killer Queen|1974|2ZBtPf7FOoM?start=5|Queen (band)|S3085|Glam Rock;Pop Rock;Pop;Rock|Killer Queen",
 "Joy Division|She's Lost Control|1979|FD2SfQJOK08|Joy Division|S2605|Post-Punk;Rock|She's Lost Control",
