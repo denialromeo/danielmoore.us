@@ -692,7 +692,7 @@ const classical = [
 "Arthur Bliss|A Colour Symphony|1922-1932|zi6FdphM7CA|Arthur Bliss|",
 "Maurice Ravel|Sonata for Violin and Cello|1922|szPF0KhxYIs|Maurice Ravel|",
 "William Walton|Façade|1922-1951|79ahguBURn4|William Walton|Façade (entertainment)",
-"Peter Warlock|The Curlew|1922|wzBB9UscDRk|Peter Warlock|",
+"Peter Warlock|The Curlew|1922|2JqOm9dnwdU|Peter Warlock|The Curlew",
 "Jacques Ibert|Escales|1922|VQm0bfVQtsg?start=3|Jacques Ibert|",
 "Carl Nielsen|Symphony No. 5|1922|lH2MijVKz9Y|Carl Nielsen|Symphony No. 5 (Nielsen)",
 "Alban Berg|Wozzeck|1922|jVmWimEX1gw|Alban Berg|Wozzeck",
