@@ -308,7 +308,7 @@ const classical = [
 "Gaetano Donizetti|Don Pasquale|1843|_RZ-pOOgbL4|Gaetano Donizetti|Don Pasquale",
 "Felix Mendelssohn|Violin Concerto in E minor|1844|I03Hs6dwj7E|Felix Mendelssohn|Violin Concerto (Mendelssohn)",
 "Hector Berlioz|Le carnaval romain|1844|j_3YoeLz7Rc?start=3|Hector Berlioz|",
-"Frédéric Chopin|Piano Sonata No. 3 in B minor|1844|xGJxmCOPFVM|Frédéric Chopin|Piano Sonata No. 2 (Chopin)",
+"Frédéric Chopin|Piano Sonata No. 3|1844|s9Ofz4TjfhM|Frédéric Chopin|Piano Sonata No. 3 (Chopin)",
 "Robert Schumann|Piano Concerto|1845|Ynky7qoPnUU|Robert Schumann|Piano Concerto (Schumann)",
 "Richard Wagner|Tannhäuser|1845-1861|SRmCEGHt-Qk|Richard Wagner|Tannhäuser (opera)",
 "Felix Mendelssohn|Elijah|1846|pduEw6cn5N0?start=114|Felix Mendelssohn|Elijah (oratorio)",
