@@ -4220,7 +4220,7 @@ const songs = [
 "Nino Ferrer|Le Sud|1975|He5dcAOXSY4|Nino Ferrer|S7750|Psychedelic Pop;Pop|",
 "Jacques Dutronc|(Il est 5 heures) Paris s'éveille|1968|7whXkifG_ms|Jacques Dutronc|S4410|Chanson;French Pop;Yé-yé;Pop;Regional Music|",
 "Joe South|Games People Play|1968|vDeVonv3kY0|Joe South|S3834|Country Pop;Psychedelic Pop;Country;Pop|Games People Play (Joe South song)",
-"Ozzy Osbourne|Bark at the Moon|1983|F89-MOy7Xfg|Ozzy Osbourne|S11824|Hard Rock;Heavy Metal;Metal;Rock|",
+"Ozzy Osbourne|Bark at the Moon|1983|F89-MOy7Xfg|Ozzy Osbourne|S11824|Hard Rock;Heavy Metal;Metal;Rock|Bark at the Moon (song)",
 "Chuck Willis|It's Too Late|1956|0deVvmyzs90|Chuck Willis|S1281|Rhythm & Blues;R&B|It's Too Late (Chuck Willis song)",
 "Spacehog|In the Meantime|1995|PCsGRCf8T9Y|Spacehog|S8511|Alternative Rock;Rock|",
 "James Taylor|Sweet Baby James|1970|k2x0fPgAj_Y|James Taylor|S6851|Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|Sweet Baby James (song)",
