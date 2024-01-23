@@ -6653,7 +6653,7 @@ const songs = [
 "The Loved Ones|The Loved One|1966|axUYL2I6KF8|The Loved Ones|S4097|Blues Rock;Garage Rock;Rock|",
 "Leonard Cohen|Winter Lady|1967|wf5NN3oanzE|Leonard Cohen|S4267|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk|Songs of Leonard Cohen",
 "Bob Dylan|Changing of the Guards|1978|qZhMvLuoMaM|Bob Dylan|S10225|Roots Rock;Singer/Songwriter;Rock|Changing of the Guards",
-"Mylo|Drop the Pressure|2004|er1hvGFQ8Xg|Mylo|S3119|Electro House;Dance;Electronic;Electronic Dance Music;House|Doctor Pressure",
+"Mylo|Drop the Pressure|2004|RxMEUqHPqcA|Mylo|S3119|Electro House;Dance;Electronic;Electronic Dance Music;House|",
 "Red Hot Chili Peppers|My Friends|1995|0kT5w27YxyI|Red Hot Chili Peppers|S12040|Alternative Rock;Pop Rock;Pop;Rock|My Friends (Red Hot Chili Peppers song)",
 "Five Man Electrical Band|Signs|1970|oeT5otk2R1g|Five Man Electrical Band|S6378|Pop Rock;Pop;Rock|Signs (Five Man Electrical Band song)",
 "Otis Rush|All Your Love (I Miss Loving)|1959|O3hrVFvxTfk|Otis Rush|S13591|Chicago Blues;Blues;Electric Blues|",
