@@ -261,7 +261,7 @@ const classical = [
 "Frédéric Chopin|Waltzes|1829-1847|tiTu6g2TqC8|Frédéric Chopin|Waltzes (Chopin)",
 "Felix Mendelssohn|String Quartets nos. 1 &amp; 2|1827-1829|r0F6tN6IMiI|Felix Mendelssohn|String Quartet No. 1 (Mendelssohn)",
 "Gioachino Rossini|Guillaume Tell|1829|S5Pk9CCkkvk|Gioachino Rossini|William Tell (opera)",
-"Hector Berlioz|Symphonie fantastique|1830|5HgqPpjIH5c|Hector Berlioz|",
+"Hector Berlioz|Symphonie fantastique|1830|5HgqPpjIH5c|Hector Berlioz|Symphonie fantastique",
 "Gaetano Donizetti|Anna Bolena|1830|CXyN1qY2RTw|Gaetano Donizetti|Anna Bolena",
 "Felix Mendelssohn|The Hebrides|1830|Ed1pmhHXFwY?start=3|Felix Mendelssohn|The Hebrides (overture)",
 "Frédéric Chopin|Études|1830-1837|HfumVcza828|Frédéric Chopin|Études (Chopin)",
