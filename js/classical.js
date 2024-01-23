@@ -366,7 +366,7 @@ const classical = [
 "Bedrich Smetana|The Bartered Bride|1866-1870|QLUm_yvnyo4|Bedřich Smetana|",
 "Richard Wagner|Die Meistersinger von Nürnberg|1867|fDIkzHjHRhI?start=3|Richard Wagner|Die Meistersinger von Nürnberg",
 "Johann Strauss II|The Blue Danube|1867|IDaJ7rFg66A|Johann Strauss II|The Blue Danube",
-"Modest Mussorgsky|A Night on the Bare Mountain|1867|iCEDfZgDPS8|Modest Mussorgsky|Night on Bald Mountain",
+"Modest Mussorgsky|Night on Bald Mountain|1867|52iOdAVU4C8?start=4|Modest Mussorgsky|Night on Bald Mountain",
 "Giuseppe Verdi|Don Carlos|1867-1886|wIQGijoUB1Y|Giuseppe Verdi|Don Carlos",
 "Johannes Brahms|A German Requiem|1868|ZXU9vqVdudM?start=3|Johannes Brahms|A German Requiem (Brahms)",
 "Max Bruch|Violin Concerto No. 1|1868|KDJ6Wbzgy3E?start=3|Max Bruch|Violin Concerto No. 1 (Bruch)",
