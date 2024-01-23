@@ -5651,7 +5651,7 @@ const songs = [
 "Little Anthony and the Imperials|Hurt So Bad|1965|B32fMlmffdo|Little Anthony and the Imperials|S3564|Brill Building;Pop|Hurt So Bad",
 "The McCoys|Hang On Sloopy|1965|TlTKhPkZSJo?start=7|The McCoys|S7491|Pop Rock;Sunshine Pop;Pop;Rock|Hang On Sloopy",
 "Terence Trent D'Arby|Wishing Well|1987|ynIHsHYaig0|Terence Trent D'Arby|S1980|Contemporary R&B;Pop Soul;Pop;R&B;Soul|Wishing Well (Terence Trent D'Arby song)",
-"Edison Lighthouse|Love Grows (Where My Rosemary Goes)|1970|YAfc5xnjb5U|Edison Lighthouse|S3389|Baroque Pop;Bubblegum;Sunshine Pop;Pop|Love Grows (Where My Rosemary Goes)",
+"Edison Lighthouse|Love Grows (Where My Rosemary Goes)|1970|Sy--R2_T4EE|Edison Lighthouse|S3389|Baroque Pop;Bubblegum;Sunshine Pop;Pop|Love Grows (Where My Rosemary Goes)",
 "The National|Slow Show|2007|1U9QmDO-EPs|The National (band)|S7669|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|",
 "Bobby Vee|Take Good Care of My Baby|1961|nkWgQgaHMgg|Bobby Vee|S5578|Brill Building;Pop|Take Good Care of My Baby",
 "X-Ray Spex|The Day the World Turned Day-Glo|1978|ZKaxfc03Fqk|X-Ray Spex|S606|Punk Rock;Rock|",
