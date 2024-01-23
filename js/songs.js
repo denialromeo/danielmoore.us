@@ -77,7 +77,7 @@ const songs = [
 "Al Green|Let's Stay Together|1971|uSu6tcbMOu0|Al Green|S814|Southern Soul;R&B;Soul|Let's Stay Together (Al Green song)",
 "The Rolling Stones|Jumpin' Jack Flash|1968|0cPXwc-5Kw8|The Rolling Stones|S904|Rock|Jumpin' Jack Flash",
 "LCD Soundsystem|All My Friends|2007|aygY5OqMuKE|LCD Soundsystem|S4276|Alternative Dance;Alternative Rock;Dance;Rock|All My Friends (LCD Soundsystem song)",
-"The Mamas and the Papas|California Dreamin'|1965|XJIAvpqwJJU|The Mamas and the Papas|S1010|Sunshine Pop;Pop|",
+"The Mamas and the Papas|California Dreamin'|1965|tNlwimUxUME|The Mamas and the Papas|S1010|Sunshine Pop;Pop|",
 "Ramones|Blitzkrieg Bop|1976|268C3N2dDYk|Ramones|S669|Punk Rock;Rock|Blitzkrieg Bop",
 "Martha and the Vandellas|Dancing in the Street|1964|CdvITn5cAVc|Martha and the Vandellas|S1024|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|",
 "Elvis Presley|Hound Dog|1956|lzQ8GDBA8Is|Elvis Presley|S1262|Rockabilly;Rock;Rock & Roll|Hound Dog (song)",
