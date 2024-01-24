@@ -9563,7 +9563,7 @@ const songs = [
 "Eddy Mitchell|Couleur menthe à l'eau|1980|W43JaufnEIU|Eddy Mitchell|S10681|Chanson;Regional Music|",
 "Mad Season|River of Deceit|1995|Fm72DPJCX58|Mad Season (band)|S14705|Alternative Rock;Rock|River of Deceit",
 "The Moldy Peaches|Anyone Else But You|2001|ceV62E-c86g|The Moldy Peaches|S7592|Anti-Folk;Indie Folk;Indie Pop;Contemporary Folk;Folk;Pop|Anyone Else but You",
-"Jean Ferrat|Aimer à perdre la raison|1971|EpjcSFNj4BQ|Jean Ferrat|S11164|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
+"Jean Ferrat|Aimer à perdre la raison|1971|HR6LJ3ZBZvg?start=3|Jean Ferrat|S11164|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Bauhaus|Kick in the Eye|1981|rb-6ka1y-K8|Bauhaus (band)|S5336|Gothic Rock;Post-Punk;Rock|Kick in the Eye",
 "Dimples D.|Sucker D.J.'s|1983|kavBmqgXLyM|Dimples D.|S3334|East Coast Hip Hop;Hip Hop|",
 "Björk|Hunter|1997|o2jplo3kpNc|Björk|S10185|Art Pop;Electronic;Pop|Hunter (Björk song)",
