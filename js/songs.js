@@ -2134,7 +2134,7 @@ const songs = [
 "Frank Sinatra|Strangers in the Night|1966|ZwAERaRUsp0|Frank Sinatra|S2830|Standards;Pop;Traditional Pop|",
 "Kamasi Washington|Truth|2017|WFWLFNWmZVk|Kamasi Washington|S16407|Spiritual Jazz;Avant-Garde Jazz;Jazz|",
 "George Harrison|What Is Life|1970|3XFfUt7HQWM|George Harrison|S6532|Pop Rock;Pop;Rock|What Is Life",
-"Bruce Springsteen|4th of July, Asbury Park (Sandy)|1973|kB1d0eey5ho|Bruce Springsteen|S5636|Heartland Rock;Singer/Songwriter;Rock|4th of July, Asbury Park (Sandy)",
+"Bruce Springsteen|4th of July, Asbury Park (Sandy)|1973|f_lSDQy03LY|Bruce Springsteen|S5636|Heartland Rock;Singer/Songwriter;Rock|4th of July, Asbury Park (Sandy)",
 "Prince|I Would Die 4 U|1984|hkNl3pq1twE|Prince (musician)|S8009|Contemporary R&B;Synthpop;Electronic;Pop;R&B|I Would Die 4 U",
 "The Carter Family|Keep on the Sunny Side|1928|ZbmQQ4RfzVE|Carter Family|S2659|Appalachian Folk Music;Country Gospel;American Folk Music;Country;Folk;Gospel;Regional Music;Traditional Country;Traditional Folk Music|Keep on the Sunny Side",
 "Neil Young|Tonight's the Night|1975|GFIcQU8K4AY|Neil Young|S4179|Country Rock;Singer/Songwriter;Rock|Tonight's the Night (Neil Young song)",
