@@ -299,7 +299,7 @@ const classical = [
 "Robert Schumann|Symphony No. 1, \"Spring\"|1841|1Lk2V6YOcIc|Robert Schumann|Symphony No. 1 (Schumann)",
 "Richard Wagner|Der fliegende Holländer|1841-1860|Z8dtRIFVmDw|Richard Wagner|Der fliegende Holländer",
 "Robert Schumann|Piano Quartet|1842|sM9iSRm97Ws|Robert Schumann|Piano Quartet (Schumann)",
-"Franz Berwald|Symphonies|1842-1845|Xfz9SzNkXZo|Franz Berwald|",
+"Franz Berwald|Symphonies|1842-1845|PL4D14bmfCxVU3eRigboIrmwqiMTM_yAQB|Franz Berwald|",
 "Felix Mendelssohn|Symphony No. 3, \"Scottish\"|1842|rw6slNXSzNg?start=3|Felix Mendelssohn|Symphony No. 3 (Mendelssohn)",
 "Robert Schumann|String Quartets|1842|PLxXjllvtBC_qFkTJtWb2yJzOvxj8vsqFC|Robert Schumann|",
 "Giuseppe Verdi|Nabucco|1842|XttF0vg0MGo|Giuseppe Verdi|",
