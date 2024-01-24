@@ -143,7 +143,7 @@ const classical = [
 "Joseph Haydn|Symphony No. 83, \"La poule\"|1785|6rD32fnEvyA?start=3|Joseph Haydn|Symphony No. 83 (Haydn)",
 "Wolfgang Amadeus Mozart|Piano Concerto No. 20|1785|devtF2EoZDs|Wolfgang Amadeus Mozart|Piano Concerto No. 20 (Mozart)",
 "Wolfgang Amadeus Mozart|Piano Concerto No. 21|1785|df-eLzao63I|Wolfgang Amadeus Mozart|Piano Concerto No. 21 (Mozart)",
-"Wolfgang Amadeus Mozart|Piano Concerto No. 22|1785|8hgaxI3JRgg|Wolfgang Amadeus Mozart|Piano Concerto No. 22 (Mozart)",
+"Wolfgang Amadeus Mozart|Piano Concerto No. 22|1785|P9eEbEfEqoU?start=25|Wolfgang Amadeus Mozart|Piano Concerto No. 22 (Mozart)",
 "Wolfgang Amadeus Mozart|Horn Concerto No. 4|1786|VEJFuWgkGkY|Wolfgang Amadeus Mozart|Horn Concerto No. 4 (Mozart)",
 "Wolfgang Amadeus Mozart|Piano Concerto No. 23|1786|TmrDa_ddon8|Wolfgang Amadeus Mozart|Piano Concerto No. 23 (Mozart)",
 "Wolfgang Amadeus Mozart|The Marriage of Figaro|1786|8OZCyp-LcGw|Wolfgang Amadeus Mozart|The Marriage of Figaro",
