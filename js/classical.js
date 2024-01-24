@@ -940,7 +940,7 @@ const classical = [
 "Elliott Carter|Concerto for Orchestra|1969|eV0bLIMUvWs|Elliott Carter|Concerto for Orchestra",
 "Peter Maxwell Davies|Eight Songs for a Mad King|1969|KgCstNqsu8Y|Peter Maxwell Davies|Eight Songs for a Mad King",
 "Henri Dutilleux|Tout un monde lointain…|1970|O2qmECLxnCY|Henri Dutilleux|Tout un monde lointain...",
-"Elliott Carter|String Quartet No. 3|1971|2s9fM0CDAQ4|Elliott Carter|String Quartet No. 3 (Carter)",
+"Elliott Carter|String Quartet No. 3|1971|6njANe60Evw|Elliott Carter|String Quartet No. 3 (Carter)",
 "Dmitri Shostakovich|Symphony No. 15|1971|N0iZGMXpquQ|Dmitri Shostakovich|Symphony No. 15 (Shostakovich)",
 "Morton Feldman|Cello and Orchestra|1972|1AISeE8cLTk|Morton Feldman|",
 "Harrison Birtwistle|The Triumph of Time|1972|uDoEjFZsSA4|Harrison Birtwistle|",
