@@ -5845,7 +5845,7 @@ const songs = [
 "Superorganism|Something for your M.I.N.D.|2017|RPS-Cq4uMFs|Superorganism (band)|S16487|Indie Pop;Indietronica;Neo-Psychedelia;Electronic;Pop;Psychedelic Rock;Rock|",
 "Steve Perry|Oh Sherrie|1984|5-WpsdC2-Cc|Steve Perry|S3694|AOR;Pop Rock;Pop;Rock|Oh Sherrie",
 "Roxy Music|Pyjamarama|1973|rOcPrAUJVIA|Roxy Music|S776|Art Rock;Glam Rock;Rock|Pyjamarama (song)",
-"The Hollies|He Ain't Heavy... He's My Brother|1969|Jl5vi9ir49g|The Hollies|S6724|Pop Rock;Pop;Rock|He Ain't Heavy, He's My Brother",
+"The Hollies|He Ain't Heavy, He's My Brother|1969|Jl5vi9ir49g|The Hollies|S6724|Pop Rock;Pop;Rock|He Ain't Heavy, He's My Brother",
 "Gil Scott-Heron|I’ll Take Care of You|2011|yvpgVXEBPSA|Gil Scott-Heron|S6561|Deep House;UK Bass;Dance;Electronic;Electronic Dance Music;House;UK Garage|I'll Take Care of You (song)",
 "St. Vincent|Surgeon|2011|XjZgiv2F1QY|St. Vincent (musician)|S8541|Art Pop;Indie Pop;Pop|",
 "The Little Rabbits|La Piscine|1998|t5O7t1o161o|https://fr.wikipedia.org/wiki/The_Little_Rabbits|S7279|Indie Rock;Alternative Rock;Rock|",
