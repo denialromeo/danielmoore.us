@@ -115,7 +115,7 @@ const classical = [
 "Johann Sebastian Bach|Mass in B minor|1749|3FLbiDrn8IE|Johann Sebastian Bach|",
 "George Frideric Handel|Music for the Royal Fireworks|1749|fNqJ8mED1VE|George Frideric Handel|Music for the Royal Fireworks",
 "Johann Sebastian Bach|The Art of Fugue|1750|Lrb0dHKJBR4|Johann Sebastian Bach|",
-"George Frideric Handel|Theodora|1750|pe2AIay_Yy8|George Frideric Handel|Theodora (Handel)",
+"George Frideric Handel|Theodora|1750|OLAK5uy_nuM-86t8kAFY6xE4DSRxzCY8KxKiCicY4|George Frideric Handel|Theodora (Handel)",
 "William Boyce|Eight Symphonies, Op. 2|1760|ONv2X10nUw0|William Boyce (composer)|",
 "Joseph Haydn|Symphonies nos. 6-8|1761|58tDranbYg4|Joseph Haydn|",
 "Christoph Willibald Gluck|Orfeo ed Euridice|1762|JUpZ1Npj23M|Christoph Willibald Gluck|Orfeo ed Euridice",
