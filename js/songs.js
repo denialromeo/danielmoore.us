@@ -7485,7 +7485,7 @@ const songs = [
 "Gold Panda|You|2010|Su1wK7iCQfQ|Gold Panda|S6603|Glitch Hop;Wonky;Dance;Electronic;Electronic Dance Music;IDM|Panda (song)",
 "Bob Dylan|Abandoned Love|1985|BwV36JL_G0s|Bob Dylan|S10221|Folk Rock;Singer/Songwriter;Rock|Abandoned Love",
 "The Stone Poneys|Different Drum|1967|TGZznJXY1Xc|Stone Poneys|S3858|Baroque Pop;Folk Pop;Contemporary Folk;Folk;Pop|Different Drum",
-"Hoodoo Gurus|I Want You Back|1984|Ov_ByEAACok|Hoodoo Gurus|S6730|Power Pop;Pop;Pop Rock;Rock|I Want You Back (Hoodoo Gurus song)",
+"Hoodoo Gurus|I Want You Back|1984|uZWXa7x4LME|Hoodoo Gurus|S6730|Power Pop;Pop;Pop Rock;Rock|I Want You Back (Hoodoo Gurus song)",
 "Dusty Springfield|Nothing Has Been Proved|1989|5HOfaSSIVcE|Dusty Springfield|S3843|Film Soundtrack;Synthpop;Descriptor;Electronic;Pop;Soundtracks|Nothing Has Been Proved",
 "Passion Pit|Take a Walk|2012|dZX6Q-Bj_xg|Passion Pit|S5030|Electropop;Indie Pop;Electronic;Pop|Take a Walk",
 "Mötley Crüe|Live Wire|1981|Ahq4blDfU5s|Mötley Crüe|S13901|Glam Metal;Heavy Metal;Hard Rock;Metal;Rock|",
