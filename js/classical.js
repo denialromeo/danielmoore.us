@@ -675,7 +675,7 @@ const classical = [
 "Darius Milhaud|Le boeuf sur le toit|1919|ExriOKRjNWI|Darius Milhaud|Le Bœuf sur le toit",
 "Sergei Prokofiev|The Love for Three Oranges|1919|PL95E187E5F26BD59F|Sergei Prokofiev|The Love for Three Oranges",
 "Maurice Ravel|Le tombeau du Couperin|1919|7NA4j3VhGY4?start=3|Maurice Ravel|",
-"Joaquin Turina|Danzas fantásticas|1920|gLzU3-YvzPc|Joaquín Turina|",
+"Joaquin Turina|Danzas fantásticas|1920|gLzU3-YvzPc?start=28|Joaquín Turina|Danzas fantásticas",
 "Erich Wolfgang Korngold|Die tote Stadt|1920|OLAK5uy_kMRfAd22FD9yjsNQFAQcQVi7majisfVtQ|Erich Wolfgang Korngold|Die tote Stadt",
 "Maurice Ravel|La valse|1920|TMSgWhIENSk|Maurice Ravel|",
 "Igor Stravinsky|Pulcinella|1920|pVEcJnlHUMM|Igor Stravinsky|Pulcinella (ballet)",
