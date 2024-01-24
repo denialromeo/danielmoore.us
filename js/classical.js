@@ -232,7 +232,7 @@ const classical = [
 "Ludwig van Beethoven|Missa solemnis|1823|hnrFUFVcDmc?start=3|Ludwig van Beethoven|Missa solemnis (Beethoven)",
 "Ludwig van Beethoven|Diabelli Variations|1823|hTmQU4jEgJw|Ludwig van Beethoven|Diabelli Variations",
 "Juan Crisóstomo de Arriaga|String Quartets|1824|OLAK5uy_mlEYiNKOSyuhQ5s93iPrH5liQKfcIlFZ0|Juan Crisóstomo Arriaga|",
-"Ludwig van Beethoven|Symphony No. 9, \"Choral\"|1824|yf2rbcrZzDQ|Ludwig van Beethoven|Symphony No. 9 (Beethoven)",
+"Ludwig van Beethoven|Symphony No. 9, \"Choral\"|1824|rOjHhS5MtvA?start=107|Ludwig van Beethoven|Symphony No. 9 (Beethoven)",
 "Franz Schubert|Octet in F major, D. 803|1824|fnpVu8Eihj4|Franz Schubert|Octet (Schubert)",
 "Franz Schubert|Death and the Maiden|1824|otdayisyIiM|Franz Schubert|String Quartet No. 14 (Schubert)",
 "Franz Schubert|Arpeggione Sonata|1824|NNcQuY1isEI|Franz Schubert|Arpeggione Sonata",
