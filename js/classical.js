@@ -516,7 +516,7 @@ const classical = [
 "Richard Strauss|Don Quixote|1897|5PvCGu2Ue0U|Richard Strauss|Don Quixote (Strauss)",
 "Paul Dukas|The Sorcerer’s Apprentice|1897|U4yH4B9deok|Paul Dukas|The Sorcerer's Apprentice (Dukas)",
 "Richard Strauss|Ein Heldenleben|1898|Us1jfC7bMpA?start=3|Richard Strauss|Ein Heldenleben",
-"Edward Elgar|Sea Pictures|1899|DaV4eO4irUM|Edward Elgar|Sea Pictures",
+"Edward Elgar|Sea Pictures|1899|JlOU5St8Xc4?start=39|Edward Elgar|Sea Pictures",
 "Edward Elgar|Enigma Variations|1899|vLNLvcBmoqo|Edward Elgar|Enigma Variations",
 "Alexander Glazunov|The Seasons|1899|KLFX1ZWKemk|Alexander Glazunov|",
 "Arnold Schoenberg|Verklärte Nacht|1899|5h5Xc-rUef4|Arnold Schoenberg|Verklärte Nacht",
