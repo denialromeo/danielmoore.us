@@ -9697,7 +9697,7 @@ const songs = [
 "Molotov|Voto Latino|1997|vNgvBE2INGM|Molotov (band)|S13581|Latin Alternative;Rap Rock;Alternative Rock;Hispanic Music;Latin American Music;Regional Music;Rock|Voto latino",
 "Shirley Ellis|The Name Game|1964|5MJLi5_dyn0|Shirley Ellis|S8398|Novelty;Pop Soul;Descriptor;Pop;R&B;Soul|The Name Game",
 "Aimee Mann|Wise Up|1999|e3D7xplBYNY|Aimee Mann|S14050|Film Soundtrack;Singer/Songwriter;Descriptor;Soundtracks|",
-"Public Enemy|Public Enemy No. 1|1987|sOe7HdN7mPA|Public Enemy (band)|S11961|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
+"Public Enemy|Public Enemy No. 1|1987|AAWVAbUAADQ|Public Enemy (band)|S11961|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "The Righteous Brothers|Just Once in My Life|1965|Kkx51ymDpV8|The Righteous Brothers|S8160|Blue Eyed Soul;Brill Building;Pop|Just Once in My Life",
 "Ossman-Dudley Trio|St. Louis Tickle|1906|AfecAGt_c0c|Vess Ossman|S15765|Ragtime;American Folk Music;Folk;Regional Music;Traditional Folk Music|",
 "Bo Donaldson and the Heywoods|Billy Don't Be a Hero|1974|AjilwTUGE5g|Bo Donaldson and the Heywoods|S13697|Pop|",
