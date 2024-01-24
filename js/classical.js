@@ -641,7 +641,7 @@ const classical = [
 "Manuel de Falla|Nights in the Gardens of Spain|1915|yo9DJB6wYy8?start=3|Manuel de Falla|Nights in the Gardens of Spain",
 "Claude Debussy|Sonatas|1915-1917|6p1HDpf48Tg|Claude Debussy|Six sonatas for various instruments",
 "Manuel de Falla|El amor brujo|1915-1925|V3XfmRZAQ-o|Manuel de Falla|El amor brujo",
-"Charles Ives|Concord Sonata|1915|cDNPpsUaVYo|Charles Ives|",
+"Charles Ives|Concord Sonata|1915|cDNPpsUaVYo|Charles Ives|Piano Sonata No. 2 (Ives)",
 "Hans Pfitzner|Palestrina|1915|rKelUc2XxdM|Hans Pfitzner|Palestrina (opera)",
 "Franz Schreker|Die Gezeichneten|1915|1tdzUBIXDXg|Franz Schreker|",
 "Sergei Rachmaninoff|All-Night Vigil (Vesper)|1915|U2NSfTXjEPI|Sergei Rachmaninoff|All-Night Vigil (Rachmaninoff)",
