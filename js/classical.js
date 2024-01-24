@@ -416,7 +416,7 @@ const classical = [
 "Pyotr Ilyich Tchaikovsky|Symphony No. 4|1878|YnRkXtsD_54|Pyotr Ilyich Tchaikovsky|Symphony No. 4 (Tchaikovsky)",
 "Pyotr Ilyich Tchaikovksy|Violin Concerto|1878|cbJZeNlrYKg|Pyotr Ilyich Tchaikovsky|Violin Concerto (Tchaikovsky)",
 "Johannes Brahms|Violin Sonatas|1879-1888|9T6vnY2x-Jc|Johannes Brahms|Violin Sonata No. 1 (Brahms)",
-"Bedrich Smetana|Má vlast|1879|PLQ6Nhpom01lzJz7MoET5K0OnJgils0dGV|Bedřich Smetana|Má vlast",
+"Bedrich Smetana|Má vlast|1879|PLiN-7mukU_RGqaKhCWnR4Pj_Ft_coB7ZX|Bedřich Smetana|Má vlast",
 "Gabriel Fauré|Piano Quartets 1 &amp; 2|1879|NUzlJpKoQy0|Gabriel Fauré|",
 "Modest Mussorgsky|Khovanshchina|1880|13E-RJF-FaA|Modest Mussorgsky|Khovanshchina",
 "Gabriel Fauré|Élégie|1880|m84iLSh56KU|Gabriel Fauré|Élégie (Fauré)",
