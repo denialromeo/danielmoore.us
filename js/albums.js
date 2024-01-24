@@ -1135,7 +1135,7 @@ const albums = [
 "Roxy Music|Country Life|1974|PL1X3qTzT40VnY-RJUI70b1opaqDLCu0wb|A310|Country Life (Roxy Music album)|Roxy Music|Art Rock;Glam Rock;Rock",
 "Ray Charles|The Genius of Ray Charles|1959|PLowQCq3Ss89iND4aDT08rm4CAoOZOYlNv|A23|The Genius of Ray Charles|Ray Charles|Soul;Vocal Jazz;Jazz;R&B",
 "Talking Heads|Speaking in Tongues|1983|OLAK5uy_nYHzD9LEtWIKxLhNm8OfmtIJ2Pu324MfU|A584|Speaking in Tongues (Talking Heads album)|Talking Heads|Art Pop;New Wave;Pop;Rock",
-"Sarah Vaughan with Clifford Brown|Sarah Vaughan with Clifford Brown|1955|PLeDKpf9VYSV2ajRuDfpT4HYifqAQlnlcE|A1760|Sarah Vaughan (1955 album)|Sarah Vaughan|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
+"Sarah Vaughan with Clifford Brown|Sarah Vaughan with Clifford Brown|1955|PL5ae6iB5xkhEpIYx_2TG4AnSzoVJi2IlO|A1760|Sarah Vaughan (1955 album)|Sarah Vaughan|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop",
 "Okkervil River|Black Sheep Boy|2005|OLAK5uy_kA1Vv_LIKa2x6gNntoXSZ1SxEoJlgxn50|A4187|Black Sheep Boy|Okkervil River|Indie Folk;Indie Rock;Alternative Rock;Contemporary Folk;Folk;Rock",
 "Muddy Waters|Hard Again|1977|OLAK5uy_muvV7PJfBySmWPLOse84Qv-HtDScpeVHg|A415|Hard Again|Muddy Waters|Chicago Blues;Blues;Electric Blues",
 "Refused|The Shape of Punk to Come|1998|OLAK5uy_lJ-xX_Sc_NSZ3-ypH9poCTJDtVBXZlycs|A3024|The Shape of Punk to Come|Refused|Hardcore Punk;Post-Hardcore;Punk Rock;Rock",
