@@ -295,7 +295,7 @@ const classical = [
 "Robert Schumann|Frauenliebe und -leben|1840|eVkJOs8vdRM|Robert Schumann|",
 "Robert Schumann|Liederkreis, Op. 24|1840|3DCiOA2vpnQ|Robert Schumann|Liederkreis, Op. 24 (Schumann)",
 "Robert Schumann|Liederkreis, Op. 39|1840|X0pFd-UQ99c|Robert Schumann|Liederkreis, Op. 39 (Schumann)",
-"Felix Mendelssohn|Variations sérieuses|1841|ZJQiqTELwwI|Felix Mendelssohn|Variations sérieuses",
+"Felix Mendelssohn|Variations sérieuses|1841|4EYw7pLbRI8|Felix Mendelssohn|Variations sérieuses",
 "Robert Schumann|Symphony No. 1, \"Spring\"|1841|1Lk2V6YOcIc|Robert Schumann|Symphony No. 1 (Schumann)",
 "Richard Wagner|Der fliegende Holländer|1841-1860|Z8dtRIFVmDw|Richard Wagner|Der fliegende Holländer",
 "Robert Schumann|Piano Quartet|1842|sM9iSRm97Ws|Robert Schumann|Piano Quartet (Schumann)",
