@@ -528,7 +528,7 @@ const classical = [
 "Gustav Mahler|Symphony No. 4|1900|YnfhInZLmUQ|Gustav Mahler|Symphony No. 4 (Mahler)",
 "Jean Sibelius|Finlandia|1900|F5zg_af9b8c|Jean Sibelius|Finlandia",
 "Sergei Rachmaninoff|Piano Concerto No. 2|1901|rEGOihjqO9w|Sergei Rachmaninoff|Piano Concerto No. 2 (Rachmaninoff)",
-"Sergei Rachmaninoff|Cello Sonata|1901|YrXMpfwnbQ4|Sergei Rachmaninoff|Cello Sonata (Rachmaninoff)",
+"Sergei Rachmaninoff|Cello Sonata|1901|KkcJBjuCuPY|Sergei Rachmaninoff|Cello Sonata (Rachmaninoff)",
 "Roger Quilter|Songs|1901-1939|cIj_NKN2eEI|Roger Quilter|",
 "Francesco Cilea|Adriana Lecouvreur|1902|cWQ-uJBZkV8|Francesco Cilea|Adriana Lecouvreur",
 "Gustav Mahler|Rückert Lieder|1902|OJNaKMgvXRA|Gustav Mahler|Rückert-Lieder",
