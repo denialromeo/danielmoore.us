@@ -2750,7 +2750,7 @@ const songs = [
 "The Delfonics|Didn't I (Blow Your Mind This Time)|1969|gM6kZabHf4w|The Delfonics|S864|Philly Soul;Smooth Soul;R&B;Soul|Didn't I (Blow Your Mind This Time)",
 "Kelela|Rewind|2015|py6PgXq0yDM|Kelela|S9801|Alternative R&B;UK Bass;Contemporary R&B;Dance;Electronic;Electronic Dance Music;R&B;UK Garage|",
 "Jorge Ben|Taj Mahal|1972|rfrpOhC6858|Jorge Ben|S7004|MPB;Samba-Rock;Brazilian Music;Regional Music;Samba|Ben (Jorge Ben album)",
-"Almendra|Muchacha (Ojos de papel)|1969|5wscEdlj5qM|Almendra (band)|S5176|Folk Rock;Psychedelic Folk;Psychedelic Pop;Contemporary Folk;Folk;Pop;Rock|",
+"Almendra|Muchacha (Ojos de papel)|1969|yIWbdWXKF3o|Almendra (band)|S5176|Folk Rock;Psychedelic Folk;Psychedelic Pop;Contemporary Folk;Folk;Pop;Rock|",
 "Gary \"U.S.\" Bonds|Quarter to Three|1961|YF69PoyXskY|Gary U.S. Bonds|S1117|Rhythm & Blues;R&B|New Orleans (Gary U.S. Bonds song)",
 "Louis Armstrong|St. Louis Blues|1929|JYis-zCnJZM|Louis Armstrong|S9282|Dixieland;Vocal Jazz;Jazz|Saint Louis Blues (song)",
 "Bennie Moten|Moten's Swing|1933|hr42hm6GvkQ|Bennie Moten|S9140|Big Band;Swing;Jazz|",
