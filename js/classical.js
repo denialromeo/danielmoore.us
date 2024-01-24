@@ -216,7 +216,7 @@ const classical = [
 "Nicolò Paganini|Violin Concertos nos. 1-6|1815-1830|OLAK5uy_kd-Lb1LH0hUtj_i75jeuu0phvBktV-3dg|Niccolò Paganini|Violin Concerto No. 1 (Paganini)",
 "Gioachino Rossini|The Barber of Seville|1816|gDbBhzIcYj4|Gioachino Rossini|The Barber of Seville",
 "Franz Schubert|Symphony No. 5|1816|OHkot1TmvZU?start=3|Franz Schubert|Symphony No. 5 (Schubert)",
-"Nicolò Paganini|Twenty-four Caprices|1817|WMLoBXgPil8|Niccolò Paganini|24 Caprices for Solo Violin (Paganini)",
+"Nicolò Paganini|Twenty-four Caprices|1817|PLE7CEBA1FF4919334|Niccolò Paganini|24 Caprices for Solo Violin (Paganini)",
 "Franz Schubert|Violin Sonata in A major|1817|to1IAyAv0iI|Franz Schubert|",
 "Gioachino Rossini|La cenerentola|1817|SeVezYX1m6M|Gioachino Rossini|La Cenerentola",
 "Ludwig van Beethoven|Hammerklavier|1818|ETjfAIHpJjY|Ludwig van Beethoven|Piano Sonata No. 29 (Beethoven)",
