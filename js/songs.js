@@ -7396,7 +7396,7 @@ const songs = [
 "Jaco Pastorius|Donna Lee|1976|-0NNA6w8Zk4|Jaco Pastorius|S13203|Jazz Fusion;Jazz|",
 "Madonna|Cherish|1989|8q2WS6ahCnY|Madonna (entertainer)|S11514|Dance-Pop;Synthpop;Dance;Electronic;Pop|Cherish (Madonna song)",
 "Disclosure|Help Me Lose My Mind|2013|gQWavVwsCFU|Disclosure (band)|S9434|Deep House;Dance;Electronic;Electronic Dance Music;House|Help Me Lose My Mind",
-"Duke Ellington|Creole Love Call|1928|Qov0QkuzJM0|Duke Ellington|S13189|Dixieland;Jazz|Creole Love Call",
+"Duke Ellington|Creole Love Call|1928|BzSrkVvS8RA|Duke Ellington|S13189|Dixieland;Jazz|Creole Love Call",
 "Animal Collective|Water Curses|2008|h7GZLRxVzvg|Animal Collective|S4701|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|",
 "Mott the Hoople|The Golden Age of Rock 'n' Roll|1974|jToqxJfUZTc|Mott the Hoople|S7619|Glam Rock;Rock|",
 "Brad Mehldau|Exit Music (for a Film)|1998|Mm-pBjBp4OA|Brad Mehldau|S13160|Jazz|",
