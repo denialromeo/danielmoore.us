@@ -8691,7 +8691,7 @@ const songs = [
 "The Magnetic Fields|100,000 Fireflies|1991|OKXkVUM4xu8|The Magnetic Fields|S11519|Twee Pop;Indie Pop;Pop|",
 "King Pleasure|Moody's Mood for Love|1952|v0Qs5Ln12Hw|King Pleasure|S13534|Bebop;Rhythm & Blues;Vocal Jazz;Jazz;R&B|Moody's Mood for Love",
 "Judas Priest|The Ripper|1976|lriWlHZAy8A|Judas Priest|S13847|Hard Rock;Heavy Metal;Metal;Rock|Tim \"Ripper\" Owens",
-"Cowboy Junkies|Sweet Jane|1988|RG3L0RGY6yM|Cowboy Junkies|S5877|Dream Pop;Slowcore;Alternative Rock;Indie Rock;Rock|",
+"Cowboy Junkies|Sweet Jane|1988|Fa9nN3G2CSg|Cowboy Junkies|S5877|Dream Pop;Slowcore;Alternative Rock;Indie Rock;Rock|Sweet Jane",
 "Jimmy Eat World|Sweetness|2001|ROatPGGMvXg|Jimmy Eat World|S11210|Emo-Pop;Alternative Rock;Emo;Rock|Sweetness (Jimmy Eat World song)",
 "Chabuca Granda|La flor de la canela|1953|h8T-MbBEpUI|Chabuca Granda|S13086|Música Criolla Peruana;Folk;Hispanic Music;Latin American Music;Regional Music;South American Folk Music;Traditional Folk Music|",
 "DJ Rashad|Let It Go|2013|qPecFEVst_c|DJ Rashad|S9438|Footwork;Dance;Electronic;Electronic Dance Music;Ghetto House;House;Juke|",
