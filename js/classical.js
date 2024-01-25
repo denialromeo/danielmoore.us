@@ -587,7 +587,7 @@ const classical = [
 "Sergei Rachmaninoff|Piano Concerto No. 3|1909|1TJvJXyWDYw|Sergei Rachmaninoff|Piano Concerto No. 3 (Rachmaninoff)",
 "Richard Strauss|Elektra|1909|jq1qfG0r4LE|Richard Strauss|Elektra (opera)",
 "Arnold Schoenberg|Klavierstücke|1909-1931|cXU8ByUbrwM|Arnold Schoenberg|",
-"George Butterworth|Songs|1909-1912|l39GDoyqWAw|George Butterworth|",
+"George Butterworth|Songs|1909-1912|PLhHUg8xSoZUHxYeq8dAJoTOewOvP-Alw8|George Butterworth|",
 "Sergei Rachmaninoff|The Isle of the Dead|1909|FcRn_2DgPlA?start=3|Sergei Rachmaninoff|Isle of the Dead (Rachmaninoff)",
 "Arnold Schoenberg|Five Orchestral Pieces, Op. 16|1909|I9-_tVSrCqs|Arnold Schoenberg|",
 "Jean Sibelius|String Quartet \"Voces intimae\"|1909|J5zlNd-djlw|Jean Sibelius|String Quartet (Sibelius)",
