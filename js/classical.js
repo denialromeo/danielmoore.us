@@ -91,7 +91,7 @@ const classical = [
 "Johann Sebastian Bach|Keyboard Partitas|1726-1731|XiG8AGn5Qz8|Johann Sebastian Bach|",
 "Johann Sebastian Bach|Motets|1726-1735|jdtYTR6zP8A|Johann Sebastian Bach|List of motets by Johann Sebastian Bach",
 "Johann Sebastian Bach|St. Matthew Passion|1727|ZwVW1ttVhuQ|Johann Sebastian Bach|St Matthew Passion",
-"George Frideric Handel|Coronation Anthems|1727|oXmNnF9v8mU|George Frideric Handel|https://en.wikipedia.org/wiki/Coronation_anthem#Handel.27s_coronation_anthems",
+"George Frideric Handel|Coronation Anthems|1727|OLAK5uy_nzUPah-9VRU8z9TJ9oKBtipzhJ9UYqEys|George Frideric Handel|https://en.wikipedia.org/wiki/Coronation_anthem#Handel.27s_coronation_anthems",
 "John Gay|The Beggar’s Opera|1728|Lq7g_NRKHU0|John Gay|The Beggar's Opera",
 "Johann Sebastian Bach|French Suites|1730|0sDleZkIK-w|Johann Sebastian Bach|French Suites (Bach)",
 "Georg Philipp Telemann|Paris Quartets|1730|mBCoDRX4a0Q|Georg Philipp Telemann|",
