@@ -697,7 +697,7 @@ const classical = [
 "Carl Nielsen|Symphony No. 5|1922|lH2MijVKz9Y|Carl Nielsen|Symphony No. 5 (Nielsen)",
 "Alban Berg|Wozzeck|1922|jVmWimEX1gw|Alban Berg|Wozzeck",
 "Bela Bartok|Dance Suite|1923|nI1XE5ns3H8|Béla Bartók|Dance Suite (Bartók)",
-"Joseph Canteloube|Chants d’Auvergne|1923-1954|-hLj8ws2syQ|Joseph Canteloube|Chants d'Auvergne",
+"Joseph Canteloube|Chants d’Auvergne|1923-1954|PL1IXBSY4jc2s3ulYvnoPaPiRPFgKC23wf|Joseph Canteloube|Chants d'Auvergne",
 "Leos Janacek|String Quartets nos. 1 &amp; 2|1923-1928|y5wvFZDj37k|Leoš Janáček|String Quartet No. 1 (Janáček)",
 "Arthur Honegger|Three Symphonic Movements|1923-1933|R88o18b7Pk8|Arthur Honegger|",
 "Darius Milhaud|La création du monde|1923|nWpAQ6AWMDA|Darius Milhaud|La création du monde",
