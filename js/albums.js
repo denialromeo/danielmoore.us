@@ -2975,7 +2975,7 @@ const albums = [
 "Youssou N'Dour|Nelson Mandela|1985|OLAK5uy_l2Be1Qav7A-AYa-wwMEmlGZCWVdbfkKOM|A3070|Youssou N'Dour|Youssou N'Dour|Mbalax;African Music;Regional Music;West African Music;Wolof Music",
 "Tim Buckley|Blue Afternoon|1969|OLAK5uy_lObleNa9bk_en50sN9hFENz9f8QDFjES4|A2347|Blue Afternoon|Tim Buckley|Psychedelic Folk;Singer/Songwriter;Contemporary Folk;Folk",
 "Steve Miller Band|Sailor|1968|OLAK5uy_meNUoeZi2zOEDB17ECuiShoCD64Fd2JMk|A143|Sailor (album)|Steve Miller Band|Psychedelic Rock;Rock",
-"The Allman Brothers Band|Brothers and Sisters|1973|PL1X3qTzT40Vl7wFxeQfXqMg9oqQKOe01k|A1148|Brothers and Sisters (album)|The Allman Brothers Band|Southern Rock;Rock",
+"The Allman Brothers Band|Brothers and Sisters|1973|PLsAa4RFXVnxhtqFo9V3MNSf-n-Z0lE0bh|A1148|Brothers and Sisters (album)|The Allman Brothers Band|Southern Rock;Rock",
 "Sun Kil Moon|Ghosts of the Great Highway|2003|OLAK5uy_lB0Lgr4jmkgzYXJuXIHcre3gI_FJffWXE|A4910|Ghosts of the Great Highway|Sun Kil Moon|Folk Rock;Singer/Songwriter;Rock",
 "Taj Mahal|The Natch'l Blues|1968|OLAK5uy_n6-ZYCsx7TMSpKKtEk_zcKqmEBp0fHL5s|A2222|The Natch'l Blues|Taj Mahal (musician)|Blues",
 "The Jacksons|Triumph|1980|OLAK5uy_nlcJsUYBaHNUR6lW1BYdsCYkH-ntpw1uA|A2823|Triumph (The Jacksons album)|The Jackson 5|Pop Soul;Synth Funk;Funk;Pop;R&B;Soul",
