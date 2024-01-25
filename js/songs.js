@@ -9106,7 +9106,7 @@ const songs = [
 "Frankie Carle|Rumors Are Flying|1946|CWset0bXaD8|Frankie Carle|S6454|Traditional Pop;Pop|Rumors Are Flying",
 "Hoagy Carmichael|Ole Buttermilk Sky|1946|fOgrjd9NKF0|Hoagy Carmichael|S6718|Traditional Pop;Pop|",
 "The Beach Boys|Wild Honey|1967|eeA3Z8As_dc|The Beach Boys|S5345|Pop Soul;Psychedelic Pop;Pop;R&B;Soul|Wild Honey (The Beach Boys song)",
-"Jean Ferrat|Nuit et Brouillard|1963|Id1py59AydY|Jean Ferrat|S13514|Chanson;Regional Music|",
+"Jean Ferrat|Nuit et Brouillard|1963|CwGaG5IMiyE|Jean Ferrat|S13514|Chanson;Regional Music|",
 "Erykah Badu|Cel U Lar Device|2015|3jbaykVDdRc|Erykah Badu|S9753|Contemporary R&B;Neo-Soul;R&B;Soul|",
 "Sleigh Bells|Infinity Guitars|2010|WfGtB6K8q8k|Sleigh Bells (band)|S8450|Noise Pop;Noise Rock;Alternative Rock;Rock|",
 "Lynyrd Skynyrd|What's Your Name|1978|YDOCsJvpB14|Lynyrd Skynyrd|S7358|Southern Rock;Rock|What's Your Name (Lynyrd Skynyrd song)",
