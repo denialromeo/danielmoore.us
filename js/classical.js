@@ -549,7 +549,7 @@ const classical = [
 "Leos Janacek|Jenůfa|1904|DFbRCiChA1g|Leoš Janáček|Jenůfa",
 "Anatoly Lyadov|Fairytales|1904-1909|FCIGLb0eiEY|Anatoly Lyadov|",
 "Ferruccio Busoni|Piano Concerto|1904|ohPzurDZzZ4|Ferruccio Busoni|Piano Concerto (Busoni)",
-"Gustav Mahler|Kindertotenlieder|1904|9edKNmyiLBc|Gustav Mahler|Kindertotenlieder",
+"Gustav Mahler|Kindertotenlieder|1904|wXZMbRgbUvk?start=25|Gustav Mahler|Kindertotenlieder",
 "Gustav Mahler|Symphony No. 6|1904|25tSq_dYL3c?start=3|Gustav Mahler|Symphony No. 6 (Mahler)",
 "Alexander Scriabin|Symphony No. 3|1904|E-CdtD1Otx4|Alexander Scriabin|Symphony No. 3 (Scriabin)",
 "Charles Villiers Stanford|Songs of the Sea|1904|bEljN59jR80|Charles Villiers Stanford|",
