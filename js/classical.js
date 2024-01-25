@@ -342,7 +342,7 @@ const classical = [
 "Jacques Offenbach|Orpheus in the Underworld|1858-1874|vEnW5_GTooI|Jacques Offenbach|Orpheus in the Underworld",
 "Richard Wagner|Wesendonck Lieder|1858|HFxB6DoEUXs|Richard Wagner|Wesendonck Lieder",
 "Hector Berlioz|Les troyens|1858|JVuj-b0zXVE|Hector Berlioz|Les Troyens",
-"Johannes Brahms|Piano Concerto No. 1|1859|1jB_6fpYY3o|Johannes Brahms|Piano Concerto No. 1 (Brahms)",
+"Johannes Brahms|Piano Concerto No. 1|1859|1jB_6fpYY3o?start=60|Johannes Brahms|Piano Concerto No. 1 (Brahms)",
 "Charles Gounod|Faust|1859|Q7oVDMVXyqw|Charles Gounod|Faust (opera)",
 "Giuseppe Verdi|Un ballo in maschera|1859|bjPSlFcuVNE|Giuseppe Verdi|Un ballo in maschera",
 "Richard Wagner|Tristan und Isolde|1859|J-qoaioG2UA|Richard Wagner|Tristan und Isolde",
