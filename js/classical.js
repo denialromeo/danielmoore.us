@@ -225,7 +225,7 @@ const classical = [
 "Ludwig van Beethoven|Piano Sonata in E major, Op. 109|1820|8JZGiY--2LM|Ludwig van Beethoven|Piano Sonata No. 14 (Beethoven)",
 "Carl Maria von Weber|Der Freischütz|1821|ZdMqHNcL6xI|Carl Maria von Weber|Der Freischütz",
 "Ludwig van Beethoven|Piano Sonata in A flat major, Op. 110|1821|-WxCQlu2l2I|Ludwig van Beethoven|Piano Sonata No. 31 (Beethoven)",
-"Ludwig van Beethoven|Piano Sonata in C minor, Op. 111|1822|WGg9cE-ceso|Ludwig van Beethoven|Piano Sonata No. 32 (Beethoven)",
+"Ludwig van Beethoven|Piano Sonata No. 32|1822|8AQ9hZTpgwM?start=24|Ludwig van Beethoven|Piano Sonata No. 32 (Beethoven)",
 "Franz Schubert|Symphony No. 8, \"Unfinished\"|1822|uWnKMzAedK4|Franz Schubert|Symphony No. 8 (Schubert)",
 "Franz Schubert|Fantasy in C major, \"Wanderer\"|1822|Vy_HeH-pRfI|Franz Schubert|Wanderer Fantasy",
 "Franz Schubert|Die schöne Müllerin|1823|_YeITW9A8Rk|Franz Schubert|Die schöne Müllerin",
