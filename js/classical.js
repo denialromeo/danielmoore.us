@@ -340,7 +340,7 @@ const classical = [
 "Cesar Franck|Six Pièces, opp. 16-21|1856-1864|Kjh-H88gemQ|César Franck|",
 "Giuseppe Verdi|Simon Boccanegra|1857-1881|h2eM5ByJhj8|Giuseppe Verdi|",
 "Jacques Offenbach|Orpheus in the Underworld|1858-1874|vEnW5_GTooI|Jacques Offenbach|Orpheus in the Underworld",
-"Richard Wagner|Wesendonck Lieder|1858|HFxB6DoEUXs|Richard Wagner|Wesendonck Lieder",
+"Richard Wagner|Wesendonck Lieder|1858|Hq8gpe3J5QI|Richard Wagner|Wesendonck Lieder",
 "Hector Berlioz|Les troyens|1858|JVuj-b0zXVE|Hector Berlioz|Les Troyens",
 "Johannes Brahms|Piano Concerto No. 1|1859|1jB_6fpYY3o?start=60|Johannes Brahms|Piano Concerto No. 1 (Brahms)",
 "Charles Gounod|Faust|1859|Q7oVDMVXyqw|Charles Gounod|Faust (opera)",
