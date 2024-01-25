@@ -731,7 +731,7 @@ const classical = [
 "Maurice Ravel|Violin Sonata|1927|OFbffshku0k|Maurice Ravel|Violin Sonata No. 2 (Ravel)",
 "Gustav Holst|Egdon Heath|1927|meaYfLfnjZw|Gustav Holst|Egdon Heath (Holst)",
 "Leos Janacek|Glagolitic Mass|1927|wVRLoUknC9o|Leoš Janáček|Glagolitic Mass",
-"Joseph Jongen|Symphonie concertante|1927|8riHBnLbAkg|Joseph Jongen|",
+"Joseph Jongen|Symphonie concertante|1927|oePjCCDd_A4?start=7|Joseph Jongen|",
 "Bohuslav Martinu|La revue de cuisine|1927|B73RwTsrikQ|Bohuslav Martinů|List of compositions by Bohuslav Martinů",
 "Igor Stravinsky|Oedipus rex|1927|O0vVLj-9y7o|Igor Stravinsky|Oedipus rex (opera)",
 "Zoltán Kodály|Háry János Suite|1927|ym2QvHQNyPU?start=3|Zoltán Kodály|Háry János",
