@@ -307,7 +307,7 @@ const classical = [
 "Mikhail Glinka|Ruslan and Lyudmila|1842|QW3IwWFkpfc|Mikhail Glinka|Ruslan and Lyudmila (opera)",
 "Gaetano Donizetti|Don Pasquale|1843|_RZ-pOOgbL4|Gaetano Donizetti|Don Pasquale",
 "Felix Mendelssohn|Violin Concerto in E minor|1844|I03Hs6dwj7E|Felix Mendelssohn|Violin Concerto (Mendelssohn)",
-"Hector Berlioz|Le carnaval romain|1844|j_3YoeLz7Rc?start=3|Hector Berlioz|",
+"Hector Berlioz|Le carnaval romain|1844|j_3YoeLz7Rc?start=3|Hector Berlioz|https://en.wikipedia.org/wiki/Overtures_by_Hector_Berlioz#Le_carnaval_romain",
 "Frédéric Chopin|Piano Sonata No. 3|1844|s9Ofz4TjfhM|Frédéric Chopin|Piano Sonata No. 3 (Chopin)",
 "Robert Schumann|Piano Concerto|1845|Ynky7qoPnUU|Robert Schumann|Piano Concerto (Schumann)",
 "Richard Wagner|Tannhäuser|1845-1861|SRmCEGHt-Qk|Richard Wagner|Tannhäuser (opera)",
