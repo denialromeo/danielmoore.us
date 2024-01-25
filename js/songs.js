@@ -870,7 +870,7 @@ const songs = [
 "Bob Dylan|It's Alright Ma (I'm Only Bleeding)|1965|_CJHbfkROow|Bob Dylan|S2987|Contemporary Folk;Singer/Songwriter;Folk|It's Alright, Ma (I'm Only Bleeding)",
 "Led Zeppelin|Rock and Roll|1971|oxHoLtrGNCA|Led Zeppelin|S794|Hard Rock;Rock|Rock and Roll (Led Zeppelin song)",
 "Bob Dylan|Don't Think Twice, It's All Right|1963|u-Y3KfJs6T0|Bob Dylan|S2984|Contemporary Folk;Singer/Songwriter;Folk|Don't Think Twice, It's All Right",
-"Bob Marley and the Wailers|I Shot the Sheriff|1973|nrnZSLwfzVs?start=75|Bob Marley|S742|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
+"Bob Marley and the Wailers|I Shot the Sheriff|1973|zGO8HN1QQdI?start=78|Bob Marley|S742|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "Portishead|Machine Gun|2008|SjcU9yjMapc|Portishead (band)|S4741|Electro-Industrial;Electronic;Industrial Music|Machine Gun (Portishead song)",
 "Muddy Waters|Got My Mojo Working|1957|8hEYwk0bypY|Muddy Waters|S1258|Chicago Blues;Blues;Electric Blues|Got My Mojo Working",
 "UGK|Int'l Player's Anthem (I Choose You)|2007|awMIbA34MT8|UGK|S4284|Dirty South;Southern Hip Hop;Hip Hop|International Players Anthem (I Choose You)",
