@@ -105,7 +105,7 @@ const classical = [
 "George Frideric Handel|Serse|1738|WH7GSJoDUDM|George Frideric Handel|Serse",
 "Johann Sebastian Bach|Harpsichord Concertos|1739|wC_kuLSnuXk|Johann Sebastian Bach|",
 "George Frideric Handel|Concerti grossi, Op. 6|1739|Y8tE9MYOCeI|George Frideric Handel|Concerti grossi, Op. 6 (Handel)",
-"Johann Sebastian Bach|The Well-Tempered Clavier|1740-1742|PLDriozYVKPiFbf6hwHW63v3TzyspILprU|Johann Sebastian Bach|The Well-Tempered Clavier",
+"Johann Sebastian Bach|The Well-Tempered Clavier|1722-1742|PLDriozYVKPiFbf6hwHW63v3TzyspILprU|Johann Sebastian Bach|The Well-Tempered Clavier",
 "Domenico Scarlatti|Keyboard Sonatas|1740s|4yBQlZ06G40|Domenico Scarlatti|",
 "Johann Sebastian Bach|Goldberg Variations|1741|15ezpwCHtJs|Johann Sebastian Bach|Goldberg Variations",
 "George Frideric Handel|Messiah|1742|JH3T6YwwU9s|George Frideric Handel|",
