@@ -5448,7 +5448,7 @@ const songs = [
 "Fiona Apple|Paper Bag|1999|BK30r_SIZ-g|Fiona Apple|S10812|Jazz Pop;Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Paper Bag (song)",
 "Kings of Convenience|I’d Rather Dance with You|2004|8PiXNWCyh6c|Kings of Convenience|S4636|Folk Pop;Indie Pop;Contemporary Folk;Folk;Pop|",
 "The Velvet Underground|What Goes On|1969|IBBlFfv4CAM|The Velvet Underground|S1715|Garage Rock;Rock|What Goes On (Velvet Underground song)",
-"Eric Clapton|Change the World|1996|kntzQiaFzOQ|Eric Clapton|S3277|Pop Rock;Pop;Rock|",
+"Eric Clapton|Change the World|1996|kntzQiaFzOQ|Eric Clapton|S3277|Pop Rock;Pop;Rock|Change the World",
 "Soap&Skin|Spiracle|2009|eDwkS3TM43s|Soap&Skin|S15883|Art Pop;Singer/Songwriter;Pop|",
 "Uffie|Pop the Glock|2006|2RA-lXK0c0g|Uffie|S4049|Electropop;Pop Rap;Electronic;Hip Hop;Pop|",
 "Parquet Courts|Human Performance|2016|Aiex9fYyuQg|Parquet Courts|S16163|Indie Rock;Post-Punk;Alternative Rock;Rock|",
