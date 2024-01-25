@@ -660,7 +660,7 @@ const classical = [
 "Gustav Holst|The Planets|1917|HP5xhyPn58U?start=3|Gustav Holst|The Planets",
 "Lili Boulanger|Psalm 130, \"Du fond de l’abîme\"|1917|gYj3nP6l6DA|Lili Boulanger|",
 "Sergei Prokofiev|Violin Concerto No. 1|1917|SyFQwiAqDS4|Sergei Prokofiev|Violin Concerto No. 1 (Prokofiev)",
-"Sergei Prokofiev|Symphony No. 1|1917|WLT55kPIFCo|Sergei Prokofiev|Symphony No. 1 (Prokofiev)",
+"Sergei Prokofiev|Symphony No. 1|1917|CXO-hB6jNTI|Sergei Prokofiev|Symphony No. 1 (Prokofiev)",
 "Erik Satie|Parade|1917|IuZ4DYywqpw|Erik Satie|Parade (ballet)",
 "Richard Strauss|Die Frau ohne Schatten|1917|SkaOIpdBb2M?start=3|Richard Strauss|Die Frau ohne Schatten",
 "Ottorino Respighi|Ancient Airs and Dances|1917-1932|O_DlXAJ7zpM|Ottorino Respighi|Ancient Airs and Dances",
