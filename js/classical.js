@@ -191,7 +191,7 @@ const classical = [
 "Ludwig van Beethoven|Kreutzer Sonata|1803|OF9fneQ50Us?start=13|Ludwig van Beethoven|Violin Sonata No. 9 (Beethoven)",
 "Johann Nepomuk Hummel|Trumpet Concerto|1803|902St2UAmfA|Johann Nepomuk Hummel|Trumpet Concerto (Hummel)",
 "Ludwig van Beethoven|Appassionata|1805|E5JObP74jcw|Ludwig van Beethoven|Piano Sonata No. 23 (Beethoven)",
-"Ludwig van Beethoven|Triple Concerto|1805|pkXGtE8_cig|Ludwig van Beethoven|Triple Concerto (Beethoven)",
+"Ludwig van Beethoven|Triple Concerto|1805|pkXGtE8_cig?start=50|Ludwig van Beethoven|Triple Concerto (Beethoven)",
 "Ludwig van Beethoven|Piano Concerto No. 4 in G major|1806|6lvBQJjxw4c|Ludwig van Beethoven|Piano Concerto No. 4 (Beethoven)",
 "Ludwig van Beethoven|String Quartets, Op. 59, \"Razumovsky\"|1806|oXLKu-HglnM|Ludwig van Beethoven|String Quartets, Op. 59 (Beethoven)",
 "Ludwig van Beethoven|Symphony No. 4|1806|Ec6i45d74nk|Ludwig van Beethoven|Symphony No. 4 (Beethoven)",
