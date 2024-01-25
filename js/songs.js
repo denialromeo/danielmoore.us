@@ -6187,7 +6187,7 @@ const songs = [
 "IAM|Je danse le Mia|1993|7ceNf9qJjgc|IAM (band)|S6762|Boom Bap;French Hip Hop;Pop Rap;Hip Hop|Je danse le Mia",
 "Georges Moustaki|Le métèque|1969|MV8fGf-N06A|Georges Moustaki|S10928|Chanson;Regional Music|",
 "Pet Shop Boys|Opportunities (Let's Make Lots of Money)|1985|PyeWRd7ZEBs|Pet Shop Boys|S1936|Synthpop;Electronic;Pop|Opportunities (Let's Make Lots of Money)",
-"Section 25|Looking from a Hilltop|1984|WFwuJUeT9rU|Section 25 (band)|S8346|Electro;Synthpop;Dance;Electronic;Electronic Dance Music;Pop|",
+"Section 25|Looking from a Hilltop|1984|MG3LxAn1I1U|Section 25 (band)|S8346|Electro;Synthpop;Dance;Electronic;Electronic Dance Music;Pop|",
 "Caroline Polachek|Door|2019|7w6R4I7I3wA|Caroline Polachek|S16755|Art Pop;Downtempo;Electronic;Pop|Caroline Polachek|Door (song)",
 "Felix|Don't You Want Me|1992|bj8xF2bnxp0|Felix (musician)|S2939|Euro House;Techno;Dance;Electronic;Electronic Dance Music;House|Don't You Want Me (Felix song)",
 "Barbra Streisand|Woman in Love|1980|CzQPJy8Q6qE|Barbra Streisand|S5323|Adult Contemporary;Pop|People (Barbra Streisand song)",
