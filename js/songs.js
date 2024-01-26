@@ -1473,7 +1473,7 @@ const songs = [
 "Faith No More|Epic|1989|ZG_k5CSYKhg|Faith No More|S215|Rap Metal;Alternative Metal;Metal;Rock|Epic (Faith No More song)",
 "SZA feat. Travis Scott|Love Galore|2017|hHXfCOjb3fk|SZA (singer)|S16492|Alternative R&B;Contemporary R&B;R&B|Love Galore",
 "Bob Marley and the Wailers|One Love/People Get Ready|1977|g94A1R8xHcQ|Bob Marley|S3600|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|One Love (Bob Marley and the Wailers song)",
-"The Rolling Stones|Midnight Rambler|1969|4V1SvYwkVtk|The Rolling Stones|S3772|Blues Rock;Rock|Midnight Rambler",
+"The Rolling Stones|Midnight Rambler|1969|G-bBhgMtPsc|The Rolling Stones|S3772|Blues Rock;Rock|Midnight Rambler",
 "Curtis Mayfield|Freddie's Dead|1972|xMoyBalIj4Q|Curtis Mayfield|S1316|Chicago Soul;Film Soundtrack;Funk;Descriptor;R&B;Soul;Soundtracks|Freddie's Dead",
 "Elton John|Candle in the Wind|1973|NoOhnrjdYOc|Elton John|S738|Piano Rock;Pop;Pop Rock;Rock|Candle in the Wind",
 "The Ink Spots|If I Didn't Care|1939|UC_VzbtRGr0|The Ink Spots|S2700|Traditional Pop;Vocal Group;Descriptor;Pop|If I Didn't Care",
