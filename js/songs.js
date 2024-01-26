@@ -9720,7 +9720,7 @@ const songs = [
 "Fats Waller|It's a Sin to Tell a Lie|1936|Q9IQb_sKTEg|Fats Waller|S6361|Swing;Jazz|It's a Sin to Tell a Lie",
 "Georges Brassens|Il n'y a pas d'amour heureux|1953|SccKLmENjpk|Georges Brassens|S10920|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Handy's Memphis Blues Band|St. Louis Blues|1922|y_owmZsgsYY|W. C. Handy|S15961|Blues|St. Louis Blues",
-"King Sunny Adé|Sunny ti de|1972|vVMgtCVF3Dw|King Sunny Adé|S14625|Jùjú;African Music;Regional Music;West African Music;Yoruba Music|",
+"King Sunny Adé|Sunny Ti De|1972|9Gjo4DMKu-I|King Sunny Adé|S14625|Jùjú;African Music;Regional Music;West African Music;Yoruba Music|",
 "Glenn Miller|(I've Got a Gal in) Kalamazoo|1942|fFv_PoZ2iP0|Glenn Miller|S6583|Big Band;Vocal Jazz;Jazz|(I've Got a Gal In) Kalamazoo",
 "Stereolab|Jenny Ondioline|1993|zsIBzVSZeIQ|Stereolab|S12304|Krautrock;Noise Pop;Alternative Rock;Experimental Rock;Progressive Rock;Rock|",
 "The Box Tops|Neon Rainbow|1967|goVlXCJUyCM|The Box Tops|S5602|Baroque Pop;Psychedelic Pop;Pop|Neon Rainbow",
