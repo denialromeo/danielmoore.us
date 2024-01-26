@@ -6407,7 +6407,7 @@ const songs = [
 "The Mamas and the Papas|I Saw Her Again|1966|4vaIBZCLUQU|The Mamas and the Papas|S3589|Folk Pop;Sunshine Pop;Contemporary Folk;Folk;Pop|I Saw Her Again",
 "Pink Floyd|One of These Days|1971|48PJGVf4xqk|Pink Floyd|S7962|Art Rock;Progressive Rock;Space Rock;Psychedelic Rock;Rock|",
 "Foals|What Went Down|2015|iuQQIawCqBA|Foals (band)|S9767|Indie Rock;Alternative Rock;Rock|",
-"Aztec Camera|Oblivious|1983|2B2Sc2G_5ZA|Aztec Camera|S5280|Jangle Pop;New Wave;Alternative Rock;Pop;Pop Rock;Rock|Oblivious (Aztec Camera song)",
+"Aztec Camera|Oblivious|1983|oLXUKaed92w|Aztec Camera|S5280|Jangle Pop;New Wave;Alternative Rock;Pop;Pop Rock;Rock|Oblivious (Aztec Camera song)",
 "Donovan|Sunny Goodge Street|1965|kI434oaUT2Y|Donovan|S4401|Contemporary Folk;Singer/Songwriter;Folk|Fairytale (album)",
 "Royal Blood|Figure It Out|2014|jhgVu2lsi_k|Royal Blood (band)|S9650|Hard Rock;Rock|Figure It Out (Royal Blood song)",
 "New Orleans Rhythm Kings|Tin Roof Blues|1923|f6gIOKNBybk|New Orleans Rhythm Kings|S13238|Dixieland;Jazz|",
