@@ -841,7 +841,7 @@ const classical = [
 "Sergei Prokofiev|Cinderella|1944|YYmmCbwNWPs|Sergei Prokofiev|Cinderella (Prokofiev)",
 "Sergei Prokofiev|Symphony No. 5|1944|EaiXIdncA7M|Sergei Prokofiev|Symphony No. 5 (Prokofiev)",
 "Dmitri Shostakovich|Piano Trio No. 2|1944|KgVvUHxKb58|Dmitri Shostakovich|",
-"Leonard Bernstein|On the Town|1944|CBdP8td0sto|Leonard Bernstein|List of compositions by Leonard Bernstein",
+"Leonard Bernstein|On the Town|1944|CBdP8td0sto|Leonard Bernstein|On the Town (musical)",
 "Olivier Messiaen|Vingt regards sur l’Enfant-Jésus|1944|ovMnmIoZh74|Olivier Messiaen|",
 "Benjamin Britten|Peter Grimes|1945|VTd2aXLTA84|Benjamin Britten|Peter Grimes",
 "Bela Bartok|Piano Concerto No. 3|1945|l7J7L53b8U0|Béla Bartók|Piano Concerto No. 3 (Bartók)",
