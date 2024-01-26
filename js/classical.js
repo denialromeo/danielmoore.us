@@ -422,7 +422,7 @@ const classical = [
 "Gabriel Fauré|Élégie|1880|m84iLSh56KU|Gabriel Fauré|Élégie (Fauré)",
 "Hans Rott|Symphony in E major|1880|fTwYSQOhsKc|Hans Rott|",
 "Jacques Offenbach|The Tales of Hoffmann|1880|g7czptgEvvU|Jacques Offenbach|The Tales of Hoffmann",
-"Pyotr Ilyich Tchaikovsky|Serenade for Strings|1880|M2ZU-1EyVOw|Pyotr Ilyich Tchaikovsky|Serenade for Strings (Tchaikovsky)",
+"Pyotr Ilyich Tchaikovsky|Serenade for Strings|1880|M2ZU-1EyVOw?start=4|Pyotr Ilyich Tchaikovsky|Serenade for Strings (Tchaikovsky)",
 "Camille Saint-Saens|Violin Concerto No. 3|1880|DZxwiABbock|Camille Saint-Saëns|Violin Concerto No. 3 (Saint-Saëns)",
 "Bedrich Smetana|From the Homeland|1880|N0kejxuSPtk|Bedřich Smetana|",
 "Pyotr Ilyich Tchaikovsky|1812 Overture|1880|QUpuAvQQrC0|Pyotr Ilyich Tchaikovsky|1812 Overture",
