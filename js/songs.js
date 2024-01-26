@@ -6361,7 +6361,7 @@ const songs = [
 "The Troggs|I Can't Control Myself|1966|rzHpGjvRgTc|The Troggs|S8851|Beat Music;British Rhythm & Blues;Garage Rock;Pop;Pop Rock;R&B;Rhythm & Blues;Rock|I Can't Control Myself",
 "My Bloody Valentine|Feed Me with Your Kiss|1988|9rxE0Mr_U8U|My Bloody Valentine (band)|S7649|Noise Pop;Shoegaze;Alternative Rock;Rock|Feed Me with Your Kiss",
 "Free|Wishing Well|1972|AdWz2fbiSno|Free (band)|S6480|Hard Rock;Rock|Wishing Well (Free song)",
-"John Coltrane|Ascension|1966|-81AEUqHPzU|John Coltrane|S11226|Free Jazz;Spiritual Jazz;Avant-Garde Jazz;Jazz|",
+"John Coltrane|Ascension|1966|S0gIATXhsGQ|John Coltrane|S11226|Free Jazz;Spiritual Jazz;Avant-Garde Jazz;Jazz|Ascension (John Coltrane album)",
 "Chapterhouse|Pearl|1991|5PsN_DfnHQU|Chapterhouse|S2931|Dream Pop;Shoegaze;Alternative Rock;Rock|",
 "Joni Mitchell|This Flight Tonight|1971|iTfB8Q6DpZ0|Joni Mitchell|S7000|Contemporary Folk;Singer/Songwriter;Folk|This Flight Tonight",
 "Paul Kelly|From Little Things Big Things Grow|1991|dAONlfoNVuY|Paul Kelly (Australian musician)|S14847|Folk Rock;Rock|From Little Things Big Things Grow",
