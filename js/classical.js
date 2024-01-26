@@ -598,7 +598,7 @@ const classical = [
 "Engelbert Humperdinck|Königskinder|1910|3FU-sbfd9j4|Engelbert Humperdinck (composer)|Königskinder",
 "Gustav Mahler|Symphony No. 10|1910|vHyV8noUXC0|Gustav Mahler|Symphony No. 10 (Mahler)",
 "Edward Elgar|Violin Concerto|1910|Lmr4U5f_3qg?start=37|Edward Elgar|Violin Concerto (Elgar)",
-"Florent Schmitt|La tragédie de Salomé|1910|yDHj8nanq2Q|Florent Schmitt|",
+"Florent Schmitt|La tragédie de Salomé|1910|fmRCZQ2vID4?start=3|Florent Schmitt|",
 "Fritz Kreisler|Liebesfreund &amp; Liebesleid|1910|jniNETA36Us|Fritz Kreisler|Alt-Wiener Tanzweisen",
 "Franz Schreker|Der ferne Klang|1910|rt2-Ze2I6kA|Franz Schreker|Der ferne Klang",
 "Alexander Scriabin|Prometheus|1910|10ESN_t7txI?start=45|Alexander Scriabin|Prometheus: The Poem of Fire",
