@@ -754,7 +754,7 @@ const classical = [
 "Ralph Vaughan Williams|Job|1930|GlGjFynWFUw|Ralph Vaughan Williams|Job: A Masque for Dancing",
 "William Walton|Belshazzar’s Feast|1931-1957|_HVgxgC2ZEk|William Walton|",
 "Igor Stravinsky|Violin Concerto|1931|Wn6K53W_Nu0?start=3|Igor Stravinsky|Violin Concerto (Stravinsky)",
-"Maurice Ravel|Piano Concerto in G|1931|W1hyEjZros8|Maurice Ravel|Piano Concerto in G major (Ravel)",
+"Maurice Ravel|Piano Concerto in G major|1931|gAtzmCGMNfI|Maurice Ravel|Piano Concerto in G major (Ravel)",
 "Bela Bartok|Piano Concerto No. 2|1931|jOHl_X_OoIk|Béla Bartók|Piano Concerto No. 2 (Bartók)",
 "Edgard Varèse|Ionisation|1931|wClwaBuFOJA|Edgard Varèse|",
 "Francis Poulenc|Concerto for Two Pianos|1932|2-VSj7bSsfo|Francis Poulenc|Concerto for Two Pianos and Orchestra (Poulenc)",
