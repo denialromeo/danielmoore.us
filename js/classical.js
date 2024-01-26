@@ -222,7 +222,7 @@ const classical = [
 "Ludwig van Beethoven|Hammerklavier|1818|ETjfAIHpJjY|Ludwig van Beethoven|Piano Sonata No. 29 (Beethoven)",
 "Franz Schubert|Piano Quintet in A major, \"Trout\"|1819|RMr4pDGo0KE|Franz Schubert|",
 "Frédéric Chopin|Mazurkas|1820-1847|H5D46aHhRDM|Frédéric Chopin|Mazurkas (Chopin)",
-"Ludwig van Beethoven|Piano Sonata in E major, Op. 109|1820|8JZGiY--2LM|Ludwig van Beethoven|Piano Sonata No. 14 (Beethoven)",
+"Ludwig van Beethoven|Piano Sonata No. 30|1820|luiOoylLTvc?start=7|Ludwig van Beethoven|Piano Sonata No. 30 (Beethoven)",
 "Carl Maria von Weber|Der Freischütz|1821|ZdMqHNcL6xI|Carl Maria von Weber|Der Freischütz",
 "Ludwig van Beethoven|Piano Sonata in A flat major, Op. 110|1821|-WxCQlu2l2I|Ludwig van Beethoven|Piano Sonata No. 31 (Beethoven)",
 "Ludwig van Beethoven|Piano Sonata No. 32|1822|8AQ9hZTpgwM?start=24|Ludwig van Beethoven|Piano Sonata No. 32 (Beethoven)",
