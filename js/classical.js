@@ -703,7 +703,7 @@ const classical = [
 "Darius Milhaud|La création du monde|1923|nWpAQ6AWMDA|Darius Milhaud|La création du monde",
 "Leos Janacek|The Cunning Little Vixen|1923|q2pbTAeZFrg|Leoš Janáček|The Cunning Little Vixen",
 "Francis Poulenc|Les biches|1923-1947|LxLUiYgU0m0|Francis Poulenc|Les biches",
-"Arnold Schoenberg|Suite for Piano|1923|bQHR_Z8XVvI|Arnold Schoenberg|",
+"Arnold Schoenberg|Suite for Piano|1923|TVWbtaZFVjA|Arnold Schoenberg|",
 "Igor Stravinsky|Octet|1923|YyqLnP0hOnI|Igor Stravinsky|",
 "Alexander Zemlinsky|Lyric Symphony|1923|KGvMhAmBniE|Alexander von Zemlinsky|Lyric Symphony",
 "Igor Stravinsky|Les noces|1923|gNBDJNHeZmo|Igor Stravinsky|Les noces",
