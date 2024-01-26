@@ -269,7 +269,7 @@ const classical = [
 "Felix Mendelssohn|Piano Concerto No. 1|1831|2GGx8TRWFVA|Felix Mendelssohn|Piano Concerto No. 1 (Mendelssohn)",
 "Vincenzo Bellini|Norma|1831|GN75XDDm_DI|Vincenzo Bellini|Norma (opera)",
 "Gaetano Donizetti|L’elisir d’amore|1832|zx1Y5ljpmzk?start=110|Gaetano Donizetti|L'elisir d'amore",
-"Gioachino Rossini|Stabat Mater|1832-1841|8CB_49aqxps|Gioachino Rossini|Stabat Mater (Poulenc)",
+"Gioachino Rossini|Stabat Mater|1832-1841|8CB_49aqxps|Gioachino Rossini|Stabat Mater (Rossini)",
 "Felix Mendelssohn|Symphony No. 4, \"Italian\"|1833|_HX_jF1_Tgc?start=3|Felix Mendelssohn|Symphony No. 4 (Mendelssohn)",
 "Hector Berlioz|Harold in Italy|1834|Q4NC4E5RXik?start=3|Hector Berlioz|",
 "Gaetano Donizetti|Lucia di Lammermoor|1835|_maNJkybAwI|Gaetano Donizetti|",
