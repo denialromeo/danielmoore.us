@@ -10469,7 +10469,7 @@ const songs = [
 "The Ruts|West One (Shine on Me)|1980|PrwLmaqx1W0|The Ruts|S8286|Punk Rock;Rock|",
 "James Brown|Get Up Offa That Thing|1976|1_uNMy20qAI|James Brown|S2880|Funk;R&B|Get Up Offa That Thing",
 "Eric Clapton|Blues Power|1970|k_IM9zUadqw|Eric Clapton|S10743|Blues Rock;Pop Rock;Pop;Rock|",
-"Sugar Pie DeSanto|Soulful Dress|1964|7_bIjXU2hw0|Sugar Pie DeSanto|S13362|Rhythm & Blues;R&B|",
+"Sugar Pie DeSanto|Soulful Dress|1964|TVap-SkdMMs|Sugar Pie DeSanto|S13362|Rhythm & Blues;R&B|",
 "Split Enz|Six Months in a Leaky Boat|1982|ar7DgREshAk|Split Enz|S8537|Art Pop;Pop Rock;Pop;Rock|Six Months in a Leaky Boat",
 "Fat Joe & Remy Ma feat. French Montana and Infared|All the Way Up (Remix feat. Jay-Z)|2016|2ODny2oztGY|Fat Joe|S16082|East Coast Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|All the Way Up (Fat Joe and Remy Ma song)",
 "Iron Maiden|Rime of the Ancient Mariner|1984|2AmrIydnXIs|Iron Maiden|S15551|Heavy Metal;Metal;Rock|",
