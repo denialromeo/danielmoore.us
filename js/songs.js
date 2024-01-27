@@ -10625,7 +10625,7 @@ const songs = [
 "LCD Soundsystem|How Do You Sleep?|2017|E55hWJFzaC8|LCD Soundsystem|S16430|Coldwave;New Wave;Post-Punk;Rock|",
 "Death Cab for Cutie|The Sound of Settling|2003|Pphrk6wE5aw|Death Cab for Cutie|S5997|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
 "Prince & The New Power Generation|Money Don't Matter 2 Night|1992|AmGVAu9lk6I|Prince (musician)|S11949|Contemporary R&B;Pop Rock;Pop Soul;Pop;R&B;Rock;Soul|Money Don't Matter 2 Night",
-"Clinic|Monkey on Your Back|1998|-gSBhiSQeHg|Clinic (band)|S5834|Indie Rock;Post-Punk;Alternative Rock;Rock|Everybody's Got Something to Hide Except Me and My Monkey",
+"Clinic|Monkey on Your Back|1998|tEj0xhFSDLs|Clinic (band)|S5834|Indie Rock;Post-Punk;Alternative Rock;Rock|Everybody's Got Something to Hide Except Me and My Monkey",
 "The Nails|88 Lines About 44 Women|1982|jeymW6GTDeY|The Nails|S3653|Minimal Wave;New Wave;Electronic;Rock|88 Lines About 44 Women",
 "The Kinks/Dave Davies|Death of a Clown|1967|EcfJ66oSFnc|Dave Davies|S13307|Folk Rock;Pop Rock;Pop;Rock|Death of a Clown",
 "Nicolas Jaar|Fight|2015|JM6lRdPO7So|Nicolas Jaar|S9824|IDM;Electronic|",
