@@ -1288,7 +1288,7 @@ const songs = [
 "Hank Williams|Cold, Cold Heart|1951|Wn2e4Dhod7M?start=29|Hank Williams|S1593|Honky Tonk;Country|Cold, Cold Heart",
 "R.E.M.|Fall on Me|1986|lf6vCjtaV1k|R.E.M.|S383|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Fall on Me (R.E.M. song)",
 "R.E.M.|Man on the Moon|1992|dLxpNiF0YKs|R.E.M.|S165|Alternative Rock;Pop Rock;Pop;Rock|Man on the Moon (song)",
-"The Rascals|Groovin'|1967|falI0baGhBQ|The Rascals|S944|Blue Eyed Soul;Pop Rock;Sunshine Pop;Pop;Rock|Groovin'",
+"The Rascals|Groovin'|1967|z-oZoB715iM|The Rascals|S944|Blue Eyed Soul;Pop Rock;Sunshine Pop;Pop;Rock|Groovin'",
 "The Horrors|Sea Within a Sea|2009|v7WAHnZPIX0|The Horrors|S4827|Neo-Psychedelia;Post-Punk;Psychedelic Rock;Rock|Sea Within a Sea",
 "Cat Power|The Greatest|2006|0KtrQ5nWl7w|Cat Power|S4016|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|The Greatest (Cat Power album)",
 "Pink Floyd|Arnold Layne|1967|5neI304MOug|Pink Floyd|S1691|Psychedelic Pop;Psychedelic Rock;Pop;Rock|Arnold Layne",
