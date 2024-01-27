@@ -502,7 +502,7 @@ const classical = [
 "Johannes Brahms|Clarinet Sonatas|1894|V39p4Fbgz_A|Johannes Brahms|Clarinet Sonatas (Brahms)",
 "Richard Strauss|Till Eulenspiegels lustige Streiche|1895|vXFYfr1K_NU|Richard Strauss|Till Eulenspiegel's Merry Pranks",
 "Antonin Dvorak|Cello Concerto in B minor|1895|190faUQ7xJg|Antonín Dvořák|Cello Concerto (Dvořák)",
-"Serge Rachmaninoff|Symphony No. 1|1895|2ey-Ecr_3ro|Sergei Rachmaninoff|Symphony No. 1 (Rachmaninoff)",
+"Serge Rachmaninoff|Symphony No. 1|1895|Zr-ifrS5Qq4|Sergei Rachmaninoff|Symphony No. 1 (Rachmaninoff)",
 "Gustave Charpentier|Louise|1896|vsaEh8QtBq4|Gustave Charpentier|Louise (opera)",
 "Umberto Giordano|Andrea Chénier|1896|QuO1iioMDnw|Umberto Giordano|Andrea Chénier",
 "Anton Bruckner|Symphony No. 9|1896|swULVZ5zLkM|Anton Bruckner|Symphony No. 9 (Bruckner)",
