@@ -320,7 +320,7 @@ const classical = [
 "Franz Liszt|Hungarian Rhapsodies|1848-1885|OLAK5uy_lUPAFJF39Ltb_VMYFXxa5CEvIBFGQ4Bok|Franz Liszt|Hungarian Rhapsodies",
 "Richard Wagner|Lohengrin|1848|zyodILZEQFg|Richard Wagner|",
 "Robert Schumann|Concertstück for Four Horns|1849|mpfJ2ghmAsI|Robert Schumann|",
-"Robert Schumann|Fantasiestück, Op. 73|1849|28kD_f1UZdU|Robert Schumann|",
+"Robert Schumann|Fantasiestück, Op. 73|1849|28kD_f1UZdU|Robert Schumann|Fantasiestücke, Op. 73",
 "Otto Nicolai|The Merry Wives of Windsor|1849|S0oHhdJ__ME|Otto Nicolai|The Merry Wives of Windsor (opera)",
 "Robert Schumann|Symphony No. 3, \"Rhenish\"|1850|3lRdCGIp-rg?start=3|Robert Schumann|Symphony No. 3 (Brahms)",
 "Robert Schumann|Cello Concerto in A minor|1850|NayPFVXYo9o|Robert Schumann|Cello Concerto (Schumann)",
