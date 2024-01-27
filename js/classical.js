@@ -73,7 +73,7 @@ const classical = [
 "Antonio Vivaldi|Juditha triumphans|1716|dd_2D9Rg_Tk|Antonio Vivaldi|Juditha triumphans",
 "George Frideric Handel|Water Music|1717|EVAB2z1RPu4|George Frideric Handel|",
 "Marin Marais|Pièces de viole, quatrième livre|1717|1pTLTGIwZ2w|Marin Marais|",
-"Johann Sebastian Bach|Violin Concertos|1717-1723|OLAK5uy_mapCK75PdhcYRGrJFapYuZNy-42yjONKA|Johann Sebastian Bach|",
+"Johann Sebastian Bach|Violin Concertos|1717-1723|OLAK5uy_mapCK75PdhcYRGrJFapYuZNy-42yjONKA|Johann Sebastian Bach|Violin Concerto in A minor (Bach)",
 "Johann Sebastian Bach|Concerto for Two Violins|1730|ILKJcsET-NM?start=7|Johann Sebastian Bach|Concerto for Two Violins (Bach)",
 "Johann Sebastian Bach|Orchestral Suites|1717-1742|eNh3ppZVrSI|Johann Sebastian Bach|Orchestral suites (Bach)",
 "Johann Sebastian Bach|Six Suites for Solo Cello|1717-1723|OLAK5uy_nGCSv7-JrYyqrVHo_gR-6vCMyaGCgsxbU|Johann Sebastian Bach|Cello Suites (Bach)",
