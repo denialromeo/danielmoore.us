@@ -658,7 +658,7 @@ const classical = [
 "Richard Strauss|Ariadne auf Naxos|1916|VugbX5UgrLY|Richard Strauss|Ariadne auf Naxos",
 "Charles Ives|Symphony No. 4|1916|aMT_EGXQwyk|Charles Ives|Symphony No. 4 (Ives)",
 "Gustav Holst|The Planets|1917|HP5xhyPn58U?start=3|Gustav Holst|The Planets",
-"Lili Boulanger|Psalm 130, \"Du fond de l’abîme\"|1917|gYj3nP6l6DA|Lili Boulanger|",
+"Lili Boulanger|Psalm 130, \"Du fond de l’abîme\"|1917|kS87JdcQSfA?start=4|Lili Boulanger|",
 "Sergei Prokofiev|Violin Concerto No. 1|1917|SyFQwiAqDS4|Sergei Prokofiev|Violin Concerto No. 1 (Prokofiev)",
 "Sergei Prokofiev|Symphony No. 1|1917|CXO-hB6jNTI|Sergei Prokofiev|Symphony No. 1 (Prokofiev)",
 "Erik Satie|Parade|1917|IuZ4DYywqpw|Erik Satie|Parade (ballet)",
