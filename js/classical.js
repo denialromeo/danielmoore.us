@@ -220,7 +220,7 @@ const classical = [
 "Franz Schubert|Violin Sonata in A major|1817|to1IAyAv0iI|Franz Schubert|",
 "Gioachino Rossini|La cenerentola|1817|SeVezYX1m6M|Gioachino Rossini|La Cenerentola",
 "Ludwig van Beethoven|Hammerklavier|1818|ETjfAIHpJjY|Ludwig van Beethoven|Piano Sonata No. 29 (Beethoven)",
-"Franz Schubert|Piano Quintet in A major, \"Trout\"|1819|RMr4pDGo0KE|Franz Schubert|",
+"Franz Schubert|Trout Quintet|1819|XdaDdsreaE0?start=7|Franz Schubert|Trout Quintet",
 "Frédéric Chopin|Mazurkas|1820-1847|H5D46aHhRDM|Frédéric Chopin|Mazurkas (Chopin)",
 "Ludwig van Beethoven|Piano Sonata No. 30|1820|luiOoylLTvc?start=7|Ludwig van Beethoven|Piano Sonata No. 30 (Beethoven)",
 "Carl Maria von Weber|Der Freischütz|1821|ZdMqHNcL6xI|Carl Maria von Weber|Der Freischütz",
