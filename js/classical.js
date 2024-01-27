@@ -60,7 +60,7 @@ const classical = [
 "Henry Purcell|The Fairy Queen|1692|QAvS3AypQfI|Henry Purcell|The Fairy-Queen",
 "Henry Purcell|Come Ye Sons of Art, Away|1694|LSk_kA62duQ|Henry Purcell|Come Ye Sons of Art",
 "Antonio Caldara|Maddalena ai piedi di Cristo|1698|RjpfutXceYo|Antonio Caldara|",
-"Arcangelo Corelli|Twelve Concerti Grossi, Op. 6|1700s|UNsrdjzLrzM|Arcangelo Corelli|",
+"Arcangelo Corelli|Twelve Concerti Grossi, Op. 6|1700s|PLKq64tL0GeMEk1d_wtyasghMWuBEXVcEg|Arcangelo Corelli|Twelve concerti grossi, Op. 6 (Corelli)",
 "Antonio Vivaldi|Gloria, RV 589|1715|2eWjQOdYzMQ|Antonio Vivaldi|Gloria (Vivaldi)",
 "Johann Sebastian Bach|Preludes, Fantasias, Toccatas & Fugues|1705-1748|YqpkLWATbbA|Johann Sebastian Bach|",
 "Jean-Philippe Rameau|Pièces de clavecin|1706-1747|gkcUOht1i4c|Jean-Philippe Rameau|",
