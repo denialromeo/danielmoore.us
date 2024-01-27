@@ -936,7 +936,7 @@ const classical = [
 "Dmitri Shostakovich|Violin Sonata|1968|T_kvs_F5tKY|Dmitri Shostakovich|",
 "Karlheinz Stockhausen|Stimmung|1968|OLAK5uy_mnYfVRiw0SkRJC5wQORBIK1GqShigxNVY|Karlheinz Stockhausen|Stimmung",
 "Luciano Berio|Sinfonia|1969|V1XSmiGO3XE|Luciano Berio|Sinfonia (Berio)",
-"Dmitri Shostakovich|Symphony No. 14|1969|bAzZcKB6LO8?start=3|Dmitri Shostakovich|Symphony No. 14 (Shostakovich)",
+"Dmitri Shostakovich|Symphony No. 14|1969|bAzZcKB6LO8?start=42|Dmitri Shostakovich|Symphony No. 14 (Shostakovich)",
 "Elliott Carter|Concerto for Orchestra|1969|eV0bLIMUvWs|Elliott Carter|Concerto for Orchestra",
 "Peter Maxwell Davies|Eight Songs for a Mad King|1969|KgCstNqsu8Y|Peter Maxwell Davies|Eight Songs for a Mad King",
 "Henri Dutilleux|Tout un monde lointain…|1970|O2qmECLxnCY|Henri Dutilleux|Tout un monde lointain...",
