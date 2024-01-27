@@ -847,7 +847,7 @@ const songs = [
 "Nicki Minaj|Super Bass|2011|4JipHEz53sU|Nicki Minaj|S4979|Dance-Pop;Pop Rap;Dance;Hip Hop;Pop|Super Bass",
 "Queen|We Will Rock You|1977|-tJYN-eG1zk?start=5|Queen (band)|S649|Glam Rock;Hard Rock;Pop Rock;Pop;Rock|We Will Rock You",
 "Taylor Swift|Blank Space|2014|e-ORhEE9VVg|Taylor Swift|S9585|Electropop;Electronic;Pop|Blank Space",
-"Barrett Strong|Money (That's What I Want)|1959|t5KU34DrrPI|Barrett Strong|S1149|Rhythm & Blues;Soul;R&B|Money (That's What I Want)",
+"Barrett Strong|Money (That's What I Want)|1959|DvORle6h5r8|Barrett Strong|S1149|Rhythm & Blues;Soul;R&B|Money (That's What I Want)",
 "Billy Joel|Piano Man|1973|gxEPV4kolz0|Billy Joel|S1759|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Piano Man (song)",
 "Run-D.M.C.|It's Like That|1983|_hN1SKVx31s|Run-DMC|S468|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|It's Like That (Run-D.M.C. song)",
 "The Ventures|Walk - Don't Run|1960|owq7hgzna3E|The Ventures|S1152|Surf Rock;Rock;Surf Music|",
