@@ -108,7 +108,7 @@ const classical = [
 "Johann Sebastian Bach|The Well-Tempered Clavier|1740-1742|PL3U0S8lpDeK7dqgWS6aoSMe-TaeczQnuI|Johann Sebastian Bach|The Well-Tempered Clavier",
 "Domenico Scarlatti|Keyboard Sonatas|1740s|4yBQlZ06G40|Domenico Scarlatti|",
 "Johann Sebastian Bach|Goldberg Variations|1741|15ezpwCHtJs|Johann Sebastian Bach|Goldberg Variations",
-"George Frideric Handel|Messiah|1742|JH3T6YwwU9s|George Frideric Handel|",
+"George Frideric Handel|Messiah|1742|JH3T6YwwU9s|George Frideric Handel|Messiah (Handel)",
 "Carl Philipp Emanuel Bach|Keyboard Sonatas|1742-1744|B1vzh4lledU|Carl Philipp Emanuel Bach|",
 "Johann Sebastian Bach|The Musical Offering|1747|yhMAq2PhRaQ|Johann Sebastian Bach|The Musical Offering",
 "George Frideric Handel|Judas Maccabaeus|1747|dzuR-6S8pt8|George Frideric Handel|Judas Maccabaeus (Handel)",
