@@ -6044,7 +6044,7 @@ const songs = [
 "The Prisonaires|Just Walkin' in the Rain|1953|tTuAIJBpAT8|The Prisonaires|S4068|Doo-Wop;Descriptor;R&B;Vocal Group|Just Walkin' in the Rain",
 "Rihanna|Diamonds|2012|lWA2pjMjpBs|Rihanna|S12069|Contemporary R&B;Pop;R&B|Diamonds (Rihanna song)",
 "Jake Bugg|Lightning Bolt|2012|xCiQXsvPr1M|Jake Bugg|S11125|Folk Rock;Singer/Songwriter;Rock|Lightning Bolt (song)",
-"Elvis Presley|Tomorrow Is a Long Time|1966|0dRNZZuuR8I|Elvis Presley|S10720|Pop Rock;Pop;Rock|",
+"Elvis Presley|Tomorrow Is a Long Time|1966|j7GCw5v3HI8|Elvis Presley|S10720|Pop Rock;Pop;Rock|Tomorrow Is a Long Time",
 "Clarence \"Frogman\" Henry|But I Do|1961|1A9jRa7uwJc|Clarence \"Frogman\" Henry|S3070|Pop|",
 "Oasis|The Importance of Being Idle|2005|jySfU10IQu4|Oasis (band)|S7784|Britpop;Alternative Rock;Pop;Pop Rock;Rock|The Importance of Being Idle (song)",
 "ABBA|Money, Money, Money|1976|ETxmCCsMoD0|ABBA|S2879|Europop;Pop|Money, Money, Money",
