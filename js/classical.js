@@ -669,7 +669,7 @@ const classical = [
 "Leos Janacek|Taras Bulba|1918|VOG-YDbe3JA|Leoš Janáček|Taras Bulba (rhapsody)",
 "Giacomo Puccini|Gianni Schicchi|1918|GcH-2uHqLBs?start=182|Giacomo Puccini|Gianni Schicchi",
 "Igor Stravinsky|The Soldier’s Tale|1918|OLAK5uy_kDYt5a9OPWWeeGRTpWuFMmrBMHjfunS_E|Igor Stravinsky|L'Histoire du soldat",
-"Arnold Bax|Tintagel|1919|ixF5f2cqIKo|Arnold Bax|",
+"Arnold Bax|Tintagel|1919|vZmRljEyIOY?start=25|Arnold Bax|Tintagel (Bax)",
 "Manuel de Falla|The Three-Cornered Hat|1919|Al68zeQQHlg|Manuel de Falla|The Three-Cornered Hat",
 "Edward Elgar|Cello Concerto|1919|lNVe_1Eb5dw|Edward Elgar|Cello Concerto (Elgar)",
 "Darius Milhaud|Le boeuf sur le toit|1919|ExriOKRjNWI|Darius Milhaud|Le Bœuf sur le toit",
