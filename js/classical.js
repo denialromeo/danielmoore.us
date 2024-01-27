@@ -910,7 +910,7 @@ const classical = [
 "Dmitri Shostakovich|Symphony No. 11, \"The Year 1905\"|1957|RGyQkm0fFnY|Dmitri Shostakovich|Symphony No. 11 (Shostakovich)",
 "Michael Tippett|Symphony No. 2|1957|EPHCTbd5a_Y|Michael Tippett|Symphony No. 2 (Tippett)",
 "Olivier Messiaen|Catalogue d’oiseaux|1958|G6Izpdkjrhk|Olivier Messiaen|Catalogue d'oiseaux",
-"Luciano Berio|Sequenzas|1958-2002|ZfEM3iiPSPo|Luciano Berio|Sequenza",
+"Luciano Berio|Sequenzas|1958-2002|P7myJxdhf9Y?start=14|Luciano Berio|Sequenza",
 "Hanns Eisler|Deutsche Sinfonie|1959|jgW_F3hT34Q|Hanns Eisler|",
 "Francis Poulenc|La voix humaine|1959|M2V85r8S_B4|Francis Poulenc|La voix humaine",
 "Dmitri Shostakovich|Cello Concerto No. 1|1959|h23WjKXDe4w|Dmitri Shostakovich|Cello Concerto No. 1 (Shostakovich)",
