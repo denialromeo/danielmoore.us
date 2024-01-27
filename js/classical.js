@@ -291,7 +291,7 @@ const classical = [
 "Felix Mendelssohn|Piano Trios nos. 1 & 2|1839-1845|Bu3AI96hBk8|Felix Mendelssohn|Piano Trio No. 1 (Mendelssohn)",
 "Frédéric Chopin|Piano Sonata No. 2|1839|KUQX-eAOWw0?start=7|Frédéric Chopin|Piano Sonata No. 2 (Chopin)",
 "Franz Liszt|Paraphrases & Transcriptions|1840|Y8MGa0MOt3c|Franz Liszt|",
-"Robert Schumann|Dichterliebe|1840|ssXOoJAJcMc|Robert Schumann|Dichterliebe",
+"Robert Schumann|Dichterliebe|1840|bZvsTlk85Xg|Robert Schumann|Dichterliebe",
 "Robert Schumann|Frauenliebe und -leben|1840|eVkJOs8vdRM|Robert Schumann|",
 "Robert Schumann|Liederkreis, Op. 24|1840|3DCiOA2vpnQ|Robert Schumann|Liederkreis, Op. 24 (Schumann)",
 "Robert Schumann|Liederkreis, Op. 39|1840|X0pFd-UQ99c|Robert Schumann|Liederkreis, Op. 39 (Schumann)",
