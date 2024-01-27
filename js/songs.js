@@ -6149,7 +6149,7 @@ const songs = [
 "Ramones|Beat on the Brat|1976|d9EhPunI6xg|Ramones|S12020|Punk Rock;Rock|",
 "Sonic Youth|Incinerate|2006|rP3ovD8ZSS4|Sonic Youth|S4030|Indie Rock;Alternative Rock;Rock|",
 "Arrested Development|People Everyday|1992|cGusP7aCCYc|Arrested Development (group)|S160|Conscious Hip Hop;Political Hip Hop;Pop Rap;Southern Hip Hop;Hip Hop|People Everyday",
-"Pérez Prado|Cherry Pink and Apple Blossom White|1955|zj64NlRnpDY|Pérez Prado|S9320|Mambo;Cuban Music;Hispanic Music;Latin American Music;Regional Music|",
+"Pérez Prado|Cherry Pink and Apple Blossom White|1955|ggSDeyPu_e4|Pérez Prado|S9320|Mambo;Cuban Music;Hispanic Music;Latin American Music;Regional Music|",
 "Fugazi|Merchandise|1990|-jidupajVTM|Fugazi|S4582|Post-Hardcore;Punk Rock;Rock|",
 "Black|Wonderful Life|1986|VNNTKZ4hEyw|Black (singer)|S5478|Sophisti-Pop;Pop|Wonderful Life (Black song)",
 "Major Lance|The Monkey Time|1963|V9jdPrME7Mw|Major Lance|S3550|Chicago Soul;R&B;Soul|The Monkey Time",
