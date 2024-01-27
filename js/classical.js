@@ -518,7 +518,7 @@ const classical = [
 "Richard Strauss|Ein Heldenleben|1898|Us1jfC7bMpA?start=3|Richard Strauss|Ein Heldenleben",
 "Edward Elgar|Sea Pictures|1899|JlOU5St8Xc4?start=39|Edward Elgar|Sea Pictures",
 "Edward Elgar|Enigma Variations|1899|vLNLvcBmoqo|Edward Elgar|Enigma Variations",
-"Alexander Glazunov|The Seasons|1899|KLFX1ZWKemk|Alexander Glazunov|",
+"Alexander Glazunov|The Seasons|1899|Pxf-urQe_AQ|Alexander Glazunov|The Seasons (ballet)",
 "Arnold Schoenberg|Verklärte Nacht|1899|5h5Xc-rUef4|Arnold Schoenberg|Verklärte Nacht",
 "Louis Vierne|Organ Symphonies|1899-1930|ilWwdPvEUgI|Louis Vierne|",
 "Jean Sibelius|Symphony No. 1|1899|dCIw_4oJ4Gg|Jean Sibelius|Symphony No. 1 (Sibelius)",
