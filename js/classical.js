@@ -869,7 +869,7 @@ const classical = [
 "Roberto Gerhard|The Duenna|1947|Fd5jzafBk5s|Robert Gerhard|The Duenna (opera)",
 "John Cage|Sonatas and Interludes|1948|TJhv_k4xkMI|John Cage|",
 "Aaron Copland|Clarinet Concerto|1948|9GnJBLwOjFo|Aaron Copland|Clarinet Concerto (Copland)",
-"Conlon Nancarrow|Player Piano Studies|1948-1993|f2gVhBxwRqg|Conlon Nancarrow|",
+"Conlon Nancarrow|Player Piano Studies|1948-1993|PLC82C02554EEEB986|Conlon Nancarrow|",
 "Olivier Messiaen|Turangalîla Symphony|1948|eCO7le_6LzU?start=3|Olivier Messiaen|Turangalîla-Symphonie",
 "Dmitri Shostakovich|From Jewish Folk Poetry|1948|Vgt_Xmoj_60|Dmitri Shostakovich|From Jewish Folk Poetry",
 "Dmitri Shostakovich|Violin Concerto No. 1|1948|SXDk1CoIRuY|Dmitri Shostakovich|Violin Concerto No. 1 (Shostakovich)",
