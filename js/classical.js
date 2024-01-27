@@ -793,7 +793,7 @@ const classical = [
 "Benjamin Britten|Variations on a Theme of Frank Bridge|1937|_TkHXHH0w0Q|Benjamin Britten|Variations on a Theme of Frank Bridge",
 "Dmitri Shostakovich|Symphony No. 5|1937|cg0M4LzEITQ?start=3|Dmitri Shostakovich|Symphony No. 5 (Shostakovich)",
 "Richard Strauss|Daphne|1937|OwQ6wmcYGiY|Richard Strauss|Daphne (opera)",
-"Dag Wiren|Serenade for Strings|1937|1bKlWxFSpTI|Dag Wirén|",
+"Dag Wiren|Serenade for Strings|1937|z4jZ4fIjSWU?start=3|Dag Wirén|",
 "Francis Poulenc|Organ Concerto|1938|HsFsBNAmCd0?start=3|Francis Poulenc|",
 "Bela Bartok|Violin Concerto No. 2|1938|KbAaM9tIYhs|Béla Bartók|",
 "Herbert Howells|Hymnus Paradisi|1938|l4Tlik9vfJ0?start=42|Herbert Howells|Hymnus Paradisi",
