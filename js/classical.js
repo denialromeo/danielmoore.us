@@ -915,7 +915,7 @@ const classical = [
 "Francis Poulenc|La voix humaine|1959|M2V85r8S_B4|Francis Poulenc|La voix humaine",
 "Dmitri Shostakovich|Cello Concerto No. 1|1959|h23WjKXDe4w|Dmitri Shostakovich|Cello Concerto No. 1 (Shostakovich)",
 "Benjamin Britten|A Midsummer Night’s Dream|1960|PLG4v5n-7yNWtZxivGu8kvxnuOs_EvOwsW|Benjamin Britten|A Midsummer Night's Dream (opera)",
-"Dmitri Shostakovich|String Quartet No. 8|1960|qR72iqbEbpw?start=15|Dmitri Shostakovich|String Quartet No. 8 (Shostakovich)",
+"Dmitri Shostakovich|String Quartet No. 8|1960|lFHmQQ6NqbY?start=484|Dmitri Shostakovich|String Quartet No. 8 (Shostakovich)",
 "Krzysztof Penderecki|Threnody to the Victims of Hiroshima|1960|Dp3BlFZWJNA|Krzysztof Penderecki|Threnody to the Victims of Hiroshima",
 "Karlheinz Stockhausen|Kontakte|1960|nbdmzSeFy_Y|Karlheinz Stockhausen|Kontakte",
 "Bernd Alois Zimmermann|Die Soldaten|1960-1964|dTXLxNIEcJ0|Bernd Alois Zimmermann|Die Soldaten",
