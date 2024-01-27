@@ -390,7 +390,7 @@ const classical = [
 "Georges Bizet|Carmen|1874|u_VkfIthWHo|Georges Bizet|Carmen",
 "Johann Strauss II|Die Fledermaus|1874|PLKq64tL0GeMF3BWvlZH_rL02bR3HQDoE7|Johann Strauss II|Die Fledermaus",
 "Giuseppe Verdi|Requiem|1874|Nlq9lJRElBk?start=3|Giuseppe Verdi|Requiem (Verdi)",
-"Anton Bruckner|Symphony No. 4, \"Romantic\"|1874-1888|o0g82i784bw|Anton Bruckner|Symphony No. 4 (Bruckner)",
+"Anton Bruckner|Symphony No. 4, \"Romantic\"|1874-1888|o0g82i784bw?start=68|Anton Bruckner|Symphony No. 4 (Bruckner)",
 "Modest Mussorgsky|Pictures at an Exhibition|1874-1922|kkC3chi_ysw|Modest Mussorgsky|Pictures at an Exhibition",
 "Richard Wagner|Der Ring des Nibelungen|1874|1PBhlPeTJ_g?start=713|Richard Wagner|Der Ring des Nibelungen",
 "Hugo Wolf|Lieder|1875-1897|d1uAcRPNSto|Hugo Wolf|",
