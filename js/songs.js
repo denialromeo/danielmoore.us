@@ -8636,7 +8636,7 @@ const songs = [
 "The Who|Young Man Blues|1970|GWRmsoBXAUw|The Who|S12592|Hard Rock;Rock|Young Man Blues",
 "Cocteau Twins|Cherry-Coloured Funk|1990|PbbUeLkZt74|Cocteau Twins|S3289|Dream Pop;Alternative Rock;Rock|",
 "Los Fabulosos Cadillacs|Mal bicho|1995|P_6V-JTGn_M|Los Fabulosos Cadillacs|S11472|Latin Alternative;Hispanic Music;Latin American Music;Regional Music|Matador (Los Fabulosos Cadillacs song)",
-"The Dixie Hummingbirds|Amazing Graze|1946|_l_GTxBQuUs|The Dixie Hummingbirds|S9205|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music|",
+"The Dixie Hummingbirds|Amazing Grace|1946|_l_GTxBQuUs|The Dixie Hummingbirds|S9205|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music|",
 "Audioslave|Like a Stone|2002|7QU1nvuxaMA|Audioslave|S5272|Alternative Rock;Rock|Like a Stone",
 "Status Quo|Caroline|1973|4TJfEA7C3C4|Status Quo (band)|S12295|Boogie Rock;Blues Rock;Rock|Caroline (Status Quo song)",
 "Claude Nougaro|Tu verras|1978|rK3r-AqlNjU|Claude Nougaro|S10429|Chanson;Regional Music|",
