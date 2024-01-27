@@ -836,7 +836,7 @@ const classical = [
 "Ralph Vaughan Williams|Symphony No. 5|1943|LsQGFlcqUmA?start=3|Ralph Vaughan Williams|Symphony No. 5 (Vaughan Williams)",
 "Bela Bartok|Concerto for Orchestra|1943-1945|pG26BMDVR9E?start=3|Béla Bartók|Concerto for Orchestra (Bartók)",
 "Paul Hindemith|Symphonic Metamorphosis of Themes by Carl Maria von Weber|1943|2A8tUpPRyR4|Paul Hindemith|Symphonic Metamorphosis of Themes by Carl Maria von Weber",
-"Dmitri Shostakovich|Symphony No. 8|1943|9jFesZ-jxRw|Dmitri Shostakovich|Symphony No. 8 (Shostakovich)",
+"Dmitri Shostakovich|Symphony No. 8|1943|9CaXNxh8msw|Dmitri Shostakovich|Symphony No. 8 (Shostakovich)",
 "Aaron Copland|Appalachian Spring|1944|Q4Qt0AIRK-0|Aaron Copland|Appalachian Spring",
 "Sergei Prokofiev|Cinderella|1944|YYmmCbwNWPs|Sergei Prokofiev|Cinderella (Prokofiev)",
 "Sergei Prokofiev|Symphony No. 5|1944|EaiXIdncA7M|Sergei Prokofiev|Symphony No. 5 (Prokofiev)",
