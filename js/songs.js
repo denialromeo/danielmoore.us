@@ -6067,7 +6067,7 @@ const songs = [
 "The Beach Boys|You Still Believe in Me|1966|lSoM2sJ4N1M|The Beach Boys|S9137|Baroque Pop;Pop|You Still Believe in Me",
 "The Stone Roses|Waterfall|1989|7NrLBlw9WZE|The Stone Roses|S8593|Baggy / Madchester;Jangle Pop;Neo-Psychedelia;Alternative Rock;Pop;Pop Rock;Psychedelic Rock;Rock|",
 "Supertramp|Dreamer|1974|7fdAFmtq-o8|Supertramp|S8643|Progressive Pop;Pop|Dreamer (Supertramp song)",
-"Elvis Presley|Kentucky Rain|1970|YU2U3QAUGak|Elvis Presley|S3723|Blue Eyed Soul;Pop Rock;Pop;Rock|Kentucky Rain",
+"Elvis Presley|Kentucky Rain|1970|LwXu3EWPGdg|Elvis Presley|S3723|Blue Eyed Soul;Pop Rock;Pop;Rock|Kentucky Rain",
 "Gustavo Cerati|Crimen|2006|uLIs0j2WnlM|Gustavo Cerati|S10996|Alternative Rock;Pop Rock;Pop;Rock|",
 "Pete Townshend|Let My Love Open the Door|1980|v-ErHX4IEIA|Pete Townshend|S7942|Pop Rock;Pop;Rock|Let My Love Open the Door",
 "Beenie Man|Who Am I|1998|WI-xQ7IksUc|Beenie Man|S2158|Ragga;Caribbean Music;Dancehall;Jamaican Music;Regional Music|",
