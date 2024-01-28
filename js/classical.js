@@ -509,7 +509,7 @@ const classical = [
 "Ernest Chausson|Poème|1896|5fRUy4ELg-E|Ernest Chausson|Poème (Chausson)",
 "Jean Sibelius|Lemminkäinen Suite|1896-1939|pvVgU61cIbs|Jean Sibelius|",
 "Giacomo Puccini|La bohème|1896|H_1OtRt0_ho|Giacomo Puccini|La bohème",
-"Gustav Mahler|Symphony No. 3|1896|Xplx64LVENg|Gustav Mahler|Symphony No. 3 (Mahler)",
+"Gustav Mahler|Symphony No. 3|1896|oSBfEPAnDsY?start=3|Gustav Mahler|Symphony No. 3 (Mahler)",
 "Camille Saint-Saens|Piano Concerto No. 5, \"Egyptian\"|1896|OVZcDkJ3-bQ|Camille Saint-Saëns|Piano Concerto No. 5 (Saint-Saëns)",
 "Richard Strauss|Also sprach Zarathustra|1896|GfwAPg4rQQE?start=3|Richard Strauss|Also sprach Zarathustra",
 "Hugo Wolf|Italienisches Liederbuch|1896|FwjVBdoVaoY|Hugo Wolf|Italienisches Liederbuch (Wolf)",
