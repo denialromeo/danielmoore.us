@@ -9051,7 +9051,7 @@ const songs = [
 "Dick Annegarn|Coutances|1975|je3MYlpuBAc|Dick Annegarn|S13441|Chanson;Regional Music|",
 "Sub Sub|Ain't No Love|1993|pRguEi3wufQ|Sub Sub|S2063|Funky House;Dance;Electronic;Electronic Dance Music;House|",
 "The Fabulous Thunderbirds|Tuff Enuff|1986|EcXT1clXc04|The Fabulous Thunderbirds|S6331|Boogie Rock;Southern Rock;Blues Rock;Rock|Tuff Enuff (song)",
-"Japan|Gentlemen Take Polaroids|1980|BXjp3xWntq4|Japan (band)|S6869|Art Pop;New Wave;Pop;Rock|",
+"Japan|Gentlemen Take Polaroids|1980|wEdX0veLihM|Japan (band)|S6869|Art Pop;New Wave;Pop;Rock|",
 "Junior Boys|Teach Me How to Fight|2004|8PhSpJppLu4|Junior Boys|S4687|Glitch Pop;Synthpop;Electronic;Pop|Last Exit (Junior Boys album)",
 "Das Racist|Michael Jackson|2011|nc__3nsfxwA|Das Racist|S5948|Abstract Hip Hop;Experimental Hip Hop;Hip Hop|",
 "Roxy Music|Jealous Guy|1981|hRzGzRqNj58|Roxy Music|S8256|Adult Contemporary;Soft Rock;Pop;Pop Rock;Rock|Jealous Guy",
