@@ -576,7 +576,7 @@ const classical = [
 "Maurice Ravel|Gaspard de la nuit|1908|f39a8rhk8mI|Maurice Ravel|Gaspard de la nuit",
 "Isaac Albeniz|Iberia|1908|PLyrS5_ErY3KSrO3hP38Xi573XjseSDufe|Isaac Albéniz|Iberia (Albéniz)",
 "Alexander Scriabin|The Poem of Ecstasy|1908|Ni87KKnYKHU?start=3|Alexander Scriabin|The Poem of Ecstasy",
-"Maurice Ravel|Rapsodie espagnole|1908|tvwx7IeZky8|Maurice Ravel|Rapsodie espagnole",
+"Maurice Ravel|Rapsodie espagnole|1908|bbIAPqQcWkQ?start=3|Maurice Ravel|Rapsodie espagnole",
 "Arnold Schoenberg|String Quartet No. 2|1908|C-nFJ0SGim4|Arnold Schoenberg|String Quartets (Schoenberg)",
 "Gustav Holst|Savitri|1908|5meFq1hxfDI|Gustav Holst|Sāvitri (opera)",
 "Anton Webern|Passacaglia|1908|u37qhac1FUI|Anton Webern|Passacaglia (Webern)",
