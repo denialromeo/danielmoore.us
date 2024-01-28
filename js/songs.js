@@ -7709,7 +7709,7 @@ const songs = [
 "Billy Ward & The Dominoes|The Bells|1952|Yn-6xxyreD4|Billy Ward and his Dominoes|S1328|Blues;Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|",
 "Bourvil|Ballade irlandaise (un oranger)|1958|UF1WNxsjZcM|Bourvil|S10280|Chanson;Regional Music|",
 "The Hollies|Carrie-Anne|1967|sgA4-bLcoN8|The Hollies|S4105|Sunshine Pop;Pop|Carrie Anne",
-"The Doors|Touch Me|1968|8lVqEchxIxw|The Doors|S10642|Pop Rock;Psychedelic Pop;Psychedelic Rock;Pop;Rock|Touch Me (The Doors song)",
+"The Doors|Touch Me|1968|RrDsSPtZOu4|The Doors|S10642|Pop Rock;Psychedelic Pop;Psychedelic Rock;Pop;Rock|Touch Me (The Doors song)",
 "Miike Snow|Animal|2009|niKT-kJfUz4|Miike Snow|S4817|Indietronica;Synthpop;Electronic;Pop|Animal (Miike Snow song)",
 "Eddie and the Hot Rods|Teenage Depression|1976|x3srDTWS2L4|Eddie and the Hot Rods|S6194|Pub Rock;Punk Rock;Rock|",
 "The Black Keys|Everlasting Light|2010|oE2U01cUHE0|The Black Keys|S16945|Blues Rock;Neo-Soul;R&B;Rock;Soul|",
