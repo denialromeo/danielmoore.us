@@ -2885,7 +2885,7 @@ const songs = [
 "Tone-Loc|Wild Thing|1988|387ZDGSKVSg|Tone Loc|S311|Pop Rap;West Coast Hip Hop;Hip Hop|",
 "Can|Halleluhwah|1971|2dZbAFmnRVA|Can (band)|S5701|Krautrock;Experimental Rock;Progressive Rock;Rock|Halleluhwah",
 "Coldplay|In My Place|2002|gnIZ7RMuLpU|Coldplay|S1521|Pop Rock;Pop;Rock|In My Place",
-"Ben Selvin|Happy Days Are Here Again|1930|QeTWL2x21Is|Ben Selvin|S4059|Traditional Pop;Pop|Happy Days Are Here Again",
+"Ben Selvin|Happy Days Are Here Again|1930|tRS-BMwgTOo|Ben Selvin|S4059|Traditional Pop;Pop|Happy Days Are Here Again",
 "Spoon|I Turn My Camera On|2005|OUpP02enWgU|Spoon (band)|S3051|Dance-Punk;Indie Rock;Alternative Rock;Post-Punk;Rock|I Turn My Camera On",
 "Crystal Waters|Gypsy Woman (She's Homeless)|1991|_KztNIg4cvE|Crystal Waters|S194|Garage House;Dance;Electronic;Electronic Dance Music;House|Gypsy Woman (Crystal Waters song)",
 "Black Box|Ride On Time|1989|M0quXl_od3g|Black Box (band)|S266|Euro House;Italo House;Dance;Electronic;Electronic Dance Music;House|Ride on Time",
