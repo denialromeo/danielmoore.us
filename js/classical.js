@@ -129,7 +129,7 @@ const classical = [
 "Luigi Boccherini|String Quintets|1772-1803|mTL3ItzPIec|Luigi Boccherini|String Quintet in E major, Op. 11, No. 5 (Boccherini)",
 "Joseph Haydn|Symphony No. 45, \"Farewell\"|1772|OpD9ofCm6Ak|Joseph Haydn|Symphony No. 45 (Haydn)",
 "Wolfgang Amadeus Mozart|String Quintets|1773-1791|PLFpllkY6JbXzppCDMRmodtZ0GFPtQnUQG|Wolfgang Amadeus Mozart|String Quintet No. 1 (Mozart)",
-"Wolfgang Amadeus Mozart|Piano Sonatas|1775-1789|Wcgd1oCbW4g|Wolfgang Amadeus Mozart|Sonata in C major for piano four-hands, K. 521",
+"Wolfgang Amadeus Mozart|Piano Sonatas|1775-1789|PLEhQ5Ooc2lLqc6wq7sgzTHOour-kPcUju|Wolfgang Amadeus Mozart|Sonata in C major for piano four-hands, K. 521",
 "Wolfgang Amadeus Mozart|Violin Concerto No. 5, \"Turkish\"|1775|5f3gO2GWIew|Wolfgang Amadeus Mozart|Violin Concerto No. 5 (Mozart)",
 "Wolfgang Amadeus Mozart|Piano Concerto No. 9, \"Jeunehomme\"|1777|plfty7jbM_g|Wolfgang Amadeus Mozart|Piano Concerto No. 9 (Mozart)",
 "Christoph Willibald Gluck|Iphigénie en Tauride|1779|ROzh7i_RSyc|Christoph Willibald Gluck|Iphigénie en Tauride",
