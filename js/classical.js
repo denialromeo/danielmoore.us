@@ -758,7 +758,7 @@ const classical = [
 "Bela Bartok|Piano Concerto No. 2|1931|jOHl_X_OoIk|Béla Bartók|Piano Concerto No. 2 (Bartók)",
 "Edgard Varese|Ionisation|1931|wClwaBuFOJA|Edgard Varèse|",
 "Francis Poulenc|Concerto for Two Pianos|1932|2-VSj7bSsfo|Francis Poulenc|Concerto for Two Pianos and Orchestra (Poulenc)",
-"Francis Poulenc|Sextet|1932-1939|DPAgWKseVhg|Francis Poulenc|Sextet (Poulenc)",
+"Francis Poulenc|Sextet|1932-1939|CGtDGYU9Dos|Francis Poulenc|Sextet (Poulenc)",
 "Richard Strauss|Arabella|1932|C9MrIY3aAPA|Richard Strauss|Arabella",
 "Igor Stravinsky|Duo Concertant|1932|jZXRCL3_Ads|Igor Stravinsky|Duo Concertant",
 "Arnold Schoenberg|Moses und Aron|1932|5nD36ZpRyKU|Arnold Schoenberg|Moses und Aron",
