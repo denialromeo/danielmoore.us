@@ -3900,7 +3900,7 @@ const songs = [
 "Bruce Hornsby & The Range|The Way It Is|1986|cOeKidp-iWo|Bruce Hornsby|S3479|Piano Rock;Pop;Pop Rock;Rock|The Way It Is (Bruce Hornsby song)",
 "Metro Area|Miura|2002|qR-jT-uGiWM|Metro Area|S4678|Electro-Disco;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|Miura",
 "Oasis|D'You Know What I Mean|1997|GjwRIjrC4io|Oasis (band)|S13|Britpop;Neo-Psychedelia;Alternative Rock;Pop;Pop Rock;Psychedelic Rock;Rock|D'You Know What I Mean%3F",
-"Gene Pitney|(The Man Who Shot) Liberty Valance|1962|vDN4L7cAQf0|Gene Pitney|S3705|Country Pop;Country;Pop|",
+"Gene Pitney|(The Man Who Shot) Liberty Valance|1962|DZWtlgADNYA|Gene Pitney|S3705|Country Pop;Country;Pop|",
 "U2|Stay (Faraway, So Close!)|1993|QNonGeWR9fI|U2|S8879|Alternative Rock;Pop Rock;Pop;Rock|Stay (Faraway, So Close!)",
 "John Barry Orchestra|James Bond Theme|1962|ULjYEARQTrg?start=578|John Barry (composer)|S1643|Film Score;Surf Rock;Descriptor;Film Soundtrack;Rock;Soundtracks;Surf Music|James Bond Theme",
 "AC/DC|T.N.T.|1975|44XYEeD1A1U|AC/DC|S9921|Hard Rock;Rock|T.N.T. (song)",

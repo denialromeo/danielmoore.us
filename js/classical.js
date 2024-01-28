@@ -952,7 +952,7 @@ const classical = [
 "Steve Reich|Music for 18 Musicians|1976|ZXJWO2FQ16c|Steve Reich|Music for 18 Musicians",
 "Philip Glass|Einstein on the Beach|1976|OLAK5uy_lIB1Za0mJ0vRmIbL6gv9IonJ2fawvmEKI|Philip Glass|Einstein on the Beach",
 "Henryk Górecki|Symphony No. 3|1976|DoaEEVMrL-g?start=43|Henryk Górecki|Symphony No. 3 (Górecki)",
-"Gyorgy Ligeti|Le Grand Macabre|1977-1996|oUtZ5m1iKig|György Ligeti|Le Grand Macabre",
+"Gyorgy Ligeti|Le Grand Macabre|1977-1996|68cBI89ByjM?start=85|György Ligeti|Le Grand Macabre",
 "John Corigliano|Clarinet Concerto|1977|m72j7Vjv3WM|John Corigliano|Clarinet Concerto (Corigliano)",
 "Toru Takemitsu|A Flock Descends into the Pentagonal Garden|1977|4w_NPRVOjJc|Tōru Takemitsu|",
 "Arvo Pärt|Fratres|1977|7vdgZAJVnes|Arvo Pärt|",
