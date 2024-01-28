@@ -771,7 +771,7 @@ const classical = [
 "Karol Szymanowski|Violin Concerto No. 2|1933|roFFn0DL_hU|Karol Szymanowski|Violin Concerto No. 2 (Szymanowski)",
 "Edward Elgar|Symphony No. 3|1934|Tnor-Hg7Utc|Edward Elgar|Symphony No. 3 (Elgar)",
 "Dmitri Shostakovich|Cello Sonata|1934|DBYoug7MTZQ|Dmitri Shostakovich|Cello Sonata (Shostakovich)",
-"Sergei Prokofiev|Lieutenant Kijé Suite|1934|YbaY7p5ahZo|Sergei Prokofiev|Lieutenant Kijé (Prokofiev)",
+"Sergei Prokofiev|Lieutenant Kijé Suite|1934|YbaY7p5ahZo|Sergei Prokofiev|https://en.wikipedia.org/wiki/Lieutenant_Kij%C3%A9_(Prokofiev)#Suite",
 "Sergei Rachmaninoff|Rhapsody on a Theme of Paganini|1934|ppJ5uITLECE?start=4|Sergei Rachmaninoff|Rhapsody on a Theme of Paganini",
 "Paul Hindemith|Mathis der Maler Symphony|1934|znXWfmfPh8E|Paul Hindemith|Symphony: Mathis der Maler",
 "Ralph Vaughan Williams|Symphony No. 4|1934|83StWY0So4Y|Ralph Vaughan Williams|Symphony No. 4 (Vaughan Williams)",
