@@ -3879,7 +3879,7 @@ const songs = [
 "Claudine Clark|Party Lights|1962|JhYMyZlC-Hc|Claudine Clark|S1084|Girl Group;Pop|Party Lights (Claudine Clark song)",
 "Television|Little Johnny Jewel|1975|rrVVm_K_b0Q|Television (band)|S702|Art Rock;Proto-Punk;Rock|",
 "Billie Holiday|Fine and Mellow|1939|YKqxG09wlIA|Billie Holiday|S5448|Vocal Jazz;Jazz|",
-"Japan|Nightporter|1980|i6SlWg_pOew|Japan (band)|S6870|Art Pop;Pop|Nightporter",
+"Japan|Nightporter|1980|9ZfM8ZYTt0o|Japan (band)|S6870|Art Pop;Pop|Nightporter",
 "The Dismemberment Plan|The Ice of Boston|1997|bMz7a4XXx84|The Dismemberment Plan|S4525|Indie Rock;Alternative Rock;Rock|",
 "Bee Gees|You Should Be Dancing|1976|1sqE6P3XyiQ|Bee Gees|S3205|Disco;Dance|You Should Be Dancing",
 "José González|Heartbeats|2003|4-liyr-Xq3E|José González (singer)|S4653|Indie Folk;Contemporary Folk;Folk|",
