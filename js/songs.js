@@ -1710,7 +1710,7 @@ const songs = [
 "Bangles|Manic Monday|1986|SsmVgoXDq2w|The Bangles|S377|Pop Rock;Pop;Rock|Manic Monday",
 "LL Cool J|I Need Love|1987|NEUX-HYRtUA|LL Cool J|S2367|East Coast Hip Hop;Pop Rap;Hip Hop|",
 "Girls|Lust for Life|2008|SuoTjYYqe4c|Girls (band)|S4801|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|Lust for Life (Girls song)",
-"Thelma Houston|Don't Leave Me This Way|1976|rUdw7V-FC_Q|Thelma Houston|S3480|Disco;Dance|Don't Leave Me This Way",
+"Thelma Houston|Don't Leave Me This Way|1976|8sAbzZjXLy8|Thelma Houston|S3480|Disco;Dance|Don't Leave Me This Way",
 "The Stooges|No Fun|1969|HXIw1BvfEQ8|The Stooges|S8597|Garage Rock;Proto-Punk;Rock|",
 "Rush|Tom Sawyer|1981|auLBLk4ibAk|Rush (band)|S3789|Progressive Rock;Rock|Tom Sawyer (song)",
 "A Tribe Called Quest|Bonita Applebum|1990|HU_4pf8BSQw|A Tribe Called Quest|S2020|East Coast Hip Hop;Jazz Rap;Hip Hop|Bonita Applebum",
