@@ -20,7 +20,7 @@ const classical = [
 "Francisco Guerrero|Battle Mass|1582|jbK_2EwcuSQ|Francisco Guerrero (composer)|",
 "Claudio Monteverdi|Madrigals|1587-1651|PLH2tnBZzETg6hf8rDAny1Zr0nCIh8_km0|Claudio Monteverdi|Madrigal",
 "William Byrd|My Ladye Nevells Booke|1591|2PdRUGXAzoE|William Byrd|My Ladye Nevells Booke",
-"William Byrd|Masses|1592-1595|1ItRYDvuu3w|William Byrd|Mass for Four Voices",
+"William Byrd|Masses|1592-1595|PLa1rC97wRkZjqBBFTz94KhnoDFwet3zWb|William Byrd|Mass for Four Voices",
 "Carlo Gesualdo|Madrigals|1594-1611|JEoOOYA31_E|Carlo Gesualdo|Madrigal",
 "John Dowland|Lute Songs|1597-1612|PLI42ZRl64NuuxDIj8_9Va8djSY9NivVsy|John Dowland|Lute song",
 "Giovanni Gabrieli|Sacrae symphoniae|1597-1615|CBobif_00UA|Giovanni Gabrieli|",
