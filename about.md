@@ -56,10 +56,10 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Others in the late 20th were Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Ho&nbsp;Chi Minh, Ruhollah Khomeini, Zia-ul-Haq, Qian Xuesen, Bill Gates, and Norman Borlaug.</li>
     </ul>
     {%if site.url contains 'local'%}
-    <p>Some statements for the reader to ponder &ndash;</p>
+    <p>Some questions for the reader to ponder &ndash;</p>
     <ul>
-        <li>Your grandfather had two grandfathers. Can you name them? We'll all be forgotten one day.</li>
-        <li>How much do you remember from school? Were decades of education a waste of time?</li>
+        <li>Your grandfather had two grandfathers. Can you name them? Are they forgotten?</li>
+        <li>How much do you remember from school? Were decades of education worth it?</li>
         <li>Nothing prevents rent and food prices from going up to exactly what the median household can barely afford. Are you implicitly competing with others?</li>
     </ul>
     <p>Looking back a bit further (still in progress) &ndash;</p>
