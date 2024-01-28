@@ -9345,7 +9345,7 @@ const songs = [
 "The Orlons|Don't Hang Up|1962|YlIAPDY1tgk|The Orlons|S7824|Girl Group;Rhythm & Blues;Pop;R&B|Don't Hang Up (song)",
 "Bryan Ferry|A Hard Rain's A-Gonna Fall|1973|7zwBHd4kll0|Bryan Ferry|S5662|Glam Rock;Rock|A Hard Rain's a-Gonna Fall",
 "George Jones|The Window Up Above|1960|1is8Q_1si8Q|George Jones|S10916|Nashville Sound;Country;Country Pop;Pop|The Window Up Above",
-"Marie et Les Garcons|Re-Bop|1979|bsZ8OBHCAb8|Marie et les Garçons|S7428|New Wave;Pop Rock;Pop;Rock|",
+"Marie et Les Garcons|Re-Bop|1979|87PROc3AgzE|Marie et les Garçons|S7428|New Wave;Pop Rock;Pop;Rock|",
 "The Beat|Stand Down Margaret|1980|SfhxJiE38sE|The Beat (British band)|S5359|2 Tone;Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music;Ska|Stand Down Margaret",
 "Three Dog Night|Mama Told Me (Not to Come)|1970|9DZvJQ0PTEg|Three Dog Night|S8747|Pop Rock;Pop;Rock|Mama Told Me Not to Come",
 "The Crystals|He Hit Me (And It Felt Like a Kiss)|1962|f20Oz9Yr_So|The Crystals|S5919|Brill Building;Girl Group;Pop|He Hit Me (And It Felt Like a Kiss)",
