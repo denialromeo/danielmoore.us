@@ -7008,7 +7008,7 @@ const songs = [
 "Sparks|Beat the Clock|1979|JoMCip83GZ4|Sparks (band)|S8518|Electro-Disco;New Wave;Synthpop;Dance;Disco;Electronic;Electronic Dance Music;Pop;Rock|Beat the Clock (song)",
 "Jeff Buckley|Mojo Pin|1994|Svo7LZbnUVw|Jeff Buckley|S11181|Alternative Rock;Singer/Songwriter;Rock|Mojo Pin",
 "My Chemical Romance|Helena (So Long and Goodnight)|2004|UCCyoocDxBA|My Chemical Romance|S3023|Emo-Pop;Pop Punk;Alternative Rock;Emo;Punk Rock;Rock|Helena (My Chemical Romance song)",
-"Lynyrd Skynyrd|Gimme Three Steps|1973|hhnBgoAL0xw|Lynyrd Skynyrd|S11503|Boogie Rock;Southern Rock;Blues Rock;Rock|Gimme Three Steps",
+"Lynyrd Skynyrd|Gimme Three Steps|1973|CJZrXhMBG1E|Lynyrd Skynyrd|S11503|Boogie Rock;Southern Rock;Blues Rock;Rock|Gimme Three Steps",
 "Therapy?|Nowhere|1994|5Bcpj-q0Snc|Therapy%3F|S8737|Alternative Rock;Rock|Nowhere (song)",
 "Sting|Fortress Around Your Heart|1985|OiPiRKbNCWY|Sting (musician)|S9369|Pop Rock;Sophisti-Pop;Pop;Rock|",
 "Dexys Midnight Runners|Dance Stance|1979|Um-7TL-D1Qc|Dexys Midnight Runners|S6062|Blue Eyed Soul;New Wave;Pop;Rock|",
