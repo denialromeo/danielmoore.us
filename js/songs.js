@@ -10728,7 +10728,7 @@ const songs = [
 "Pet Shop Boys|Love Etc.|2009|InBiaRBUjUs|Pet Shop Boys|S4821|Dance-Pop;Synthpop;Dance;Electronic;Pop|Love Etc.",
 "Converge|Aimless Arrow|2012|CrcY9I-BbjM|Converge (band)|S5865|Metalcore;Post-Hardcore;Hardcore Punk;Metal;Punk Rock;Rock|",
 "La Costa Brava|Adoro a las pijas de mi ciudad|2004|-d2ly6H79fY|https://es.wikipedia.org/wiki/La_Costa_Brava|S7166|Indie Pop;Pop|",
-"The Everly Brothers|When Will I Be Loved|1960|VmJg7PpAqxg|The Everly Brothers|S1154|Close Harmony;Rock & Roll;American Folk Music;Country;Folk;Regional Music;Rock;Traditional Country;Traditional Folk Music|When Will I Be Loved (song)",
+"The Everly Brothers|When Will I Be Loved|1960|xOm7aE-cd1o|The Everly Brothers|S1154|Close Harmony;Rock & Roll;American Folk Music;Country;Folk;Regional Music;Rock;Traditional Country;Traditional Folk Music|When Will I Be Loved (song)",
 "Richard Thompson|I Feel So Good|1991|vdvi8cB2Pt8|Richard Thompson (musician)|S8148|Folk Rock;Singer/Songwriter;Rock|",
 "La Casa Azul|La revolución sexual|2007|juNxwa6H3lI|La Casa Azul|S7165|Indie Pop;Pop|",
 "Sam Sparro|Black and Gold|2007|eHuebHTD-lY|Sam Sparro|S4744|Electropop;Synthpop;Electronic;Pop|Black and Gold",
