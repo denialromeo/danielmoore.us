@@ -5918,7 +5918,7 @@ const songs = [
 "Johnny Mercer|Ac-cent-tchu-ate the Positive|1944|f3jdbFOidds|Johnny Mercer|S11246|Vocal Jazz;Jazz|Ac-Cent-Tchu-Ate the Positive",
 "Percy Faith|The Theme from \"A Summer Place\"|1959|tQkKCnditQY|Percy Faith|S2803|Film Score;Light Music;Descriptor;Easy Listening;Film Soundtrack;Pop;Soundtracks|Theme from A Summer Place",
 "U2|Staring at the Sun|1997|7KkYkeQqDgo|U2|S3921|Alternative Rock;Pop Rock;Pop;Rock|Staring at the Sun (U2 song)",
-"The Marvelettes|The Hunter Gets Captured by the Game|1966|DBa746RVNHA|The Marvelettes|S7451|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|The Hunter Gets Captured by the Game",
+"The Marvelettes|The Hunter Gets Captured by the Game|1966|W-vNHRExA7E|The Marvelettes|S7451|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|The Hunter Gets Captured by the Game",
 "The Smiths|Cemetry Gates|1986|D5cZ-oLVJzY|The Smiths|S2918|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Cemetry Gates",
 "The Jam|Strange Town|1979|AVJlOPDiZNI|The Jam|S582|Mod Revival;New Wave;Power Pop;Mod;Pop;Pop Rock;Rock|",
 "Tool|Sober|1993|u7lweNCCwS0|Tool (band)|S12465|Alternative Metal;Metal;Rock|Sober (Tool song)",
