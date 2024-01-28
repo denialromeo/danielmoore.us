@@ -8243,7 +8243,7 @@ const songs = [
 "Kanye West|All Falls Down|2004|8kyWDhB_QeI|Syleena Johnson|S7052|Pop Rap;Hip Hop|All Falls Down",
 "Siouxsie and the Banshees|Peek-a-Boo|1988|gGH_16SICL0|Siouxsie and the Banshees|S8432|Art Pop;New Wave;Pop;Rock|Peek-a-Boo (Siouxsie and the Banshees song)",
 "Rufus & Chaka|Do You Love What You Feel|1979|2rLjRXVFXDg|Rufus (band)|S12122|Soul;R&B|Do You Love What You Feel",
-"KC and the Sunshine Band|I'm Your Boogie Man|1976|_Ee3C2m3OXE|KC and the Sunshine Band|S13854|Disco;Funk;Dance;R&B|I'm Your Boogie Man",
+"KC and the Sunshine Band|I'm Your Boogie Man|1976|mRG0PdVzNro|KC and the Sunshine Band|S13854|Disco;Funk;Dance;R&B|I'm Your Boogie Man",
 "Count Basie|Jumpin' at the Woodside|1938|mnEVppghro4|Count Basie|S9193|Big Band;Swing;Jazz|Jumpin' at the Woodside",
 "Dominique A.|Pour la peau|2001|Le30vnYwdqU|Dominique A|S10626|French Pop;Nouvelle chanson française;Chanson;Pop;Regional Music|",
 "Cornelius Brothers & Sister Rose|Treat Her Like a Lady|1971|xJFcIvZ_X50|Cornelius Brothers & Sister Rose|S5871|Soul;R&B|",
