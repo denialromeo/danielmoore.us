@@ -581,7 +581,7 @@ const classical = [
 "Gustav Holst|Savitri|1908|5meFq1hxfDI|Gustav Holst|Sāvitri (opera)",
 "Anton Webern|Passacaglia|1908|u37qhac1FUI|Anton Webern|Passacaglia (Webern)",
 "Arnold Schoenberg|Erwartung|1908|P6PKIraXpIk|Arnold Schoenberg|Erwartung",
-"Bela Bartok|String Quartets|1909-1939|xaQvPhVvQaY|Béla Bartók|List of string quartets by Béla Bartók",
+"Bela Bartok|String Quartets|1909-1939|PLaK7FcaVcs_wzQoa9ybz7QCAPRcunZfPR|Béla Bartók|List of string quartets by Béla Bartók",
 "Gustav Mahler|Das Lied von der Erde|1909|Npy4gjZ81F0|Gustav Mahler|Das Lied von der Erde",
 "Gustav Mahler|Symphony No. 9|1909|IoNEeKJ2x44|Gustav Mahler|Symphony No. 9 (Mahler)",
 "Sergei Rachmaninoff|Piano Concerto No. 3|1909|1TJvJXyWDYw|Sergei Rachmaninoff|Piano Concerto No. 3 (Rachmaninoff)",
