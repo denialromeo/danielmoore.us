@@ -3881,7 +3881,7 @@ const songs = [
 "Billie Holiday|Fine and Mellow|1939|YKqxG09wlIA|Billie Holiday|S5448|Vocal Jazz;Jazz|",
 "Japan|Nightporter|1980|9ZfM8ZYTt0o|Japan (band)|S6870|Art Pop;Pop|Nightporter",
 "The Dismemberment Plan|The Ice of Boston|1997|bMz7a4XXx84|The Dismemberment Plan|S4525|Indie Rock;Alternative Rock;Rock|",
-"Bee Gees|You Should Be Dancing|1976|lMJ_kER5rwo|Bee Gees|S3205|Disco;Dance|You Should Be Dancing",
+"Bee Gees|You Should Be Dancing|1976|FgXTygS865M|Bee Gees|S3205|Disco;Dance|You Should Be Dancing",
 "José González|Heartbeats|2003|4-liyr-Xq3E|José González (singer)|S4653|Indie Folk;Contemporary Folk;Folk|",
 "Flipper|Sex Bomb|1981|zz--UAWoH4w|Flipper (band)|S1887|Noise Rock;Post-Punk;Rock|Album – Generic Flipper",
 "Artie Shaw|Frenesi|1940|sMOHMYl5BCs|Artie Shaw|S5246|Swing;Jazz|",
