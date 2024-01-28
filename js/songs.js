@@ -6483,7 +6483,7 @@ const songs = [
 "Hurts|Wonderful Life|2010|1TB1x67Do5U|Hurts|S4919|Sophisti-Pop;Synthpop;Electronic;Pop|Wonderful Life (Hurts song)",
 "Belle and Sebastian|Wrapped Up in Books|2003|iBU-MxydbWQ|Belle and Sebastian|S5405|Chamber Pop;Twee Pop;Baroque Pop;Indie Pop;Pop|",
 "Girls|Hellhole Ratrace|2008|lcqwfFKagH4|Girls (band)|S4800|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
-"Jelly Roll Morton|Kansas City Stomps|1929|yLYyhQx4USA|Jelly Roll Morton|S13205|Dixieland;Jazz|",
+"Jelly Roll Morton|Kansas City Stomp|1929|yLYyhQx4USA|Jelly Roll Morton|S13205|Dixieland;Jazz|Kansas City Stomp",
 "Rick James|Give It to Me Baby|1981|1dNIQVYGXbM|Rick James|S12063|Disco;Synth Funk;Dance;Funk;R&B|Give It to Me Baby",
 "Curtis Lee|Pretty Little Angel Eyes|1961|pZT__JFMUgU|Curtis Lee|S3554|Brill Building;Doo-Wop;Descriptor;Pop;R&B;Vocal Group|Pretty Little Angel Eyes",
 "The Monroe Brothers|What Would You Give in Exchange?|1936|364t7YVLj3s|Bill Monroe|S9300|Close Harmony;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
