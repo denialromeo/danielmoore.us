@@ -5947,7 +5947,7 @@ const songs = [
 "The The|The Beat(en) Generation|1989|ustXRPke9lM|The The|S8731|Folk Pop;Indie Pop;Jangle Pop;Alternative Rock;Contemporary Folk;Folk;Pop;Pop Rock;Rock|",
 "Sloan|Underwhelmed|1992|3RHf07SA3vg|Sloan (band)|S2942|Alternative Rock;Rock|Underwhelmed",
 "Dick & DeeDee|The Mountain's High|1961|LU2rjoSXI34|Dick and Dee Dee|S3330|Pop Soul;Pop;R&B;Soul|",
-"Bob Dylan|Gates of Eden|1965|BUCPvf6rGJ8|Bob Dylan|S3367|Contemporary Folk;Singer/Songwriter;Folk|Gates of Eden (song)",
+"Bob Dylan|Gates of Eden|1965|r9MXMHzlGIM|Bob Dylan|S3367|Contemporary Folk;Singer/Songwriter;Folk|Gates of Eden (song)",
 "Oran 'Juice' Jones|The Rain|1986|9dZW1C3neao|Oran \"Juice\" Jones|S2362|Contemporary R&B;Pop Soul;Pop;R&B;Soul|",
 "Eurythmics|There Must Be an Angel (Playing with My Heart)|1985|RCdneDxFRYQ|Eurythmics|S410|Synthpop;Electronic;Pop|There Must Be an Angel (Playing with My Heart)",
 "Dennis Wilson|Riversong|1977|arQUVdjI2y0|Dennis Wilson|S6038|Baroque Pop;Pop Rock;Singer/Songwriter;Pop;Rock|",
