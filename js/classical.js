@@ -618,7 +618,7 @@ const classical = [
 "Igor Stravinsky|Petrushka|1911|esD90diWZds|Igor Stravinsky|Petrushka (ballet)",
 "Sergei Prokofiev|Piano Concerto No. 1|1912|JqCwQ9clHec|Sergei Prokofiev|Piano Concerto No. 1 (Prokofiev)",
 "Maurice Ravel|Daphnis et Chloé|1912|O4lzPz3NnI0|Maurice Ravel|Daphnis et Chloé",
-"Sergei Rachmaninoff|Vocalise and Other Songs|1912|cHnTQPbVKbU|Sergei Rachmaninoff|Vocalise (Rachmaninoff)",
+"Sergei Rachmaninoff|Vocalise and Other Songs|1912|PL-Mm0pfOCJhslJBIadTDYBTLPAvZYfwms|Sergei Rachmaninoff|Vocalise (Rachmaninoff)",
 "Arnold Schoenberg|Pierrot lunaire|1912|bd2cBUJmDr8|Arnold Schoenberg|Pierrot lunaire",
 "Sergei Rachmaninoff|Piano Sonata No. 2|1913-1931|TsafFhTMrVM|Sergei Rachmaninoff|Piano Sonata No. 2 (Rachmaninoff)",
 "Wilhelm Stenhammar|Serenade|1913|h0RSG4RCQJM|Wilhelm Stenhammar|",
