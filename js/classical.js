@@ -472,7 +472,7 @@ const classical = [
 "Pyotr Ilyich Tchaikovsky|The Sleeping Beauty|1889|EDFlRq5RnbQ?start=55|Pyotr Ilyich Tchaikovsky|The Sleeping Beauty (ballet)",
 "Richard Strauss|Don Juan|1889|XG4uBRBMdzY?start=3|Richard Strauss|Don Juan (Strauss)",
 "Richard Strauss|Tod und Verklärung|1889|mu2M67IQ68Q|Richard Strauss|Death and Transfiguration",
-"Ernest Chausson|Poème de l’amour et de la mer|1890|J6D8go8M2X8|Ernest Chausson|Poème de l'amour et de la mer",
+"Ernest Chausson|Poème de l’amour et de la mer|1890|0TfHB9USgBI|Ernest Chausson|Poème de l'amour et de la mer",
 "Hugo Wolf|Spanisches Liederbuch|1890|CBNjCerOsak|Hugo Wolf|Spanisches Liederbuch (Wolf)",
 "Gabriel Fauré|Requiem|1890-1893|UnilUPXmipM|Gabriel Fauré|Requiem (Fauré)",
 "Pietro Mascagni|Cavalleria rusticana|1890|7OvsVSWB4TI|Pietro Mascagni|Cavalleria rusticana",
