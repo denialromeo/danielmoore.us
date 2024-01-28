@@ -772,7 +772,7 @@ const classical = [
 "Edward Elgar|Symphony No. 3|1934|Tnor-Hg7Utc|Edward Elgar|Symphony No. 3 (Elgar)",
 "Dmitri Shostakovich|Cello Sonata|1934|DBYoug7MTZQ|Dmitri Shostakovich|Cello Sonata (Shostakovich)",
 "Sergei Prokofiev|Lieutenant Kijé Suite|1934|YbaY7p5ahZo|Sergei Prokofiev|Lieutenant Kijé (Prokofiev)",
-"Sergei Rachmaninoff|Rhapsody on a Theme of Paganini|1934|ppJ5uITLECE|Sergei Rachmaninoff|Rhapsody on a Theme of Paganini",
+"Sergei Rachmaninoff|Rhapsody on a Theme of Paganini|1934|ppJ5uITLECE?start=4|Sergei Rachmaninoff|Rhapsody on a Theme of Paganini",
 "Paul Hindemith|Mathis der Maler Symphony|1934|znXWfmfPh8E|Paul Hindemith|Symphony: Mathis der Maler",
 "Ralph Vaughan Williams|Symphony No. 4|1934|83StWY0So4Y|Ralph Vaughan Williams|Symphony No. 4 (Vaughan Williams)",
 "Sergei Prokofiev|Romeo and Juliet|1935|7qqrIusxVAI?start=4|Sergei Prokofiev|Romeo and Juliet (Prokofiev)",
