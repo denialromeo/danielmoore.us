@@ -1351,7 +1351,7 @@ const songs = [
 "Franz Ferdinand|Do You Want To|2005|1OJRRUnY--A|Franz Ferdinand (band)|S3009|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|",
 "No Doubt|Don't Speak|1995|TR3Vdo5etCQ|No Doubt|S52|Alternative Rock;Pop Rock;Pop;Rock|Don't Speak",
 "Grimes|REALiTi|2015|N9XKLqGqwLA|Grimes (musician)|S9772|Synthpop;Electronic;Pop|Realiti (song)|",
-"Lipps Inc.|Funkytown|1980|OAC4ItP0xWM|Lipps Inc.|S559|Electro-Disco;Dance;Disco;Electronic;Electronic Dance Music|Funkytown",
+"Lipps Inc.|Funkytown|1980|uhzy7JaU2Zc|Lipps Inc.|S559|Electro-Disco;Dance;Disco;Electronic;Electronic Dance Music|Funkytown",
 "Bat for Lashes|Laura|2012|UznHTBZIa8E|Bat for Lashes|S5000|Art Pop;Singer/Songwriter;Pop|Laura (Bat for Lashes song)",
 "Artie Shaw|Begin the Beguine|1938|Kvd0IIdSf2E|Artie Shaw|S2740|Swing;Jazz|Begin the Beguine",
 "Doug E. Fresh|The Show|1985|ybGjMXbZNEs|Doug E. Fresh|S408|East Coast Hip Hop;Hip Hop|The Show (Doug E. Fresh song)",
