@@ -8210,7 +8210,7 @@ const songs = [
 "Stevie Nicks|Stand Back|1983|LLcPqpG4jps|Stevie Nicks|S12316|Dance-Pop;Pop Rock;Dance;Pop;Rock|Stand Back",
 "Das Bo|Türlich, türlich (Sicher, dicker)|2000|n-AUUWKgCX4|https://de.wikipedia.org/wiki/Das_Bo|S14275|Miami Bass;Pop Rap;Hip Hop|Word Up! (song)",
 "Shack|Comedy|1999|6FP_dGyCq7I|Shack (band)|S2178|Britpop;Chamber Pop;Alternative Rock;Baroque Pop;Indie Pop;Pop;Pop Rock;Rock|",
-"Daniel Johnston|Some Things Last a Long Time|1990|TV6LPx1ezYs|Daniel Johnston|S4583|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|",
+"Daniel Johnston|Some Things Last a Long Time|1990|HryaTRxiSzw|Daniel Johnston|S4583|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|",
 "Ice Cube feat. Don Jaguar|Wicked|1992|SsWsmH2d_Qg|Ice Cube|S11061|Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "The Plan|Mon amour|2001|itOux4cz8K4|The Plan (band)|S7977|Indie Rock;Alternative Rock;Rock|",
 "The Rolling Stones|I Am Waiting|1966|Y_oj6ZIOO8Y|The Rolling Stones|S15835|Baroque Pop;Folk Rock;Pop;Rock|I Am Waiting (song)",
