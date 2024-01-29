@@ -873,7 +873,7 @@ const classical = [
 "Olivier Messiaen|Turangalîla Symphony|1948|eCO7le_6LzU?start=3|Olivier Messiaen|Turangalîla-Symphonie",
 "Dmitri Shostakovich|From Jewish Folk Poetry|1948|Vgt_Xmoj_60|Dmitri Shostakovich|From Jewish Folk Poetry",
 "Dmitri Shostakovich|Violin Concerto No. 1|1948|SXDk1CoIRuY|Dmitri Shostakovich|Violin Concerto No. 1 (Shostakovich)",
-"Richard Strauss|Four Last Songs|1948|vm8A1q7NDTY|Richard Strauss|Four Last Songs",
+"Richard Strauss|Four Last Songs|1948|LIsdg-8PoRM?start=33|Richard Strauss|Four Last Songs",
 "Leonard Bernstein|Symphony No. 2, \"The Age of Anxiety\"|1949-1965|Q-aU2Se1RHw|Leonard Bernstein|Symphony No. 2 (Bernstein)",
 "Gerald Finzi|Clarinet Concerto|1949|GMukLZGaE0I|Gerald Finzi|",
 "Gian Carlo Menotti|The Consul|1949|ekrx98zKnk0|Gian Carlo Menotti|The Consul",
