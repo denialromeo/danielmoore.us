@@ -8185,7 +8185,7 @@ const songs = [
 "Eddy Mitchell|La dernière séance|1977|5nUBWPbJFAU|Eddy Mitchell|S10682|Country Pop;French Pop;Country;Pop|",
 "Beck|Beercan|1994|zVay-RfNGv8|Beck|S5388|Anti-Folk;Lo-Fi / Slacker Rock;Alternative Rock;Contemporary Folk;Folk;Indie Rock;Rock|",
 "Chance the Rapper|Chain Smoker|2013|bigsk2g7xO8|Chance the Rapper|S9416|Pop Rap;Hip Hop|",
-"Doris Day|It's Magic|1948|JRp1LZOk05o|Doris Day|S6142|Traditional Pop;Pop|It's Magic",
+"Doris Day|It's Magic|1948|AQLNF0d9PKY|Doris Day|S6142|Traditional Pop;Pop|It's Magic",
 "The Beta Band|Squares|2001|kkjg3SgUUkY|The Beta Band|S5422|Indietronica;Trip Hop;Downtempo;Electronic|",
 "Elvis Presley|A Mess of Blues|1960|vWLVrswXfC4|Elvis Presley|S3719|Rock & Roll;Rock|A Mess of Blues",
 "Kendrick Lamar feat. Gunplay|Cartoon and Cereal|2012|qbbQb9bEcDQ|Kendrick Lamar|S11306|Conscious Hip Hop;West Coast Hip Hop;Hip Hop|",
