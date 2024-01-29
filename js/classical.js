@@ -114,7 +114,7 @@ const classical = [
 "George Frideric Handel|Judas Maccabaeus|1747|dzuR-6S8pt8|George Frideric Handel|Judas Maccabaeus (Handel)",
 "Johann Sebastian Bach|Mass in B minor|1749|3FLbiDrn8IE|Johann Sebastian Bach|",
 "George Frideric Handel|Music for the Royal Fireworks|1749|fNqJ8mED1VE|George Frideric Handel|Music for the Royal Fireworks",
-"Johann Sebastian Bach|The Art of Fugue|1750|Lrb0dHKJBR4|Johann Sebastian Bach|",
+"Johann Sebastian Bach|The Art of Fugue|1750|N6sUlZa-IrU?start=8|Johann Sebastian Bach|The Art of Fugue",
 "George Frideric Handel|Theodora|1750|OLAK5uy_nuM-86t8kAFY6xE4DSRxzCY8KxKiCicY4|George Frideric Handel|Theodora (Handel)",
 "William Boyce|Eight Symphonies, Op. 2|1760|ONv2X10nUw0|William Boyce (composer)|",
 "Joseph Haydn|Symphonies nos. 6-8|1761|58tDranbYg4|Joseph Haydn|",
