@@ -611,7 +611,7 @@ const classical = [
 "Bela Bartok|Bluebeard’s Castle|1911|p9Aq2WWds8k|Béla Bartók|",
 "Jean Sibelius|Symphony No. 4|1911|HjeF99_ocfM|Jean Sibelius|Symphony No. 4 (Sibelius)",
 "Sergey Taneyev|Piano Quintet|1911|YfU3iOKlH0w|Sergei Taneyev|",
-"Sergei Rachmaninoff|Études-tableaux|1911|AtObD71L8Ek|Sergei Rachmaninoff|Études-Tableaux, Op. 33",
+"Sergei Rachmaninoff|Études-tableaux|1911|KGniWXjsdu4|Sergei Rachmaninoff|Études-Tableaux, Op. 33",
 "Carl Nielsen|Symphony No. 3|1911|40-1Ww-uXJk|Carl Nielsen|Symphony No. 3 (Nielsen)",
 "Reinhold Glière|Symphony No. 3 \"Ilya Muromets\"|1911|WRpEt9FvTbU|Reinhold Glière|Symphony No. 3 (Glière)",
 "Arnold Schoenberg|Gurrelieder|1911|xPXuHs3Ksow|Arnold Schoenberg|Gurre-Lieder",
