@@ -985,7 +985,7 @@ const classical = [
 "Ross Edwards|Maninyas|1988|Kip8rQX0_BY|Ross Edwards (composer)|",
 "Steve Reich|Different Trains|1988|qcGqVynCPaw|Steve Reich|",
 "Mark-Anthony Turnage|Three Screaming Popes|1989|eiGo37janfU|Mark-Anthony Turnage|",
-"Gyorgy Kurtag|Officium breve|1989|K-6_z4ry8nU|György Kurtág|",
+"Gyorgy Kurtag|Officium breve|1989|D4CdOOWvtWk|György Kurtág|",
 "James MacMillan|Veni, veni, Emmanuel|1992|W5M9nfC6apM|James MacMillan|Veni, Veni, Emmanuel (MacMillan)",
 "Olivier Messiaen|Éclairs sur l’Au-delà…|1992|EA53UMx7dHY|Olivier Messiaen|Éclairs sur l'Au-Delà...",
 "Simon Bainbridge|Ad ora incerta|1994|gOge-mKZvdo|Simon Bainbridge|",
