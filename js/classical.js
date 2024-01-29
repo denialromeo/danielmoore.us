@@ -849,7 +849,7 @@ const classical = [
 "Bela Bartok|Viola Concerto|1945|yu56HvCgdOU|Béla Bartók|Viola Concerto (Bartók)",
 "Frank Martin|Petite symphonie concertante|1945|hTkbjOzsLCI|Frank Martin (composer)|Petite symphonie concertante",
 "Bohuslav Martinu|Symphony No. 4|1945|2r-YJbhvhfM|Bohuslav Martinů|Symphony No. 4 (Martinů)",
-"Dmitri Shostakovich|Symphony No. 9|1948|16MIEhqoHNI|Dmitri Shostakovich|Symphony No. 9 (Shostakovich)",
+"Dmitri Shostakovich|Symphony No. 9|1948|16MIEhqoHNI?start=60|Dmitri Shostakovich|Symphony No. 9 (Shostakovich)",
 "Richard Strauss|Metamorphosen|1945|j4MDac_obuQ?start=60|Richard Strauss|Metamorphosen",
 "Benjamin Britten|The Young Person’s Guide to the Orchestra|1945|4vbvhU22uAM|Benjamin Britten|The Young Person's Guide to the Orchestra",
 "Igor Stravinsky|Symphony in Three Movements|1945|QyNA1k7yRbM?start=20|Igor Stravinsky|Symphony in Three Movements",
