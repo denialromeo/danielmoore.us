@@ -126,7 +126,7 @@ const classical = [
 "Christoph Willibald Gluck|Alceste|1767|iDFnGqG7qt8|Christoph Willibald Gluck|Alceste (Gluck)",
 "Andre-Ernest-Modeste Grétry|Zémire et Azor|1771|GiQq7VRQBp8|André Grétry|Zémire et Azor",
 "Joseph Haydn|Keyboard Sonatas|1771-1795|9KTgA1i06xU|Joseph Haydn|",
-"Luigi Boccherini|String Quintets|1772-1803|mTL3ItzPIec|Luigi Boccherini|String Quintet in E major, Op. 11, No. 5 (Boccherini)",
+"Luigi Boccherini|String Quintets|1772-1803|OLAK5uy_kiyjaPh8cuZKFTnCNtcKKQs2yLBpYoxxQ|Luigi Boccherini|String Quintet in E major, Op. 11, No. 5 (Boccherini)",
 "Joseph Haydn|Symphony No. 45, \"Farewell\"|1772|OpD9ofCm6Ak|Joseph Haydn|Symphony No. 45 (Haydn)",
 "Wolfgang Amadeus Mozart|String Quintets|1773-1791|PLFpllkY6JbXzppCDMRmodtZ0GFPtQnUQG|Wolfgang Amadeus Mozart|String Quintet No. 1 (Mozart)",
 "Wolfgang Amadeus Mozart|Piano Sonatas|1775-1789|PLEhQ5Ooc2lLqc6wq7sgzTHOour-kPcUju|Wolfgang Amadeus Mozart|Sonata in C major for piano four-hands, K. 521",
