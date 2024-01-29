@@ -799,7 +799,7 @@ const classical = [
 "Herbert Howells|Hymnus Paradisi|1938|l4Tlik9vfJ0?start=42|Herbert Howells|Hymnus Paradisi",
 "Bohuslav Martinu|Double Concerto|1938|4BLJxJG1kQo|Bohuslav Martinů|Double Concerto for Two String Orchestras, Piano, and Timpani",
 "Roy Harris|Symphony No. 3|1938|cvHF04mN64c|Roy Harris|Symphony No. 3",
-"Ralph Vaughan Williams|Serenade for Music|1938|QDYi4JgQA2I|Ralph Vaughan Williams|",
+"Ralph Vaughan Williams|Serenade for Music|1938|Ja-fD7zLllQ|Ralph Vaughan Williams|",
 "Silvestre Revueltas|Sensemayá|1938|aJxd0nIY1oA|Silvestre Revueltas|Sensemayá",
 "Igor Stravinsky|Concerto in E flat, \"Dumbarton Oaks\"|1938|l6gqiA8iIMo|Igor Stravinsky|Violin Concerto (Stravinsky)",
 "Anton Webern|String Quartet, Op. 28|1938|5r29_vMzRF8|Anton Webern|String Quartet (Webern)",
