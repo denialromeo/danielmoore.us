@@ -2317,7 +2317,7 @@ const songs = [
 "Father John Misty|Pure Comedy|2017|wKrSYgirAhc|Josh Tillman|S16370|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Father John Misty",
 "Earth, Wind & Fire|September|1978|Gs069dndIYk|Earth, Wind & Fire|S3384|Disco;Funk;Dance;R&B|September (Earth, Wind & Fire song)",
 "Björk|Pagan Poetry|2001|D7DJDABIbGk|Björk|S3110|Art Pop;Pop|Pagan Poetry",
-"Dr. John|I Walk on Guilded Splinters|1968|kWvdO3l4_P8|Dr. John|S1701|Psychedelic Rock;Swamp Rock;Rock;Roots Rock|I Walk on Guilded Splinters",
+"Dr. John|I Walk on Guilded Splinters|1968|lekQoT485aA|Dr. John|S1701|Psychedelic Rock;Swamp Rock;Rock;Roots Rock|I Walk on Guilded Splinters",
 "Nat King Cole|Mona Lisa|1950|NIDX18Xl16s|Nat King Cole|S2765|Traditional Pop;Pop|Mona Lisa (Nat King Cole song)",
 "Hank Williams|Lost Highway|1949|WeGpCYU-9Cs|Hank Williams|S1604|Honky Tonk;Country|Lost Highway (Leon Payne song)",
 "Bomb the Bass|Beat Dis|1988|mHh5rDcQKhQ|Bomb the Bass|S1984|Acid House;Dance;Electronic;Electronic Dance Music;House|Beat Dis",
