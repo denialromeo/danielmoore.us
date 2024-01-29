@@ -443,7 +443,7 @@ const classical = [
 "Antonin Dvorak|Symphony No. 7|1885|YwD7JcpRe0w?start=3|Antonín Dvořák|Symphony No. 7 (Dvořák)",
 "Cesar Franck|Symphonic Variations|1885|_XrWnggqboM|César Franck|Symphonic Variations (Franck)",
 "Gustav Mahler|Lieder eines fahrenden Gesellen|1885|RxmGLjumt7Q|Gustav Mahler|Lieder eines fahrenden Gesellen",
-"Johann Strauss II|Der Zigeunerbaron|1885|Y_zXtZSTaVY|Johann Strauss II|",
+"Johann Strauss II|Der Zigeunerbaron|1885|caGQy0Dipbk?start=13|Johann Strauss II|",
 "Pyotr Ilyich Tchaikovsky|Manfred Symphony|1885|S6Mn1UjggBY?start=3|Pyotr Ilyich Tchaikovsky|Manfred Symphony",
 "Richard Strauss|Lieder|1885-1933|bmoP0_lLAQ8|Richard Strauss|https://en.wikipedia.org/wiki/Richard_Strauss#Lieder",
 "Arthur Sullivan|The Mikado|1885|PL9yl-ZQyD9w9ko2-qOteHjAB3WCL6fNsf|Arthur Sullivan|The Mikado",
