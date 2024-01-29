@@ -459,7 +459,7 @@ const classical = [
 "Anton Bruckner|Symphony No. 8|1887-1892|elVHvTrEM34|Anton Bruckner|Symphony No. 8 (Bruckner)",
 "Richard Strauss|Violin Sonata|1887|d73FVIKbl5k|Richard Strauss|Violin Sonata (Strauss)",
 "Giuseppe Verdi|Otello|1887|Sm_Usoo7LvY|Giuseppe Verdi|Otello",
-"Cesar Franck|Symphony in D minor|1888|uRWFjK11lfw?start=3|César Franck|",
+"Cesar Franck|Symphony in D minor|1888|uRWFjK11lfw?start=3|César Franck|Symphony in D minor (Franck)",
 "Gustav Mahler|Symphony No. 1|1888|ISBfOpztUZM|Gustav Mahler|Symphony No. 1 (Mahler)",
 "Nicolai Rimsky-Korsakov|Scheherazade|1888|zY4w4_W30aQ|Nikolai Rimsky-Korsakov|Scheherazade (Rimsky-Korsakov)",
 "Hugo Wolf|Mörike Lieder|1888|F4D9DEgFo6k|Hugo Wolf|",
