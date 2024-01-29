@@ -473,7 +473,7 @@ const classical = [
 "Richard Strauss|Don Juan|1889|XG4uBRBMdzY?start=3|Richard Strauss|Don Juan (Strauss)",
 "Richard Strauss|Tod und Verklärung|1889|mu2M67IQ68Q|Richard Strauss|Death and Transfiguration",
 "Ernest Chausson|Poème de l’amour et de la mer|1890|0TfHB9USgBI|Ernest Chausson|Poème de l'amour et de la mer",
-"Hugo Wolf|Spanisches Liederbuch|1890|CBNjCerOsak|Hugo Wolf|Spanisches Liederbuch (Wolf)",
+"Hugo Wolf|Spanisches Liederbuch|1890|OLAK5uy_mRoCWCP5vDJHITmtRxWGc_omxLEkQqr|Hugo Wolf|Spanisches Liederbuch (Wolf)",
 "Gabriel Faure|Requiem|1890-1893|UnilUPXmipM|Gabriel Fauré|Requiem (Fauré)",
 "Pietro Mascagni|Cavalleria rusticana|1890|7OvsVSWB4TI|Pietro Mascagni|Cavalleria rusticana",
 "Pyotr Ilyich Tchaikovsky|The Queen of Spades|1890|aA3lTy7OMM8|Pyotr Ilyich Tchaikovsky|The Queen of Spades (opera)",
