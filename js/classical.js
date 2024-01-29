@@ -784,7 +784,7 @@ const classical = [
 "Samuel Barber|Adagio for Strings|1936|WAoLJ8GbA4Y?start=6|Samuel Barber|Adagio for Strings",
 "Carl Orff|Carmina burana|1936|QEllLECo4OM?start=82|Carl Orff|Carmina Burana (Orff)",
 "Sergei Prokofiev|Peter and the Wolf|1936|px8FakwGPDM|Sergei Prokofiev|Peter and the Wolf",
-"Olivier Messiaen|Poèmes pour Mi|1936|l_InFMyiyn8|Olivier Messiaen|",
+"Olivier Messiaen|Poèmes pour Mi|1936|l_InFMyiyn8|Olivier Messiaen|Poèmes pour Mi",
 "Sergei Rachmaninoff|Symphony No. 3|1936|u3VnQRMh-IA|Sergei Rachmaninoff|Symphony No. 3 (Rachmaninoff)",
 "Anton Webern|Variations, Op. 27|1936|ZEtqEzPakxA|Anton Webern|Variations for piano (Webern)",
 "Bela Bartok|Music for Strings, Percussion, and Celesta|1936|HGJcsTtJ188|Béla Bartók|Music for Strings, Percussion and Celesta",
