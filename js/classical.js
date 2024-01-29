@@ -15,7 +15,7 @@ const classical = [
 "Thomas Tallis|Lamentations of Jeremiah|1565|rgRXLN6nlVU|Thomas Tallis|",
 "Orlande de Lassus|Motets|1555-1604|TKE2EMnWT_g|Orlando di Lasso|Motet",
 "Giovanni Pierluigi de Palestrina|Missa Papae Marcelli|1567|3n8XdKkrqgo|Giovanni Pierluigi da Palestrina|",
-"Thomas Tallis|Spem in alium|1569|iT-ZAAi4UQQ|Thomas Tallis|Spem in alium",
+"Thomas Tallis|Spem in alium|1569|QmH1nZSGIyY|Thomas Tallis|Spem in alium",
 "Tomás Luis de Victoria|O magnum mysterium|1572|9xPh-fXYAc4|Tomás Luis de Victoria|O magnum mysterium",
 "Francisco Guerrero|Battle Mass|1582|jbK_2EwcuSQ|Francisco Guerrero (composer)|",
 "Claudio Monteverdi|Madrigals|1587-1651|PLH2tnBZzETg6hf8rDAny1Zr0nCIh8_km0|Claudio Monteverdi|Madrigal",
