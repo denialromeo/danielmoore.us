@@ -555,7 +555,7 @@ const classical = [
 "Charles Villiers Stanford|Songs of the Sea|1904|bEljN59jR80|Charles Villiers Stanford|",
 "Giacomo Puccini|Madama Butterfly|1904|IYrbdiee9SU|Giacomo Puccini|Madama Butterfly",
 "Jean Sibelius|Violin Concerto|1905|J0w0t4Qn6LY|Jean Sibelius|Violin Concerto (Sibelius)",
-"Maurice Ravel|Introduction and Allegro|1905|rv5vXFaKkIg|Maurice Ravel|",
+"Maurice Ravel|Introduction and Allegro|1905|rv5vXFaKkIg|Maurice Ravel|Introduction and Allegro (Ravel)",
 "Maurice Ravel|Miroirs|1905|FH92v4DoQuk?start=5|Maurice Ravel|Miroirs",
 "Claude Debussy|La mer|1905|FOCucJw7iT8|Claude Debussy|La mer (Debussy)",
 "Gustav Mahler|Symphony No. 7|1905|QdxvC7NNSLQ|Gustav Mahler|Symphony No. 7 (Mahler)",
