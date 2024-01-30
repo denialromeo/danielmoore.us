@@ -7993,7 +7993,7 @@ const songs = [
 "Marty Robbins|Don't Worry|1960|V2u31AkbiVw|Marty Robbins|S7447|Country|Don't Worry (Marty Robbins song)",
 "The Fat Boys|Jailhouse Rap|1984|4IEtpBK5dsU|The Fat Boys|S3403|East Coast Hip Hop;Hip Hop|",
 "Montrose|Rock Candy|1973|CtDO3qBo72M|Montrose (band)|S13897|Hard Rock;Rock|Rock Candy",
-"Connie Francis|Stupid Cupid|1958|0_pbt0EaUq0|Connie Francis|S5862|Brill Building;Rock & Roll;Pop;Rock|Stupid Cupid",
+"Connie Francis|Stupid Cupid|1958|7EQX70weW8o?start=7|Connie Francis|S5862|Brill Building;Rock & Roll;Pop;Rock|Stupid Cupid",
 "Lloyd Price|Just Because|1957|JXOvSLVMX_0|Lloyd Price|S3728|New Orleans R&B;Rock & Roll;R&B;Rock|",
 "Sum 41|Fat Lip|2001|CMX2lPum_pg|Sum 41|S2224|Pop Punk;Punk Rock;Rock|Fat Lip",
 "Julian Cope|Safesurfer|1991|7vN_wSqWKCk|Julian Cope|S3104|Neo-Psychedelia;Psychedelic Rock;Rock|Safesurfer",
