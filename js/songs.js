@@ -3709,7 +3709,7 @@ const songs = [
 "Enrico Caruso|Vesti la giubba|1907|a_P1QdXMzfA|Enrico Caruso|S6288|Opera;Romanticism;Classical Music;Western Classical Music|",
 "Otis Rush|I Can't Quit You Baby|1956|Uy2tEP3I3DM|Otis Rush|S1617|Chicago Blues;Blues;Electric Blues|I Can't Quit You Baby",
 "Sleater-Kinney|A New Wave|2015|Kc1htX3q-F0|Sleater-Kinney|S9836|Indie Rock;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|",
-"Guy Mitchell|Singing the Blues|1956|wJA8b3esxfE|Guy Mitchell|S1289|Country;Traditional Pop;Pop|Singing the Blues",
+"Guy Mitchell|Singing the Blues|1956|f_NLhDTyRJk|Guy Mitchell|S1289|Country;Traditional Pop;Pop|Singing the Blues",
 "Los Rodriguez|Sin documentos|1993|BUKHMGiW_rY|Los Rodríguez|S7314|Latin Rock;Pop Rock;Hispanic Music;Latin American Music;Pop;Regional Music;Rock|",
 "Waka Flocka Flame|Hard in da Paint|2010|WkkC9cK8Hz0|Waka Flocka Flame|S8908|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
 "The Cadets|Stranded in the Jungle|1956|4h9PbMucPXU|The Cadets (group)|S1288|Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|Stranded in the Jungle",
