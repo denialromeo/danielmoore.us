@@ -186,7 +186,7 @@ const classical = [
 "Ludwig van Beethoven|Moonlight Sonata|1801|-VmQNKaOeEw?start=4|Ludwig van Beethoven|Piano Sonata No. 14 (Beethoven)",
 "Joseph Haydn|The Seasons|1801|l3O2K-LyJ9o|Joseph Haydn|The Seasons (Haydn)",
 "Ludwig van Beethoven|Symphony No. 2|1802|bEiYmeeV6sI|Ludwig van Beethoven|Symphony No. 2 (Beethoven)",
-"Ludwig van Beethoven|Piano Concerto No. 3|1803|6zocO3Uoa_Y|Ludwig van Beethoven|Piano Concerto No. 3 (Beethoven)",
+"Ludwig van Beethoven|Piano Concerto No. 3|1803|AjMBtkTMLYU?start=46|Ludwig van Beethoven|Piano Concerto No. 3 (Beethoven)",
 "Ludwig van Beethoven|Symphony No. 3, \"Eroica\"|1803|fhHcty9OM-0?start=19|Ludwig van Beethoven|Symphony No. 3 (Beethoven)",
 "Ludwig van Beethoven|Kreutzer Sonata|1803|OF9fneQ50Us?start=13|Ludwig van Beethoven|Violin Sonata No. 9 (Beethoven)",
 "Johann Nepomuk Hummel|Trumpet Concerto|1803|902St2UAmfA|Johann Nepomuk Hummel|Trumpet Concerto (Hummel)",
