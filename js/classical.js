@@ -363,7 +363,7 @@ const classical = [
 "Jacques Offenbach|La belle Hélène|1864|lEuv4vMJjUo|Jacques Offenbach|La belle Hélène",
 "Edvard Grieg|Lyric Pieces|1864-1901|OLAK5uy_lp9dMQQpyS2g_ap546Fiupuxs1Fya-USw|Edvard Grieg|Lyric Pieces",
 "Johannes Brahms|Cello Sonatas nos. 1 & 2|1865-1886|6oyLJHpe8Z8|Johannes Brahms|Cello Sonata No. 1 (Brahms)",
-"Bedrich Smetana|The Bartered Bride|1866-1870|QLUm_yvnyo4|Bedřich Smetana|",
+"Bedrich Smetana|The Bartered Bride|1866-1870|QLUm_yvnyo4|Bedřich Smetana|The Bartered Bride",
 "Richard Wagner|Die Meistersinger von Nürnberg|1867|fDIkzHjHRhI?start=3|Richard Wagner|Die Meistersinger von Nürnberg",
 "Johann Strauss II|The Blue Danube|1867|IDaJ7rFg66A|Johann Strauss II|The Blue Danube",
 "Modest Mussorgsky|Night on Bald Mountain|1867|52iOdAVU4C8?start=4|Modest Mussorgsky|Night on Bald Mountain",
