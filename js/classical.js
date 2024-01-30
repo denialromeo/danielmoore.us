@@ -303,7 +303,7 @@ const classical = [
 "Felix Mendelssohn|Symphony No. 3, \"Scottish\"|1842|rw6slNXSzNg?start=3|Felix Mendelssohn|Symphony No. 3 (Mendelssohn)",
 "Robert Schumann|String Quartets|1842|PLxXjllvtBC_qFkTJtWb2yJzOvxj8vsqFC|Robert Schumann|",
 "Giuseppe Verdi|Nabucco|1842|XttF0vg0MGo|Giuseppe Verdi|",
-"Robert Schumann|Piano Quintet|1842|UQQxpJ7Pn1g|Robert Schumann|Piano Quintet (Schumann)",
+"Robert Schumann|Piano Quintet|1842|rHsvD6_gRyo|Robert Schumann|Piano Quintet (Schumann)",
 "Mikhail Glinka|Ruslan and Lyudmila|1842|QW3IwWFkpfc|Mikhail Glinka|Ruslan and Lyudmila (opera)",
 "Gaetano Donizetti|Don Pasquale|1843|_RZ-pOOgbL4|Gaetano Donizetti|Don Pasquale",
 "Felix Mendelssohn|Violin Concerto in E minor|1844|I03Hs6dwj7E|Felix Mendelssohn|Violin Concerto (Mendelssohn)",
