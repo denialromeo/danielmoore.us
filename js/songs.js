@@ -5848,7 +5848,7 @@ const songs = [
 "The Hollies|He Ain't Heavy, He's My Brother|1969|Jl5vi9ir49g|The Hollies|S6724|Pop Rock;Pop;Rock|He Ain't Heavy, He's My Brother",
 "Gil Scott-Heron|I’ll Take Care of You|2011|yvpgVXEBPSA|Gil Scott-Heron|S6561|Deep House;UK Bass;Dance;Electronic;Electronic Dance Music;House;UK Garage|I'll Take Care of You (song)",
 "St. Vincent|Surgeon|2011|XjZgiv2F1QY|St. Vincent (musician)|S8541|Art Pop;Indie Pop;Pop|",
-"The Little Rabbits|La Piscine|1998|t5O7t1o161o|https://fr.wikipedia.org/wiki/The_Little_Rabbits|S7279|Indie Rock;Alternative Rock;Rock|",
+"The Little Rabbits|La Piscine|1998|FWZcIcgsgh4|https://fr.wikipedia.org/wiki/The_Little_Rabbits|S7279|Indie Rock;Alternative Rock;Rock|",
 "Whitesnake|Still of the Night|1987|swPt9HBRXuE|Whitesnake|S12580|Glam Metal;Hard Rock;Rock|Still of the Night (song)",
 "Kacey Musgraves|Merry Go 'Round|2012|GZfj2Ir3GgQ|Kacey Musgraves|S11286|Contemporary Country;Country Pop;Country;Pop|",
 "Icehouse|Great Southern Land|1982|IOBd0PwQouE|Icehouse (band)|S11064|Dream Pop;New Wave;Pop Rock;Alternative Rock;Pop;Rock|Great Southern Land",
