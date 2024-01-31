@@ -1835,7 +1835,7 @@ const songs = [
 "Jackie DeShannon|What the World Needs Now Is Love|1965|IQ2SAtkEsqU|Jackie DeShannon|S3328|Pop|What the World Needs Now Is Love",
 "Pérez Prado|Mambo #5|1950|7CADAUKiieQ|Pérez Prado|S3063|Mambo;Cuban Music;Hispanic Music;Latin American Music;Regional Music|Mambo No. 5|",
 "Bob Dylan|The Lonesome Death of Hattie Carroll|1964|t_v3w30XdhI|Bob Dylan|S2985|Contemporary Folk;Singer/Songwriter;Folk|The Lonesome Death of Hattie Carroll",
-"Sufjan Stevens|John Wayne Gacy, Jr.|2005|K5ygoDnlGCg|Sufjan Stevens|S3052|Chamber Folk;Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|Illinois (Sufjan Stevens album)",
+"Sufjan Stevens|John Wayne Gacy, Jr.|2005|ZWpvMm27WIM|Sufjan Stevens|S3052|Chamber Folk;Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|Illinois (Sufjan Stevens album)",
 "Small Faces|Tin Soldier|1967|6vWTtx_PxPo|Small Faces|S1687|Mod;Psychedelic Pop;Rhythm & Blues;Pop;R&B;Rock|Tin Soldier (song)",
 "Blur|Beetlebum|1997|WAXnqjUfal4|Blur (band)|S11|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Beetlebum",
 "Talking Heads|Road to Nowhere|1985|LQiOA7euaYA|Talking Heads|S1932|New Wave;Pop Rock;Pop;Rock|Road to Nowhere",
