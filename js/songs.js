@@ -6927,7 +6927,7 @@ const songs = [
 "Delorean|Stay Close|2010|55wlNgFTDR0|Delorean (band)|S6033|Balearic Beat;Indietronica;Synthpop;Dance;Electronic;Electronic Dance Music;House;Pop|Good Morning (Kanye West song)",
 "Miles Davis|Flamenco Sketches|1959|nTwp1sgUJrM|Miles Davis|S14753|Cool Jazz;Modal Jazz;Jazz|",
 "Generation X|Dancing with Myself|1980|LMdOhFwuUFc|Generation X (band)|S1841|New Wave;Power Pop;Pop;Pop Rock;Rock|Dancing with Myself",
-"Fleetwood Mac|You Make Loving Fun|1977|f5bCqZLlCC8|Fleetwood Mac|S6394|Soft Rock;Pop;Pop Rock;Rock|You Make Loving Fun",
+"Fleetwood Mac|You Make Loving Fun|1977|sCTsQMA1PnA|Fleetwood Mac|S6394|Soft Rock;Pop;Pop Rock;Rock|You Make Loving Fun",
 "En Vogue|Don't Let Go (Love)|1996|mwhwGmoYv1s|En Vogue|S6281|Contemporary R&B;R&B|Don't Let Go (Love)",
 "Botellita de Jerez|Alármala de tos|1984|hvZDhgF8Mis|Botellita de Jerez|S13405|Pop Rock;Pop;Rock|",
 "Jacques Brel|Jacky|1965|EFG1QLCzICc|Jacques Brel|S14525|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|Jacky (Jacques Brel song)",
