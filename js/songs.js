@@ -6647,7 +6647,7 @@ const songs = [
 "Run the Jewels|Blockbuster Night Part 1|2014|uuWQyfGa1yI|Run the Jewels|S9587|Hardcore Hip Hop;Hip Hop|",
 "Coldplay|Paradise|2011|1G4isv_Fylg|Coldplay|S10446|Pop Rock;Pop;Rock|Paradise (Coldplay song)",
 "Shabazz Palaces|Forerunner Foray|2014|zNXxd3yYDaM|Shabazz Palaces|S12186|Abstract Hip Hop;Experimental Hip Hop;Hip Hop|",
-"Charlie Rich|Life's Little Ups & Downs|1969|6Azui-cs9DQ|Charlie Rich|S5767|Country Soul;Nashville Sound;Country;Country Pop;Pop;R&B;Soul|Life's Little Ups and Downs",
+"Charlie Rich|Life's Little Ups & Downs|1969|xY4HJFTTH3s|Charlie Rich|S5767|Country Soul;Nashville Sound;Country;Country Pop;Pop;R&B;Soul|Life's Little Ups and Downs",
 "Bruce Springsteen|New York City Serenade|1973|fEQENfRoBgw|Bruce Springsteen|S5640|Heartland Rock;Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|",
 "La Femme|Où va le monde?|2016|fQDEUU1lyZQ|La Femme (band)|S16129|French Pop;Pop|",
 "The Loved Ones|The Loved One|1966|axUYL2I6KF8|The Loved Ones|S4097|Blues Rock;Garage Rock;Rock|",
