@@ -838,7 +838,7 @@ const classical = [
 "Paul Hindemith|Symphonic Metamorphosis of Themes by Carl Maria von Weber|1943|2A8tUpPRyR4|Paul Hindemith|Symphonic Metamorphosis of Themes by Carl Maria von Weber",
 "Dmitri Shostakovich|Symphony No. 8|1943|9CaXNxh8msw|Dmitri Shostakovich|Symphony No. 8 (Shostakovich)",
 "Aaron Copland|Appalachian Spring|1944|Q4Qt0AIRK-0|Aaron Copland|Appalachian Spring",
-"Sergei Prokofiev|Cinderella|1944|YYmmCbwNWPs|Sergei Prokofiev|Cinderella (Prokofiev)",
+"Sergei Prokofiev|Cinderella|1944|LPbKZXNfJ-Y|Sergei Prokofiev|Cinderella (Prokofiev)",
 "Sergei Prokofiev|Symphony No. 5|1944|AWWxGl1X4v0?start=20|Sergei Prokofiev|Symphony No. 5 (Prokofiev)",
 "Dmitri Shostakovich|Piano Trio No. 2|1944|KgVvUHxKb58|Dmitri Shostakovich|",
 "Leonard Bernstein|On the Town|1944|CBdP8td0sto|Leonard Bernstein|On the Town (musical)",
