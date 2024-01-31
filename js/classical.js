@@ -227,7 +227,7 @@ const classical = [
 "Ludwig van Beethoven|Piano Sonata in A flat major, Op. 110|1821|-WxCQlu2l2I|Ludwig van Beethoven|Piano Sonata No. 31 (Beethoven)",
 "Ludwig van Beethoven|Piano Sonata No. 32|1822|8AQ9hZTpgwM?start=24|Ludwig van Beethoven|Piano Sonata No. 32 (Beethoven)",
 "Franz Schubert|Symphony No. 8, \"Unfinished\"|1822|uWnKMzAedK4|Franz Schubert|Symphony No. 8 (Schubert)",
-"Franz Schubert|Fantasy in C major, \"Wanderer\"|1822|Vy_HeH-pRfI|Franz Schubert|Wanderer Fantasy",
+"Franz Schubert|Wanderer Fantasy|1822|-sEdFF9Bldw?start=12|Franz Schubert|Wanderer Fantasy",
 "Franz Schubert|Die schöne Müllerin|1823|_YeITW9A8Rk|Franz Schubert|Die schöne Müllerin",
 "Ludwig van Beethoven|Missa solemnis|1823|hnrFUFVcDmc?start=3|Ludwig van Beethoven|Missa solemnis (Beethoven)",
 "Ludwig van Beethoven|Diabelli Variations|1823|hTmQU4jEgJw|Ludwig van Beethoven|Diabelli Variations",
