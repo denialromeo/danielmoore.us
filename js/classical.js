@@ -919,7 +919,7 @@ const classical = [
 "Krzysztof Penderecki|Threnody to the Victims of Hiroshima|1960|Pu371CDZ0ws|Krzysztof Penderecki|Threnody to the Victims of Hiroshima",
 "Karlheinz Stockhausen|Kontakte|1960|o7JFAAgwMWo|Karlheinz Stockhausen|Kontakte",
 "Bernd Alois Zimmermann|Die Soldaten|1960-1964|dTXLxNIEcJ0|Bernd Alois Zimmermann|Die Soldaten",
-"Elliott Carter|Double Concerto|1961|0tXsJWBZvzc|Elliott Carter|Double Concerto (Carter)",
+"Elliott Carter|Double Concerto|1961|sebIvdCHcCE|Elliott Carter|Double Concerto (Carter)",
 "Benjamin Britten|War Requiem|1962|rsSMCq7pl_k|Benjamin Britten|War Requiem",
 "Gyorgy Ligeti|Aventures & Nouvelles aventures|1962-1966|x6xtllQsmMU|György Ligeti|",
 "Dmitri Shostakovich|Symphony No. 13, \"Babi Yar\"|1962|acDDPoopgvw|Dmitri Shostakovich|Symphony No. 13 (Shostakovich)",
