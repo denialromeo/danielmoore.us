@@ -107,7 +107,7 @@ const classical = [
 "George Frideric Handel|Concerti grossi, Op. 6|1739|Y8tE9MYOCeI|George Frideric Handel|Concerti grossi, Op. 6 (Handel)",
 "Johann Sebastian Bach|The Well-Tempered Clavier|1740-1742|PL3U0S8lpDeK7dqgWS6aoSMe-TaeczQnuI|Johann Sebastian Bach|The Well-Tempered Clavier",
 "Domenico Scarlatti|Keyboard Sonatas|1740s|4yBQlZ06G40|Domenico Scarlatti|",
-"Johann Sebastian Bach|Goldberg Variations|1741|15ezpwCHtJs|Johann Sebastian Bach|Goldberg Variations",
+"Johann Sebastian Bach|Goldberg Variations|1741|OLAK5uy_lzcXH_zLclgfHiWX40qbP5mCoZe3H-Q6Q|Johann Sebastian Bach|Goldberg Variations",
 "George Frideric Handel|Messiah|1742|IUZEtVbJT5c?start=12|George Frideric Handel|Messiah (Handel)",
 "Carl Philipp Emanuel Bach|Keyboard Sonatas|1742-1744|B1vzh4lledU|Carl Philipp Emanuel Bach|",
 "Johann Sebastian Bach|The Musical Offering|1747|yhMAq2PhRaQ|Johann Sebastian Bach|The Musical Offering",
