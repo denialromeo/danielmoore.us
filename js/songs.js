@@ -3330,7 +3330,7 @@ const songs = [
 "The Manhattans|Kiss and Say Goodbye|1976|wtjro7_R3-4|The Manhattans|S1781|Smooth Soul;R&B;Soul|Kiss and Say Goodbye",
 "Bon Iver|33 \"God\"|2016|6C5sB6AqJkM|Bon Iver|S16044|Art Pop;Pop|",
 "Traffic|The Low Spark of High Heeled Boys|1971|R8M8R835Ck4|Traffic (band)|S4151|Progressive Rock;Rock|",
-"Manfred Mann|Blinded by the Light|1976|lcWVL4B-4pI|Manfred Mann's Earth Band|S7396|AOR;Pop Rock;Pop;Rock|Blinded by the Light",
+"Manfred Mann|Blinded by the Light|1976|E5tJxTZOcHA|Manfred Mann's Earth Band|S7396|AOR;Pop Rock;Pop;Rock|Blinded by the Light",
 "U.T.F.O.|Roxanne, Roxanne|1984|WhwgKd4mWq8|UTFO|S1917|East Coast Hip Hop;Electro;Dance;Electronic;Electronic Dance Music;Hip Hop|",
 "Carl Douglas|Kung Fu Fighting|1974|bmfudW7rbG0|Carl Douglas|S4420|Disco;Dance|Kung Fu Fighting",
 "Sharon Van Etten|Every Time the Sun Comes Up|2014|fDW-W2J84Hc|Sharon Van Etten|S9616|Indie Folk;Indie Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Are We There",
