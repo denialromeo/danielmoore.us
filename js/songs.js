@@ -3131,7 +3131,7 @@ const songs = [
 "Pere Ubu|Non-Alignment Pact|1978|Leax63ullPE|Pere Ubu|S4186|Art Punk;Post-Punk;Punk Rock;Rock|",
 "Joy Division|Shadowplay|1979|tk_JUYyutTM|Joy Division|S7008|Gothic Rock;Post-Punk;Rock|Shadowplay (song)",
 "The Jon Spencer Blues Explosion|Bellbottoms|1994|TZzVmGuUYQg|Jon Spencer Blues Explosion|S4223|Punk Blues;Punk Rock;Rock|",
-"Al Green|I'm Still in Love with You|1972|s1jjBQqJGJs?start=383|Al Green|S1742|Smooth Soul;Southern Soul;R&B;Soul|I'm Still in Love with You (Al Green song)",
+"Al Green|I'm Still in Love with You|1972|YtmfcL2_5iA|Al Green|S1742|Smooth Soul;Southern Soul;R&B;Soul|I'm Still in Love with You (Al Green song)",
 "The Offspring|Pretty Fly (For a White Guy)|1998|QtTR-_Klcq8|The Offspring|S3676|Pop Punk;Punk Rock;Rock|Pretty Fly (For a White Guy)",
 "The Ronettes|Baby, I Love You|1963|tAREjl_GPJA|The Ronettes|S1077|Brill Building;Girl Group;Pop|Baby, I Love You",
 "Dusty Springfield|Wishin' and Hopin'|1964|vbAoOeXC2Sg?start=5|Dusty Springfield|S4398|Pop Soul;Pop;R&B;Soul|Wishin' and Hopin'",
