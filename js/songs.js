@@ -3408,7 +3408,7 @@ const songs = [
 "Herman's Hermits|No Milk Today|1966|cV9fGx7ygAc|Herman's Hermits|S6711|Baroque Pop;Pop Rock;Pop;Rock|No Milk Today",
 "Bill Withers|Use Me|1972|NuYDKzky4z0|Bill Withers|S5446|Rhythm & Blues;Smooth Soul;R&B;Soul|Use Me (Bill Withers song)",
 "Nina Simone|I Loves You, Porgy|1958|tq5A0YadWKs|Nina Simone|S2801|Vocal Jazz;Jazz|",
-"Deep Purple|Black Night|1970|Et3AJIry4iI|Deep Purple|S6015|Hard Rock;Rock|Black Night",
+"Deep Purple|Black Night|1970|IRlZdnbcEDI|Deep Purple|S6015|Hard Rock;Rock|Black Night",
 "Billy Idol|White Wedding|1982|AAZQaYKZMTI|Billy Idol|S3492|New Wave;Pop Rock;Pop;Rock|White Wedding (song)",
 "Cat Stevens|Father and Son|1970|iI9yKCV_Bac|Cat Stevens|S5736|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Father and Son (song)",
 "Queen|Don't Stop Me Now|1978|HgzGwKwLmgM?start=5|Queen (band)|S8044|Piano Rock;Pop;Pop Rock;Rock|Don't Stop Me Now",
