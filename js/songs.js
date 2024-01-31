@@ -8360,7 +8360,7 @@ const songs = [
 "Dr. Dre|The Next Episode|1999|QZXc39hT8t4|Dr. Dre|S6150|Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "My Bloody Valentine|I Only Said|1991|Zh6excugyG0|My Bloody Valentine (band)|S13042|Noise Pop;Shoegaze;Alternative Rock;Rock|",
 "Car Seat Headrest|Vincent|2016|bEsItsZphwQ|Car Seat Headrest|S16050|Indie Rock;Alternative Rock;Rock|",
-"The Hidden Cameras|Ban Marriage|2003|n-2lQ_xzQfE|The Hidden Cameras|S6713|Indie Pop;Pop|",
+"The Hidden Cameras|Ban Marriage|2003|3Q_duw9tPYg|The Hidden Cameras|S6713|Indie Pop;Pop|",
 "Temples|Shelter Song|2012|vs4i41cOv0s|Temples (band)|S9665|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|",
 "Hoodoo Gurus|What's My Scene?|1987|K2vjGGEnE6U|Hoodoo Gurus|S6731|Pop Rock;Pop;Rock|",
 "Catherine Wheel|Black Metallic|1991|mtTqR9oZX6Q|Catherine Wheel (band)|S5744|Shoegaze;Alternative Rock;Rock|",
