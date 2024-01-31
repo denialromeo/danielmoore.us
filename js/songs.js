@@ -1495,7 +1495,7 @@ const songs = [
 "The Velvet Underground|All Tomorrow's Parties|1966|AkDJcUCyjCU|The Velvet Underground|S1679|Art Rock;Experimental Rock;Rock|All Tomorrow's Parties",
 "Spinners|I'll Be Around|1972|CZGXOJVvbrQ|The Spinners (American R&B group)|S801|Philly Soul;Smooth Soul;R&B;Soul|I'll Be Around (The Spinners song)",
 "Etta James|I'd Rather Go Blind|1967|uZt1xKtPbUQ?start=5|Etta James|S2834|Soul Blues;Southern Soul;Blues;R&B;Soul|I'd Rather Go Blind",
-"James Brown|The Payback|1973|1cBZcpSeiFc|James Brown|S746|Funk;R&B|The Payback (song)",
+"James Brown|The Payback|1973|98A-mxR_vkU|James Brown|S746|Funk;R&B|The Payback (song)",
 "Dale Hawkins|Susie-Q|1957|8AtV7NTIt9g|Dale Hawkins|S1246|Rock & Roll;Swamp Rock;Rock;Roots Rock|Susie Q (song)",
 "Björk|Venus As a Boy|1993|iSNz1BYANnM|Björk|S131|Art Pop;Pop|Venus as a Boy",
 "Santana|Oye Como Va|1970|J7ATTjg7tpE|Carlos Santana|S1732|Latin Rock;Psychedelic Rock;Hispanic Music;Latin American Music;Regional Music;Rock|Oye Como Va",
