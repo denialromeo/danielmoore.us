@@ -1730,7 +1730,7 @@ const albums = [
 "The Everly Brothers|The Everly Brothers (They're Off and Rolling)|1957|PLctmTHPu2_t8t1OZs7JYDE8SHXp4roprb|A1263|The Everly Brothers (album)|The Everly Brothers|Close Harmony;Pop;Rock & Roll;American Folk Music;Country;Folk;Regional Music;Rock;Traditional Country;Traditional Folk Music",
 "Neko Case|Blacklisted|2002|OLAK5uy_ni4ZRhFrXdc1_6_pCYE9Jml4m98o-8pGA|A3971|Blacklisted (album)|Neko Case|Alt-Country;Alternative Singer/Songwriter;Country;Singer/Songwriter",
 "Captain Beefheart and The Magic Band|Doc at the Radar Station|1980|OLAK5uy_mrEXF1xPZ6pEdt0ijnUAJT82g7cC4U90o|A492|Doc at the Radar Station|Captain Beefheart|Art Rock;Experimental Rock;Rock",
-"Pixies|Come On Pilgrim EP|1987|OLAK5uy_nP04hAP7_QezHzFwScr1oD2KeFgZslPsg|A1528|Come On Pilgrim|Pixies (band)|Indie Rock;Alternative Rock;Rock",
+"Pixies|Come On Pilgrim|1987|OLAK5uy_nP04hAP7_QezHzFwScr1oD2KeFgZslPsg|A1528|Come On Pilgrim|Pixies (band)|Indie Rock;Alternative Rock;Rock",
 "Grant Lee Buffalo|Fuzzy|1993|OLAK5uy_nUUJPN5wr8xjgvmeqHf39dKpdBUElA3eU|A1580|Fuzzy (album)|Grant Lee Buffalo|Alt-Country;Americana;Indie Rock;Alternative Rock;Country;Rock",
 "Billy Idol|Rebel Yell|1983|OLAK5uy_nYOJcPiU2EQgMwEBkBXRK_1eEZ2AVM7ws|A2959|Rebel Yell (album)|Billy Idol|New Wave;Pop Rock;Pop;Rock",
 "Earth, Wind & Fire|That's the Way of the World|1975|OLAK5uy_nOZoqYKs7rDlrfo_5lm2MJ_SVaUiQr_Js|A1672|That's the Way of the World|Earth, Wind & Fire|Funk;Soul;R&B",
