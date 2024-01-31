@@ -7414,7 +7414,7 @@ const songs = [
 "Lionel Richie|Say You Say Me|1985|we0mk_J0zyc|Lionel Richie|S7274|Adult Contemporary;Pop Soul;Pop;R&B;Soul|Say You, Say Me",
 "Scott Walker|Montague Terrace (In Blue)|1967|jLOTAJQF0Fo|Scott Walker (singer)|S15855|Baroque Pop;Pop|",
 "The Marvelettes|Beechwood 4-5789|1962|neuY5AGJPbk|The Marvelettes|S1106|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|Beechwood 4-5789",
-"Reverend Thomas A. Dorsey|Take My Hand, Precious Lord|1932|4HNZNvlhlN4|Thomas A. Dorsey|S2675|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music|",
+"Reverend Thomas A. Dorsey|Take My Hand, Precious Lord|1932|6oVcgrbeByo|Thomas A. Dorsey|S2675|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music|Take My Hand, Precious Lord",
 "The Beatles|Baby You're a Rich Man|1967|i5m-sgtwFck|The Beatles|S5373|Pop Rock;Psychedelic Pop;Pop;Rock|Baby, You're a Rich Man",
 "Shihad|Home Again|1996|9KkEMRBTHK4|Shihad|S15866|Alternative Rock;Rock|",
 "Chris Knox|Not Given Lightly|1989|NaSV0ymL8jk|Chris Knox|S10402|Dunedin Sound;Indie Pop;Alternative Rock;Indie Rock;Pop;Rock|Not Given Lightly",
