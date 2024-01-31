@@ -288,7 +288,7 @@ const classical = [
 "Robert Schumann|Fantasie in C|1839|ZRZjHKX-JMA|Robert Schumann|Fantasie in C (Schumann)",
 "Hector Berlioz|Roméo et Juliette|1839|VZhBexI6F6U|Hector Berlioz|Roméo et Juliette (Berlioz)",
 "Frédéric Chopin|Preludes|1839|QWFR9joxbpc?start=4|Frédéric Chopin|Preludes (Chopin)",
-"Felix Mendelssohn|Piano Trios nos. 1 & 2|1839-1845|Bu3AI96hBk8|Felix Mendelssohn|Piano Trio No. 1 (Mendelssohn)",
+"Felix Mendelssohn|Piano Trios nos. 1 & 2|1839-1845|-PAFzEnJ6NU?start=7|Felix Mendelssohn|Piano Trio No. 1 (Mendelssohn)",
 "Frédéric Chopin|Piano Sonata No. 2|1839|KUQX-eAOWw0?start=7|Frédéric Chopin|Piano Sonata No. 2 (Chopin)",
 "Franz Liszt|Paraphrases & Transcriptions|1840|Y8MGa0MOt3c|Franz Liszt|",
 "Robert Schumann|Dichterliebe|1840|bZvsTlk85Xg|Robert Schumann|Dichterliebe",
