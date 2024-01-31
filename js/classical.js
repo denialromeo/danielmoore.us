@@ -163,7 +163,7 @@ const classical = [
 "Joseph Haydn|String Quartets, Op. 64|1790|LroM8mR5kqc|Joseph Haydn|String Quartets, Op. 64 (Haydn)",
 "Wolfgang Amadeus Mozart|Così fan tutte|1790|MXCEuYL1pBU|Wolfgang Amadeus Mozart|Così fan tutte",
 "Wolfgang Amadeus Mozart|Ave verum corpus|1791|gDKCK_6WLTg|Wolfgang Amadeus Mozart|Ave verum corpus (Mozart)",
-"Wolfgang Amadeus Mozart|The Magic Flute|1791|YuBeBjqKSGQ|Wolfgang Amadeus Mozart|The Magic Flute",
+"Wolfgang Amadeus Mozart|The Magic Flute|1791|cE64eIZi9Lw|Wolfgang Amadeus Mozart|The Magic Flute",
 "Joseph Haydn|Symphony No. 94, \"Surprise\"|1791|tF5kr251BRs|Joseph Haydn|",
 "Wolfgang Amadeus Mozart|La clemenza di Tito|1791|c0-1RWLrz4o|Wolfgang Amadeus Mozart|La clemenza di Tito",
 "Wolfgang Amadeus Mozart|Piano Concerto No. 27|1791|Yaaksm19IzU|Wolfgang Amadeus Mozart|Piano Concerto No. 27 (Mozart)",
