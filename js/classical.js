@@ -355,7 +355,7 @@ const classical = [
 "Henri Vieuxtemps|Violin Concerto No. 5|1861|oCFKcQsXeZ4|Henri Vieuxtemps|Violin Concerto No. 5 (Vieuxtemps)",
 "Giuseppe Verdi|La forza del destino|1862-1869|drbHCt0lwzo|Giuseppe Verdi|La forza del destino",
 "Henryk Wieniawski|Violin Concerto No. 2|1862|T7KNd6W5OXo|Henryk Wieniawski|",
-"Johannes Brahms|Piano Quintet in F minor|1862-1864|b-DqO_D1g1g|Johannes Brahms|Piano Quintet (Brahms)",
+"Johannes Brahms|Piano Quintet|1862-1864|Ewuwa-gujBg|Johannes Brahms|Piano Quintet (Brahms)",
 "Camille Saint-Saens|Introduction and Rondo capriccioso|1863|8UTq1eZrDkI|Camille Saint-Saëns|Introduction and Rondo Capriccioso",
 "Gioachino Rossini|Petite messe solennelle|1863-1867|CqrzmdevQSI|Gioachino Rossini|Petite messe solennelle",
 "Georges Bizet|The Pearl Fishers|1863|csgt5pktsto|Georges Bizet|Les pêcheurs de perles",
