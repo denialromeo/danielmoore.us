@@ -10140,7 +10140,7 @@ const songs = [
 "Roger Glover|Love Is All|1974|RW9OYsMn4ds|Roger Glover|S8204|Pop Rock;Pop;Rock|Love Is All (Roger Glover song)",
 "Beyoncé feat. Kendrick Lamar|Freedom|2016|yPMGCMoWrBc|Beyoncé|S16039|Contemporary R&B;Pop Rap;Hip Hop;R&B|Freedom (Beyoncé song)",
 "Nancy Sinatra|Bang Bang (My Baby Shot Me Down)|1966|BkKDSFYvxKU|Nancy Sinatra|S11713|Pop Soul;Pop;R&B;Soul|",
-"Village People|Macho Man|1978|_bLRaGo-Qwc|Village People|S12601|Disco;Dance|Macho Man (song)",
+"Village People|Macho Man|1978|xzW3uNh91ak|Village People|S12601|Disco;Dance|Macho Man (song)",
 "The Sonics|Boss Hoss|1965|7hAT-Lz7M_g|The Sonics|S1674|Garage Rock;Proto-Punk;Rock & Roll;Rock|",
 "Blur|Lonesome Street|2015|oo55vzpL85w|Blur (band)|S9713|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Lonesome Street",
 "Midlake|Acts of Man|2009|fEIdxj1mSmU?start=56|Midlake|S11636|Indie Folk;Contemporary Folk;Folk|",
