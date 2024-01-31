@@ -972,7 +972,7 @@ const classical = [
 "Olivier Messiaen|Livre du Saint Sacrement|1984|OLAK5uy_m-j_MmnHsznUO-fUr1In7oPfhE4xuqT6Q|Olivier Messiaen|",
 "Hans Werner Henze|Symphony No. 7|1984|QmRpoA74BME|Hans Werner Henze|",
 "Helmut Lachenmann|Mouvement (-vor der Erstarrung)|1984|zRLBdHR2L7c|Helmut Lachenmann|Mouvement (– vor der Erstarrung)",
-"John Adams|Harmonielehre|1985|a74Cg0jdR0c|John Adams (composer)|",
+"John Adams|Harmonielehre|1985|a74Cg0jdR0c|John Adams (composer)|Harmonielehre",
 "Gyorgy Ligeti|Études|1985-2004|XHhZ2TzHlow|György Ligeti|Études (Ligeti)",
 "Witold Lutoslawski|Chain 2|1985|LHlD62R3E80|Witold Lutosławski|",
 "Alfred Schnittke|String Trio|1985|kueXf27ecz8|Alfred Schnittke|",
