@@ -5960,7 +5960,7 @@ const songs = [
 "Brigitte Bardot|Harley Davidson|1967|ai2As4XFZDY|Brigitte Bardot|S5622|French Pop;Yé-yé;Pop|",
 "The Stone Roses|Ten Storey Love Song|1994|0uNLw3pXlVM|The Stone Roses|S2426|Baggy / Madchester;Neo-Psychedelia;Pop Rock;Alternative Rock;Pop;Psychedelic Rock;Rock|Ten Storey Love Song",
 "Merle Haggard|Hungry Eyes|1969|hXlEKFansk0|Merle Haggard|S1713|Bakersfield Sound;Country;Honky Tonk|Hungry Eyes (Merle Haggard song)",
-"Grandaddy|He's Simple, He's Dumb, He's the Pilot|2000|IURAKQV7q_o|Grandaddy|S6628|Indie Rock;Progressive Pop;Space Rock;Alternative Rock;Pop;Psychedelic Rock;Rock|He's Simple, He's Dumb, He's the Pilot.",
+"Grandaddy|He's Simple, He's Dumb, He's the Pilot|2000|T6XcI384y8k|Grandaddy|S6628|Indie Rock;Progressive Pop;Space Rock;Alternative Rock;Pop;Psychedelic Rock;Rock|He's Simple, He's Dumb, He's the Pilot.",
 "Tame Impala|Solitude Is Bliss|2010|-F2e9fmYL7Y|Tame Impala|S8678|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|",
 "Bob Dylan|Love Sick|1997|D_XPK9eU2BU|Bob Dylan|S10232|Blues Rock;Singer/Songwriter;Rock|Love Sick (Bob Dylan song)",
 "The Beatles|Yer Blues|1968|HEQQ-1rd4A0|The Beatles|S5379|Blues Rock;Rock|Yer Blues",
