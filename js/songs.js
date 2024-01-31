@@ -5555,7 +5555,7 @@ const songs = [
 "Pale Saints|Sight of You|1989|XiSKxvmd1bg|Pale Saints|S11833|Dream Pop;Shoegaze;Alternative Rock;Rock|",
 "Vanilla Fudge|You Keep Me Hangin' On|1967|R3ChToIvLRM|Vanilla Fudge|S2840|Heavy Psych;Hard Rock;Psychedelic Rock;Rock|You Keep Me Hangin' On",
 "Bright Eyes|Lover I Don't Have to Love|2002|iuXkhE0VMcw|Bright Eyes (band)|S5619|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|Lover I Don't Have to Love",
-"Bert Jansch|Needle of Death|1965|oA7npXJLQOU|Bert Jansch|S5418|Folk Baroque;Singer/Songwriter;Contemporary Folk;English Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music|Bert Jansch (album)",
+"Bert Jansch|Needle of Death|1965|is1uCyTJ_DA|Bert Jansch|S5418|Folk Baroque;Singer/Songwriter;Contemporary Folk;English Folk Music;European Folk Music;Folk;Regional Music;Traditional Folk Music|Bert Jansch (album)",
 "WU LYF|We Bros|2011|Ca9rBWTyuU0|WU LYF|S9070|Art Rock;Indie Rock;Alternative Rock;Rock|",
 "Shanice|I Love Your Smile|1991|Z9GSMei0NAw|Shanice|S8379|Contemporary R&B;Pop;R&B|I Love Your Smile",
 "Johnny Cash|A Boy Named Sue|1969|WOHPuY88Ry4|Johnny Cash|S4125|Country;Rockabilly;Rock;Rock & Roll|A Boy Named Sue",
