@@ -6082,7 +6082,7 @@ const songs = [
 "Jesus Jones|Right Here, Right Now|1991|MznHdJReoeo|Jesus Jones|S198|Grebo;Alternative Dance;Alternative Rock;Dance;Rock|Right Here, Right Now (Jesus Jones song)",
 "Sonny Boy Williamson (II)|Eyesight to the Blind|1951|NktV1GJ5GtY|Sonny Boy Williamson II|S8496|Chicago Blues;Blues;Electric Blues|",
 "Jimmie Dale & The Flatlanders|Dallas|1972|Z1mQvHXRlZE|The Flatlanders|S11208|Country|",
-"Lou Christie|Lightnin' Strikes|1965|LyRqdzF8swY|Lou Christie|S3276|Blue Eyed Soul;Pop Rock;Pop;Rock|Lightnin' Strikes",
+"Lou Christie|Lightnin' Strikes|1965|1YjSAMtSQ2Y?start=27|Lou Christie|S3276|Blue Eyed Soul;Pop Rock;Pop;Rock|Lightnin' Strikes",
 "Sui Generis|Canción para mi muerte|1972|-LKg9YNB1kw|Sui Generis|S12350|Folk Rock;Rock|",
 "Bob Dylan|You're Gonna Make Me Lonesome When You Go|1975|slmCQP75PEo|Bob Dylan|S10249|Contemporary Folk;Singer/Songwriter;Folk|You're Gonna Make Me Lonesome When You Go",
 "Jon Hopkins|Emerald Rush|2018|4sk0uDbM5lc|Jon Hopkins|S16592|Progressive House;Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|",
