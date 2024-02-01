@@ -778,7 +778,7 @@ const classical = [
 "Sergei Prokofiev|Romeo and Juliet|1935|7qqrIusxVAI?start=4|Sergei Prokofiev|Romeo and Juliet (Prokofiev)",
 "Alban Berg|Lulu|1935|bLuLsFjnCjI|Alban Berg|Lulu (opera)",
 "William Walton|Symphony No. 1|1935|R3MNvdEbvik|William Walton|Symphony No. 1 (Walton)",
-"Alban Berg|Violin Concerto|1935|P0GzNmf_AUw|Alban Berg|Violin Concerto (Berg)",
+"Alban Berg|Violin Concerto|1935|8-srlUzphpE?start=3|Alban Berg|Violin Concerto (Berg)",
 "George Gershwin|Porgy and Bess|1935|Vi2IWu-C2ds?start=3|George Gershwin|",
 "Sergei Prokofiev|Violin Concerto No. 2|1935|jMQAbX0xO90?start=30|Sergei Prokofiev|Violin Concerto No. 2 (Prokofiev)",
 "Samuel Barber|Adagio for Strings|1936|WAoLJ8GbA4Y?start=6|Samuel Barber|Adagio for Strings",
