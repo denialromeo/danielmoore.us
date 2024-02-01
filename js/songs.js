@@ -9187,7 +9187,7 @@ const songs = [
 "Kid Frost|La Raza|1990|bZ8AS300WH4|Frost (rapper)|S7095|Chicano Rap;West Coast Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop;Latin Rap|La Raza (song)",
 "Schneider TM|Frogtoise|2002|-476A0Feic4|Schneider TM|S8325|Indietronica;Electronic|",
 "Nino Ferrer|La Rua Madureira|1969|2_r8KMzeA4o|Nino Ferrer|S11767|Chanson;Regional Music|",
-"Rita Montaner|El Manisero (The Peanut Vendor)|1928|iAxw3P-vEBk|Rita Montaner|S14947|Rhumba;Son Cubano;Cuban Music;Hispanic Music;Latin American Music;Regional Music|The Peanut Vendor",
+"Rita Montaner|El Manisero (The Peanut Vendor)|1928|egtViF0Dkys|Rita Montaner|S14947|Rhumba;Son Cubano;Cuban Music;Hispanic Music;Latin American Music;Regional Music|The Peanut Vendor",
 "Diana Ross|Theme from Mahogany (Do You Know Where You're Going To)|1975|1aFXN7Yrx7g|Diana Ross|S6064|Adult Contemporary;Film Soundtrack;Pop Soul;Descriptor;Pop;R&B;Soul;Soundtracks|Theme from Mahogany (Do You Know Where You're Going To)",
 "Daniel Lanois|The Maker|1989|w-JtAcpKtYQ|Daniel Lanois|S10499|Pop Rock;Singer/Songwriter;Pop;Rock|",
 "Morgan|Miss Parker|1999|4cAS_dAnyZU|Morgan Nicholls|S2167|Trip Hop;Downtempo;Electronic|",
