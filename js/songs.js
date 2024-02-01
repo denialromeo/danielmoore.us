@@ -1208,7 +1208,7 @@ const songs = [
 "Pet Shop Boys|Being Boring|1990|DnvFOaBoieE|Pet Shop Boys|S233|Sophisti-Pop;Synthpop;Electronic;Pop|Being Boring",
 "Fingers Inc.|Can You Feel It|1987|tFuujExs03A|Larry Heard|S1975|Chicago House;Deep House;Dance;Electronic;Electronic Dance Music;House|Can You Feel It (Larry Heard song)",
 "Liz Phair|Fuck and Run|1993|3DFpJBEKugY|Liz Phair|S3699|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock|Fuck and Run",
-"The Staple Singers|Respect Yourself|1971|-1pYKdqD1ls|The Staple Singers|S831|Southern Soul;R&B;Soul|Respect Yourself",
+"The Staple Singers|Respect Yourself|1971|oab4ZCfTbOI|The Staple Singers|S831|Southern Soul;R&B;Soul|Respect Yourself",
 "Carole King|You've Got a Friend|1971|eAR_Ff5A8Rk|Carole King|S2566|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|You've Got a Friend",
 "The Band|Up on Cripple Creek|1969|zFFGkDmjRlo|The Band|S2532|Country Rock;Roots Rock;Rock|Up on Cripple Creek",
 "Madonna|Material Girl|1984|6p-lDYPR2P8?start=31|Madonna (entertainer)|S2617|Dance-Pop;Synthpop;Dance;Electronic;Pop|Material Girl",
