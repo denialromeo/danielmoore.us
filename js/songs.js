@@ -7465,7 +7465,7 @@ const songs = [
 "Jewel|Who Will Save Your Soul|1995|_RVYEgGgDKs|Jewel (singer)|S12949|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Who Will Save Your Soul",
 "Björk|New World|2000|UZt8eic_KNw|Björk|S4666|Art Pop;Baroque Pop;Film Soundtrack;Descriptor;Pop;Soundtracks|",
 "Hugo Montenegro|The Good, the Bad and the Ugly|1968|qd_7Bnxblo4|Hugo Montenegro|S6751|Easy Listening;Spaghetti Western;Cinematic Classical;Classical Music;Pop|",
-"The Rentals|Friends of P|1995|wi-H6ohY37k|The Rentals|S8137|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|",
+"The Rentals|Friends of P.|1995|wi-H6ohY37k|The Rentals|S8137|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Friends of P.",
 "Buckcherry|Lit Up|1999|cABZfkRcQ6A|Buckcherry|S5666|Hard Rock;Rock|",
 "Bobby Bland|Stormy Monday Blues|1962|BCqEzfWrXfM|Bobby Bland|S9168|Electric Blues;Soul Blues;Blues|",
 "Lizzo|Good As Hell|2016|SmbmeOgWsqE|Lizzo|S16135|Contemporary R&B;Film Soundtrack;Pop Soul;Descriptor;Pop;R&B;Soul;Soundtracks|Good as Hell",
