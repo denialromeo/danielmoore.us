@@ -277,7 +277,7 @@ const classical = [
 "Robert Schumann|Études symphoniques|1835-1852|PLC0324E2JQQZNlEmh1aEBeHAzimfisoxL|Robert Schumann|Symphonic Studies",
 "Robert Schumann|Carnaval|1835|zk8v0HkzKzc|Robert Schumann|Carnaval (Schumann)",
 "Robert Schumann|Piano Sonata No. 1|1835|KM_4iZGBcWM|Robert Schumann|Piano Sonata No. 1 (Schumann)",
-"Frédéric Chopin|Ballades|1835-1841|3QH8MstNkKg|Frédéric Chopin|Ballades (Chopin)",
+"Frédéric Chopin|Ballades|1835-1841|qb0Ebqe9JJo|Frédéric Chopin|Ballades (Chopin)",
 "Giacomo Meyerbeer|Les Huguenots|1836|sK0xbDR3ckU|Giacomo Meyerbeer|Les Huguenots",
 "Felix Mendelssohn|String Quartets, Op. 44|1837-1838|YYnZnPlOywk|Felix Mendelssohn|String Quartet No. 3 (Mendelssohn)",
 "Robert Schumann|Davidsbündlertänze|1837|xXwMvwlZ2j8|Robert Schumann|Davidsbündlertänze",
