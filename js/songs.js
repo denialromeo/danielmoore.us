@@ -3044,7 +3044,7 @@ const songs = [
 "Gang Gang Dance|House Jam|2008|rqn7kaCm8No|Gang Gang Dance|S4778|Alternative Dance;Psychedelic Pop;Alternative Rock;Dance;Pop;Rock|",
 "Animal Collective|Peacebone|2007|fxvGHQHiY70|Animal Collective|S4290|Glitch Pop;Neo-Psychedelia;Psychedelic Pop;Electronic;Pop;Psychedelic Rock;Rock|",
 "Vaughn Monroe|(Ghost) Riders in the Sky (A Cowboy Legend)|1949|ais2uSUwIuY|Vaughn Monroe|S2764|Cowboy;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|(Ghost) Riders in the Sky: A Cowboy Legend",
-"Bing Crosby|Swinging on a Star|1944|rATftJiWdkw|Bing Crosby|S2668|Standards;Pop;Traditional Pop|",
+"Bing Crosby|Swinging on a Star|1944|gRazSO9xjFo|Bing Crosby|S2668|Standards;Pop;Traditional Pop|",
 "Ol' Dirty Bastard|Brooklyn Zoo|1995|81VrSMrS5F8|Ol' Dirty Bastard|S4225|Boom Bap;East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "Curtis Mayfield|(Don't Worry) If There's a Hell Below We're All Going to Go|1970|BzsmciMNAGU|Curtis Mayfield|S1722|Chicago Soul;Funk;Psychedelic Soul;R&B;Soul|(Don't Worry) If There's a Hell Below, We're All Going to Go",
 "Prince|I Could Never Take the Place of Your Man|1987|t5Px4jY1TVc|Prince (musician)|S1968|Pop Rock;Pop;Rock|I Could Never Take the Place of Your Man",
