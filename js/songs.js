@@ -8254,7 +8254,7 @@ const songs = [
 "Eddie Boyd|Five Long Years|1952|5aP3xSAdNc4|Eddie Boyd|S13448|Chicago Blues;Piano Blues;Blues;Electric Blues|Five Long Years",
 "Slim Harpo|Rainin' in My Heart|1961|usAbo-RamWo|Slim Harpo|S1138|Swamp Blues;Blues;Electric Blues|Rainin' in My Heart (song)",
 "Sparkle|Be Careful|1998|2x86tostIKE|Sparkle (singer)|S8514|Contemporary R&B;R&B|Be Careful (Sparkle song)",
-"Rina Ketty|J'attendrai|1938|RSb8QJFdHdw|Rina Ketty|S12070|Chanson;Regional Music|J'attendrai",
+"Rina Ketty|J'attendrai|1938|RSb8QJFdHdw?start=3|Rina Ketty|S12070|Chanson;Regional Music|J'attendrai",
 "Orquesta Aragón|El bodeguero|1955|M3o8KdbKlcI|Orquesta Aragón|S14827|Chachachá;Cuban Charanga;Cuban Music;Hispanic Music;Latin American Music;Regional Music|",
 "The Ugly Ducklings|Nothin'|1966|oiF99odxIMg|The Ugly Ducklings|S8889|Garage Rock;Rock|",
 "Fountains of Wayne|Sink to the Bottom|1996|pKNF1J6wbRk|Fountains of Wayne|S6422|Indie Rock;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|",
