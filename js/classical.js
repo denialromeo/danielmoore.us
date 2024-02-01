@@ -861,7 +861,7 @@ const classical = [
 "Sergei Prokofiev|Violin Sonata No. 1|1946|LS0MlhTGxe8|Sergei Prokofiev|Violin Sonata No. 1 (Prokofiev)",
 "Franz Waxman|Carmen Fantasie|1946|ZqYIdaZ0TwM|Franz Waxman|Carmen Fantasie (Waxman)",
 "Kurt Weill|Street Scene|1946|xaCu-V3S7m8|Kurt Weill|Street Scene (opera)",
-"Ned Rorem|Songs|1946-1999|FA6MLjPvWRw|Ned Rorem|",
+"Ned Rorem|Songs|1946-1999|OLAK5uy_lxeWsDkB8z1xuhHsdlAtp3ILQbBrIZWN0|Ned Rorem|",
 "Arnold Schoenberg|A Survivor from Warsaw|1947|rGWai0SEpUQ|Arnold Schoenberg|A Survivor from Warsaw",
 "Ralph Vaughan Williams|Symphony No. 6|1947-1950|yiFm7HVGkFo|Ralph Vaughan Williams|Symphony No. 5 (Vaughan Williams)",
 "Maurice Durufle|Requiem|1947|Z1Wx87CtFPQ?start=68|Maurice Duruflé|Requiem (Duruflé)",
