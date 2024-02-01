@@ -3075,7 +3075,7 @@ const songs = [
 "Pearl Jam|Better Man|1994|_4BObpNQqNo|Pearl Jam|S7920|Alternative Rock;Rock|Better Man (Pearl Jam song)",
 "Jai Paul|BTSTU|2011|UUBAFPIHETA|Jai Paul|S6838|Alternative R&B;Indietronica;Wonky;Contemporary R&B;Dance;Electronic;Electronic Dance Music;R&B|BTSTU",
 "Christina Aguilera|Ain't No Other Man|2006|8x7Ta89QLo4|Christina Aguilera|S4002|Contemporary R&B;Pop;R&B|Ain't No Other Man",
-"Charles Mingus|Goodbye Pork Pie Hat|1959|sxz9eZ1Aons|Charles Mingus|S10374|Cool Jazz;Jazz|",
+"Charles Mingus|Goodbye Pork Pie Hat|1959|p-GPUEp_zUs|Charles Mingus|S10374|Cool Jazz;Jazz|",
 "Elmore James|The Sky Is Crying|1960|S788gj9vdp0|Elmore James|S1186|Chicago Blues;Blues;Electric Blues|",
 "Elton John|Daniel|1973|UA78e27R_J4|Elton John|S6237|Piano Rock;Pop;Pop Rock;Rock|Daniel (Elton John song)",
 "t.A.T.u.|All the Things She Said|2002|8mGBaXPlri8|T.A.T.u.|S2392|Europop;Pop Rock;Pop;Rock|All the Things She Said",
