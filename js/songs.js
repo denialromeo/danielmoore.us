@@ -4892,7 +4892,7 @@ const songs = [
 "The Pains of Being Pure at Heart|Higher Than the Stars|2009|I4yhyNgr0jo|The Pains of Being Pure at Heart|S7840|Dream Pop;Twee Pop;Alternative Rock;Indie Pop;Pop;Rock|",
 "Mocedades|Eres Tú|1973|7xLHpT3rMyQ|Mocedades|S7580|Canción melódica;Hispanic Music;Regional Music|",
 "Burning Spear|Slavery Days|1975|LnRZSBmpc74|Burning Spear|S5681|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
-"XTC|The Mayor of Simpleton|1989|5Da9sc6YDBo|XTC|S3980|Jangle Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|Mayor of Simpleton",
+"XTC|Mayor of Simpleton|1989|Ciq0wlhwUVw|XTC|S3980|Jangle Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|Mayor of Simpleton",
 "Lou Reed|Sweet Jane (Live)|1974|LrMLt9bMd_I|Lou Reed|S730|Art Rock;Glam Rock;Rock|Sweet Jane",
 "Van Halen|Hot For Teacher|1984|6M4_Ommfvv0|Van Halen|S3935|Glam Metal;Hard Rock;Rock|Hot for Teacher",
 "Belly|Feed the Tree|1993|RQJjUbMrt8w|Belly (band)|S137|Alternative Rock;Rock|Feed the Tree",
