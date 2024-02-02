@@ -10283,7 +10283,7 @@ const songs = [
 "Milky Chance|Stolen Dance|2013|iX-QaNzd-0Y|Milky Chance|S15716|Folktronica;Indie Pop;Electronic;Pop|Stolen Dance",
 "International Pony|Gothic Girl|2006|nvOlpiw9OHI|International Pony|S6789|Downtempo;Electropop;Synth Funk;Synthpop;Electronic;Funk;Pop;R&B|",
 "Toro y Moi|New Beat|2011|W4J6bFDvvwY|Toro y Moi|S8822|Synth Funk;Funk;R&B|",
-"Riot|Swords and Tequila|1981|7JruuMkV0gM|Riot V|S14946|Heavy Metal;Metal;Rock|",
+"Riot|Swords and Tequila|1981|hv4lKJ0pdTg|Riot V|S14946|Heavy Metal;Metal;Rock|",
 "Tove Lo|Cool Girl|2016|XsFneCExrCQ|Tove Lo|S16207|Dance-Pop;Electropop;Dance;Electronic;Pop|Cool Girl",
 "Dalida|Il venait d'avoir 18 ans|1974|zyDZc8QDlYY|Dalida|S10483|Chanson;French Pop;Pop;Regional Music|Il venait d'avoir 18 ans",
 "Rush|Limelight|1981|ZiRuj2_czzw|Rush (band)|S12130|Progressive Rock;Rock|Limelight (Rush song)",
