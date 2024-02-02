@@ -236,7 +236,7 @@ const songs = [
 "The Stooges|I Wanna Be Your Dog|1969|3gsWt7ey6bo|The Stooges|S888|Garage Rock;Hard Rock;Proto-Punk;Rock|I Wanna Be Your Dog",
 "Smashing Pumpkins|1979|1995|4aeETEoNfOg|The Smashing Pumpkins|S35|Alternative Rock;Rock|1979 (song)",
 "Stan Getz|The Girl from Ipanema|1964|sVdaFQhS86E|João Gilberto|S2826|Samba-Jazz;Bossa Nova;Brazilian Music;Jazz;Regional Music|The Girl from Ipanema",
-"Sam Cooke|You Send Me|1957|mrwfB4aAZZc|Sam Cooke|S1236|Soul;R&B|You Send Me",
+"Sam Cooke|You Send Me|1957|REjmIdpAHsw|Sam Cooke|S1236|Soul;R&B|You Send Me",
 "The Troggs|Wild Thing|1966|gSWInYFVksg|The Troggs|S974|Garage Rock;Rock|Wild Thing (The Troggs song)",
 "David Bowie|Ziggy Stardust|1972|XXq5VvYAI1Q|David Bowie|S804|Glam Rock;Rock|Ziggy Stardust (song)",
 "Wilson Pickett|In the Midnight Hour|1965|FGVGFfj7POA|Wilson Pickett|S996|Southern Soul;R&B;Soul|In the Midnight Hour",
