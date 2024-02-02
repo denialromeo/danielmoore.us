@@ -10857,7 +10857,7 @@ const songs = [
 "Glenn Frey|The Heat Is On|1984|C070_4ya98Y|Glenn Frey|S14444|Film Soundtrack;Pop Rock;Descriptor;Pop;Rock;Soundtracks|The Heat Is On (Glenn Frey song)",
 "Demi Lovato|Cool for the Summer|2015|il9nqWw9W3Y|Demi Lovato|S9736|Dance-Pop;Synthpop;Dance;Electronic;Pop|Confident (Demi Lovato song)",
 "Classical Two|New Generation|1987|9yNwhu_BqXs|https://www.discogs.com/artist/21924-The-Classical-Two|S10423|Hardcore Hip Hop;Hip Hop|",
-"Liza Minnelli|Losing My Mind|1989|Kj2nYBgOgBA|Liza Minnelli|S7286|Dance-Pop;Synthpop;Dance;Electronic;Pop|Losing My Mind",
+"Liza Minnelli|Losing My Mind|1989|ruaZarDQfXE|Liza Minnelli|S7286|Dance-Pop;Synthpop;Dance;Electronic;Pop|Losing My Mind",
 "The Techniques|Queen Majesty|1967|Sxhh_rkMvP4|The Techniques|S15109|Rocksteady;Caribbean Music;Jamaican Music;Regional Music|",
 "The Byrds|Lady Friend|1967|BhPA7MssPsE|The Byrds|S13280|Folk Rock;Rock|Lady Friend",
 "David Crosby|Music Is Love|1971|ogCHUHD-y1Q|David Crosby|S5979|Folk Pop;Folk Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock|",
