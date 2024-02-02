@@ -5520,7 +5520,7 @@ const songs = [
 "Malcolm X|No Sell Out|1983|MCWlGH-MeMU|Keith LeBlanc|S463|Synth Funk;Funk;R&B|",
 "Chuck Berry|Almost Grown|1959|kORzqpAbpTY|Chuck Berry|S1182|Rock & Roll;Rock|Almost Grown (song)",
 "Lou Reed|Caroline Says I|1973|-wL1edIlgzs|Lou Reed|S12807|Art Rock;Rock|Candy Says",
-"Johnny Cash|The Man Comes Around|2002|jiMXK9eDrMY|Johnny Cash|S6978|Americana;Singer/Songwriter;Country|",
+"Johnny Cash|The Man Comes Around|2002|jiMXK9eDrMY|Johnny Cash|S6978|Americana;Singer/Songwriter;Country|The Man Comes Around",
 "Don Covay|It's Better to Have (And Don't Need)|1974|wQnm1DllbQE|Don Covay|S6122|Rhythm & Blues;R&B|",
 "Leonard Cohen|Who by Fire|1974|251Blni2AE4|Leonard Cohen|S7242|Contemporary Folk;Singer/Songwriter;Folk|Songs of Leonard Cohen",
 "Sebadoh|The Freed Pig|1991|Um7kFyLmrQI|Sebadoh|S3797|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock|Sebadoh III|",
