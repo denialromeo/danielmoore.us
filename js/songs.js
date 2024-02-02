@@ -1512,7 +1512,7 @@ const songs = [
 "Eric B. & Rakim|Follow the Leader|1988|95gP3m-uBHA|Eric B. & Rakim|S315|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "Estelle|American Boy|2008|Ic5vxw3eijY|Estelle (musician)|S4715|Contemporary R&B;Dance-Pop;Funktronica;Dance;Electronic;Electronic Dance Music;Pop;R&B|American Boy",
 "Deerhunter|Helicopter|2010|G5RzpPrOd-4|Deerhunter|S4897|Indie Pop;Neo-Psychedelia;Pop;Psychedelic Rock;Rock|",
-"The Normal|Warm Leatherette|1978|S5QErPDNcj4|The Normal|S1568|Minimal Synth;Synth Punk;Electronic;Minimal Wave;Punk Rock;Rock|Warm Leatherette",
+"The Normal|Warm Leatherette|1978|1lC5xIaoClU|The Normal|S1568|Minimal Synth;Synth Punk;Electronic;Minimal Wave;Punk Rock;Rock|Warm Leatherette",
 "Sweet|Ballroom Blitz|1973|7lTwA5xMeTM|The Sweet|S1770|Glam Rock;Rock|The Ballroom Blitz",
 "Kacey Musgraves|Slow Burn|2018|NC7cmWkBoz4|Kacey Musgraves|S16554|Contemporary Country;Singer/Songwriter;Country|Golden Hour (Kacey Musgraves album)",
 "The Weavers|Goodnight Irene|1950|MSDyiUBrUSk|The Weavers|S1339|Contemporary Folk;Folk|Goodnight, Irene",
