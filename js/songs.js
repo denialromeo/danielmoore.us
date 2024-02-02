@@ -10563,7 +10563,7 @@ const songs = [
 "Serge Gainsbourg|Aux armes et caetera|1979|Wd4qEzNyzmo|Serge Gainsbourg|S8362|Reggae;Caribbean Music;Jamaican Music;Regional Music|",
 "Detroit Grand Pubahs|Sandwiches|2000|94IdL3djJVU|Detroit Grand Pubahs|S6053|Ghettotech;Dance;Electronic;Electronic Dance Music;Ghetto House;House|Sandwiches (song)",
 "Molly Hatchet|Flirtin' with Disaster|1979|MOhGgRgRsmo|Molly Hatchet|S11672|Hard Rock;Southern Rock;Rock|Flirtin' with Disaster (song)",
-"Malcolm McLaren|Double Dutch|1983|FZ4jMSCBswY|Malcolm McLaren|S13563|Dance-Pop;Hip Hop;New Wave;Dance;Pop;Rock|",
+"Malcolm McLaren|Double Dutch|1983|FZ4jMSCBswY|Malcolm McLaren|S13563|Dance-Pop;Hip Hop;New Wave;Dance;Pop;Rock|Double Dutch (song)",
 "Wild Beasts|Hooting & Howling|2009|DwHoh2vNdiA|Wild Beasts|S9021|Art Pop;Indie Pop;Pop|",
 "Autre Ne Veut|Counting|2012|mzDa5O5o30c|Autre Ne Veut|S10046|Alternative R&B;Art Pop;Synthpop;Contemporary R&B;Electronic;Pop;R&B|",
 "Young Thug feat. Wyclef Jean|Kanye West|2016|wAhNZO7Fwd0|Young Thug|S16221|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
