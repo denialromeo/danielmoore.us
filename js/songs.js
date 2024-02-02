@@ -10467,7 +10467,7 @@ const songs = [
 "Fleet Foxes|The Shrine / An Argument|2011|9yAxIdkF2Qo|Fleet Foxes|S6388|Chamber Folk;Indie Folk;Progressive Folk;Contemporary Folk;Folk|",
 "Vanity Fare|Hitchin' a Ride|1969|MUjmSYutW5M|Vanity Fare|S8930|Bubblegum;Pop Rock;Pop;Rock|Hitchin' a Ride (Vanity Fare song)",
 "The Ruts|West One (Shine on Me)|1980|PrwLmaqx1W0|The Ruts|S8286|Punk Rock;Rock|",
-"James Brown|Get Up Offa That Thing|1976|1_uNMy20qAI|James Brown|S2880|Funk;R&B|Get Up Offa That Thing",
+"James Brown|Get Up Offa That Thing|1976|QVHUVh4f_xc|James Brown|S2880|Funk;R&B|Get Up Offa That Thing",
 "Eric Clapton|Blues Power|1970|k_IM9zUadqw|Eric Clapton|S10743|Blues Rock;Pop Rock;Pop;Rock|",
 "Sugar Pie DeSanto|Soulful Dress|1964|TVap-SkdMMs|Sugar Pie DeSanto|S13362|Rhythm & Blues;R&B|",
 "Split Enz|Six Months in a Leaky Boat|1982|ar7DgREshAk|Split Enz|S8537|Art Pop;Pop Rock;Pop;Rock|Six Months in a Leaky Boat",
