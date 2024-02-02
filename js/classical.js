@@ -98,7 +98,7 @@ const classical = [
 "Georg Philipp Telemann|Tafelmusik|1733|xNFkKhfdgZM|Georg Philipp Telemann|Tafelmusik (Telemann)",
 "Johann Sebastian Bach|Christmas Oratorio|1734-1735|98UjjwzJBFE|Johann Sebastian Bach|Christmas Oratorio",
 "George Frideric Handel|Ariodante|1735|JGnW-HZCiD8|George Frideric Handel|",
-"George Frideric Handel|Organ Concertos|1735-1751|PLawrJgP30lZzVcDwDX9Q-6shONTUEzQcT|George Frideric Handel|",
+"George Frideric Handel|Organ Concertos|1735-1751|PLawrJgP30lZzVcDwDX9Q-6shONTUEzQcT|George Frideric Handel|Organ concertos, Op. 4 (Handel)",
 "Jean-Philippe Rameau|Les Indes galantes|1735|_aPKLslVDSE|Jean-Philippe Rameau|Les Indes galantes",
 "Giovanni Battista Pergolesi|Stabat Mater|1736|7FWMBqjxX20|Giovanni Battista Pergolesi|Stabat Mater (Pergolesi)",
 "Jean-Philippe Rameau|Castor et Pollux|1737-1754|i-xWnhex11E|Jean-Philippe Rameau|Castor et Pollux",
