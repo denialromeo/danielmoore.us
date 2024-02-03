@@ -176,7 +176,7 @@ const classical = [
 "Joseph Haydn|Trumpet Concerto|1797|ZUZYoVw7moc|Joseph Haydn|Trumpet Concerto (Haydn)",
 "Joseph Haydn|String Quartets, Op. 76|1797|PLFpllkY6JbXyfY5NrlOjfUzRI_un853Uc|Joseph Haydn|String Quartets, Op. 76 (Haydn)",
 "Ludwig van Beethoven|Sonata Pathetique|1798|XuldgIR02dY|Ludwig van Beethoven|Piano Sonata No. 8 (Beethoven)",
-"Joseph Haydn|Nelson Mass|1798|7EiefC0eesc|Joseph Haydn|Nelson Mass",
+"Joseph Haydn|Nelson Mass|1798|MeSzYLdpWac|Joseph Haydn|Nelson Mass",
 "Joseph Haydn|The Creation|1798|EuIs7R2BpvQ|Joseph Haydn|The Creation (Haydn)",
 "John Field|Piano Concertos|1799-1832|PL1IXBSY4jc2vKY8mAadc__tWnPjaaRGDV|John Field (composer)|Piano Concerto No. 2 (Field)",
 "Joseph Haydn|String Quartets, Op. 77|1799|J9G4foIL6zw|Joseph Haydn|",
