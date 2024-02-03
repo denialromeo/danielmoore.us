@@ -3700,7 +3700,7 @@ const songs = [
 "Liquid Liquid|Cavern|1983|yGncWGLHdQw|Liquid Liquid|S4566|Dance-Punk;Post-Punk;Rock|",
 "The Jesus and Mary Chain|Upside Down|1984|UnO41-rKUsc|The Jesus and Mary Chain|S3515|Noise Pop;Noise Rock;Post-Punk;Alternative Rock;Rock|Upside Down (The Jesus and Mary Chain song)",
 "Arcade Fire|We Used to Wait|2010|kJ7osdJ4H_8|Arcade Fire|S4886|Art Rock;Indie Rock;Alternative Rock;Rock|",
-"Stereolab|Cybele's Reverie|1996|v6dNTmfZp0U|Stereolab|S4516|Art Pop;Chamber Pop;Baroque Pop;Indie Pop;Pop|",
+"Stereolab|Cybele's Reverie|1996|0JgxATTtROs|Stereolab|S4516|Art Pop;Chamber Pop;Baroque Pop;Indie Pop;Pop|",
 "Rihanna|Needed Me|2016|wfN4PVaOU5Q|Rihanna|S16176|Alternative R&B;Pop Rap;Contemporary R&B;Hip Hop;R&B|Needed Me",
 "The Temptations|(I Know) I'm Losing You|1966|4CbzHIVtRj0|The Temptations|S3886|Motown Sound;Pop;Pop Soul;R&B;Soul|",
 "Stereolab|Ping Pong|1994|tsumMcjEPtQ|Stereolab|S111|Art Pop;Indie Pop;Pop|",
