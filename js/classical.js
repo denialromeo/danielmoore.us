@@ -478,7 +478,7 @@ const classical = [
 "Pietro Mascagni|Cavalleria rusticana|1890|7OvsVSWB4TI|Pietro Mascagni|Cavalleria rusticana",
 "Pyotr Ilyich Tchaikovsky|The Queen of Spades|1890|aA3lTy7OMM8|Pyotr Ilyich Tchaikovsky|The Queen of Spades (opera)",
 "Claude Debussy|Fêtes galantes|1891-1904|nQaWW2flSAQ|Claude Debussy|Fêtes galantes (Debussy)",
-"Jean Sibelius|Songs|1891-1917|DsLoe5LaKqU|Jean Sibelius|",
+"Jean Sibelius|Songs|1891-1917|OLAK5uy_nMnV74EgwdCzmLQf8JLrinuEwgAkNSR_M|Jean Sibelius|",
 "Johannes Brahms|Clarinet Quintet|1891|NijYtozUHaw|Johannes Brahms|Clarinet Quintet (Brahms)",
 "Ruggero Leoncavallo|Pagliacci|1892|JEcibYtcdZQ|Ruggero Leoncavallo|Pagliacci",
 "Alexander Scriabin|Piano Sonatas|1892-1913|krapei3Fjcc|Alexander Scriabin|Piano Sonata No. 3 (Scriabin)",
