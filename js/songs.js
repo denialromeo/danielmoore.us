@@ -1057,7 +1057,7 @@ const songs = [
 "Clipse|Grindin'|2002|TjWAWcx4xdE|Clipse|S1515|Gangsta Rap;Southern Hip Hop;Hardcore Hip Hop;Hip Hop|Grindin'",
 "The Velvet Underground|Sister Ray|1968|53F5nY68cBM|The Velvet Underground|S2288|Art Rock;Experimental Rock;Noise Rock;Proto-Punk;Rock|Sister Ray",
 "The Replacements|I Will Dare|1984|Ln3iKL6wF-M|The Replacements (band)|S443|Alternative Rock;Rock|I Will Dare",
-"Al Jolson|Swanee|1920|_T_ENByq-oc|Al Jolson|S2711|Vaudeville;Musical Theatre and Entertainment|Swanee (song)",
+"Al Jolson|Swanee|1920|wPEtnyg6sn0|Al Jolson|S2711|Vaudeville;Musical Theatre and Entertainment|Swanee (song)",
 "Simple Minds|Don't You (Forget About Me)|1985|CdqoNKCCt7A|Simple Minds|S1940|Film Soundtrack;New Wave;Pop Rock;Synthpop;Descriptor;Electronic;Pop;Rock;Soundtracks|Don't You (Forget About Me)",
 "The Beatles|Blackbird|1968|Man4Xw8Xypo|The Beatles|S3181|Chamber Folk;Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Blackbird (Beatles song)",
 "Kitty Wells|It Wasn't God Who Made Honky Tonk Angels|1952|tKleTa94dC8|Kitty Wells|S1343|Country|It Wasn't God Who Made Honky Tonk Angels",
