@@ -10065,7 +10065,7 @@ const songs = [
 "Robert Miles|Children|1996|CC5ca6Hsb2Q|Robert Miles|S8177|Dream Trance;Dance;Electronic;Electronic Dance Music;Trance|",
 "Wild Nothing|Live in Dreams|2010|HQM4oI0FjXc|Wild Nothing|S9025|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|",
 "Skrillex|Scary Monsters and Nice Sprites|2010|WSeNSzJ2-Jw|Skrillex|S16297|Brostep;Dance;Dubstep;Electronic;Electronic Dance Music|",
-"Barry Manilow|Copacabana|1978|CrTBRQiQKRw|Barry Manilow|S12667|Pop|Copacabana (song)",
+"Barry Manilow|Copacabana|1978|CrTBRQiQKRw?start=73|Barry Manilow|S12667|Pop|Copacabana (song)",
 "M.I.A.|Come Walk with Me|2013|_11uQVI21mQ|M.I.A. (rapper)|S9485|Art Pop;Electropop;Kuduro;African Music;Central African Music;Dance;Electronic;Electronic Dance Music;Pop;Regional Music|Come Walk with Me (song)",
 "Van Halen|Dreams|1986|sZLKtjATZt0|Van Halen|S3934|AOR;Rock|Dreams (Van Halen song)",
 "Lindstrøm|Closing Shot|2016|cOIibxEtebg|Hans-Peter Lindstrøm|S16134|Nu-Disco;Space Disco;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music;House|",
