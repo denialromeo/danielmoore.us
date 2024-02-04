@@ -9992,7 +9992,7 @@ const songs = [
 "FKA twigs|Figure 8|2015|AudqRkFSdJs|FKA Twigs|S9764|Alternative R&B;Art Pop;Glitch Pop;Wonky;Contemporary R&B;Dance;Electronic;Electronic Dance Music;Pop;R&B|",
 "The Mighty Lemon Drops|Like an Angel|1985|smf_-8RM-t8|The Mighty Lemon Drops|S7551|C86;Neo-Psychedelia;Indie Pop;Pop;Psychedelic Rock;Rock|",
 "The Kinks|Come Dancing|1982|xRUE0aAI5o8|The Kinks|S11327|Pop Rock;Pop;Rock|Come Dancing (song)",
-"Chance the Rapper feat. Knox Fortune|All Night|2016|IpPjI2C3QmI|Chance the Rapper|S16055|Hip House;Pop Rap;Dance;Electronic;Electronic Dance Music;Hip Hop;House|",
+"Chance the Rapper feat. Knox Fortune|All Night|2016|pqRlp5gakA0|Chance the Rapper|S16055|Hip House;Pop Rap;Dance;Electronic;Electronic Dance Music;Hip Hop;House|",
 "French Montana feat. Swae Lee|Unforgettable|2017|CTFtOOh47oo|French Montana|S16382|Contemporary R&B;Dancehall;Caribbean Music;Jamaican Music;R&B;Regional Music|Unforgettable (French Montana song)",
 "Jorja Smith X Preditah|On My Mind|2017|PA5uuBCtZ5k|Jorja Smith|S16404|2-Step;Contemporary R&B;Dance;Electronic;Electronic Dance Music;R&B;UK Garage|",
 "Grizzly Bear|Mourning Sound|2017|BDQ7KgvwfaQ|Grizzly Bear (band)|S16390|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|",
