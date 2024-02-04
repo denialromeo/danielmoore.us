@@ -154,7 +154,7 @@ const classical = [
 "Joseph Haydn|The Seven Last Words of Christ|1787|R2ljYXsWWGs?start=30|Joseph Haydn|The Seven Last Words of Christ (Haydn)",
 "Wolfgang Amadeus Mozart|Eine kleine Nachtmusik|1787|156u4nV2uGE?start=4|Wolfgang Amadeus Mozart|Eine kleine Nachtmusik",
 "Wolfgang Amadeus Mozart|Don Giovanni|1787|aL2VdxseTvE|Wolfgang Amadeus Mozart|Don Giovanni",
-"Wolfgang Amadeus Mozart|Piano Concerto No. 26, \"Coronation\"|1788|RcBcMbOHzhI|Wolfgang Amadeus Mozart|Piano Concerto No. 26 (Mozart)",
+"Wolfgang Amadeus Mozart|Coronation Concerto|1788|RcBcMbOHzhI|Wolfgang Amadeus Mozart|Piano Concerto No. 26 (Mozart)",
 "Wolfgang Amadeus Mozart|Symphony No. 39|1788|fAiF1PNlQ50?start=12|Wolfgang Amadeus Mozart|Symphony No. 39 (Mozart)",
 "Wolfgang Amadeus Mozart|Symphony No. 40|1788|QyQ-POuTNn8?start=4|Wolfgang Amadeus Mozart|Symphony No. 40 (Mozart)",
 "Wolfgang Amadeus Mozart|Symphony No. 41, \"Jupiter\"|1788|yZpFrydm6G4?start=14|Wolfgang Amadeus Mozart|Symphony No. 41 (Mozart)",
