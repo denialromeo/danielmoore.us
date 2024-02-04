@@ -614,7 +614,7 @@ const classical = [
 "Sergei Rachmaninoff|Études-tableaux|1911|KGniWXjsdu4|Sergei Rachmaninoff|Études-Tableaux, Op. 33",
 "Carl Nielsen|Symphony No. 3|1911|40-1Ww-uXJk|Carl Nielsen|Symphony No. 3 (Nielsen)",
 "Reinhold Glière|Symphony No. 3 \"Ilya Muromets\"|1911|WRpEt9FvTbU|Reinhold Glière|Symphony No. 3 (Glière)",
-"Arnold Schoenberg|Gurrelieder|1911|xPXuHs3Ksow|Arnold Schoenberg|Gurre-Lieder",
+"Arnold Schoenberg|Gurrelieder|1911|OLAK5uy_mmKJ9H_rxGSFWX2Fo-Ic89afeWRWp6ciI|Arnold Schoenberg|Gurre-Lieder",
 "Igor Stravinsky|Petrushka|1911|esD90diWZds|Igor Stravinsky|Petrushka (ballet)",
 "Sergei Prokofiev|Piano Concerto No. 1|1912|JqCwQ9clHec|Sergei Prokofiev|Piano Concerto No. 1 (Prokofiev)",
 "Maurice Ravel|Daphnis et Chloé|1912|O4lzPz3NnI0|Maurice Ravel|Daphnis et Chloé",
