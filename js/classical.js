@@ -822,7 +822,7 @@ const classical = [
 "Benjamin Britten|String Quartets|1941-1975|SdKcOm_3VJU|Benjamin Britten|String Quartet No. 2 (Britten)",
 "Manuel Ponce|Concierto del Sur|1941|0OoFTYM-J2c|Manuel Ponce|Concierto del Sur",
 "Richard Strauss|Capriccio|1941|nnDcVSDnSU4|Richard Strauss|Capriccio (opera)",
-"Michael Tippett|A Child of Our Time|1941|_bJFDNzJ19M|Michael Tippett|A Child of Our Time",
+"Michael Tippett|A Child of Our Time|1941|OLAK5uy_ncVeCFyYKFlGIKzr-jTC7TKPddGQgMbNE|Michael Tippett|A Child of Our Time",
 "Alberto Ginastera|Estancia|1941|fnb5byOyXyM|Alberto Ginastera|Estancia (Ginastera)",
 "Dmitri Shostakovich|Symphony No. 7, \"Leningrad\"|1941|GB3zR_X25UU?start=29|Dmitri Shostakovich|Symphony No. 7 (Shostakovich)",
 "Maurice Durufle|Prélude et fugue sur le nom d’Alain|1942|Or147RQSBOM|Maurice Duruflé|",
