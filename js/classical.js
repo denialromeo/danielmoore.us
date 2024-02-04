@@ -526,7 +526,7 @@ const classical = [
 "Antonin Dvorak|Rusalka|1900|wPEDeWyWgw4|Antonín Dvořák|Rusalka (opera)",
 "Edward Elgar|The Dream of Gerontius|1900|rnwmVypRY-g|Edward Elgar|The Dream of Gerontius",
 "Gustav Mahler|Symphony No. 4|1900|YnfhInZLmUQ|Gustav Mahler|Symphony No. 4 (Mahler)",
-"Jean Sibelius|Finlandia|1900|F5zg_af9b8c|Jean Sibelius|Finlandia",
+"Jean Sibelius|Finlandia|1900|fE0RbPsC9uE|Jean Sibelius|Finlandia",
 "Sergei Rachmaninoff|Piano Concerto No. 2|1901|rEGOihjqO9w|Sergei Rachmaninoff|Piano Concerto No. 2 (Rachmaninoff)",
 "Sergei Rachmaninoff|Cello Sonata|1901|KkcJBjuCuPY|Sergei Rachmaninoff|Cello Sonata (Rachmaninoff)",
 "Roger Quilter|Songs|1901-1939|cIj_NKN2eEI|Roger Quilter|",
