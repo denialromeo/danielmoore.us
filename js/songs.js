@@ -7033,7 +7033,7 @@ const songs = [
 "Amen Dunes|Miki Dora|2018|RONXqXaF8oI|Amen Dunes|S16596|Neo-Psychedelia;Psychedelic Rock;Rock|",
 "E.U.|Da'Butt|1988|FShE0VifCYs|Experience Unlimited|S1977|Go-Go;Funk;R&B|Da Butt",
 "Teengirl Fantasy|Cheaters|2010|s_oNzk1q8F8|Teengirl Fantasy|S4925|Deep House;Dance;Electronic;Electronic Dance Music;House|",
-"Suede|Metal Mickey|1992|-ecDl9ZzwrI|Suede (band)|S158|Britpop;Alternative Rock;Pop;Pop Rock;Rock|",
+"Suede|Metal Mickey|1992|0rbw5FaCAzw|Suede (band)|S158|Britpop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Twin Sister|All Around and Away We Go|2010|3yn0PISCGpg|Mr Twin Sister|S12494|Dream Pop;Indie Pop;Neo-Psychedelia;Alternative Rock;Pop;Psychedelic Rock;Rock|",
 "Tino Rossi|Petit papa Noël|1946|WQushjP2Wqk|Tino Rossi|S12439|Chanson;Christmas Music;Descriptor;Holiday Music;Regional Music|Petit Papa Noël",
 "Tom Waits|Bad As Me|2011|B6Ta3H-ck6s|Tom Waits|S8802|Blues Rock;Experimental Rock;Singer/Songwriter;Rock|Bad as Me",
