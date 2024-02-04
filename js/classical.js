@@ -560,7 +560,7 @@ const classical = [
 "Claude Debussy|La mer|1905|FOCucJw7iT8|Claude Debussy|La mer (Debussy)",
 "Gustav Mahler|Symphony No. 7|1905|QdxvC7NNSLQ|Gustav Mahler|Symphony No. 7 (Mahler)",
 "Franz Lehar|The Merry Widow|1905|9pUtRjDx2k8|Franz Lehár|The Merry Widow",
-"Frederick Delius|A Mass of Life|1905|MNH7UJXd-w8|Frederick Delius|A Mass of Life",
+"Frederick Delius|A Mass of Life|1905|gg0aA0or6RU?start=870|Frederick Delius|A Mass of Life",
 "Jean Sibelius|Pelléas et Mélisande Suite|1905|I06-fQMxxeo|Jean Sibelius|Pelléas et Mélisande (Sibelius)",
 "Richard Strauss|Salome|1905|qLWbpv-I43M|Richard Strauss|Salome (opera)",
 "Carl Nielsen|Maskarade|1906|lkpTewJR1wY|Carl Nielsen|Maskarade",
