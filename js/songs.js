@@ -1242,7 +1242,7 @@ const songs = [
 "Joni Mitchell|Free Man in Paris|1974|wXBba77U1_Y|Joni Mitchell|S748|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Free Man in Paris",
 "The War on Drugs|Under the Pressure|2014|vkLOg252KRE|The War on Drugs (band)|S9591|Indie Rock;Alternative Rock;Rock|",
 "Archie Bell & The Drells|Tighten Up|1968|Wro3bqi4Eb8|Archie Bell & the Drells|S910|Funk;Pop Soul;Pop;R&B;Soul|Tighten Up (Archie Bell & the Drells song)",
-"Blind Willie McTell|Statesboro Blues|1928|fnWxZtI3ONY|Blind Willie McTell|S2717|Piedmont Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|",
+"Blind Willie McTell|Statesboro Blues|1928|qf-Fy8bhGqc|Blind Willie McTell|S2717|Piedmont Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|",
 "Fiona Apple|Criminal|1996|FFOzayDpWoI|Fiona Apple|S3154|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Criminal (Fiona Apple song)",
 "Jay-Z|Big Pimpin'|1999|Cgoqrgc_0cM|Jay-Z|S2204|East Coast Hip Hop;Hip Hop|Big Pimpin'",
 "The Jam|In the City|1977|fXz7iOmNJ8E|The Jam|S1786|Mod Revival;New Wave;Punk Rock;Mod;Rock|",
