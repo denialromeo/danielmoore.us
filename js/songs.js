@@ -8372,7 +8372,7 @@ const songs = [
 "Objekt|Theme from Q|2017|SDRNdNXBZcQ|https://www.discogs.com/artist/2089744-Objekt|S16459|2-Step;UK Bass;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "The Intruders|I'll Always Love My Mama|1973|LQi2HtVvoxg|The Intruders (band)|S2864|Philly Soul;R&B;Soul|I'll Always Love My Mama",
 "Lou Reed|Caroline Says II|1973|Y793DlD0Sxg|Lou Reed|S7322|Art Rock;Singer/Songwriter;Rock|Berlin (Lou Reed album)",
-"The King Cole Trio|Embraceable You|1944|vkF3WVN5ao8|Nat King Cole|S13904|Vocal Jazz;Jazz|",
+"The King Cole Trio|Embraceable You|1944|2AiDTCjMQUA|Nat King Cole|S13904|Vocal Jazz;Jazz|",
 "ScHoolboy Q|Hands on the Wheel|2012|dGd9DTTrX4U|Schoolboy Q|S8326|Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Hands on the Wheel",
 "Don Gardner & Dee Dee Ford|I Need Your Loving|1962|WhxfOJIwRdk|Don Gardner|S6123|Rhythm & Blues;Soul;R&B|I Need Your Lovin'",
 "Blue Boy|Remember Me|1997|fKKNPLowteY|Blue Boy (DJ)|S5510|House;Trip Hop;Dance;Downtempo;Electronic;Electronic Dance Music|Remember Me (Blue Boy song)",
