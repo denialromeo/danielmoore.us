@@ -411,7 +411,7 @@ const classical = [
 "Johannes Brahms|Violin Concerto|1878|UFl9xuYP5T8?start=34|Johannes Brahms|Violin Concerto (Brahms)",
 "Pablo de Sarasate|Zigeunerweisen|1878|ufIlOXXMqs0|Pablo de Sarasate|",
 "Antonin Dvorak|Slavonic Dances|1878-1886|JhBjD23F2r0|Antonín Dvořák|Slavonic Dances",
-"Arthur Sullivan|H.M.S. Pinafore|1878|5y92tWq8mSI|Arthur Sullivan|H.M.S. Pinafore",
+"Arthur Sullivan|H.M.S. Pinafore|1878|OLAK5uy_kY5lK7VsByK7LN4YqEUcqpbAbiXz8sfcY|Arthur Sullivan|H.M.S. Pinafore",
 "Pyotr Ilyich Tchaikovsky|Eugene Onegin|1878|8n_j3cC_Is8|Pyotr Ilyich Tchaikovsky|Eugene Onegin (opera)",
 "Pyotr Ilyich Tchaikovsky|Symphony No. 4|1878|YnRkXtsD_54|Pyotr Ilyich Tchaikovsky|Symphony No. 4 (Tchaikovsky)",
 "Pyotr Ilyich Tchaikovksy|Violin Concerto|1878|cbJZeNlrYKg|Pyotr Ilyich Tchaikovsky|Violin Concerto (Tchaikovsky)",
