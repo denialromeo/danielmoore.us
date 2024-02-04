@@ -997,7 +997,7 @@ const classical = [
 "Sofia Gubaidulina|Canticle of the Sun|1997|j5r2vvQI_Ck|Sofia Gubaidulina|The Canticle of the Sun (Gubaidulina)",
 "Peteris Vasks|Violin Concerto, \"Distant Light\"|1997|xtdFecPt92M?start=50|Pēteris Vasks|",
 "Gerard Grisey|Quatre chants pour franchir le seuil|1998|06MnaNz_CgQ|Gérard Grisey|",
-"Wolfgang Rihm|Deus Passus|2000|F9bc4TjtP8U|Wolfgang Rihm|",
+"Wolfgang Rihm|Deus Passus|2000|OLAK5uy_kXyji22DQmH4_b593CV40YHOUc5DwMMHM|Wolfgang Rihm|",
 "Wolfgang Rihm|Jagden und Formen|2001|82shObbF31M|Wolfgang Rihm|",
 "Julian Anderson|Book of Hours|2004|nSWuED4bZLU|Julian Anderson|",
 ] 
