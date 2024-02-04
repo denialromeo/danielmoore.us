@@ -4585,7 +4585,7 @@ const songs = [
 "The Ink Spots|The Gypsy|1946|yovIyTnUr5I|The Ink Spots|S6785|Vocal Group;Descriptor|",
 "Daryl Hall & John Oates|Rich Girl|1976|YKDO35K5-BA|Hall & Oates|S1800|Blue Eyed Soul;Pop Rock;Pop;Rock|Rich Girl (Hall & Oates song)",
 "Neko Case|Man|2013|JyGKewWVgEQ|Neko Case|S9497|Indie Rock;Singer/Songwriter;Alternative Rock;Rock|",
-"Beach House|Silver Soul|2010|s_vBFOZyPAE|Beach House|S10097|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|",
+"Beach House|Silver Soul|2010|njbmwfndFH4|Beach House|S10097|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|",
 "Simple Minds|Belfast Child|1989|7vhhTvcLoRw|Simple Minds|S8421|Pop Rock;Pop;Rock|Belfast Child",
 "Stray Cats|Stray Cat Strut|1981|vEtbfzMLVWU|Stray Cats|S8607|Rockabilly;Rock;Rock & Roll|",
 "The Notorious B.I.G.|Unbelievable|1994|WiFm_tD9JIQ|The Notorious B.I.G.|S2080|Boom Bap;East Coast Hip Hop;Hip Hop|",
