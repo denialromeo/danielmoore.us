@@ -7625,7 +7625,7 @@ const songs = [
 "Interpol|The Heinrich Maneuver|2007|Ha_bppvZ0a8|Interpol (band)|S4333|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|The Heinrich Maneuver",
 "Teddy Pendergrass|Close the Door|1978|vfI3mfOOx5U|Teddy Pendergrass|S8702|Philly Soul;Smooth Soul;R&B;Soul|Close the Door (song)",
 "The Stranglers|(Get a) Grip (On Yourself)|1977|WIX_6EVf7pI|The Stranglers|S12333|New Wave;Punk Rock;Rock|",
-"Herb Alpert|Rise|1979|vltC-O7PDYQ|Herb Alpert|S11025|Disco;Smooth Jazz;Dance;Jazz|",
+"Herb Alpert|Rise|1979|q7O3eYJptTc|Herb Alpert|S11025|Disco;Smooth Jazz;Dance;Jazz|",
 "Scorpions|Still Loving You|1984|CjRas1yOWvo|Scorpions (band)|S12169|Hard Rock;Rock|",
 "Prince|Black Sweat|2006|vG-e00c6uT0|Prince (musician)|S4027|Contemporary R&B;Dance-Pop;Funk;Dance;Pop;R&B|Black Sweat",
 "Bob Dylan|Sara|1976|Ma7BK2MJNqo|Bob Dylan|S10241|Folk Rock;Singer/Songwriter;Rock|Sara (Bob Dylan song)",
