@@ -749,7 +749,7 @@ const classical = [
 "Frank Bridge|Oration|1930|UurMi-JW_pQ|Frank Bridge|",
 "Albert Roussel|Symphony No. 3|1930|00n4z_AuLiI|Albert Roussel|",
 "Igor Stravinsky|Symphony of Psalms|1930|DqWZGUO_eoc|Igor Stravinsky|Symphony of Psalms",
-"Maurice Ravel|Piano Concerto for the Left Hand|1930|gjiSSWubIuU|Maurice Ravel|Piano Concerto for the Left Hand (Ravel)",
+"Maurice Ravel|Piano Concerto for the Left Hand|1930|ZbEtk1kdYx4|Maurice Ravel|Piano Concerto for the Left Hand (Ravel)",
 "Kaikhosru Shapurji Sorabji|Opus clavicembalisticum|1930|OLAK5uy_mJXjeW38xqgrzLuhw_Vlc8ZIJbxhcFV_I|Kaikhosru Shapurji Sorabji|Opus clavicembalisticum",
 "Ralph Vaughan Williams|Job|1930|GlGjFynWFUw|Ralph Vaughan Williams|Job: A Masque for Dancing",
 "William Walton|Belshazzar’s Feast|1931-1957|_HVgxgC2ZEk|William Walton|",
