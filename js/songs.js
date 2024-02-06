@@ -9452,7 +9452,7 @@ const songs = [
 "Bob Dylan|One Too Many Mornings|1964|Ox42QVcfTtI|Bob Dylan|S10237|Contemporary Folk;Singer/Songwriter;Folk|One Too Many Mornings",
 "Steve Lacy|Playground|2019|g_ICWul5hqQ|Steve Lacy (guitarist)|S16872|Funk Rock;Neo-Soul;Psychedelic Soul;R&B;Rock;Soul|",
 "Frankie Avalon|Venus|1959|fakpqLDEQAo|Frankie Avalon|S6452|Teen Pop;Pop|Venus (Frankie Avalon song)",
-"Frankie Avalon|Why|1959|nGijoWb9aYo|Frankie Avalon|S6453|Teen Pop;Pop|Why (Frankie Avalon song)",
+"Frankie Avalon|Why|1959|cMTZ3QhjXr0|Frankie Avalon|S6453|Teen Pop;Pop|Why (Frankie Avalon song)",
 "Lou Reed|Street Hassle|1978|4LK9JjW2noo|Lou Reed|S7324|Art Rock;Rock|",
 "Chairlift|Ch-Ching|2015|nWSFlqBOgl8|Chairlift (band)|S9722|Alternative R&B;Contemporary R&B;R&B|",
 "Lil Baby x Gunna|Drip Too Hard|2018|_YzD9KW82sk|Lil Baby|S16612|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
