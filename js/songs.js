@@ -418,7 +418,7 @@ const songs = [
 "U2|Pride (In the Name of Love)|1984|LHcP4MWABGY|U2|S423|Pop Rock;Pop;Rock|Pride (In the Name of Love)",
 "The Crystals|Da Doo Ron Ron (When He Walked Me Home)|1963|L0dikX80Ed8|The Crystals|S1054|Brill Building;Girl Group;Pop|",
 "Eminem|My Name Is|1999|LDj8kkVwisY|Eminem|S1359|Hip Hop|My Name Is",
-"The Drifters|There Goes My Baby|1959|i3HXy9mGPpI|The Drifters|S1173|Doo-Wop;Soul;Descriptor;R&B;Vocal Group|There Goes My Baby (The Drifters song)",
+"The Drifters|There Goes My Baby|1959|xU21gzEtmuw|The Drifters|S1173|Doo-Wop;Soul;Descriptor;R&B;Vocal Group|There Goes My Baby (The Drifters song)",
 "TV on the Radio|Wolf Like Me|2006|03hC_Ml8aAM|TV on the Radio|S3059|Art Rock;Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|",
 "The Jesus and Mary Chain|Just Like Honey|1985|7EgB__YratE|The Jesus and Mary Chain|S391|Noise Pop;Post-Punk;Alternative Rock;Rock|Just Like Honey",
 "New Order|Bizarre Love Triangle|1986|tkOr12AQpnU|New Order (band)|S1943|Alternative Dance;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|Bizarre Love Triangle",
