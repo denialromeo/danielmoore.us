@@ -9062,7 +9062,7 @@ const songs = [
 "Dominique A.|Le twenty-two bar|1995|QxbMcnKxde8|Dominique A|S10625|Nouvelle chanson française;Chanson;Regional Music|",
 "Rufus Wainwright|Oh What a World|2003|vLC4XFs5UhQ|Rufus Wainwright|S12124|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|",
 "AC/DC|The Jack|1975|eVlRQn6AMYs|AC/DC|S9922|Blues Rock;Hard Rock;Rock|",
-"The Beach Boys|The Warmth of the Sun|1964|L_TcWUslfvE|The Beach Boys|S10095|Vocal Surf;Pop;Pop Rock;Rock;Surf Music|The Warmth of the Sun",
+"The Beach Boys|The Warmth of the Sun|1964|uoDm_flnwxc|The Beach Boys|S10095|Vocal Surf;Pop;Pop Rock;Rock;Surf Music|The Warmth of the Sun",
 "The Isley Brothers|Footsteps in the Dark|1977|Dyq9zlYMw9g|The Isley Brothers|S12798|Funk;Soul;R&B|",
 "Daryl Hall & John Oates|You Make My Dreams|1980|EErSKhC0CZs|Hall & Oates|S11007|Blue Eyed Soul;Pop Rock;Pop;Rock|You Make My Dreams",
 "Oasis|The Shock of the Lightning|2008|mPc2plEHrHA|Oasis (band)|S7786|Alternative Rock;Neo-Psychedelia;Psychedelic Rock;Rock|The Shock of the Lightning",
