@@ -2106,7 +2106,7 @@ const songs = [
 "The Beatles|And Your Bird Can Sing|1966|Uq0aeEYLkIE|The Beatles|S2506|Power Pop;Psychedelic Rock;Pop;Pop Rock;Rock|And Your Bird Can Sing",
 "The White Stripes|Hotel Yorba|2001|lOAAQcSgxuA|The White Stripes|S1465|Alternative Rock;Blues Rock;Garage Rock Revival;Garage Rock;Rock|",
 "Lauryn Hill|Ex-Factor|1998|cE-bnWqLqxE|Lauryn Hill|S1379|Contemporary R&B;Neo-Soul;R&B;Soul|Ex-Factor",
-"McAlmont and Butler|Yes|1995|POIIGYt5RlE|McAlmont & Butler|S70|Chamber Pop;Pop Soul;Baroque Pop;Indie Pop;Pop;R&B;Soul|",
+"McAlmont and Butler|Yes|1995|x8kMLECCygc|McAlmont & Butler|S70|Chamber Pop;Pop Soul;Baroque Pop;Indie Pop;Pop;R&B;Soul|",
 "Nina Simone|Mississippi Goddam|1964|LJ25-U3jNWM|Nina Simone|S4091|Soul Jazz;Vaudeville Blues;Vocal Jazz;Blues;Jazz;Musical Theatre and Entertainment;Vaudeville|Mississippi Goddam",
 "Mississippi Sheiks|Sitting on Top of the World|1930|RqeW7-tmVU4|Mississippi Sheiks|S4351|Country Blues;Acoustic Blues;American Folk Music;Blues;Folk;Regional Music;Traditional Folk Music|Sitting on Top of the World",
 "Charlie Parker|Ornithology|1946|Z2tvlp7RnlM|Charlie Parker|S2729|Bebop;Jazz|",
