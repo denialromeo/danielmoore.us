@@ -79,7 +79,7 @@ const songs = [
 "LCD Soundsystem|All My Friends|2007|aygY5OqMuKE|LCD Soundsystem|S4276|Alternative Dance;Alternative Rock;Dance;Rock|All My Friends (LCD Soundsystem song)",
 "The Mamas and the Papas|California Dreamin'|1965|tNlwimUxUME|The Mamas and the Papas|S1010|Sunshine Pop;Pop|",
 "Ramones|Blitzkrieg Bop|1976|268C3N2dDYk|Ramones|S669|Punk Rock;Rock|Blitzkrieg Bop",
-"Martha and the Vandellas|Dancing in the Street|1964|CdvITn5cAVc|Martha and the Vandellas|S1024|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|",
+"Martha and the Vandellas|Dancing in the Street|1964|9_3SwAiAQvs|Martha and the Vandellas|S1024|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|",
 "Elvis Presley|Hound Dog|1956|aNYWl13IWhY|Elvis Presley|S1262|Rockabilly;Rock;Rock & Roll|Hound Dog (song)",
 "Grimes|Oblivion|2012|JtH68PJIQLE|Grimes (musician)|S5013|Synthpop;Electronic;Pop|Oblivion (Grimes song)",
 "The Beatles|I Want to Hold Your Hand|1963|jenWdylTtzs|The Beatles|S1053|Merseybeat;Beat Music;Pop;Pop Rock;Rock|I Want to Hold Your Hand",
