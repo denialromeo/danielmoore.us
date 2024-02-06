@@ -1024,7 +1024,7 @@ const songs = [
 "Ray Charles|I Can't Stop Loving You|1962|r_7iRVtxui8|Ray Charles|S1096|Country Soul;Traditional Pop;Pop;R&B;Soul|I Can't Stop Loving You",
 "Bob Dylan|All Along the Watchtower|1967|bT7Hj-ea0VE|Bob Dylan|S1692|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock|All Along the Watchtower",
 "Madonna|Music|2000|Sdz2oW0NMFk|Madonna (entertainer)|S1381|Dance-Pop;Electropop;Dance;Electronic;Pop|Music (Madonna song)",
-"The Turtles|Happy Together|1967|mRCe5L1imxg|The Turtles|S3915|Psychedelic Pop;Sunshine Pop;Pop|Happy Together (song)",
+"The Turtles|Happy Together|1967|h3x56WQlG_0|The Turtles|S3915|Psychedelic Pop;Sunshine Pop;Pop|Happy Together (song)",
 "Robyn|Honey|2018|Mru9GG3ur9U|Robyn|S16522|Dance-Pop;Electropop;Progressive House;Dance;Electronic;Electronic Dance Music;House;Pop|Honey (Robyn song)",
 "Buddy Holly & The Crickets|Not Fade Away|1957|m7iPbqNla6Q|The Crickets|S1257|Rockabilly;Rock;Rock & Roll|Not Fade Away (song)",
 "Katy Perry|Teenage Dream|2010|98WtmW-lfeE|Katy Perry|S7069|Dance-Pop;Electropop;Dance;Electronic;Pop|Teenage Dream (Katy Perry song)",
