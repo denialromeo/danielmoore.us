@@ -554,7 +554,7 @@ const songs = [
 "The Doors|Riders on the Storm|1971|lJZTgynPGT8|The Doors|S828|Blues Rock;Psychedelic Rock;Rock|Riders on the Storm",
 "10cc|I'm Not in Love|1975|STugQ0X1NoI|10cc|S705|Ambient Pop;Art Pop;Pop|I'm Not in Love",
 "Tammy Wynette|Stand by Your Man|1968|DwBirf4BWew|Tammy Wynette|S913|Nashville Sound;Country;Country Pop;Pop|Stand by Your Man",
-"The Everly Brothers|Wake Up Little Susie|1957|v1fImXAeS-s?start=5|The Everly Brothers|S1237|Pop;Rockabilly;Rock;Rock & Roll|Wake Up Little Susie",
+"The Everly Brothers|Wake Up Little Susie|1957|yXe6KrWJX84|The Everly Brothers|S1237|Pop;Rockabilly;Rock;Rock & Roll|Wake Up Little Susie",
 "The Righteous Brothers|Unchained Melody|1965|qiiyq2xrSI0|The Righteous Brothers|S1011|Blue Eyed Soul;Brill Building;Pop|Unchained Melody",
 "David Bowie|Blackstar|2015|kszLwBaC4Sw|David Bowie|S9733|Art Rock;Experimental Rock;Rock|Blackstar (song)",
 "R.E.M.|The One I Love|1987|j7oQEPfe-O8|R.E.M.|S346|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|The One I Love (R.E.M. song)",
