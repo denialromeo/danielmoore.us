@@ -9935,7 +9935,7 @@ const songs = [
 "Kanye West feat. Rick Ross|Devil in a New Dress|2010|sk3rpYkiHe8|Kanye West|S11288|Hip Hop|",
 "Vernon Dalhart|The Wreck of the Old 97|1924|PKN1_yN3sgs|Vernon Dalhart|S9392|Traditional Country;American Folk Music;Country;Folk;Regional Music;Traditional Folk Music|",
 "Francis Lemarque|À Paris|1949|tH6Jowp1-qg|https://fr.wikipedia.org/wiki/Francis_Lemarque|S10857|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
-"The Passions|Just to Be with You|1959|cRMWwXn7PVM|The Passions (British band)|S3689|Doo-Wop;Descriptor;R&B;Vocal Group|",
+"The Passions|Just to Be with You|1959|hYSuh_bbG1U|The Passions (British band)|S3689|Doo-Wop;Descriptor;R&B;Vocal Group|",
 "The Chordettes|Born to Be with You|1956|efvkzpkBil0|The Chordettes|S5792|Vocal Group;Descriptor|Born to Be with You (song)",
 "Radiohead|Videotape|2007|njCps4jGaks?start=15|Radiohead|S15807|Art Pop;Pop|",
 "Constantines|Nighttime/Anytime (It's Alright)|2003|izccSXNFLc4|Constantines|S15370|Post-Hardcore;Punk Rock;Rock|",
