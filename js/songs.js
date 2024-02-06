@@ -767,7 +767,7 @@ const songs = [
 "Bruce Springsteen|Atlantic City|1982|s-LIEr43_wk|Bruce Springsteen|S4455|Contemporary Folk;Singer/Songwriter;Folk|Atlantic City (song)",
 "Tom Petty|Free Fallin'|1989|1lWJXDG2i0A|Tom Petty|S263|Heartland Rock;Pop Rock;Pop;Rock|Free Fallin'",
 "Joni Mitchell|A Case of You|1971|2U8t0by4tfw|Joni Mitchell|S3627|Contemporary Folk;Singer/Songwriter;Folk|A Case of You (song)",
-"Sonny and Cher|I Got You Babe|1965|BERd61bDY7k|Sonny & Cher|S1452|Baroque Pop;Sunshine Pop;Pop|I Got You Babe",
+"Sonny and Cher|I Got You Babe|1965|r5fFlI7MFeM|Sonny & Cher|S1452|Baroque Pop;Sunshine Pop;Pop|I Got You Babe",
 "Tyler, the Creator|Earfquake|2019|HmAsUQEFYGI|Tyler, the Creator|S16887|Alternative R&B;Neo-Soul;Contemporary R&B;R&B;Soul|",
 "Billie Holiday|God Bless the Child|1941|Wc4JvGfRLpA?start=5|Billie Holiday|S2694|Vocal Jazz;Jazz|God Bless the Child (Billie Holiday song)",
 "The Left Banke|Walk Away Renée|1966|6uqBTzfcIk4|The Left Banke|S985|Baroque Pop;Pop|Walk Away Renée",
