@@ -2937,7 +2937,7 @@ const songs = [
 "2Pac|I Get Around|1993|eeaQv0yc5u4|Tupac Shakur|S3126|West Coast Hip Hop;Hip Hop|I Get Around (Tupac Shakur song)",
 "Solomon Linda|Mbube|1939|mrrQT4WkbNE|Solomon Linda|S8485|Mbube;A cappella;African Music;Descriptor;Regional Music;Southern African Music|",
 "The Silhouettes|Get a Job|1957|SzWkqfQ17Eo?start=15|The Silhouettes|S1228|Doo-Wop;Descriptor;R&B;Vocal Group|Get a Job (song)",
-"The 5th Dimension|Up, Up & Away|1967|UKkNlwpajNk|The 5th Dimension|S2837|Easy Listening;Sunshine Pop;Vocal Group;Descriptor;Pop|Up, Up and Away (song)",
+"The 5th Dimension|Up, Up & Away|1967|BCbYjXI_L50|The 5th Dimension|S2837|Easy Listening;Sunshine Pop;Vocal Group;Descriptor;Pop|Up, Up and Away (song)",
 "Judy Garland|For Me and My Gal|1942|bGlufdUslfA|Judy Garland|S7018|Traditional Pop;Pop|",
 "Bob Marley and the Wailers|Exodus|1977|2SFXXDO4LHA|Bob Marley|S3599|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "Jelly Roll Morton|Black Bottom Stomp|1926|lcgIrAyNGGM|Jelly Roll Morton|S6891|Big Band;Dixieland;Jazz|",
