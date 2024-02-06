@@ -6997,7 +6997,7 @@ const songs = [
 "Fleetwood Mac|Silver Springs|1976|eDwi-8n054s|Fleetwood Mac|S6392|Pop Rock;Pop;Rock|Silver Springs (song)",
 "The Shins|So Says I|2003|K-P15e6NvtU|The Shins|S4625|Indie Pop;Pop|So Says I",
 "Sniff 'n' The Tears|Driver's Seat|1978|9SCzVEUlqqA|Sniff 'n' the Tears|S12250|Pop Rock;Pop;Rock|Driver's Seat",
-"The Lovin' Spoonful|Nashville Cats|1966|P4p7prURvIk|The Lovin' Spoonful|S7341|Country Rock;Folk Rock;Rock|",
+"The Lovin' Spoonful|Nashville Cats|1966|vrvFx9-qTHI|The Lovin' Spoonful|S7341|Country Rock;Folk Rock;Rock|",
 "Bennie Moten's Kansas City Orchestra|South|1925|XAMqm9Ai2Sc|Bennie Moten|S13151|Big Band;Jazz|",
 "Donovan|Jennifer Juniper|1968|jlAoHaQbJkI|Donovan|S6135|Folk Pop;Contemporary Folk;Folk;Pop|Jennifer Juniper",
 "Ted Daffan's Texans|Born to Lose|1943|zmcpSyxdX5A|Ted Daffan|S8697|Western Swing;Country|Born to Lose (Ted Daffan song)",
