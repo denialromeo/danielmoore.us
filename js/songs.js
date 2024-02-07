@@ -10348,7 +10348,7 @@ const songs = [
 "Kings of Leon|Fans|2007|kkt_3zLJ-y4|Kings of Leon|S13857|Alternative Rock;Rock|Fans (song)",
 "Sleater-Kinney|You're No Rock n' Roll Fun|2000|rCy1VIy8Hj0|Sleater-Kinney|S8445|Indie Rock;Alternative Rock;Rock|",
 "The Shangri-La's|Past, Present and Future|1966|IQu6pPoDFJY|The Shangri-Las|S8378|Brill Building;Girl Group;Pop|",
-"Killing Joke|The Wait|1980|f42MLoLbnnQ|Killing Joke|S14622|Post-Punk;Rock|",
+"Killing Joke|The Wait|1980|zfO3waEOU2o|Killing Joke|S14622|Post-Punk;Rock|",
 "The Sensational Alex Harvey Band|The Faith Healer|1973|svSV_G65CF4|The Sensational Alex Harvey Band|S13955|Glam Rock;Hard Rock;Rock|",
 "Balam Acab|Oh, Why|2011|Mg_oDxDoDMY|Balam Acab|S5306|Chillstep;Downtempo;Dance;Dubstep;Electronic;Electronic Dance Music|",
 "Kasabian|Where Did All the Love Go?|2009|Xl3QoD6wiDI|Kasabian|S13852|Indie Rock;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|Where Did All the Love Go%3F",
