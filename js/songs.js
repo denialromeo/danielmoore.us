@@ -738,7 +738,7 @@ const songs = [
 "The Rolling Stones|Angie|1973|RcZn2-bGXqQ|The Rolling Stones|S764|Blues Rock;Rock|Angie (song)",
 "The Temptations|Just My Imagination (Running Away with Me)|1971|M5Z9-QCmZyw|The Temptations|S819|Pop Soul;Smooth Soul;Pop;R&B;Soul|",
 "Bob Seger|Night Moves|1976|Mg2FOymTJnE|Bob Seger|S662|Heartland Rock;Soft Rock;Pop;Pop Rock;Rock|Night Moves (Bob Seger song)",
-"Ian Dury|Sex & Drugs & Rock & Roll|1977|sfp8xrNAS6I|Ian Dury|S646|New Wave;Rock|Sex & Drugs & Rock & Roll",
+"Ian Dury|Sex & Drugs & Rock & Roll|1977|BCaPTNhwK-4|Ian Dury|S646|New Wave;Rock|Sex & Drugs & Rock & Roll",
 "Black Sabbath|Iron Man|1970|F01UTYg79KY|Black Sabbath|S2552|Heavy Metal;Metal;Rock|Iron Man (song)",
 "Sam the Sham and the Pharaohs|Wooly Bully|1965|KZJiGu6Gz8E|Sam the Sham|S999|Garage Rock;Rock & Roll;Rock|Wooly Bully",
 "Usher|Climax|2012|nNTyfVh3nmU|Usher (musician)|S5049|Alternative R&B;Contemporary R&B;R&B|Climax (song)",
