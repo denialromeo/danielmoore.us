@@ -9460,7 +9460,7 @@ const songs = [
 "Stompin' Tom Connors|Sudbury Saturday Night|1967|sl751CDdRZI|Stompin' Tom Connors|S15900|Contemporary Folk;Country;Folk|",
 "Paul Simon|Slip Slidin' Away|1977|iUODdPpnxcA|Paul Simon|S7893|Pop Rock;Singer/Songwriter;Pop;Rock|Slip Slidin' Away",
 "Riccardo Cocciante|Margherita|1976|1hXBd8p7-ZU|Riccardo Cocciante|S13612|Progressive Pop;Singer/Songwriter;Pop|",
-"Lakeside|Fantastic Voyage|1980|gX4fSa4MN_0|Lakeside (band)|S12721|Boogie;Synth Funk;Dance;Disco;Funk;R&B|Fantastic Voyage (Lakeside song)",
+"Lakeside|Fantastic Voyage|1980|-1YjmXSyHa8|Lakeside (band)|S12721|Boogie;Synth Funk;Dance;Disco;Funk;R&B|Fantastic Voyage (Lakeside song)",
 "The Staple Singers|Slippery People|1984|ug80a-MTHG4|The Staple Singers|S1911|Disco;Dance|",
 "Radiohead|Knives Out|2001|2Lpw3yMCWro|Radiohead|S13602|Alternative Rock;Art Rock;Rock|Knives Out (song)",
 "Nightcrawlers|Push the Feeling On|1992|8ZhNEFFlAhU?start=2|Nightcrawlers (band)|S7742|Garage House;Dance;Electronic;Electronic Dance Music;House|Push the Feeling On",
