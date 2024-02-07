@@ -500,7 +500,7 @@ const songs = [
 "Nancy Sinatra|These Boots Are Made for Walkin'|1965|SbyAZQ45uww|Nancy Sinatra|S2277|Pop|These Boots Are Made for Walkin'",
 "Sly and the Family Stone|Thank You (Falettinme Be Mice Elf Agin)|1969|wj5VODa-eTY|Sly and the Family Stone|S877|Funk;Psychedelic Soul;R&B;Soul|Thank You (Falettinme Be Mice Elf Agin)",
 "Soundgarden|Black Hole Sun|1994|3mbBbFH9fAg|Soundgarden|S107|Grunge;Alternative Rock;Rock|Black Hole Sun",
-"The Supremes|You Can't Hurry Love|1966|uZj032MNIx4|Diana Ross|S987|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|You Can't Hurry Love",
+"The Supremes|You Can't Hurry Love|1966|Itn438i30hk|Diana Ross|S987|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|You Can't Hurry Love",
 "Ariel Pink|Round and Round|2010|y_VJwFNrvlE|Ariel Pink|S4888|Hypnagogic Pop;Psychedelic Pop;Neo-Psychedelia;Pop;Psychedelic Rock;Rock|Round and Round (Ariel Pink's Haunted Graffiti song)",
 "Bob Dylan|Visions of Johanna|1966|UG8Hi-fpyLI|Bob Dylan|S2510|Folk Rock;Singer/Songwriter;Rock|Visions of Johanna",
 "The Velvet Underground|Venus in Furs|1967|AwzaifhSw2c|The Velvet Underground|S3947|Art Rock;Experimental Rock;Rock|Venus in Furs (song)",
