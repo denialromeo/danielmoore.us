@@ -2091,7 +2091,7 @@ const songs = [
 "Tears for Fears|Shout|1984|Ye7FKc1JQe4|Tears for Fears|S1916|New Wave;Synthpop;Electronic;Pop;Rock|Shout (Tears for Fears song)",
 "Chuck Berry|Back in the U.S.A.|1959|XVukAcLqHFI|Chuck Berry|S1172|Rock & Roll;Rock|Back in the U.S.A.",
 "Brandy|The Boy Is Mine|1998|qSIOp_K5GMw|Brandy Norwood|S281|Contemporary R&B;R&B|",
-"The Animals|Don't Let Me Be Misunderstood|1965|YMDrTMnm1IE|The Animals|S1668|British Rhythm & Blues;Mod;R&B;Rhythm & Blues;Rock|Don't Let Me Be Misunderstood",
+"The Animals|Don't Let Me Be Misunderstood|1965|_2sz_YwwwQ4|The Animals|S1668|British Rhythm & Blues;Mod;R&B;Rhythm & Blues;Rock|Don't Let Me Be Misunderstood",
 "Yes|Roundabout|1971|kmZoQFYYx8U|Yes (band)|S3982|Progressive Rock;Rock|Roundabout (Yes song)",
 "Rod Stewart|Da Ya Think I'm Sexy?|1978|Hphwfq1wLJs|Rod Stewart|S1809|Disco;Pop Rock;Dance;Pop;Rock|Da Ya Think I'm Sexy%3F",
 "The Rolling Stones|Moonlight Mile|1971|Bq4Q69_mdZw|The Rolling Stones|S4544|Roots Rock;Rock|Moonlight Mile (song)",
