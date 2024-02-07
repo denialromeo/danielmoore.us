@@ -3781,7 +3781,7 @@ const songs = [
 "The Beatles|Things We Said Today|1964|NItAlTsPuQg|The Beatles|S1046|Merseybeat;Beat Music;Pop;Pop Rock;Rock|Things We Said Today",
 "John Lennon|#9 Dream|1974|7zZsKOvXiFo|John Lennon|S6955|Baroque Pop;Soft Rock;Pop;Pop Rock;Rock|Number 9 Dream",
 "Sam & Dave|When Something Is Wrong with My Baby|1967|N3maCEAKZ0s|Sam & Dave|S1449|Deep Soul;R&B;Soul;Southern Soul|When Something Is Wrong with My Baby",
-"The Cars|Let's Go|1979|BrmevLXE_kM|The Cars|S5726|New Wave;Power Pop;Pop;Pop Rock;Rock|Let's Go (The Cars song)",
+"The Cars|Let's Go|1979|tIcV0mE1iyU|The Cars|S5726|New Wave;Power Pop;Pop;Pop Rock;Rock|Let's Go (The Cars song)",
 "The The|Uncertain Smile|1982|v08Si-3qN_0|The The|S500|Art Pop;New Wave;Post-Punk;Pop;Rock|Soul Mining",
 "The Verve|History|1995|2jmf9UQ3YIs|The Verve|S2953|Britpop;Chamber Pop;Alternative Rock;Baroque Pop;Indie Pop;Pop;Pop Rock;Rock|History (The Verve song)",
 "Buddy Holly & The Crickets|It Doesn't Matter Anymore|1959|umPKhs17DmE|Buddy Holly|S1175|Pop|It Doesn't Matter Anymore",
