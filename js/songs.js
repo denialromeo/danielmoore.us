@@ -992,7 +992,7 @@ const songs = [
 "The Beatles|Rain|1966|cK5G8fPmWeA|The Beatles|S2505|Freakbeat;Psychedelic Rock;Beat Music;Pop;Pop Rock;Rock|Rain (Beatles song)",
 "The Platters|The Great Pretender|1955|IEzfhclKO8Q|The Platters|S1300|Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|The Great Pretender",
 "Kiss|Rock and Roll All Nite|1975|EFMD7Usflbg|Kiss (band)|S697|Glam Rock;Hard Rock;Rock|Rock and Roll All Nite",
-"Django Reinhardt|Nuages|1946|j15Nqn9SmfM|Quintette du Hot Club de France|S2734|Jazz manouche;Jazz|",
+"Django Reinhardt|Nuages|1946|_18BhouzMao|Quintette du Hot Club de France|S2734|Jazz manouche;Jazz|",
 "Herbie Hancock|Rockit|1983|GHhD4PD75zY|Herbie Hancock|S1898|Electro;Turntablism;Dance;Electronic;Electronic Dance Music;Hip Hop|",
 "Car Seat Headrest|Drunk Drivers/Killer Whales|2016|ccztRby3FAk|Car Seat Headrest|S16048|Indie Rock;Alternative Rock;Rock|",
 "The Who|Pinball Wizard|1969|-J03yCE15rg|The Who|S887|Hard Rock;Rock Opera;Rock|Pinball Wizard",
