@@ -3428,7 +3428,7 @@ const songs = [
 "Jimmy Reed|Bright Lights, Big City|1961|xbzeKx2S6cA|Jimmy Reed|S1636|Chicago Blues;Blues;Electric Blues|Bright Lights, Big City (song)",
 "Sleigh Bells|Rill Rill|2010|nmFgejWZjtg|Sleigh Bells (band)|S4923|Indie Pop;Pop|",
 "Jeannie C. Riley|Harper Valley P.T.A.|1968|aOZPBUu7Fro|Jeannie C. Riley|S3761|Bakersfield Sound;Country;Honky Tonk|Harper Valley PTA",
-"Sigur Rós|Gobbledigook|2008|rCjjgDSJqUI|Sigur Rós|S4746|Art Pop;Pop|",
+"Sigur Rós|Gobbledigook|2008|rCjjgDSJqUI?start=43|Sigur Rós|S4746|Art Pop;Pop|",
 "Cream|Strange Brew|1967|aNZpGVkJKso|Cream (band)|S5888|Blues Rock;Psychedelic Rock;Rock|Strange Brew (song)",
 "Girl Unit|Wut|2010|jbc-319VYlw|https://www.discogs.com/artist/1798211-Girl-Unit|S6570|Trap [EDM];UK Bass;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "Slowdive|Sugar for the Pill|2017|BxwAPBxc0lU|Slowdive|S16479|Dream Pop;Alternative Rock;Rock|",
