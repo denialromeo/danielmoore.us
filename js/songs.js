@@ -2110,7 +2110,7 @@ const songs = [
 "Nina Simone|Mississippi Goddam|1964|LJ25-U3jNWM|Nina Simone|S4091|Soul Jazz;Vaudeville Blues;Vocal Jazz;Blues;Jazz;Musical Theatre and Entertainment;Vaudeville|Mississippi Goddam",
 "Mississippi Sheiks|Sitting on Top of the World|1930|RqeW7-tmVU4|Mississippi Sheiks|S4351|Country Blues;Acoustic Blues;American Folk Music;Blues;Folk;Regional Music;Traditional Folk Music|Sitting on Top of the World",
 "Charlie Parker|Ornithology|1946|Z2tvlp7RnlM|Charlie Parker|S2729|Bebop;Jazz|",
-"Don Azpiazu|El Manisero (The Peanut Vendor)|1930|essMVyS1Om0|Don Azpiazú|S6120|Latin Jazz;Rhumba;Hispanic Music;Jazz;Latin American Music;Regional Music|The Peanut Vendor",
+"Don Azpiazu|El Manisero (The Peanut Vendor)|1930|vWTdZp9EYcM|Don Azpiazú|S6120|Latin Jazz;Rhumba;Hispanic Music;Jazz;Latin American Music;Regional Music|The Peanut Vendor",
 "Arcade Fire|Intervention|2006|X4dNz5nIQhA|Arcade Fire|S4292|Chamber Pop;Indie Rock;Alternative Rock;Baroque Pop;Indie Pop;Pop;Rock|Intervention (song)",
 "Genesis|The Lamb Lies Down on Broadway|1974|vd4aaoLE5co|Genesis (band)|S4176|Progressive Rock;Rock Opera;Rock|",
 "Luther Vandross|Never Too Much|1981|pNj9bXKGOiI|Luther Vandross|S7354|Pop Soul;Smooth Soul;Pop;R&B;Soul|Never Too Much (song)",
