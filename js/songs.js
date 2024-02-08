@@ -5128,7 +5128,7 @@ const songs = [
 "Dinosaur Jr.|Feel the Pain|1994|JXkN3nJyWEA|Dinosaur Jr.|S3335|Indie Rock;Alternative Rock;Rock|",
 "Dire Straits|Telegraph Road|1982|d8bWGGA-5HM|Dire Straits|S10597|Art Rock;Heartland Rock;Rock|",
 "Nick Cave|Henry Lee|1996|jhW06rqc8rA|Nick Cave|S7721|Chamber Pop;Folk Rock;Baroque Pop;Indie Pop;Pop;Rock|",
-"The Cure|Why Can't I Be You?|1987|MI0a9hTh5AU|The Cure|S1956|Alternative Rock;New Wave;Pop Rock;Pop;Rock|Why Can't I Be You%3F",
+"The Cure|Why Can't I Be You?|1987|6WNvWpn1eh0|The Cure|S1956|Alternative Rock;New Wave;Pop Rock;Pop;Rock|Why Can't I Be You%3F",
 "Depeche Mode|Stripped|1986|qU8UfYdKHvs|Depeche Mode|S3091|Synthpop;Electronic;Pop|Stripped (song)",
 "Bee Gees|New York Mining Disaster 1941|1967|S43YhQ_eGTw|Bee Gees|S5394|Baroque Pop;Psychedelic Pop;Pop|",
 "Fabolous|Breathe|2004|hQE6QhAEtuo|Fabolous|S4631|East Coast Hip Hop;Pop Rap;Hip Hop|Breathe (Fabolous song)",
