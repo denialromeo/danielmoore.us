@@ -8934,7 +8934,7 @@ const songs = [
 "Deep Dish|The Future of the Future (Stay Gold)|1998|QHa1gMxECLM|Deep Dish (band)|S6013|Deep House;Progressive House;Dance;Electronic;Electronic Dance Music;House|",
 "fIREHOSE|Sometimes (Almost Always)|1988|IHws_DiEz1I|Firehose (band)|S2923|Post-Punk;Rock|",
 "India|To Be in Love|1997|eMaInPix0_c|Masters at Work|S7469|Funky House;Dance;Electronic;Electronic Dance Music;House|",
-"KC and the Sunshine Band|Keep It Comin' Love|1976|mABuS9eSWnQ|KC and the Sunshine Band|S12881|Disco;Dance|",
+"KC and the Sunshine Band|Keep It Comin' Love|1976|dc_pjiCJl3s|KC and the Sunshine Band|S12881|Disco;Dance|",
 "The Beach Boys|Little Deuce Coupe|1963|5a4YupnT1sM?start=322|The Beach Boys|S5339|Vocal Surf;Pop;Pop Rock;Rock;Surf Music|Little Deuce Coupe (song)",
 "John Lee Hooker|Dimples|1956|OC_IZlOJv94|John Lee Hooker|S6950|Electric Blues;Blues|Dimples (song)",
 "Trovadores Regionales|Gregorio Cortez|1929|oohwn77UbdM|https://www.discogs.com/artist/2639426-Trovadores-Regionales|S9383|Corrido;Hispanic Music;Latin American Music;Mexican Music;Regional Music|",
