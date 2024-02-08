@@ -9534,7 +9534,7 @@ const songs = [
 "Laura Nyro & Labelle|The Bells|1971|PtAskI1gq2U|Labelle|S11374|Pop Soul;Rhythm & Blues;Pop;R&B;Soul|Laura Nyro",
 "Phil Collins|You Can't Hurry Love|1982|Ao9SIKC48vg|Phil Collins|S13923|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|You Can't Hurry Love",
 "Trio Matamoros|Son de la Loma|1928|LfdwBDo2jqA|Trio Matamoros|S15150|Bolero son;Trova;Bolero;Cuban Music;Hispanic Music;Latin American Music;Regional Music;Son Cubano|",
-"Claude Nougaro|Le Cinéma|1962|mmv16X-nT7k|Claude Nougaro|S10426|Chanson;Regional Music|May 68",
+"Claude Nougaro|Le Cinéma|1962|O1pBoSvntCo|Claude Nougaro|S10426|Chanson;Regional Music|May 68",
 "Man Parrish|Hip Hop, Be Bop (Don't Stop)|1982|7tsfJn8YdwQ|Man Parrish|S11529|Electro;Dance;Electronic;Electronic Dance Music|",
 "The Style Council|Shout to the Top|1984|7m94ip38UKs|The Style Council|S9370|Blue Eyed Soul;Pop Soul;Sophisti-Pop;Pop;R&B;Soul|Shout to the Top!",
 "black midi|bmbmbm|2018|E8BI3Bbpgdk|Black Midi|S16900|No Wave;Noise Rock;Experimental Rock;Post-Punk;Rock|",
