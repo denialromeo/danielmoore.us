@@ -639,7 +639,7 @@ const songs = [
 "The Tornados|Telstar|1962|ryrEPzsx1gQ|The Tornados|S1105|Space Age Pop;Easy Listening;Pop|",
 "Etta James|At Last|1960|6XDtWSKM7LU|Etta James|S1134|Rhythm & Blues;Soul;R&B|At Last",
 "The Strokes|Hard to Explain|2001|BXkm6h6uq0k|The Strokes|S1459|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|Hard to Explain",
-"David Bowie|Rebel Rebel|1974|Vy-rvsHsi1o|David Bowie|S2322|Glam Rock;Rock|Rebel Rebel",
+"David Bowie|Rebel Rebel|1974|d8BzPxWvdAs|David Bowie|S2322|Glam Rock;Rock|Rebel Rebel",
 "Tracy Chapman|Fast Car|1988|AIOAlaACuv4|Tracy Chapman|S305|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Fast Car",
 "Pink Floyd|Shine On You Crazy Diamond|1975|cWGE9Gi0bB0|Pink Floyd|S1771|Art Rock;Progressive Rock;Rock|",
 "Roxy Music|More Than This|1982|kOnde5c7OG8|Roxy Music|S3785|New Romantic;Sophisti-Pop;New Wave;Pop;Rock|More Than This (Roxy Music song)",
