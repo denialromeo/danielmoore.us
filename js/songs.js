@@ -165,7 +165,7 @@ const songs = [
 "Madonna|Into the Groove|1985|52iW3lcpK5M|Madonna (entertainer)|S396|Freestyle;Synthpop;Dance;Dance-Pop;Electronic;Electronic Dance Music;Pop|Into the Groove",
 "Tame Impala|Let It Happen|2015|pFptt7Cargc|Kevin Parker (musician)|S9845|Indietronica;Psychedelic Pop;Synthpop;Electronic;Pop|Let It Happen",
 "Solange|Cranes in the Sky|2016|S0qrinhNnOM|Solange Knowles|S16189|Neo-Soul;R&B;Soul|Cranes in the Sky",
-"Blur|Song 2|1997|SSbBvKaM6sk|Blur (band)|S2|Alternative Rock;Rock|Girls & Boys (Blur song)",
+"Blur|Song 2|1997|SSbBvKaM6sk|Blur (band)|S2|Alternative Rock;Rock|Song 2",
 "Prince|Purple Rain|1984|S6Y1gohk5-A|Prince (musician)|S441|Pop Rock;Psychedelic Soul;Pop;R&B;Rock;Soul|Purple Rain (song)",
 "Kate Bush|Wuthering Heights|1978|-1pMMIe4hb4|Kate Bush|S610|Art Pop;Pop|Wuthering Heights (song)",
 "Bruce Springsteen|Born in the U.S.A.|1984|EPhWR4d3FJQ|Bruce Springsteen|S434|Heartland Rock;Pop Rock;Pop;Rock|Born in the U.S.A. (song)",
