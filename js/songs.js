@@ -6390,7 +6390,7 @@ const songs = [
 "King Oliver|Chimes Blues|1923|aqgvo29Vwig|King Oliver|S9269|Dixieland;Jazz|Chimes of Freedom (song)",
 "King Cole Trio|Sweet Lorraine|1941|bl8xeunYuJc|Nat King Cole|S15730|Vocal Jazz;Jazz|",
 "Photek|The Hidden Camera|1996|EvsIrkvr6zo|Photek|S58|Atmospheric Drum and Bass;Dance;Drum and Bass;Electronic;Electronic Dance Music|",
-"Joan Armatrading|Love and Affection|1976|oag3I4VRXyM|Joan Armatrading|S1782|Pop;Singer/Songwriter|Love and Affection",
+"Joan Armatrading|Love and Affection|1976|1gk4HzzYro8?start=180|Joan Armatrading|S1782|Pop;Singer/Songwriter|Love and Affection",
 "Hank Williams|You Win Again|1952|bvYDQBIokz0|Hank Williams|S13301|Honky Tonk;Country|You Win Again (Hank Williams song)",
 "Sonic Youth|Sugar Kane|1992|RIIEbrMXs20|Sonic Youth|S8489|Alternative Rock;Noise Rock;Rock|",
 "Weezer|Pork and Beans|2008|PQHPYelqr0E|Weezer|S8965|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Pork and Beans (song)",
