@@ -422,7 +422,7 @@ const songs = [
 "TV on the Radio|Wolf Like Me|2006|03hC_Ml8aAM|TV on the Radio|S3059|Art Rock;Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|",
 "The Jesus and Mary Chain|Just Like Honey|1985|7EgB__YratE|The Jesus and Mary Chain|S391|Noise Pop;Post-Punk;Alternative Rock;Rock|Just Like Honey",
 "New Order|Bizarre Love Triangle|1986|tkOr12AQpnU|New Order (band)|S1943|Alternative Dance;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|Bizarre Love Triangle",
-"Creedence Clearwater Revival|Bad Moon Rising|1969|w6iRNVwslM4?start=7|Creedence Clearwater Revival|S876|Country Rock;Swamp Rock;Rock;Roots Rock|Lodi (Creedence Clearwater Revival song)",
+"Creedence Clearwater Revival|Bad Moon Rising|1969|wkqfPuQhW9I|Creedence Clearwater Revival|S876|Country Rock;Swamp Rock;Rock;Roots Rock|Lodi (Creedence Clearwater Revival song)",
 "Smokey Robinson and the Miracles|You've Really Got a Hold on Me|1962|AdDnqSFYXFs|The Miracles|S1092|Motown Sound;Pop;Pop Soul;R&B;Soul|You've Really Got a Hold on Me",
 "Courtney Barnett|Pedestrian at Best|2015|o-nr1nNC3ds|Courtney Barnett|S9728|Garage Rock;Indie Rock;Alternative Rock;Rock|",
 "N.W.A|Straight Outta Compton|1988|TMZi25Pq3T8|N.W.A|S261|Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Straight Outta Compton (song)",
