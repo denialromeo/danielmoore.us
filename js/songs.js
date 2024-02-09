@@ -481,7 +481,7 @@ const songs = [
 "Justice|We Are Your Friends|2006|nr90nbqxuZk|Simian (band)|S4045|Electro House;Dance;Electronic;Electronic Dance Music;House|We Are Your Friends (song)",
 "The Walkmen|The Rat|2004|aWR1h-5EzUo|The Walkmen|S2451|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|The Rat (song)",
 "James Taylor|Fire and Rain|1970|_1nKGVDhQ60?start=14|James Taylor|S860|Folk Rock;Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|Fire and Rain (song)",
-"James Brown|It's a Man's Man's Man's World|1966|H77fRz1rybs|James Brown|S983|Deep Soul;R&B;Soul;Southern Soul|It's a Man's Man's Man's World",
+"James Brown|It's a Man's Man's Man's World|1966|eRWY217v6ok?start=76|James Brown|S983|Deep Soul;R&B;Soul;Southern Soul|It's a Man's Man's Man's World",
 "N.W.A|Fuck Tha Police|1988|fF3aPT7C51Y|N.W.A|S205|Gangsta Rap;Political Hip Hop;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Fuck tha Police",
 "David Bowie|Young Americans|1975|oXjTnPHAlmk|David Bowie|S694|Blue Eyed Soul;Pop Rock;Pop Soul;Pop;R&B;Rock;Soul|",
 "The Roots|The Seed 2.0|2002|ojC0mg2hJCc|The Roots|S2253|East Coast Hip Hop;Neo-Soul;Hip Hop;R&B;Soul|",
