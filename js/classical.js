@@ -100,7 +100,7 @@ const classical = [
 "George Frideric Handel|Ariodante|1735|JGnW-HZCiD8|George Frideric Handel|",
 "George Frideric Handel|Organ Concertos|1735-1751|PLawrJgP30lZzVcDwDX9Q-6shONTUEzQcT|George Frideric Handel|Organ concertos, Op. 4 (Handel)",
 "Jean-Philippe Rameau|Les Indes galantes|1735|_aPKLslVDSE|Jean-Philippe Rameau|Les Indes galantes",
-"Giovanni Battista Pergolesi|Stabat Mater|1736|7FWMBqjxX20|Giovanni Battista Pergolesi|Stabat Mater (Pergolesi)",
+"Giovanni Battista Pergolesi|Stabat Mater|1736|OLAK5uy_nlZhmKoJSxliIWRwq3lF7jO2aumS6-eU4|Giovanni Battista Pergolesi|Stabat Mater (Pergolesi)",
 "Jean-Philippe Rameau|Castor et Pollux|1737-1754|i-xWnhex11E|Jean-Philippe Rameau|Castor et Pollux",
 "George Frideric Handel|Serse|1738|WH7GSJoDUDM|George Frideric Handel|Serse",
 "Johann Sebastian Bach|Harpsichord Concertos|1739|wC_kuLSnuXk|Johann Sebastian Bach|",
