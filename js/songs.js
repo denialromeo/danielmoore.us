@@ -1191,7 +1191,7 @@ const songs = [
 "Haim|The Wire|2013|1TffpkE2GU4|Haim (band)|S9457|Pop Rock;Pop;Rock|",
 "Mobb Deep|Shook Ones, Pt. 2|1995|yoYZf-lBF_U|Mobb Deep|S90|Boom Bap;East Coast Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Shook Ones, Part II",
 "Arrested Development|Tennessee|1992|6VCdJyOAQYM|Arrested Development (group)|S152|Boom Bap;Conscious Hip Hop;Southern Hip Hop;Hip Hop|Tennessee (Arrested Development song)",
-"Lil Uzi Vert|XO Tour Llif3|2017|WrsFXgQk5UI|Lil Uzi Vert|S16435|Emo Rap;Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
+"Lil Uzi Vert|XO Tour Llif3|2017|WrsFXgQk5UI|Lil Uzi Vert|S16435|Emo Rap;Pop Rap;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|XO Tour Llif3",
 "The Drifters|Money Honey|1953|8bdX6uD3HkA|The Drifters|S1330|Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|Money Honey (Clyde McPhatter and the Drifters song)",
 "The Jam|Town Called Malice|1982|YfpRm-p7qlY|The Jam|S491|Mod Revival;New Wave;Pop Rock;Mod;Pop;Rock|Town Called Malice",
 "The Cure|Friday I'm in Love|1992|ucX9hVCQT_U|The Cure|S2042|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Friday I'm in Love",
