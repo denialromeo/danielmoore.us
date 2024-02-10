@@ -9130,7 +9130,7 @@ const songs = [
 "ScHoolboy Q feat. Kanye West|THat Part|2016|uQ_DHRI-Xp0|Schoolboy Q|S16183|Trap;West Coast Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
 "Donna Summer|State of Independence|1982|3XcKN0XbCbU|Donna Summer|S6128|Pop|State of Independence",
 "Kasabian|Empire|2006|nVTEqG9enEY|Kasabian|S7055|Indie Rock;Alternative Rock;Rock|Empire (Kasabian song)",
-"Superpitcher|Happiness|2004|ajhvWNka_wI|Superpitcher|S12366|Microhouse;Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|",
+"Superpitcher|Happiness|2004|UvguK0DI8bM|Superpitcher|S12366|Microhouse;Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|",
 "Carly Rae Jepsen|All That|2015|W374tWnsk70|Carly Rae Jepsen|S9720|Sophisti-Pop;Synthpop;Electronic;Pop|",
 "The Highwaymen|Michael, Row the Boat Ashore|1960|GFONIPFUgM4|The Highwaymen (folk band)|S6715|Folk Pop;Contemporary Folk;Folk;Pop|Michael, Row the Boat Ashore",
 "Pink Floyd|Fearless|1971|t3J_2R9rAp8|Pink Floyd|S9321|Art Rock;Folk Rock;Rock|Fearless (Pink Floyd song)",
