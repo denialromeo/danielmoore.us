@@ -5318,7 +5318,7 @@ const songs = [
 "Gerry and the Pacemakers|Ferry Cross the Mersey|1964|MKD9L9ypwSM|Gerry and the Pacemakers|S6551|Merseybeat;Beat Music;Pop;Pop Rock;Rock|Ferry Cross the Mersey",
 "Half Pint|Greetings|1986|GpPvZivhzIA|Half Pint|S6670|Dancehall;Deejay;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "Lizzo|Boys|2018|HQliEKPg1Qk|Lizzo|S16568|Pop Rap;Hip Hop|Boys (Lizzo song)",
-"LaVern Baker|Soul on Fire|1953|CUINUCuLu3c|LaVern Baker|S1346|Rhythm & Blues;R&B|",
+"LaVern Baker|Soul on Fire|1953|sE77dCYO2tM|LaVern Baker|S1346|Rhythm & Blues;R&B|",
 "Lee Dorsey|Ya Ya|1961|C1YusSmtBU0|Lee Dorsey|S7214|New Orleans R&B;Rhythm & Blues;R&B|Ya Ya",
 "Shaggy|Oh Carolina|1993|BtLqmWt2h2g|Shaggy (musician)|S2067|Dancehall;Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Oh Carolina",
 "Charlie Parker|Lover Man|1946|plHYNe5eV2I|Charlie Parker|S5766|Bebop;Jazz|",
