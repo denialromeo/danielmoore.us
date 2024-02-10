@@ -4684,7 +4684,7 @@ const songs = [
 "Shaggy|Boombastic|1995|6W5pq4bIzIw|Shaggy (musician)|S4227|Dancehall;Caribbean Music;Jamaican Music;Regional Music|Boombastic (song)",
 "Spandau Ballet|To Cut a Long Story Short|1980|JE2sCISQmpE|Spandau Ballet|S2342|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock|",
 "Mercury Rev|Holes|1998|SYe5Q-oMEME|Mercury Rev|S4240|Chamber Pop;Dream Pop;Neo-Psychedelia;Shoegaze;Alternative Rock;Baroque Pop;Indie Pop;Pop;Psychedelic Rock;Rock|",
-"The Bad Plus|Smells Like Teen Spirit|2003|RZ6Xo1mYSJg|The Bad Plus|S10066|Avant-Garde Jazz;Jazz|Nevermind",
+"The Bad Plus|Smells Like Teen Spirit|2003|XFxaG2lFrOE|The Bad Plus|S10066|Avant-Garde Jazz;Jazz|Nevermind",
 "Roy Orbison|Blue Bayou|1963|HiMl4yX1JiA|Roy Orbison|S2413|Pop Rock;Pop;Rock|Blue Bayou",
 "Marvin Gaye|You’re All I Need to Get By|1968|Dza91W2DLWE|Tammi Terrell|S7461|Motown Sound;Pop;Pop Soul;R&B;Soul|You're All I Need to Get By",
 "John Lennon|Happy Xmas (War Is Over)|1971|g_kj60DIq2M|Plastic Ono Band|S2308|Christmas Music;Pop Rock;Descriptor;Holiday Music;Pop;Rock|Happy Xmas (War Is Over)",
