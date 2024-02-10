@@ -10326,7 +10326,7 @@ const songs = [
 "Drake|Back to Back|2015|XHYG2crLab4|Drake (musician)|S16307|Hardcore Hip Hop;Hip Hop|Back to Back (Drake song)",
 "The Horrors|I See You|2014|CN0jkdTvl9s|The Horrors|S11044|Neo-Psychedelia;Psychedelic Rock;Rock|",
 "Florence + The Machine|Kiss with a Fist|2008|1SmxVCM39j4|Florence and the Machine|S6406|Indie Rock;Alternative Rock;Rock|",
-"John Talabot|So Will Be Now|2012|lyyzx_Nq0-Y|John Talabot|S5043|Balearic Beat;Microhouse;Dance;Electronic;Electronic Dance Music;House|",
+"John Talabot|So Will Be Now|2012|TvG1M7s-upk|John Talabot|S5043|Balearic Beat;Microhouse;Dance;Electronic;Electronic Dance Music;House|",
 "Elle King|Ex’s & Oh's|2015|0uLI6BnVh6w|Elle King|S9749|Pop Rock;Pop Soul;Pop;R&B;Rock;Soul|Ex's & Oh's",
 "New Order|Sub-Culture|1985|kO2jW4_oze4|New Order (band)|S7705|Alternative Dance;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|Sub-culture (song)",
 "Darkside|Golden Arrow|2013|d8NaWT0WvEE|Darkside (band)|S10505|Chillwave;Microhouse;Synthpop;Dance;Electronic;Electronic Dance Music;House;Indietronica;Pop|",
