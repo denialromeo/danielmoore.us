@@ -3127,7 +3127,7 @@ const songs = [
 "Beastie Boys|Paul Revere|1986|kdfF0cOC50w|Beastie Boys|S3176|East Coast Hip Hop;Experimental Hip Hop;Hip Hop|Paul Revere (song)",
 "Gwen Guthrie|Ain't Nothin' Goin' On But the Rent|1986|gkO9us2ZmGg|Gwen Guthrie|S373|Boogie;Dance-Pop;Synth Funk;Dance;Disco;Funk;Pop;R&B|Ain't Nothin' Goin' On but the Rent",
 "Nu Shooz|I Can't Wait|1986|UJ1tBVtYOBc|Nu Shooz|S7776|Freestyle;Dance;Dance-Pop;Electronic;Electronic Dance Music;Pop|I Can't Wait (Nu Shooz song)",
-"James Chance & The Contortions|Contort Yourself|1979|uCI24Lt9aNQ|James Chance|S4557|Dance-Punk;No Wave;Experimental Rock;Post-Punk;Rock|",
+"James Chance & The Contortions|Contort Yourself|1979|_r3kfg4USTg|James Chance|S4557|Dance-Punk;No Wave;Experimental Rock;Post-Punk;Rock|",
 "Pere Ubu|Non-Alignment Pact|1978|Leax63ullPE|Pere Ubu|S4186|Art Punk;Post-Punk;Punk Rock;Rock|",
 "Joy Division|Shadowplay|1979|tk_JUYyutTM|Joy Division|S7008|Gothic Rock;Post-Punk;Rock|Shadowplay (song)",
 "The Jon Spencer Blues Explosion|Bellbottoms|1994|TZzVmGuUYQg|Jon Spencer Blues Explosion|S4223|Punk Blues;Punk Rock;Rock|",
