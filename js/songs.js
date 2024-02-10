@@ -4036,7 +4036,7 @@ const songs = [
 "David Bowie|Absolute Beginners|1986|iCJLOXqnT2I|David Bowie|S5975|Pop|Absolute Beginners (David Bowie song)",
 "The Shirelles|Dedicated to the One I Love|1959|UnLyypuGG6o|The Shirelles|S1185|Doo-Wop;Girl Group;Descriptor;Pop;R&B;Vocal Group|Dedicated to the One I Love",
 "The B-52's|Private Idaho|1980|yXmnmvDl-ao|The B-52's|S3160|Dance-Punk;New Wave;Post-Punk;Rock|",
-"Vitalic|La Rock 01|2001|XGOaXphpT7w|Vitalic|S9052|Electroclash;Dance;Electronic;Electronic Dance Music|",
+"Vitalic|La Rock 01|2001|NKfDcitWZzg|Vitalic|S9052|Electroclash;Dance;Electronic;Electronic Dance Music|",
 "Aerosmith|Toys in the Attic|1975|C7X8OQ7BEqM|Aerosmith|S2873|Hard Rock;Rock|",
 "Elvis Presley|One Night|1958|sBfNUkS5dzM|Elvis Presley|S1626|Pop;Rock & Roll;Rock|One Night (Elvis Presley song)",
 "Kristin Hersh|Your Ghost|1994|ZfW4-nP2G1Q|Kristin Hersh|S2079|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|",
