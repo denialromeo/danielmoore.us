@@ -6144,7 +6144,7 @@ const songs = [
 "Bob Dylan|Lily, Rosemary and the Jack of Hearts|1975|agdoeRpTfHg|Bob Dylan|S10231|Country Rock;Singer/Songwriter;Rock|Lily, Rosemary and the Jack of Hearts",
 "Red Hot Chili Peppers|Aeroplane|1995|vV8IAOojoAA|Red Hot Chili Peppers|S14934|Alternative Rock;Funk Rock;Rock|Aeroplane (Red Hot Chili Peppers song)",
 "Mr. Mister|Broken Wings|1985|nKhN1t_7PEY|Mr. Mister|S7628|Pop Rock;Pop;Rock|Broken Wings (Mr. Mister song)",
-"The New Pornographers|The Laws Have Changed|2003|Sn-LDCRL8Js|The New Pornographers|S7710|Indie Pop;Power Pop;Pop;Pop Rock;Rock|",
+"The New Pornographers|The Laws Have Changed|2003|vr5MM6UXJVg|The New Pornographers|S7710|Indie Pop;Power Pop;Pop;Pop Rock;Rock|",
 "The Streets|Blinded by the Lights|2004|QJD8mpcGykE|The Streets|S8609|2-Step;UK Hip Hop;Dance;Electronic;Electronic Dance Music;Hip Hop;UK Garage|Blinded by the Lights",
 "Ramones|Beat on the Brat|1976|d9EhPunI6xg|Ramones|S12020|Punk Rock;Rock|",
 "Sonic Youth|Incinerate|2006|rP3ovD8ZSS4|Sonic Youth|S4030|Indie Rock;Alternative Rock;Rock|",
