@@ -284,7 +284,7 @@ const classical = [
 "Hector Berlioz|Grande messe des morts|1837|HofoFYxqIgU|Hector Berlioz|Requiem (Berlioz)",
 "Franz Liszt|Années de pèlerinage|1837-1877|LuiwjTiGHdE|Franz Liszt|Années de pèlerinage",
 "Robert Schumann|Kinderszenen|1838|yibf6QNjgGU|Robert Schumann|Kinderszenen",
-"Robert Schumann|Kreisleriana|1838|WrZn9HyIwEU|Robert Schumann|",
+"Robert Schumann|Kreisleriana|1838|J5FayGAxTf0?start=23|Robert Schumann|Kreisleriana",
 "Robert Schumann|Fantasie in C|1839|ZRZjHKX-JMA|Robert Schumann|Fantasie in C (Schumann)",
 "Hector Berlioz|Roméo et Juliette|1839|VZhBexI6F6U|Hector Berlioz|Roméo et Juliette (Berlioz)",
 "Frederic Chopin|Preludes|1839|QWFR9joxbpc?start=4|Frédéric Chopin|Preludes (Chopin)",
