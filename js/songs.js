@@ -580,7 +580,7 @@ const songs = [
 "The Easybeats|Friday on My Mind|1966|NSowZcvoqr4|The Easybeats|S1486|Beat Music;Mod;Pop;Pop Rock;Rock|Friday on My Mind",
 "2Pac|California Love|1995|J7_bMdYfSws|Tupac Shakur|S51|G-Funk;Pop Rap;West Coast Hip Hop;Hip Hop|California Love",
 "Bruce Springsteen|The River|1980|lc6F47Z6PI4?start=42|Bruce Springsteen|S2606|Heartland Rock;Singer/Songwriter;Rock|The River (Bruce Springsteen song)",
-"Jimmy Cliff|The Harder They Come|1972|7Znh0OM9jiA|Jimmy Cliff|S2571|Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|The Harder They Come (song)",
+"Jimmy Cliff|The Harder They Come|1972|pmc5H6zAi6M|Jimmy Cliff|S2571|Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|The Harder They Come (song)",
 "Rosalía|Malamente (Cap.1: Augurio)|2018|Rht7rBHuXW8|Rosalía (singer)|S16524|Alternative R&B;Flamenco Pop;Contemporary R&B;Hispanic Music;Pop;R&B;Regional Music;Spanish Music|Malamente",
 "Sly and the Family Stone|Everyday People|1968|YUUhDoCx8zc|Sly and the Family Stone|S908|Pop Soul;Psychedelic Soul;Pop;R&B;Soul|Everyday People",
 "Sam & Dave|Soul Man|1967|HYk7NWjsuHI|Sam & Dave|S945|Southern Soul;R&B;Soul|",
