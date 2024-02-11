@@ -8777,7 +8777,7 @@ const songs = [
 "Fatboy Slim|Everybody Needs a 303|1996|o6eIBE7Bo3U|Fatboy Slim|S6353|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music|",
 "Sly and the Family Stone|(You Caught Me) Smilin'|1971|5HLfsvErIC0|Sly and the Family Stone|S12829|Funk;Psychedelic Soul;R&B;Soul|",
 "Ciara feat. Ludacris|Ride|2010|Lp6W4aK1sbs|Ciara|S10412|Contemporary R&B;R&B|Ride (Ciara song)",
-"La Maldita Vecindad y Los Hijos del Quinto Patio|Kumbala|1991|hZra8woQ3sQ|Maldita Vecindad|S14641|Danzón;Latin Alternative;Cuban Music;Hispanic Music;Latin American Music;Regional Music|Maldita Sea, Vol. 1: 1989–1999",
+"La Maldita Vecindad y Los Hijos del Quinto Patio|Kumbala|1991|WblqTKJyUWs|Maldita Vecindad|S14641|Danzón;Latin Alternative;Cuban Music;Hispanic Music;Latin American Music;Regional Music|Maldita Sea, Vol. 1: 1989–1999",
 "Waxahatchee|Swan Dive|2013|sgqr-caLcnA|Waxahatchee|S12556|Indie Rock;Singer/Songwriter;Alternative Rock;Rock|",
 "Vicki Lawrence|The Night the Lights Went Out in Georgia|1973|vrQvOvu_eRc|Vicki Lawrence|S12845|Country Pop;Country;Pop|The Night the Lights Went Out in Georgia",
 "Lucky Millinder|Who Threw the Whiskey in the Well|1945|NrtflS3yTKY|Lucky Millinder|S7345|Jump-Blues;Swing;Blues;Jazz|Who Threw the Whiskey in the Well",
