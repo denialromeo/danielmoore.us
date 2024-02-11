@@ -2169,7 +2169,7 @@ const songs = [
 "Bruce Springsteen|Hungry Heart|1980|ZsADQpw-dD8|Bruce Springsteen|S558|Heartland Rock;Pop Rock;Pop;Rock|",
 "The Traveling Wilburys|Handle with Care|1988|1o4s1KVJaVA|Traveling Wilburys|S3908|Heartland Rock;Pop Rock;Pop;Rock|",
 "Peggy Lee|Is That All There Is|1969|LCRZZC-DH7M|Peggy Lee|S894|Traditional Pop;Pop|Is That All There Is%3F",
-"The Stranglers|Peaches|1977|hUIYAov1LCA|The Stranglers|S1796|New Wave;Post-Punk;Rock|",
+"The Stranglers|Peaches|1977|hUIYAov1LCA|The Stranglers|S1796|New Wave;Post-Punk;Rock|Peaches (The Stranglers song)",
 "The Teardrop Explodes|Reward|1981|WnKrLP02mP0|The Teardrop Explodes|S1867|New Wave;Post-Punk;Rock|",
 "Run-D.M.C.|Sucker MC's|1983|iOKMWSR2Aio|Run-DMC|S2613|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "Sharon Van Etten|Your Love Is Killing Me|2014|nyuPWHwZru0|Sharon Van Etten|S9558|Singer/Songwriter|Are We There",
