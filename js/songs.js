@@ -10097,7 +10097,7 @@ const songs = [
 "Jay-Z|No Church in the Wild|2011|FJt7gNi3Nr4|Jay-Z|S6881|Hip Hop|No Church in the Wild",
 "Suede|So Young|1993|IObzk2Jj0Eo|Suede (band)|S8622|Britpop;Alternative Rock;Pop;Pop Rock;Rock|So Young (Suede song)",
 "Bloc Party|Flux|2007|ttcboE1GrNg|Bloc Party|S5499|Alternative Dance;Indietronica;Alternative Rock;Dance;Electronic;Rock|Flux (Bloc Party song)",
-"Black Sabbath|Children of the Grave|1971|X7UZeHvMYZA|Black Sabbath|S10199|Heavy Metal;Metal;Rock|Children of the Grave",
+"Black Sabbath|Children of the Grave|1971|zUT730G-xvA|Black Sabbath|S10199|Heavy Metal;Metal;Rock|Children of the Grave",
 "The Field Mice|Missing the Moon|1991|0HgffFOL32s|The Field Mice|S10806|Alternative Dance;Dream Pop;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|",
 "Torres|Strange Hellos|2015|Ol61WOSzLF8|Torres (musician)|S9860|Indie Rock;Alternative Rock;Rock|",
 "The Kooks|Naive|2006|jkaMiaRLgvY|The Kooks|S13861|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|Naïve (song)",
