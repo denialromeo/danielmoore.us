@@ -4971,7 +4971,7 @@ const songs = [
 "Womack and Womack|Teardrops|1988|R8AOAap6_k4|Womack & Womack|S322|Pop Soul;Pop;R&B;Soul|Teardrops (Womack & Womack song)",
 "Mystikal|Shake Ya Ass|2000|Ic28JniSYY4|Mystikal|S3649|Pop Rap;Southern Hip Hop;Hip Hop|",
 "Paul Simon|The Obvious Child|1990|9HKNAhAxMAk|Paul Simon|S7897|Batucada;Folk Pop;Brazilian Music;Contemporary Folk;Folk;Pop;Regional Music;Samba|The Obvious Child",
-"Otis Redding|Hard to Handle|1968|6TQIKw19Xjs|Otis Redding|S7830|Southern Soul;R&B;Soul|Hard to Handle (song)",
+"Otis Redding|Hard to Handle|1968|2B4mGgDNlk4|Otis Redding|S7830|Southern Soul;R&B;Soul|Hard to Handle (song)",
 "Omni Trio|Renegade Snares|1993|wKPlj4PkQZw|Rob Haigh|S7809|Jungle;Dance;Drum and Bass;Electronic;Electronic Dance Music|High Contrast",
 "A Flock of Seagulls|I Ran (So Far Away)|1982|iIpfWORQWhU|A Flock of Seagulls|S3127|New Wave;Synthpop;Electronic;Pop;Rock|I Ran (So Far Away)",
 "Keith West|Excerpt from \"A Teenage Opera\"|1967|G5cqzu6vi_Q|Keith West|S7076|Psychedelic Pop;Pop|",
