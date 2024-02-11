@@ -6327,7 +6327,7 @@ const songs = [
 "Billy Idol|Rebel Yell|1983|VdphvuyaV_I|Billy Idol|S10173|New Wave;Pop Rock;Pop;Rock|Rebel Yell (song)",
 "Sumo|La rubia tarada|1985|QuaGBNkdTso|Sumo|S8634|New Wave;Post-Punk;Rock|",
 "Beyoncé|Ring the Alarm|2006|eY_mrU8MPfI|Beyoncé|S4041|Contemporary R&B;Pop;R&B|Ring the Alarm",
-"The Auteurs|Showgirl|1992|FV4YCZ0FsqY|The Auteurs|S10042|Britpop;Alternative Rock;Pop;Pop Rock;Rock|",
+"The Auteurs|Showgirl|1992|gAdn5iw_7qM|The Auteurs|S10042|Britpop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Lefty Frizzell|Always Late (with Your Kisses)|1951|oQqlMoqebnY|Lefty Frizzell|S1606|Honky Tonk;Country|Always Late with Your Kisses",
 "Caribou|Home|2019|LX30jRKcmbw|Dan Snaith|S16751|Neo-Soul;Plunderphonics;Trip Hop;Downtempo;Electronic;Experimental;R&B;Soul;Sound Collage;Tape Music|",
 "Zager and Evans|In the Year 2525 (Exordium and Terminus)|1969|yesyhQkYrQM|Zager and Evans|S9108|Folk Pop;Pop Rock;Contemporary Folk;Folk;Pop;Rock|In the Year 2525",
