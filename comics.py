@@ -3,9 +3,9 @@ import os
 
 from PIL import Image
 
-DIR = 'assets/img/comics/invincible_technicians'
-TITLE = 'Invincible'
-AUTHOR = 'Robert Kirkman'
+DIR = 'assets/img/comics/sandman-loki'
+TITLE = 'The Sandman'
+AUTHOR = 'Neil Gaiman'
 
 def get_dim(img):
     im = Image.open(img);
