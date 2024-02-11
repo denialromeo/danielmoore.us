@@ -84,7 +84,7 @@ const albums = [
 "Oasis|(What's the Story) Morning Glory?|1995|OLAK5uy_l9CkN0eiuGfZFd1UvBVEcpEbt4C9Vt8Zo|A933|(What's the Story) Morning Glory%3F|Oasis (band)|Britpop;Alternative Rock;Pop;Pop Rock;Rock",
 "Radiohead|The Bends|1995|OLAK5uy_mcdDsRfBo6p9yWwUCOLxjSMVV9sd2LjtU|A934|The Bends (album)|Radiohead|Alternative Rock;Rock",
 "Bob Dylan|Bringing It All Back Home|1965|OLAK5uy_kE7qNEra9ki9Y5ujekyHQWWpEfp8n8d4w|A34|Bringing It All Back Home|Bob Dylan|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock",
-"The Jesus and Mary Chain|Psychocandy|1985|PLGvOhF5V-qLcA8JVlj_EpMyRIYAsDIgd7|A632|Psychocandy|The Jesus and Mary Chain|Noise Pop;Post-Punk;Alternative Rock;Rock",
+"The Jesus and Mary Chain|Psychocandy|1985|PLiN-7mukU_RH4gndroQNV07979iYy4sfX|A632|Psychocandy|The Jesus and Mary Chain|Noise Pop;Post-Punk;Alternative Rock;Rock",
 "Aretha Franklin|I Never Loved a Man the Way I Love You|1967|OLAK5uy_nguOvRxZS2UYPGtgR81ALVoSMkT2_KTa0|A106|I Never Loved a Man the Way I Love You|Aretha Franklin|Deep Soul;R&B;Soul;Southern Soul",
 "Led Zeppelin|Led Zeppelin II|1969|OLAK5uy_ntyqJcpoyvD3FL5oolvHW6wwA5js-xWW4|A155|Led Zeppelin II|Led Zeppelin|Blues Rock;Hard Rock;Rock",
 "Derek and The Dominos|Layla and Other Assorted Love Songs|1970|OLAK5uy_mnlJw8G3MILvhtNYhdw9LF000zWiKvfXU|A184|Layla and Other Assorted Love Songs|Derek and the Dominos|Blues Rock;Rock",
