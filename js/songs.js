@@ -2441,7 +2441,7 @@ const songs = [
 "A Tribe Called Quest|Can I Kick It?|1990|O3pyCGnZzYA|A Tribe Called Quest|S2021|Boom Bap;East Coast Hip Hop;Hip Hop|Can I Kick It%3F",
 "Herbie Hancock|Watermelon Man|1962|RzPZvKSdN7g|Herbie Hancock|S4082|Hard Bop;Soul Jazz;Bebop;Jazz|",
 "Jenny Hval|Ashes to Ashes|2019|7Bq5s2oRp24|Jenny Hval|S16803|Art Pop;Synthpop;Electronic;Pop|",
-"Loretta Lynn|The Pill|1975|5DcdONaKSQM|Loretta Lynn|S1775|Honky Tonk;Country|The Pill (song)",
+"Loretta Lynn|The Pill|1975|E2pd1l0i0A8|Loretta Lynn|S1775|Honky Tonk;Country|The Pill (song)",
 "The Doobie Brothers|Long Train Runnin'|1973|eIi_GbFa_nw|The Doobie Brothers|S3349|Yacht Rock;Pop;Pop Rock;Rock|Long Train Runnin'",
 "The Monkees|Pleasant Valley Sunday|1967|sUzs5dlLrm0|The Monkees|S2285|Psychedelic Pop;Sunshine Pop;Pop|Pleasant Valley Sunday",
 "Destiny's Child|Independent Women Part 1|2000|0lPQZni7I18|Destiny's Child|S1409|Contemporary R&B;Film Soundtrack;Descriptor;R&B;Soundtracks|Independent Women Part I",
