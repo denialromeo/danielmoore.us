@@ -3263,7 +3263,7 @@ const songs = [
 "The Vapors|Turning Japanese|1980|RLQeb5NGt3E|The Vapors|S1850|New Wave;Power Pop;Pop;Pop Rock;Rock|Turning Japanese",
 "Prefab Sprout|When Love Breaks Down|1984|QeZkLV3ZjeI|Prefab Sprout|S4202|New Wave;Sophisti-Pop;Pop;Rock|",
 "Frightened Rabbit|Swim Until You Can't See Land|2009|SzjERZU3wbY|Frightened Rabbit|S6486|Indie Rock;Alternative Rock;Rock|",
-"Khaled|Didi|1992|d43hAb8yrI0|Khaled (musician)|S2943|Pop Raï;African Music;Arabic Music;North African Music;Pop;Raï;Regional Music|Didi (song)",
+"Khaled|Didi|1992|IG0KJ5wBuuU|Khaled (musician)|S2943|Pop Raï;African Music;Arabic Music;North African Music;Pop;Raï;Regional Music|Didi (song)",
 "Crosby, Stills, Nash (& Young)|Teach Your Children|1970|dQOaUnSmJr8|Crosby, Stills, Nash & Young|S5904|Country Rock;Folk Rock;Rock|",
 "Steppenwolf|Magic Carpet Ride|1968|U4WiyxXpyZc|Steppenwolf (band)|S3853|Acid Rock;Psychedelic Rock;Rock|Magic Carpet Ride (Steppenwolf song)",
 "Elton John|I Guess That's Why They Call it the Blues|1983|h6KYAVn8ons|Elton John|S4458|Piano Rock;Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|I Guess That's Why They Call It the Blues",
