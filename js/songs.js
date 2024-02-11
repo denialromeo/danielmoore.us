@@ -2011,7 +2011,7 @@ const songs = [
 "Buzzcocks|What Do I Get?|1978|iMXR7w76VZU|Buzzcocks|S621|Pop Punk;Punk Rock;Rock|",
 "Blind Lemon Jefferson|See That My Grave Is Kept Clean|1928|6tVxz_1wigw|Blind Lemon Jefferson|S2703|Acoustic Texas Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|See That My Grave Is Kept Clean",
 "Paul Whiteman|Whispering|1920|tOhkc1a-zCo|Paul Whiteman|S2760|Big Band;Jazz|",
-"The Kinks|Dead End Street|1966|RnvHEae69TM|The Kinks|S1438|Mod;Pop Rock;Pop;Rock|Dead End Street (song)",
+"The Kinks|Dead End Street|1966|XicSL93pYFY|The Kinks|S1438|Mod;Pop Rock;Pop;Rock|Dead End Street (song)",
 "Smokey Robinson and the Miracles|Shop Around|1960|AQGXa3FiXKM|The Miracles|S1168|Pop Soul;Rhythm & Blues;Pop;R&B;Soul|",
 "The Andrews Sisters|Boogie Woogie Bugle Boy|1941|ivCcPZPZMtU|The Andrews Sisters|S2642|Film Soundtrack;Swing;Traditional Pop;Vocal Group;Descriptor;Jazz;Pop;Soundtracks|Boogie Woogie Bugle Boy",
 "Robyn|Call Your Girlfriend|2010|F6ImxY6hnfA|Robyn|S8190|Dance-Pop;Electropop;Synthpop;Dance;Electronic;Pop|Call Your Girlfriend",
