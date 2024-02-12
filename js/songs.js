@@ -5750,7 +5750,7 @@ const songs = [
 "Sigrid|Don't Kill My Vibe|2017|xzonQoON9eo|Sigrid (singer)|S16477|Electropop;Electronic;Pop|Don't Kill My Vibe",
 "Heaven 17|Temptation|1983|RivufkpZDW0|Heaven 17|S2612|New Wave;Synthpop;Electronic;Pop;Rock|",
 "Ory's Sunshine Orchestra|Ory's Creole Trombone|1922|g88KV2sSWU8|Kid Ory|S13220|Dixieland;Jazz|",
-"Maria Muldaur|Midnight at the Oasis|1973|VlrKETxwRvM|Maria Muldaur|S4167|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Midnight at the Oasis",
+"Maria Muldaur|Midnight at the Oasis|1973|8bjzuSO27fA|Maria Muldaur|S4167|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Midnight at the Oasis",
 "The Ohio Express|Yummy Yummy Yummy|1968|Yijqy48mmG4|Ohio Express|S7796|Bubblegum;Pop Rock;Pop;Rock|Yummy Yummy Yummy",
 "Little Feat|Dixie Chicken|1973|3z-GwdaKrn8|Little Feat|S4166|Southern Rock;Rock|",
 "Bob Marley and the Wailers|Duppy Conqueror|1970|5hZBEr9FKEo|Bob Marley|S2299|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
