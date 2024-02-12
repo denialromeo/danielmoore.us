@@ -1069,7 +1069,7 @@ const songs = [
 "The Orb|Little Fluffy Clouds|1990|8Ecdn5SGT1E|The Orb|S2015|Ambient House;Breakbeat;Dance;Electronic;Electronic Dance Music;House|",
 "Wilbert Harrison|Kansas City|1959|UonBS_mvW-E?start=60|Wilbert Harrison|S1177|Rhythm & Blues;Rock & Roll;R&B;Rock|Kansas City (Leiber and Stoller song)",
 "Kanye West|Power|2010|k8JflBNovLE|Kanye West|S4910|Hip Hop|Power (Kanye West song)",
-"The Kinks|Sunny Afternoon|1966|PMHfYLZS4cI|The Kinks|S3079|Pop Rock;Pop;Rock|Sunny Afternoon",
+"The Kinks|Sunny Afternoon|1966|g-cLaPUOtzU|The Kinks|S3079|Pop Rock;Pop;Rock|Sunny Afternoon",
 "Jimi Hendrix|Crosstown Traffic|1968|AwFKHpzIZwA?start=26|Jimi Hendrix|S927|Psychedelic Rock;Rock|Crosstown Traffic (song)",
 "Charley Patton|Pony Blues|1929|zoKKJjf-oQA|Charley Patton|S2731|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|",
 "Pet Shop Boys|It's a Sin|1987|dRHetRTOD1Q|Pet Shop Boys|S1585|Synthpop;Electronic;Pop|It's a Sin",
