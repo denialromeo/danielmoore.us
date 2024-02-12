@@ -9985,7 +9985,7 @@ const songs = [
 "Toktok vs. Soffy O.|Day of Mine (Ludicrous Idiot)|2002|LETsi4eAtho|https://de.wikipedia.org/wiki/Toktok|S8781|Electropop;Electronic;Pop|",
 "Social Distortion|I Was Wrong|1996|aXAU4MmMIMo|Social Distortion|S12251|Alternative Rock;Punk Rock;Rock|I Was Wrong (Social Distortion song)",
 "Animotion|Obsession|1984|hIs5StN8J-0|Animotion|S10000|Synthpop;Electronic;Pop|Obsession (Animotion song)",
-"Chris Montez|Let's Dance|1962|iNLXxDMxe18|Chris Montez|S5798|Rock & Roll;Rock|Let's Dance (Chris Montez song)",
+"Chris Montez|Let's Dance|1962|uc2uh--8yj8|Chris Montez|S5798|Rock & Roll;Rock|Let's Dance (Chris Montez song)",
 "The Beatles|Savoy Truffle|1968|z9EaBjFvQpc|The Beatles|S10118|Pop Rock;Rhythm & Blues;Pop;R&B;Rock|Savoy Truffle",
 "The Skids|Into the Valley|1979|9udxbvHiqGw|Skids (band)|S8437|New Wave;Punk Rock;Rock|Into the Valley",
 "Redman|Tonight's Da Night|1992|KrGHujK8rmY|Redman (rapper)|S12044|Boom Bap;East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
