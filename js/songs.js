@@ -10274,7 +10274,7 @@ const songs = [
 "Rata Blanca|La leyenda del hada y el mago|1990|4RveUP8fKA4|Rata Blanca|S13608|Heavy Metal;Neoclassical Metal;Metal;Rock|",
 "Ten Years After|I'd Love to Change the World|1971|lSYFJB7o9ZQ|Ten Years After|S8719|Folk Rock;Psychedelic Rock;Rock|I'd Love to Change the World",
 "The Teenagers|Homecoming|2007|ngHDYzhDBk4|The Teenagers|S8708|Indietronica;Electronic|The Teenagers (French band)",
-"Broadcast|Echo's Answer|1999|WZV9OqdFFyk|Broadcast (band)|S5627|Ambient Pop;Dream Pop;Indietronica;Alternative Rock;Electronic;Pop;Rock|",
+"Broadcast|Echo's Answer|1999|EOQ7c1PVNrw|Broadcast (band)|S5627|Ambient Pop;Dream Pop;Indietronica;Alternative Rock;Electronic;Pop;Rock|",
 "Cat Power|Free|2003|IiEjkh1pzfY|Cat Power|S14218|Folk Rock;Indie Pop;Singer/Songwriter;Pop;Rock|",
 "Gomez|Get Myself Arrested|1998|N8HNTI4FsgM|Gomez (band)|S6609|Indie Rock;Alternative Rock;Rock|Get Myself Arrested",
 "Orelsan|Suicide Social|2011|4CRVx8w0ozQ|Orelsan|S15759|Conscious Hip Hop;French Hip Hop;Hardcore Hip Hop;Hip Hop|",
