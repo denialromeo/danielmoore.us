@@ -4177,7 +4177,7 @@ const songs = [
 "Count Basie|Lil' Darlin'|1958|nqn4nyZz0to|Count Basie|S10461|Big Band;Swing;Jazz|",
 "George Strait|Amarillo By Morning|1982|wtVeDaZxAXo|George Strait|S6540|Contemporary Country;Country|Amarillo by Morning (song)",
 "Depeche Mode|Precious|2005|8yn3ViE6mhY|Depeche Mode|S3044|Synthpop;Electronic;Pop|Precious (Depeche Mode song)",
-"Simon and Garfunkel|I Am a Rock|1966|JKlSVNxLB-A|Simon & Garfunkel|S8416|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|I Am a Rock",
+"Simon and Garfunkel|I Am a Rock|1966|J2nN-Yrt1EU|Simon & Garfunkel|S8416|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|I Am a Rock",
 "Santana|Samba pa ti|1970|-mKCYR_tJYE|Carlos Santana|S12158|Blues Rock;Latin Rock;Hispanic Music;Latin American Music;Regional Music;Rock|",
 "Chaka Demus & Pliers|Murder She Wrote|1992|-av7F1JBmj4|Chaka Demus & Pliers|S3326|Dancehall;Caribbean Music;Jamaican Music;Regional Music|Murder She Wrote (song)",
 "Marianne Faithfull|The Ballad of Lucy Jordan|1979|d0NxhFn0szc|Marianne Faithfull|S3401|New Wave;Synthpop;Electronic;Pop;Rock|The Ballad of Lucy Jordan",
