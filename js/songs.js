@@ -634,7 +634,7 @@ const songs = [
 "David Bowie|Let's Dance|1983|VbD_kBJc_gI|David Bowie|S453|Dance-Pop;New Wave;Pop Rock;Dance;Pop;Rock|Let's Dance (David Bowie song)",
 "Elbow|One Day Like This|2008|0NFV8dHrZYM|Elbow (band)|S4768|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
 "AC/DC|You Shook Me All Night Long|1980|Lo2qQmj0_h4|AC/DC|S564|Hard Rock;Rock|You Shook Me All Night Long",
-"The Shadows|Apache|1960|EzgbcyfJgfQ|The Shadows|S1155|Surf Rock;Rock;Surf Music|Apache (instrumental)",
+"The Shadows|Apache|1960|7TwULx_wDiI|The Shadows|S1155|Surf Rock;Rock;Surf Music|Apache (instrumental)",
 "The Beatles|Happiness Is a Warm Gun|1968|vdvnOH060Qg|The Beatles|S2526|Art Rock;Rock|Happiness Is a Warm Gun",
 "The Tornados|Telstar|1962|ryrEPzsx1gQ|The Tornados|S1105|Space Age Pop;Easy Listening;Pop|",
 "Etta James|At Last|1960|6XDtWSKM7LU|Etta James|S1134|Rhythm & Blues;Soul;R&B|At Last",
