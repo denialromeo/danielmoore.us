@@ -3410,7 +3410,7 @@ const songs = [
 "Nina Simone|I Loves You, Porgy|1958|XheNXQd-Ju0|Nina Simone|S2801|Vocal Jazz;Jazz|",
 "Deep Purple|Black Night|1970|IRlZdnbcEDI|Deep Purple|S6015|Hard Rock;Rock|Black Night",
 "Billy Idol|White Wedding|1982|AAZQaYKZMTI|Billy Idol|S3492|New Wave;Pop Rock;Pop;Rock|White Wedding (song)",
-"Cat Stevens|Father and Son|1970|iI9yKCV_Bac|Cat Stevens|S5736|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Father and Son (song)",
+"Cat Stevens|Father and Son|1970|P6zaCV4niKk|Cat Stevens|S5736|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Father and Son (song)",
 "Queen|Don't Stop Me Now|1978|HgzGwKwLmgM?start=5|Queen (band)|S8044|Piano Rock;Pop;Pop Rock;Rock|Don't Stop Me Now",
 "Richard Thompson|1952 Vincent Black Lightning|1991|j0kJdrfzjAg|Richard Thompson (musician)|S4877|Folk Rock;Singer/Songwriter;Rock|1952 Vincent Black Lightning",
 "Arthur Alexander|You Better Move On|1961|x36KUHYRgZo|Arthur Alexander|S4081|Rhythm & Blues;Southern Soul;R&B;Soul|You Better Move On (song)",
