@@ -2381,7 +2381,7 @@ const songs = [
 "Schoolly D|P.S.K. (What Does It Mean?)|1985|fQc4A-XBzBY|Schoolly D|S1945|East Coast Hip Hop;Gangsta Rap;Hardcore Hip Hop;Hip Hop|P.S.K. What Does It Mean%3F",
 "The Pharcyde|Passin' Me By|1992|a-mAK3uB2_0|The Pharcyde|S2068|Boom Bap;Jazz Rap;West Coast Hip Hop;Hip Hop|Passin' Me By",
 "Donovan|Hurdy Gurdy Man|1968|CHxfOZH8cew|Donovan|S6134|Folk Rock;Psychedelic Folk;Psychedelic Rock;Contemporary Folk;Folk;Rock|Hurdy Gurdy Man",
-"Scott McKenzie|San Francisco (Be Sure to Wear Some Flowers in Your Hair)|1967|ENrmULWKbeM?start=4|Scott McKenzie|S8330|Folk Pop;Psychedelic Pop;Sunshine Pop;Contemporary Folk;Folk;Pop|San Francisco (Be Sure to Wear Flowers in Your Hair)",
+"Scott McKenzie|San Francisco (Be Sure to Wear Some Flowers in Your Hair)|1967|X1tnpLs1lns|Scott McKenzie|S8330|Folk Pop;Psychedelic Pop;Sunshine Pop;Contemporary Folk;Folk;Pop|San Francisco (Be Sure to Wear Flowers in Your Hair)",
 "Jenny Hval|Conceptual Romance|2016|EY7eLAVrfK4|Jenny Hval|S16103|Ambient Pop;Art Pop;Pop|",
 "The xx|Islands|2009|PElhV8z7I60|The xx|S4830|Indie Pop;Pop|Islands (The xx song)",
 "Lily Allen|LDN|2006|wmYT79tPvLg|Lily Allen|S4008|Pop|LDN (song)",
