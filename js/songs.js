@@ -8840,7 +8840,7 @@ const songs = [
 "Allen Toussaint|From a Whisper to a Scream|1970|JLmSl5IFm1A|Allen Toussaint|S5169|Southern Soul;R&B;Soul|From a Whisper to a Scream",
 "Dido|White Flag|2003|j-fWDrZSiZs|Dido (singer)|S4253|Adult Contemporary;Pop|White Flag (Dido song)",
 "Young Thug|Digits|2016|I7w9otyiE9g|Young Thug|S16220|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
-"Les Chats Sauvages|Twist à St. Tropez|1961|BpIdUE3AZu8|Les Chats Sauvages|S7246|Rock & Roll;Rock|",
+"Les Chats Sauvages|Twist à St. Tropez|1961|nu_WYmSu8_0|Les Chats Sauvages|S7246|Rock & Roll;Rock|",
 "YACHT|Psychic City (Voodoo City)|2009|MI6xNf4tMcs|Yacht (band)|S9080|Indietronica;Electronic|",
 "Laurel Halo|Light + Space|2012|H5uNiyEfMdI|Laurel Halo|S7189|Ambient Pop;Pop|",
 "Gorillaz|Dirty Harry|2005|cLnkQAeMbIM|Gorillaz|S3013|Abstract Hip Hop;Experimental Hip Hop;Political Hip Hop;Trip Hop;Downtempo;Electronic;Hip Hop|Dirty Harry (song)",
