@@ -629,7 +629,7 @@ const classical = [
 "Albert Roussel|Le festin de l’araignée|1913|RufoBzyv7Iw|Albert Roussel|The Spider's Feast",
 "Igor Stravinsky|The Rite of Spring|1913|EkwqPJZe8ms|Igor Stravinsky|",
 "Ralph Vaughan Williams|A London Symphony|1913-1933|0Uv4lJsu0Jw|Ralph Vaughan Williams|A London Symphony",
-"Erno Dohnányi|Variations on a Nursery Tune|1914|Bqx4oYOy85o|Ernst von Dohnányi|Variations on a Nursery Tune (Dohnányi)",
+"Erno Dohnanyi|Variations on a Nursery Tune|1914|Bqx4oYOy85o|Ernst von Dohnányi|Variations on a Nursery Tune (Dohnányi)",
 "Manuel de Falla|Siete canciones populares Españolas|1914|PLm0qx3c_LrRTlIB8021pET_m-2pbgatyP|Manuel de Falla|Siete canciones populares españolas",
 "Max Reger|Variations and Fugue on a Theme of Mozart|1914|2Uo0sm9mtR0|Max Reger|Variations and Fugue on a Theme by Mozart",
 "Ralph Vaughan Williams|The Lark Ascending|1914-1920|IOWN5fQnzGk|Ralph Vaughan Williams|The Lark Ascending (Vaughan Williams)",
