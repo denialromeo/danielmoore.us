@@ -964,7 +964,7 @@ const songs = [
 "Bob Dylan|Blind Willie McTell|1991|YaoiyLYdTVo|Bob Dylan|S3365|Singer/Songwriter|Blind Willie McTell (song)",
 "Klaxons|Golden Skans|2007|q-SJjFcnsGs|Klaxons|S4279|Indie Pop;Post-Punk Revival;Alternative Rock;Indie Rock;Pop;Post-Punk;Rock|Golden Skans",
 "The Beach Boys|Wouldn't It Be Nice|1966|h53Cnpb5hsM|The Beach Boys|S3175|Baroque Pop;Sunshine Pop;Pop|Wouldn't It Be Nice",
-"The Contours|Do You Love Me|1962|l3zJZ2d4cis|The Contours|S1082|Pop Soul;Rhythm & Blues;Pop;R&B;Soul|Do You Love Me",
+"The Contours|Do You Love Me|1962|loHOhxsglKI|The Contours|S1082|Pop Soul;Rhythm & Blues;Pop;R&B;Soul|Do You Love Me",
 "Sister Sledge|We Are Family|1979|uyGY2NfYpeE|Sister Sledge|S587|Disco;Pop Soul;Dance;Pop;R&B;Soul|We Are Family (song)",
 "Spice Girls|Wannabe|1996|gJLIiF15wjQ|Spice Girls|S44|Pop|",
 "Stevie Wonder|Uptight (Everything's Alright)|1965|rXXmeYQRifc|Stevie Wonder|S1002|Motown Sound;Pop;Pop Soul;R&B;Soul|Uptight (Everything's Alright)",
