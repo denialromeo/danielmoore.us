@@ -3613,7 +3613,7 @@ const songs = [
 "Bee Gees|To Love Somebody|1967|hBvUrchek1I|Bee Gees|S1495|Baroque Pop;Pop|To Love Somebody (song)",
 "Buck Owens|Act Naturally|1963|GpBEBV1wkq4|Buck Owens|S1646|Bakersfield Sound;Country;Honky Tonk|Act Naturally",
 "Bee Gees|Massachusetts|1967|FuoWykVNwyI|Bee Gees|S5393|Baroque Pop;Pop|Massachusetts (Bee Gees song)",
-"Creedence Clearwater Revival|Travelin' Band|1970|VwcJ5WQSamQ|Creedence Clearwater Revival|S2550|Rock & Roll;Rock|",
+"Creedence Clearwater Revival|Travelin' Band|1970|ZXLqECpHW2o|Creedence Clearwater Revival|S2550|Rock & Roll;Rock|",
 "Darlene Love|Christmas (Baby Please Come Home)|1963|4EvZOXEoJ84|Darlene Love|S1649|Brill Building;Christmas Music;Pop Soul;Descriptor;Holiday Music;Pop;R&B;Soul|Christmas (Baby Please Come Home)",
 "Sufjan Stevens|Death With Dignity|2015|dsGODTySH0E|Sufjan Stevens|S16942|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|",
 "Donna Summer|She Works Hard for the Money|1983|I2_dsYFf2D8|Donna Summer|S1896|Dance-Pop;Dance;Pop|She Works Hard for the Money",
