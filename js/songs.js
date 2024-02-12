@@ -9566,7 +9566,7 @@ const songs = [
 "Jean Ferrat|Aimer à perdre la raison|1971|HR6LJ3ZBZvg?start=3|Jean Ferrat|S11164|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Bauhaus|Kick in the Eye|1981|rb-6ka1y-K8|Bauhaus (band)|S5336|Gothic Rock;Post-Punk;Rock|Kick in the Eye",
 "Dimples D.|Sucker D.J.'s|1983|kavBmqgXLyM|Dimples D.|S3334|East Coast Hip Hop;Hip Hop|",
-"Björk|Hunter|1997|o2jplo3kpNc|Björk|S10185|Art Pop;Electronic;Pop|Hunter (Björk song)",
+"Björk|Hunter|1997|cBGN0omhCs4|Björk|S10185|Art Pop;Electronic;Pop|Hunter (Björk song)",
 "Billy J. Kramer with The Dakotas|Bad to Me|1963|2CMX0mCFYJ4|Billy J. Kramer|S15294|Merseybeat;Beat Music;Pop;Pop Rock;Rock|",
 "Guy Clark|Desperados Waiting for a Train|1975|dFb1lGMvS3I|Guy Clark|S13799|Outlaw Country;Singer/Songwriter;Country;Progressive Country|Desperados Waiting for a Train",
 "Debbie Gibson|Only in My Dreams|1987|4T1t5OFOYDU|Debbie Gibson|S3446|Dance-Pop;Teen Pop;Dance;Pop|Only in My Dreams",
