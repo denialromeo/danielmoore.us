@@ -741,7 +741,7 @@ const classical = [
 "George Gershwin|An American in Paris|1928|K4I2OzMltM4?start=3|George Gershwin|An American in Paris",
 "Maurice Ravel|Boléro|1928|r30D3SW4OVw|Maurice Ravel|Boléro",
 "Arnold Schoenberg|Variations for Orchestra|1928|iL1XzH6gpAY|Arnold Schoenberg|",
-"Igor Stravinsky|Apollo|1928|Ys9xmuPH1eg|Igor Stravinsky|Apollo (ballet)",
+"Igor Stravinsky|Apollo|1928|xfn8ieMI6V4?start=6|Igor Stravinsky|Apollo (ballet)",
 "Kurt Weill|Das Berliner Requiem|1928|QxYbcNJHv_o|Kurt Weill|The Berlin Requiem (Weill)",
 "Kurt Weill|The Threepenny Opera|1928|PLjA79Xk8j1xgH7aT2gusAByfAQaL6G6yO|Kurt Weill|The Threepenny Opera",
 "Arnold Bax|Symphony No. 3|1929|OLAK5uy_nfqTByqwj7mqZotuQ48-zoFq11_UEtkQE|Arnold Bax|Symphony No. 3 (Bax)",
