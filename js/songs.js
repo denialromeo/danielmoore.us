@@ -5224,7 +5224,7 @@ const songs = [
 "The Beatles|I'm a Loser|1964|f70Z3cvrQd0|The Beatles|S5364|Folk Rock;Rock|I'm a Loser",
 "Gang Starr|Jazz Thing|1990|3kg0mh3lu9Q|Gang Starr|S3436|East Coast Hip Hop;Jazz Rap;Hip Hop|",
 "Grandaddy|A.M. 180|1997|C6GNmZOJd2A|Grandaddy|S10965|Indie Pop;Indie Rock;Indietronica;Alternative Rock;Electronic;Pop;Rock|A.M. 180",
-"Hüsker Dü|Eight Miles High|1984|xBKyBlJ_JN8|Hüsker Dü|S447|Hardcore Punk;Post-Hardcore;Punk Rock;Rock|",
+"Hüsker Dü|Eight Miles High|1984|iokmbu41qak|Hüsker Dü|S447|Hardcore Punk;Post-Hardcore;Punk Rock;Rock|",
 "Dion|Born to Be with You|1975|IyErVrHE0eM|Dion DiMucci|S4427|Baroque Pop;Pop Rock;Pop;Rock|",
 "Simon and Garfunkel|Cecilia|1970|a5_QV97eYqM|Simon & Garfunkel|S8417|Folk Pop;Contemporary Folk;Folk;Pop|Cecilia (Simon & Garfunkel song)",
 "Al Green|L-O-V-E (Love)|1975|DpAbAFJ4MJI|Al Green|S5125|Southern Soul;R&B;Soul|L-O-V-E (Love)",
