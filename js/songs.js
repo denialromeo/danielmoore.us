@@ -1912,7 +1912,7 @@ const songs = [
 "Atlas Sound|Walkabout|2009|6FnEy3XDNxE|Bradford Cox|S4833|Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|Walkabout (Atlas Sound song)",
 "Gordon Lightfoot|If You Could Read My Mind|1970|DK--A-IaZnA|Gordon Lightfoot|S2302|Chamber Folk;Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|If You Could Read My Mind",
 "Big Boi|Shutterbugg|2010|rWsvkW6rKkQ|Big Boi|S4892|Southern Hip Hop;Hip Hop|Shutterbugg",
-"Wilson Pickett|Mustang Sally|1966|16u6w0cjjrU|Wilson Pickett|S1445|Southern Soul;R&B;Soul|Mustang Sally (song)",
+"Wilson Pickett|Mustang Sally|1966|OLSgNhce4VY|Wilson Pickett|S1445|Southern Soul;R&B;Soul|Mustang Sally (song)",
 "Léo Ferré|Avec le temps|1971|v_nbdcPB0iw?start=3|Léo Ferré|S4415|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|Avec le temps (Léo Ferré song)",
 "Tenor Saw|Ring the Alarm|1985|UpjLLw-cVzU|Tenor Saw|S400|Dancehall;Caribbean Music;Jamaican Music;Regional Music|",
 "Guitar Slim|The Things That I Used to Do|1953|fj33EGMbazY|Guitar Slim|S1608|Electric Blues;New Orleans Blues;Blues|",
