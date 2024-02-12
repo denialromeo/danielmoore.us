@@ -3241,7 +3241,7 @@ const songs = [
 "The Sundays|Here's Where the Story Ends|1990|FHsip5xOenQ|The Sundays|S4860|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Here's Where the Story Ends",
 "Michael Jackson|Off the Wall|1980|G7ZPcjMgP3A|Michael Jackson|S7534|Disco;Dance|Off the Wall (Michael Jackson song)",
 "Wire|The 15th|1979|-3w656p6LGU|Wire (band)|S9045|Art Punk;Post-Punk;Punk Rock;Rock|",
-"The Velvet Underground|White Light White Heat|1968|Q4AkDt_JRqk|The Velvet Underground|S2289|Art Rock;Garage Rock;Proto-Punk;Rock|",
+"The Velvet Underground|White Light/White Heat|1968|AJy0LP8iYPg|The Velvet Underground|S2289|Art Rock;Garage Rock;Proto-Punk;Rock|White Light/White Heat (song)",
 "Peggy Gou|It Makes You Forget (Itgehane)|2018|SlbVgjFvE3I|Peggy Gou|S16532|Balearic Beat;Deep House;Dance;Electronic;Electronic Dance Music;House|",
 "The Dandy Warhols|Not If You Were the Last Junkie on Earth|1997|APrpB-i4d_E|The Dandy Warhols|S2159|Alternative Rock;Rock|Not If You Were the Last Junkie on Earth",
 "Erykah Badu|Tyrone|1997|YY2-mrsXgMM|Erykah Badu|S4518|Neo-Soul;R&B;Soul|Tyrone (song)",
