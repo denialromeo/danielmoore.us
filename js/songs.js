@@ -3838,7 +3838,7 @@ const songs = [
 "Salt 'n' Pepa|Whatta Man|1993|hEmH1EgJbEs|Salt-N-Pepa|S104|East Coast Hip Hop;Pop Rap;Hip Hop|",
 "The Jesus and Mary Chain|April Skies|1987|OPPP3BXurHk|The Jesus and Mary Chain|S342|Alternative Rock;Indie Pop;Pop;Rock|",
 "Ciara|Oh|2004|Hr4wz4-27PY|Ciara|S4641|Contemporary R&B;R&B|Oh (Ciara song)",
-"Dusty Springfield|I Only Want to Be with You|1963|CL7t22rypew|Dusty Springfield|S1653|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|I Only Want to Be with You",
+"Dusty Springfield|I Only Want to Be with You|1963|5RhsUupVRiY|Dusty Springfield|S1653|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|I Only Want to Be with You",
 "The Band|I Shall Be Released|1968|MjtPBjEz-BA|The Band|S2524|Roots Rock;Rock|I Shall Be Released",
 "Young Fathers|In My View|2018|qQFPikYSalg|Young Fathers|S16553|Alternative R&B;Indietronica;Contemporary R&B;Electronic;R&B|",
 "Gang of Four|To Hell with Poverty!|1981|QRjjVFC-oG4|Gang of Four (band)|S3435|Dance-Punk;Post-Punk;Rock|",
