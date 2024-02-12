@@ -4068,7 +4068,7 @@ const songs = [
 "Dizzy Gillespie|Hot House|1945|0PDjh9zgULM|Dizzy Gillespie|S13182|Bebop;Jazz|Dizzy Gillespie and the Double Six of Paris|",
 "Howlin' Wolf|How Many More Years|1951|OpKB6OZ_B4c|Howlin' Wolf|S6746|Chicago Blues;Blues;Electric Blues|How Many More Years",
 "Freddy Fender|Wasted Days and Wasted Nights|1974|COD6F_Fh5Rk|Freddy Fender|S10872|Country Rock;Rhythm & Blues;R&B;Rock|Wasted Days and Wasted Nights",
-"Devo|Mongoloid|1977|GZDl_R8Zp2E|Devo|S4432|Art Punk;New Wave;Post-Punk;Punk Rock;Rock|Mongoloid (song)",
+"Devo|Mongoloid|1977|mtK6pdUKmio|Devo|S4432|Art Punk;New Wave;Post-Punk;Punk Rock;Rock|Mongoloid (song)",
 "Harold Melvin & The Blue Notes|Bad Luck|1975|mykhgDJvp6g|Harold Melvin & the Blue Notes|S711|Disco;Philly Soul;Dance;R&B;Soul|",
 "Le1f|Wut|2012|Nrnq4SZ0luc|Le1f|S7198|East Coast Hip Hop;Pop Rap;Hip Hop|",
 "Queen|Crazy Little Thing Called Love|1979|zO6D_BAuYCI?start=5|Queen (band)|S8045|Pop Rock;Rockabilly;Pop;Rock;Rock & Roll|Crazy Little Thing Called Love",
