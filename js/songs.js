@@ -2451,7 +2451,7 @@ const songs = [
 "Los Bravos|Black Is Black|1966|9TN_NieR8lc|Los Bravos|S7306|Beat Music;Pop;Pop Rock;Rock|Black Is Black",
 "Shirley and Co.|Shame, Shame, Shame|1975|YEzQV75LDL0|Shirley Goodman|S696|Disco;Dance|Shame, Shame, Shame (Shirley & Company song)",
 "Mungo Jerry|In the Summertime|1970|wvUQcnfwUUM|Mungo Jerry|S1309|Folk Pop;Contemporary Folk;Folk;Pop|",
-"Leonard Cohen|Everybody Knows|1988|T4rf7bAApM4|Leonard Cohen|S3290|Singer/Songwriter;Sophisti-Pop;Pop|Everybody Knows (Leonard Cohen song)",
+"Leonard Cohen|Everybody Knows|1988|xu8u9ZbCJgQ|Leonard Cohen|S3290|Singer/Songwriter;Sophisti-Pop;Pop|Everybody Knows (Leonard Cohen song)",
 "Spiller|Groovejet (If This Ain't Love)|2000|npJTeRjRX-8|Spiller|S1386|Dance-Pop;Funky House;Dance;Electronic;Electronic Dance Music;House;Pop|Groovejet (If This Ain't Love)",
 "Sébastien Tellier|La Ritournelle|2003|crblDrrcunQ|Sébastien Tellier|S3028|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
 "The Original Dixieland Jazz Band|Tiger Rag|1918|oz0fk3G7upQ|Original Dixieland Jass Band|S2727|Dixieland;Ragtime;American Folk Music;Folk;Jazz;Regional Music;Traditional Folk Music|",
