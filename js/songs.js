@@ -3730,7 +3730,7 @@ const songs = [
 "Ian Dury|Sweet Gene Vincent|1977|zM_q3k4TwpM|The Blockheads|S1799|New Wave;Pub Rock;Rock|Sweet Gene Vincent",
 "The Strokes|Under Cover of Darkness|2011|_l09H-3zzgA|The Strokes|S4989|Indie Rock;Alternative Rock;Rock|Under Cover of Darkness",
 "Captain Beefheart and His Magic Band|Big Eyed Beans from Venus|1972|XF177Aj59C8|Captain Beefheart|S2574|Blues Rock;Rock|",
-"Eric Clapton|Cocaine|1977|qYS732zyYfU|Eric Clapton|S6300|Blues Rock;Rock|Cocaine (song)",
+"Eric Clapton|Cocaine|1977|fdDhV45lYHU|Eric Clapton|S6300|Blues Rock;Rock|Cocaine (song)",
 "Artists United Against Apartheid|Sun City|1985|4BIvf-ZlJNc|Artists United Against Apartheid|S404|Hip Hop;Synthpop;Electronic;Pop|",
 "Justin Timberlake|Like I Love You|2002|FQ3slUz7Jo8|Justin Timberlake|S1520|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|Like I Love You",
 "DMX|Ruff Ryders Anthem|1998|ThlhSnRk21E|DMX (rapper)|S6112|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Ruff Ryders' Anthem",
