@@ -10372,7 +10372,7 @@ const songs = [
 "The Cure|Jumping Someone Else's Train|1979|TKa1kKSgOb0|The Cure|S5926|Post-Punk;Rock|Jumping Someone Else's Train",
 "Parquet Courts|Berlin Got Blurry|2016|hv0bBjMc6FY|Parquet Courts|S16161|Indie Rock;Alternative Rock;Rock|",
 "King Sun D Moet|Hey Love|1987|ROUkbY5khaA|https://www.discogs.com/artist/90010-King-Sun|S2920|East Coast Hip Hop;Hip Hop|",
-"The Turtles|Elenore|1968|f09itrlXcic?start=5|The Turtles|S8863|Pop Rock;Sunshine Pop;Pop;Rock|Elenore",
+"The Turtles|Elenore|1968|JvaJCkc2wsU|The Turtles|S8863|Pop Rock;Sunshine Pop;Pop;Rock|Elenore",
 "Elvis Presley|King Creole|1958|yA_zS6-dO7Q|Elvis Presley|S13095|Rock & Roll;Rock|",
 "Janet Jackson|Escapade|1989|UFX3gQHIroU|Janet Jackson|S11151|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|Escapade (song)",
 "Saint Etienne|Join Our Club|1992|OYdrwH12Ia4|Saint Etienne (band)|S8297|Alternative Dance;House;Indie Pop;Alternative Rock;Dance;Electronic;Electronic Dance Music;Pop;Rock|Join Our Club",
