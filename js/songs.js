@@ -5746,7 +5746,7 @@ const songs = [
 "Green Velvet|La La Land|2001|NMD_cv4fM4s|Curtis Jones|S6645|Electroclash;Dance;Electronic;Electronic Dance Music|La La Land (Green Velvet song)",
 "De La Soul|Say No Go|1989|QLoDlBwL2T4|De La Soul|S260|Conscious Hip Hop;East Coast Hip Hop;Hip Hop|",
 "Lady Gaga|Paparazzi|2008|d2smz_1L2_0|Lady Gaga|S4814|Dance-Pop;Electropop;Dance;Electronic;Pop|Paparazzi (Lady Gaga song)",
-"The Lemon Pipers|Green Tambourine|1967|S5Vz-z4PEkk|The Lemon Pipers|S11402|Psychedelic Pop;Pop|",
+"The Lemon Pipers|Green Tambourine|1967|NBFY1-eEhdU|The Lemon Pipers|S11402|Psychedelic Pop;Pop|",
 "Sigrid|Don't Kill My Vibe|2017|xzonQoON9eo|Sigrid (singer)|S16477|Electropop;Electronic;Pop|Don't Kill My Vibe",
 "Heaven 17|Temptation|1983|RivufkpZDW0|Heaven 17|S2612|New Wave;Synthpop;Electronic;Pop;Rock|",
 "Ory's Sunshine Orchestra|Ory's Creole Trombone|1922|g88KV2sSWU8|Kid Ory|S13220|Dixieland;Jazz|",
