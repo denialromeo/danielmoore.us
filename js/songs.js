@@ -3267,7 +3267,7 @@ const songs = [
 "Crosby, Stills, Nash (& Young)|Teach Your Children|1970|dQOaUnSmJr8|Crosby, Stills, Nash & Young|S5904|Country Rock;Folk Rock;Rock|",
 "Steppenwolf|Magic Carpet Ride|1968|U4WiyxXpyZc|Steppenwolf (band)|S3853|Acid Rock;Psychedelic Rock;Rock|Magic Carpet Ride (Steppenwolf song)",
 "Elton John|I Guess That's Why They Call it the Blues|1983|h6KYAVn8ons|Elton John|S4458|Piano Rock;Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|I Guess That's Why They Call It the Blues",
-"Lesley Gore|You Don't Own Me|1963|JDUjeR01wnU|Lesley Gore|S3072|Brill Building;Pop|You Don't Own Me",
+"Lesley Gore|You Don't Own Me|1963|A4omo3xNstE|Lesley Gore|S3072|Brill Building;Pop|You Don't Own Me",
 "The Police|Don't Stand So Close to Me|1980|KNIZofPB8ZM|The Police|S3713|New Wave;Pop Rock;Pop;Rock|Don't Stand So Close to Me",
 "The Waterboys|Fisherman's Blues|1988|a4UQJwd3awQ|The Waterboys|S1981|Celtic Rock;Folk Rock;Rock|Fisherman's Blues (song)",
 "The Elegants|Little Star|1958|l8F4vdF-bJc|The Elegants|S1213|Doo-Wop;Descriptor;R&B;Vocal Group|Little Star (The Elegants song)",
