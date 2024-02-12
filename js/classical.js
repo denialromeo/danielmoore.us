@@ -632,7 +632,7 @@ const classical = [
 "Erno Dohnányi|Variations on a Nursery Tune|1914|Bqx4oYOy85o|Ernst von Dohnányi|Variations on a Nursery Tune (Dohnányi)",
 "Manuel de Falla|Siete canciones populares Españolas|1914|PLm0qx3c_LrRTlIB8021pET_m-2pbgatyP|Manuel de Falla|Siete canciones populares españolas",
 "Max Reger|Variations and Fugue on a Theme of Mozart|1914|2Uo0sm9mtR0|Max Reger|Variations and Fugue on a Theme by Mozart",
-"Ralph Vaughan Williams|The Lark Ascending|1914-1920|ZR2JlDnT2l8|Ralph Vaughan Williams|The Lark Ascending (Vaughan Williams)",
+"Ralph Vaughan Williams|The Lark Ascending|1914-1920|IOWN5fQnzGk|Ralph Vaughan Williams|The Lark Ascending (Vaughan Williams)",
 "Zoltán Kodály|Duo for Violin and Cello|1914|ihgPqrukvLc|Zoltán Kodály|",
 "Maurice Ravel|Piano Trio|1914|3QzLA5se4co|Maurice Ravel|Piano Trio (Ravel)",
 "Bela Bartok|Romanian Folk Dances|1915|Z50Ooqv1GFg|Béla Bartók|Romanian Folk Dances",
