@@ -1324,7 +1324,7 @@ const songs = [
 "Charli XCX|Boys|2017|mPRy1B4t5YA|Charli XCX|S16352|Electropop;Electronic;Pop|Boys (Charli XCX song)",
 "Bob Dylan|Sad Eyed Lady of the Lowlands|1966|0c1NJPCN6nA|Bob Dylan|S2990|Contemporary Folk;Folk Rock;Singer/Songwriter;Folk;Rock|Sad Eyed Lady of the Lowlands",
 "Midnight Oil|Beds Are Burning|1987|ejorQVy3m8E|Midnight Oil|S343|Pop Rock;Pop;Rock|Beds Are Burning",
-"The Electric Prunes|I Had Too Much to Dream (Last Night)|1966|IeVnbAfcwv8|The Electric Prunes|S6229|Garage Rock;Psychedelic Rock;Rock|I Had Too Much to Dream (Last Night)",
+"The Electric Prunes|I Had Too Much to Dream (Last Night)|1966|-xRRT92Fpgs|The Electric Prunes|S6229|Garage Rock;Psychedelic Rock;Rock|I Had Too Much to Dream (Last Night)",
 "Elliott Smith|Between the Bars|1997|p4cJv6s_Yjw|Elliott Smith|S4234|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|Between the Bars",
 "Hot Chip|Ready for the Floor|2008|T_A1Ss69eSo|Hot Chip|S4721|Alternative Dance;Indietronica;Alternative Rock;Dance;Electronic;Rock|Ready for the Floor",
 "Buddy Holly & The Crickets|Rave On|1958|bvD9deMDR-c?start=6|Buddy Holly|S1208|Rockabilly;Rock;Rock & Roll|Rave On",
