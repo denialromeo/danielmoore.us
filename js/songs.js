@@ -1866,7 +1866,7 @@ const songs = [
 "St. Vincent|Cruel|2011|Itt0rALeHE8|St. Vincent (musician)|S4985|Art Pop;Indie Pop;Pop|Cruel Summer (Taylor Swift song)",
 "The Cult|She Sells Sanctuary|1985|ZCOSPtyZAPA|The Cult|S1928|Alternative Rock;Gothic Rock;Post-Punk;Rock|She Sells Sanctuary",
 "Spoon|Inside Out|2014|IpT5SBg1Mmk|Spoon (band)|S9599|Indie Pop;Indie Rock;Neo-Psychedelia;Alternative Rock;Pop;Psychedelic Rock;Rock|They Want My Soul",
-"The Dixie Cups|Chapel of Love|1964|L1yIQBwwUkQ|The Dixie Cups|S1032|Brill Building;Girl Group;Pop|Chapel of Love",
+"The Dixie Cups|Chapel of Love|1964|iURSBf5X0nM|The Dixie Cups|S1032|Brill Building;Girl Group;Pop|Chapel of Love",
 "Jimi Hendrix|Foxey Lady|1967|_PVjcIO4MT4|Jimi Hendrix|S1493|Acid Rock;Blues Rock;Psychedelic Rock;Rock|Angel (Jimi Hendrix song)",
 "The Standells|Dirty Water|1965|5apEctKwiD8|The Standells|S1431|Garage Rock;Proto-Punk;Rock|Dirty Water",
 "The Specials|Too Much Too Young|1979|rdu8VOWk3pg|The Specials|S2600|2 Tone;Ska|",
