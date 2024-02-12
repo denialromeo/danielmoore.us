@@ -1175,7 +1175,7 @@ const songs = [
 "Lena Horne|Stormy Weather|1942|TPgnj5upihQ|Lena Horne|S2698|Vocal Jazz;Jazz|Stormy Weather (song)",
 "David Bowie|Station to Station|1976|WSQHFUe6Y5s?start=377|David Bowie|S5969|Art Rock;Funk Rock;Rock|Station to Station (song)",
 "Bill Doggett|Honky Tonk|1956|bq4NhcfurgU|Bill Doggett|S1264|Rhythm & Blues;R&B|",
-"Dion|The Wanderer|1961|FCW0HviPEEY|Dion DiMucci|S1116|Rock & Roll;Rock|The Wanderer (Dion song)",
+"Dion|The Wanderer|1961|rXqWCeB8Vto|Dion DiMucci|S1116|Rock & Roll;Rock|The Wanderer (Dion song)",
 "Roger Miller|King of the Road|1965|oKF-712iz9w|Roger Miller|S1427|Country Pop;Country;Pop|King of the Road (song)",
 "David Bowie|Modern Love|1983|HivQqTtiHVw|David Bowie|S4197|New Wave;Pop Rock;Pop;Rock|Modern Love (song)",
 "The Meters|Cissy Strut|1969|Nd3yDoOyvbY|The Meters|S898|Funk;R&B|",
