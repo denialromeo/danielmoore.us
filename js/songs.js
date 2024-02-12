@@ -636,7 +636,7 @@ const songs = [
 "AC/DC|You Shook Me All Night Long|1980|Lo2qQmj0_h4|AC/DC|S564|Hard Rock;Rock|You Shook Me All Night Long",
 "The Shadows|Apache|1960|7TwULx_wDiI|The Shadows|S1155|Surf Rock;Rock;Surf Music|Apache (instrumental)",
 "The Beatles|Happiness Is a Warm Gun|1968|vdvnOH060Qg|The Beatles|S2526|Art Rock;Rock|Happiness Is a Warm Gun",
-"The Tornados|Telstar|1962|ryrEPzsx1gQ|The Tornados|S1105|Space Age Pop;Easy Listening;Pop|",
+"The Tornados|Telstar|1962|k-ee6p4z29Q|The Tornados|S1105|Space Age Pop;Easy Listening;Pop|",
 "Etta James|At Last|1960|6XDtWSKM7LU|Etta James|S1134|Rhythm & Blues;Soul;R&B|At Last",
 "The Strokes|Hard to Explain|2001|BXkm6h6uq0k|The Strokes|S1459|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|Hard to Explain",
 "David Bowie|Rebel Rebel|1974|d8BzPxWvdAs|David Bowie|S2322|Glam Rock;Rock|Rebel Rebel",
