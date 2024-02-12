@@ -1297,7 +1297,7 @@ const songs = [
 "The Who|The Kids Are Alright|1965|afam2nIae4o|The Who|S3959|Beat Music;Mod;Pop;Pop Rock;Rock|The Kids Are Alright (song)",
 "The Avalanches|Frontier Psychiatrist|2000|qLrnkK2YEcE|The Avalanches|S2210|Instrumental Hip Hop;Plunderphonics;Experimental;Hip Hop;Sound Collage;Tape Music|Frontier Psychiatrist",
 "The Beatles|With a Little Help from My Friends|1967|0C58ttB2-Qg|The Beatles|S2516|Pop Rock;Pop;Rock|With a Little Help from My Friends",
-"The Searchers|Needles and Pins|1964|S0oP8e02dpk|The Searchers (band)|S1031|Merseybeat;Beat Music;Pop;Pop Rock;Rock|Needles and Pins (song)",
+"The Searchers|Needles and Pins|1964|ugDXpdjmpgw|The Searchers (band)|S1031|Merseybeat;Beat Music;Pop;Pop Rock;Rock|Needles and Pins (song)",
 "The Libertines|Time for Heroes|2002|HAusT_Yl1gE|The Libertines|S3562|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|",
 "Amadou & Mariam|Sabali|2008|NRtQmqqfdoc|Amadou & Mariam|S4700|Electropop;Electronic;Pop|",
 "Bob Dylan|Mississippi|2001|QCUOOvJJX8A|Bob Dylan|S2997|Folk Rock;Singer/Songwriter;Rock|Mississippi (Bob Dylan song)",
