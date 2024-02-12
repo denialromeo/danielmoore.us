@@ -45,7 +45,7 @@ const classical = [
 "Barbara Strozzi|Cantatas|1650s|BWZoYpDLDX0|Barbara Strozzi|",
 "Francesco Cavalli|La Calisto|1651|vZToJPUxEz4?start=56|Francesco Cavalli|La Calisto",
 "Heinrich Schütz|The Christmas Story|1660|tFlR1-BMvq4|Heinrich Schütz|Christmas Story (Schütz)",
-"Dietrich Buxtehude|Organ Music|1668-1707|WilPI1qAkZc|Dieterich Buxtehude|",
+"Dietrich Buxtehude|Organ Music|1668-1707|PLH2tnBZzETg6bOPp2M3jJLlLzZJOLlX2-|Dieterich Buxtehude|",
 "Heinrich Ignaz Franz Biber|Mystery Sonatas|1674|PLr0MsaDpKsY_Z8VqwgX4l8kkxQbBtwVXy|Heinrich Ignaz Franz Biber|Rosary Sonatas",
 "Henry Purcell|Anthems|1676-1694|0jSRA2qKxAQ|Henry Purcell|Anthem",
 "Henry Purcell|Chacony in G minor|1678|VvQQc4nkl2I|Henry Purcell|",
