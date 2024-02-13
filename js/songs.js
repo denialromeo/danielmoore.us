@@ -5060,7 +5060,7 @@ const songs = [
 "Bee Gees|I've Got to Get a Message to You|1968|Pfs_NpfY8SU|Bee Gees|S5395|Pop Rock;Pop;Rock|I've Gotta Get a Message to You",
 "The Cure|Fascination Street|1989|iRwPZjV1PqY|The Cure|S5929|Alternative Rock;Gothic Rock;Post-Punk;Rock|",
 "Wilbert Harrison|Let's Work Together, Part 1|1969|kYWiUErA9Kw|Wilbert Harrison|S9007|Rhythm & Blues;R&B|Let's Stick Together (song)",
-"Kiss|Black Diamond|1974|y0nNZ5wAWZE|Kiss (band)|S3544|Hard Rock;Rock|Black Diamond (Kiss song)",
+"Kiss|Black Diamond|1974|yy4opYZW1cQ|Kiss (band)|S3544|Hard Rock;Rock|Black Diamond (Kiss song)",
 "Jamie xx|Far Nearer|2011|kp5OxqtmQ44|Jamie xx|S4967|Future Garage;UK Bass;UK Funky;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "The Streets|It's Too Late|2002|Id1ohL_4HZI|The Streets|S8608|UK Garage;UK Hip Hop;Dance;Electronic;Electronic Dance Music;Hip Hop|It's Too Late",
 "Chick Corea & Return to Forever|Spain|1973|sEhQTjgoTdU|Chick Corea|S10394|Jazz Fusion;Jazz|",
