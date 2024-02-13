@@ -5149,7 +5149,7 @@ const songs = [
 "Belle and Sebastian|Sleep the Clock Around|1998|aTAr-QtVIJ8|Belle and Sebastian|S14122|Chamber Pop;Twee Pop;Baroque Pop;Indie Pop;Pop|",
 "The Afghan Whigs|Debonair|1993|oJwWmz8Mp3U|The Afghan Whigs|S4498|Grunge;Alternative Rock;Rock|",
 "Lynyrd Skynyrd|Saturday Night Special|1975|3vF66CsYEnc|Lynyrd Skynyrd|S11505|Hard Rock;Southern Rock;Rock|Saturday Night Special (Lynyrd Skynyrd song)",
-"Paul Simon with The Dixie Hummingbirds|Loves Me Like a Rock|1973|5TY_hbcb74E|Paul Simon|S13915|Pop Rock;Singer/Songwriter;Pop;Rock|Loves Me Like a Rock",
+"Paul Simon with The Dixie Hummingbirds|Loves Me Like a Rock|1973|CjFzw8AxSBA|Pop Rock;Singer/Songwriter;Pop;Rock|Loves Me Like a Rock",
 "Bruce Springsteen|Stolen Car|1980|f0RNWwXcQiU|Bruce Springsteen|S4193|Heartland Rock;Pop Rock;Singer/Songwriter;Pop;Rock|Stolen Car (Bruce Springsteen song)",
 "Hüsker Dü|I Apologize|1985|xkDIF9zSsc8|Hüsker Dü|S2616|Alternative Rock;Post-Hardcore;Punk Rock;Rock|I Apologize",
 "AC/DC|Thunderstruck|1990|v2AC41dglnM|AC/DC|S9923|Hard Rock;Rock|",
