@@ -2584,7 +2584,7 @@ const songs = [
 "Bruce Springsteen|The Ghost of Tom Joad|1995|B-c6GphpAeY|Bruce Springsteen|S5655|Americana;Contemporary Folk;Singer/Songwriter;Country;Folk|The Ghost of Tom Joad (song)",
 "Foo Fighters|Best of You|2005|h_L4Rixya64|Foo Fighters|S3036|Post-Grunge;Alternative Rock;Rock|Best of You",
 "Carole King|I Feel the Earth Move|1971|6913KnbMpHM|Carole King|S2563|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|I Feel the Earth Move",
-"Rod Stewart|You Wear It Well|1972|hQqNUwNNkTo|Rod Stewart|S809|Folk Rock;Roots Rock;Singer/Songwriter;Rock|You Wear It Well",
+"Rod Stewart|You Wear It Well|1972|rLt02vWv7tk|Rod Stewart|S809|Folk Rock;Roots Rock;Singer/Songwriter;Rock|You Wear It Well",
 "The Clash|Straight to Hell|1982|t7SvtikTkrM|The Clash|S1890|New Wave;Post-Punk;Rock|Straight to Hell (The Clash song)",
 "The Smiths|Please Please Please Let Me Get What I Want|1984|-T8R_VDTOYQ|The Smiths|S2907|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Please Please Please Let Me Get What I Want",
 "Jet|Are You Gonna Be My Girl|2003|tuK6n2Lkza0|Jet (Australian band)|S2257|Garage Rock Revival;Hard Rock;Garage Rock;Rock|Are You Gonna Be My Girl",
