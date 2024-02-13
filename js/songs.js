@@ -6207,7 +6207,7 @@ const songs = [
 "The Strokes|Is This It|2001|RHrGj1IyE0Y|The Strokes|S4250|Indie Rock;Alternative Rock;Rock|",
 "Dionne Warwick|I Say a Little Prayer|1967|DVnjF5cfm4U|Dionne Warwick|S6087|Pop Soul;Pop;R&B;Soul|I Say a Little Prayer",
 "Bill Callahan|Dress Sexy at My Funeral|2000|dBnm0j_68-Q|Bill Callahan (musician)|S4670|Indie Folk;Contemporary Folk;Folk|",
-"Cecil Taylor|Enter, Evening (Soft Line Structure)|1966|kAa_BhC-bY8|Cecil Taylor|S12698|Free Jazz;Avant-Garde Jazz;Jazz|",
+"Cecil Taylor|Enter, Evening (Soft Line Structure)|1966|61eUkraBUCE|Cecil Taylor|S12698|Free Jazz;Avant-Garde Jazz;Jazz|",
 "Mastodon|Blood & Thunder|2004|labytsb3gfI|Mastodon (band)|S7470|Sludge Metal;Metal;Rock|Blood and Thunder|Leviathan (Mastodon album)",
 "Bob Dylan|Can You Please Crawl Out Your Window?|1965|3EF1mDgfKKM|Bob Dylan|S5541|Folk Rock;Singer/Songwriter;Rock|Can You Please Crawl Out Your Window%3F",
 "The Nashville Teens|Tobacco Road|1964|vKvynim8JHo|The Nashville Teens|S3656|British Rhythm & Blues;Garage Rock;R&B;Rhythm & Blues;Rock|Tobacco Road (song)",
