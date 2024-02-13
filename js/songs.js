@@ -10095,7 +10095,7 @@ const songs = [
 "The Avalanches feat. Camp Lo|Because I'm Me|2016|eu0KsZ_MVBc|The Avalanches|S16199|Hip Hop;Plunderphonics;Experimental;Sound Collage;Tape Music|Camp Lo",
 "Macklemore & Ryan Lewis feat. Mary Lambert|Same Love|2012|hlVBg7_08n0|Macklemore & Ryan Lewis|S15678|Conscious Hip Hop;Pop Rap;Hip Hop|Same Love",
 "Jay-Z|No Church in the Wild|2011|FJt7gNi3Nr4|Jay-Z|S6881|Hip Hop|No Church in the Wild",
-"Suede|So Young|1993|IObzk2Jj0Eo|Suede (band)|S8622|Britpop;Alternative Rock;Pop;Pop Rock;Rock|So Young (Suede song)",
+"Suede|So Young|1993|twoO3xYRsz0|Suede (band)|S8622|Britpop;Alternative Rock;Pop;Pop Rock;Rock|So Young (Suede song)",
 "Bloc Party|Flux|2007|ttcboE1GrNg|Bloc Party|S5499|Alternative Dance;Indietronica;Alternative Rock;Dance;Electronic;Rock|Flux (Bloc Party song)",
 "Black Sabbath|Children of the Grave|1971|TeK0GZggMXY|Black Sabbath|S10199|Heavy Metal;Metal;Rock|Children of the Grave",
 "The Field Mice|Missing the Moon|1991|0HgffFOL32s|The Field Mice|S10806|Alternative Dance;Dream Pop;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|",
