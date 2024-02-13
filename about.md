@@ -36,7 +36,6 @@ I hope you have a good time here. Thanks for dropping by.
         <li>The best companies remain private. Public companies focus on nothing but the next quarter to appease shareholders. So any individual stock you can buy is likely a long-term loser.</li>
         <li>Remember the <a href="https://river.com/learn/terms/c/cantillon-effect/">Cantillon Effect</a> &ndash; those closest to the money supply eat first and eat best.</li>
         <li>Check if <a href="https://fred.stlouisfed.org/series/MORTGAGE30US">interest rates</a> are at long-term highs or lows. If low, dollar-cost average into VOO <sup>[2]</sup>. When high (like present), cash out and buy <a href="https://client.schwab.com/Areas/Trade/FixedIncomeSearch/FISearch.aspx/TreasuryAuctions">T-Bills</a> for a 5-6% annual return.</li>
-        <li>If you've timed the recession properly and switched to bonds, every dollar stocks lose in value is a dollar you'll gain when you re-enter on the upswing.</li>
         <li>As a rule, never enter a position unless you're comfortable holding it for at least a year.</li>
         <li>Keep in mind that stock market returns from 1971 to 2018 were predicated on globalization and good relations with China. Post-Trump, this may no longer be possible.</li>
     </ul>
