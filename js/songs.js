@@ -3797,7 +3797,7 @@ const songs = [
 "Vampire Weekend|Giving Up the Gun|2010|bccKotFwzoY|Vampire Weekend|S4934|Indie Pop;Indietronica;Electronic;Pop|Giving Up the Gun",
 "Vince Taylor & The Playboys|Brand New Cadillac|1959|Dc2pTC0D0j0|Vince Taylor|S9040|Rockabilly;Rock;Rock & Roll|Brand New Cadillac",
 "Jackson Browne|Doctor My Eyes|1972|9wF7zc_YK6A?start=11|Jackson Browne|S3248|Singer/Songwriter|Doctor, My Eyes",
-"Dock Boggs|Country Blues|1927|OM8NqHzQ6i0|Dock Boggs|S2651|Old-Time;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
+"Dock Boggs|Country Blues|1927|O1BsgDZIEU4|Dock Boggs|S2651|Old-Time;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
 "Bob Marley and the Wailers|Waiting in Vain|1977|IWxbhC44p2w|Bob Marley|S1798|Lovers Rock;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "The Strokes|New York City Cops|2001|rOmkPrhpQGQ|The Strokes|S8611|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|New York City Cops (song)",
 "Liquid Liquid|Optimo|1983|QTS5jXKLGkQ|Liquid Liquid|S4565|Dance-Punk;Post-Punk;Rock|",
