@@ -2152,7 +2152,7 @@ const songs = [
 "Bonnie Raitt|I Can't Make You Love Me|1991|nW9Cu6GYqxo|Bonnie Raitt|S2039|Adult Contemporary;Soft Rock;Pop;Pop Rock;Rock|I Can't Make You Love Me",
 "Sidney Bechet|Summertime|1939|JYm8ZD1B5VY|Sidney Bechet|S4598|Dixieland;Swing;Jazz|",
 "Japan|Ghosts|1981|7zzLU1ato2w|Japan (band)|S504|Ambient Pop;Art Pop;Progressive Pop;Pop|Ghosts (Japan song)",
-"Elton John|Crocodile Rock|1972|xw0EozkBWuI|Elton John|S2312|Glam Rock;Piano Rock;Pop;Pop Rock;Rock|Crocodile Rock",
+"Elton John|Crocodile Rock|1972|JrpI7WbJcO8|Elton John|S2312|Glam Rock;Piano Rock;Pop;Pop Rock;Rock|Crocodile Rock",
 "Sir Douglas Quintet|She's About a Mover|1965|XboE3_7KZ3Y|Sir Douglas Quintet|S1453|Garage Rock;Rhythm & Blues;R&B;Rock|She's About a Mover",
 "Weezer|El Scorcho|1996|okthJIVbi6g|Weezer|S2130|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|El Scorcho",
 "The Future Sound of London|Papua New Guinea|1991|wfWMv8Y1V5E|The Future Sound of London|S166|Progressive Breaks;Breakbeat;Dance;Electronic;Electronic Dance Music;House;Progressive House|Papua New Guinea (song)",
