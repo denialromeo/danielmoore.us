@@ -1341,7 +1341,7 @@ const songs = [
 "The Doors|Break On Through (To the Other Side)|1967|YCohm_CilUY|The Doors|S1492|Blues Rock;Psychedelic Rock;Rock|Break On Through (To the Other Side)",
 "Fleetwood Mac|Rhiannon (Will You Ever Win)|1975|jQAK6sVovUk|Fleetwood Mac|S681|Pop Rock;Pop;Rock|Rhiannon (song)",
 "Björk|Army of Me|1995|jPeheoBa2_Y|Björk|S2115|Art Pop;Electronic;Industrial Rock;Industrial Music;Pop;Rock|Army of Me",
-"The O'Jays|Love Train|1972|_BlkTSKqE_8|The O'Jays|S758|Philly Soul;Pop Soul;Pop;R&B;Soul|",
+"The O'Jays|Love Train|1972|_BlkTSKqE_8|The O'Jays|S758|Philly Soul;Pop Soul;Pop;R&B;Soul|Love Train",
 "Bob Dylan|Not Dark Yet|1997|RZgBhyU4IvQ|Bob Dylan|S2133|Americana;Singer/Songwriter;Country|Not Dark Yet",
 "Diana Ross|Love Hangover|1976|qJTZrWv5Y9I|Diana Ross|S688|Disco;Soul;Dance;R&B|Love Hangover",
 "The Jackson 5|ABC|1970|ho7796-au8U|The Jackson 5|S1308|Bubblegum;Motown Sound;Pop;Pop Soul;R&B;Soul|ABC (The Jackson 5 song)",
