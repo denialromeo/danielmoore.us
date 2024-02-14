@@ -5213,7 +5213,7 @@ const songs = [
 "Eno|Another Green World|1975|X1GH9WN92s0|Brian Eno|S10289|Ambient|",
 "The Supremes|Stoned Love|1970|D2ce7FWOAM8|Diana Ross|S8651|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|",
 "Elton John|Saturday Night’s Alright (For Fighting)|1973|dmF6vmUVSsc|Elton John|S6239|Glam Rock;Piano Rock;Pop;Pop Rock;Rock|Saturday Night's Alright for Fighting",
-"The Heptones|Book of Rules|1976|8z9h2nO5SIo|The Heptones|S690|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
+"The Heptones|Book of Rules|1976|F6FyFgVd6U0|The Heptones|S690|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "Metallica|The Unforgiven|1991|Ckom3gf57Yw|Metallica|S11609|Hard Rock;Heavy Metal;Metal;Rock|",
 "The Beatles|Within You, Without You|1967|HsffxGyY4ck|The Beatles|S5375|Psychedelic Pop;Raga Rock;Pop;Psychedelic Rock;Rock|Within You Without You",
 "Metallica|Fade to Black|1984|N6_BsCaVO50|Metallica|S4571|Heavy Metal;Thrash Metal;Metal;Rock|Fade to Black (Metallica song)",
