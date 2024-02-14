@@ -10504,7 +10504,7 @@ const songs = [
 "Lou Reed|Romeo Had Juliette|1989|ibbBFEH-C_o?start=96|Lou Reed|S7325|Rock;Singer/Songwriter|",
 "Pet Shop Boys|Where the Streets Have No Name|1991|aIX5UrmKyUY|Pet Shop Boys|S7938|Dance-Pop;Synthpop;Dance;Electronic;Pop|Where the Streets Have No Name (I Can't Take My Eyes Off You)",
 "Slade|Far Far Away|1974|iQ5itYUNu70|Slade|S8441|Glam Rock;Pop Rock;Pop;Rock|Far Far Away (song)",
-"Bloc Party|Two More Years|2005|3Hc0SL76UGo|Bloc Party|S5502|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|",
+"Bloc Party|Two More Years|2005|UbPP_bb585E|Bloc Party|S5502|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|",
 "Serge Gainsbourg|L'anamour|1969|wshQeubmXMY|Serge Gainsbourg|S12178|French Pop;Pop|",
 "Bee Gees|Too Much Heaven|1978|i6iBAuwBODA|Bee Gees|S10131|Blue Eyed Soul;Disco;Dance;Pop|Too Much Heaven",
 "Billy Joel|I've Loved These Days|1976|kBW7jfCA-wU|Billy Joel|S10175|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Turnstiles (album)",
