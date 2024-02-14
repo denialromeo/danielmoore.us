@@ -3089,7 +3089,7 @@ const songs = [
 "Kurt Vile|Wakin on a Pretty Day|2013|B2qA4wkjOhM|Kurt Vile|S9479|Folk Rock;Singer/Songwriter;Rock|",
 "Kanye West|Love Lockdown|2008|HZwMX6T5Jhk|Kanye West|S4722|Electropop;Electronic;Pop|Love Lockdown",
 "Juvenile|Ha|1998|Ww9VlmXKYgs|Juvenile (rapper)|S3532|Dirty South;Gangsta Rap;Southern Hip Hop;Hardcore Hip Hop;Hip Hop|Ha (song)",
-"The Boomtown Rats|I Don't Like Mondays|1979|FcZW0GFLSdw|The Boomtown Rats|S2336|New Wave;Pop Rock;Pop;Rock|I Don't Like Mondays",
+"The Boomtown Rats|I Don't Like Mondays|1979|qfH1Z0rkzCY|The Boomtown Rats|S2336|New Wave;Pop Rock;Pop;Rock|I Don't Like Mondays",
 "Blood, Sweat & Tears|Spinning Wheel|1969|SFEewD4EVwU|Blood, Sweat & Tears|S896|Jazz-Rock;Rock|",
 "Alessia Cara|Here|2015|UKp2CrfmVfw|Alessia Cara|S9703|Contemporary R&B;R&B|Here (Alessia Cara song)",
 "Small Faces|All or Nothing|1966|NjEMHtSCU9M|Small Faces|S2504|Mod;Pop Rock;Pop;Rock|All or Nothing (Small Faces song)",
