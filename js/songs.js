@@ -2448,7 +2448,7 @@ const songs = [
 "The Rolling Stones|Play with Fire|1965|FhzCnZ1vAvw|The Rolling Stones|S3775|Baroque Pop;Pop|Play with Fire (Rolling Stones song)",
 "The Smiths|Hand in Glove|1983|WgHnMh-DHMQ|The Smiths|S471|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Junior Parker|Mystery Train|1953|7KbjWK6kTQg|Junior Parker|S3531|Blues;Rhythm & Blues;R&B|Mystery Train",
-"Los Bravos|Black Is Black|1966|9TN_NieR8lc|Los Bravos|S7306|Beat Music;Pop;Pop Rock;Rock|Black Is Black",
+"Los Bravos|Black Is Black|1966|hAfJ0su7viI|Los Bravos|S7306|Beat Music;Pop;Pop Rock;Rock|Black Is Black",
 "Shirley and Co.|Shame, Shame, Shame|1975|YEzQV75LDL0|Shirley Goodman|S696|Disco;Dance|Shame, Shame, Shame (Shirley & Company song)",
 "Mungo Jerry|In the Summertime|1970|wvUQcnfwUUM|Mungo Jerry|S1309|Folk Pop;Contemporary Folk;Folk;Pop|",
 "Leonard Cohen|Everybody Knows|1988|xu8u9ZbCJgQ|Leonard Cohen|S3290|Singer/Songwriter;Sophisti-Pop;Pop|Everybody Knows (Leonard Cohen song)",
