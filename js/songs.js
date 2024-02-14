@@ -6535,7 +6535,7 @@ const songs = [
 "The Beatles|You Won’t See Me|1965|OsjTO0yZQjk|The Beatles|S13396|Pop Rock;Pop;Rock|You Won't See Me",
 "Slipknot|Wait and Bleed|1999|B1zCN0YhW1s|Slipknot (band)|S12231|Nu Metal;Alternative Metal;Metal;Rock|Wait and Bleed",
 "Sufjan Stevens|I Walked|2010|JqNAdDNQP04|Sufjan Stevens|S4924|Art Pop;Glitch Pop;Indietronica;Electronic;Pop|",
-"Cameo|Room 123 (She's Strange)|1984|7MRtAYVqfao|Cameo (band)|S2346|Contemporary R&B;Synth Funk;Funk;R&B|",
+"Cameo|Room 123 (She's Strange)|1984|cOFF4Erh_EQ|Cameo (band)|S2346|Contemporary R&B;Synth Funk;Funk;R&B|",
 "Christophe|Aline|1965|eQx4hpncGiA|Christophe (singer)|S10406|Chanson;French Pop;Pop;Regional Music|Aline (song)",
 "D'Angelo|Devil's Pie|1998|pB8HbMlptJE|D'Angelo|S10491|Contemporary R&B;Neo-Soul;R&B;Soul|Devil's Pie",
 "Glenn Miller|That Old Black Magic|1943|SASuqxhmEUg|Glenn Miller|S6584|Big Band;Vocal Jazz;Jazz|That Old Black Magic",
