@@ -7756,7 +7756,7 @@ const songs = [
 "Art Brut|Emily Kane|2005|uvA0UBesfbY?start=6|Art Brut|S3041|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|",
 "The The|Heartland|1986|fPSO8pdAX6c|The The|S1953|Art Pop;New Wave;Pop;Rock|",
 "U2|The Sweetest Thing|1998|5WybiA263bw|U2|S8881|Alternative Rock;Pop Rock;Pop;Rock|Sweetest Thing",
-"Freddy Cannon|Tallahassee Lassie|1959|4pgbJaKemic|Freddy Cannon|S6477|Rock & Roll;Rock|Tallahassee Lassie",
+"Freddy Cannon|Tallahassee Lassie|1959|_G7TYPEawX0?start=16|Freddy Cannon|S6477|Rock & Roll;Rock|Tallahassee Lassie",
 "Wilson Pickett|Engine Number 9|1970|UPoTl1f26U8|Wilson Pickett|S2548|Funk;Psychedelic Soul;R&B;Soul|",
 "Iggy Pop & Kate Pierson|Candy|1990|6bLOjmY--TA|Iggy Pop|S11069|Pop Rock;Pop;Rock|Candy (Iggy Pop song)",
 "Richard and Linda Thompson|Calvary Cross|1974|7gYoj-WGH5U|Richard Thompson (musician)|S745|British Folk Rock;Folk Rock;Rock|Pour Down Like Silver",
