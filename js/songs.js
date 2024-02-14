@@ -3120,7 +3120,7 @@ const songs = [
 "Neil Young|A Man Needs a Maid|1972|JOuQywiRUJo|Neil Young|S4547|Baroque Pop;Singer/Songwriter;Pop|A Man Needs a Maid (song)",
 "Can|Vitamin C|1972|9a1NhRbNJ_Y|Can (band)|S5703|Krautrock;Experimental Rock;Progressive Rock;Rock|Vitamin C (song)",
 "Steve Earle|John Walker Blues|2002|ISFNTRaXRiI|Steve Earle|S4675|Alt-Country;Americana;Country Rock;Country;Rock|",
-"The Coasters|Searchin'|1957|PN307ssGLuc|The Coasters|S1241|Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|Searchin'",
+"The Coasters|Searchin'|1957|CDrxqcxo-Ec?start=62|The Coasters|S1241|Doo-Wop;Rhythm & Blues;Descriptor;R&B;Vocal Group|Searchin'",
 "Wilson Pickett|Land of 1000 Dances|1966|3mz_EXHKGHs|Wilson Pickett|S1434|Southern Soul;R&B;Soul|Land of a Thousand Dances",
 "Depeche Mode|People Are People|1984|MzGnX-MbYE4|Depeche Mode|S3327|Synthpop;Electronic;Pop|People Are People",
 "LCD Soundsystem|Yeah|2004|ERdGCgI-Uj4|LCD Soundsystem|S2465|Dance-Punk;Indietronica;Electronic;Post-Punk;Rock|Yeah (LCD Soundsystem song)",
