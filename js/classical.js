@@ -531,7 +531,7 @@ const classical = [
 "Sergei Rachmaninoff|Cello Sonata|1901|KkcJBjuCuPY|Sergei Rachmaninoff|Cello Sonata (Rachmaninoff)",
 "Roger Quilter|Songs|1901-1939|cIj_NKN2eEI|Roger Quilter|",
 "Francesco Cilea|Adriana Lecouvreur|1902|cWQ-uJBZkV8|Francesco Cilea|Adriana Lecouvreur",
-"Gustav Mahler|Rückert Lieder|1902|OJNaKMgvXRA|Gustav Mahler|Rückert-Lieder",
+"Gustav Mahler|Rückert Lieder|1902|zKpIZffBk-s?start=30|Gustav Mahler|Rückert-Lieder",
 "Gustav Mahler|Symphony No. 5|1902|vOvXhyldUko|Gustav Mahler|Symphony No. 5 (Mahler)",
 "Claude Debussy|Pelléas et Mélisande|1902|hpl_kIpKLzU|Claude Debussy|Pelléas et Mélisande (opera)",
 "Carl Nielsen|Symphony No. 2, \"The Four Temperaments\"|1902|bq_c8Za33To|Carl Nielsen|Symphony No. 2 (Nielsen)",
