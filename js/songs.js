@@ -3754,7 +3754,7 @@ const songs = [
 "Edgar Winter Group|Frankenstein|1972|P8f-Qb-bwlU?start=4|Edgar Winter|S1753|Hard Rock;Progressive Rock;Psychedelic Rock;Rock|Frankenstein (instrumental)",
 "The Flaming Lips|Yoshimi Battles the Pink Robots (Pt. 1)|2002|AzlMeTxVdH8|The Flaming Lips|S4620|Indie Pop;Neo-Psychedelia;Psychedelic Pop;Pop;Psychedelic Rock;Rock|",
 "The Killers|Somebody Told Me|2004|Y5fBdpreJiU|The Killers|S2453|Pop Rock;Post-Punk Revival;Alternative Rock;Indie Rock;Pop;Post-Punk;Rock|Somebody Told Me",
-"Teenage Fanclub|The Concept|1991|rqYibZeafg8|Teenage Fanclub|S2027|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|",
+"Teenage Fanclub|The Concept|1991|Er_JOsnwzcI|Teenage Fanclub|S2027|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|The Concept (song)",
 "Iron Maiden|The Trooper|1983|X4bgXH3sJ2Q|Iron Maiden|S6801|NWOBHM;Heavy Metal;Metal;Rock|The Trooper",
 "Benny Goodman & His Orchestra feat. Charlie Christian|Seven Come Eleven|1940|q006fsnIdfY|Benny Goodman|S13165|Big Band;Swing;Jazz|",
 "Prince|The Most Beautiful Girl in the World|1994|uFtfrd8_K9k|Prince (musician)|S3730|Pop Soul;Pop;R&B;Soul|The Most Beautiful Girl in the World (Prince song)",
