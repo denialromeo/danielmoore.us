@@ -786,7 +786,7 @@ const songs = [
 "Elvis Costello|Oliver's Army|1979|LrjHz5hrupA|Elvis Costello|S1496|New Wave;Piano Rock;Pop;Pop Rock;Rock|Oliver's Army",
 "Simon and Garfunkel|Mrs. Robinson|1968|9C1BCAgu2I8|Simon & Garfunkel|S929|Folk Pop;Folk Rock;Contemporary Folk;Folk;Pop;Rock|Mrs. Robinson",
 "Metallica|Master of Puppets|1986|E0ozmU9cJDg|Metallica|S2624|Thrash Metal;Metal;Rock|Master of Puppets (song)",
-"Kanye West|Monster|2010|Qs2mn-2E7Yw|Kanye West|S4912|Hardcore Hip Hop;Hip Hop|Monster (Kanye West song)",
+"Kanye West|Monster|2010|pS6HRKZQLFA|Kanye West|S4912|Hardcore Hip Hop;Hip Hop|Monster (Kanye West song)",
 "Sophie|Bipp|2013|MVc3Z-bG6Eo|Sophie (musician)|S9524|Bubblegum Bass;Dance;Electronic;Electronic Dance Music|Bipp",
 "The Count Five|Psychotic Reaction|1966|fBTT3VPriV8|Count Five|S990|Acid Rock;Garage Rock;Proto-Punk;Psychedelic Rock;Rock|Psychotic Reaction",
 "50 Cent|In Da Club|2003|5qm8PH4xAss|50 Cent|S2241|East Coast Hip Hop;Pop Rap;Hip Hop|In da Club",
