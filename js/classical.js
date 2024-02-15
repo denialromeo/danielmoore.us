@@ -454,7 +454,7 @@ const classical = [
 "Reynaldo Hahn|Mélodies|1887-1947|PL4p5S2PvyPNwEaOSMuD4jqnRadG87xlrT|Reynaldo Hahn|Mélodie",
 "Alexander Borodin|Prince Igor|1887|CzmIu-VjRCM?start=60|Alexander Borodin|Prince Igor",
 "Nicolai Rimsky-Korsakov|Capriccio espagnol|1887|Lh6mDL-VwYw|Nikolai Rimsky-Korsakov|",
-"Jules Massenet|Werther|1887|p90HEtK1Bi0|Jules Massenet|",
+"Jules Massenet|Werther|1887|p90HEtK1Bi0|Jules Massenet|Werther",
 "Johannes Brahms|Double Concerto|1887|GMurNzAAcLA|Johannes Brahms|Double Concerto (Brahms)",
 "Anton Bruckner|Symphony No. 8|1887-1892|elVHvTrEM34|Anton Bruckner|Symphony No. 8 (Bruckner)",
 "Richard Strauss|Violin Sonata|1887|d73FVIKbl5k|Richard Strauss|Violin Sonata (Strauss)",
