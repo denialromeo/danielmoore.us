@@ -3675,7 +3675,7 @@ const songs = [
 "The Police|Can't Stand Losing You|1978|nH0vjLwMyc4|The Police|S3712|New Wave;Pop Rock;Pop;Rock|Can't Stand Losing You",
 "MGMT|Me & Michael|2018|OTHHeIAYfuU?start=69|MGMT|S16577|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock|Me and Michael",
 "The Rolling Stones|We Love You|1967|lOf-0Mur7t4|The Rolling Stones|S1695|Psychedelic Pop;Psychedelic Rock;Pop;Rock|We Love You",
-"Bobby Bland|Turn On Your Love Light|1961|StdN_CiCNS4|Bobby Bland|S1129|Rhythm & Blues;R&B|Turn On Your Love Light",
+"Bobby Bland|Turn On Your Love Light|1961|TJSOYFrIsq4|Bobby Bland|S1129|Rhythm & Blues;R&B|Turn On Your Love Light",
 "The Beatles|Two of Us|1970|cLQox8e9688|The Beatles|S5382|Folk Pop;Contemporary Folk;Folk;Pop|Two of Us (Beatles song)",
 "Temple of the Dog|Hunger Strike|1991|VUb450Alpps|Temple of the Dog|S8714|Grunge;Alternative Rock;Rock|Hunger Strike (song)",
 "Gang Starr|DWYCK|1992|TgelVkHEKdw|Gang Starr|S2055|Boom Bap;East Coast Hip Hop;Hip Hop|",
