@@ -4085,7 +4085,7 @@ const songs = [
 "Os Mutantes|Panis et circenses|1968|ETqMNQw-a9M|Os Mutantes|S11811|Experimental Rock;Psychedelic Rock;Tropicália;Brazilian Music;MPB;Regional Music;Rock|",
 "Devo|Jocko Homo|1977|I3bF0N081TE|Devo|S1559|New Wave;Post-Punk;Zolo;Rock|",
 "Wyclef Jean|Gone Till November|1997|kI6MWZrl8v8|Wyclef Jean|S2161|Neo-Soul;Pop Rap;Hip Hop;R&B;Soul|Gone till November",
-"Fabrizio De André|Crêuza de mä|1984|78YNQ7zzxvQ|Fabrizio De André|S6330|Canzone d'autore;Contemporary Folk;Folk;Singer/Songwriter|",
+"Fabrizio De André|Crêuza de mä|1984|78YNQ7zzxvQ|Fabrizio De André|S6330|Canzone d'autore;Contemporary Folk;Folk;Singer/Songwriter|Crêuza de mä",
 "Tori Amos|Silent All These Years|1992|HSYr0etDzRM|Tori Amos|S8821|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Silent All These Years",
 "The Isley Brothers|Fight the Power (Part I)|1975|8QZvoOqUkqw|The Isley Brothers|S4424|Funk;Soul;R&B|",
 "The Who|I'm a Boy|1966|QRj-NokS2xI|The Who|S3955|Mod;Rock|I'm a Boy",
