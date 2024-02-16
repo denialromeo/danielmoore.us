@@ -4065,7 +4065,7 @@ const songs = [
 "Genesis|Supper’s Ready|1972|K04HYw25zdY|Genesis (band)|S6523|Symphonic Prog;Progressive Rock;Rock|Supper's Ready",
 "Bruce Springsteen|Incident on 57th Street|1973|qbRtk9-jcL0|Bruce Springsteen|S5638|Heartland Rock;Singer/Songwriter;Rock|Incident on 57th Street",
 "Venom|Black Metal|1982|fHmzFVDjVnM|Venom (band)|S8972|NWOBHM;Speed Metal;Thrash Metal;Heavy Metal;Metal;Rock|",
-"Dizzy Gillespie|Hot House|1945|0PDjh9zgULM|Dizzy Gillespie|S13182|Bebop;Jazz|Dizzy Gillespie and the Double Six of Paris|",
+"Dizzy Gillespie|Hot House|1945|QnF0YyPgJTE|Dizzy Gillespie|S13182|Bebop;Jazz|Dizzy Gillespie and the Double Six of Paris|",
 "Howlin' Wolf|How Many More Years|1951|OpKB6OZ_B4c|Howlin' Wolf|S6746|Chicago Blues;Blues;Electric Blues|How Many More Years",
 "Freddy Fender|Wasted Days and Wasted Nights|1974|COD6F_Fh5Rk|Freddy Fender|S10872|Country Rock;Rhythm & Blues;R&B;Rock|Wasted Days and Wasted Nights",
 "Devo|Mongoloid|1977|mtK6pdUKmio|Devo|S4432|Art Punk;New Wave;Post-Punk;Punk Rock;Rock|Mongoloid (song)",
