@@ -8705,7 +8705,7 @@ const songs = [
 "Tony Bennett|Stranger in Paradise|1953|WFrUsa5SUv0|Tony Bennett|S8816|Traditional Pop;Vocal Jazz;Jazz;Pop|Stranger in Paradise (song)",
 "Rihanna, Kanye West, Paul McCartney|FourFiveSeconds|2015|kt0g4dWxEBo|Paul McCartney|S9832|Pop Soul;Pop;R&B;Soul|FourFiveSeconds",
 "Marian Anderson|Ave Maria|1936|GksRp42s3S8|Marian Anderson|S15681|Lieder;Classical Music;Western Classical Music|",
-"The Cadillacs|Gloria|1954|U28e4EEC2j4|The Cadillacs|S9174|Doo-Wop;Descriptor;R&B;Vocal Group|",
+"The Cadillacs|Gloria|1954|KAUQb8TVo2U|The Cadillacs|S9174|Doo-Wop;Descriptor;R&B;Vocal Group|",
 "Javiera Mena|Espada|2013|GqNTdNCU2y8|Javiera Mena|S13511|Electropop;Nu-Disco;Synthpop;Dance;Disco;Electronic;Electronic Dance Music;House;Pop|",
 "Serge Lama|Je suis malade|1973|HDbpZpm9j9c?start=3|Serge Lama|S12182|Chanson;Regional Music|Je suis malade (song)",
 "Benny Goodman|Body and Soul|1935|Ko2c5yJp8G8|Benny Goodman|S10145|Standards;Swing;Jazz;Pop;Traditional Pop|",
