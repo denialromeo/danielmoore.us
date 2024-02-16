@@ -3807,7 +3807,7 @@ const songs = [
 "Aerosmith|I Don't Want to Miss a Thing|1998|JkK8g6FMEXE|Aerosmith|S3139|Film Soundtrack;Soft Rock;Descriptor;Pop;Pop Rock;Rock;Soundtracks|I Don't Want to Miss a Thing",
 "Harry Chapin|Cat's in the Cradle|1974|etundhQa724?start=65|Harry Chapin|S4596|Folk Rock;Singer/Songwriter;Rock|Cat's in the Cradle",
 "Etta James|The Wallflower (aka \"Roll with Me Henry\")|1955|pejfmfRWBWs|Etta James|S4367|Rhythm & Blues;R&B|",
-"James Taylor|You've Got a Friend|1971|3WJ1cf3nrLE|James Taylor|S1733|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|You've Got a Friend",
+"James Taylor|You've Got a Friend|1971|nEFfzHiEKHY|James Taylor|S1733|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|You've Got a Friend",
 "Faron Young|Hello Walls|1961|HMSWAUAKJn0|Faron Young|S1133|Nashville Sound;Country;Country Pop;Pop|Hello Walls",
 "The Beatles|Getting Better|1967|EGlo9LzmOME|The Beatles|S3188|Pop Rock;Psychedelic Pop;Sunshine Pop;Pop;Rock|Getting Better",
 "Alice in Chains|Rooster|1992|uAE6Il6OTcs|Alice in Chains|S5161|Grunge;Alternative Rock;Rock|Rooster (song)",
