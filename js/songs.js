@@ -238,7 +238,7 @@ const songs = [
 "Stan Getz|The Girl from Ipanema|1964|sVdaFQhS86E|João Gilberto|S2826|Samba-Jazz;Bossa Nova;Brazilian Music;Jazz;Regional Music|The Girl from Ipanema",
 "Sam Cooke|You Send Me|1957|REjmIdpAHsw|Sam Cooke|S1236|Soul;R&B|You Send Me",
 "The Troggs|Wild Thing|1966|gSWInYFVksg|The Troggs|S974|Garage Rock;Rock|Wild Thing (The Troggs song)",
-"David Bowie|Ziggy Stardust|1972|XXq5VvYAI1Q|David Bowie|S804|Glam Rock;Rock|Ziggy Stardust (song)",
+"David Bowie|Ziggy Stardust|1972|7KEn0uOEILs|David Bowie|S804|Glam Rock;Rock|Ziggy Stardust (song)",
 "Wilson Pickett|In the Midnight Hour|1965|FGVGFfj7POA|Wilson Pickett|S996|Southern Soul;R&B;Soul|In the Midnight Hour",
 "Glen Campbell|Wichita Lineman|1968|-HFCuBLAjXo|Glen Campbell|S906|Nashville Sound;Country;Country Pop;Pop|Wichita Lineman",
 "James Brown|I Got You (I Feel Good)|1965|Lrv-Morm-c0|James Brown|S1013|Rhythm & Blues;Soul;R&B|",
