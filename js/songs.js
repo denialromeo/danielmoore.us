@@ -4596,7 +4596,7 @@ const songs = [
 "The Folkes Brothers|Oh Carolina|1960|oTDxJffBKR0|Folkes Brothers|S6418|Mento;Caribbean Music;Jamaican Music;Regional Music|Oh Carolina",
 "David Sylvian|Forbidden Colours|1983|x1YkHJJi-tc|David Sylvian|S5985|Art Pop;Film Soundtrack;Descriptor;Pop;Soundtracks|Forbidden Colours (song)",
 "Orchestral Manoeuvres in the Dark|Enola Gay|1980|d5XJ2GiR6Bo|Orchestral Manoeuvres in the Dark|S7820|New Wave;Synthpop;Electronic;Pop;Rock|Enola Gay (song)",
-"The Clash|Clash City Rockers|1978|ARXznkKkeUE|The Clash|S5826|Punk Rock;Rock|Clash City Rockers",
+"The Clash|Clash City Rockers|1978|lvmoVYGUQKQ|The Clash|S5826|Punk Rock;Rock|Clash City Rockers",
 "Prince|U Got the Look|1987|_jCuroTbqBI|Prince (musician)|S360|Contemporary R&B;Dance-Pop;Synth Funk;Dance;Funk;Pop;R&B|U Got the Look",
 "Led Zeppelin|What Is and What Should Never Be|1969|WnMiXsRtsfc|Led Zeppelin|S7203|Blues Rock;Hard Rock;Rock|What Is and What Should Never Be",
 "TLC|Unpretty|1999|g2gy1Evb1Kg|TLC (group)|S1377|Pop|Unpretty",
