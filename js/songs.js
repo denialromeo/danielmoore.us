@@ -8537,7 +8537,7 @@ const songs = [
 "Lee Hazlewood|Summer Wine|1967|nbtKHrI-OAs|Nancy Sinatra|S7217|Baroque Pop;Psychedelic Pop;Pop|Summer Wine",
 "Iron Maiden|Wrathchild|1981|io4ObwuO24w|Iron Maiden|S11093|NWOBHM;Heavy Metal;Metal;Rock|",
 "The Music Explosion|Little Bit O' Soul|1967|CgGjvZcNpKs|The Music Explosion|S11702|Garage Rock;Rock|Little Bit O' Soul",
-"Clap Your Hands Say Yeah|Is This Love?|2005|sjBb56uLgNo|Clap Your Hands Say Yeah|S3046|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|Is This Love%3F (Clap Your Hands Say Yeah song)",
+"Clap Your Hands Say Yeah|Is This Love?|2005|11LGXkL1M_A|Clap Your Hands Say Yeah|S3046|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|Is This Love%3F (Clap Your Hands Say Yeah song)",
 "Bruce Springsteen|Blinded by the Light|1973|ku_KhAX3BIA|Bruce Springsteen|S5637|Heartland Rock;Singer/Songwriter;Rock|Blinded by the Light",
 "Sophie Ellis-Bextor|Murder on the Dancefloor|2001|hAx6mYeC6pY|Sophie Ellis-Bextor|S8498|Dance-Pop;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House;Pop|",
 "Delroy Wilson|Dancing Mood|1966|hRQg9DCkkxs|Delroy Wilson|S14293|Rocksteady;Caribbean Music;Jamaican Music;Regional Music|",
