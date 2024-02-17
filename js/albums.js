@@ -121,7 +121,7 @@ const albums = [
 "Arcade Fire|The Suburbs|2010|OLAK5uy_kOfZOMGV2jWvc-wz2ZlpCkSLaVC92nUAE|A5053|The Suburbs|Arcade Fire|Indie Rock;Alternative Rock;Rock",
 "Dr. Dre|The Chronic|1992|OLAK5uy_m5n3RTp0n8L5gkp054sSIEe3uaYkh4yVc|A853|The Chronic|Dr. Dre|G-Funk;Gangsta Rap;Hardcore Hip Hop;Hip Hop",
 "David Bowie|Low|1977|PLI6kLIhBBwmTRz_KjOMLKSc65hKd2GPrH|A397|Low (David Bowie album)|David Bowie|Art Rock;Experimental Rock;Rock",
-"Pixies|Surfer Rosa|1988|ERROR: Suitable playlist not found|A722|Surfer Rosa|Pixies (band)|Indie Rock;Alternative Rock;Rock",
+"Pixies|Surfer Rosa|1988|PLJfEsP0wwkSgIJ0BwzTEwK2e7XqW6yJNq|A722|Surfer Rosa|Pixies (band)|Indie Rock;Alternative Rock;Rock",
 "Jay-Z|The Blueprint|2001|OLAK5uy_ld1uSlLl8ydjfmg2gclp_wh2qPtFhvHcI|A1206|The Blueprint|Jay-Z|Hip Hop",
 "Beyoncé|Lemonade|2016|OLAK5uy_m9dO997hqyquaE-xTYmZUqhm2pyKbQj-k|A5701|Lemonade (Beyoncé album)|Beyoncé|Contemporary R&B;Pop;R&B",
 "Iggy and The Stooges|Raw Power|1973|OLAK5uy_l2xsgXrxEIb1zWZH3fYnpuXS6qzfW96-A|A274|Raw Power|The Stooges|Garage Rock;Hard Rock;Proto-Punk;Rock",
