@@ -7450,7 +7450,7 @@ const songs = [
 "GoldLink feat. Brent Faiyaz & Shy Glizzy|Crew|2016|nhNqbe6QENY|GoldLink|S16386|East Coast Hip Hop;Pop Rap;Hip Hop|",
 "Fountains of Wayne|Stacy's Mom|2003|dZLfasMPOU4|Fountains of Wayne|S2256|Power Pop;Pop;Pop Rock;Rock|Stacy's Mom",
 "Kelis|Trick Me|2003|8hU6L7XUqPU|Kelis|S2473|Contemporary R&B;Pop;R&B|Trick Me",
-"Wildchild|Renegade Master|1995|eJR_dX8i0ww|Roger McKenzie|S9026|Big Beat;House;Breakbeat;Dance;Electronic;Electronic Dance Music|Renegade Master",
+"Wildchild|Renegade Master|1995|r6PpS0-B8TQ|Roger McKenzie|S9026|Big Beat;House;Breakbeat;Dance;Electronic;Electronic Dance Music|Renegade Master",
 "Truth Hurts|Addictive|2002|PcAeO-9LU7U|Truth Hurts (singer)|S1522|Contemporary R&B;R&B|Addictive (song)",
 "Gene Vincent|Blue Jean Bop|1956|b07HVaUtHss|Gene Vincent|S6519|Rockabilly;Rock;Rock & Roll|",
 "Édith Piaf|L'accordéoniste|1940|Vhu-0IBZm5s|Édith Piaf|S10683|Chanson;Regional Music|",
