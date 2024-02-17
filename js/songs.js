@@ -9887,7 +9887,7 @@ const songs = [
 "Daughters|Satan in the Wait|2018|tSl4w6PXVbY|Daughters (band)|S16689|Art Punk;Noise Rock;Punk Rock;Rock|",
 "The Sugarhill Gang|8th Wonder|1980|G47rQPy3M5c|The Sugarhill Gang|S8627|Disco Rap;East Coast Hip Hop;Hip Hop|",
 "Larry Clinton & His Orchestra|My Reverie|1938|F53_pfwFp-w|Larry Clinton|S7178|Traditional Pop;Vocal Jazz;Jazz;Pop|",
-"Buster Brown|Fannie Mae|1959|pVNcqb2a3KA|Buster Brown (musician)|S5684|Rhythm & Blues;R&B|Fannie Mae (song)",
+"Buster Brown|Fannie Mae|1959|w8gUcIUX7lA|Buster Brown (musician)|S5684|Rhythm & Blues;R&B|Fannie Mae (song)",
 "ZZ Top|Rough Boy|1985|Z_4ULKpkLNc|ZZ Top|S15221|Hard Rock;Pop Rock;Pop;Rock|Rough Boy",
 "Café Tacvba|Mediodía|2003|x86mS_VYf_E|Café Tacuba|S13711|Dream Pop;Indie Rock;Alternative Rock;Rock|",
 "The Cables|Baby Why|1968|Xh9ROutgLWI|The Cables|S16273|Rocksteady;Caribbean Music;Jamaican Music;Regional Music|",
