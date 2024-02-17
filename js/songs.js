@@ -8984,7 +8984,7 @@ const songs = [
 "Buffalo Springfield|Rock and Roll Woman|1967|8ZmlHSJ30wM|Buffalo Springfield|S10323|Country Rock;Folk Rock;Rock|",
 "Bourvil|C'était Bien (Le Petit Bal Perdu)|1960|GXV-1ZebdBs|Bourvil|S9170|Chanson;Regional Music|",
 "Angel Olsen|Forgiven/Forgotten|2014|PinTAGbIsV4|Angel Olsen|S9615|Indie Rock;Alternative Rock;Rock|",
-"Sammy Turner|Lavender Blue|1959|98bMm_jXzZA|Sammy Turner|S8310|Rhythm & Blues;Soul;Traditional Pop;Pop;R&B|Lavender's Blue",
+"Sammy Turner|Lavender Blue|1959|8_u347OAqmc|Sammy Turner|S8310|Rhythm & Blues;Soul;Traditional Pop;Pop;R&B|Lavender's Blue",
 "Daniel Johnston|True Love Will Find You in the End|1984|UUbEf67bbrA|Daniel Johnston|S15392|Lo-Fi / Slacker Rock;Singer/Songwriter;Alternative Rock;Indie Rock;Rock|1990 (Daniel Johnston album)",
 "The Cure|Primary|1981|0xrZ61cuKLk|The Cure|S12743|Gothic Rock;Post-Punk;Rock|Primary (song)",
 "Parquet Courts|Total Football|2018|sP9l9HBJ1o0|Parquet Courts|S16588|Art Punk;Dance-Punk;Post-Punk;Punk Rock;Rock|",
