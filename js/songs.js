@@ -3822,7 +3822,7 @@ const songs = [
 "Joy Division|Isolation|1980|6x-Nl3_L1pA|Joy Division|S7009|New Wave;Post-Punk;Rock|Isolation (Joy Division song)",
 "Anne Murray|Snowbird|1970|pq9bHd58-LA|Anne Murray|S5207|Country Pop;Country;Pop|Snowbird (song)",
 "Iggy Pop|Nightclubbing|1977|G3OaMZojJRg|Iggy Pop|S6774|Art Rock;Rock|Nightclubbing (song)",
-"Lefty Frizzell|If You've Got the Money (I've Got the Time)|1950|f2x0fMszj58|Lefty Frizzell|S1414|Honky Tonk;Country|If You've Got the Money I've Got the Time",
+"Lefty Frizzell|If You've Got the Money (I've Got the Time)|1950|AJbShe2zEqI|Lefty Frizzell|S1414|Honky Tonk;Country|If You've Got the Money I've Got the Time",
 "Mitch Ryder and the Detroit Wheels|Jenny Take a Ride|1965|P6s60SForJM|Mitch Ryder|S4402|Blue Eyed Soul;Garage Rock;Rhythm & Blues;Rock & Roll;Pop;R&B;Rock|",
 "The Very Best|Warm Heart of Africa|2009|3MDYTkdVT8M|The Very Best|S4837|East African Music;African Music;Regional Music|The Very Best (band)",
 "Scorpions|Rock You Like a Hurricane|1984|I3ZL8ZVWVz8|Scorpions (band)|S8328|Glam Metal;Hard Rock;Rock|Rock You like a Hurricane",
