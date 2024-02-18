@@ -2922,7 +2922,7 @@ const songs = [
 "Michael Jackson|Black or White|1991|F2AitTPI5U0?start=108|Michael Jackson|S2028|New Jack Swing;Pop Rock;Contemporary R&B;Pop;R&B;Rock|Black or White",
 "Elvis Presley|Burning Love|1972|0SUC8sdP5eI|Elvis Presley|S4160|Pop Rock;Rock & Roll;Pop;Rock|Burning Love",
 "Suicide|Cheree|1977|aT_rlpOSqg4|Suicide (band)|S8630|Minimal Synth;Electronic;Minimal Wave|Cheree",
-"D'Angelo|Brown Sugar|1995|VaV7oCyFXaY|D'Angelo|S64|Contemporary R&B;Neo-Soul;Smooth Soul;R&B;Soul|Brown Sugar (D'Angelo song)",
+"D'Angelo|Brown Sugar|1995|H_WzjiTzZBA|D'Angelo|S64|Contemporary R&B;Neo-Soul;Smooth Soul;R&B;Soul|Brown Sugar (D'Angelo song)",
 "Johnnie Taylor|Who's Making Love|1968|1jO3TfsTxcI|Johnnie Taylor|S3884|Southern Soul;R&B;Soul|Who's Making Love",
 "Pixies|Hey|1989|h5jdTGod5-4|Pixies (band)|S4882|Indie Rock;Alternative Rock;Rock|",
 "Merrilee Rush|Angel of the Morning|1968|stngGiMrn5U|Merrilee Rush|S3790|Baroque Pop;Pop|Angel of the Morning",
