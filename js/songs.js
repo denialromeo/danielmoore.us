@@ -9717,7 +9717,7 @@ const songs = [
 "Jackson Browne|Before the Deluge|1974|bfF0x8e38Kg|Jackson Browne|S3247|Singer/Songwriter|",
 "Benny Goodman|Goody Goody|1936|4KxyAUoU_gg|Benny Goodman|S5413|Big Band;Jazz|Goody Goody",
 "Benny Goodman|Goodnight, My Love|1936|XjhsgHDz8h4|Benny Goodman|S5415|Big Band;Jazz|Goodnight My Love (1936 song)",
-"Fats Waller|It's a Sin to Tell a Lie|1936|k6LY3iHXHs0|Fats Waller|S6361|Swing;Jazz|It's a Sin to Tell a Lie",
+"Fats Waller|It's a Sin to Tell a Lie|1936|C_Isu0g35lA|Fats Waller|S6361|Swing;Jazz|It's a Sin to Tell a Lie",
 "Georges Brassens|Il n'y a pas d'amour heureux|1953|SccKLmENjpk|Georges Brassens|S10920|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|",
 "Handy's Memphis Blues Band|St. Louis Blues|1922|cSuTTSOctGw|W. C. Handy|S15961|Blues|St. Louis Blues",
 "King Sunny Adé|Sunny Ti De|1972|9Gjo4DMKu-I|King Sunny Adé|S14625|Jùjú;African Music;Regional Music;West African Music;Yoruba Music|",
