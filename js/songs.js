@@ -6818,7 +6818,7 @@ const songs = [
 "Billie Holiday|He’s Funny That Way|1937|QRosRTLD1Kw|Billie Holiday|S13157|Vocal Jazz;Jazz|She's Funny That Way",
 "Peter Sarstedt|Where Do You Go To (My Lovely)|1969|L8XQZYIiNgo|Peter Sarstedt|S7948|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Where Do You Go To (My Lovely)%3F",
 "Brand Nubian|Slow Down|1990|asVzJUPvTsQ|Brand Nubian|S10283|Boom Bap;Conscious Hip Hop;East Coast Hip Hop;Hip Hop|Slow Down (Brand Nubian song)",
-"The White Stripes|You're Pretty Good Lookin' (For a Girl)|2000|p9vVaZ0YZv8|The White Stripes|S8990|Alternative Rock;Blues Rock;Rock|",
+"The White Stripes|You're Pretty Good Lookin' (For a Girl)|2000|WkTOp0m6Uis|The White Stripes|S8990|Alternative Rock;Blues Rock;Rock|",
 "Peter Brötzmann|Machine Gun|1968|hxTZ2qA4brE|Peter Brötzmann|S11884|European Free Jazz;Avant-Garde Jazz;Free Jazz;Jazz|",
 "Kenny Loggins|Danger Zone|1985|siwpn14IE7E|Kenny Loggins|S7088|AOR;Film Soundtrack;Pop Rock;Descriptor;Pop;Rock;Soundtracks|Danger Zone (song)",
 "Brian Wilson|Love and Mercy|1988|2y3J46DhoL0|Brian Wilson|S5617|Art Pop;Sunshine Pop;Synthpop;Electronic;Pop|Love and Mercy",
