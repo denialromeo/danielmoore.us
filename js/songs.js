@@ -4654,7 +4654,7 @@ const songs = [
 "The Beatles|Because|1969|hL0tnrl2L_U|The Beatles|S10101|Baroque Pop;Pop|Because (Beatles song)",
 "Wilco|Via Chicago|1999|QdiZVo_KIlE?start=5|Wilco|S4867|Indie Rock;Pop Rock;Alternative Rock;Pop;Rock|",
 "Bob Dylan|Jokerman|1983|1XSvsFgvWr0|Bob Dylan|S5552|Pop Rock;Singer/Songwriter;Pop;Rock|Jokerman (song)",
-"The Sundays|Can't Be Sure|1989|yARVs1ZNLjU|The Sundays|S243|Dream Pop;Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
+"The Sundays|Can't Be Sure|1989|yARVs1ZNLjU|The Sundays|S243|Dream Pop;Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Can't Be Sure",
 "Musical Youth|Pass the Dutchie|1982|EsyUa63NM1E|Musical Youth|S1888|Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Pass the Dutchie",
 "Jimmy Buffett|Margaritaville|1977|nHIVy4nGRBU|Jimmy Buffett|S3254|Soft Rock;Yacht Rock;Pop;Pop Rock;Rock|Jimmy Buffett's Margaritaville",
 "Double Dee & Steinski|The Payoff Mix/Lesson 2/Lesson 3 (Promo EP)|1985|sO9Lh_11k5Y|Double Dee and Steinski|S399|Plunderphonics;Turntablism;Experimental;Hip Hop;Sound Collage;Tape Music|",
