@@ -5454,7 +5454,7 @@ const songs = [
 "Parquet Courts|Human Performance|2016|Aiex9fYyuQg|Parquet Courts|S16163|Indie Rock;Post-Punk;Alternative Rock;Rock|",
 "Sting|Englishman in New York|1987|rp-Oiu3TI60|Sting (musician)|S8588|Sophisti-Pop;Pop|Englishman in New York",
 "Kenny Loggins|Footloose|1984|ltrMfT4Qz5Y|Kenny Loggins|S7087|Film Soundtrack;Pop Rock;Descriptor;Pop;Rock;Soundtracks|Footloose (song)",
-"Fun Lovin' Criminals|Scooby Snacks|1996|gWOFtixfies|Fun Lovin' Criminals|S6490|Rap Rock;Alternative Rock;Rock|Scooby Snacks (song)",
+"Fun Lovin' Criminals|Scooby Snacks|1996|HEMjF2n3-SQ|Fun Lovin' Criminals|S6490|Rap Rock;Alternative Rock;Rock|Scooby Snacks (song)",
 "Deftones|Change (In the House of Flies)|2000|WPpDyIJdasg|Deftones|S2202|Alternative Metal;Alternative Rock;Metal;Rock|Change (In the House of Flies)",
 "Felix Da Housecat|Silver Screen, Shower Scene|2001|fJvatGfD9Pg|Felix da Housecat|S2386|Electroclash;Dance;Electronic;Electronic Dance Music|",
 "Crash Test Dummies|Mmmm Mmmm Mmmm Mmmm|1993|eTeg1txDv8w|Crash Test Dummies|S5885|Pop Rock;Pop;Rock|Mmm Mmm Mmm Mmm",
