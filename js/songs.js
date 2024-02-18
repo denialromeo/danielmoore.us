@@ -4743,7 +4743,7 @@ const songs = [
 "The Undertones|My Perfect Cousin|1980|Pgqa3cVOxUc|The Undertones|S3923|New Wave;Pop Punk;Power Pop;Pop;Pop Rock;Punk Rock;Rock|My Perfect Cousin",
 "Iron Maiden|Phantom of the Opera|1980|t5jaRipA5_M|Iron Maiden|S11091|NWOBHM;Heavy Metal;Metal;Rock|Iron Maiden (album)",
 "Buffy Sainte-Marie|The Universal Soldier|1964|7zNUnwUSZmQ|Buffy Sainte-Marie|S10324|Contemporary Folk;Singer/Songwriter;Folk|Universal Soldier (song)",
-"LFO|LFO|1991|RpZVPSCv79U|LFO (American band)|S4214|Bleep Techno;Dance;Electronic;Electronic Dance Music;Techno|",
+"LFO|LFO|1991|s-1Y2EqThyQ|LFO (American band)|S4214|Bleep Techno;Dance;Electronic;Electronic Dance Music;Techno|",
 "MJ Cole|Sincere|1998|02KRAshCG0w|MJ Cole|S7576|2-Step;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "Madness|My Girl|1979|Pw-8AGRcyvk|Madness (band)|S1833|2 Tone;Ska|My Girl (Madness song)",
 "Pretenders|Precious|1980|69jUwYWxens|The Pretenders|S2601|New Wave;Post-Punk;Punk Rock;Rock|Precious (Pretenders song)",
