@@ -681,7 +681,7 @@ const songs = [
 "Sparks|This Town Ain't Big Enough for Both of Us|1974|QAzESJ62irI|Sparks (band)|S734|Art Rock;Glam Rock;Rock|This Town Ain't Big Enough for Both of Us",
 "James Carr|The Dark End of the Street|1967|HC3AXQ8dPJM|James Carr (musician)|S989|Deep Soul;R&B;Soul;Southern Soul|The Dark End of the Street",
 "Pearl Jam|Alive|1991|qM0zINtulhM|Pearl Jam|S167|Grunge;Alternative Rock;Rock|",
-"New York Dolls|Personality Crisis|1973|nrdqX_auyPc|New York Dolls|S780|Glam Punk;Glam Rock;Proto-Punk;Punk Rock;Rock|",
+"New York Dolls|Personality Crisis|1973|nrdqX_auyPc|New York Dolls|S780|Glam Punk;Glam Rock;Proto-Punk;Punk Rock;Rock|Personality Crisis (song)",
 "Ramones|I Wanna Be Sedated|1978|bm51ihfi1p4|Ramones|S600|Punk Rock;Rock|I Wanna Be Sedated",
 "U2|New Year's Day|1983|f8BtB4C3Vi8|U2|S465|Post-Punk;Rock|New Year's Day (U2 song)",
 "Alvvays|Archie, Marry Me|2014|ZAn3JdtSrnY|Alvvays|S9559|Twee Pop;Indie Pop;Pop|Archie, Marry Me",
