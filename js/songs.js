@@ -4843,7 +4843,7 @@ const songs = [
 "Lana Del Rey|High by the Beach|2015|QnxpHIl5Ynw|Lana Del Rey|S9809|Art Pop;Pop|",
 "Technotronic|Pump Up the Jam|1989|9EcjWd-O4jI|Technotronic|S2927|Euro House;Eurodance;Hip House;Dance;Dance-Pop;Electronic;Electronic Dance Music;Hip Hop;House;Pop|Pump Up the Jam",
 "Triángulo de Amor Bizarro|De la monarquía a la criptocracia|2010|k45WRjCxiD4|Triángulo de Amor Bizarro|S4933|Indie Rock;Noise Pop;Shoegaze;Alternative Rock;Rock|",
-"The J. Geils Band|Must of Got Lost|1974|gW0hxbrmFhM|The J. Geils Band|S6808|Blues Rock;Pop Rock;Pop;Rock|Must of Got Lost",
+"The J. Geils Band|Must of Got Lost|1974|avSyXCCY8IA|The J. Geils Band|S6808|Blues Rock;Pop Rock;Pop;Rock|Must of Got Lost",
 "The Seekers|The Carnival Is Over|1965|RqXc-1DzcAQ|The Seekers|S8348|Folk Pop;Contemporary Folk;Folk;Pop|The Carnival Is Over",
 "Focus|Hocus Pocus|1971|GyxSvZOby54|Focus (band)|S6416|Hard Rock;Progressive Rock;Rock|Hocus Pocus (song)",
 "Mission of Burma|Academy Fight Song|1980|gbBBl9jjW0U|Mission of Burma|S7571|Post-Punk;Rock|Academy Fight Song",
