@@ -1588,7 +1588,7 @@ const songs = [
 "Fleetwood Mac|Tusk|1979|ATMR5ettHz8|Fleetwood Mac|S1825|Pop Rock;Pop;Rock|Tusk (song)",
 "Joe Jackson|Is She Really Going Out with Him?|1978|6TzKSFbsh2Y|Joe Jackson (musician)|S1566|New Wave;Power Pop;Pop;Pop Rock;Rock|Is She Really Going Out with Him%3F",
 "Weezer|Undone - The Sweater Song|1994|LHQqqM5sr7g|Weezer|S3945|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Undone – The Sweater Song",
-"War|Low Rider|1975|qMkwuz0iXQg|War (American band)|S719|Latin Funk;Funk;Hispanic Music;Latin American Music;R&B;Regional Music|Low Rider",
+"War|Low Rider|1975|BsrqKE1iqqo|War (American band)|S719|Latin Funk;Funk;Hispanic Music;Latin American Music;R&B;Regional Music|Low Rider",
 "Radiohead|True Love Waits|2001|vSYadaGM0aQ|Radiohead|S12004|Acoustic Rock;Rock|True Love Waits (song)",
 "Bonnie Tyler|Total Eclipse of the Heart|1983|lcOxhH8N3Bo|Bonnie Tyler|S3918|AOR;Pop Rock;Pop;Rock|Total Eclipse of the Heart",
 "The Temptations|Ball of Confusion (That's What the World Is Today)|1970|-9poCAuYT-s|The Temptations|S853|Psychedelic Soul;R&B;Soul|",
