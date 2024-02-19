@@ -4171,7 +4171,7 @@ const songs = [
 "Bryan Ferry|Slave to Love|1985|UH1CMCtV4to|Bryan Ferry|S5664|Pop Rock;Sophisti-Pop;Pop;Rock|Slave to Love",
 "Bob Marley and the Wailers|Concrete Jungle|1973|5R94DgGRg7w|Bob Marley|S3598|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "Miami Sound Machine|Conga|1985|54ItEmCnP80?start=58|Miami Sound Machine|S7528|Latin Freestyle;Latin Pop;Dance;Dance-Pop;Electronic;Electronic Dance Music;Freestyle;Hispanic Music;Latin American Music;Pop;Regional Music|",
-"Daryl Hall & John Oates|Maneater|1982|yRYFKcMa_Ek|Hall & Oates|S6673|Pop Rock;Pop;Rock|",
+"Daryl Hall & John Oates|Maneater|1982|yRYFKcMa_Ek|Hall & Oates|S6673|Pop Rock;Pop;Rock|Maneater (Hall & Oates song)",
 "Bad Brains|Pay to Cum|1980|9ThoDPP44Hw|Bad Brains|S4443|Hardcore Punk;Punk Rock;Rock|",
 "Big Thief|Cattails|2019|dUR-Ad8QcmA|Big Thief|S16741|Alt-Country;Americana;Indie Folk;Contemporary Folk;Country;Folk|",
 "Count Basie|Lil' Darlin'|1958|nqn4nyZz0to|Count Basie|S10461|Big Band;Swing;Jazz|",
