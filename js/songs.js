@@ -7179,7 +7179,7 @@ const songs = [
 "Florence + The Machine|Rabbit Heart (Raise It Up)|2009|GF6kBNLTvaU|Florence and the Machine|S6407|Art Pop;Chamber Pop;Baroque Pop;Indie Pop;Pop|Rabbit Heart (Raise It Up)",
 "Frankie Trumbauer|I'm Coming Virginia|1927|_LFcaXGReY0|Frankie Trumbauer|S13158|Big Band;Dixieland;Jazz|I'm Coming Virginia",
 "Cornershop|6am Jullandar Shere|1995|Q1zeAj7eHco|Cornershop|S5873|Art Rock;Raga Rock;Psychedelic Rock;Rock|",
-"Culture Club|Church of the Poison Mind|1983|HVzAH0FtNwg|Culture Club|S454|Pop|",
+"Culture Club|Church of the Poison Mind|1983|HVzAH0FtNwg|Culture Club|S454|Pop|Church of the Poison Mind",
 "Bob Dylan|Gotta Serve Somebody|1979|wC10VWDTzmU|Bob Dylan|S5551|Christian Rock;Singer/Songwriter;Rock|Gotta Serve Somebody",
 "Beastie Boys|Hold It Now, Hit It|1986|oB0NM6reiRE|Beastie Boys|S14107|East Coast Hip Hop;Hip Hop|Hold It Now, Hit It",
 "The Beach Boys|Sail On, Sailor|1973|Zx6dgEgbMNU|The Beach Boys|S5350|Pop Rock;Pop;Rock|Sail On, Sailor",
