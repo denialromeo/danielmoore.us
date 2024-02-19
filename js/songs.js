@@ -1000,7 +1000,7 @@ const songs = [
 "Talking Heads|Burning Down the House|1983|_3eC35LoF4U|Talking Heads|S1904|New Wave;Pop Rock;Pop;Rock|Burning Down the House",
 "The Rascals|Good Lovin'|1966|DknhW6Mu55Q|The Rascals|S970|Blue Eyed Soul;Pop Rock;Pop;Rock|Good Lovin'",
 "James Brown|Cold Sweat|1967|8bztE5IbQOo|James Brown|S942|Funk;R&B|Cold Sweat",
-"Stevie Wonder|Sir Duke|1976|s6fPN5aQVDI|Stevie Wonder|S1795|Pop Soul;Pop;R&B;Soul|Sir Duke",
+"Stevie Wonder|Sir Duke|1976|rI5XCBfMCnQ|Stevie Wonder|S1795|Pop Soul;Pop;R&B;Soul|Sir Duke",
 "Siouxsie and the Banshees|Hong Kong Garden|1978|tiVfRoywQtk?start=24|Siouxsie and the Banshees|S617|Post-Punk;Rock|Spellbound (Siouxsie and the Banshees song)",
 "T. Rex|20th Century Boy|1973|JB6WZu8IAZg|T. Rex (band)|S765|Glam Rock;Rock|20th Century Boy",
 "Destiny's Child|Say My Name|1999|sQgd6MccwZc|Destiny's Child|S1389|Contemporary R&B;Pop;R&B|Say My Name",
