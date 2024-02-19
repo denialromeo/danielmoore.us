@@ -8094,7 +8094,7 @@ const songs = [
 "Pauline Croze|T'es Beau|2005|tgM5GrhK1l8|Pauline Croze|S11870|Folk Pop;French Pop;Nouvelle chanson française;Chanson;Contemporary Folk;Folk;Pop;Regional Music|Pauline Croze (album)",
 "Maxime Le Forestier|Né quelque part|1987|DagKAzSk9Z8|Maxime Le Forestier|S7481|Chanson;French Pop;Pop;Regional Music|",
 "Moris|El Oso|1969|UlVcGapeBNs|https://es.wikipedia.org/wiki/Moris_(cantante)|S11679|Singer/Songwriter|",
-"Olivia Newton-John|Physical|1981|VM7TpVWvJqM|Olivia Newton-John|S7808|Pop Rock;Pop;Rock|Physical (Olivia Newton-John song)",
+"Olivia Newton-John|Physical|1981|vWz9VN40nCA|Olivia Newton-John|S7808|Pop Rock;Pop;Rock|Physical (Olivia Newton-John song)",
 "James Brown|Rapp Payback (Where Iz Moses)|1980|u0qc67eD5yU|James Brown|S1848|Disco;Funk;Dance;R&B|Rapp Payback (Where Iz Moses)",
 "Neil Young|Sleeps with Angels|1994|4IS1Wir4KWg|Neil Young|S4224|Rock|",
 "The Sleepy Jackson|Rain Falls For Wind|2003|Mye6cHAEyhw|The Sleepy Jackson|S9354|Indie Pop;Pop|",
