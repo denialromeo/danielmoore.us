@@ -4479,7 +4479,7 @@ const songs = [
 "Beyoncé|XO|2013|3xUfCUFPL-8|Beyoncé|S9656|Contemporary R&B;Pop;R&B|XO (song)",
 "The Wedding Present|My Favourite Dress|1987|Nj99tl4CiwQ|The Wedding Present|S4475|C86;Indie Rock;Jangle Pop;Alternative Rock;Indie Pop;Pop;Pop Rock;Rock|",
 "Major Lazer|Pon De Floor|2009|j7IIAf0Bats|Major Lazer|S7386|Dancehall;Dutch House;Caribbean Music;Dance;Electronic;Electronic Dance Music;House;Jamaican Music;Regional Music|Pon de Floor",
-"Bruce Springsteen|No Surrender|1984|tLeZ7EolBDE|Bruce Springsteen|S5651|Heartland Rock;Pop Rock;Pop;Rock|No Surrender (song)",
+"Bruce Springsteen|No Surrender|1984|B2ACfsbVQRc|Bruce Springsteen|S5651|Heartland Rock;Pop Rock;Pop;Rock|No Surrender (song)",
 "Michel Polnareff|Le Bal des laze|1968|tPxajzP-2jQ|Michel Polnareff|S7544|Baroque Pop;Chanson;French Pop;Pop;Regional Music|",
 "Bobby Caldwell|What You Won’t Do for Love|1978|VFMy1aO_LMU|Bobby Caldwell|S5569|Blue Eyed Soul;Smooth Soul;Pop;R&B;Soul|What You Won't Do for Love (song)",
 "Bob Dylan|Chimes of Freedom|1964|LVIWA9VTiN8|Bob Dylan|S5539|Contemporary Folk;Singer/Songwriter;Folk|Chimes of Freedom (song)",
