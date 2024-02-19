@@ -577,7 +577,7 @@ const songs = [
 "Creedence Clearwater Revival|Who'll Stop the Rain|1970|jaEEFBTtofc|Creedence Clearwater Revival|S848|Folk Rock;Swamp Rock;Rock;Roots Rock|Who'll Stop the Rain (song)",
 "The Crystals|He's a Rebel|1962|aF7V2dSvxpo|The Crystals|S1088|Brill Building;Girl Group;Pop|He's a Rebel",
 "Aerosmith|Walk This Way|1975|O3vdkQjiEDo|Aerosmith|S720|Hard Rock;Rock|Walk This Way",
-"The Easybeats|Friday on My Mind|1966|NSowZcvoqr4|The Easybeats|S1486|Beat Music;Mod;Pop;Pop Rock;Rock|Friday on My Mind",
+"The Easybeats|Friday on My Mind|1966|dnqxbdnzlhw|The Easybeats|S1486|Beat Music;Mod;Pop;Pop Rock;Rock|Friday on My Mind",
 "2Pac|California Love|1995|J7_bMdYfSws|Tupac Shakur|S51|G-Funk;Pop Rap;West Coast Hip Hop;Hip Hop|California Love",
 "Bruce Springsteen|The River|1980|lc6F47Z6PI4?start=42|Bruce Springsteen|S2606|Heartland Rock;Singer/Songwriter;Rock|The River (Bruce Springsteen song)",
 "Jimmy Cliff|The Harder They Come|1972|pmc5H6zAi6M|Jimmy Cliff|S2571|Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|The Harder They Come (song)",
