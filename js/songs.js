@@ -2569,7 +2569,7 @@ const songs = [
 "Aretha Franklin|Do Right Woman - Do Right Man|1967|N1MW6xXjW8g?start=22|Aretha Franklin|S2514|Soul;R&B|Do Right Woman, Do Right Man",
 "Bon Iver|Hey, Ma|2019|HDAKS18Gv1U|Bon Iver|S16745|Art Pop;Pop|Hey, Ma (Bon Iver song)",
 "John Cage|4'33\"|1952|JTEFKFiXSx4|John Cage|S2768|Indeterminacy;Classical Music;Experimental;Modern Classical|4′33″",
-"Fleetwood Mac|Black Magic Woman|1968|hRu7Pt42x6Y|Fleetwood Mac|S4114|Blues Rock;Psychedelic Rock;Rock|Black Magic Woman",
+"Fleetwood Mac|Black Magic Woman|1968|dETa5maSEcw|Fleetwood Mac|S4114|Blues Rock;Psychedelic Rock;Rock|Black Magic Woman",
 "Pet Shop Boys|What Have I Done to Deserve This?|1987|Wn9E5i7l-Eg|Pet Shop Boys|S1963|Synthpop;Electronic;Pop|What Have I Done to Deserve This%3F (song)",
 "The War on Drugs|Thinking of a Place|2017|TeaDE1magRk|The War on Drugs (band)|S16502|Heartland Rock;Neo-Psychedelia;Psychedelic Rock;Rock|",
 "Alton Ellis|I Am Still in Love|1977|ljeYJAdM7n0|Alton Ellis|S5182|Reggae;Rocksteady;Caribbean Music;Jamaican Music;Regional Music|",
