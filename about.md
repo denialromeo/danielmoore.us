@@ -56,6 +56,8 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Others in the late 20th were Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Ho&nbsp;Chi Minh, Ruhollah Khomeini, Zia-ul-Haq, Qian Xuesen, Bill Gates, and Norman Borlaug.</li>
     </ul>
     {%if site.url contains 'local'%}
+    <p>I left the U.S. some years ago, and am presently based in Mumbai. (Though I travel abroad often.) I've kept the American citizenship, but for the most part, I see myself as an Indian.</p>
+    <p>I presently run ___, a small but profitable restaurant in ___.</p>
     <p>Some questions for the reader to ponder &ndash;</p>
     <ul>
         <li>Your grandfather had two grandfathers. Can you name them? Are they forgotten?</li>
