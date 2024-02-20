@@ -6397,7 +6397,7 @@ const songs = [
 "Marvin Gaye|Your Precious Love|1967|Pzo1ODMmymA|Tammi Terrell|S3439|Motown Sound;Pop;Pop Soul;R&B;Soul|Your Precious Love",
 "Frank Sinatra|(Theme from) New York, New York|1980|EEjq8ZoyXuQ|Frank Sinatra|S6444|Traditional Pop;Vocal Jazz;Jazz;Pop|Theme from New York, New York",
 "Paul Revere & The Raiders|Just Like Me|1965|6BGNN9ZuL-I|Paul Revere & the Raiders|S1425|Garage Rock;Rock|",
-"Johnny Nash|Stir It Up|1972|Mh4Zm6YRHDk|Johnny Nash|S6989|Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Stir It Up",
+"Johnny Nash|Stir It Up|1972|mEtGAfDMn0U|Johnny Nash|S6989|Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Stir It Up",
 "Supergrass|Moving|1999|Q8w81AAK7to|Supergrass|S8639|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Moving (Supergrass song)",
 "The Gap Band|You Dropped a Bomb on Me|1982|17lkdqoLt44|The Gap Band|S1877|Contemporary R&B;Synth Funk;Funk;R&B|You Dropped a Bomb on Me",
 "Kid Rock|Bawitdaba|1998|1OrNS2zbTZg|Kid Rock|S2172|Hard Rock;Rap Metal;Rap Rock;Alternative Metal;Alternative Rock;Metal;Rock|Bawitdaba",
