@@ -2944,7 +2944,7 @@ const songs = [
 "iLoveMakonnen|Club Goin' Up on a Tuesday / Tuesday (feat. Drake)|2014|avFq9errZCk|ILoveMakonnen|S9565|Cloud Rap;Pop Rap;Hip Hop|Tuesday (iLoveMakonnen song)",
 "Cake|The Distance|1996|F_HoMkkRHv8|Cake (band)|S3259|Alternative Rock;Rock|The Distance (Cake song)",
 "Bing Crosby|Pennies from Heaven|1936|XXpUoL52a1w|Bing Crosby|S2666|Standards;Pop;Traditional Pop|Pennies from Heaven (song)",
-"The O'Jays|For the Love of Money|1973|GXE_n2q08Yw|The O'Jays|S1757|Funk;Philly Soul;R&B;Soul|",
+"The O'Jays|For the Love of Money|1973|Z5QLbnfFWg0|The O'Jays|S1757|Funk;Philly Soul;R&B;Soul|",
 "Alice Cooper|No More Mr. Nice Guy|1973|PE1vGT-hlLI|Alice Cooper|S5158|Glam Rock;Hard Rock;Rock|No More Mr. Nice Guy (song)",
 "Big Star|The Ballad of El Goodo|1972|Cn1t6l7UUPc|Big Star|S5437|Power Pop;Pop;Pop Rock;Rock|",
 "Tears for Fears|Head Over Heels|1985|CsHiG-43Fzg|Tears for Fears|S4470|Pop Rock;Synthpop;Electronic;Pop;Rock|Head over Heels (Tears for Fears song)",
