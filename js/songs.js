@@ -1007,7 +1007,7 @@ const songs = [
 "Radiohead|No Surprises|1997|u5CVsCnxyXg|Radiohead|S2154|Alternative Rock;Art Rock;Rock|No Surprises",
 "Lead Belly|The Midnight Special|1940|6IjPmIEgeIU|Lead Belly|S2716|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Midnight Special (song)",
 "Goldie|Inner City Life/Timeless (Part 1: Inner City Life)|1994|anQgfwdZUkE|Goldie|S109|Atmospheric Drum and Bass;Dance;Drum and Bass;Electronic;Electronic Dance Music|Inner City Life",
-"Neil Young|Like a Hurricane|1977|6XVjnmOnigs|Neil Young|S2328|Hard Rock;Singer/Songwriter;Rock|Like a Hurricane (song)",
+"Neil Young|Like a Hurricane|1977|Z6qzeHSq7bk|Neil Young|S2328|Hard Rock;Singer/Songwriter;Rock|Like a Hurricane (song)",
 "Fugees|Ready or Not|1996|aIXyKmElvv8|Fugees|S36|Boom Bap;East Coast Hip Hop;Hip Hop|Ready or Not (Fugees song)",
 "The Allman Brothers Band|Ramblin' Man|1973|jUTORC4eoGc|The Allman Brothers Band|S1565|Southern Rock;Rock|Ramblin' Man (The Allman Brothers Band song)",
 "Lloyd Price|Lawdy Miss Clawdy|1952|nYO263wui1w|Lloyd Price|S1332|New Orleans R&B;Rhythm & Blues;Rock & Roll;R&B;Rock|Lawdy Miss Clawdy",
