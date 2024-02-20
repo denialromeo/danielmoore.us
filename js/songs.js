@@ -5645,7 +5645,7 @@ const songs = [
 "Garbage|#1 Crush|1995|shb_bxglEKk|Garbage (band)|S10899|Alternative Rock;Rock|Number 1 Crush",
 "Bright Eyes|Four Winds|2007|cnndERkkB20|Bright Eyes (band)|S4301|Alt-Country;Indie Folk;Contemporary Folk;Country;Folk|",
 "Miles Davis|Bitches Brew|1970|3_JZRhffYxE?start=499|Miles Davis|S7556|Avant-Garde Jazz;Jazz Fusion;Jazz|",
-"The Mighty Mighty Bosstones|The Impression That I Get|1997|NIGMUAMevH0|The Mighty Mighty Bosstones|S7552|Ska Punk;Punk Rock;Rock;Ska;Third Wave Ska|",
+"The Mighty Mighty Bosstones|The Impression That I Get|1997|NIGMUAMevH0|The Mighty Mighty Bosstones|S7552|Ska Punk;Punk Rock;Rock;Ska;Third Wave Ska|The Impression That I Get",
 "U2|Even Better Than the Real Thing|1991|aQsX08-viOA|U2|S2045|Alternative Dance;Alternative Rock;Dance;Rock|Even Better Than the Real Thing",
 "Barbra Streisand|People|1964|fPlQ6EtArSc|Barbra Streisand|S3863|Show Tunes;Traditional Pop;Descriptor;Musical Theatre and Entertainment;Pop;Soundtracks|People (Barbra Streisand song)",
 "Little Anthony and the Imperials|Hurt So Bad|1965|B32fMlmffdo|Little Anthony and the Imperials|S3564|Brill Building;Pop|Hurt So Bad",
