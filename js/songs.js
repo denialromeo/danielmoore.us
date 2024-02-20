@@ -5545,7 +5545,7 @@ const songs = [
 "King Crimson|I Talk to the Wind|1969|UlKrH07au6E|King Crimson|S12991|Art Rock;Progressive Folk;Psychedelic Rock;Contemporary Folk;Folk;Rock|",
 "Nirvana|Pennyroyal Tea|1993|arQC1MdDm8k|Kurt Cobain|S2996|Grunge;Alternative Rock;Rock|Pennyroyal Tea",
 "The Jarmels|A Little Bit of Soap|1961|a0wQU7fJEVQ|The Jarmels|S3512|Doo-Wop;Soul;Descriptor;R&B;Vocal Group|A Little Bit of Soap",
-"Jimmy Smith|The Sermon|1959|e3X5J_wGHrw|Jimmy Smith (musician)|S13209|Soul Jazz;Jazz|",
+"Jimmy Smith|The Sermon|1959|HH84Nl_gxwc|Jimmy Smith (musician)|S13209|Soul Jazz;Jazz|",
 "The Supremes|Come See About Me|1964|uVlrKnwGU0Y|Diana Ross|S8647|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|Come See About Me",
 "Lead Belly|The Gallis Pole|1939|66RZ-22bFBs|Lead Belly|S14652|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|",
 "The Falcons|I Found a Love|1962|TkQa2n3bHnw|The Falcons|S6340|Doo-Wop;Soul;Descriptor;R&B;Vocal Group|",
