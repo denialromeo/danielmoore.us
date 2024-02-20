@@ -4539,7 +4539,7 @@ const songs = [
 "Todd Terje|Delorean Dynamite|2014|U9H5WTTOUfg|Todd Terje|S9592|Electro-Disco;Synthwave;Dance;Disco;Electronic;Electronic Dance Music|",
 "Arlo Guthrie|The City of New Orleans|1972|TvMS_ykiLiQ|Arlo Guthrie|S5236|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|City of New Orleans (song)",
 "Hot Chocolate|You Sexy Thing|1975|4DwEni2N_-A|Hot Chocolate (band)|S1767|Disco;Funk;Pop Soul;Dance;Pop;R&B;Soul|You Sexy Thing",
-"Alain Bashung|Vertige de l'amour|1980|D136hOqYF28|Alain Bashung|S4444|Heartland Rock;Rock|",
+"Alain Bashung|Vertige de l'amour|1980|mUWIHnobpx0|Alain Bashung|S4444|Heartland Rock;Rock|",
 "James & Bobby Purify|I'm Your Puppet|1966|Tyvn3QR7BRk|James & Bobby Purify|S2503|Pop Soul;Southern Soul;Pop;R&B;Soul|I'm Your Puppet",
 "Oasis|Stand by Me|1997|maTP315XZCQ|Oasis (band)|S7782|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Stand by Me (Oasis song)",
 "EPMD|Strictly Business|1988|WE2vEtsc2io|EPMD|S3393|Boom Bap;East Coast Hip Hop;Hip Hop|Strictly Business (EPMD song)",
