@@ -6815,7 +6815,7 @@ const songs = [
 "Rachid Taha|Ya Rayah|1997|uUDKfK3R42Q|Rachid Taha|S11993|Algerian Chaabi;African Music;Arabic Music;North African Music;Regional Music|Ya Rayah",
 "The Sanford/Townsend Band|Smoke from a Distant Fire|1976|wCWVuCCWqzQ|Sanford-Townsend Band|S13349|Yacht Rock;Pop;Pop Rock;Rock|Smoke from a Distant Fire",
 "The Lovin' Spoonful|Darling Be Home Soon|1967|pAur4CWJIPw|The Lovin' Spoonful|S2284|Country Rock;Folk Rock;Rock|Darling Be Home Soon",
-"Billie Holiday|He’s Funny That Way|1937|QRosRTLD1Kw|Billie Holiday|S13157|Vocal Jazz;Jazz|She's Funny That Way",
+"Billie Holiday|He’s Funny That Way|1937|XTxmouM5OWk|Billie Holiday|S13157|Vocal Jazz;Jazz|She's Funny That Way",
 "Peter Sarstedt|Where Do You Go To (My Lovely)|1969|L8XQZYIiNgo|Peter Sarstedt|S7948|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Where Do You Go To (My Lovely)%3F",
 "Brand Nubian|Slow Down|1990|asVzJUPvTsQ|Brand Nubian|S10283|Boom Bap;Conscious Hip Hop;East Coast Hip Hop;Hip Hop|Slow Down (Brand Nubian song)",
 "The White Stripes|You're Pretty Good Lookin' (For a Girl)|2000|WkTOp0m6Uis|The White Stripes|S8990|Alternative Rock;Blues Rock;Rock|",
