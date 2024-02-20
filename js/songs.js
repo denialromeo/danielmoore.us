@@ -2199,7 +2199,7 @@ const songs = [
 "AC/DC|It's a Long Way to the Top (If You Wanna Rock and Roll)|1975|vj_rvLVpqg8|AC/DC|S4180|Hard Rock;Rock|It's a Long Way to the Top (If You Wanna Rock 'n' Roll)",
 "Shuggie Otis|Strawberry Letter 23|1971|0FX6tpjQboQ|Shuggie Otis|S3684|Psychedelic Soul;R&B;Soul|Strawberry Letter 23",
 "Arctic Monkeys|When the Sun Goes Down|2006|EqkBRVukQmE|Arctic Monkeys|S4031|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|When the Sun Goes Down (Arctic Monkeys song)",
-"Silver Apples|Oscillations|1968|t1xOZyBc2Ck|Silver Apples|S4119|Electronic;Experimental Rock;Psychedelic Rock;Rock|",
+"Silver Apples|Oscillations|1968|7HTOmW-fJ_4|Silver Apples|S4119|Electronic;Experimental Rock;Psychedelic Rock;Rock|",
 "Eagles|Take It Easy|1972|4v8KEbQA8kw|Eagles (band)|S1318|Country Rock;Rock|",
 "Youssou N'Dour|7 Seconds|1994|wqCpjFMvz-k|Youssou N'Dour|S1540|Trip Hop;Downtempo;Electronic|7 Seconds (song)",
 "Charlie Parker|Parker's Mood|1948|6Wa7El-k3jQ|Charlie Parker|S10383|Bebop;Jazz|",
