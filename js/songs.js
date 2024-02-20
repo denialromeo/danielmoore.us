@@ -5801,7 +5801,7 @@ const songs = [
 "Daryl Hall & John Oates|Kiss on My List|1981|lsHld-iArOc|Hall & Oates|S6672|Blue Eyed Soul;Yacht Rock;Pop;Pop Rock;Rock|",
 "Change|The Glow of Love|1980|9sL95rzwvSM?start=29|Change (band)|S10371|Boogie;Dance;Disco;R&B|",
 "Elvin Bishop|Fooled Around and Fell in Love|1975|DyMMEmwFQUE|Elvin Bishop|S6242|Blue Eyed Soul;Southern Rock;Pop;Rock|Fooled Around and Fell in Love",
-"Bonnie Raitt|Love Has No Pride|1972|9Wv67n160Ew|Bonnie Raitt|S3740|Blues Rock;Singer/Songwriter;Rock|",
+"Bonnie Raitt|Love Has No Pride|1972|G20BZ-EHfLE|Bonnie Raitt|S3740|Blues Rock;Singer/Songwriter;Rock|",
 "Joy Division|New Dawn Fades|1979|aXAthCVbnDI|Joy Division|S11263|Post-Punk;Rock|New Dawn Fades",
 "Dusty Springfield|Breakfast in Bed|1969|ixcpwHJKCh0|Dusty Springfield|S1714|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|Breakfast in Bed",
 "Jelly Roll Morton|Grandpa's Spells|1923|jzCVOL2cf-Q|Jelly Roll Morton|S11187|Big Band;Jazz|Grandpa's Spells",
