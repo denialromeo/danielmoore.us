@@ -5781,7 +5781,7 @@ const songs = [
 "Grace Jones|I've Seen That Face Before (Libertango)|1981|nIN3IE3DHqc|Grace Jones|S6619|Art Pop;Dub;Sophisti-Pop;Caribbean Music;Jamaican Music;Pop;Reggae;Regional Music|I've Seen That Face Before (Libertango)",
 "INXS|New Sensation|1987|aEW_v6YOBms|INXS|S3498|Pop Rock;Pop;Rock|New Sensation",
 "The Beatles|It's All Too Much|1969|2zc3idF_IZ0|The Beatles|S3195|Acid Rock;Psychedelic Rock;Rock|It's All Too Much",
-"Guns N' Roses|You Could Be Mine|1991|DVzcQ4_khsM|Guns N' Roses|S6663|Film Soundtrack;Hard Rock;Descriptor;Rock;Soundtracks|You Could Be Mine",
+"Guns N' Roses|You Could Be Mine|1991|qnFU-DxwpRs|Guns N' Roses|S6663|Film Soundtrack;Hard Rock;Descriptor;Rock;Soundtracks|You Could Be Mine",
 "The Rolling Stones|I'm Free|1965|XZ_7rJ31gI8|The Rolling Stones|S12095|British Rhythm & Blues;R&B;Rhythm & Blues;Rock|I'm Free (Rolling Stones song)",
 "John Lennon|Whatever Gets You Thru the Night|1974|6lFTD9O-XMw|John Lennon|S6956|Pop Rock;Pop;Rock|Whatever Gets You thru the Night",
 "Bob Dylan|This Wheel's on Fire|1975|-mlzUHxNMV8|The Band|S4854|Folk Rock;Roots Rock;Rock|This Wheel's on Fire",
