@@ -5740,7 +5740,7 @@ const songs = [
 "Snap!|Rhythm Is a Dancer|1992|JYIaWeVL1JM|Snap!|S15038|Euro House;Eurodance;Dance;Dance-Pop;Electronic;Electronic Dance Music;House;Pop|Rhythm Is a Dancer",
 "Tobias Jesso Jr.|How Could You Babe|2015|uu1Ko02P7vk|Tobias Jesso Jr.|S9858|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|",
 "Blonde Redhead|23|2007|a7FqUNlEdwA|Blonde Redhead|S5503|Dream Pop;Shoegaze;Alternative Rock;Rock|",
-"Eels|Mr. E's Beautiful Blues|2000|Q48BsNaz_YM|Eels (band)|S6211|Alternative Rock;Indie Pop;Pop;Rock|Mr. E's Beautiful Blues",
+"Eels|Mr. E's Beautiful Blues|2000|EnmIE8fXf-Q?start=19|Eels (band)|S6211|Alternative Rock;Indie Pop;Pop;Rock|Mr. E's Beautiful Blues",
 "Memphis Minnie|Me and My Chaffeur Blues|1941|rD2GUKwqliU|Memphis Minnie|S15697|Country Blues;Acoustic Blues;American Folk Music;Blues;Folk;Regional Music;Traditional Folk Music|",
 "Sasha|Xpander|1999|z3Gu7CXfRdA|Sasha (DJ)|S2182|Progressive Trance;Dance;Electronic;Electronic Dance Music;Trance|",
 "Green Velvet|La La Land|2001|NMD_cv4fM4s|Curtis Jones|S6645|Electroclash;Dance;Electronic;Electronic Dance Music|La La Land (Green Velvet song)",
