@@ -3830,7 +3830,7 @@ const songs = [
 "Charlie Christian|Swing to Bop|1941|Ce9Jtl9D6FQ|Charlie Christian|S5762|Big Band;Swing;Jazz|",
 "Fleetwood Mac|Sara|1979|ScSsOA4UVr8|Fleetwood Mac|S6395|Pop Rock;Pop;Rock|Sara (Fleetwood Mac song)",
 "Puff Daddy|It's All About the Benjamins|1997|0c58ppLPJcQ|Sean Combs|S3737|East Coast Hip Hop;Pop Rap;Hip Hop|It's All About the Benjamins",
-"Elizabeth Cotten|Freight Train|1958|R2DCWfBkMSI|Elizabeth Cotten|S6233|Piedmont Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Freight Train (folk song)",
+"Elizabeth Cotten|Freight Train|1958|If5ZGXKG9bw|Elizabeth Cotten|S6233|Piedmont Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Freight Train (folk song)",
 "Phoenix|Long Distance Call|2006|owD3d1S0LFg|Phoenix (band)|S4026|Indie Pop;Pop Rock;Pop;Rock|",
 "Radiohead|The Bends|1995|QUSVonB3gwg|Radiohead|S8074|Alternative Rock;Rock|The Bends (album)",
 "Kevin Morby|I Have Been to the Mountain|2016|5hpZqvrYFXI|Kevin Morby|S16125|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|",
