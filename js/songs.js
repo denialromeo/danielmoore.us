@@ -4237,7 +4237,7 @@ const songs = [
 "Curtis Mayfield|We the People Who Are Darker Than Blue|1970|iSDCPKsSf2U|Curtis Mayfield|S4269|Chicago Soul;R&B;Soul|Curtis (Curtis Mayfield album)",
 "Tony Joe White|Polk Salad Annie|1968|MCSsVvlj6YA|Tony Joe White|S4136|Swamp Rock;Rock;Roots Rock|Polk Salad Annie",
 "Neil Young|Don't Let It Bring You Down|1970|eVy1h2FcRiM|Neil Young|S7682|Folk Rock;Singer/Songwriter;Rock|Don't Let It Bring You Down",
-"Cloud Nothings|Wasted Days|2012|JIitQNXVgb8|Cloud Nothings|S5007|Emo;Indie Rock;Post-Hardcore;Alternative Rock;Punk Rock;Rock|",
+"Cloud Nothings|Wasted Days|2012|gLbfm-gcoGs|Cloud Nothings|S5007|Emo;Indie Rock;Post-Hardcore;Alternative Rock;Punk Rock;Rock|",
 "Gram Parsons|Love Hurts|1974|zTZOoUttyO4|Gram Parsons|S6625|Country Rock;Singer/Songwriter;Rock|Love Hurts",
 "Vic Mensa|Down on My Luck|2014|5jUGAVUwhRU|Vic Mensa|S9598|Future House;Hip House;Dance;Electronic;Electronic Dance Music;Hip Hop;House|",
 "Console|14 Zero Zero|1999|JuP_lrfciHU|Console (musician)|S2171|Electropop;Indietronica;Electronic;Pop|",
