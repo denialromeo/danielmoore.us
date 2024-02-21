@@ -1850,7 +1850,7 @@ const songs = [
 "The Platters|Smoke Gets in Your Eyes|1958|Z-T3iH3n1kk|The Platters|S1634|Doo-Wop;Traditional Pop;Descriptor;Pop;R&B;Vocal Group|Smoke Gets in Your Eyes",
 "Björk|Big Time Sensuality|1993|B5Dc1LEn4AM|Björk|S3214|Dance-Pop;Dance;Pop|Big Time Sensuality",
 "Billy Bragg|Levi Stubbs' Tears|1986|I4v8VJ0LRgA|Billy Bragg|S375|British Folk Rock;Singer/Songwriter;Folk Rock;Rock|Levi Stubbs' Tears",
-"Wayne Smith|Under Me Sleng Teng|1985|H_STPoI_eoM|Wayne Smith (musician)|S418|Digital Dancehall;Caribbean Music;Dancehall;Jamaican Music;Reggae;Regional Music|",
+"Wayne Smith|Under Me Sleng Teng|1985|H_STPoI_eoM|Wayne Smith (musician)|S418|Digital Dancehall;Caribbean Music;Dancehall;Jamaican Music;Reggae;Regional Music|Sleng Teng",
 "Heaven 17|(We Don't Need This) Fascist Groove Thang|1981|lV5dbcOmw6I|Heaven 17|S524|New Wave;Synthpop;Electronic;Pop;Rock|(We Don't Need This) Fascist Groove Thang",
 "Miles Davis|Shhh/Peaceful|1969|VlIyqiIJ98w|Miles Davis|S2854|Jazz Fusion;Modal Jazz;Jazz|",
 "The Associates|Party Fears Two|1982|KybfTKNl2NM|The Associates (band)|S502|Art Pop;New Wave;Synthpop;Electronic;Pop;Rock|Party Fears Two",
