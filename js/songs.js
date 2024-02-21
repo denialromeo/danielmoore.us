@@ -175,7 +175,7 @@ const songs = [
 "Jefferson Airplane|White Rabbit|1967|pnJM_jC7j_4|Jefferson Airplane|S950|Psychedelic Rock;Rock|White Rabbit (song)",
 "Prince|Kiss|1986|H9tEvfIsDyo|Prince (musician)|S361|Contemporary R&B;Film Soundtrack;Synth Funk;Descriptor;Funk;R&B;Soundtracks|Kiss (Prince song)",
 "U2|Sunday Bloody Sunday|1983|EM4vblG6BVQ|U2|S467|Alternative Rock;Post-Punk;Rock|Sunday Bloody Sunday",
-"Talking Heads|Psycho Killer|1977|jzIuZ-mrIL0|Talking Heads|S643|New Wave;Post-Punk;Rock|Psycho Killer",
+"Talking Heads|Psycho Killer|1977|uTezUIuJHTw?start=23|Talking Heads|S643|New Wave;Post-Punk;Rock|Psycho Killer",
 "Soft Cell|Tainted Love|1981|oGXpDhNAO1Y|Soft Cell|S515|New Wave;Synthpop;Electronic;Pop;Rock|",
 "Prince|Little Red Corvette|1982|v0KpfrJE4zw|Prince (musician)|S455|Contemporary R&B;Pop Rock;Pop;R&B;Rock|Little Red Corvette",
 "Sly and the Family Stone|Family Affair|1971|CNQpYz1ztx8|Sly and the Family Stone|S817|Funk;Psychedelic Soul;R&B;Soul|",
