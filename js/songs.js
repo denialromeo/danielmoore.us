@@ -6682,7 +6682,7 @@ const songs = [
 "The Byrds|Wasn't Born to Follow|1968|3hEfcawx6Fc|The Byrds|S13281|Country Rock;Folk Rock;Rock|Wasn't Born to Follow",
 "Francis Cabrel|La Corrida|1994|IQ8OmLVn-f8|Francis Cabrel|S6434|Chanson;Contemporary Folk;French Pop;Folk;Pop;Regional Music|",
 "Sonic Youth|Superstar|1994|Y21VecIIdBI|Sonic Youth|S8493|Alternative Rock;Rock|Superstar (Delaney and Bonnie song)",
-"Metallica|Creeping Death|1984|lXWq3f01e2U|Metallica|S11602|Thrash Metal;Metal;Rock|Creeping Death",
+"Metallica|Creeping Death|1984|B4kac2Y1Pu8|Metallica|S11602|Thrash Metal;Metal;Rock|Creeping Death",
 "James Brown|Mother Popcorn (You Got to Have a Mother For Me) (Part I)|1969|5eoSXpNZD9o|James Brown|S3244|Funk;R&B|Mother Popcorn",
 "Snow|Informer|1993|TSffz_bl6zo|Snow (musician)|S3826|Pop Rap;Pop Reggae;Caribbean Music;Hip Hop;Jamaican Music;Reggae;Regional Music|Informer (song)",
 "Sidney Bechet's Blue Note Jazz Men|Blue Horizon|1945|ZofoMLm6D-0|Sidney Bechet|S12202|Dixieland;Jazz|",
