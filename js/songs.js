@@ -7818,7 +7818,7 @@ const songs = [
 "The Jesus and Mary Chain|Sometimes Always|1994|MntPYnT2p3c|The Jesus and Mary Chain|S4501|Indie Rock;Alternative Rock;Rock|Sometimes Always",
 "The Beatles|The Word|1965|RfBEqiEhCgM|The Beatles|S10121|Pop Rock;Pop;Rock|The Word (song)",
 "Johnny Cash|The Mercy Seat|2000|Y3411MJO6Y0|Johnny Cash|S6977|Americana;Country|The Mercy Seat (song)",
-"The Jam|The Bitterest Pill|1982|WBXng6QFF1k|The Jam|S3508|Mod Revival;New Wave;Mod;Rock|",
+"The Jam|The Bitterest Pill|1982|kc9VWNl3BSI|The Jam|S3508|Mod Revival;New Wave;Mod;Rock|",
 "Captain Beefheart and His Magic Band|Sure 'Nuff 'n Yes I Do|1967|3sycZuJ_ox8?start=3|Captain Beefheart|S5710|Blues Rock;Garage Rock;Rock|Electricity (Captain Beefheart song)",
 "Dionne Warwick|That's What Friends Are For|1985|HyTpu6BmE88|Dionne Warwick|S6088|Adult Contemporary;Pop Soul;Pop;R&B;Soul|",
 "The Stooges|TV Eye|1970|BugSstDaVFc|The Stooges|S8598|Garage Rock;Hard Rock;Proto-Punk;Rock|",
