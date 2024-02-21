@@ -1115,7 +1115,7 @@ const albums = [
 "Noname|Room 25|2018|OLAK5uy_kNVD_UKaKO3qs20PWVfxYQOiGm_f5N7Ss|A6043|Room 25|Noname (rapper)|Conscious Hip Hop;Jazz Rap;Hip Hop",
 "Bob Marley and The Wailers|Soul Revolution Part II|1971|OLAK5uy_nzDGAoLlIZbw42NCuTYihRROAskziQE14|A1137|Soul Revolution Part II|Bob Marley and the Wailers|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music",
 "Van Morrison|Veedon Fleece|1974|OLAK5uy_mHy2mo1iN5KUuR09ZjQaaVnu8bVZh0SYM|A323|Veedon Fleece|Van Morrison|Folk Rock;Singer/Songwriter;Rock",
-"The Rapture|Echoes|2003|OLAK5uy_ngZnwC0S5FP04HmGua_VNkv4K2JdUTymc|A4002|Echoes (The Rapture album)|The Rapture (band)|Dance-Punk;Post-Punk;Rock",
+"The Rapture|Echoes|2003|OLAK5uy_n3B_ww5cF1Ttjx6CurIYCb5zdTfoZ7zN4|A4002|Echoes (The Rapture album)|The Rapture (band)|Dance-Punk;Post-Punk;Rock",
 "The Saints|(I'm) Stranded|1977|OLAK5uy_lSot-xq9VosdePouTxYWIJyxpvqDTHx44|A1429|(I'm) Stranded|The Saints (Australian band)|Punk Rock;Rock",
 "Jay Z & Kanye West|Watch the Throne|2011|OLAK5uy_l4zMpi9YRUQdxliVxA1oI_tfGxdwvAxzA|A5154|Watch the Throne|Jay-Z|Hip Hop",
 "Ozzy Osbourne|Blizzard of Ozz|1980|PLBzBwYhHpqLLVvQVUQIM_Hrwa5ctDK2g6|A1686|Blizzard of Ozz|Ozzy Osbourne|Hard Rock;Heavy Metal;Metal;Rock",
