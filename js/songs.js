@@ -4032,7 +4032,7 @@ const songs = [
 "Lee Morgan|The Sidewinder|1964|qJi03NqXfk8|Lee Morgan|S11400|Hard Bop;Soul Jazz;Bebop;Jazz|",
 "War|Why Can't We Be Friends?|1975|OHmmjnEdtx8|War (American band)|S3937|Pop Reggae;Soul;Caribbean Music;Jamaican Music;R&B;Reggae;Regional Music|Why Can't We Be Friends%3F (song)",
 "Sister Nancy|Bam Bam|1982|OcaPu9JPenU|Sister Nancy|S8434|Dancehall;Deejay;Caribbean Music;Jamaican Music;Reggae;Regional Music|Bam Bam (Sister Nancy song)",
-"Jerry Reed|Amos Moses|1970|n7GyLr7Cz2g|Jerry Reed|S3753|Country Rock;Rock|Amos Moses",
+"Jerry Reed|Amos Moses|1970|QmC6-9tB5gQ|Jerry Reed|S3753|Country Rock;Rock|Amos Moses",
 "David Bowie|Absolute Beginners|1986|iCJLOXqnT2I|David Bowie|S5975|Pop|Absolute Beginners (David Bowie song)",
 "The Shirelles|Dedicated to the One I Love|1959|UnLyypuGG6o|The Shirelles|S1185|Doo-Wop;Girl Group;Descriptor;Pop;R&B;Vocal Group|Dedicated to the One I Love",
 "The B-52's|Private Idaho|1980|yXmnmvDl-ao|The B-52's|S3160|Dance-Punk;New Wave;Post-Punk;Rock|",
