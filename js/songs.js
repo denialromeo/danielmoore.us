@@ -5387,7 +5387,7 @@ const songs = [
 "Al Green|I Can't Get Next to You|1970|ycv0GchcMXE|Al Green|S5124|Southern Soul;R&B;Soul|",
 "The Reels|Quasimodo's Dream|1981|6Zoz7AGvKTM|The Reels|S4196|Synthpop;Electronic;Pop|Quasimodo's Dream (song)",
 "Bow Wow Wow|C30 C60 C90 Go!|1980|81c1L8SrXcU|Bow Wow Wow|S550|New Wave;Post-Punk;Rock|",
-"Kraftwerk|Taschenrechner/Pocket Calculator|1981|mopXKac2R3E|Kraftwerk|S7150|Synthpop;Electronic;Pop|",
+"Kraftwerk|Taschenrechner/Pocket Calculator|1981|3Vq2AwZGZ9s|Kraftwerk|S7150|Synthpop;Electronic;Pop|",
 "Nirvana|You Know You're Right|2002|qv96yJYhk3M|Kurt Cobain|S1525|Grunge;Alternative Rock;Rock|You Know You're Right",
 "The Waitresses|I Know What Boys Like|1982|bsneH0mOq-0|The Waitresses|S3925|New Wave;Pop Rock;Pop;Rock|I Know What Boys Like",
 "Aeroplane|Whispers|2008|ID5R4Jcnb_Y|Aeroplane (musician)|S5103|Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|",
