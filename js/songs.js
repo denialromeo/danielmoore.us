@@ -9819,7 +9819,7 @@ const songs = [
 "The Andrews Sisters|I Wanna Be Loved|1950|-rjO0eGeWME|The Andrews Sisters|S5194|Traditional Pop;Vocal Group;Descriptor;Pop|I Wanna Be Loved",
 "Loudon Wainwright III|The Swimming Song|1973|ne6eS_SmccQ|Loudon Wainwright III|S11483|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|",
 "Jimmy Jones|Handy Man|1959|CKpbNvDg6zY|Jimmy Jones (singer)|S6916|Pop Soul;Rhythm & Blues;Rock & Roll;Pop;R&B;Rock;Soul|Handy Man (song)",
-"The Buoys|Timothy|1971|OqDu5LBT8_Y|The Buoys (American band)|S3255|Baroque Pop;Pop Rock;Pop;Rock|Timothy (song)",
+"The Buoys|Timothy|1971|XjSmFq3j-8M|The Buoys (American band)|S3255|Baroque Pop;Pop Rock;Pop;Rock|Timothy (song)",
 "Javiera Mena|Otra era|2014|NUCZG09ehLM|Javiera Mena|S16918|Nu-Disco;Synthpop;Dance;Disco;Electronic;Electronic Dance Music;House;Pop|",
 "The Tough Alliance|Silly Crimes|2006|PR-KSV2wlCk|The Tough Alliance|S8826|Dance-Pop;Indietronica;Dance;Electronic;Pop|Marcus Söderlund",
 "Leño|Maneras de vivir|1981|2ZK5zNkFgXc|Leño|S11412|Boogie Rock;Hard Rock;Rock urbano español;Blues Rock;Rock|",
