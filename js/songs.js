@@ -1387,7 +1387,7 @@ const songs = [
 "Slade|Cum On Feel the Noize|1973|LcVB5VA-jfg|Slade|S778|Glam Rock;Hard Rock;Rock|Cum On Feel the Noize",
 "America|A Horse with No Name|1972|na47wMFfQCo|America (band)|S3149|Folk Pop;Folk Rock;Contemporary Folk;Folk;Pop;Rock|A Horse with No Name",
 "Jackie Wilson|Reet Petite (The Finest Girl You Ever Want to Meet)|1957|tE46zm4yjhA|Jackie Wilson|S1240|Rhythm & Blues;Rock & Roll;R&B;Rock|Reet Petite",
-"Kraftwerk|Die Roboter/The Robots|1978|jtq4V7bqpt4|Kraftwerk|S2332|Synthpop;Electronic;Pop|",
+"Kraftwerk|Die Roboter/The Robots|1978|qeAwlDpvar0|Kraftwerk|S2332|Synthpop;Electronic;Pop|",
 "Ruth Brown|Mama, He Treats Your Daughter Mean|1953|2WKxJfmN_ac|Ruth Brown|S1336|Rhythm & Blues;R&B|(Mama) He Treats Your Daughter Mean",
 "Natalie Imbruglia|Torn|1997|VV1XWJN3nJo|Natalie Imbruglia|S24|Pop Rock;Pop;Rock|",
 "Talking Heads|This Must Be the Place (Naive Melody)|1983|HldHtBxNK6k|Talking Heads|S4878|New Wave;Rock|This Must Be the Place (Naive Melody)",
