@@ -1138,7 +1138,7 @@ const songs = [
 "Bronski Beat|Smalltown Boy|1984|88sARuFu-tc|Bronski Beat|S433|Synthpop;Electronic;Pop|Smalltown Boy",
 "Glenn Miller|Moonlight Serenade|1939|bMdb2TB7-YI|Glenn Miller|S2718|Big Band;Swing;Jazz|",
 "The Jam|The Eton Rifles|1979|C7kUDkK70qQ|The Jam|S580|Mod Revival;New Wave;Power Pop;Mod;Pop;Pop Rock;Rock|The Eton Rifles",
-"Flamin' Groovies|Shake Some Action|1976|PIcmk8WA10A|Flamin' Groovies|S680|Power Pop;Pop;Pop Rock;Rock|",
+"Flamin' Groovies|Shake Some Action|1976|7cxM51kPdeQ|Flamin' Groovies|S680|Power Pop;Pop;Pop Rock;Rock|",
 "Lily Allen|Smile|2006|0WxDrVUrSvI|Lily Allen|S3057|Pop;Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "The Trashmen|Surfin' Bird|1963|9Gc4QTqslN4|The Trashmen|S1651|Garage Rock;Surf Rock;Rock;Surf Music|Surfin' Bird",
 "Go-Go's|Our Lips Are Sealed|1981|r3kQlzOi27M|The Go-Go's|S537|New Wave;Pop Rock;Pop;Rock|Our Lips Are Sealed",
