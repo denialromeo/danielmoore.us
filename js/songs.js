@@ -9404,7 +9404,7 @@ const songs = [
 "Feeder|Buck Rogers|2001|GKMbjxOnymk|Feeder (band)|S6363|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Buck Rogers (song)",
 "Lucio Dalla|Caruso|1986|JqtSuL3H2xs|Lucio Dalla|S11494|Canzone d'autore;Contemporary Folk;Folk;Singer/Songwriter|Caruso (song)",
 "DJ Khaled|We Takin' Over|2007|s76FrMMz5Tk|DJ Khaled|S6103|Pop Rap;Hip Hop|",
-"Nasty Habits|Shadow Boxing|1996|z_VKMWs2eaI|https://www.discogs.com/artist/1640-Nasty-Habits|S12730|Techstep;Dance;Drum and Bass;Electronic;Electronic Dance Music|",
+"Nasty Habits|Shadow Boxing|1996|UJeU7MLE1cs|https://www.discogs.com/artist/1640-Nasty-Habits|S12730|Techstep;Dance;Drum and Bass;Electronic;Electronic Dance Music|",
 "Paula Cole|I Don't Want to Wait|1996|hJb5RvAs4BI|Paula Cole|S9315|Pop;Singer/Songwriter|I Don't Want to Wait",
 "Tocotronic|Drüben Auf Dem Hügel|1995|Z6IkRmEUTxw|Tocotronic|S15935|Hamburger Schule;Noise Pop;Alternative Rock;Indie Rock;Rock|",
 "B.B. King|Please Love Me|1953|q-fQd3uoPjQ|B.B. King|S5282|Electric Blues;Jump-Blues;Blues|",
