@@ -1371,7 +1371,7 @@ const songs = [
 "Norman Greenbaum|Spirit in the Sky|1969|vRFo72wuU6w|Norman Greenbaum|S1723|Christian Rock;Psychedelic Rock;Rock|Spirit in the Sky",
 "Jimmy Ruffin|What Becomes of the Brokenhearted|1966|cQywZYoGB1g|Jimmy Ruffin|S1442|Motown Sound;Pop;Pop Soul;R&B;Soul|",
 "Cheap Trick|I Want You to Want Me|1977|-qgpewMCVjs|Cheap Trick|S1828|Hard Rock;Power Pop;Pop;Pop Rock;Rock|I Want You to Want Me",
-"Jimi Hendrix|Manic Depression|1967|Ll7w7Q1uIAk|Jimi Hendrix|S3471|Acid Rock;Blues Rock;Psychedelic Rock;Rock|Manic Depression (song)",
+"Jimi Hendrix|Manic Depression|1967|9nnGtB-PSw4|Jimi Hendrix|S3471|Acid Rock;Blues Rock;Psychedelic Rock;Rock|Manic Depression (song)",
 "Peter Gabriel|In Your Eyes|1986|kU8OJAOMbPg|Peter Gabriel|S385|Art Pop;Pop Rock;Pop;Rock|In Your Eyes (Peter Gabriel song)",
 "The Offspring|Come Out and Play|1994|1jOk8dk-qaU|The Offspring|S3675|Grunge;Pop Punk;Skate Punk;Alternative Rock;Punk Rock;Rock|Come Out and Play (The Offspring song)",
 "Charles Trenet|La Mer|1946|PXQh9jTwwoA|Charles Trenet|S5760|Chanson;Regional Music|La Mer (song)",
