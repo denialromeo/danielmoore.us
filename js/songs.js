@@ -4352,7 +4352,7 @@ const songs = [
 "Harold Melvin & The Blue Notes|Don't Leave Me This Way|1975|MnIkcB8GObo|Harold Melvin & the Blue Notes|S6682|Disco;Philly Soul;Dance;R&B;Soul|Don't Leave Me This Way",
 "Ted Nugent|Cat Scratch Fever|1977|I47floRRAFs|Ted Nugent|S8699|Boogie Rock;Hard Rock;Blues Rock;Rock|Cat Scratch Fever (song)",
 "Santana|Evil Ways|1969|nPauXWjY4T8|Carlos Santana|S3794|Latin Rock;Hispanic Music;Latin American Music;Regional Music;Rock|Evil Ways",
-"Jerry Butler|He Will Break Your Heart|1960|cAohwPAFTLk|Jerry Butler|S1164|Rhythm & Blues;Soul;R&B|He Will Break Your Heart",
+"Jerry Butler|He Will Break Your Heart|1960|fbcgqyOQ0RE|Jerry Butler|S1164|Rhythm & Blues;Soul;R&B|He Will Break Your Heart",
 "Cesária Évora|Sodade|1992|qx4z9V2hydQ|Cesária Évora|S14221|Morna;African Music;Cape Verdean Music;Regional Music|",
 "Nick Cave|Dig!!! Lazarus, Dig!!!|2008|nuxdMQsAgJI|Nick Cave and the Bad Seeds|S4738|Alternative Rock;Rock|",
 "Kaiser Chiefs|Ruby|2007|qObzgUfCl28|Kaiser Chiefs|S4331|Indie Rock;Pop Rock;Alternative Rock;Pop;Rock|Ruby (Kaiser Chiefs song)",
