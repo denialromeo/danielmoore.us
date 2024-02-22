@@ -255,7 +255,7 @@ const songs = [
 "Ritchie Valens|La Bamba|1958|Jp6j5HJ-Cok|Ritchie Valens|S1204|Rock & Roll;Tex-Mex;Rock;Roots Rock|",
 "LCD Soundsystem|Dance Yrself Clean|2010|9ZNkPA_zUd4|LCD Soundsystem|S4916|Alternative Dance;Indietronica;Alternative Rock;Dance;Electronic;Rock|",
 "Frankie Goes to Hollywood|Relax|1983|7WZ33w3B8Hw|Frankie Goes to Hollywood|S462|Dance-Pop;Synthpop;Dance;Electronic;Pop|",
-"Kraftwerk|Das Modell/The Model|1978|OQIYEPe6DWY|Kraftwerk|S630|Synthpop;Electronic;Pop|Das Model",
+"Kraftwerk|Das Modell/The Model|1978|-s4zRw16tMA|Kraftwerk|S630|Synthpop;Electronic;Pop|Das Model",
 "Arcade Fire|Rebellion (Lies)|2004|MQvZ4N1RfS8|Arcade Fire|S3001|Chamber Pop;Indie Rock;Alternative Rock;Baroque Pop;Indie Pop;Pop;Rock|Rebellion (Lies)",
 "The Beach Boys|Don't Worry Baby|1964|AG6KU1F8RbI|The Beach Boys|S1660|Doo-Wop;Vocal Surf;Descriptor;Pop;Pop Rock;R&B;Rock;Surf Music;Vocal Group|Don't Worry Baby",
 "Pixies|Debaser|1989|PVyS9JwtFoQ|Pixies (band)|S2433|Indie Rock;Alternative Rock;Rock|Debaser",
