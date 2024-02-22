@@ -1336,7 +1336,7 @@ const songs = [
 "The Stone Roses|I Am the Resurrection|1989|2BfnXX7EvhM|The Stone Roses|S2060|Baggy / Madchester;Neo-Psychedelia;Alternative Rock;Psychedelic Rock;Rock|I Am the Resurrection",
 "Roxy Music|Do the Strand|1973|rmr-ANvGswg|Roxy Music|S3784|Art Rock;Glam Rock;Rock|Do the Strand",
 "The Rolling Stones|Happy|1972|fBcFjNUzFJ0|The Rolling Stones|S1320|Blues Rock;Rock|Happy (Rolling Stones song)",
-"The Slits|Typical Girls|1979|DCcZm75wzHc|The Slits|S2889|Art Punk;Post-Punk;Punk Rock;Rock|",
+"The Slits|Typical Girls|1979|W6HjEu-w7cw|The Slits|S2889|Art Punk;Post-Punk;Punk Rock;Rock|",
 "The Byrds|I'll Feel a Whole Lot Better|1965|to-RVV_3anw|The Byrds|S2272|Folk Rock;Rock|I'll Feel a Whole Lot Better",
 "The Doors|Break On Through (To the Other Side)|1967|YCohm_CilUY|The Doors|S1492|Blues Rock;Psychedelic Rock;Rock|Break On Through (To the Other Side)",
 "Fleetwood Mac|Rhiannon (Will You Ever Win)|1975|jQAK6sVovUk|Fleetwood Mac|S681|Pop Rock;Pop;Rock|Rhiannon (song)",
