@@ -2408,7 +2408,7 @@ const songs = [
 "Eurythmics|Here Comes the Rain Again|1983|TzFnYcIqj6I|Eurythmics|S6311|Synthpop;Electronic;Pop|Here Comes the Rain Again",
 "Hank Snow|I'm Movin' On|1950|wHDrphJ2Yco|Hank Snow|S1337|Traditional Country;American Folk Music;Country;Folk;Regional Music;Traditional Folk Music|",
 "Tom Waits|Jockey Full of Bourbon|1985|9vEBPYfy1GM|Tom Waits|S2620|Art Rock;Jazz-Rock;Rock|Jockey Full of Bourbon",
-"Bruce Springsteen|The Rising|2002|6i-fiRgbpr4|Bruce Springsteen|S4616|Heartland Rock;Rock|The Rising (Bruce Springsteen song)",
+"Bruce Springsteen|The Rising|2002|A9LpsP0goJ8|Bruce Springsteen|S4616|Heartland Rock;Rock|The Rising (Bruce Springsteen song)",
 "Pretenders|Kid|1979|a9K14_By3zM|The Pretenders|S1596|New Wave;Pop Rock;Pop;Rock|Kid (Pretenders song)",
 "Artie Shaw|Stardust|1940|MArA_IgSAI4|Artie Shaw|S5247|Big Band;Swing;Jazz|Stardust (1927 song)",
 "Interpol|NYC|2002|5GRNCNZ_TL4|Interpol (band)|S4612|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Say Hello to the Angels / NYC",
