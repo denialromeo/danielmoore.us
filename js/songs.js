@@ -9803,7 +9803,7 @@ const songs = [
 "Kraftwerk|Neonlicht/Neon Lights|1978|7Mz2UuLS6oM|Kraftwerk|S11348|Synthpop;Electronic;Pop|",
 "The Temptations|Beauty Is Only Skin Deep|1966|6PU1PEA8S6M|The Temptations|S3887|Motown Sound;Pop;Pop Soul;R&B;Soul|Beauty Is Only Skin Deep",
 "Barbara Acklin|Love Makes a Woman|1968|YDqvG9cK3es|Barbara Acklin|S5320|Chicago Soul;R&B;Soul|",
-"Clyde McPhatter|Lover Please|1962|cOT2dEqg2Ss|Clyde McPhatter|S5844|Rhythm & Blues;Soul;R&B|",
+"Clyde McPhatter|Lover Please|1962|S2kihVgTx2w|Clyde McPhatter|S5844|Rhythm & Blues;Soul;R&B|",
 "Bruce Springsteen|One Step Up|1987|MkFQHScyti0|Bruce Springsteen|S10315|Heartland Rock;Rock|One Step Up",
 "Violeta Parra|Gracias a la vida|1966|w67-hlaUSIs|Violeta Parra|S12910|Andean Folk Music;Neuva canción latinoameric;Singer/Songwriter;Folk;Hispanic Music;Latin American Folk Music;Latin American Music;Regional Music;Traditional Folk Music|Gracias a la Vida",
 "Killing Joke|Eighties|1984|x1U1Ue_5kq8|Killing Joke|S2355|Post-Punk;Rock|Eighties (song)",
