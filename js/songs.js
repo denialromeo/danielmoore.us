@@ -7719,7 +7719,7 @@ const songs = [
 "Japan|Quiet Life|1980|xhm-EqcPta0|Japan (band)|S1861|Art Pop;New Romantic;New Wave;Pop;Rock|",
 "David Bowie|Sue (Or in a Season of Crime)|2014|nFX1y62l9C4|David Bowie|S9612|Experimental Big Band;Experimental Rock;Avant-Garde Jazz;Big Band;Jazz;Rock|Sue (Or in a Season of Crime)",
 "Yo La Tengo|Sugarcube|1997|_1Dwa68U5os|Yo La Tengo|S15217|Indie Rock;Noise Pop;Alternative Rock;Rock|",
-"New Order|Thieves Like Us|1984|Fc1ldXDJicY|New Order (band)|S11744|New Wave;Synthpop;Electronic;Pop;Rock|",
+"New Order|Thieves Like Us|1984|uv9cO4Uf40A|New Order (band)|S11744|New Wave;Synthpop;Electronic;Pop;Rock|",
 "The Human League|(Keep Feeling) Fascination|1983|QqqBs6kkzHE|The Human League|S3485|New Wave;Synthpop;Electronic;Pop;Rock|(Keep Feeling) Fascination",
 "Arcade Fire|Creature Comfort|2017|xzwicesJQ7E|Arcade Fire|S16331|Alternative Dance;Indietronica;Alternative Rock;Dance;Electronic;Rock|Creature Comfort",
 "Ray Charles|Busted|1963|L2YOqZBSE6w|Ray Charles|S12033|Blues;Soul;R&B|Busted (Harlan Howard song)",

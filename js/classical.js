@@ -26,7 +26,7 @@ const classical = [
 "Giovanni Gabrieli|Sacrae symphoniae|1597-1615|OLAK5uy_kezqq4PrDf_1vfolmRJBXy3Ay_7g3WkCY|Giovanni Gabrieli|",
 "John Wilbye|Madrigals|1598-1609|UoTQyxL8XM4|John Wilbye|Madrigal",
 "Orlando Gibbons|Anthems|1600s|IUETZeGyMjo|Orlando Gibbons|Anthem",
-"Jan Pieterszoon Sweelinck|Organ Works|1600-1621|cwGlx12FTiY|Jan Pieterszoon Sweelinck|",
+"Jan Pieterszoon Sweelinck|Organ Works|1600-1621|RIIHDZs11dg|Jan Pieterszoon Sweelinck|",
 "John Dowland|Lachrimae or Seaven Teares|1604|OLAK5uy_mksGm4beWKfRlNHxD469hvzLD4wO4afa8|John Dowland|Lachrimae, or Seaven Teares",
 "Claudio Monteverdi|Orfeo|1607|jUep3sqe35o|Claudio Monteverdi|",
 "Girolamo Frescobaldi|Keyboard Works|1608-1637|rQb_IHfMWko|Girolamo Frescobaldi|",
