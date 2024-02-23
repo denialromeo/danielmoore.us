@@ -753,7 +753,7 @@ const songs = [
 "George Michael|Faith|1987|6Cs3Pvmmv0E|George Michael|S348|Pop|Faith (George Michael song)",
 "The Beach Boys|Surfin' U.S.A.|1963|5a4YupnT1sM?start=629|The Beach Boys|S1064|Surf Rock;Vocal Surf;Pop;Pop Rock;Rock;Surf Music|Surfin' U.S.A.",
 "Simon and Garfunkel|America|1968|Eo2ZsAOlvEM|Simon & Garfunkel|S3805|Folk Pop;Folk Rock;Contemporary Folk;Folk;Pop;Rock|America (Simon & Garfunkel song)",
-"The Beach Boys|Surf's Up|1971|tyOYQ8qfFng|The Beach Boys|S1729|Art Pop;Baroque Pop;Progressive Pop;Psychedelic Pop;Pop|Surf's Up (song)",
+"The Beach Boys|Surf's Up|1971|S22a1CITgj0|The Beach Boys|S1729|Art Pop;Baroque Pop;Progressive Pop;Psychedelic Pop;Pop|Surf's Up (song)",
 "Althea and Donna|Uptown Top Ranking|1977|OMrNDnU6PPk|Althea & Donna|S1558|Reggae;Caribbean Music;Jamaican Music;Regional Music|Uptown Top Ranking",
 "Gil Scott-Heron|The Revolution Will Not Be Televised|1971|QnJFhuOWgXg|Gil Scott-Heron|S4170|Funk;Jazz Poetry;Descriptor;Jazz;Poetry;R&B;Spoken Word|The Revolution Will Not Be Televised",
 "Michael Jackson|Thriller|1982|sOnqjkJTMaA?start=254|Michael Jackson|S1907|Dance-Pop;Dance;Pop|Thriller (song)",
