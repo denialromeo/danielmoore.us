@@ -7811,7 +7811,7 @@ const songs = [
 "Bill Fay|Be Not So Fearful|1970|mJfca3ImjKc|Bill Fay|S12768|Singer/Songwriter|",
 "Tensnake|Coma Cat|2010|4XKlD0D_0do|Tensnake|S4926|Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|Coma Cat",
 "Bo Diddley|Road Runner|1960|ijjPEmej-eg|Bo Diddley|S5531|Rhythm & Blues;Rock & Roll;R&B;Rock|Road Runner (Bo Diddley song)",
-"Dizzy Gillespie|Cubana Be / Cubana Bop|1949|4c0z9jZ3h2k|Dizzy Gillespie|S13442|Afro-Cuban Jazz;Hispanic Music;Jazz;Latin American Music;Latin Jazz;Regional Music|",
+"Dizzy Gillespie|Cubana Be / Cubana Bop|1949|dtCwaEK_TjA|Dizzy Gillespie|S13442|Afro-Cuban Jazz;Hispanic Music;Jazz;Latin American Music;Latin Jazz;Regional Music|",
 "Python Lee Jackson|In a Broken Dream|1970|1ZEHenH-KFM|Python Lee Jackson|S8039|Blues Rock;Rock|In a Broken Dream",
 "Grimes|Vanessa|2011|2-aWEYezEMk|Grimes (musician)|S6648|Synthpop;Electronic;Pop|",
 "Noname|Blaxploitation|2018|syi60tUIP48|Noname (rapper)|S16610|Conscious Hip Hop;Jazz Rap;Hip Hop|",
