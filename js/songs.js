@@ -5965,7 +5965,7 @@ const songs = [
 "Bob Dylan|Love Sick|1997|D_XPK9eU2BU|Bob Dylan|S10232|Blues Rock;Singer/Songwriter;Rock|Love Sick (Bob Dylan song)",
 "The Beatles|Yer Blues|1968|HEQQ-1rd4A0|The Beatles|S5379|Blues Rock;Rock|Yer Blues",
 "Arctic Monkeys|Crying Lightning|2009|fLsBJPlGIDU|Arctic Monkeys|S5229|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Crying Lightning",
-"Badly Drawn Boy|Silent Sigh|2002|NY-oQEy1KFU|Badly Drawn Boy|S2229|Indie Pop;Singer/Songwriter;Pop|",
+"Badly Drawn Boy|Silent Sigh|2002|a87kwCYMf3o|Badly Drawn Boy|S2229|Indie Pop;Singer/Songwriter;Pop|",
 "Chromatics|Cherry|2012|CjQ2jGUNSck|Chromatics (band)|S15361|Dream Pop;Synthpop;Synthwave;Alternative Rock;Electronic;Pop;Rock|",
 "Britney Spears|Till the World Ends|2011|qzU9OrZlKb8|Britney Spears|S4949|Dance-Pop;Electropop;Dance;Electronic;Pop|Till the World Ends",
 "Ice Cube|No Vaseline|1991|c9mMLF2nzkk|Ice Cube|S9244|Boom Bap;Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|No Vaseline",
