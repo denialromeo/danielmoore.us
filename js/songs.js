@@ -68,7 +68,7 @@ const songs = [
 "Radiohead|Paranoid Android|1997|fHiGbolFFGw|Radiohead|S7|Alternative Rock;Art Rock;Rock|Paranoid Android",
 "Led Zeppelin|Whole Lotta Love|1969|HQmmM_qwG4k|Led Zeppelin|S885|Blues Rock;Hard Rock;Rock|Whole Lotta Love",
 "Kendrick Lamar|Alright|2015|Z-48u_uWMHY|Kendrick Lamar|S9804|Conscious Hip Hop;West Coast Hip Hop;Hip Hop|Alright (Kendrick Lamar song)",
-"The Animals|House of the Rising Sun|1964|4-43lLKaqBQ|The Animals|S1025|British Rhythm & Blues;R&B;Rhythm & Blues;Rock|The House of the Rising Sun",
+"The Animals|House of the Rising Sun|1964|N4bFqW_eu2I|The Animals|S1025|British Rhythm & Blues;R&B;Rhythm & Blues;Rock|The House of the Rising Sun",
 "Lou Reed|Walk on the Wild Side|1972|yOoXjYppyMM?start=3129|Lou Reed|S781|Art Rock;Glam Rock;Jazz Pop;Pop;Rock|Walk on the Wild Side (Lou Reed song)",
 "Eagles|Hotel California|1976|09839DpTctU|Eagles (band)|S632|Country Rock;Pop Rock;Pop;Rock|",
 "Jay-Z|99 Problems|2003|31GjRnXfUjo|Jay-Z|S2443|East Coast Hip Hop;Rap Rock;Alternative Rock;Hip Hop;Rock|",
