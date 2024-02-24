@@ -8948,7 +8948,7 @@ const songs = [
 "2Pac|How Do U Want It|1996|jB4t4-4xHPA|Tupac Shakur|S5071|G-Funk;Pop Rap;West Coast Hip Hop;Hip Hop|How Do U Want It",
 "The Who|Happy Jack|1966|JY3hUdK56IM|The Who|S12587|Freakbeat;Mod;Beat Music;Pop;Pop Rock;Rock|Happy Jack (song)",
 "Pop Smoke|Welcome to the Party|2019|usu0XY4QNB0|Pop Smoke|S16847|East Coast Hip Hop;UK Drill;Drill;Gangsta Rap;Hardcore Hip Hop;Hip Hop;Trap|",
-"1910 Fruitgum Company|1, 2, 3, Red Light|1968|vEfQozMBSOY|1910 Fruitgum Company|S4109|Bubblegum;Pop|",
+"1910 Fruitgum Company|1, 2, 3, Red Light|1968|840hgKbdIeg|1910 Fruitgum Company|S4109|Bubblegum;Pop|",
 "Alanis Morissette|Head Over Feet|1995|4iuO49jbovg|Alanis Morissette|S14055|Pop Rock;Singer/Songwriter;Pop;Rock|Head over Feet",
 "Vaughn Monroe|There! I've Said It Again|1945|B5tGk5OTk94|Vaughn Monroe|S8946|Standards;Pop;Traditional Pop|There! I've Said It Again",
 "Marvin Gaye|Hitch Hike|1962|6-USBFIzNis|Marvin Gaye|S7454|Pop Soul;Rhythm & Blues;Pop;R&B;Soul|Hitch Hike (song)",
