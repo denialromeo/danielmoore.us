@@ -2854,7 +2854,7 @@ const songs = [
 "Norah Jones|Don't Know Why|2002|tO4dxvguQDk|Norah Jones|S2231|Adult Contemporary;Jazz Pop;Vocal Jazz;Jazz;Pop|Don't Know Why",
 "Led Zeppelin|The Rain Song|1973|TRt4hQs3nH0|Led Zeppelin|S9272|Art Rock;Folk Rock;Rock|The Rain Song",
 "Bob Marley and the Wailers|Trenchtown Rock|1971|hJRe7niAxdU|Bob Marley|S3602|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
-"Weezer|Island in the Sun|2001|HVHUjzZZGQ4|Weezer|S1473|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Island in the Sun (Weezer song)",
+"Weezer|Island in the Sun|2001|erG5rgNYSdk|Weezer|S1473|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Island in the Sun (Weezer song)",
 "Little Richard|Rip It Up|1956|XJW-XQtycmw|Little Richard|S1268|Rock & Roll;Rock|Rip It Up (Little Richard song)",
 "‘Til Tuesday|Voices Carry|1985|uejh-bHa4To|'Til Tuesday|S3125|New Wave;Pop Rock;Synthpop;Electronic;Pop;Rock|Voices Carry",
 "Commodores|Easy|1977|wn-PuZnhdNo|Commodores|S10452|Pop Soul;Pop;R&B;Soul|Easy (Commodores song)",
