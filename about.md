@@ -57,7 +57,6 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
     {%if site.url contains 'local'%}
     <p>I left the U.S. some years ago, and am presently based in Mumbai. (Though I travel abroad often.) I've kept the American citizenship, but for the most part, I see myself as an Indian.</p>
-    <p>I decided I didn't want children at age 14 in 2009, and the course of history since has convinced me I made the right decision. I presently run ___, a small but profitable restaurant in ___.</p>
     <p>Some questions for the reader to ponder &ndash;</p>
     <ul>
         <li>Your grandfather had two grandfathers. Can you name them? Are they forgotten?</li>
