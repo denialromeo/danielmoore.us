@@ -8716,7 +8716,7 @@ const songs = [
 "The Brothers Johnson|I'll Be Good to You|1976|x4FCs4p9oqA|The Brothers Johnson|S3240|Funk;R&B|I'll Be Good to You",
 "U2|Trash, Trampoline and the Party Girl|1982|lPTm3M6swwo|U2|S15958|Post-Punk;Rock|",
 "The Lumineers|Ho Hey|2012|zvCBSSwgtg4|The Lumineers|S7348|Folk Pop;Indie Folk;Indie Pop;Contemporary Folk;Folk;Pop|Ho Hey",
-"The Rivieras|California Sun|1964|Yy57Xdk9u0o|The Rivieras|S13342|Rock & Roll;Surf Rock;Rock;Surf Music|",
+"The Rivieras|California Sun|1964|HF1tyjvH9is|The Rivieras|S13342|Rock & Roll;Surf Rock;Rock;Surf Music|",
 "Fantastic Johnny C|Boogaloo Down Broadway|1967|2ng3p3Tlc0I|The Fantastic Johnny C|S6350|Soul;R&B|",
 "Alexander O'Neal|Criticize|1987|LVNPV5V6O24|Alexander O'Neal|S2370|Contemporary R&B;R&B|Criticize (song)",
 "Doves|Kingdom Of Rust|2009|dFM0pUn4dcA|Doves (band)|S9208|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
