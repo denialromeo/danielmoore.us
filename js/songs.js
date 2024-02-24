@@ -5321,7 +5321,7 @@ const songs = [
 "LaVern Baker|Soul on Fire|1953|sE77dCYO2tM|LaVern Baker|S1346|Rhythm & Blues;R&B|",
 "Lee Dorsey|Ya Ya|1961|C1YusSmtBU0|Lee Dorsey|S7214|New Orleans R&B;Rhythm & Blues;R&B|Ya Ya",
 "Shaggy|Oh Carolina|1993|BtLqmWt2h2g|Shaggy (musician)|S2067|Dancehall;Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Oh Carolina",
-"Charlie Parker|Lover Man|1946|plHYNe5eV2I|Charlie Parker|S5766|Bebop;Jazz|",
+"Charlie Parker|Lover Man|1946|HMaykUgR4_4|Charlie Parker|S5766|Bebop;Jazz|",
 "Public Image Ltd.|Poptones|1979|IQtO6R4qkg0|Public Image Ltd|S8031|Experimental Rock;Post-Punk;Rock|",
 "Les Rita Mitsouko|Andy|1986|Ae-tP-rFJl0|Les Rita Mitsouko|S7250|French Pop;Pop|Andy (song)",
 "Mark Dinning|Teen Angel|1959|22oY2CuNCO4|Mark Dinning|S1169|Country Pop;Teen Pop;Country;Pop|Teen Angel (song)",
