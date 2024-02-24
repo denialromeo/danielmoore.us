@@ -1702,7 +1702,7 @@ const songs = [
 "The New Pornographers|Letter from an Occupant|2000|XBAUQaj6EJo|The New Pornographers|S2636|Indie Pop;Indie Rock;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "The Rolling Stones|Can't You Hear Me Knocking|1971|3vtILjo26ew|The Rolling Stones|S8221|Blues Rock;Rock|",
 "George Michael|Freedom '90|1990|diYAc7gB-0A|George Michael|S3622|Baggy / Madchester;Pop;Alternative Rock;Rock|Freedom! '90",
-"Traffic|Dear Mr. Fantasy|1967|vxVlN-LzIks|Traffic (band)|S3906|Psychedelic Rock;Rock|Dear Mr. Fantasy",
+"Traffic|Dear Mr. Fantasy|1967|epyHwMCw4hg|Traffic (band)|S3906|Psychedelic Rock;Rock|Dear Mr. Fantasy",
 "The Byrds|So You Want to Be a Rock 'n' Roll Star|1967|XMoop0rn780|The Byrds|S957|Folk Rock;Psychedelic Pop;Pop;Rock|So You Want to Be a Rock 'n' Roll Star",
 "Basement Jaxx|Red Alert|1999|SJyhZ-3Z8A8|Basement Jaxx|S1354|Funky House;Dance;Electronic;Electronic Dance Music;House|Red Alert (song)",
 "Kanye West|Stronger|2007|PsO6ZnUZI0g|Kanye West|S4278|Pop Rap;Hip Hop|Stronger (Kanye West song)",
