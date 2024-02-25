@@ -889,7 +889,7 @@ const songs = [
 "Coldplay|The Scientist|2002|RB-RcX5DS5A|Coldplay|S2239|Piano Rock;Pop;Pop Rock;Rock|The Scientist (song)",
 "Fatboy Slim|Praise You|1998|ruAi4VBoBSM|Fatboy Slim|S1355|Big Beat;Breakbeat;Dance;Electronic;Electronic Dance Music|Praise You",
 "Neneh Cherry|Buffalo Stance|1988|JWsRz3TJDEY|Neneh Cherry|S307|Dance-Pop;Pop Rap;Dance;Hip Hop;Pop|Buffalo Stance",
-"Loretta Lynn|Coal Miner's Daughter|1970|f9eHp7JJgq8|Loretta Lynn|S869|Nashville Sound;Country;Country Pop;Pop|Coal Miner's Daughter (song)",
+"Loretta Lynn|Coal Miner's Daughter|1970|cnJykoFrSHI|Loretta Lynn|S869|Nashville Sound;Country;Country Pop;Pop|Coal Miner's Daughter (song)",
 "Marvin Gaye|Ain't No Mountain High Enough|1967|IC5PL0XImjw|Tammi Terrell|S951|Motown Sound;Pop;Pop Soul;R&B;Soul|Ain't No Mountain High Enough",
 "Louis Jordan|Caldonia|1945|PR6pHtiNT_k|Louis Jordan|S2713|Jump-Blues;Blues|Caldonia",
 "The Velvet Underground|Sunday Morning|1966|Xhbyj8pqUao|The Velvet Underground|S3946|Art Pop;Pop|Sunday Morning (The Velvet Underground song)",
