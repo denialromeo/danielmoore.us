@@ -651,7 +651,7 @@ const songs = [
 "Janis Joplin|Piece of My Heart|1968|9hcxbIln3sc|Big Brother and the Holding Company|S919|Acid Rock;Blues Rock;Psychedelic Rock;Rock|Piece of My Heart",
 "Junior Murvin|Police and Thieves|1976|XlP3J3J3Upw|Junior Murvin|S678|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Police and Thieves",
 "Drake|Hold On, We're Going Home|2013|GxgqpCdOKak|Drake (musician)|S9439|Alternative R&B;Contemporary R&B;R&B|Hold On, We're Going Home",
-"Paul McCartney|Maybe I'm Amazed|1970|DNh5Ca1dIXM|Paul McCartney|S651|Pop Rock;Singer/Songwriter;Pop;Rock|Maybe I'm Amazed",
+"Paul McCartney|Maybe I'm Amazed|1970|cdDPR8GzXy8|Paul McCartney|S651|Pop Rock;Singer/Songwriter;Pop;Rock|Maybe I'm Amazed",
 "New Order|True Faith|1987|mfI1S0PKJR8|New Order (band)|S336|Alternative Dance;Synthpop;Alternative Rock;Dance;Electronic;Pop;Rock|True Faith (song)",
 "Vampire Weekend|A-Punk|2007|_XC2mqcMMGQ|Vampire Weekend|S4760|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|A-Punk",
 "Grandmaster Flash and the Furious Five|White Lines (Don't Don't Do It)|1983|7bCdrDhUjPo|Melle Mel|S460|Conscious Hip Hop;Disco Rap;East Coast Hip Hop;Hip Hop|",
