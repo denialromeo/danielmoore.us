@@ -118,7 +118,7 @@ const songs = [
 "Amy Winehouse|Rehab|2006|KUmZp8pR1uc|Amy Winehouse|S4050|Neo-Soul;Pop Soul;Pop;R&B;Soul|Rehab (Amy Winehouse song)",
 "The Sugarhill Gang|Rapper's Delight|1979|rKTUAESacQM|The Sugarhill Gang|S578|Disco Rap;East Coast Hip Hop;Hip Hop|",
 "Simon and Garfunkel|The Sound of Silence|1965|4fWyzwo1xg0|Simon & Garfunkel|S1426|Folk Pop;Folk Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock|The Sound of Silence",
-"Creedence Clearwater Revival|Fortunate Son|1969|ec0XKhAHR5I|Creedence Clearwater Revival|S875|Swamp Rock;Rock;Roots Rock|",
+"Creedence Clearwater Revival|Fortunate Son|1969|9RUGJAWIslE|Creedence Clearwater Revival|S875|Swamp Rock;Rock;Roots Rock|",
 "James Brown|Papa's Got a Brand New Bag|1965|QE5D2hJhacU|James Brown|S1000|Funk;Soul;R&B|Papa's Got a Brand New Bag",
 "Simon and Garfunkel|Bridge Over Troubled Water|1970|4G-YQA_bsOU|Simon & Garfunkel|S843|Pop;Singer/Songwriter|Bridge over Troubled Water (song)",
 "Bob Marley and the Wailers|No Woman No Cry|1974|jGqrvn3q1oo?start=25|Bob Marley|S692|Reggae;Caribbean Music;Jamaican Music;Regional Music|No Woman, No Cry",
