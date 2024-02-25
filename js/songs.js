@@ -278,7 +278,7 @@ const songs = [
 "Pink Floyd|See Emily Play|1967|5R8EpAv4miA|Pink Floyd|S948|Psychedelic Pop;Psychedelic Rock;Pop;Rock|See Emily Play",
 "Grizzly Bear|Two Weeks|2009|tjecYugTbIQ|Grizzly Bear (band)|S4803|Indie Pop;Pop|Two Weeks (Grizzly Bear song)",
 "Blur|Girls and Boys|1994|WDswiT87oo8|Blur (band)|S92|Alternative Dance;Britpop;Alternative Rock;Dance;Pop;Pop Rock;Rock|Girls & Boys (Blur song)",
-"Dusty Springfield|Son-of-a Preacher Man|1968|b4pYANUAJAI|Dusty Springfield|S916|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|Son of a Preacher Man",
+"Dusty Springfield|Son of a Preacher Man|1968|b4pYANUAJAI|Dusty Springfield|S916|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|Son of a Preacher Man",
 "The Breeders|Cannonball|1993|fxvkI9MTQw4|The Breeders|S121|Indie Rock;Alternative Rock;Rock|Cannonball (The Breeders song)",
 "OutKast|B. O. B. (Bombs Over Baghdad)|2000|lVehcuJXe6I|Outkast|S1390|Southern Hip Hop;Hip Hop|B.O.B (song)",
 "Frank Ocean|Thinkin Bout You|2012|6JHu3b-pbh8|Frank Ocean|S5028|Alternative R&B;Contemporary R&B;R&B|Thinkin Bout You (Frank Ocean song)",
