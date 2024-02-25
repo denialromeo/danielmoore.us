@@ -5925,7 +5925,7 @@ const songs = [
 "Boz Scaggs|Lido Shuffle|1977|nZrRS261Edw|Boz Scaggs|S5605|Blue Eyed Soul;Pop Rock;Pop;Rock|Lido Shuffle",
 "Jelly Roll Morton|Doctor Jazz-Stomp|1927|S5fC_MpjBWw|Jelly Roll Morton|S13204|Big Band;Jazz|",
 "War|The World Is a Ghetto|1972|mJ4USEMH_PQ|War (American band)|S3938|Funk;Soul;R&B|The World Is a Ghetto (War song)",
-"The Persuaders|Thin Line Between Love and Hate|1971|Pdov7l1V8xk|The Persuaders|S3695|Soul;R&B|Thin Line Between Love and Hate",
+"The Persuaders|Thin Line Between Love and Hate|1971|f2oc1ynfIwk|The Persuaders|S3695|Soul;R&B|Thin Line Between Love and Hate",
 "De La Soul|Plug Tunin'|1988|pLwZRDIPIgI|De La Soul|S5987|Boom Bap;East Coast Hip Hop;Hip Hop|Plug Tunin'",
 "Glenn Miller|A String of Pearls|1941|jg2vtWezWbw|Glenn Miller|S6582|Big Band;Vocal Jazz;Jazz|A String of Pearls (song)",
 "Joanna Newsom|Baby Birch|2010|8-Mj3wKU-wg|Joanna Newsom|S6929|Chamber Folk;Progressive Folk;Singer/Songwriter;Contemporary Folk;Folk|Have One on Me",
