@@ -1199,7 +1199,7 @@ const songs = [
 "Wire|Outdoor Miner|1978|uO0nmjkMpw0|Wire (band)|S2596|Art Punk;Post-Punk;Punk Rock;Rock|Outdoor Miner",
 "INXS|Need You Tonight|1987|F93ywiGMDnQ|INXS|S1582|New Wave;Pop Rock;Pop;Rock|Need You Tonight",
 "Funkadelic/Parliament|Tear the Roof Off the Sucker (Give Up the Funk)|1975|gBWH3OWfT2Y|Parliament (band)|S666|P-Funk;Funk;R&B|Give Up the Funk (Tear the Roof off the Sucker)",
-"Taylor Swift|All Too Well|2012|_DMGOiA9Yj0|Taylor Swift|S16944|Pop Rock;Singer/Songwriter;Pop;Rock|All Too Well",
+"Taylor Swift|All Too Well|2012|F8Jxo15Vfic|Taylor Swift|S16944|Pop Rock;Singer/Songwriter;Pop;Rock|All Too Well",
 "The Notorious B.I.G.|Hypnotize|1997|glEiPXAYE-U|The Notorious B.I.G.|S29|East Coast Hip Hop;Gangsta Rap;Pop Rap;Hardcore Hip Hop;Hip Hop|",
 "Autre Ne Veut|Play by Play|2013|j9uE46sMugw|Autre Ne Veut|S9409|Alternative R&B;Art Pop;Synthpop;Contemporary R&B;Electronic;Pop;R&B|",
 "Coolio|Gangsta's Paradise|1995|fPO76Jlnz6c|Coolio|S63|Conscious Hip Hop;Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Gangsta's Paradise",
