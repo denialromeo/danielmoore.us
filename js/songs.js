@@ -10108,7 +10108,7 @@ const songs = [
 "Liam Lynch|United States of Whatever|2002|Xz7_3n7xyDg|Liam Lynch (musician)|S2262|Comedy Rock;Garage Punk;Comedy;Descriptor;Garage Rock;Musical Comedy;Punk Rock;Rock|United States of Whatever",
 "Big Sean|Clique|2012|1x2m27jellI|Big Sean|S7049|Pop Rap;Hip Hop|Clique (song)",
 "Destroyer|Tinseltown Swimming in Blood|2017|h-N6jfO5NOQ|Destroyer (band)|S16361|Art Pop;Synthpop;Electronic;Pop|",
-"Phoenix|Ti Amo|2017|OcSoidCGEwE|Phoenix (band)|S16466|Dance-Pop;Dance;Pop|",
+"Phoenix|Ti Amo|2017|ZbYljhmcmII|Phoenix (band)|S16466|Dance-Pop;Dance;Pop|",
 "Beck|Up All Night|2017|Tj08Ni3tklw|Beck|S16336|Alternative Dance;Pop Rap;Alternative Rock;Dance;Hip Hop;Rock|Up All Night (Beck song)",
 "The National|Don't Swallow the Cap|2013|qaMB9rEEcSI|The National (band)|S9532|Art Rock;Indie Rock;Alternative Rock;Rock|Don't Swallow the Cap",
 "Thundercat|Heartbreaks + Setbacks|2013|9hnfBcE7A7s|Thundercat (musician)|S9536|Funktronica;Neo-Soul;Nu Jazz;Dance;Electronic;Electronic Dance Music;R&B;Soul|",
