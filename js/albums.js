@@ -363,7 +363,7 @@ const albums = [
 "B.B. King|Live at the Regal|1965|OLAK5uy_mLTQe_lQKmUn2mTwPhGLgenKn0w4rOtmI|A50|Live at the Regal|B.B. King|Electric Blues;Blues",
 "Mercury Rev|Deserter's Songs|1998|PLMxy067kbpQh2xnU7drN9mn8pXPUY2sAH|A1022|Deserter's Songs|Mercury Rev|Chamber Pop;Neo-Psychedelia;Baroque Pop;Indie Pop;Pop;Psychedelic Rock;Rock",
 "Johnny Cash|American Recordings|1994|OLAK5uy_m37d9ZOzWWO3nwUHnBOxdtr1BZgLMjpRo|A918|American Recordings (album)|Johnny Cash|Americana;Country",
-"Miles Davis|Birth of the Cool|1954|PLVG1KRr_9ktFPDolNocVHs3YDmI6XngEb|A1788|Birth of the Cool|Miles Davis|Cool Jazz;Jazz",
+"Miles Davis|Birth of the Cool|1954|PL0srAWbMDn1T3PPp5dYX0rDqXBcz2ryWw|A1788|Birth of the Cool|Miles Davis|Cool Jazz;Jazz",
 "The Kinks|Something Else by the Kinks|1967|OLAK5uy_kz4CAu_YsTraMwDg6lyuWQf3s_eFgK9c4|A104|Something Else by the Kinks|The Kinks|Baroque Pop;Pop Rock;Pop;Rock",
 "OutKast|Aquemini|1998|OLAK5uy_ldV775EypimsbbnMj8XwxnPH8m2MhMLPo|A1044|Aquemini|Outkast|Conscious Hip Hop;Hip Hop",
 "TV on the Radio|Return to Cookie Mountain|2006|OLAK5uy_m4aEIcDvBRiiMfeChq19BB-A6lote518Y|A2142|Return to Cookie Mountain|TV on the Radio|Art Rock;Indie Rock;Alternative Rock;Rock",
