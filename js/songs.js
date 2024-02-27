@@ -9897,7 +9897,7 @@ const songs = [
 "Jay-Z feat. Mary J. Blige|Can't Knock the Hustle|1996|8P12bMQMXLA|Jay-Z|S11161|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "Veneno|Los Delincuentes|1977|vZOlgeX4tqU|Veneno|S13111|Andalusian Rock;Rumba Flamenca;European Folk Music;Flamenco;Folk;Folk Rock;Hispanic Music;Progressive Rock;Regional Music;Rock;Spanish Folk Music;Spanish Music;Traditional Folk Music|",
 "Peaches|Lovertits|2000|wZz5nBc2_Bw|Peaches (musician)|S2196|Electroclash;Dance;Electronic;Electronic Dance Music|Lovertits",
-"Red Hot Chili Peppers|Higher Ground|1989|fw-XK_X8Rm0|Red Hot Chili Peppers|S8120|Alternative Rock;Funk Metal;Funk Rock;Alternative Metal;Metal;Rock|",
+"Red Hot Chili Peppers|Higher Ground|1989|eAi64gH07jM|Red Hot Chili Peppers|S8120|Alternative Rock;Funk Metal;Funk Rock;Alternative Metal;Metal;Rock|",
 "Friendly Fires|Silhouettes|2019|LubMCGIvT-Y|Friendly Fires|S16784|Dance-Pop;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House;Pop|",
 "Andrés Calamaro|Estadio Azteca|2004|B8uJbE60hhg|Andrés Calamaro|S9991|Acoustic Rock;Flamenco Jazz;Singer/Songwriter;European Folk Music;Flamenco;Flamenco Nuevo;Hispanic Music;Jazz;Rock;Spanish Folk Music;Spanish Music;Traditional Folk Music|https://es.wikipedia.org/wiki/Estadio_Azteca_(canci%C3%B3n)",
 "I'm from Barcelona|We're from Barcelona|2006|3Wi1d0FNgdQ|I'm from Barcelona|S4035|Indie Pop;Pop|",
