@@ -5057,7 +5057,7 @@ const songs = [
 "Gin Blossoms|Hey Jealousy|1992|ah5gAkna3jI|Gin Blossoms|S6563|Jangle Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|Hey Jealousy",
 "David Bowie|The Stars (Are Out Tonight)|2013|YAEznabMnV8|David Bowie|S9430|Alternative Rock;Art Rock;Rock|The Stars (Are Out Tonight)",
 "Beastie Boys|Ch-Check It Out|2004|6iuGp9gUeNk|Beastie Boys|S2470|East Coast Hip Hop;Hip Hop|Ch-Check It Out",
-"Bee Gees|I've Got to Get a Message to You|1968|Pfs_NpfY8SU|Bee Gees|S5395|Pop Rock;Pop;Rock|I've Gotta Get a Message to You",
+"Bee Gees|I've Gotta Get a Message to You|1968|Pfs_NpfY8SU|Bee Gees|S5395|Pop Rock;Pop;Rock|I've Gotta Get a Message to You",
 "The Cure|Fascination Street|1989|iRwPZjV1PqY|The Cure|S5929|Alternative Rock;Gothic Rock;Post-Punk;Rock|",
 "Wilbert Harrison|Let's Work Together, Part 1|1969|kYWiUErA9Kw|Wilbert Harrison|S9007|Rhythm & Blues;R&B|Let's Stick Together (song)",
 "Kiss|Black Diamond|1974|yy4opYZW1cQ|Kiss (band)|S3544|Hard Rock;Rock|Black Diamond (Kiss song)",
