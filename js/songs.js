@@ -1130,7 +1130,7 @@ const songs = [
 "Ornette Coleman|Lonely Woman|1959|OIIyCOAByDU|Ornette Coleman|S2798|Avant-Garde Jazz;Jazz|",
 "Justin Bieber|Sorry|2015|fRh_vgS2dFE|Justin Bieber|S9797|Contemporary R&B;Dance-Pop;Tropical House;Dance;Electronic;Electronic Dance Music;House;Pop;R&B|Sorry (Justin Bieber song)",
 "Black Flag|Rise Above|1981|Fsbvo5GVK10|Black Flag (band)|S2608|Hardcore Punk;Punk Rock;Rock|",
-"Bruce Springsteen|I'm on Fire|1984|lrpXArn3hII|Bruce Springsteen|S3845|Heartland Rock;Pop Rock;Pop;Rock|I'm on Fire",
+"Bruce Springsteen|I'm on Fire|1984|lrpXArn3hII?start=68|Bruce Springsteen|S3845|Heartland Rock;Pop Rock;Pop;Rock|I'm on Fire",
 "Amy Winehouse|Back to Black|2006|TJAfLE39ZZ8|Amy Winehouse|S4661|Pop Soul;Pop;R&B;Soul|Back to Black (song)",
 "Jeff Buckley|Grace|1994|A3adFWKE9JE|Jeff Buckley|S4220|Alternative Rock;Singer/Songwriter;Rock|Grace (Jeff Buckley song)",
 "Manu Chao|Clandestino|1998|rSEUH4KRfN8|Manu Chao|S7413|Latin Alternative;Hispanic Music;Latin American Music;Regional Music|Clandestino (Manu Chao song)",
