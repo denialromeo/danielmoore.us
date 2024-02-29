@@ -4448,7 +4448,7 @@ const songs = [
 "Frank Ocean|Bad Religion|2012|JMpypbtrcCg|Frank Ocean|S5029|Alternative R&B;Contemporary R&B;R&B|Channel Orange",
 "Michelle Shocked|Anchorage|1988|aBWFhZVhYbM|Michelle Shocked|S330|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Anchorage (song)",
 "Cat Stevens|Peace Train|1971|XOk4HK72RCA|Cat Stevens|S5739|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Peace Train",
-"The Clash|Career Opportunities|1977|jZOrkPIZ1JU|The Clash|S5823|Punk Rock;Rock|Career Opportunities (song)",
+"The Clash|Career Opportunities|1977|MsE5NAAU39k|The Clash|S5823|Punk Rock;Rock|Career Opportunities (song)",
 "Sampha|Blood on Me|2016|_oM1DFL43Lk|Sampha|S16179|Alternative R&B;UK Bass;Contemporary R&B;Dance;Electronic;Electronic Dance Music;R&B;UK Garage|Blood on Me",
 "Nirvana|Scentless Apprentice|1993|1ppZcWfmKCc|Kurt Cobain|S4585|Grunge;Noise Rock;Post-Hardcore;Alternative Rock;Punk Rock;Rock|Scentless Apprentice",
 "The Emotions|Best of My Love|1977|Mm8h1-E1KuE|The Emotions|S655|Disco;Dance|Best of My Love (The Emotions song)",
