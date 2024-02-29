@@ -5584,7 +5584,7 @@ const songs = [
 "King Crimson|Starless|1974|OfR6_V91fG8|King Crimson|S7107|Art Rock;Progressive Rock;Rock|",
 "Iggy Azalea|Fancy|2014|O-zpOMYRi0w?start=3|Iggy Azalea|S9605|Pop Rap;Hip Hop|Fancy (Iggy Azalea song)",
 "50 Cent|I Get Money|2007|GO22Z0T3qPE|50 Cent|S4306|East Coast Hip Hop;Hip Hop|I Get Money",
-"Imagination|Just an Illusion|1982|uY4cVhXxW64|Imagination (band)|S3225|Boogie;Contemporary R&B;Synth Funk;Dance;Disco;Funk;R&B|Just an Illusion",
+"Imagination|Just an Illusion|1982|wFaCuHa10oE|Imagination (band)|S3225|Boogie;Contemporary R&B;Synth Funk;Dance;Disco;Funk;R&B|Just an Illusion",
 "Michael Kiwanuka|You Ain't the Problem|2019|ivvs_qL6t_c|Michael Kiwanuka|S16834|Psychedelic Soul;R&B;Soul|",
 "Nancy Sinatra|You Only Live Twice|1967|RTiDKcFGpCQ|Nancy Sinatra|S14792|Baroque Pop;Film Soundtrack;Descriptor;Pop;Soundtracks|You Only Live Twice (song)",
 "The Stylistics|You Make Me Feel Brand New|1973|dJm51jsRoo0|The Stylistics|S2868|Philly Soul;Pop Soul;Pop;R&B;Soul|You Make Me Feel Brand New",
