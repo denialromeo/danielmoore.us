@@ -111,7 +111,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*How to Cook Everything: The Basics*](https://www.goodreads.com/notes/18897533-how-to-cook-everything/71655209-daniel-moore?ref=abp) by [Mark Bittman](https://markbittman.com/books) (Includes the steps most authors skip.)
 * [*How to Eat*](https://www.goodreads.com/notes/48746181-how-to-eat/71655209-daniel-moore) by [Mark Bittman](https://markbittman.com/books) (Healthy living is a choice you make every day.)
 * [*The Men's Health Big Book of Exercises*](https://www.amazon.com/gp/product/1623368413) by [Adam Campbell](https://www.linkedin.com/in/adamcampbellprofile/) (Endless workout variations.)
-* [*Set Your Voice Free*](https://www.goodreads.com/notes/33613817-set-your-voice-free/71655209-daniel-moore) by [Roger Love](https://en.wikipedia.org/wiki/Roger_Love) (How well you speak affects every interaction.)
 
 (For computer programming books, check out [this list](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-subjects.html). Supplement with [ChatGPT](https://chat.openai.com/?model=gpt-4).)
 
