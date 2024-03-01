@@ -3029,7 +3029,7 @@ const songs = [
 "Janet Jackson|When I Think of You|1986|EaleKN9GQ54|Janet Jackson|S386|Contemporary R&B;Dance-Pop;Synth Funk;Dance;Funk;Pop;R&B|When I Think of You",
 "Madonna|Frozen|1998|XS088Opj9o0|Madonna (entertainer)|S286|Art Pop;Trip Hop;Downtempo;Electronic;Pop|Frozen (Madonna song)",
 "Metallica|For Whom the Bell Tolls|1984|KO3l6qNA2Q4|Metallica|S11603|Heavy Metal;Thrash Metal;Metal;Rock|For Whom the Bell Tolls (Metallica song)",
-"Barbra Streisand|The Way We Were|1973|uBPQT2Ia8fU|Barbra Streisand|S4421|Adult Contemporary;Film Soundtrack;Descriptor;Pop;Soundtracks|",
+"Barbra Streisand|The Way We Were|1973|ifWOSnoCS0M|Barbra Streisand|S4421|Adult Contemporary;Film Soundtrack;Descriptor;Pop;Soundtracks|",
 "The National|Mr. November|2005|0PY4VBirn08|The National (band)|S4694|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|",
 "The Weeknd|House of Balloons / Glass Table Girls|2011|8ex38L8xtNI|The Weeknd|S4990|Alternative R&B;Contemporary R&B;R&B|House of Balloons / Glass Table Girls",
 "The Hues Corporation|Rock the Boat|1974|iKr9wZpjBqE|The Hues Corporation|S3484|Disco;Dance|Rock the Boat (The Hues Corporation song)",
