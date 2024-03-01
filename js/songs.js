@@ -207,7 +207,7 @@ const songs = [
 "Fats Domino|Blueberry Hill|1956|t6H_sxI6jG8|Fats Domino|S1270|New Orleans R&B;R&B|Blueberry Hill",
 "Afrika Bambaataa & The Soulsonic Force|Planet Rock|1982|_rlUQsC8ECk|Afrika Bambaataa|S485|East Coast Hip Hop;Electro;Dance;Electronic;Electronic Dance Music;Hip Hop|",
 "Patsy Cline|Crazy|1961|l6R2eqiMXsY|Patsy Cline|S1153|Nashville Sound;Country;Country Pop;Pop|Crazy (Willie Nelson song)",
-"Bo Diddley|Bo Diddley|1955|WJLy-Fnedy8|Bo Diddley|S1299|Rhythm & Blues;Rock & Roll;R&B;Rock|Bo Diddley (Bo Diddley song)",
+"Bo Diddley|Bo Diddley|1955|dLcYuuljrD4|Bo Diddley|S1299|Rhythm & Blues;Rock & Roll;R&B;Rock|Bo Diddley (Bo Diddley song)",
 "Bob Dylan|Subterranean Homesick Blues|1965|MGxjIBEZvx0|Bob Dylan|S1008|Folk Rock;Singer/Songwriter;Rock|Subterranean Homesick Blues",
 "The Killers|Mr. Brightside|2004|gGdGFtwCNBE|The Killers|S2456|Pop Rock;Post-Punk Revival;Alternative Rock;Indie Rock;Pop;Post-Punk;Rock|",
 "The Impressions|People Get Ready|1965|l04yM7-BWbg|The Impressions|S1003|Chicago Soul;R&B;Soul|",
