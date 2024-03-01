@@ -5272,7 +5272,7 @@ const songs = [
 "Madonna|Who's That Girl|1987|r0qDBYiOBrc|Madonna (entertainer)|S3588|Dance-Pop;Film Soundtrack;Synthpop;Dance;Descriptor;Electronic;Pop;Soundtracks|Who's That Girl (Madonna song)",
 "Waylon Jennings|Are You Sure Hank Done It This Way|1975|TNpLSaCirj8|Waylon Jennings|S12843|Outlaw Country;Country;Progressive Country|Are You Sure Hank Done It This Way",
 "Tom Jones|What's New Pussycat?|1965|YG1c3Oasifc|Tom Jones (singer)|S8784|Film Soundtrack;Pop;Descriptor;Soundtracks|What's New Pussycat%3F (song)",
-"The Zombies|Care of Cell 44|1967|afrdo2qneoI|The Zombies|S9113|Baroque Pop;Psychedelic Pop;Sunshine Pop;Pop|",
+"The Zombies|Care of Cell 44|1967|a3x1or_KHl8|The Zombies|S9113|Baroque Pop;Psychedelic Pop;Sunshine Pop;Pop|",
 "Foxygen|San Francisco|2013|KtdWGGpvY1s|Foxygen|S9453|Psychedelic Pop;Pop|",
 "Lee Dorsey|Working in the Coal Mine|1966|H7ND17Zf68s|Lee Dorsey|S3352|New Orleans R&B;Soul;R&B|Working in the Coal Mine",
 "Unknown Mortal Orchestra|Can't Keep Checking My Phone|2015|OpD_74Vc3mA|Unknown Mortal Orchestra|S9865|Alternative Dance;Neo-Psychedelia;Psychedelic Pop;Alternative Rock;Dance;Pop;Psychedelic Rock;Rock|",
