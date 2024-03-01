@@ -310,7 +310,7 @@ const classical = [
 "Hector Berlioz|Le carnaval romain|1844|j_3YoeLz7Rc?start=3|Hector Berlioz|https://en.wikipedia.org/wiki/Overtures_by_Hector_Berlioz#Le_carnaval_romain",
 "Frederic Chopin|Piano Sonata No. 3|1844|s9Ofz4TjfhM|Frédéric Chopin|Piano Sonata No. 3 (Chopin)",
 "Robert Schumann|Piano Concerto|1845|3jbHbDena_U?start=27|Robert Schumann|Piano Concerto (Schumann)",
-"Richard Wagner|Tannhäuser|1845-1861|SRmCEGHt-Qk|Richard Wagner|Tannhäuser (opera)",
+"Richard Wagner|Tannhäuser|1845-1861|XdqRLSWXDlM?start=3|Richard Wagner|Tannhäuser (opera)",
 "Felix Mendelssohn|Elijah|1846|pduEw6cn5N0?start=114|Felix Mendelssohn|Elijah (oratorio)",
 "Robert Schumann|Symphony No. 2|1846|z1PQrwsZdPc|Robert Schumann|Symphony No. 2 (Schumann)",
 "Robert Schumann|Piano Trios|1847-1851|dzF3C-GZkSo?start=98s|Robert Schumann|Piano Trio No. 1 (Schumann)",
