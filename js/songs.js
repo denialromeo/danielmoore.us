@@ -4974,7 +4974,7 @@ const songs = [
 "Otis Redding|Hard to Handle|1968|2B4mGgDNlk4|Otis Redding|S7830|Southern Soul;R&B;Soul|Hard to Handle (song)",
 "Omni Trio|Renegade Snares|1993|wKPlj4PkQZw|Rob Haigh|S7809|Jungle;Dance;Drum and Bass;Electronic;Electronic Dance Music|High Contrast",
 "A Flock of Seagulls|I Ran (So Far Away)|1982|iIpfWORQWhU|A Flock of Seagulls|S3127|New Wave;Synthpop;Electronic;Pop;Rock|I Ran (So Far Away)",
-"Keith West|Excerpt from \"A Teenage Opera\"|1967|G5cqzu6vi_Q|Keith West|S7076|Psychedelic Pop;Pop|",
+"Keith West|Excerpt from \"A Teenage Opera\"|1967|IMEK4VJtlsA|Keith West|S7076|Psychedelic Pop;Pop|",
 "Bola De Nieve|Vete de mi|1958|lDTLIwhF4XE|Bola de Nieve|S10267|Bolero;Hispanic Music;Latin American Music;Regional Music|",
 "Nick Cave|The Weeping Song|1990|TqhOVY58zIo|Nick Cave and the Bad Seeds|S4481|Gothic Rock;Punk Blues;Singer/Songwriter;Punk Rock;Rock|The Weeping Song",
 "The Kinks|Victoria|1969|Wejgyx3e4rY|The Kinks|S3543|Pop Rock;Pop;Rock|Victoria (The Kinks song)",
