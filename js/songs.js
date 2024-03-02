@@ -219,7 +219,7 @@ const songs = [
 "The Clash|(White Man) In Hammersmith Palais|1978|96UtZPLiT90|The Clash|S601|Punk Rock;Rock|(White Man) In Hammersmith Palais",
 "Blue Öyster Cult|(Don't Fear) The Reaper|1976|RjMEzBMiTJ4|Blue Öyster Cult|S663|Hard Rock;Rock|(Don't Fear) The Reaper",
 "The Beatles|Penny Lane|1967|S-rB0pHI9fU|The Beatles|S2513|Baroque Pop;Pop|Penny Lane",
-"Deep Purple|Smoke on the Water|1972|zUwEIt9ez7M|Deep Purple|S767|Blues Rock;Hard Rock;Rock|Smoke on the Water",
+"Deep Purple|Smoke on the Water|1972|F7ZF2xaNhyw?start=79|Deep Purple|S767|Blues Rock;Hard Rock;Rock|Smoke on the Water",
 "Britney Spears|Toxic|2003|LOZuxwVk7TU|Britney Spears|S2444|Dance-Pop;Dance;Pop|Toxic (song)",
 "Jonathan Richman/The Modern Lovers|Roadrunner|1975|UnmHgnPPkkQ|Jonathan Richman|S708|Garage Rock;Proto-Punk;Rock|Roadrunner (Jonathan Richman song)",
 "The Human League|Don't You Want Me|1981|uPudE8nDog0|The Human League|S516|Synthpop;Electronic;Pop|Don't You Want Me",
