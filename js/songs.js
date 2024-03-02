@@ -10214,7 +10214,7 @@ const songs = [
 "Robert Palmer|Looking for Clues|1980|92wCPfqyVbg|Robert Palmer (singer)|S8179|New Wave;Pop Rock;Pop;Rock|",
 "1000 Clowns|Not the Greatest Rapper|1997|mtoR-LXChIk|1000 Clowns|S9122|Pop Rap;Hip Hop|",
 "Kings of Leon|Charmer|2007|yCd1vXsvkV4|Kings of Leon|S7117|Indie Rock;Alternative Rock;Rock|Charmer (Kings of Leon song)",
-"John Miles|Music|1976|lAsvjVx-Mg4|John Miles (musician)|S6960|Pop Rock;Progressive Pop;Pop;Rock|Music (John Miles song)",
+"John Miles|Music|1976|gb6XtyFNawM|John Miles (musician)|S6960|Pop Rock;Progressive Pop;Pop;Rock|Music (John Miles song)",
 "La Renga|El revelde|1998|RUjFzQ4nVGQ|La Renga|S11358|Hard Rock;Rock|",
 "UB40|Food for Thought|1980|IXWBeWf185E|UB40|S8885|Dub;Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Food for Thought (song)",
 "Gorillaz feat. Vince Staples|Ascension|2017|hBA0PUQCvIA|Gorillaz|S16389|Hip Hop|",
