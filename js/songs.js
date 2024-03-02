@@ -7691,7 +7691,7 @@ const songs = [
 "Peter Tosh with Mick Jagger|(You Got to Walk And) Don't Look Back|1978|3o4Fgh0KW_4|Peter Tosh|S14867|Pop Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "Janet Jackson|All for You|2001|LsllxyEvWXA|Janet Jackson|S11148|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|All for You (Janet Jackson song)",
 "The Intruders|Cowboys to Girls|1968|afMoMYMzWpY|The Intruders (band)|S6794|Philly Soul;Pop Soul;Pop;R&B;Soul|Cowboys to Girls",
-"Small Faces|Watcha Gonna Do About It|1965|43Dc9BsHhDY|Small Faces|S12236|British Rhythm & Blues;Mod;R&B;Rhythm & Blues;Rock|Whatcha Gonna Do%3F",
+"Small Faces|Whatcha Gonna Do About It|1965|sah6C87QsGo|Small Faces|S12236|British Rhythm & Blues;Mod;R&B;Rhythm & Blues;Rock|Whatcha Gonna Do About It",
 "Blur|Fool's Day|2010|FArouKj8vGU|Blur (band)|S5529|Britpop;Indie Rock;Alternative Rock;Pop;Pop Rock;Rock|Fool's Day (song)",
 "Âme|Rej|2005|VkWg1xOQwTI|Âme|S9983|Deep House;Minimal Techno;Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|Meute (band)",
 "The Cardigans|My Favourite Game|1998|u9WgtlgGAgs|The Cardigans|S3261|Indie Rock;Pop Rock;Alternative Rock;Pop;Rock|My Favourite Game",
