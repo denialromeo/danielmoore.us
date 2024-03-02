@@ -7406,7 +7406,7 @@ const songs = [
 "The Beatles|Free As a Bird|1995|ODIvONHPqpk|The Beatles|S5383|Pop Rock;Pop;Rock|Free as a Bird",
 "Argent|Hold Your Head Up|1971|k5fYPz8dKbg|Argent|S5232|Hard Rock;Progressive Rock;Rock|Hold Your Head Up",
 "Frankie Knuckles|Baby Wants to Ride|1987|2EtEPT3DvdM|Jamie Principle|S6455|Chicago House;Dance;Electronic;Electronic Dance Music;House|Frankie Knuckles",
-"Emerson, Lake & Palmer|Karn Evil 9 - First Impression, Part 1|1973|yIFBpn7_uBQ|Emerson, Lake & Palmer|S6271|Symphonic Prog;Progressive Rock;Rock|",
+"Emerson, Lake & Palmer|Karn Evil 9 - First Impression, Part 1|1973|EKAEqeHeDSo|Emerson, Lake & Palmer|S6271|Symphonic Prog;Progressive Rock;Rock|",
 "The Decemberists|Here I Dreamt I Was an Architect|2002|qkWrnWRKDJQ?start=38|The Decemberists|S4674|Folk Rock;Indie Folk;Indie Pop;Contemporary Folk;Folk;Pop;Rock|",
 "Chagrin d'amour|Chacun fait (c'qui lui plaît)|1981|zmOuZqBb_3Y|https://fr.wikipedia.org/wiki/Chagrin_d%27amour_(groupe)|S5749|Disco Rap;French Hip Hop;French Pop;Pop Rap;Hip Hop;Pop|",
 "Saint Etienne|Avenue|1992|kKIO0HwbFWg|Saint Etienne (band)|S2935|Dream Pop;Indie Pop;Indietronica;Alternative Rock;Electronic;Pop;Rock|Only Love Can Break Your Heart",
