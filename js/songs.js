@@ -8112,7 +8112,7 @@ const songs = [
 "Barry Manilow|Could It Be Magic|1973|8vYpJYrR-Hc|Barry Manilow|S5326|Adult Contemporary;Baroque Pop;Pop|Could It Be Magic",
 "Idlewild|You Held the World in Your Arms|2002|_tzoFIgNtQE|Idlewild|S2970|Alternative Rock;Rock|",
 "Queen|Radio Ga Ga|1984|azdwsXLmrHE?start=5|Queen (band)|S11976|Pop Rock;Synthpop;Electronic;Pop;Rock|Radio Ga Ga",
-"Nina Hagen Band|Unbeschreiblich weiblich|1979|ZLqzr29m6E4|Nina Hagen|S15743|Deutschrock;Glam Rock;Rock|",
+"Nina Hagen Band|Unbeschreiblich weiblich|1979|jST2VFRcse0|Nina Hagen|S15743|Deutschrock;Glam Rock;Rock|",
 "The Divine Comedy|Something for the Weekend|1996|ZFjfa_RB6Pc|The Divine Comedy (band)|S10611|Chamber Pop;Baroque Pop;Indie Pop;Pop|Something for the Weekend (song)",
 "Tom Robinson Band|2 4 6 8 Motorway|1977|ar_saHB60qU|Tom Robinson Band|S1790|Pub Rock;Rock|2-4-6-8 Motorway",
 "Villagers|Nothing Arrived|2012|iDEzRraYgA8|Villagers (band)|S16950|Indie Pop;Pop|",
