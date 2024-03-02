@@ -9757,7 +9757,7 @@ const songs = [
 "Sheb Wooley|The Purple People Eater|1958|67tKNEsJjTI|Sheb Wooley|S8386|Halloween Music;Novelty;Rock & Roll;Descriptor;Holiday Music;Rock|The Purple People Eater",
 "Savages|The Answer|2015|kvvhHT0B5ck|Savages (band)|S16182|Post-Punk;Rock|",
 "Duane Eddy|Because They're Young|1960|bKm2_67xtVs|Duane Eddy|S3388|Rock & Roll;Rock|",
-"The Doors|Love Her Madly|1971|SLdvnQD_eio|The Doors|S10638|Blues Rock;Psychedelic Rock;Rock|Love Her Madly",
+"The Doors|Love Her Madly|1971|5iqfXaGliq8|The Doors|S10638|Blues Rock;Psychedelic Rock;Rock|Love Her Madly",
 "Lit|My Own Worst Enemy|1999|sc5iTNVEOAg|Lit (band)|S7277|Alternative Rock;Pop Punk;Punk Rock;Rock|My Own Worst Enemy (song)",
 "Tony Toni Toné|If I Had No Loot|1993|tfaGwgtN9Sc|Tony! Toni! Toné!|S2064|New Jack Swing;Contemporary R&B;R&B|If I Had No Loot",
 "Black Sabbath|Symptom of the Universe|1975|kJIKJcIdlVw|Black Sabbath|S14154|Heavy Metal;Metal;Rock|Symptom of the Universe",
