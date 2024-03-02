@@ -2298,7 +2298,7 @@ const songs = [
 "Four Tops|It's the Same Old Song|1965|ON6L7QPHhQE|Four Tops|S2275|Motown Sound;Pop;Pop Soul;R&B;Soul|",
 "Talking Heads|Born Under Punches (The Heat Goes On)|1980|YO7N2tFb0X8|Talking Heads|S4449|Funk Rock;New Wave;Post-Punk;Rock|",
 "Minutemen|History Lesson (Part II)|1984|KZvsAh5VFRw|Minutemen (band)|S3624|Indie Rock;Alternative Rock;Rock|History Lesson – Part II",
-"Elton John|Philadelphia Freedom|1975|2sd6P2Tu8rw|Elton John|S1774|Blue Eyed Soul;Pop Rock;Pop;Rock|Philadelphia Freedom (song)",
+"Elton John|Philadelphia Freedom|1975|NPiY81uCxHg|Elton John|S1774|Blue Eyed Soul;Pop Rock;Pop;Rock|Philadelphia Freedom (song)",
 "Iron Maiden|Run to the Hills|1982|86URGgqONvA|Iron Maiden|S3500|NWOBHM;Heavy Metal;Metal;Rock|Run to the Hills",
 "Ministry|Jesus Built My Hot Rod|1992|GXCh9OhDiCI|Ministry (band)|S2057|Industrial Metal;Industrial Music;Metal;Rock|Jesus Built My Hotrod",
 "Patti Smith|Rock'n'Roll Nigger|1978|b1o68h4Usqs|Patti Smith|S4556|Glam Rock;Hard Rock;Rock|Rock N Roll Nigger",
