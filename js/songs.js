@@ -3914,7 +3914,7 @@ const songs = [
 "Billy Swan|I Can Help|1974|E5V2hjJ6kCg|Billy Swan|S2325|Pop|I Can Help",
 "The Who|Anyway, Anyhow, Anywhere|1965|aUkJYkVTITU|The Who|S8996|British Rhythm & Blues;Garage Rock;Mod;R&B;Rhythm & Blues;Rock|",
 "Bruce Springsteen|Highway Patrolman|1982|7EVCO7ZKVDs|Bruce Springsteen|S5649|Americana;Contemporary Folk;Singer/Songwriter;Country;Folk|Highway Patrolman",
-"Barry White|You're the First, the Last, My Everything|1974|NQG66QVZI0k|Barry White|S3951|Disco;Soul;Dance;R&B|You're the First, the Last, My Everything",
+"Barry White|You're the First, the Last, My Everything|1974|ezPrKUIbjjs|Barry White|S3951|Disco;Soul;Dance;R&B|You're the First, the Last, My Everything",
 "Leonard Cohen|Sisters of Mercy|1968|VT9k5NHCdvQ|Leonard Cohen|S7238|Contemporary Folk;Singer/Songwriter;Folk|Songs of Leonard Cohen",
 "Caroline Polachek|So Hot You're Hurting My Feelings|2019|sn3cHUtNZKo|Caroline Polachek|S16754|Synthpop;Electronic;Pop|So Hot You're Hurting My Feelings",
 "A Tribe Called Quest|Electric Relaxation|1993|WHRnvjCkTsw|A Tribe Called Quest|S9905|East Coast Hip Hop;Jazz Rap;Hip Hop|",
