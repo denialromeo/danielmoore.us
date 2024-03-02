@@ -3895,7 +3895,7 @@ const songs = [
 "U2|Angel of Harlem|1988|xa0WNP3Zwwo|U2|S8878|Blue Eyed Soul;Heartland Rock;Pop Rock;Pop;Rock|Angel of Harlem",
 "Savages|Adore|2016|Y7ZpPsaMNMM|Savages (band)|S16181|Post-Punk;Rock|",
 "Johnny Horton|The Battle of New Orleans|1959|__uFnEMJqjg|Johnny Horton|S1196|Country|The Battle of New Orleans",
-"Grateful Dead|Truckin'|1970|pafY6sZt0FE|Grateful Dead|S3452|Country Rock;Folk Rock;Truck Driving Country;Country;Honky Tonk;Rock|Truckin'",
+"Grateful Dead|Truckin'|1970|IORPscB3vbc|Grateful Dead|S3452|Country Rock;Folk Rock;Truck Driving Country;Country;Honky Tonk;Rock|Truckin'",
 "Bruce Springsteen|American Skin (41 Shots)|2001|aQMqWAiWPMs|Bruce Springsteen|S5657|Heartland Rock;Pop Rock;Pop;Rock|American Skin (41 Shots)",
 "Bruce Hornsby & The Range|The Way It Is|1986|cOeKidp-iWo|Bruce Hornsby|S3479|Piano Rock;Pop;Pop Rock;Rock|The Way It Is (Bruce Hornsby song)",
 "Metro Area|Miura|2002|qR-jT-uGiWM|Metro Area|S4678|Electro-Disco;Nu-Disco;Dance;Disco;Electronic;Electronic Dance Music;House|Miura",
