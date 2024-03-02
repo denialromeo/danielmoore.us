@@ -4942,7 +4942,7 @@ const songs = [
 "Stereophonics|Dakota|2005|SzBJQnD7TRM|Stereophonics|S8563|Alternative Rock;Pop Rock;Pop;Rock|Dakota (song)",
 "Ray Charles|Drown in My Own Tears|1956|xhzO9MiNafY|Ray Charles|S2488|Rhythm & Blues;R&B|Drown in My Own Tears",
 "Buddy Holly & The Crickets|Maybe Baby|1957|fEHNFxXkILM|The Crickets|S2791|Rock & Roll;Rock|Maybe Baby (song)",
-"John Cale|Fear is a Man's Best Friend|1974|8iAAe_7_HOw|John Cale|S4174|Piano Rock;Pop;Pop Rock;Rock|",
+"John Cale|Fear is a Man's Best Friend|1974|cm2tVda1LGE|John Cale|S4174|Piano Rock;Pop;Pop Rock;Rock|",
 "Steve Harley & Cockney Rebel|Sebastian|1973|vcc4aRKP0TM|Steve Harley & Cockney Rebel|S8572|Art Pop;Baroque Pop;Glam Rock;Progressive Pop;Pop;Rock|",
 "Morrissey|The More You Ignore Me, The Closer I Get|1994|6nAMFWDuDEI|Morrissey|S7606|Indie Pop;Pop Rock;Pop;Rock|The More You Ignore Me, the Closer I Get",
 "Stick McGhee|Drinking Wine Spo-Dee O-Dee|1949|37avLRywxGQ|Sticks McGhee|S4361|Rhythm & Blues;Rock & Roll;R&B;Rock|Drinkin' Wine Spo-Dee-O-Dee",
