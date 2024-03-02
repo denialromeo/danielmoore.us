@@ -51,7 +51,7 @@ const songs = [
 "Franz Ferdinand|Take Me Out|2004|Ijk4j-r7qPA|Franz Ferdinand (band)|S2436|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Take Me Out (song)",
 "Missy Elliott|Get Ur Freak On|2001|FPoKiGQzbSQ|Missy Elliott|S1456|Pop Rap;Hip Hop|Get Ur Freak On",
 "Buddy Holly & The Crickets|That'll Be the Day|1957|M4TfFTmITLo|The Crickets|S1231|Rockabilly;Rock;Rock & Roll|That'll Be the Day",
-"The Doors|Light My Fire|1967|cq8k-ZbsXDI|The Doors|S934|Psychedelic Rock;Rock|Light My Fire",
+"The Doors|Light My Fire|1967|ckYH8tWyU88|The Doors|S934|Psychedelic Rock;Rock|Light My Fire",
 "Donna Summer|I Feel Love|1977|g4nD12jWojI|Donna Summer|S648|Hi-NRG;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music|I Feel Love",
 "The Smiths|There Is a Light That Never Goes Out|1986|4WPZMhFa84U|The Smiths|S354|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|There Is a Light That Never Goes Out",
 "David Bowie|Space Oddity|1969|iYYRH4apXDo?start=12|David Bowie|S873|Art Pop;Progressive Pop;Psychedelic Pop;Pop|Space Oddity",
