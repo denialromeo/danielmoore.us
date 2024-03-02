@@ -5772,7 +5772,7 @@ const songs = [
 "Wilson Pickett|Ninety-Nine and a Half (Won't Do)|1966|yhX4liVtuCc|Wilson Pickett|S3701|Southern Soul;R&B;Soul|",
 "Thomas Dolby|She Blinded Me with Science|1982|WZOW5GdgCGw|Thomas Dolby|S3343|New Wave;Synthpop;Electronic;Pop;Rock|She Blinded Me with Science",
 "Ofra Haza|Im nin'alu|1984|ZRnzTTYk7_Q|Ofra Haza|S7795|Dance-Pop;Jewish Music;Mizrahi Music;Dance;Pop;Regional Music|",
-"Frank Sinatra|Night and Day|1942|IHwFGG9knmg|Frank Sinatra|S13482|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|Frank Sinatra",
+"Frank Sinatra|Night and Day|1942|IHwFGG9knmg|Frank Sinatra|S13482|Standards;Vocal Jazz;Jazz;Pop;Traditional Pop|Night and Day (song)",
 "Beach House|Sparks|2015|GfITojs_mNg|Beach House|S9706|Dream Pop;Shoegaze;Alternative Rock;Rock|",
 "Pat Metheny Group|Are You Going with Me?|1982|l4jIbLYE3gQ|Pat Metheny Group|S11846|ECM Style Jazz;Jazz Fusion;Jazz|",
 "X-Press 2|Lazy|2002|qB_I1YBAozE|X-Press 2|S2240|Dance-Pop;House;Dance;Electronic;Electronic Dance Music;Pop|",
