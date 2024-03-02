@@ -1920,7 +1920,7 @@ const songs = [
 "Peter Tosh|Legalize It|1976|6cIePqdz03A|Peter Tosh|S1784|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Legalize It",
 "Phoenix|Too Young|2000|yIOL5SSjWdw|Phoenix (band)|S2188|Alternative Dance;Indie Pop;Alternative Rock;Dance;Pop;Rock|Too Young (Phoenix song)",
 "The Pipettes|Pull Shapes|2006|HbnVNZe2D_0|The Pipettes|S4003|Girl Group;Indie Pop;Pop|",
-"Sousa's Band|The Stars and Stripes Forever|1897|a-7XWhyvIpE?start=58|John Philip Sousa|S8509|Classical March;Classical Music;Western Classical Music|",
+"Sousa's Band|The Stars and Stripes Forever|1897|a-7XWhyvIpE?start=58|John Philip Sousa|S8509|Classical March;Classical Music;Western Classical Music|The Stars and Stripes Forever",
 "Modern English|I Melt with You|1982|LuN6gs0AJls|Modern English (band)|S506|New Wave;Pop Rock;Pop;Rock|I Melt with You",
 "The Jesus and Mary Chain|Never Understand|1985|b2bzrCCKDwc|The Jesus and Mary Chain|S397|Noise Pop;Post-Punk;Alternative Rock;Rock|",
 "The Chiffons|One Fine Day|1963|KvyOqKhKWQ4|The Chiffons|S1057|Brill Building;Girl Group;Pop|One Fine Day (song)",
