@@ -147,7 +147,6 @@ I hope you have a good time here. Thanks for dropping by.
 **History Books**
 
 * [*100 Decisive Battles*](https://www.amazon.com/gp/product/0195143663) by [Paul Davis](https://en.wikipedia.org/wiki/Paul_K._Davis_(historian)) (We are puppets dancing on our predecessors' strings.)
-* [*The Book of Islamic Dynasties*](https://www.goodreads.com/notes/25056329-the-book-of-islamic-dynasties/71655209-daniel-moore) by [Luqman Nagy](https://www.tahapublishers.com/author/luqman-nagy) (Monotheistic rage, applied over centuries.)
 * [*Born in Blackness*](https://www.goodreads.com/notes/57777449-born-in-blackness/71655209-daniel-moore) by [Howard French](https://en.wikipedia.org/wiki/Howard_W._French) (African slaves built Western civilization.)
 * [*Debt: The First 5,000 Years*](https://www.goodreads.com/notes/23814811-debt---updated-and-expanded/71655209-daniel-moore) by [David Graeber](https://en.wikipedia.org/wiki/David_Graeber) (Modern finance is rooted in medieval Europe.)
 * [*Early Indians*](https://en.wikipedia.org/wiki/Early_Indians) by [Tony Joseph](https://twitter.com/tjoseph0010) (Genomics-based insights into 65,000 years of India's history.)
