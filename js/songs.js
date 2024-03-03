@@ -1084,7 +1084,7 @@ const songs = [
 "Merle Haggard|Mama Tried|1968|loT_pYzi3Vw|Merle Haggard|S930|Bakersfield Sound;Country;Honky Tonk|Mama Tried (song)",
 "Snail Mail|Pristine|2018|s7tnTucP1UM|Snail Mail (musician)|S16529|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|Lush (Snail Mail album)",
 "The Temptations|Ain't Too Proud to Beg|1966|_ObVQPBD0Uw|The Temptations|S1436|Motown Sound;Pop;Pop Soul;R&B;Soul|",
-"George Gershwin|Rhapsody in Blue|1924|cH2PH0auTUU|George Gershwin|S2684|Big Band;Modern Classical;Classical Music;Jazz|",
+"George Gershwin|Rhapsody in Blue|1924|cH2PH0auTUU|George Gershwin|S2684|Big Band;Modern Classical;Classical Music;Jazz|Rhapsody in Blue",
 "Tennessee Ernie Ford|Sixteen Tons|1955|Joo90ZWrUkU|Tennessee Ernie Ford|S1291|Country Boogie;Rhythm & Blues;Vocal Jazz;American Folk Music;Country;Folk;Jazz;R&B;Regional Music;Traditional Country;Traditional Folk Music|",
 "The Drifters|On Broadway|1963|yPYRtjxYEH8|The Drifters|S1061|Brill Building;Pop Soul;Pop;R&B;Soul|On Broadway (song)",
 "The Surfaris|Wipe Out|1963|p13yZAjhU0M|The Surfaris|S1066|Rock & Roll;Surf Rock;Rock;Surf Music|",
