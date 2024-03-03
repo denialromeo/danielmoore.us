@@ -3706,7 +3706,7 @@ const songs = [
 "Stereolab|Ping Pong|1994|tsumMcjEPtQ|Stereolab|S111|Art Pop;Indie Pop;Pop|",
 "Wolf Parade|Shine a Light|2005|Kh8-r6O43Rw|Wolf Parade|S3047|Indie Rock;Alternative Rock;Rock|",
 "D'Angelo and the Vanguard|The Charade|2014|T3CunfPYkME|D'Angelo|S9878|Neo-Soul;Psychedelic Soul;R&B;Soul|",
-"Enrico Caruso|Vesti la giubba|1907|a_P1QdXMzfA|Enrico Caruso|S6288|Opera;Romanticism;Classical Music;Western Classical Music|",
+"Enrico Caruso|Vesti la giubba|1907|ZafYnx-iFak|Enrico Caruso|S6288|Opera;Romanticism;Classical Music;Western Classical Music|Vesti la giubba",
 "Otis Rush|I Can't Quit You Baby|1956|Uy2tEP3I3DM|Otis Rush|S1617|Chicago Blues;Blues;Electric Blues|I Can't Quit You Baby",
 "Sleater-Kinney|A New Wave|2015|Kc1htX3q-F0|Sleater-Kinney|S9836|Indie Rock;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Guy Mitchell|Singing the Blues|1956|f_NLhDTyRJk|Guy Mitchell|S1289|Country;Traditional Pop;Pop|Singing the Blues",
