@@ -4866,7 +4866,7 @@ const songs = [
 "Ace of Base|The Sign|1993|iqu132vTl5Y|Ace of Base|S5092|Dance-Pop;Europop;Dance;Pop|The Sign (song)",
 "Bush|Glycerine|1994|hOllF3TgAsM|Bush (British band)|S14203|Post-Grunge;Alternative Rock;Rock|Glycerine (song)",
 "Air France|Collapsing at Your Doorstep|2008|xz3_K1CFy_w|Air France (band)|S4775|Balearic Beat;Dance;Electronic;Electronic Dance Music;House|",
-"Supertramp|Goodbye Stranger|1979|NN2fOKP41tc|Supertramp|S12370|Pop Rock;Progressive Pop;Pop;Rock|Goodbye Stranger",
+"Supertramp|Goodbye Stranger|1979|7MslMaEDWYI|Supertramp|S12370|Pop Rock;Progressive Pop;Pop;Rock|Goodbye Stranger",
 "The Velvet Underground|I Heard Her Call My Name|1968|fEWkHAIQ3gs|The Velvet Underground|S8967|Art Rock;Experimental Rock;Noise Rock;Proto-Punk;Rock|I Heard Her Call My Name",
 "Loverboy|Working for the Weekend|1981|zL8G5pBZ5CI?start=144|Loverboy|S7339|AOR;Pop Rock;Pop;Rock|Working for the Weekend",
 "Virus|Imágenes paganas|1986|9UY8kqV7KgE|Virus (Argentine band)|S9047|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock|",
