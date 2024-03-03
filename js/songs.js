@@ -8566,7 +8566,7 @@ const songs = [
 "Iron Maiden|Fear of the Dark|1992|2VgOjY-TPUo|Iron Maiden|S15549|Heavy Metal;Metal;Rock|",
 "The Band|Chest Fever|1968|WzWUWMC4oPQ|The Band|S5308|Roots Rock;Rock|Chest Fever",
 "Kay Kyser|Three Little Fishes|1939|GEkBF0BUXIM|Kay Kyser|S7071|Traditional Pop;Pop|Three Little Fishies",
-"Heaven 17|Let Me Go!|1982|bj8GBas6AJs|Heaven 17|S11019|Synthpop;Electronic;Pop|Let Me Go (Heaven 17 song)",
+"Heaven 17|Let Me Go|1982|Zjt7poJXd4I|Heaven 17|S11019|Synthpop;Electronic;Pop|Let Me Go (Heaven 17 song)",
 "Miguel Mateos / ZAS|Tirá para arriba|1984|Kb21f9SJ8OY|Miguel Mateos|S11638|Pop Rock;Pop;Rock|",
 "Belle and Sebastian|Your Cover's Blown|2004|uGnhY2bNyMM|Belle and Sebastian|S5406|Chamber Pop;Twee Pop;Baroque Pop;Indie Pop;Pop|",
 "The Heartbreakers|Born to Lose|1977|54AwVkP_8ow|The Heartbreakers|S6696|Punk Rock;Rock|",
