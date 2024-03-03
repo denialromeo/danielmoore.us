@@ -6801,7 +6801,7 @@ const songs = [
 "The Smiths|Still Ill|1984|b_3oFRcTNHo|The Smiths|S12245|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Still Ill",
 "Elastica|Car Song|1995|djjw3BKUV28|Elastica|S6220|Britpop;Indie Rock;Alternative Rock;Pop;Pop Rock;Rock|Car Song (Elastica song)",
 "Sisqo|Thong Song|1999|Oai1V7kaFBk|Sisqó|S1391|Contemporary R&B;Pop Rap;Hip Hop;R&B|Thong Song",
-"Fehlfarben|Paul ist tot|1980|1gKwduFVsV4|Fehlfarben|S9219|Art Punk;Neue Deutsche Welle;Post-Punk;Punk Rock;Rock|",
+"Fehlfarben|Paul ist tot|1980|hqMt5YxVlc8|Fehlfarben|S9219|Art Punk;Neue Deutsche Welle;Post-Punk;Punk Rock;Rock|",
 "Crowded House|Fall at Your Feet|1991|kW_5YdPL9Go|Crowded House|S10470|Pop Rock;Pop;Rock|Fall at Your Feet",
 "Missy Elliott|Sock It 2 Me|1997|9UvBX3REqSY|Missy Elliott|S2134|Pop Rap;Hip Hop|Sock It 2 Me",
 "Cut Copy|Lights & Music|2008|8R1X2TxW5Rk|Cut Copy|S4766|Indietronica;Synthpop;Electronic;Pop|",
