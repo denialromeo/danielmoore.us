@@ -20,7 +20,7 @@ const songs = [
 "Sex Pistols|Anarchy in the U.K.|1976|cBojbjoMttI|Sex Pistols|S661|Punk Rock;Rock|Anarchy in the U.K.",
 "M.I.A.|Paper Planes|2007|ewRjZoRtu0Y|M.I.A. (rapper)|S4280|Political Hip Hop;Pop Rap;UK Hip Hop;Hip Hop|Paper Planes (M.I.A. song)",
 "The Clash|London Calling|1979|EfK-WX2pa8c|The Clash|S571|Punk Rock;Rock|London Calling (song)",
-"The Rolling Stones|Sympathy for the Devil|1968|GgnClrx8N2k|The Rolling Stones|S1705|Blues Rock;Rock|Sympathy for the Devil",
+"The Rolling Stones|Sympathy for the Devil|1968|Jwtyn-L-2gQ|The Rolling Stones|S1705|Blues Rock;Rock|Sympathy for the Devil",
 "The Beatles|Strawberry Fields Forever|1967|HtUH9z_Oey8|The Beatles|S931|Progressive Pop;Psychedelic Pop;Pop|Strawberry Fields Forever",
 "Little Richard|Tutti Frutti|1955|F13JNjpNW6c|Little Richard|S1296|Rock & Roll;Rock|Tutti Frutti (song)",
 "Led Zeppelin|Stairway to Heaven|1971|QkF3oxziUI4|Led Zeppelin|S2567|Folk Rock;Hard Rock;Progressive Rock;Rock|Stairway to Heaven",
