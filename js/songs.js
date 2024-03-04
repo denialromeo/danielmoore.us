@@ -9524,7 +9524,7 @@ const songs = [
 "Gil Scott-Heron|Winter in America|1974|m2zKdIcOV5s|Gil Scott-Heron|S4270|Jazz-Funk;Soul;Soul Jazz;Funk;Jazz;R&B|",
 "Golden Gate Orchestra|Charleston|1925|f8lQyAD2jX4|https://www.discogs.com/artist/1990693-Golden-Gate-Orchestra|S15523|Big Band;Jazz|",
 "Pet Shop Boys|So Hard|1990|jFAA6Z_YIEM|Pet Shop Boys|S7937|Dance-Pop;Synthpop;Dance;Electronic;Pop|",
-"Yeah Yeah Noh|Another Side to Mrs. Quill|1985|VzbXbTwEYIo|Yeah Yeah Noh|S9085|Indie Pop;Pop|",
+"Yeah Yeah Noh|Another Side to Mrs. Quill|1985|cJtWpgzO5d4|Yeah Yeah Noh|S9085|Indie Pop;Pop|",
 "Junior Giscombe|Mama Used to Say|1981|gAWnb1yxr5M|Junior Giscombe|S1868|Boogie;Contemporary R&B;Dance;Disco;R&B|Mama Used to Say",
 "Paul Robeson|Ballad for Americans|1940|LHCQGQdeL68|Paul Robeson|S15776|Traditional Pop;Pop|Ballad for Americans",
 "Madonna|This Used to Be My Playground|1992|RhXDO2a3-sE|Madonna (entertainer)|S7372|Adult Contemporary;Pop|This Used to Be My Playground",
