@@ -7890,7 +7890,7 @@ const songs = [
 "The Kinks|Till the End of the Day|1965|9IoX2-nqh8k|The Kinks|S7119|Garage Rock;Mod;Rock|Till the End of the Day",
 "Master P|Make 'Em Say Uhh!|1997|bQSHAfzU5ks|Master P|S11571|Southern Hip Hop;Hip Hop|Make 'Em Say Uhh!",
 "The Jimi Hendrix Experience|If 6 Was 9|1967|Zhrcf0szbXg|Jimi Hendrix|S11202|Blues Rock;Psychedelic Rock;Rock|Fire (The Jimi Hendrix Experience song)",
-"America|Ventura Highway|1972|ujsOx33f4mk|America (band)|S9984|Folk Pop;Folk Rock;Soft Rock;Contemporary Folk;Folk;Pop;Pop Rock;Rock|Ventura Highway",
+"America|Ventura Highway|1972|tnV7dTXlXxs|America (band)|S9984|Folk Pop;Folk Rock;Soft Rock;Contemporary Folk;Folk;Pop;Pop Rock;Rock|Ventura Highway",
 "Elvis Presley|Good Luck Charm|1962|Z0gx4kPDW0w|Elvis Presley|S6262|Pop Rock;Rock & Roll;Pop;Rock|Good Luck Charm",
 "Oneohtrix Point Never|Replica|2011|AvEm3a20Yc4|Oneohtrix Point Never|S7810|Ambient;Electronic|",
 "Led Zeppelin|All My Love|1979|vwFz3EThGMU|Led Zeppelin|S11381|Pop Rock;Pop;Rock|All My Love (Led Zeppelin song)",
