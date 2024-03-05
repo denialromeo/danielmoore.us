@@ -640,7 +640,7 @@ const classical = [
 "Alban Berg|Three Orchestral Pieces, Op. 6|1915-1929|q6U8AqRNyU8|Alban Berg|Three Pieces for Orchestra (Berg)",
 "Manuel de Falla|Nights in the Gardens of Spain|1915|yo9DJB6wYy8?start=3|Manuel de Falla|Nights in the Gardens of Spain",
 "Claude Debussy|Sonatas|1915-1917|6p1HDpf48Tg|Claude Debussy|Six sonatas for various instruments",
-"Manuel de Falla|El amor brujo|1915-1925|V3XfmRZAQ-o|Manuel de Falla|El amor brujo",
+"Manuel de Falla|El amor brujo|1915-1925|iQwk_pOxsbs|Manuel de Falla|El amor brujo",
 "Charles Ives|Concord Sonata|1915|cDNPpsUaVYo|Charles Ives|Piano Sonata No. 2 (Ives)",
 "Hans Pfitzner|Palestrina|1915|OLAK5uy_nDbNHHjXFGzaXM9ujUZiiLJgmNAUIw1no|Hans Pfitzner|Palestrina (opera)",
 "Franz Schreker|Die Gezeichneten|1915|1tdzUBIXDXg|Franz Schreker|",
