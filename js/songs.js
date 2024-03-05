@@ -5738,7 +5738,7 @@ const songs = [
 "Billy Murray|Give My Regards to Broadway|1905|-G4-gfKv6m8|Billy Murray (singer)|S9147|Show Tunes;Descriptor;Musical Theatre and Entertainment;Soundtracks|Give My Regards to Broadway",
 "Michel Fugain|Une belle histoire|1972|Vv_BvLmSBWg|Michel Fugain|S7542|Chanson;French Pop;Pop;Regional Music|Une belle histoire",
 "Snap!|Rhythm Is a Dancer|1992|JYIaWeVL1JM|Snap!|S15038|Euro House;Eurodance;Dance;Dance-Pop;Electronic;Electronic Dance Music;House;Pop|Rhythm Is a Dancer",
-"Tobias Jesso Jr.|How Could You Babe|2015|uu1Ko02P7vk|Tobias Jesso Jr.|S9858|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|",
+"Tobias Jesso Jr.|How Could You Babe|2015|uu1Ko02P7vk|Tobias Jesso Jr.|S9858|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|How Could You Babe",
 "Blonde Redhead|23|2007|a7FqUNlEdwA|Blonde Redhead|S5503|Dream Pop;Shoegaze;Alternative Rock;Rock|",
 "Eels|Mr. E's Beautiful Blues|2000|EnmIE8fXf-Q?start=19|Eels (band)|S6211|Alternative Rock;Indie Pop;Pop;Rock|Mr. E's Beautiful Blues",
 "Memphis Minnie|Me and My Chaffeur Blues|1941|rD2GUKwqliU|Memphis Minnie|S15697|Country Blues;Acoustic Blues;American Folk Music;Blues;Folk;Regional Music;Traditional Folk Music|",
