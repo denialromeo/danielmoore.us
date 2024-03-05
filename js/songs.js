@@ -2628,7 +2628,7 @@ const songs = [
 "Run-D.M.C.|King of Rock|1985|qXzWlPL_TKw|Run-DMC|S395|East Coast Hip Hop;Rap Rock;Alternative Rock;Hip Hop;Rock|Run-D.M.C. (album)",
 "Bangles|Walk Like an Egyptian|1986|Cv6tuzHUuuk|The Bangles|S2363|Pop Rock;Pop;Rock|Walk Like an Egyptian",
 "Madonna|Lucky Star|1983|ThHz9wlBeLU|Madonna (entertainer)|S3586|Dance-Pop;Synth Funk;Synthpop;Dance;Electronic;Funk;Pop;R&B|Lucky Star (Madonna song)",
-"The Creation|Making Time|1966|2hEb2vOOaxI|The Creation (band)|S4403|Freakbeat;Garage Rock;Mod;Beat Music;Pop;Pop Rock;Rock|Making Time",
+"The Creation|Making Time|1966|Tl7T5GCfEL0|The Creation (band)|S4403|Freakbeat;Garage Rock;Mod;Beat Music;Pop;Pop Rock;Rock|Making Time",
 "Audio Two|Top Billin'|1987|krTLRQOOFAw|Audio Two|S1966|Boom Bap;East Coast Hip Hop;Hip Hop|Top Billin'",
 "R.E.M.|Orange Crush|1988|_mSmOcmk7uQ|R.E.M.|S2004|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Orange Crush (song)",
 "Cass McCombs|County Line|2011|sOcnITphyjk|Cass McCombs|S4950|Country Soul;Indie Pop;Singer/Songwriter;Sophisti-Pop;Pop;R&B;Soul|Wit's End",
