@@ -8175,7 +8175,7 @@ const songs = [
 "Ivory Joe Hunter|Since I Met You Baby|1956|rRGd5YYPbzw|Ivory Joe Hunter|S3486|Rhythm & Blues;R&B|Since I Met You Baby (song)",
 "Manic Street Preachers|La Tristesse Durera (Scream to a High)|1993|zJzwIFyZfck|Manic Street Preachers|S7399|Alternative Rock;Rock|",
 "El Perro del Mar|Change of Heart|2009|TJn-nUCzQLk|El Perro del Mar|S6217|Dream Pop;Twee Pop;Alternative Rock;Indie Pop;Pop;Rock|",
-"The Kendalls|Just Like Real People|1979|RwwKVL9OMtA|The Kendalls|S7083|Country|",
+"The Kendalls|Just Like Real People|1979|7y7n9QKDprs|The Kendalls|S7083|Country|",
 "Pearl Jam|Last Kiss|1999|buGVXyYyqXw|Pearl Jam|S7923|Alternative Rock;Pop Rock;Pop;Rock|",
 "Ella Fitzgerald|How High the Moon|1948|djZCe7ou3kY|Ella Fitzgerald|S13454|Vocal Jazz;Jazz|",
 "Shocking Blue|Send Me a Postcard|1968|upO7h5FsIYI|Shocking Blue|S12705|Garage Rock;Psychedelic Pop;Psychedelic Rock;Pop;Rock|Send Me a Postcard",
