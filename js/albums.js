@@ -1301,7 +1301,7 @@ const albums = [
 "Elvis Costello and The Attractions|Blood & Chocolate|1986|OLAK5uy_mXVt_hG0kubcOxlDTSKzfROcj7sckq05A|A665|Blood & Chocolate|Elvis Costello|Pop Rock;Pop;Rock",
 "Korn|Korn|1994|OLAK5uy_lmmH5nhYjpyp1otjcC7OD-GAlG-n2C_bA|A1598|Korn (album)|Korn|Nu Metal;Alternative Metal;Metal;Rock",
 "Orange Juice|You Can't Hide Your Love Forever|1982|OLAK5uy_mChmEDkDB18Zf2Wq9Q_LmirJMZEIDj3To|A1476|You Can't Hide Your Love Forever|Orange Juice (band)|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock",
-"Terry Riley|In C|1968|https://www.youtube.com/embed/tbTn79x-mrI|A1986|In C|Terry Riley|Indeterminacy;Minimalism;Classical Music;Experimental;Modern Classical",
+"Terry Riley|In C|1968|https://www.youtube.com/embed/GA3Gw3iuFRs|A1986|In C|Terry Riley|Indeterminacy;Minimalism;Classical Music;Experimental;Modern Classical",
 "Neil Young & Crazy Horse|Zuma|1975|OLAK5uy_m_I2a4-U33edd7JbKPIZv2cqBw3JkkI7Q|A349|Zuma (album)|Neil Young|Folk Rock;Singer/Songwriter;Rock",
 "Kate Bush|The Dreaming|1982|OLAK5uy_lbVVvc21x5VshNYvG3LGhSjaLQzZV-1DI|A1485|The Dreaming (album)|Kate Bush|Art Pop;Progressive Pop;Pop",
 "Santana|Santana|1969|OLAK5uy_m06x3giB9bOdUJBIFGYzBeqn_UZY05_a4|A1230|Santana (1969 album)|Carlos Santana|Latin Rock;Hispanic Music;Latin American Music;Regional Music;Rock",
