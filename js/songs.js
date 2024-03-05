@@ -9764,7 +9764,7 @@ const songs = [
 "Paul McCartney|My Brave Face|1989|0Ty8NTNj6JI|Paul McCartney|S14849|Pop Rock;Pop;Rock|My Brave Face",
 "Fats Waller|Two Sleepy People|1938|g_TG1_oP9e8|Fats Waller|S6362|Stride;Vocal Jazz;American Folk Music;Folk;Jazz;Ragtime;Regional Music;Traditional Folk Music|Two Sleepy People",
 "Main Source|Looking at the Front Door|1990|RNRCQ9eagWQ|Main Source|S11525|Boom Bap;East Coast Hip Hop;Hip Hop|Looking at the Front Door",
-"Miss Toni Fisher|The Big Hurt|1959|IlE6eHEENg4|Toni Fisher|S15140|Traditional Pop;Pop|The Big Hurt (song)",
+"Miss Toni Fisher|The Big Hurt|1959|GgaP_Gq6kOs|Toni Fisher|S15140|Traditional Pop;Pop|The Big Hurt (song)",
 "Chuck Berry|Sweet Little Rock 'n' Roller|1958|XjRHuCkXHts|Chuck Berry|S14244|Rock & Roll;Rock|Sweet Little Rock 'n' Roller",
 "The Trammps|That's Where the Happy People Go|1975|tXx1SQhOhhI|The Trammps|S12903|Disco;Philly Soul;Dance;R&B;Soul|",
 "Metallica|Hero of the Day|1996|XkfO8c8MlKU|Metallica|S11604|Alternative Metal;Hard Rock;Metal;Rock|Hero of the Day",
