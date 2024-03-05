@@ -56,7 +56,7 @@ const classical = [
 "Jean-Baptiste Lully|Armide|1686|2zrbaEHomag|Jean-Baptiste Lully|Armide (Lully)",
 "Alessandro Scarlatti|Cantatas|1688-1720|-ZDAmkt-2_k|Alessandro Scarlatti|",
 "Juan de Araujo|Dixit Dominus|1689|gGZ9ykCZsfg|Juan de Araujo|",
-"Marc-Antoine Charpentier|Te Deum|1690s|EF91VPzI8Vg|Marc-Antoine Charpentier|Te Deum (Charpentier)",
+"Marc-Antoine Charpentier|Te Deum|1690s|I3LIlzPtsmw|Marc-Antoine Charpentier|Te Deum (Charpentier)",
 "Henry Purcell|The Fairy Queen|1692|QAvS3AypQfI|Henry Purcell|The Fairy-Queen",
 "Henry Purcell|Come Ye Sons of Art, Away|1694|LSk_kA62duQ|Henry Purcell|Come Ye Sons of Art",
 "Antonio Caldara|Maddalena ai piedi di Cristo|1698|tRdzPuHfKOY?start=24|Antonio Caldara|",
