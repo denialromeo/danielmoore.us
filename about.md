@@ -285,6 +285,7 @@ I hope you have a good time here. Thanks for dropping by.
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/sculptor.jpg" itemprop="contentUrl" data-size="1454x2060"><img src="/assets/img/comics/showcase/sculptor.jpg"/></a><p><i>The Sculptor</i> by Scott McCloud</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/strange_embrace2.jpg" itemprop="contentUrl" data-size="1074x1650"><img src="/assets/img/comics/showcase/strange_embrace.jpg"/></a><p><i>Strange Embrace</i> by David Hine</p></figcaption></figure>
 <figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/all_star_superman.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/showcase/all_star_superman.jpg"/></a><p><i>All-Star Superman</i> by Grant Morrison</p></figcaption></figure>
+<figure itemprop="associatedMedia" style="display:none" itemscope itemtype="http://schema.org/ImageObject"><a href="/assets/img/comics/showcase/swamp_thing3.jpg" itemprop="contentUrl" data-size="1988x3056"><img src="/assets/img/comics/showcase/swamp_thing3.jpg"/></a><p><i>Swamp Thing</i> by Alan Moore</p></figcaption></figure>
 </div>
 
 
