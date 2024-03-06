@@ -3635,7 +3635,7 @@ const songs = [
 "Gloria Jones|Tainted Love|1965|9obvlVPJBEg|Gloria Jones|S6586|Northern Soul;Pop Soul;Pop;R&B;Soul|Tainted Love",
 "Rhye|The Fall|2012|JJS5ywEIsA4|Rhye|S8141|Alternative R&B;Smooth Soul;Sophisti-Pop;Contemporary R&B;Pop;R&B;Soul|",
 "Tom Waits|Time|1985|3_eR0IVSOhY|Tom Waits|S4205|Contemporary Folk;Singer/Songwriter;Folk|Time (Tom Waits song)",
-"The Neville Brothers|Yellow Moon|1989|L1Y6W1FaSVQ|The Neville Brothers|S7717|New Orleans R&B;Soul;R&B|",
+"The Neville Brothers|Yellow Moon|1989|mmZCsRhdh9A|The Neville Brothers|S7717|New Orleans R&B;Soul;R&B|",
 "Khaled|Aïcha|1996|8be8zBJWDJw|Khaled (musician)|S7092|Pop Raï;African Music;Arabic Music;North African Music;Pop;Raï;Regional Music|Aïcha",
 "Blind Lemon Jefferson|Black Snake Moan|1927|XsrRUdCwJew|Blind Lemon Jefferson|S10205|Acoustic Texas Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Black Snake Moan (film)",
 "Chairlift|I Belong in Your Arms|2012|3e8Ql9qFA2o|Chairlift (band)|S5004|New Wave;Synthpop;Electronic;Pop;Rock|",
