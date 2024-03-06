@@ -7611,7 +7611,7 @@ const songs = [
 "Faye Webster|Kingston|2018|-5_tGEao_GQ|Faye Webster|S16958|Alt-Country;Country Soul;Country;R&B;Soul|",
 "Bully|Trying|2015|r7LLBBGOfKY|Bully (band)|S9715|Indie Rock;Alternative Rock;Rock|",
 "Solomon Burke|Don't Give Up on Me|2002|W0bsWl-GnOo|Solomon Burke|S8484|Deep Soul;R&B;Soul;Southern Soul|",
-"Lonnie Mack|Memphis|1963|wJz9f0U7sRA|Lonnie Mack|S7299|Rhythm & Blues;Rock & Roll;R&B;Rock|",
+"Lonnie Mack|Memphis|1963|qfFrBQFnB_o|Lonnie Mack|S7299|Rhythm & Blues;Rock & Roll;R&B;Rock|",
 "Kesha|Praying|2017|v-Dur3uXXCQ|Kesha|S16418|Pop Soul;Singer/Songwriter;Pop;R&B;Soul|Praying (song)",
 "The Shamen|Pro>gen|1990|vrocu-Eknpo|The Shamen|S16295|Alternative Dance;Alternative Rock;Dance;Rock|",
 "Aimee Mann|Deathly|2000|tQ6XqSU4VP4|Aimee Mann|S5119|Pop Rock;Pop;Rock|Magnolia (soundtrack)",
