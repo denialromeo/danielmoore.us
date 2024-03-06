@@ -7878,7 +7878,7 @@ const songs = [
 "Al Wilson|Show and Tell|1973|jXzX9zwlz-Q|Al Wilson (singer)|S12763|Smooth Soul;R&B;Soul|Show and Tell (song)",
 "Cher|Half-Breed|1973|Z6E98ZRaU1s|Cher|S13716|Pop|Half-Breed (song)",
 "Franco Battiato|La cura|1996|7KQeQOnBvZk|Franco Battiato|S13021|Italo Pop;Pop|",
-"The Mills Brothers|You Always Hurt the One You Love|1944|mS9U75YC-jA|The Mills Brothers|S14758|Traditional Pop;Vocal Group;Descriptor;Pop|",
+"The Mills Brothers|You Always Hurt the One You Love|1944|ONqAmDas9AY|The Mills Brothers|S14758|Traditional Pop;Vocal Group;Descriptor;Pop|",
 "Public Enemy|By the Time I Get to Arizona|1991|zrFOb_f7ubw|Public Enemy (band)|S11958|Conscious Hip Hop;East Coast Hip Hop;Hardcore Hip Hop;Political Hip Hop;Hip Hop|By the Time I Get to Arizona",
 "Mantronix|King of the Beats|1988|z_BxXeqvzvE|Mantronix|S1987|East Coast Hip Hop;Hip Hop|",
 "The New Seekers|I'd Like to Teach the World to Sing (In Perfect Harmony)|1971|ZWKznrEjJK4|The New Seekers|S11745|Sunshine Pop;Pop|I'd Like to Teach the World to Sing (In Perfect Harmony)",
