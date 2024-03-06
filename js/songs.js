@@ -10712,7 +10712,7 @@ const songs = [
 "Johnny Hallyday|Retiens la nuit|1961|6P99T_R0EQw|Johnny Hallyday|S6981|Film Soundtrack;Yé-yé;Descriptor;Pop;Soundtracks|Retiens la nuit",
 "La Bien Querida|De momento abril|2009|uCCVQ9ac9_4|La Bien Querida|S7162|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
 "Extremoduro|So payaso|1996|1Iw1Qx7c2yc|Extremoduro|S6329|Hard Rock;Rock|",
-"Acid Pauli|I See a Dark(er)ness|2004|OHbFPidMYYI|Console (musician)|S5093|House;Dance;Electronic;Electronic Dance Music|",
+"Acid Pauli|I See a Dark(er)ness|2004|Ub3KVrtc1j0|Console (musician)|S5093|House;Dance;Electronic;Electronic Dance Music|",
 "Tocotronic|Kapitulation|2007|6nf-Vvi2FXI|Tocotronic|S8775|Indie Pop;Indie Rock;Alternative Rock;Pop;Rock|",
 "Polarkreis 18|Allein allein|2008|-SHwn6O25CY|Polarkreis 18|S7984|Synthpop;Electronic;Pop|",
 "Los Planetas|Un buen día|2000|1BVP72VrGQs|https://es.wikipedia.org/wiki/Los_Planetas_(banda)|S7309|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|",
