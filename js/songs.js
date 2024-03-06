@@ -10519,7 +10519,7 @@ const songs = [
 "Charles Aznavour|Hier encore|1964|GftJvYqCzBk|Charles Aznavour|S13422|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|Hier encore",
 "James Brown|Soul Power|1971|4N-NrucQcB8|James Brown|S6845|Funk;R&B|Soul Power",
 "The Supremes|My World Is Empty Without You|1965|2epQ9QVxh8g|Diana Ross|S12375|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|My World Is Empty Without You",
-"Fabulous Trobadors|Pas de çi|1992|9uz38X4J-UQ|Fabulous Trobadors|S10776|French Hip Hop;Hip Hop|",
+"Fabulous Trobadors|Pas de çi|1992|L70416l6xEg|Fabulous Trobadors|S10776|French Hip Hop;Hip Hop|",
 "World Party|Message in a Box|1990|DXDJbqws3MY|World Party|S9068|Pop Rock;Pop;Rock|",
 "Interpol|Narc|2004|qcXvG6Wa3ZE|Interpol (band)|S6791|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Evil (Interpol song)",
 "Aaliyah|Back & Forth|1994|W8kZmWegXRc|Aaliyah|S5079|Contemporary R&B;Pop Rap;Hip Hop;R&B|Back & Forth (Aaliyah song)",
