@@ -453,7 +453,7 @@ const songs = [
 "The Shins|New Slang|2001|zYwCmcB0XMw|The Shins|S3111|Folk Pop;Indie Pop;Contemporary Folk;Folk;Pop|New Slang",
 "Kanye West|Ultralight Beam|2016|5njh9Dkcvwc|Kanye West|S16116|Contemporary R&B;Gospel;American Folk Music;Folk;R&B;Regional Music;Traditional Folk Music|Ultralight Beam",
 "Antony and the Johnsons|Hope There's Someone|2005|avabPY3XgRc|Antony and the Johnsons|S3000|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|Hope There's Someone",
-"The Damned|New Rose|1976|KPowvspa4BI|The Damned (band)|S664|Punk Rock;Rock|",
+"The Damned|New Rose|1976|TUxFQ5QBiYk|The Damned (band)|S664|Punk Rock;Rock|",
 "R. Kelly|Ignition (Remix)|2003|j4JBrd-xAc0|R. Kelly|S2270|Contemporary R&B;R&B|Ignition (Remix)",
 "The Cure|Boys Don't Cry|1979|YSAqXEcgoZ4|The Cure|S596|New Wave;Post-Punk;Rock|Boys Don't Cry (The Cure song)",
 "The Rolling Stones|Street Fighting Man|1968|hU8o6usr_oU|The Rolling Stones|S2420|Rock|Street Fighting Man",
