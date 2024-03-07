@@ -2271,7 +2271,7 @@ const songs = [
 "Iron Maiden|Hallowed Be Thy Name|1982|_BFXCgm5270|Iron Maiden|S6800|NWOBHM;Heavy Metal;Metal;Rock|Hallowed Be Thy Name (song)",
 "Louis Armstrong|Struttin' with Some Barbeque|1928|SsuNN6kr2Rc|Louis Armstrong|S7328|Dixieland;Jazz|",
 "Lenny Kravitz|Are You Gonna Go My Way|1993|8LhCd1W2V0Q|Lenny Kravitz|S2074|Hard Rock;Rock|",
-"James Brown|Try Me|1958|6HYpxd4KRSM|James Brown|S1224|Rhythm & Blues;Soul;R&B|Try Me (James Brown song)",
+"James Brown|Try Me|1958|bfHnL_FSa3Y|James Brown|S1224|Rhythm & Blues;Soul;R&B|Try Me (James Brown song)",
 "Dinah Washington|What a Diff'rence a Day Makes|1959|10pJTuXmtHs|Dinah Washington|S3940|Jazz Pop;Traditional Pop;Pop|What a Diff'rence a Day Makes",
 "Marvin Gaye|I Want You|1975|gjRLbzxz_3Y|Marvin Gaye|S7460|Smooth Soul;R&B;Soul|I Want You (Marvin Gaye song)",
 "Jessie Ware|Wildest Moments|2012|bMJkddvJ4L4|Jessie Ware|S5051|Alternative R&B;Pop Soul;Contemporary R&B;Pop;R&B;Soul|Wildest Moments",
