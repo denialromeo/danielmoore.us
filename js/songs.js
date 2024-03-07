@@ -1087,7 +1087,7 @@ const songs = [
 "George Gershwin|Rhapsody in Blue|1924|cH2PH0auTUU|George Gershwin|S2684|Big Band;Modern Classical;Classical Music;Jazz|Rhapsody in Blue",
 "Tennessee Ernie Ford|Sixteen Tons|1955|Joo90ZWrUkU|Tennessee Ernie Ford|S1291|Country Boogie;Rhythm & Blues;Vocal Jazz;American Folk Music;Country;Folk;Jazz;R&B;Regional Music;Traditional Country;Traditional Folk Music|",
 "The Drifters|On Broadway|1963|yPYRtjxYEH8|The Drifters|S1061|Brill Building;Pop Soul;Pop;R&B;Soul|On Broadway (song)",
-"The Surfaris|Wipe Out|1963|dBURLdhmmZ8|The Surfaris|S1066|Rock & Roll;Surf Rock;Rock;Surf Music|",
+"The Surfaris|Wipe Out|1963|dBURLdhmmZ8|The Surfaris|S1066|Rock & Roll;Surf Rock;Rock;Surf Music|Wipe Out (instrumental)",
 "Elastica|Connection|1994|ilKcXIFi-Rc|Elastica|S93|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Connection (Elastica song)",
 "The Trammps|Disco Inferno|1976|L6imql3iDQQ|The Trammps|S637|Disco;Dance|Disco Inferno",
 "Mamie Smith|Crazy Blues|1920|OiJrBgbwsJw|Mamie Smith|S2746|Vaudeville Blues;Blues;Musical Theatre and Entertainment;Vaudeville|",
