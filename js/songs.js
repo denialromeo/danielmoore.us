@@ -7871,7 +7871,7 @@ const songs = [
 "Amadou & Mariam|Senegal Fast Food|2004|J43T8rEOg-I|Amadou & Mariam|S14062|Tishoumaren;African Music;Berber Music;North African Music;Regional Music;Tuareg Music|",
 "Kid Rock|All Summer Long|2007|aSkFygPCTwE|Kid Rock|S7097|Pop Rock;Pop;Rock|All Summer Long (Kid Rock song)",
 "Bad Company|Bad Company|1974|JXQJpyQBShU|Bad Company|S10062|Blues Rock;Rock|",
-"Alabama 3|Woke Up This Mornin'|1997|YDDkCiUhHCc|Alabama 3|S5134|Baggy / Madchester;Alternative Rock;Rock|",
+"Alabama 3|Woke Up This Mornin'|1997|0V5HHiscbpQ|Alabama 3|S5134|Baggy / Madchester;Alternative Rock;Rock|",
 "Cutting Crew|(I Just) Died in Your Arms|1986|6dOwHzCHfgA|Cutting Crew|S5931|AOR;Pop Rock;Pop;Rock|(I Just) Died in Your Arms",
 "Spinners|Then Came You|1974|uOViqvRsIgo|Dionne Warwick|S3837|Philly Soul;Pop Soul;Pop;R&B;Soul|Then Came You (Dionne Warwick and the Spinners song)",
 "LeVert|Casanova|1987|lrLurrxH5fk|LeVert|S2368|Freestyle;New Jack Swing;Pop Soul;Contemporary R&B;Dance;Dance-Pop;Electronic;Electronic Dance Music;Pop;R&B;Soul|",
