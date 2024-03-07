@@ -9926,7 +9926,7 @@ const songs = [
 "Siouxsie and the Banshees|Dear Prudence|1983|M6rrTROoZIw|Siouxsie and the Banshees|S8431|Gothic Rock;Neo-Psychedelia;Post-Punk;Psychedelic Rock;Rock|Dear Prudence",
 "Stéphane Grappelli and His Hot Four with Django Reinhardt|Djangology|1936|DsJqfM4_dqs|Stéphane Grappelli|S13184|Jazz manouche;Jazz|",
 "The Avett Brothers|I and Love and You|2009|T0eSpAgqrWo|The Avett Brothers|S4824|Americana;Piano Rock;Country;Pop;Pop Rock;Rock|",
-"Les Brown|I've Got My Love to Keep Me Warm|1948|rk2tZUT_Tu0|Les Brown (bandleader)|S9276|Big Band;Jazz|I've Got My Love to Keep Me Warm",
+"Les Brown|I've Got My Love to Keep Me Warm|1948|vGp6_ChJ7pA|Les Brown (bandleader)|S9276|Big Band;Jazz|I've Got My Love to Keep Me Warm",
 "KRS-One|Step into a World (Rapture's Delight)|1997|YelLNlkjZfA|KRS-One|S7153|Boom Bap;East Coast Hip Hop;Hip Hop|Step into a World (Rapture's Delight)",
 "Prince|Housequake|1987|t3sBMaDMCrk|Prince (musician)|S11946|Funk;New Jack Swing;Contemporary R&B;R&B|Sign o' the Times",
 "Hot Butter|Popcorn|1972|YK3ZP6frAMc|Hot Butter|S13806|Synthpop;Electronic;Pop|",
