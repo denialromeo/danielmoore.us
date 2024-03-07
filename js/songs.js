@@ -736,7 +736,7 @@ const songs = [
 "Dizzee Rascal|Fix Up, Look Sharp|2003|kZGvnI37mxk|Dizzee Rascal|S2258|UK Hip Hop;Hip Hop|Fix Up, Look Sharp",
 "Coldplay|Clocks|2002|d020hcWA_Wg|Coldplay|S2394|Alternative Rock;Pop Rock;Pop;Rock|Clocks (song)",
 "The Rolling Stones|Angie|1973|RcZn2-bGXqQ|The Rolling Stones|S764|Blues Rock;Rock|Angie (song)",
-"The Temptations|Just My Imagination (Running Away with Me)|1971|WZ4Ym9Xiw3w|The Temptations|S819|Pop Soul;Smooth Soul;Pop;R&B;Soul|",
+"The Temptations|Just My Imagination (Running Away with Me)|1971|WZ4Ym9Xiw3w|The Temptations|S819|Pop Soul;Smooth Soul;Pop;R&B;Soul|Just My Imagination (Running Away with Me)",
 "Bob Seger|Night Moves|1976|Mg2FOymTJnE|Bob Seger|S662|Heartland Rock;Soft Rock;Pop;Pop Rock;Rock|Night Moves (Bob Seger song)",
 "Ian Dury|Sex & Drugs & Rock & Roll|1977|BCaPTNhwK-4|Ian Dury|S646|New Wave;Rock|Sex & Drugs & Rock & Roll",
 "Black Sabbath|Iron Man|1970|F01UTYg79KY|Black Sabbath|S2552|Heavy Metal;Metal;Rock|Iron Man (song)",
