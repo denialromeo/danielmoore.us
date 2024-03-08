@@ -3799,7 +3799,7 @@ const songs = [
 "Jackson Browne|Doctor My Eyes|1972|9wF7zc_YK6A?start=11|Jackson Browne|S3248|Singer/Songwriter|Doctor, My Eyes",
 "Dock Boggs|Country Blues|1927|O1BsgDZIEU4|Dock Boggs|S2651|Old-Time;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
 "Bob Marley and the Wailers|Waiting in Vain|1977|IWxbhC44p2w|Bob Marley|S1798|Lovers Rock;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
-"The Strokes|New York City Cops|2001|rOmkPrhpQGQ|The Strokes|S8611|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|New York City Cops (song)",
+"The Strokes|New York City Cops|2001|vhgYg_ktRdE|The Strokes|S8611|Garage Rock Revival;Indie Rock;Alternative Rock;Garage Rock;Rock|New York City Cops (song)",
 "Liquid Liquid|Optimo|1983|QTS5jXKLGkQ|Liquid Liquid|S4565|Dance-Punk;Post-Punk;Rock|",
 "Paul McCartney|Silly Love Songs|1976|qzNpso_vDaQ|Paul McCartney and Wings|S7883|Pop Rock;Pop;Rock|Silly Love Songs",
 "Björk|Stonemilker|2015|gQEyezu7G20|Björk|S9711|Art Pop;Chamber Pop;Downtempo;Baroque Pop;Electronic;Indie Pop;Pop|Stonemilker",
