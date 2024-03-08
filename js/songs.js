@@ -1932,7 +1932,7 @@ const songs = [
 "QT|Hey QT|2014|1MQUleX1PeA|QT (musician)|S9574|Bubblegum Bass;Dance-Pop;Dance;Electronic;Electronic Dance Music;Pop|",
 "Fats Domino|The Fat Man|1950|jeWmMJ-J45c|Fats Domino|S3345|New Orleans R&B;Rhythm & Blues;R&B|",
 "Raspberries|Go All the Way|1972|jfgnc6Ey0q0|Raspberries (band)|S806|Power Pop;Pop;Pop Rock;Rock|Go All the Way (song)",
-"Ray Price|Crazy Arms|1956|GurizZaR0Ms|Ray Price (musician)|S1285|Honky Tonk;Nashville Sound;Country;Country Pop;Pop|Crazy Arms",
+"Ray Price|Crazy Arms|1956|ZeNUqahfeAY|Ray Price (musician)|S1285|Honky Tonk;Nashville Sound;Country;Country Pop;Pop|Crazy Arms",
 "Yes|I've Seen All Good People|1971|k0jReeAe3do|Yes (band)|S9091|Progressive Rock;Rock|I've Seen All Good People",
 "Ennio Morricone|The Good, the Bad and the Ugly|1966|enuOArEfqGo|Ennio Morricone|S6287|Film Score;Spaghetti Western;Cinematic Classical;Classical Music;Descriptor;Film Soundtrack;Soundtracks|",
 "Modest Mouse|Dashboard|2007|penvn9VL32Y|Modest Mouse|S4281|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|Dashboard (song)",
