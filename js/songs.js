@@ -850,7 +850,7 @@ const songs = [
 "Barrett Strong|Money (That's What I Want)|1959|DvORle6h5r8|Barrett Strong|S1149|Rhythm & Blues;Soul;R&B|Money (That's What I Want)",
 "Billy Joel|Piano Man|1973|gxEPV4kolz0|Billy Joel|S1759|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Piano Man (song)",
 "Run-D.M.C.|It's Like That|1983|_hN1SKVx31s|Run-DMC|S468|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|It's Like That (Run-D.M.C. song)",
-"The Ventures|Walk - Don't Run|1960|owq7hgzna3E|The Ventures|S1152|Surf Rock;Rock;Surf Music|",
+"The Ventures|Walk, Don't Run|1960|owq7hgzna3E|The Ventures|S1152|Surf Rock;Rock;Surf Music|Walk, Don't Run (instrumental)",
 "George Clinton|Atomic Dog|1982|LuyS9M8T03A|George Clinton (musician)|S475|P-Funk;Synth Funk;Funk;R&B|Atomic Dog",
 "New Radicals|You Get What You Give|1998|DL7-CKirWZE|New Radicals|S279|Pop Rock;Pop;Rock|You Get What You Give (song)",
 "T.I.|What You Know|2006|_Ym7Mg4yTZc|T.I.|S4001|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|What You Know (T.I. song)",
