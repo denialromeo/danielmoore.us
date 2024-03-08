@@ -8961,7 +8961,7 @@ const songs = [
 "Grateful Dead|Casey Jones|1970|CxCfnq7A56M|Grateful Dead|S10969|Country Rock;Rock|Casey Jones (song)",
 "Space|Female of the Species|1996|F1NBpVKWh_c|Space (UK band)|S2119|Britpop;Space Age Pop;Alternative Rock;Easy Listening;Pop;Pop Rock;Rock|Female of the Species",
 "Bobby Solo|Una lacrima sul viso|1964|T4JhV0-jI6w|Bobby Solo|S14169|Italo Pop;Pop|Una lacrima sul viso",
-"War|The Cisco Kid|1972|iu_YVswb3p4|War (American band)|S8933|Funk;Soul;R&B|The Cisco Kid (song)",
+"War|The Cisco Kid|1972|bxBX2ord2bg|War (American band)|S8933|Funk;Soul;R&B|The Cisco Kid (song)",
 "Lily Allen|Not Fair|2009|fUYaosyR4bE|Lily Allen|S7265|Country Pop;Country;Pop|Not Fair",
 "Can|Father Cannot Yell|1969|-xh6hECCots|Can (band)|S10347|Krautrock;Psychedelic Rock;Experimental Rock;Progressive Rock;Rock|",
 "Bob Dylan|All I Really Want to Do|1964|_IX0zu2VEPA|Bob Dylan|S5537|Contemporary Folk;Singer/Songwriter;Folk|All I Really Want to Do",
