@@ -7457,7 +7457,7 @@ const songs = [
 "La Revolución De Emiliano Zapata|Nasty Sex|1970|GNs1oBw9_9U|La Revolución de Emiliano Zapata|S13537|Psychedelic Rock;Rock|",
 "Nilsson|Jump Into the Fire|1971|CfjNpgZ4C5Q|Harry Nilsson|S11761|Acid Rock;Psychedelic Rock;Rock|Jump into the Fire",
 "Electric Light Orchestra|Telephone Line|1976|cVvncz95yHc|Electric Light Orchestra|S6228|Baroque Pop;Pop Rock;Symphonic Rock;Pop;Rock|Telephone Line (song)",
-"Jonathan Richman/The Modern Lovers|Egyptian Reggae|1977|2ZyMPToh9Yg|Jonathan Richman|S6994|Pop Rock;Pop;Rock|",
+"Jonathan Richman & The Modern Lovers|Egyptian Reggae|1977|2ZyMPToh9Yg|Jonathan Richman|S6994|Pop Rock;Pop;Rock|",
 "Modest Mouse|Dramamine|1996|PwnLxySXJ0E|Modest Mouse|S14766|Midwest Emo;Alternative Rock;Emo;Indie Rock;Rock|",
 "The Dears|Lost in the Plot|2003|u0zRxxBKZ1A|The Dears|S5993|Indie Rock;Alternative Rock;Rock|",
 "Arcade Fire|Suburban War|2010|loONr92eyDY|Arcade Fire|S4887|Heartland Rock;Indie Rock;Alternative Rock;Rock|",
