@@ -5796,7 +5796,7 @@ const songs = [
 "Ray Charles|Let's Go Get Stoned|1966|yccugqORTz0|Ray Charles|S3272|Pop Soul;Pop;R&B;Soul|Let's Go Get Stoned",
 "Franz Ferdinand|Matinee|2004|cKyG1dRoDlA|Franz Ferdinand (band)|S2460|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|The Dark of the Matinée",
 "Charlie Parker|Embraceable You|1948|tqQfX4j6Mi0|Charlie Parker|S13425|Bebop;Jazz|",
-"Ray Noble|The Very Thought of You|1934|OVoN-xmVtNA|Ray Noble|S8107|British Dance Band;Jazz;Pop;Traditional Pop|The Very Thought of You",
+"Ray Noble|The Very Thought of You|1934|HvyVauwm7Zk|Ray Noble|S8107|British Dance Band;Jazz;Pop;Traditional Pop|The Very Thought of You",
 "The Blues Brothers|Everybody Needs Somebody To Love|1980|EHV0zs0kVGg|The Blues Brothers|S12932|Film Soundtrack;Rhythm & Blues;Descriptor;R&B;Soundtracks|Everybody Needs Somebody to Love",
 "Daryl Hall & John Oates|Kiss on My List|1981|lsHld-iArOc|Hall & Oates|S6672|Blue Eyed Soul;Yacht Rock;Pop;Pop Rock;Rock|",
 "Change|The Glow of Love|1980|9sL95rzwvSM?start=29|Change (band)|S10371|Boogie;Dance;Disco;R&B|",
