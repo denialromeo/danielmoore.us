@@ -6637,7 +6637,7 @@ const songs = [
 "Rachid Taha|Rock El Casbah|2004|n1p_dkJo6Y8|Rachid Taha|S14916|Pop Raï;African Music;Arabic Music;North African Music;Pop;Raï;Regional Music|Rock the Casbah",
 "Kano feat. Wiley & Giggs|3 Wheel-ups|2016|79ZP946eNVQ|Kano (band)|S16111|Grime;Electronic|Kano (British musician)",
 "Vanessa Paradis|Be My Baby|1992|75hIaCsVKOw|Vanessa Paradis|S8927|Blue Eyed Soul;Pop Soul;Pop;R&B;Soul|Be My Baby (Vanessa Paradis song)",
-"Dr. Dre feat. Snoop Doggy Dogg|Fuck wit Dre Day (And Everybody's Celebratin')/Dre Day|1992|SN2OYHkKmls|Dr. Dre|S10649|G-Funk;Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Fuck wit Dre Day (And Everybody's Celebratin')",
+"Dr. Dre feat. Snoop Doggy Dogg|Fuck wit Dre Day (And Everybody's Celebratin')/Dre Day|1992|_bI4HKjKF-E|Dr. Dre|S10649|G-Funk;Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Fuck wit Dre Day (And Everybody's Celebratin')",
 "Mariah Carey|Dreamlover|1993|CqBtS6BIP1E|Mariah Carey|S2061|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|Dreamlover (song)",
 "Hop Along|Waitress|2015|AU39gpBHMK4?start=7|Hop Along|S9777|Indie Rock;Alternative Rock;Rock|",
 "Sneaker Pimps|Spin Spin Sugar|1997|BqfIvPQ8Dgo|Sneaker Pimps|S2148|Alternative Dance;Trip Hop;Alternative Rock;Dance;Downtempo;Electronic;Rock|Spin Spin Sugar",
