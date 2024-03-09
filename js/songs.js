@@ -10863,7 +10863,7 @@ const songs = [
 "David Crosby|Music Is Love|1971|ogCHUHD-y1Q|David Crosby|S5979|Folk Pop;Folk Rock;Singer/Songwriter;Contemporary Folk;Folk;Pop;Rock|",
 "Bob Dylan|Queen Jane Approximately|1965|5-ZmD3sCFcE|Bob Dylan|S10239|Folk Rock;Singer/Songwriter;Rock|Queen Jane Approximately",
 "Donovan|There Is a Mountain|1967|lkLp9d7HKuA|Donovan|S13746|Folk Pop;Folk Rock;Contemporary Folk;Folk;Pop;Rock|There Is a Mountain",
-"Gene|For the Dead|1994|KCxqsXCPUZo|Gene (band)|S6512|Britpop;Alternative Rock;Pop;Pop Rock;Rock|",
+"Gene|For the Dead|1994|onFqLRbtCb8|Gene (band)|S6512|Britpop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Rodriguez|Crucify Your Mind|1970|hVdWXqtk484|Sixto Rodriguez|S9336|Folk Rock;Singer/Songwriter;Rock|Cold Fact",
 "Jenny Hval|Female Vampire|2016|ZVaWc00aZ30|Jenny Hval|S16104|Art Pop;Dream Pop;Ethereal Wave;Alternative Rock;Darkwave;Gothic Rock;Pop;Rock|",
 "Tracey Ullman|They Don't Know|1983|f9un119lq4c|Tracey Ullman|S8829|Pop|They Don't Know (Kirsty MacColl song)",
