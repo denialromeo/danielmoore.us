@@ -8083,7 +8083,7 @@ const songs = [
 "Françoise Hardy|Le temps de l'amour|1962|F9we8i2Lj5w?start=3|Françoise Hardy|S10860|Yé-yé;Pop|",
 "Backstreet Boys|Quit Playin' Games (With My Heart)|1996|Ug88HO2mg44|Backstreet Boys|S5297|Boy Band;Teen Pop;Pop|Quit Playing Games (with My Heart)",
 "Clarence Carter|Making Love (At the Dark End of the...)|1969|ioFRJBxDhjg|Clarence Carter|S2850|Southern Soul;R&B;Soul|",
-"Erik Lundin|Suedi|2015|Z4hIra6yNb0|https://sv.wikipedia.org/wiki/Erik_Lundin_(rappare)|S9752|Pop Rap;Hip Hop|",
+"Erik Lundin|Suedi|2015|GbzLGbmTjfY|https://sv.wikipedia.org/wiki/Erik_Lundin_(rappare)|S9752|Pop Rap;Hip Hop|",
 "Steve Winwood|Valerie|1982|cbKNICg-REA|Steve Winwood|S12315|Synthpop;Electronic;Pop|Valerie (Steve Winwood song)",
 "Nick Drake|Saturday Sun|1969|26a7skUt6-g|Nick Drake|S13046|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk|Saturday Sun",
 "Kenny Rogers|Ruby, Don't Take Your Love to Town|1969|xiohkveacxM|Kenny Rogers and the First Edition|S4132|Country Pop;Folk Pop;Contemporary Folk;Country;Folk;Pop|Ruby, Don't Take Your Love to Town",
