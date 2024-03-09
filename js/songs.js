@@ -9291,7 +9291,7 @@ const songs = [
 "Lush|Ladykillers|1996|Iedz_x6Hlhw|Lush (band)|S7352|Britpop;Indie Pop;Indie Rock;Alternative Rock;Pop;Pop Rock;Rock|Ladykillers (song)",
 "Rick Nelson|Stood Up|1957|tE455KVZswY|Ricky Nelson|S8154|Rock & Roll;Rock|",
 "Nina Simone|I Wish I Knew How It Would Feel to Be Free|1967|HDqmJEWOJRI|Nina Simone|S7746|Vocal Jazz;Jazz|I Wish I Knew How It Would Feel to Be Free",
-"Scott Walker|Big Louise|1969|k7zeQXpYaig|Scott Walker (singer)|S3929|Baroque Pop;Pop|Scott 3",
+"Scott Walker|Big Louise|1969|8z1HS4oKQ6k|Scott Walker (singer)|S3929|Baroque Pop;Pop|Scott 3",
 "Jamie Woon|Night Air|2010|EL0pTo9Z_XU|Jamie Woon|S6856|Alternative R&B;Future Garage;Contemporary R&B;Dance;Electronic;Electronic Dance Music;R&B;UK Garage|",
 "Karyn White|Superwoman|1988|A4C4NiVKrXk|Karyn White|S3952|Contemporary R&B;Pop Soul;Pop;R&B;Soul|Superwoman (Karyn White song)",
 "The Reflections|(Just Like) Romeo and Juliet|1964|zX1-e0w3mUw|The Reflections (Detroit band)|S12047|Blue Eyed Soul;Pop|(Just Like) Romeo and Juliet",
