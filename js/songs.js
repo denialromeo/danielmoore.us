@@ -5719,7 +5719,7 @@ const songs = [
 "Bobby Darin|Splish Splash|1958|QSA-yHzkvP8|Bobby Darin|S3318|Novelty;Rock & Roll;Descriptor;Rock|Splish Splash (song)",
 "Skee-Lo|I Wish|1995|cmXZOI7cM0M|Skee-Lo|S3813|Pop Rap;West Coast Hip Hop;Hip Hop|I Wish (Skee-Lo song)",
 "Eric Donaldson|Cherry Oh Baby|1971|FFHNE6_bEHU?start=137|Eric Donaldson|S6302|Reggae;Rocksteady;Caribbean Music;Jamaican Music;Regional Music|",
-"Spinners|The Rubberband Man|1976|dXcFFNx0_g8?start=5|The Spinners (American R&B group)|S3839|Funk;Philly Soul;R&B;Soul|The Rubberband Man",
+"Spinners|The Rubberband Man|1976|rx00W3cBtgs|The Spinners (American R&B group)|S3839|Funk;Philly Soul;R&B;Soul|The Rubberband Man",
 "Duran Duran|The Reflex|1984|J5ebkj9x5Ko|Duran Duran|S6174|New Wave;Synthpop;Electronic;Pop;Rock|",
 "Madonna|Die Another Day|2002|VlbaJA7aO9M|Madonna (entertainer)|S2978|Dance-Pop;Electroclash;Electropop;Film Soundtrack;Dance;Descriptor;Electronic;Electronic Dance Music;Pop;Soundtracks|Die Another Day (song)",
 "Muddy Waters|I'm Ready|1954|VrKHz94rGpk|Muddy Waters|S4365|Chicago Blues;Blues;Electric Blues|I'm Ready (Muddy Waters song)",
