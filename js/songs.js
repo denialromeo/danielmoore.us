@@ -1996,7 +1996,7 @@ const songs = [
 "Serge Gainsbourg|Requiem pour un con|1968|-Olgv2tX6Bs|Serge Gainsbourg|S8357|French Pop;Pop|",
 "N.W.A|Express Yourself|1988|u31FO_4d9TY|N.W.A|S1996|Conscious Hip Hop;West Coast Hip Hop;Hip Hop|Express Yourself (N.W.A song)",
 "Arthur Conley|Sweet Soul Music|1967|sp3JOzcpBds|Arthur Conley|S954|Southern Soul;R&B;Soul|Sweet Soul Music",
-"Dead Boys|Sonic Reducer|1977|30bv915bDtY|Dead Boys|S4431|Punk Rock;Rock|Sonic Reducer",
+"Dead Boys|Sonic Reducer|1977|-3YbedLa5I0|Dead Boys|S4431|Punk Rock;Rock|Sonic Reducer",
 "John Coltrane|A Love Supreme, Part 2: Resolution|1965|CsxtKQW9ggg|John Coltrane|S11225|Spiritual Jazz;Avant-Garde Jazz;Jazz|",
 "Michael Jackson|Smooth Criminal|1987|h_D3VFfhvs4?start=64|Michael Jackson|S3506|Dance-Pop;Dance;Pop|Smooth Criminal",
 "Timmy Thomas|Why Can't We Live Together|1972|KYx2uZRlJCk|Timmy Thomas|S799|Soul;R&B|Why Can't We Live Together",
