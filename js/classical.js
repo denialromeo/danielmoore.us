@@ -195,7 +195,7 @@ const classical = [
 "Ludwig van Beethoven|Piano Concerto No. 4 in G major|1806|6lvBQJjxw4c|Ludwig van Beethoven|Piano Concerto No. 4 (Beethoven)",
 "Ludwig van Beethoven|String Quartets, Op. 59, \"Razumovsky\"|1806|oXLKu-HglnM|Ludwig van Beethoven|String Quartets, Op. 59 (Beethoven)",
 "Ludwig van Beethoven|Symphony No. 4|1806|Ec6i45d74nk|Ludwig van Beethoven|Symphony No. 4 (Beethoven)",
-"Ludwig van Beethoven|Violin Concerto|1806|0Cg_0jepxow|Ludwig van Beethoven|Violin Concerto (Beethoven)",
+"Ludwig van Beethoven|Violin Concerto|1806|cokCgWPRZPg?start=70|Ludwig van Beethoven|Violin Concerto (Beethoven)",
 "Ludwig van Beethoven|Symphony No. 5|1807|fuPrcnpIRx8?start=17|Ludwig van Beethoven|Symphony No. 5 (Beethoven)",
 "Ludwig van Beethoven|Piano Trio in D major, Op. 70, No. 1, \"Ghost\"|1808|_XgK71JuBXA?start=3|Ludwig van Beethoven|Piano Trios, Op. 70 (Beethoven)",
 "Ludwig van Beethoven|Symphony No. 6, \"Pastoral\"|1808|nXgBtAD5daM|Ludwig van Beethoven|Symphony No. 6 (Beethoven)",
