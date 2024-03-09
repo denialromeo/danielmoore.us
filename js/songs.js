@@ -1591,7 +1591,7 @@ const songs = [
 "War|Low Rider|1975|BsrqKE1iqqo|War (American band)|S719|Latin Funk;Funk;Hispanic Music;Latin American Music;R&B;Regional Music|Low Rider",
 "Radiohead|True Love Waits|2001|vSYadaGM0aQ|Radiohead|S12004|Acoustic Rock;Rock|True Love Waits (song)",
 "Bonnie Tyler|Total Eclipse of the Heart|1983|lcOxhH8N3Bo|Bonnie Tyler|S3918|AOR;Pop Rock;Pop;Rock|Total Eclipse of the Heart",
-"The Temptations|Ball of Confusion (That's What the World Is Today)|1970|-9poCAuYT-s|The Temptations|S853|Psychedelic Soul;R&B;Soul|",
+"The Temptations|Ball of Confusion (That's What the World Is Today)|1970|D5P7x4vh_ts|The Temptations|S853|Psychedelic Soul;R&B;Soul|",
 "Solomon Burke|Everybody Needs Somebody to Love|1964|ZW4jyPxqFY0?start=38|Solomon Burke|S1043|Soul;R&B|Everybody Needs Somebody to Love",
 "Elvis Costello|(I Don't Want to Go to) Chelsea|1978|XvRQDsH0Yho|Elvis Costello|S629|New Wave;Pop Rock;Pop;Rock|(I Don't Want to Go to) Chelsea",
 "The Game|Hate It or Love It|2005|BuMBmK5uksg|The Game (rapper)|S3011|Conscious Hip Hop;Gangsta Rap;West Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
