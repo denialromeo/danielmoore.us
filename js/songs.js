@@ -6454,7 +6454,7 @@ const songs = [
 "Wild Beasts|Wanderlust|2014|9IIbbFIQTKI|Wild Beasts|S9589|Art Pop;Synthpop;Electronic;Pop|",
 "Supertramp|Bloody Well Right|1974|LAuSRnTXZeg|Supertramp|S8642|Progressive Rock;Rock|Bloody Well Right",
 "Eurythmics|Sisters Are Doin' It for Themselves|1985|drGx7JkFSp4|Eurythmics|S6313|Pop Soul;Pop;R&B;Soul|Sisters Are Doin' It for Themselves",
-"Noir Désir|Tostaky (Le continent)|1992|4XgGJP7Du-8|Noir Désir|S11782|Alternative Rock;Rock|",
+"Noir Désir|Tostaky (Le continent)|1992|OHCjKIRBC00|Noir Désir|S11782|Alternative Rock;Rock|https://fr.wikipedia.org/wiki/Tostaky_(le_continent)",
 "Spirit|I Got a Line on You|1968|wnrt6ykm6Do|Spirit (band)|S8531|Psychedelic Rock;Rock|I Got a Line on You",
 "Leroy Carr & Scrapper Blackwell|Blues Before Sunrise|1934|29QssurdPOY|Leroy Carr|S15652|Piano Blues;Blues|",
 "Avicii|Levels|2011|_ovdm2yX4MA|Avicii|S16899|Electro House;Progressive House;Dance;Electronic;Electronic Dance Music;House|Levels (Avicii song)",
