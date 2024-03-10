@@ -8563,7 +8563,7 @@ const songs = [
 "Billy Thorpe & The Aztecs|Most People I Know (Think That I'm Crazy)|1972|XtJq56cp_dk|Billy Thorpe|S10180|Pop Rock;Pop;Rock|",
 "A Tribe Called Quest feat. Busta Rhymes|Dis Generation|2016|kQaSDJYwdh4|A Tribe Called Quest|S16016|Conscious Hip Hop;East Coast Hip Hop;Jazz Rap;Hip Hop|",
 "Swans|Oxygen|2014|Xs6m9HeWXck|Swans (band)|S9655|Experimental Rock;Noise Rock;Rock|",
-"Iron Maiden|Fear of the Dark|1992|2VgOjY-TPUo|Iron Maiden|S15549|Heavy Metal;Metal;Rock|",
+"Iron Maiden|Fear of the Dark|1992|X_hMZYDMps4|Iron Maiden|S15549|Heavy Metal;Metal;Rock|",
 "The Band|Chest Fever|1968|WzWUWMC4oPQ|The Band|S5308|Roots Rock;Rock|Chest Fever",
 "Kay Kyser|Three Little Fishes|1939|GEkBF0BUXIM|Kay Kyser|S7071|Traditional Pop;Pop|Three Little Fishies",
 "Heaven 17|Let Me Go|1982|Zjt7poJXd4I|Heaven 17|S11019|Synthpop;Electronic;Pop|Let Me Go (Heaven 17 song)",

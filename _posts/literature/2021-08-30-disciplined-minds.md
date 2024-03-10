@@ -10,7 +10,7 @@ permalink: /disciplined-minds
 > As a respected white man, the schoolteacher is allowed access to the system&mdash;until it becomes obvious that he is asking the wrong questions and adopting the wrong attitude. Then he is ostracized. He loses his job. Shots are fired through his windows. His wife is furious that he has betrayed his family by appearing to be a "kaffir lover". His daughter finds him a disgrace.
 <br> &mdash; Roger Ebert, [review](https://www.goodreads.com/notes/9517283-roger-ebert-s-four-star-reviews-1967-2007/71655209-daniel-moore) of *A Dry White Season*
 
-In 2000, physicist Jeff Schmidt wrote [*Disciplined Minds*](https://ia800103.us.archive.org/22/items/jeff_schmidt_disciplined_minds/Jeff%20Schmidt%20-%20Disciplined%20Minds%20A%20Critical%20Look%20at%20Salaried%20Professionals%20and%20the%20Soul-battering%20System%20That%20Shapes%20Their%20Lives.pdf), an analysis of hierarchical organizations and their effects on society. While its focus is on academia, many insights are universal.
+In 2000, physicist [Jeff Schmidt](https://disciplinedminds.tripod.com/) wrote [*Disciplined Minds*](https://ia800103.us.archive.org/22/items/jeff_schmidt_disciplined_minds/Jeff%20Schmidt%20-%20Disciplined%20Minds%20A%20Critical%20Look%20at%20Salaried%20Professionals%20and%20the%20Soul-battering%20System%20That%20Shapes%20Their%20Lives.pdf), an analysis of hierarchical organizations and their effects on society. While its focus is on academia, many insights are universal.
 
 <div id="random-excerpt"></div>
 
