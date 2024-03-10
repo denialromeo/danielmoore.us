@@ -10505,7 +10505,7 @@ const songs = [
 "Pet Shop Boys|Where the Streets Have No Name|1991|aIX5UrmKyUY|Pet Shop Boys|S7938|Dance-Pop;Synthpop;Dance;Electronic;Pop|Where the Streets Have No Name (I Can't Take My Eyes Off You)",
 "Slade|Far Far Away|1974|iQ5itYUNu70|Slade|S8441|Glam Rock;Pop Rock;Pop;Rock|Far Far Away (song)",
 "Bloc Party|Two More Years|2005|UbPP_bb585E|Bloc Party|S5502|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|",
-"Serge Gainsbourg|L'anamour|1969|wshQeubmXMY|Serge Gainsbourg|S12178|French Pop;Pop|",
+"Serge Gainsbourg|L'anamour|1969|S1y90eIypJ4|Serge Gainsbourg|S12178|French Pop;Pop|",
 "Bee Gees|Too Much Heaven|1978|i6iBAuwBODA|Bee Gees|S10131|Blue Eyed Soul;Disco;Dance;Pop|Too Much Heaven",
 "Billy Joel|I've Loved These Days|1976|kBW7jfCA-wU|Billy Joel|S10175|Piano Rock;Singer/Songwriter;Pop;Pop Rock;Rock|Turnstiles (album)",
 "The Pains of Being Pure at Heart|Heart in Your Heartbreak|2010|T2syY0U-eY0|The Pains of Being Pure at Heart|S7841|Jangle Pop;Twee Pop;Alternative Rock;Indie Pop;Pop;Pop Rock;Rock|",
