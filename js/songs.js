@@ -2794,7 +2794,7 @@ const songs = [
 "AC/DC|For Those About to Rock (We Salute You)|1981|RtMGoU9NcMo|AC/DC|S5089|Hard Rock;Rock|For Those About to Rock (We Salute You)",
 "Led Zeppelin|No Quarter|1973|kW3xDZrlBQs|Led Zeppelin|S2579|Progressive Rock;Psychedelic Rock;Rock|No Quarter (song)",
 "The Kinks|Days|1968|5ih8y8arB7s|The Kinks|S7125|Pop Rock;Pop;Rock|Days (The Kinks song)",
-"The Rolling Stones|As Tears Go By|1965|_KgXsgBYqY4?start=7s|The Rolling Stones|S9337|Baroque Pop;Pop|As Tears Go By (song)",
+"The Rolling Stones|As Tears Go By|1965|2zLGxLfHgzs|The Rolling Stones|S9337|Baroque Pop;Pop|As Tears Go By (song)",
 "Ian Dury|Hit Me with Your Rhythm Stick|1978|ZWHtz8D3vrw|The Blockheads|S615|New Wave;Rock|Hit Me with Your Rhythm Stick",
 "Meade Lux Lewis|Honky Tonk Train Blues|1929|tDuLezFRMNU|Meade Lux Lewis|S11592|Boogie Woogie;Piano Blues;American Folk Music;Blues;Folk;Regional Music;Traditional Folk Music|",
 "Foo Fighters|The Pretender|2007|SBjQ9tuuTJQ|Foo Fighters|S4309|Post-Grunge;Alternative Rock;Rock|The Pretender (Foo Fighters song)",
