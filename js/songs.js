@@ -3876,7 +3876,7 @@ const songs = [
 "The Left Banke|Pretty Ballerina|1966|BHt7rfySxqk|The Left Banke|S7218|Baroque Pop;Pop|Pretty Ballerina",
 "Ace of Base|All That She Wants|1992|d73tiBBzvFM|Ace of Base|S5091|Dance-Pop;Europop;Pop Reggae;Caribbean Music;Dance;Jamaican Music;Pop;Reggae;Regional Music|All That She Wants",
 "Dexys Midnight Runners|There, There, My Dear|1980|3ZwWnXuB_eg|Dexys Midnight Runners|S4446|Blue Eyed Soul;New Wave;Pop;Rock|There, There, My Dear",
-"Claudine Clark|Party Lights|1962|JhYMyZlC-Hc|Claudine Clark|S1084|Girl Group;Pop|Party Lights (Claudine Clark song)",
+"Claudine Clark|Party Lights|1962|YJH6AqcSzDU|Claudine Clark|S1084|Girl Group;Pop|Party Lights (Claudine Clark song)",
 "Television|Little Johnny Jewel|1975|rrVVm_K_b0Q|Television (band)|S702|Art Rock;Proto-Punk;Rock|",
 "Billie Holiday|Fine and Mellow|1939|YKqxG09wlIA|Billie Holiday|S5448|Vocal Jazz;Jazz|",
 "Japan|Nightporter|1980|9ZfM8ZYTt0o|Japan (band)|S6870|Art Pop;Pop|Nightporter",
