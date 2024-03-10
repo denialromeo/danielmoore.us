@@ -3661,7 +3661,7 @@ const songs = [
 "Dave Matthews Band|Ants Marching|1995|GhswH1bLMy8|Dave Matthews Band|S5958|Pop Rock;Roots Rock;Pop;Rock|Ants Marching",
 "Doris Day|Secret Love|1953|H8P_p7dB2dw|Doris Day|S6143|Film Soundtrack;Traditional Pop;Descriptor;Pop;Soundtracks|Secret Love (Doris Day song)",
 "Mott the Hoople|All the Way from Memphis|1973|zvFpX98EOPo|Mott the Hoople|S7618|Glam Rock;Rock|All the Way from Memphis",
-"Frank Zappa|Peaches En Regalia|1969|RGQxI0G6mKk|Frank Zappa|S3988|Jazz Fusion;Jazz-Rock;Jazz;Rock|",
+"Frank Zappa|Peaches En Regalia|1969|FoYdeEDdtK4|Frank Zappa|S3988|Jazz Fusion;Jazz-Rock;Jazz;Rock|",
 "Kanye West|Blood on the Leaves|2013|KEA0btSNkpw|Kanye West|S9474|Experimental Hip Hop;Trap [EDM];Dance;Electronic;Electronic Dance Music;Hip Hop|Blood on the Leaves",
 "Dick Dale|Let's Go Trippin'|1961|r6Gquc9ZliI|Dick Dale|S1124|Rock & Roll;Surf Rock;Rock;Surf Music|",
 "Elvis Presley|Crying in the Chapel|1965|CYOUcV7nlN8|Elvis Presley|S1455|Gospel;Pop;American Folk Music;Folk;Regional Music;Traditional Folk Music|Crying in the Chapel",
