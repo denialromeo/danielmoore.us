@@ -2452,7 +2452,7 @@ const albums = [
 "Sun Ra|Heliocentric Worlds of Sun Ra, Volume Two|1966|OLAK5uy_m5frM5j7OywTOMw1UhoeiV0vJ7jA1SK1M|A1971|The Heliocentric Worlds of Sun Ra, Volume Two|Sun Ra|Free Jazz;Avant-Garde Jazz;Jazz",
 "Global Communication|76:14|1994|OLAK5uy_k5GQ98i9D9lweXorfgst8HswspxrUQK9E|A2974|76:14|Global Communication|Ambient;Ambient Techno;Dance;Electronic;Electronic Dance Music;Techno",
 "John Zorn|Spillane|1987|PLwGTKZ6uNxXnUecAp71QjUbz8NZWqW3D5|A2887|Spillane (album)|John Zorn|Avant-Garde Jazz;Jazz",
-"Master Musicians of Jajouka|Brian Jones Presents The Pipes of Pan at Joujouka|1971|PLrqc9-mKryHYh0WqFfqcWsPx20AJSNT9t|A2397|Brian Jones Presents the Pipes of Pan at Joujouka|The Master Musicians of Joujouka|Arabic Folk Music;Arabic Music;Arabic Traditional Music;Folk;Islamic Modal Music;Regional Music;Traditional Folk Music",
+"Master Musicians of Jajouka|Brian Jones Presents The Pipes of Pan at Joujouka|1971|https://www.youtube.com/embed/KSPUYqpPlhY|A2397|Brian Jones Presents the Pipes of Pan at Joujouka|The Master Musicians of Joujouka|Arabic Folk Music;Arabic Music;Arabic Traditional Music;Folk;Islamic Modal Music;Regional Music;Traditional Folk Music",
 "Sebadoh|III|1991|OLAK5uy_nyHbt3lcS77UOsZm6dc4GuN0uZIaHjQYM|A3372|Sebadoh III|Sebadoh|Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Rock",
 "J.J. Cale|Troubadour|1976|OLAK5uy_kq3TquYfpYZr2mJMfZnKaS1dD2L0EwMp0|A4581|Troubadour (J. J. Cale album)|J. J. Cale|Blues Rock;Country Rock;Rock",
 "Franz Ferdinand|You Could Have It So Much Better|2005|OLAK5uy_ks0MJ1hNnGzboxRPFkJDmCvNmTOS96_bQ|A4195|You Could Have It So Much Better|Franz Ferdinand (band)|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock",
