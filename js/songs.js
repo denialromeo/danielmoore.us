@@ -9251,7 +9251,7 @@ const songs = [
 "Sonic Youth|Youth Against Fascism|1992|eWzIlCJAw-o|Sonic Youth|S8491|Noise Rock;Punk Rock;Rock|Dirty (Sonic Youth album)",
 "Ray Price|Make the World Go Away|1963|MzNQapcmRb4|Ray Price (musician)|S2411|Nashville Sound;Country;Country Pop;Pop|Make the World Go Away",
 "Otis Redding|Shake|1965|Qv_U26M4yyI|Otis Redding|S4534|Southern Soul;R&B;Soul|Shake (Sam Cooke song)",
-"Étienne Daho|Week-end à Rome|1984|Ft2U58G5Szw|Étienne Daho|S12714|French Pop;Synthpop;Electronic;Pop|",
+"Étienne Daho|Week-end à Rome|1984|B-Bo7K9_ekA|Étienne Daho|S12714|French Pop;Synthpop;Electronic;Pop|",
 "Simply Red|If You Don't Know Me By Now|1989|zTcu7MCtuTs|Simply Red|S12969|Blue Eyed Soul;Sophisti-Pop;Pop|If You Don't Know Me by Now",
 "The Coasters|That Is Rock'n'roll|1959|XiELVerzdpY|The Coasters|S2794|Rhythm & Blues;Rock & Roll;R&B;Rock|",
 "Liars|No. 1 Against the Rush|2012|ggR6RuBh8I0|Liars (band)|S7258|Art Rock;Minimal Synth;Electronic;Minimal Wave;Rock|",
