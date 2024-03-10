@@ -8062,7 +8062,7 @@ const songs = [
 "Patrick Hernandez|Born To Be Alive|1979|9UaJAnnipkY|Patrick Hernandez|S12887|Euro-Disco;Hi-NRG;Dance;Disco;Electro-Disco;Electronic;Electronic Dance Music|Born to Be Alive (song)",
 "The Ventures|Hawaii Five-O|1969|aQSPivbWwuY?start=13|The Ventures|S8973|Surf Rock;Television Music;Descriptor;Rock;Soundtracks;Surf Music|Hawaii Five-O Theme",
 "M.I.A.|Bird Flu|2006|7EBnYGyY8NY|M.I.A. (rapper)|S4654|Experimental Hip Hop;UK Hip Hop;Hip Hop|Bird Flu",
-"Bembeya Jazz National|Armee Guineenne|1968|g8crPUW-H5s|Bembeya Jazz National|S15270|Mande Music;African Music;Regional Music;West African Music|",
+"Bembeya Jazz National|Armee Guineenne|1968|OwQbQvO2vTE|Bembeya Jazz National|S15270|Mande Music;African Music;Regional Music;West African Music|",
 "The Righteous Brothers|(You're My) Soul & Inspiration|1966|mzrPs-hLKmM|The Righteous Brothers|S9334|Baroque Pop;Blue Eyed Soul;Pop|(You're My) Soul and Inspiration",
 "The Cookies|Don't Say Nothin' Bad (About My Baby)|1963|vmt9NVb4hww|The Cookies|S5867|Brill Building;Girl Group;Pop|Don't Say Nothin' Bad (About My Baby)",
 "Grizzly Bear|Sleeping Ute|2012|Hk3tURx8a2Q|Grizzly Bear (band)|S6649|Indie Rock;Neo-Psychedelia;Progressive Rock;Alternative Rock;Psychedelic Rock;Rock|",
