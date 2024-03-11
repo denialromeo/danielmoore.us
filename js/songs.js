@@ -540,7 +540,7 @@ const songs = [
 "Leonard Cohen|Famous Blue Raincoat|1971|ohk3DP5fMCg|Leonard Cohen|S2564|Contemporary Folk;Singer/Songwriter;Folk|Famous Blue Raincoat",
 "Bob Marley and the Wailers|Redemption Song|1980|yv5xonFSC4c|Bob Marley|S2343|Roots Reggae;Singer/Songwriter;Caribbean Music;Jamaican Music;Reggae;Regional Music|Redemption Song",
 "Fugazi|Waiting Room|1988|SGJFWirQ3ks|Fugazi|S2628|Post-Hardcore;Punk Rock;Rock|Waiting Room (song)",
-"The Notorious B.I.G.|Juicy|1994|_JZom_gVfuw|The Notorious B.I.G.|S2078|Boom Bap;East Coast Hip Hop;Hip Hop|",
+"The Notorious B.I.G.|Juicy|1994|_JZom_gVfuw|The Notorious B.I.G.|S2078|Boom Bap;East Coast Hip Hop;Hip Hop|Juicy (The Notorious B.I.G. song)",
 "Bob Marley and the Wailers|Get Up, Stand Up|1973|JLYOOezs3DA|Bob Marley|S753|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|Get Up, Stand Up",
 "Jacques Brel|Ne me quitte pas|1959|Vz6r0TP4FBI|Jacques Brel|S2797|Chanson à texte;Chanson;Regional Music;Singer/Songwriter|Ne me quitte pas",
 "Carole King|It's Too Late|1971|VkKxmnrRVHo|Carole King|S822|Singer/Songwriter;Soft Rock;Pop;Pop Rock;Rock|It's Too Late (Carole King song)",
