@@ -6748,7 +6748,7 @@ const songs = [
 "Neil Diamond|Song Sung Blue|1972|lSy9dt5FeS0|Neil Diamond|S7678|Country Pop;Singer/Songwriter;Soft Rock;Country;Pop;Pop Rock;Rock|Song Sung Blue",
 "Dean Blunt feat. Inga Copeland|The Narcissist|2012|GKYGYpqtUP8|Dean Blunt|S15408|Hypnagogic Pop;Neo-Psychedelia;Psychedelic Rock;Rock|",
 "The Dells|There Is|1967|q5hf7cjA7co|The Dells|S6027|Northern Soul;R&B;Soul|",
-"Alice Coltrane|Journey in Satchidananda|1971|w0O9L7KXkC0|Alice Coltrane|S5154|Spiritual Jazz;Avant-Garde Jazz;Jazz|",
+"Alice Coltrane|Journey in Satchidananda|1971|w0O9L7KXkC0|Alice Coltrane|S5154|Spiritual Jazz;Avant-Garde Jazz;Jazz|Journey in Satchidananda",
 "The Kinks|Where Have All the Good Times Gone?|1965|kGhTS6UTWj4|The Kinks|S7120|Garage Rock;Mod;Rock|Where Have All the Good Times Gone",
 "Nick Gilder|Hot Child in the City|1978|6s2zm_crkVc|Nick Gilder|S7734|Glam Rock;Pop Rock;Pop;Rock|Hot Child in the City",
 "The Righteous Brothers|Little Latin Lupe Lu|1963|_k_Hpx8YiDA|The Righteous Brothers|S1080|Rhythm & Blues;Rock & Roll;R&B;Rock|Little Latin Lupe Lu",
