@@ -244,7 +244,7 @@ const songs = [
 "James Brown|I Got You (I Feel Good)|1965|Lrv-Morm-c0|James Brown|S1013|Rhythm & Blues;Soul;R&B|",
 "Radiohead|Idioteque|2000|Y7WCdYFqz5g|Radiohead|S3124|IDM;Electronic|Idioteque",
 "Cream|Sunshine of Your Love|1967|f3y8jf01UY8|Cream (band)|S915|Blues Rock;Hard Rock;Psychedelic Rock;Rock|Sunshine of Your Love",
-"The Stooges|Search and Destroy|1973|dbn0DaJHucg|The Stooges|S769|Garage Rock;Hard Rock;Proto-Punk;Rock|Search and Destroy (The Stooges song)",
+"The Stooges|Search and Destroy|1973|LC9km8qnbOY|The Stooges|S769|Garage Rock;Hard Rock;Proto-Punk;Rock|Search and Destroy (The Stooges song)",
 "The Beatles|While My Guitar Gently Weeps|1968|bI8P6ZSHSvE|The Beatles|S2529|Blues Rock;Rock|While My Guitar Gently Weeps",
 "Buzzcocks|Ever Fallen in Love?|1978|0Af7ayYIJ9w|Buzzcocks|S628|Pop Punk;Punk Rock;Rock|Ever Fallen in Love (With Someone You Shouldn't've)",
 "Bob Dylan|The Times They Are A-Changin'|1964|90WD_ats6eE|Bob Dylan|S1020|Contemporary Folk;Singer/Songwriter;Folk|The Times They Are a-Changin' (Bob Dylan album)",
