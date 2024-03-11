@@ -4163,7 +4163,7 @@ const songs = [
 "Queen Latifah|Ladies First|1989|8Qimg_q7LbQ|Queen Latifah|S2432|East Coast Hip Hop;Hip Hop|All Hail the Queen|",
 "PeterLicht|Sonnendeck|2000|Ck6BCzMcKiE|https://de.wikipedia.org/wiki/PeterLicht|S7504|Electronic|",
 "Tweet|Oops (Oh My)|2002|P5rqNyulfsQ|Tweet (singer)|S1513|Contemporary R&B;R&B|Oops (Oh My)",
-"Foghat|Slow Ride|1975|GcCNcgoyG_0|Foghat|S3412|Blues Rock;Hard Rock;Rock|Slow Ride",
+"Foghat|Slow Ride|1975|DfwsXn5n8HU|Foghat|S3412|Blues Rock;Hard Rock;Rock|Slow Ride",
 "The Ronettes|Walking in the Rain|1964|tBBys5TLxCI|The Ronettes|S1659|Brill Building;Girl Group;Pop|Walking in the Rain (The Ronettes song)",
 "Yo La Tengo|Tom Courtenay|1995|lrALeoN18bw|Yo La Tengo|S4228|Indie Rock;Noise Pop;Alternative Rock;Rock|",
 "The Go-Betweens|Bachelor Kisses|1984|C_nn90p-tIg|The Go-Betweens|S2347|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Bachelor Kisses|",
