@@ -7194,7 +7194,7 @@ const songs = [
 "Can|Future Days|1973|PXX5-p6sUwI|Can (band)|S12773|Krautrock;Experimental Rock;Progressive Rock;Rock|Future Days",
 "Beck|Dreams|2015|-zhIO2YeBGo|Beck|S9708|Alternative Dance;Indietronica;Alternative Rock;Dance;Electronic;Rock|Dreams (Beck song)",
 "Johnny Paycheck|Take This Job and Shove It|1977|gj2iGAifSNI|Johnny Paycheck|S13842|Outlaw Country;Country;Progressive Country|Take This Job and Shove It",
-"Joe Jones|You Talk Too Much|1960|2GOYYbiEul0|Joe Jones (singer)|S6936|Rhythm & Blues;R&B|",
+"Joe Jones|You Talk Too Much|1960|OGC4JnXzn1o|Joe Jones (singer)|S6936|Rhythm & Blues;R&B|",
 "Art of Noise|Beat Box|1983|JSWhzsGY3hA|Art of Noise|S5241|Electro;Dance;Electronic;Electronic Dance Music|Beat Box (Art of Noise song)",
 "Roger Sanchez|Another Chance|2001|Pf4fiP7SQF8|Roger Sanchez|S8208|French House;Dance;Electronic;Electronic Dance Music;House|Another Chance (Roger Sanchez song)",
 "The Hold Steady|Constructive Summer|2008|dyMal2onfuM|The Hold Steady|S6720|Heartland Rock;Indie Rock;Alternative Rock;Rock|",
