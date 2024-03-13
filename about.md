@@ -137,6 +137,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The End of Work*](https://www.amazon.com/gp/product/0874778247) by [Jeremy Rifkin](https://en.wikipedia.org/wiki/Jeremy_Rifkin) (Technology causes poverty.)
 * [*The Gervais Principle*](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/#content) by [Venkatesh Rao](https://www.ribbonfarm.com/now-reading/#content) (Companies work for managers &ndash; not vice versa.)
 * [*Open Borders*](https://www.amazon.com/dp/1250316960) by [Bryan Caplan](https://en.wikipedia.org/wiki/Bryan_Caplan) (Immigration restrictions make no economic sense.)
+* [*Planet of Slums*](https://www.goodreads.com/notes/18878154-planet-of-slums/71655209-daniel-moore) by [Mike Davis](https://en.wikipedia.org/wiki/Mike_Davis_(scholar)) (Skyscrapers were the past &ndash; slums are the future.)
 * [*River Out of Eden*](https://www.goodreads.com/notes/19196310-river-out-of-eden/71655209-daniel-moore) by [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) (Suffering and scarcity are built into the system.)
 * [*Screen Schooled*](https://www.goodreads.com/notes/36357274-screen-schooled/71655209-daniel-moore) by [Joe Clement](http://screenschooled.com/aboutauthors/) (Social media and television are mentally crippling.)
 * [*The Singularity Is Near*](https://www.goodreads.com/notes/5804507-the-singularity-is-near/71655209-daniel-moore) by [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil) (I, for one, welcome our new AI overlords.)
