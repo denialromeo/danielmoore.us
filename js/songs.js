@@ -9248,7 +9248,7 @@ const songs = [
 "Led Zeppelin|How Many More Times|1969|y-5o2f9wzmw|Led Zeppelin|S11388|Blues Rock;Hard Rock;Rock|How Many More Times",
 "De La Soul|Potholes in My Lawn|1988|uc_zYZVWBBo|De La Soul|S10542|East Coast Hip Hop;Hip Hop|Potholes in My Lawn",
 "The Men|Open Your Heart|2012|8NEjJJYp9fo|The Men (punk band)|S5025|Garage Punk;Indie Rock;Alternative Rock;Garage Rock;Punk Rock;Rock|Open Your Heart (Madonna song)",
-"Sonic Youth|Youth Against Fascism|1992|eWzIlCJAw-o|Sonic Youth|S8491|Noise Rock;Punk Rock;Rock|Dirty (Sonic Youth album)",
+"Sonic Youth|Youth Against Fascism|1992|eWzIlCJAw-o|Sonic Youth|S8491|Noise Rock;Punk Rock;Rock|Youth Against Fascism",
 "Ray Price|Make the World Go Away|1963|MzNQapcmRb4|Ray Price (musician)|S2411|Nashville Sound;Country;Country Pop;Pop|Make the World Go Away",
 "Otis Redding|Shake|1965|Qv_U26M4yyI|Otis Redding|S4534|Southern Soul;R&B;Soul|Shake (Sam Cooke song)",
 "Étienne Daho|Week-end à Rome|1984|B-Bo7K9_ekA|Étienne Daho|S12714|French Pop;Synthpop;Electronic;Pop|",
