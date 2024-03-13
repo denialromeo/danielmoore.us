@@ -1284,7 +1284,7 @@ const songs = [
 "Domenico Modugno|Nel blu, dipinto di blu (\"Volare\")|1958|t4IjJav7xbg|Domenico Modugno|S6119|Italo Pop;Traditional Pop;Pop|",
 "Beastie Boys|Intergalactic|1998|qORYO0atB6g|Beastie Boys|S273|East Coast Hip Hop;Electro;Dance;Electronic;Electronic Dance Music;Hip Hop|Intergalactic (song)",
 "The Rolling Stones|19th Nervous Breakdown|1966|DEseb6-hssc|The Rolling Stones|S1490|British Rhythm & Blues;Mod;R&B;Rhythm & Blues;Rock|19th Nervous Breakdown",
-"Morrissey|First of the Gang to Die|2004|3qgn1Rc0YJ4|Morrissey|S2440|Britpop;Alternative Rock;Pop;Pop Rock;Rock|First of the Gang to Die",
+"Morrissey|First of the Gang to Die|2004|w5lAY6oO8YE|Morrissey|S2440|Britpop;Alternative Rock;Pop;Pop Rock;Rock|First of the Gang to Die",
 "Hank Williams|Cold, Cold Heart|1951|Wn2e4Dhod7M?start=29|Hank Williams|S1593|Honky Tonk;Country|Cold, Cold Heart",
 "R.E.M.|Fall on Me|1986|lf6vCjtaV1k|R.E.M.|S383|Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|Fall on Me (R.E.M. song)",
 "R.E.M.|Man on the Moon|1992|dLxpNiF0YKs|R.E.M.|S165|Alternative Rock;Pop Rock;Pop;Rock|Man on the Moon (song)",
