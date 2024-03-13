@@ -5063,7 +5063,7 @@ const songs = [
 "Kiss|Black Diamond|1974|yy4opYZW1cQ|Kiss (band)|S3544|Hard Rock;Rock|Black Diamond (Kiss song)",
 "Jamie xx|Far Nearer|2011|kp5OxqtmQ44|Jamie xx|S4967|Future Garage;UK Bass;UK Funky;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "The Streets|It's Too Late|2002|Id1ohL_4HZI|The Streets|S8608|UK Garage;UK Hip Hop;Dance;Electronic;Electronic Dance Music;Hip Hop|It's Too Late",
-"Chick Corea & Return to Forever|Spain|1973|sEhQTjgoTdU|Chick Corea|S10394|Jazz Fusion;Jazz|",
+"Chick Corea & Return to Forever|Spain|1973|sEhQTjgoTdU|Chick Corea|S10394|Jazz Fusion;Jazz|Spain (instrumental)",
 "Otis Rush|Double Trouble|1958|SJjpPshvio4|Otis Rush|S14831|Electric Blues;Blues|Double Trouble (Otis Rush song)",
 "Savages|She Will|2013|kim-REn8ecg|Savages (band)|S9518|Gothic Rock;Post-Punk;Rock|Savages (Pocahontas song)",
 "Manu Chao|Desaparecido|1998|H2W4wglPW2c|Manu Chao|S7414|Latin Alternative;Hispanic Music;Latin American Music;Regional Music|Desaparecido",
