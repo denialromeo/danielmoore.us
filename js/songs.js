@@ -10748,7 +10748,7 @@ const songs = [
 "Everything But the Girl|Wrong|1996|Ih7GCa3Hpww|Everything but the Girl|S6323|Dance-Pop;Deep House;Dance;Electronic;Electronic Dance Music;House;Pop|Wrong (Everything but the Girl song)",
 "Nelly|Ride wit Me|2000|RtSDWq6HsJE|Nelly|S7694|Pop Rap;Southern Hip Hop;Hip Hop|Ride wit Me",
 "The Move|Do Ya|1972|2I5kH0klENs|The Move|S3646|Hard Rock;Rock|Do Ya (The Move song)",
-"The Clash|Julie's Been Working for the Drug Squad|1978|rPMsaxqiL5Q|The Clash|S3280|Punk Rock;Rock|",
+"The Clash|Julie's Been Working for the Drug Squad|1978|Ydao39coPn8|The Clash|S3280|Punk Rock;Rock|",
 "Layo & Bushwacka!|Love Story|2002|hjjnZQdGwP8|Layo & Bushwacka!|S7192|Tech House;Dance;Electronic;Electronic Dance Music;House;Techno|Love Story (vs. Finally)",
 "Arrested Development|Revolution|1992|RWlvOolOic4|Arrested Development (group)|S2934|Political Hip Hop;Hip Hop|Revolution (Arrested Development song)",
 "Death Grips|Get Got|2012|HIrKSqb4H4A|Death Grips|S6001|Abstract Hip Hop;Glitch Hop;Industrial Hip Hop;Electronic;Experimental Hip Hop;Hip Hop;IDM;Industrial Music|",
