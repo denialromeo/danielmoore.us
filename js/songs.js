@@ -1160,7 +1160,7 @@ const songs = [
 "Bachman-Turner Overdrive|You Ain't Seen Nothing Yet|1974|4cia_v4vxfE|Bachman–Turner Overdrive|S726|Power Pop;Pop;Pop Rock;Rock|You Ain't Seen Nothing Yet (Bachman–Turner Overdrive song)",
 "Neutral Milk Hotel|Holland, 1945|1998|XLaFLztnL84|Neutral Milk Hotel|S4527|Folk Punk;Folk Rock;Lo-Fi / Slacker Rock;Alternative Rock;Indie Rock;Punk Rock;Rock|Holland, 1945",
 "The Knife|Full of Fire|2013|DoH6k6eIUS4|The Knife|S9530|Industrial Techno;Dance;Electronic;Electronic Dance Music;Industrial Music;Techno|",
-"Manic Street Preachers|A Design for Life|1996|Pz00_3LbdmM|Manic Street Preachers|S33|Britpop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|",
+"Manic Street Preachers|A Design for Life|1996|dh7YvnAf_3Q|Manic Street Preachers|S33|Britpop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "Aaron Neville|Tell It Like It Is|1966|RgoscpHvtQY|Aaron Neville|S988|Deep Soul;R&B;Soul;Southern Soul|Tell It Like It Is (song)",
 "The Beatles with Billy Preston|Get Back|1969|YEESfv-11ng|The Beatles|S892|Blues Rock;Rock|Get Back",
 "Massive Attack|Protection|1994|Epgo8ixX6Wo|Massive Attack|S2104|Trip Hop;Downtempo;Electronic|Protection (Massive Attack song)",
