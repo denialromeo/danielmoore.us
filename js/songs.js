@@ -9453,7 +9453,7 @@ const songs = [
 "Steve Lacy|Playground|2019|g_ICWul5hqQ|Steve Lacy (guitarist)|S16872|Funk Rock;Neo-Soul;Psychedelic Soul;R&B;Rock;Soul|",
 "Frankie Avalon|Venus|1959|kn2ALqAJZwo|Frankie Avalon|S6452|Teen Pop;Pop|Venus (Frankie Avalon song)",
 "Frankie Avalon|Why|1959|cMTZ3QhjXr0|Frankie Avalon|S6453|Teen Pop;Pop|Why (Frankie Avalon song)",
-"Lou Reed|Street Hassle|1978|4LK9JjW2noo|Lou Reed|S7324|Art Rock;Rock|",
+"Lou Reed|Street Hassle|1978|4LK9JjW2noo|Lou Reed|S7324|Art Rock;Rock|Street Hassle (song)",
 "Chairlift|Ch-Ching|2015|nWSFlqBOgl8|Chairlift (band)|S9722|Alternative R&B;Contemporary R&B;R&B|",
 "Lil Baby x Gunna|Drip Too Hard|2018|_YzD9KW82sk|Lil Baby|S16612|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
 "Martin Circus|Disco Circus|1979|496FykvP8ew|Martin Circus|S14717|Disco;Dance|",
