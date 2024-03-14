@@ -10537,7 +10537,7 @@ const songs = [
 "The Beatles|I'll Get You|1963|nFEHqFUONHY|The Beatles|S10108|Merseybeat;Beat Music;Pop;Pop Rock;Rock|I'll Get You",
 "Talking Heads|Love &rarr; Building on Fire|1977|olf0o3jfhns|Talking Heads|S8674|New Wave;Rock|",
 "Neil Young|Tired Eyes|1975|iPoIRVSLJ2o|Neil Young|S11730|Country Rock;Singer/Songwriter;Rock|Tired Eyes (Neil Young song)",
-"Leonard Cohen|Going Home|2012|sc_J0_WAIuM|Leonard Cohen|S11418|Singer/Songwriter|Songs of Leonard Cohen",
+"Leonard Cohen|Going Home|2012|sc_J0_WAIuM|Leonard Cohen|S11418|Singer/Songwriter|",
 "Joey Ramone|What a Wonderful World|2002|8IoO5nkxT_4?start=42|Joey Ramone|S14573|Punk Rock;Rock|",
 "Muse|Stockholm Syndrome|2003|gXN9acC9edU|Muse (band)|S7645|Alternative Rock;Rock|Stockholm Syndrome (Muse song)",
 "Queen|Seven Seas of Rhye|1974|FxIo57WURRE|Queen (band)|S13052|Hard Rock;Rock|Seven Seas of Rhye",
