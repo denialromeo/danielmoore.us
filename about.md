@@ -100,6 +100,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [Bowflex SelectTech Adjustable Dumbbells](https://www.amazon.com/gp/product/B001ARYU58) (The first and last weight set you'll ever need.)
 * [CAP Barbell Flat Weight Bench](https://www.amazon.com/dp/B01AGENTV6) (Essential for chest exercises.)
 * [iBUYPOWER Pre-Built Gaming PC](https://www.ibuypower.com/gaming-pcs) (For work and play.)
+* [Nike Men's Air Max 2090](https://www.amazon.com/Nike-Stroke-Running-Anthracite-Reflect/dp/B08CZRY9XX) (These turn me from a mediocre 5'9" to an attractive 5'10.5".)
 * [Redify Jump Rope](https://www.amazon.com/gp/product/B086XC32L2) (Who needs a treadmill?)
 * [StriveZen 2-Month View Wall Calendar](https://www.amazon.com/Calendar-2019-2020-StriveZen-Monthly-Vertical/dp/B07T6C13JD) (Record weight, reps/sets, diet, important dates, etc.)
 * [Vive Wrist Brace](https://www.amazon.com/gp/product/B077BPYK5S/) (Type for ten hours a day.)
