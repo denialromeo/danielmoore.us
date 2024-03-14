@@ -2698,7 +2698,7 @@ const songs = [
 "Chuck Berry|You Never Can Tell|1964|55_9o8LoWiw|Chuck Berry|S5809|Rock & Roll;Rock|You Never Can Tell (song)",
 "Barbara Lynn|You'll Lose a Good Thing|1962|LoaLCc2jR_g|Barbara Lynn|S3578|Rhythm & Blues;Soul;R&B|You'll Lose a Good Thing",
 "Madonna|Open Your Heart|1986|snsTmi9N9Gs|Madonna (entertainer)|S1944|Dance-Pop;Dance;Pop|Open Your Heart (Madonna song)",
-"The Beach Boys|Sloop John B.|1966|nSAoEf1Ib58|The Beach Boys|S2280|Baroque Pop;Sunshine Pop;Pop|Sloop John B",
+"The Beach Boys|Sloop John B|1966|nSAoEf1Ib58|The Beach Boys|S2280|Baroque Pop;Sunshine Pop;Pop|Sloop John B",
 "Santo and Johnny|Sleep Walk|1959|YBRCvVpknvg|Santo & Johnny|S3795|Surf Rock;Rock;Surf Music|Sleep Walk",
 "Girls|Vomit|2011|u4MI5HyDNP8|Girls (band)|S4965|Indie Rock;Alternative Rock;Rock|",
 "Inner City|Big Fun|1988|omfiVkkJ1OU|Inner City (band)|S314|Chicago House;Detroit Techno;Dance;Electronic;Electronic Dance Music;House;Techno|Big Fun (Inner City song)",
