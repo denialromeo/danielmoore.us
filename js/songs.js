@@ -3735,7 +3735,7 @@ const songs = [
 "Justin Timberlake|Like I Love You|2002|FQ3slUz7Jo8|Justin Timberlake|S1520|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|Like I Love You",
 "DMX|Ruff Ryders Anthem|1998|ThlhSnRk21E|DMX (rapper)|S6112|East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|Ruff Ryders' Anthem",
 "Bob Dylan|Just Like Tom Thumb's Blues|1965|CcRNSHqiH7A|Bob Dylan|S3373|Folk Rock;Singer/Songwriter;Rock|Just Like Tom Thumb's Blues",
-"Billy Lee Riley|Flying Saucer's Rock'n'Roll|1957|h8DYqtSe1PY|Billy Lee Riley|S3760|Rockabilly;Rock;Rock & Roll|Flying Saucer Rock'n'Roll",
+"Billy Lee Riley|Flyin' Saucers Rock'n'Roll|1957|h8DYqtSe1PY|Billy Lee Riley|S3760|Rockabilly;Rock;Rock & Roll|",
 "Aretha Franklin|Ain't No Way|1968|WzRA9UzuU8c|Aretha Franklin|S3424|Soul;R&B|Ain't No Way",
 "Emmylou Harris|Boulder to Birmingham|1975|Klh7sAv9hu4|Emmylou Harris|S6277|Country|Boulder to Birmingham",
 "Otis Redding|Mr. Pitiful|1965|Azzk9bqkaeE|Otis Redding|S3751|Deep Soul;R&B;Soul;Southern Soul|Mr. Pitiful",
