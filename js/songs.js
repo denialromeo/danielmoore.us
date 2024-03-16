@@ -8344,7 +8344,7 @@ const songs = [
 "Ladyhawke|My Delirium|2008|X_bFO1SNRZg|Ladyhawke (musician)|S11360|Dance-Punk;Electropop;Post-Punk Revival;Alternative Rock;Electronic;Indie Rock;Pop;Post-Punk;Rock|My Delirium",
 "Destroyer|Dream Lover|2015|uB-KT2f71lg|Destroyer (band)|S9737|Indie Rock;Alternative Rock;Rock|Anthony Green (musician)",
 "Metallica|The Four Horsemen|1983|WOc7HyRZisc|Metallica|S15703|Thrash Metal;Metal;Rock|Mechanix",
-"Rickie Lee Jones|The Horses|1989|elmaK9MOuE0|Rickie Lee Jones|S4210|Singer/Songwriter|",
+"Rickie Lee Jones|The Horses|1989|S-dMuyk5Pfc|Rickie Lee Jones|S4210|Singer/Songwriter|",
 "Dinosaur Jr.|Almost Ready|2007|DNcoroZEQUU?start=3|Dinosaur Jr.|S6079|Indie Rock;Alternative Rock;Rock|",
 "Ennio Morricone|The Ecstasy of Gold|1966|ZNGe7iK1O-4|Ennio Morricone|S12699|Film Score;Spaghetti Western;Cinematic Classical;Classical Music;Descriptor;Film Soundtrack;Soundtracks|",
 "Michel Delpech|Chez Laurette|1965|G8AXNSIe9A8|Michel Delpech|S11627|Chanson;Regional Music|",
