@@ -593,7 +593,7 @@ const songs = [
 "Sky Ferreira|Everything Is Embarrassing|2012|rEamE0MYPkg|Sky Ferreira|S5037|Alternative R&B;Synthpop;Contemporary R&B;Electronic;Pop;R&B|Everything Is Embarrassing",
 "Clairo|Bags|2019|L9HYJbe9Y18|Clairo|S16763|Indie Pop;Pop|Bags (song)",
 "Glenn Miller|In the Mood|1939|_CI-0E_jses|Glenn Miller|S2719|Big Band;Swing;Jazz|",
-"The Lovin' Spoonful|Do You Believe in Magic|1965|zypcKb-7hkw|The Lovin' Spoonful|S1016|Pop Rock;Sunshine Pop;Pop;Rock|Do You Believe in Magic (song)",
+"The Lovin' Spoonful|Do You Believe in Magic|1965|b8qZ4qzDICg|The Lovin' Spoonful|S1016|Pop Rock;Sunshine Pop;Pop;Rock|Do You Believe in Magic (song)",
 "The Penguins|Earth Angel (Will You Be Mine)|1954|-j6OAEOcNCE|The Penguins|S1340|Doo-Wop;Descriptor;R&B;Vocal Group|Earth Angel",
 "Caribou/Manitoba|Can't Do Without You|2014|bamcEQ_2o5Q|Dan Snaith|S9551|Deep House;Dance;Electronic;Electronic Dance Music;House|",
 "The Pogues|Fairytale of New York|1987|j9jbdgZidu8|Kirsty MacColl|S358|Celtic Rock;Christmas Music;Folk Pop;Contemporary Folk;Descriptor;Folk;Folk Rock;Holiday Music;Pop;Rock|Fairytale of New York",
