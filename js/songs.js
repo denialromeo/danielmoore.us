@@ -1355,7 +1355,7 @@ const songs = [
 "Bat for Lashes|Laura|2012|UznHTBZIa8E|Bat for Lashes|S5000|Art Pop;Singer/Songwriter;Pop|Laura (Bat for Lashes song)",
 "Artie Shaw|Begin the Beguine|1938|Kvd0IIdSf2E|Artie Shaw|S2740|Swing;Jazz|Begin the Beguine",
 "Doug E. Fresh|The Show|1985|ybGjMXbZNEs|Doug E. Fresh|S408|East Coast Hip Hop;Hip Hop|The Show (Doug E. Fresh song)",
-"Jimi Hendrix|Fire|1967|9m6SZhYt-d0|Jimi Hendrix|S3468|Acid Rock;Hard Rock;Psychedelic Rock;Rock|Fire (The Jimi Hendrix Experience song)",
+"Jimi Hendrix|Fire|1967|9-2m07d2Neo|Jimi Hendrix|S3468|Acid Rock;Hard Rock;Psychedelic Rock;Rock|Fire (The Jimi Hendrix Experience song)",
 "Moloko|Sing It Back|1998|w1eN8vyVFIM|Moloko|S1367|Funky House;Dance;Electronic;Electronic Dance Music;House|Sing It Back",
 "The Chi-Lites|Have You Seen Her|1971|PdF7Ssm6tEU|The Chi-Lites|S821|Chicago Soul;Smooth Soul;R&B;Soul|Have You Seen Her",
 "Radiohead|Let Down|1997|ZVgHPSyEIqk|Radiohead|S4848|Alternative Rock;Art Rock;Rock|Let Down (Radiohead song)",
