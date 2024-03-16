@@ -195,7 +195,7 @@ const albums = [
 "A Tribe Called Quest|The Low End Theory|1991|OLAK5uy_mWfUMAcfH8fZG8LLyrsRumBTJLy-j986E|A830|The Low End Theory|A Tribe Called Quest|Conscious Hip Hop;Jazz Rap;Hip Hop",
 "Joni Mitchell|Court and Spark|1974|OLAK5uy_np4ZdFD6zgoILeTZ7O3qf5IHs3PjZhq5s|A302|Court and Spark|Joni Mitchell|Folk Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop",
 "The Stooges|The Stooges|1969|OLAK5uy_mXzF0tTxSl2QCeNu0K5oz-78I6F3oUBPE|A158|The Stooges (album)|The Stooges|Garage Rock;Hard Rock;Proto-Punk;Rock",
-"Björk|Post|1995|PL9E3AFA4F6DD4648C|A938|Post (Björk album)|Björk|Art Pop;Electronic;Progressive Pop;Pop",
+"Björk|Post|1995|OLAK5uy_mSYzajMOVRNWLBt-GcAsY-7Ge3ON5Y5Xw|A938|Post (Björk album)|Björk|Art Pop;Electronic;Progressive Pop;Pop",
 "The Specials|Specials|1979|OLAK5uy_nQdJaK0Ka_ZWTYdXbITW4ukHUAc59unik|A460|The Specials (album)|The Specials|2 Tone;Ska",
 "The Velvet Underground|White Light/White Heat|1968|OLAK5uy_nEs2jhGxY3f5bzn-tTD9Ghn-hROVcaYP4|A127|White Light/White Heat|The Velvet Underground|Art Rock;Experimental Rock;Noise Rock;Proto-Punk;Rock",
 "Liz Phair|Exile in Guyville|1993|OLAK5uy_n8bILMLN4rh1yniwRaTnKhjgzGTO31BPw|A877|Exile in Guyville|Liz Phair|Alternative Singer/Songwriter;Indie Rock;Alternative Rock;Rock;Singer/Songwriter",
