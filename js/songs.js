@@ -503,7 +503,7 @@ const songs = [
 "The Supremes|You Can't Hurry Love|1966|Itn438i30hk|Diana Ross|S987|Girl Group;Motown Sound;Pop;Pop Soul;R&B;Soul|You Can't Hurry Love",
 "Ariel Pink|Round and Round|2010|y_VJwFNrvlE|Ariel Pink|S4888|Hypnagogic Pop;Psychedelic Pop;Neo-Psychedelia;Pop;Psychedelic Rock;Rock|Round and Round (Ariel Pink's Haunted Graffiti song)",
 "Bob Dylan|Visions of Johanna|1966|UG8Hi-fpyLI|Bob Dylan|S2510|Folk Rock;Singer/Songwriter;Rock|Visions of Johanna",
-"The Velvet Underground|Venus in Furs|1967|AwzaifhSw2c|The Velvet Underground|S3947|Art Rock;Experimental Rock;Rock|Venus in Furs (song)",
+"The Velvet Underground|Venus in Furs|1967|GiobySgFP2s|The Velvet Underground|S3947|Art Rock;Experimental Rock;Rock|Venus in Furs (song)",
 "The Isley Brothers|Shout (Parts 1 and 2)|1959|DPVf01jXL7M|The Isley Brothers|S1181|Rhythm & Blues;Rock & Roll;R&B;Rock|Shout (Isley Brothers song)",
 "Kraftwerk|Trans-Europe Express|1977|i_85fUIRlmU|Kraftwerk|S658|Electronic|",
 "The Clash|Rock the Casbah|1982|bJ9r8LMU9bQ|The Clash|S488|Dance-Punk;New Wave;Post-Punk;Rock|Rock the Casbah",
