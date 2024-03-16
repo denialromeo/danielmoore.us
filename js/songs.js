@@ -9960,7 +9960,7 @@ const songs = [
 "Zucchero Fornaciari|Dune mosse|1987|A60xWr-nqv0|Zucchero Fornaciari|S13650|Pop Rock;Pop;Rock|",
 "Elli & Jacno|Main dans la main|1980|qmauk3Ev7TQ?start=3|Elli et Jacno|S6234|French Pop;Synthpop;Electronic;Pop|",
 "Jeanette MacDonald & Nelson Eddy|Indian Love Call|1936|1n_bUSywN94|Jeanette MacDonald|S6886|Operetta;Classical Music;Descriptor;Musical Theatre and Entertainment;Opera;Show Tunes;Soundtracks;Western Classical Music|",
-"Gang of Four|Natural's Not In It|1979|ZFDRjuA5JV4|Gang of Four (band)|S6496|Art Punk;Post-Punk;Punk Rock;Rock|",
+"Gang of Four|Natural's Not In It|1979|_QAIX8410zs|Gang of Four (band)|S6496|Art Punk;Post-Punk;Punk Rock;Rock|",
 "Lady Sovereign|Random|2005|8MvMRdX2k5g|Lady Sovereign|S4264|Pop Rap;Hip Hop|",
 "Wynonie Harris|All She Wants to Do Is Rock|1949|T_vgfavJ50E|Wynonie Harris|S9072|Jump-Blues;Blues|",
 "Cake|I Will Survive|1996|f9rCUQjmkxU|Cake (band)|S5695|Alternative Rock;Rock|I Will Survive",
