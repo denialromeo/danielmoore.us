@@ -8792,7 +8792,7 @@ const songs = [
 "The National|Light Years|2019|5FQtSn_vak0|The National (band)|S16884|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
 "Kool and the Gang|Hollywood Swinging|1973|YK-cvcw3ngM|Kool & the Gang|S2870|Funk;R&B|Hollywood Swinging",
 "Bush Tetras|Too Many Creeps|1980|aVOzOnqzoj8|Bush Tetras|S3256|Dance-Punk;No Wave;Experimental Rock;Post-Punk;Rock|",
-"Junior Byles|Curley Locks|1974|B48NsEfiOdA|Junior Byles|S7027|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
+"Junior Byles|Curley Locks|1974|flb6S2UX7Ts|Junior Byles|S7027|Roots Reggae;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
 "Syd Barrett|Opel|1988|Ch3BfpZp8PI|Syd Barrett|S8660|Psychedelic Folk;Psychedelic Rock;Contemporary Folk;Folk;Rock|",
 "Jeremih|773 Love|2012|b96Z8djOKUM|Jeremih|S11192|Contemporary R&B;R&B|",
 "Alex Chilton|Bangkok|1978|ZAgr2AmHvlc|Alex Chilton|S5150|Garage Punk;Rock & Roll;Garage Rock;Punk Rock;Rock|",
