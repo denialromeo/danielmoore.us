@@ -7248,7 +7248,7 @@ const songs = [
 "Howard Tate|Ain't Nobody Home|1966|sYWJczQ-5QU|Howard Tate|S6745|Southern Soul;R&B;Soul|",
 "10cc|Rubber Bullets|1973|-tqSIpr0T0w|10cc|S5061|Pop Rock;Rock & Roll;Pop;Rock|Rubber Bullets",
 "Dorothy Moore|Misty Blue|1975|2Zj3ISRpKrk|Dorothy Moore|S2882|Deep Soul;R&B;Soul;Southern Soul|Misty Blue",
-"Blue Öyster Cult|Godzilla|1977|TvQWBXJOgAI|Blue Öyster Cult|S10215|Hard Rock;Heavy Metal;Metal;Rock|",
+"Blue Öyster Cult|Godzilla|1977|RTzb-sduiWc|Blue Öyster Cult|S10215|Hard Rock;Heavy Metal;Metal;Rock|",
 "Rufus Thomas|Do the Funky Chicken|1969|-95rBJkUt8M?start=326|Rufus Thomas|S12966|Funk;Rhythm & Blues;Soul;R&B|Do the Funky Chicken",
 "Austra|Beat and the Pulse|2010|khT-s-3E8Uw|Austra (band)|S5274|Electropop;Synthpop;Electronic;Pop|",
 "Elvis Presley|(Let Me Be Your) Teddy Bear|1957|NkDbk-egHH4|Elvis Presley|S6253|Pop;Rock & Roll;Rock|(Let Me Be Your) Teddy Bear",
