@@ -3096,7 +3096,7 @@ const songs = [
 "The Rolling Stones|Fool to Cry|1976|B-2MenrnR2U|The Rolling Stones|S1778|Pop Rock;Pop;Rock|Fool to Cry",
 "The B-52's|Dance This Mess Around|1979|4WSenc2Z5OA|The B-52's|S3159|New Wave;Rock|Dance This Mess Around",
 "Creedence Clearwater Revival|Born on the Bayou|1969|wIjUY3pjN8E|Creedence Clearwater Revival|S3307|Swamp Rock;Rock;Roots Rock|",
-"Dr. Buzzard's Original Savannah Band|Whispering/Cherchez la Femme/Se Si Bon|1976|pLQwvh4hDdI?start=22|Dr. Buzzard's Original Savannah Band|S3354|Disco;Dance|Cherchez La Femme",
+"Dr. Buzzard's Original Savannah Band|Cherchez La Femme|1976|pLQwvh4hDdI?start=22|Dr. Buzzard's Original Savannah Band|S3354|Disco;Dance|Cherchez La Femme",
 "LaVern Baker|Jim Dandy|1956|QRUzAZMYFpQ|LaVern Baker|S1277|Rhythm & Blues;Rock & Roll;R&B;Rock|Jim Dandy (song)",
 "Minor Threat|Straight Edge|1981|gsAu-nOg3Tw|Minor Threat|S2354|Hardcore Punk;Punk Rock;Rock|",
 "David Bowie|Fashion|1980|F-z6u5hFgPk|David Bowie|S1852|Art Pop;New Wave;Pop;Rock|Fashion (David Bowie song)",
