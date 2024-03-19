@@ -1663,7 +1663,7 @@ const songs = [
 "The Cure|Lovesong|1989|hXCKLJGLENs|The Cure|S3098|Alternative Rock;New Wave;Post-Punk;Rock|Lovesong (The Cure song)",
 "Al Green|Call Me (Come Back Home)|1973|cX-e2jy7tGU|Al Green|S774|Smooth Soul;Southern Soul;R&B;Soul|Call Me (Come Back Home)",
 "Kraftwerk|Radioactivity|1975|X--F5b5IdqU|Kraftwerk|S7145|Synthpop;Electronic;Pop|Radioactivity (song)",
-"Dead Kennedys|California Über Alles|1979|jrWflCJPM4w|Dead Kennedys|S1829|Hardcore Punk;Surf Punk;Punk Rock;Rock;Surf Music|",
+"Dead Kennedys|California Über Alles|1979|jrWflCJPM4w|Dead Kennedys|S1829|Hardcore Punk;Surf Punk;Punk Rock;Rock;Surf Music|California Über Alles",
 "Blur|Parklife|1994|YSuHrTfcikU|Blur (band)|S1538|Britpop;Alternative Rock;Pop;Pop Rock;Rock|Parklife (song)",
 "Kanye West|Through the Wire|2003|GLTQPR8PoZU|Kanye West|S2483|Hip Hop|Through the Wire",
 "Ultravox|Vienna|1980|xJeWySiuq1I|Ultravox|S1576|New Romantic;Synthpop;Electronic;New Wave;Pop;Rock|Vienna (Ultravox song)",
