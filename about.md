@@ -48,7 +48,7 @@ I hope you have a good time here. Thanks for dropping by.
 
 <a id="political-views" href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
-    <p>I believe power is, by its nature, very centralized. 99% of any nation, religion, or ethnicity have no meaningful impact. A shifting 1% at the top define the world &ndash; the rest of us just live in it.</p>
+    <p>I believe power is, by its nature, very centralized. 99% of any nation, religion, or ideology have no meaningful impact. A shifting 1% at the top define the world &ndash; the rest of us just live in it.</p>
     <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
