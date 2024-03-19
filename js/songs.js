@@ -451,7 +451,7 @@ const songs = [
 "Arcade Fire|Reflektor|2013|s41CaBbrmZk|Arcade Fire|S9405|Alternative Dance;Alternative Rock;Dance;Rock|",
 "Depeche Mode|Enjoy the Silence|1990|aGSKrC7dGcY|Depeche Mode|S235|Synthpop;Electronic;Pop|Enjoy the Silence",
 "The Shins|New Slang|2001|zYwCmcB0XMw|The Shins|S3111|Folk Pop;Indie Pop;Contemporary Folk;Folk;Pop|New Slang",
-"Kanye West|Ultralight Beam|2016|5njh9Dkcvwc|Kanye West|S16116|Contemporary R&B;Gospel;American Folk Music;Folk;R&B;Regional Music;Traditional Folk Music|Ultralight Beam",
+"Kanye West|Ultralight Beam|2016|6oHdAA3AqnE|Kanye West|S16116|Contemporary R&B;Gospel;American Folk Music;Folk;R&B;Regional Music;Traditional Folk Music|Ultralight Beam",
 "Antony and the Johnsons|Hope There's Someone|2005|avabPY3XgRc|Antony and the Johnsons|S3000|Chamber Pop;Singer/Songwriter;Baroque Pop;Indie Pop;Pop|Hope There's Someone",
 "The Damned|New Rose|1976|TUxFQ5QBiYk|The Damned (band)|S664|Punk Rock;Rock|",
 "R. Kelly|Ignition (Remix)|2003|j4JBrd-xAc0|R. Kelly|S2270|Contemporary R&B;R&B|Ignition (Remix)",
