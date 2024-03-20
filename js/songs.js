@@ -5234,7 +5234,7 @@ const songs = [
 "Nick Lowe|Heart of the City|1976|4hmVPncZGVE|Nick Lowe|S4429|New Wave;Power Pop;Pub Rock;Pop;Pop Rock;Rock|",
 "Paul Simon|The Boy in the Bubble|1986|aGEz7fwcmlY|Paul Simon|S7896|Folk Pop;Pop Rock;Contemporary Folk;Folk;Pop;Rock|The Boy in the Bubble",
 "Fleetwood Mac|Gold Dust Woman|1977|x6hkY4VvQAA|Fleetwood Mac|S10825|Folk Rock;Pop Rock;Pop;Rock|Gold Dust Woman",
-"Procol Harum|Conquistador|1967|t-zti_qAHsA|Procol Harum|S3733|Psychedelic Rock;Rock|Conquistador (Procol Harum song)",
+"Procol Harum|Conquistador|1967|Cs0xsC928p8|Procol Harum|S3733|Psychedelic Rock;Rock|Conquistador (Procol Harum song)",
 "Bauhaus|She's in Parties|1983|Qxqq5vahHKk|Bauhaus (band)|S12742|Gothic Rock;Post-Punk;Rock|She's in Parties",
 "Sylvia|Pillow Talk|1973|NA2X1040_gY|Sylvia Robinson|S3877|Smooth Soul;R&B;Soul|Pillow Talk (song)",
 "Gil Scott-Heron|New York Is Killing Me|2010|WiuorrXsngM|Gil Scott-Heron|S6559|Blues;Electronic;Experimental;Soul;R&B|",
