@@ -9918,7 +9918,7 @@ const songs = [
 "Bauhaus|Dark Entries|1980|N8n6k8QcU3k|Bauhaus (band)|S13672|Gothic Rock;Post-Punk;Rock|Dark Entries",
 "Bruce Springsteen|Radio Nowhere|2007|MtrOYsNCPmg|Bruce Springsteen|S4332|Alternative Rock;Pop Rock;Pop;Rock|",
 "Liquid|Sweet Harmony|1991|xvCOkWmby2M|Liquid (musician)|S11450|Breakbeat Hardcore;Breakbeat;Dance;Electronic;Electronic Dance Music;Hardcore [EDM]|Sweet Harmony (Liquid song)",
-"Herman's Hermits|Mrs. Brown, You've Got a Lovely Daughter|1965|17FiWJkVVE4|Herman's Hermits|S6709|Pop|Mrs. Brown, You've Got a Lovely Daughter",
+"Herman's Hermits|Mrs. Brown, You've Got a Lovely Daughter|1965|IOfs8U_3NQk|Herman's Hermits|S6709|Pop|Mrs. Brown, You've Got a Lovely Daughter",
 "Bill Monroe & His Blue Grass Boys|Uncle Pen|1950|MeZPAQRl7TA|Bill Monroe|S15293|Bluegrass;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
 "Beastie Boys|Shadrach|1989|MEVfHmjKOrM|Beastie Boys|S5354|East Coast Hip Hop;Hip Hop|Shadrach (Beastie Boys song)",
 "Interpol|The Rover|2018|3KmIMuLh4Vs|Interpol (band)|S16617|Post-Punk Revival;Alternative Rock;Indie Rock;Post-Punk;Rock|The Rover (Interpol song)",
