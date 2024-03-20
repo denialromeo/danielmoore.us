@@ -162,6 +162,7 @@ I hope you have a good time here. Thanks for dropping by.
 * [*The Secret History of the First World War*](https://www.goodreads.com/notes/21227216-hidden-history/71655209-daniel-moore) by [Gerry Dooherty](https://firstworldwarhiddenhistory.wordpress.com/about-the-authors/gerry-docherty/) (Empire devours itself.)
 * [*The Shadow of the Great Game*](https://www.goodreads.com/notes/35993782-the-shadow-of-the-great-game/71655209-daniel-moore) by [Narendra Sarila](https://books.google.com/books/about/The_Untold_Story_Of_India_Partition_The.html?id=4_2CpwAACAAJ&source=kp_author_description#about_author) (Pakistan's Cold War origins.)
 * [*Stalin*](https://static1.squarespace.com/static/5ed33bcd368e221ec227cacd/t/5ee39a1731781f54f197c5f7/1591974443348/Domenico+Losurdo+-+Stalin.pdf) by [Domenico Losurdo](https://en.wikipedia.org/wiki/Domenico_Losurdo) (Perhaps the 20th century's most influential person.)
+* [*The Unnecessary War*](https://www.goodreads.com/notes/8153644-churchill-hitler-and-the-unnecessary-war/71655209-daniel-moore) by [Pat Buchanan](https://en.wikipedia.org/wiki/Pat_Buchanan) (Decline and fall of the British Empire.)
 * [*Vladimir Putin and Russian Statecraft*](https://www.goodreads.com/notes/19441321-vladimir-putin-and-russian-statecraft/71655209-daniel-moore) by [Allen Lynch](https://politics.virginia.edu/people/profile/al4u) (From failed state to world power.)
  
 {:#historical-documents}
