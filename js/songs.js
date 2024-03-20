@@ -9123,7 +9123,7 @@ const songs = [
 "The Ink Spots and Ella Fitzgerald|I'm Making Believe|1944|CK15L55CtGc|The Ink Spots|S11076|Traditional Pop;Vocal Group;Descriptor;Pop|",
 "Frankie Laine|That Lucky Old Sun|1949|PL3kvxN3xFc|Frankie Laine|S6458|Traditional Pop;Pop|That Lucky Old Sun",
 "Russ Morgan|Cruising Down the River|1949|rYtKjeaTbQQ|Russ Morgan|S8276|Easy Listening;Traditional Pop;Pop|",
-"Vic Damone|You're Breaking My Heart|1949|2hGSiN8w1gg|Vic Damone|S9006|Traditional Pop;Pop|You're Breaking My Heart",
+"Vic Damone|You're Breaking My Heart|1949|UfdOoS-QAh4|Vic Damone|S9006|Traditional Pop;Pop|You're Breaking My Heart",
 "Colette Magny|Melocoton|1963|OPVtricblNM|https://fr.wikipedia.org/wiki/Colette_Magny|S10447|Chanson;Regional Music|Colette Magny",
 "Wu-Tang Clan|Can It Be All So Simple|1993|7m148vZDwJA|Wu-Tang Clan|S13143|Boom Bap;East Coast Hip Hop;Hardcore Hip Hop;Hip Hop|",
 "John Lee Hooker|Motor City Is Burning|1968|fBhaiJ5YNiM|John Lee Hooker|S12701|Electric Blues;Blues|",
