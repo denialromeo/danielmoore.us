@@ -292,7 +292,7 @@ const songs = [
 "AC/DC|Highway to Hell|1979|l482T0yNkeo|AC/DC|S576|Hard Rock;Rock|Highway to Hell (song)",
 "Steppenwolf|Born to Be Wild|1968|rzNA8C5Kzyo|Steppenwolf (band)|S911|Hard Rock;Rock|Born to Be Wild",
 "Daft Punk|Da Funk|1995|PwILkY9gRrc|Daft Punk|S80|Acid House;French House;Dance;Electronic;Electronic Dance Music;House|",
-"Isaac Hayes|Theme from Shaft|1971|Q429AOpL_ds|Isaac Hayes|S818|Film Soundtrack;Funk;Soul;Descriptor;R&B;Soundtracks|Theme from Shaft",
+"Isaac Hayes|Theme from Shaft|1971|fTU_9T5ufzY|Isaac Hayes|S818|Film Soundtrack;Funk;Soul;Descriptor;R&B;Soundtracks|Theme from Shaft",
 "Pretenders|Brass in Pocket|1979|joCVE5VGNdo|The Pretenders|S585|New Wave;Rock|Brass in Pocket",
 "Big Joe Turner|Shake, Rattle and Roll|1954|YhELpSeeipg|Big Joe Turner|S1323|Jump-Blues;Rhythm & Blues;Rock & Roll;Blues;R&B;Rock|Shake, Rattle and Roll",
 "Muddy Waters|Hoochie Coochie Man|1954|fQ4NFsw4bOU|Muddy Waters|S1334|Chicago Blues;Blues;Electric Blues|",
