@@ -7846,7 +7846,7 @@ const songs = [
 "Japanese Breakfast|Everybody Wants to Love You|2016|KNT7wuqaykc|Japanese Breakfast|S16102|Indie Pop;Psychedelic Pop;Pop|",
 "Otis Redding|Pain in My Heart|1963|6juvqVCMByU|Otis Redding|S7828|Southern Soul;R&B;Soul|Pain in My Heart",
 "The Jewels|Hearts of Stone|1954|g_LG34UCdcY|https://www.discogs.com/artist/3468695-The-Jewels-6|S2398|Doo-Wop;Descriptor;R&B;Vocal Group|Hearts of Stone",
-"Bad Religion|21st Century Digital Boy|1991|TYApdmp6je8|Bad Religion|S3161|Melodic Hardcore;Pop Punk;Hardcore Punk;Punk Rock;Rock|21st Century (Digital Boy)",
+"Bad Religion|21st Century (Digital Boy)|1991|TYApdmp6je8|Bad Religion|S3161|Melodic Hardcore;Pop Punk;Hardcore Punk;Punk Rock;Rock|21st Century (Digital Boy)",
 "Claude Nougaro|Cécile, ma fille|1963|--bvxbOwRuQ|Claude Nougaro|S10425|Chanson;Regional Music|",
 "Bob Marley and the Wailers|Kaya|1971|q8bFkr22-j4|Bob Marley|S9160|Reggae;Caribbean Music;Jamaican Music;Regional Music|",
 "Tricky|Overcome|1995|ViHiOopNTlc|Tricky (musician)|S8844|Trip Hop;Downtempo;Electronic|",
