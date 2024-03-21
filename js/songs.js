@@ -4830,7 +4830,7 @@ const songs = [
 "The Band|Tears of Rage|1968|RMqJ2V6zOd0|The Band|S3168|Roots Rock;Rock|Tears of Rage",
 "Roy Orbison|You Got It|1989|lvR1YgT7QYs|Roy Orbison|S8260|Pop Rock;Pop;Rock|You Got It",
 "Ian Dury|Reasons to Be Cheerful, Part 3|1979|CIMNXogXnvE|The Blockheads|S1575|Disco Rap;Funk;New Wave;UK Hip Hop;Hip Hop;R&B;Rock|Reasons to Be Cheerful, Part 3",
-"Bertha \"Chippie\" Hill|Trouble in Mind|1926|-dldmgeYc6o|Bertha Hill|S13400|Vaudeville Blues;Blues;Musical Theatre and Entertainment;Vaudeville|Trouble in Mind (song)",
+"Bertha \"Chippie\" Hill|Trouble in Mind|1926|ShmFJ0UrLoY|Bertha Hill|S13400|Vaudeville Blues;Blues;Musical Theatre and Entertainment;Vaudeville|Trouble in Mind (song)",
 "Roy Davis Jr.|Gabriel|1997|FwxpMIEZ9fg|Roy Davis Jr.|S16|Garage House;UK Garage;Dance;Electronic;Electronic Dance Music;House|Gabriel (Roy Davis Jr. song)",
 "Mississippi John Hurt|Frankie|1928|JKkmReeFjh8|Mississippi John Hurt|S9297|Piedmont Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|",
 "Bangles|Eternal Flame|1988|PSoOFn3wQV4|The Bangles|S3169|Adult Contemporary;Pop|Eternal Flame (song)",
