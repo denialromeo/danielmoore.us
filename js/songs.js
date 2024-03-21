@@ -1002,7 +1002,7 @@ const songs = [
 "James Brown|Cold Sweat|1967|8bztE5IbQOo|James Brown|S942|Funk;R&B|Cold Sweat",
 "Stevie Wonder|Sir Duke|1976|rI5XCBfMCnQ|Stevie Wonder|S1795|Pop Soul;Pop;R&B;Soul|Sir Duke",
 "Siouxsie and the Banshees|Hong Kong Garden|1978|tiVfRoywQtk?start=24|Siouxsie and the Banshees|S617|Post-Punk;Rock|Spellbound (Siouxsie and the Banshees song)",
-"T. Rex|20th Century Boy|1973|JB6WZu8IAZg|T. Rex (band)|S765|Glam Rock;Rock|20th Century Boy",
+"T. Rex|20th Century Boy|1973|9SG65dlho_o|T. Rex (band)|S765|Glam Rock;Rock|20th Century Boy",
 "Destiny's Child|Say My Name|1999|sQgd6MccwZc|Destiny's Child|S1389|Contemporary R&B;Pop;R&B|Say My Name",
 "Radiohead|No Surprises|1997|u5CVsCnxyXg|Radiohead|S2154|Alternative Rock;Art Rock;Rock|No Surprises",
 "Lead Belly|Midnight Special|1940|6IjPmIEgeIU|Lead Belly|S2716|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|Midnight Special (song)",
