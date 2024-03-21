@@ -4440,7 +4440,7 @@ const songs = [
 "The Hives|Walk Idiot Walk|2004|ysGtBZX32I0|The Hives|S2448|Garage Rock Revival;Garage Rock;Rock|",
 "The Tammys|Egyptian Shumba|1963|Pi7INpPdE2Y|The Tammys|S8680|Brill Building;Girl Group;Pop|Egyptian Shumba",
 "Erykah Badu feat. Andre 3000|Hello|2015|KXGqHYNTNHU|Erykah Badu|S9754|Contemporary R&B;Neo-Soul;R&B;Soul|",
-"Badfinger|Come and Get It|1969|N3TOcw7taBo|Badfinger|S3162|Piano Rock;Pop;Pop Rock;Rock|Come and Get It (Badfinger song)",
+"Badfinger|Come and Get It|1969|9tOnbeNAxdU|Badfinger|S3162|Piano Rock;Pop;Pop Rock;Rock|Come and Get It (Badfinger song)",
 "Tony Bennett|Cold, Cold Heart|1951|ahII9wo1i5E|Tony Bennett|S8814|Traditional Pop;Vocal Jazz;Jazz;Pop|Cold, Cold Heart",
 "Wu-Tang Clan|Triumph|1997|cPRKsKwEdUQ|Wu-Tang Clan|S9071|Boom Bap;East Coast Hip Hop;Hip Hop|Triumph (song)",
 "Jim Reeves|He'll Have to Go|1959|bpi8Bek6jdM|Jim Reeves|S1200|Nashville Sound;Country;Country Pop;Pop|He'll Have to Go",
