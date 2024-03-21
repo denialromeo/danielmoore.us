@@ -491,7 +491,7 @@ const songs = [
 "Howlin' Wolf|Smokestack Lightnin'|1956|PnXTpkugcHo|Howlin' Wolf|S1269|Chicago Blues;Blues;Electric Blues|Smokestack Lightning",
 "Frank Ocean|Nights|2016|r4l9bFqgMaQ|Frank Ocean|S16087|Alternative R&B;Art Pop;Downtempo;Contemporary R&B;Electronic;Pop;R&B|",
 "The Jam|That's Entertainment|1980|m-H0uIH5HHQ|The Jam|S1580|Mod Revival;New Wave;Mod;Rock|That's Entertainment (The Jam song)",
-"Joan Jett and the Blackhearts|I Love Rock 'n Roll|1981|iC8oP4Z_xPw|Joan Jett|S497|Hard Rock;Rock|I Love Rock 'n' Roll",
+"Joan Jett and the Blackhearts|I Love Rock 'n Roll|1981|wMsazR6Tnf8|Joan Jett|S497|Hard Rock;Rock|I Love Rock 'n' Roll",
 "Al Green|Tired of Being Alone|1971|Tdw7kxD8eUc|Al Green|S820|Southern Soul;R&B;Soul|Tired of Being Alone",
 "Elvis Costello|Alison|1977|cnS_5JY0LAQ|Elvis Costello|S641|Blue Eyed Soul;New Wave;Pop Rock;Pop;Rock|Alison (song)",
 "Justin Timberlake|Cry Me a River|2002|DksSPZTZES0|Justin Timberlake|S2246|Contemporary R&B;Pop;R&B|Cry Me a River (Justin Timberlake song)",
