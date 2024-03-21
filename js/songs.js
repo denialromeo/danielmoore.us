@@ -505,7 +505,7 @@ const songs = [
 "Bob Dylan|Visions of Johanna|1966|UG8Hi-fpyLI|Bob Dylan|S2510|Folk Rock;Singer/Songwriter;Rock|Visions of Johanna",
 "The Velvet Underground|Venus in Furs|1967|GiobySgFP2s|The Velvet Underground|S3947|Art Rock;Experimental Rock;Rock|Venus in Furs (song)",
 "The Isley Brothers|Shout (Parts 1 and 2)|1959|DPVf01jXL7M|The Isley Brothers|S1181|Rhythm & Blues;Rock & Roll;R&B;Rock|Shout (Isley Brothers song)",
-"Kraftwerk|Trans-Europe Express|1977|i_85fUIRlmU|Kraftwerk|S658|Electronic|",
+"Kraftwerk|Trans-Europe Express|1977|i_85fUIRlmU|Kraftwerk|S658|Electronic|Trans-Europe Express (song)",
 "The Clash|Rock the Casbah|1982|bJ9r8LMU9bQ|The Clash|S488|Dance-Punk;New Wave;Post-Punk;Rock|Rock the Casbah",
 "Willie Mae \"Big Mama\" Thornton|Hound Dog|1953|yoHDrzw-RPg|Big Mama Thornton|S1321|Rhythm & Blues;R&B|",
 "Gorillaz|Clint Eastwood|2001|1V_xRb0x9aw|Gorillaz|S1457|Abstract Hip Hop;Hip Hop|Clint Eastwood (song)",
