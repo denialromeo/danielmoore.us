@@ -9235,7 +9235,7 @@ const songs = [
 "INXS|Don't Change|1982|sLm3Khusq_8|INXS|S11083|New Wave;Pop Rock;Pop;Rock|Don't Change",
 "The War on Drugs|Pain|2017|J9LgHNf2Qy0|The War on Drugs (band)|S16500|Heartland Rock;Indie Rock;Alternative Rock;Rock|",
 "Leonard Cohen|The Partisan|1969|hs5hOhI4pEE|Leonard Cohen|S13542|Contemporary Folk;Singer/Songwriter;Folk|The Partisan",
-"Dr. Hook|The Cover of \"Rolling Stone\"|1972|gUjcjUF-urU|Dr. Hook & the Medicine Show|S6153|Country Pop;Country Rock;Musical Comedy;Comedy;Country;Descriptor;Pop;Rock|The Cover of \"Rolling Stone\"",
+"Dr. Hook|The Cover of \"Rolling Stone\"|1972|wzOaIvpEynI|Dr. Hook & the Medicine Show|S6153|Country Pop;Country Rock;Musical Comedy;Comedy;Country;Descriptor;Pop;Rock|The Cover of \"Rolling Stone\"",
 "Slipknot|Left Behind|2001|D1jQKpse7Yw|Slipknot (band)|S8453|Nu Metal;Alternative Metal;Metal;Rock|Left Behind (Slipknot song)",
 "Drugstore|El President|1998|_6pc-tWwccU|Drugstore (band)|S2962|Alternative Rock;Rock|",
 "Bob Dylan|I Dreamed I Saw St. Augustine|1967|UWc2e5KRq-4|Bob Dylan|S15313|Folk Rock;Singer/Songwriter;Rock|I Dreamed I Saw St. Augustine",
