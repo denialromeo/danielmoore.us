@@ -1792,7 +1792,7 @@ const songs = [
 "Skip James|Devil Got My Woman|1931|9_4FmBSGvzM|Skip James|S4060|Delta Blues;Acoustic Blues;American Folk Music;Blues;Country Blues;Folk;Regional Music;Traditional Folk Music|",
 "Foster the People|Pumped Up Kicks|2010|SDTZ7iX4vTQ|Foster the People|S4960|Indie Pop;Pop|Pumped Up Kicks",
 "Hank Williams|I'll Never Get Out of This World Alive|1952|19vApPwWqh8|Hank Williams|S1415|Honky Tonk;Country|I'll Never Get Out of This World Alive",
-"Barry McGuire|Eve of Destruction|1965|qfZVu0alU0I|Barry McGuire|S1428|Contemporary Folk;Folk Rock;Folk;Rock|Eve of Destruction (Barry McGuire album)",
+"Barry McGuire|Eve of Destruction|1965|qfZVu0alU0I|Barry McGuire|S1428|Contemporary Folk;Folk Rock;Folk;Rock|Eve of Destruction (song)",
 "Bob Dylan|Forever Young|1974|Frj2CLGldC4|Bob Dylan|S3366|Country Rock;Folk Rock;Pop Rock;Singer/Songwriter;Pop;Rock|Forever Young (Bob Dylan song)",
 "Nena|99 Luftballons|1983|Fpu5a0Bl8eY|Nena|S3659|Neue Deutsche Welle;Pop Rock;Pop;Rock|99 Luftballons",
 "Ariana Grande|Into You|2016|1ekZEVeXwek|Ariana Grande|S16028|Dance-Pop;Electropop;Dance;Electronic;Pop|Into You (Ariana Grande song)",
