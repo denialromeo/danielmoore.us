@@ -3795,7 +3795,7 @@ const songs = [
 "James Brown|Funky Drummer|1970|AoQ4AtsFWVM|James Brown|S2298|Funk;R&B|",
 "Common|I Used to Love h.e.r.|1994|TrUERC2Zk64|Common (rapper)|S4500|Boom Bap;Conscious Hip Hop;Hip Hop|I Used to Love H.E.R.",
 "Vampire Weekend|Giving Up the Gun|2010|bccKotFwzoY|Vampire Weekend|S4934|Indie Pop;Indietronica;Electronic;Pop|Giving Up the Gun",
-"Vince Taylor & The Playboys|Brand New Cadillac|1959|Dc2pTC0D0j0|Vince Taylor|S9040|Rockabilly;Rock;Rock & Roll|Brand New Cadillac",
+"Vince Taylor & The Playboys|Brand New Cadillac|1959|cJ7oUFOsoYI|Vince Taylor|S9040|Rockabilly;Rock;Rock & Roll|Brand New Cadillac",
 "Jackson Browne|Doctor My Eyes|1972|9wF7zc_YK6A?start=11|Jackson Browne|S3248|Singer/Songwriter|Doctor, My Eyes",
 "Dock Boggs|Country Blues|1927|O1BsgDZIEU4|Dock Boggs|S2651|Old-Time;American Folk Music;Country;Folk;Regional Music;Traditional Country;Traditional Folk Music|",
 "Bob Marley and the Wailers|Waiting in Vain|1977|IWxbhC44p2w|Bob Marley|S1798|Lovers Rock;Caribbean Music;Jamaican Music;Reggae;Regional Music|",
