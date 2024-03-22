@@ -8077,7 +8077,7 @@ const songs = [
 "The White Stripes|Hello Operator|2000|kiEoxktOoHg|The White Stripes|S8989|Alternative Rock;Blues Rock;Garage Rock Revival;Garage Rock;Rock|Hello Operator (song)",
 "Magnetic Man|I Need Air|2010|Vn3108AmAbo|Magnetic Man|S7382|Dubstep;Dance;Electronic;Electronic Dance Music|",
 "The Pointer Sisters|Automatic|1983|sDU6K02igoU|The Pointer Sisters|S7983|Dance-Pop;Synth Funk;Dance;Funk;Pop;R&B|Automatic (Pointer Sisters song)",
-"David Bowie|Scary Monsters (And Super Creeps)|1980|NHywdqH3F6Y|David Bowie|S10528|Art Rock;New Wave;Pop Rock;Pop;Rock|",
+"David Bowie|Scary Monsters (And Super Creeps)|1980|N_6I3o-j2-I|David Bowie|S10528|Art Rock;New Wave;Pop Rock;Pop;Rock|Scary Monsters (And Super Creeps) (song)",
 "Spoonie Gee|The Godfather|1987|AqK1GhD4Y3k|Spoonie Gee|S1960|East Coast Hip Hop;Hip Hop|",
 "Beyoncé feat. Jay-Z|Upgrade U|2006|6nr8hPnZfMU|Beyoncé|S10161|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|Upgrade U",
 "Françoise Hardy|Le temps de l'amour|1962|F9we8i2Lj5w?start=3|Françoise Hardy|S10860|Yé-yé;Pop|",
