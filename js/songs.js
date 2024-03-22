@@ -6782,7 +6782,7 @@ const songs = [
 "Coldplay|Don't Panic|2000|yWeuUwpEQfs|Coldplay|S5854|Alternative Rock;Pop Rock;Pop;Rock|Don't Panic (Coldplay song)",
 "Echo and the Bunnymen|Seven Seas|1984|LbYxP11rbSM|Echo & the Bunnymen|S6189|Post-Punk;Rock|",
 "Beastie Boys|She's On It|1985|9PLfjhQG97I|Beastie Boys|S2356|East Coast Hip Hop;Rap Rock;Alternative Rock;Hip Hop;Rock|Girls (Beastie Boys song)",
-"Inez & Charlie Foxx|Mockingbird|1963|g47_NI1CWNQ|Inez and Charlie Foxx|S6782|Pop Soul;Pop;R&B;Soul|Mockingbird (Inez & Charlie Foxx song)",
+"Inez & Charlie Foxx|Mockingbird|1963|10abTgTZiyA|Inez and Charlie Foxx|S6782|Pop Soul;Pop;R&B;Soul|Mockingbird (Inez & Charlie Foxx song)",
 "T.I.|Live Your Life|2008|koVHN6eO4Xg|T.I.|S4750|Pop Rap;Southern Hip Hop;Hip Hop|Live Your Life (T.I. song)",
 "Joni Mitchell|The Hissing Summer of Lawns|1975|erQUlp6GYno|Joni Mitchell|S11252|Jazz Pop;Progressive Pop;Singer/Songwriter;Pop|",
 "Joy Division|Warsaw|1978|serIf92zTDc|Joy Division|S12800|Punk Rock;Rock|Warsaw (song)",
