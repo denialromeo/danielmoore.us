@@ -252,7 +252,7 @@ const songs = [
 "Elvis Presley|Mystery Train|1955|Q_eE0NPArEY|Elvis Presley|S1297|Rockabilly;Rock;Rock & Roll|Mystery Train",
 "The Shangri-La's|Leader of the Pack|1964|Q8UKf65NOzM|The Shangri-Las|S1035|Brill Building;Girl Group;Pop|Leader of the Pack",
 "Marvin Gaye|Let's Get It On|1973|9vAiESu5wrA|Marvin Gaye|S754|Smooth Soul;R&B;Soul|Let's Get It On",
-"Ritchie Valens|La Bamba|1958|Jp6j5HJ-Cok|Ritchie Valens|S1204|Rock & Roll;Tex-Mex;Rock;Roots Rock|",
+"Ritchie Valens|La Bamba|1958|BycLmWI97Nc|Ritchie Valens|S1204|Rock & Roll;Tex-Mex;Rock;Roots Rock|",
 "LCD Soundsystem|Dance Yrself Clean|2010|9ZNkPA_zUd4|LCD Soundsystem|S4916|Alternative Dance;Indietronica;Alternative Rock;Dance;Electronic;Rock|",
 "Frankie Goes to Hollywood|Relax|1983|7WZ33w3B8Hw|Frankie Goes to Hollywood|S462|Dance-Pop;Synthpop;Dance;Electronic;Pop|",
 "Kraftwerk|The Model|1978|-s4zRw16tMA|Kraftwerk|S630|Synthpop;Electronic;Pop|Das Model",
