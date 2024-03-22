@@ -10363,7 +10363,7 @@ const songs = [
 "Lenny Kravitz|Let Love Rule|1989|TcU57tAKzng|Lenny Kravitz|S11411|Psychedelic Soul;R&B;Soul|",
 "Simian Mobile Disco|Audacity of Huge|2009|Ylu0ybj7DIg|Simian Mobile Disco|S8414|Electroclash;Electropop;Dance;Electronic;Electronic Dance Music;Pop|Audacity of Huge",
 "Tarkan|Simarik|1997|cpp69ghR1IM|Tarkan (singer)|S8689|Dance-Pop;Turkish Pop;Dance;Pop;Regional Music;Turkish Music;West Asian Music|Şımarık",
-"Earl Bostic|Flamingo|1951|lcxBLiKpRm0|Earl Bostic|S1601|Rhythm & Blues;R&B|",
+"Earl Bostic|Flamingo|1951|Fbcft1voyJU|Earl Bostic|S1601|Rhythm & Blues;R&B|",
 "Tove Lo|Disco Tits|2017|B4isjsTWozU|Tove Lo|S16506|Dance-Pop;Electropop;Dance;Electronic;Pop|Disco Tits",
 "El Guincho + Mala Rodriguez|Comix|2016|x_Ym1D42Bfw|Mala Rodríguez|S16081|Glitch Pop;Pop Rap;Electronic;Hip Hop;Pop|",
 "Death in Vegas|Scorpio Rising|2002|dZ_6sQtce-M|Death in Vegas|S6006|Alternative Rock;Rock|",
