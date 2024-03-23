@@ -1645,7 +1645,7 @@ const songs = [
 "The Cure|Killing an Arab|1978|SdbLqOXmJ04|The Cure|S4185|Post-Punk;Rock|",
 "Grimes|Genesis|2012|1FH-q0I1fJY|Grimes (musician)|S5014|Synthpop;Electronic;Pop|Genesis (Grimes song)",
 "The Chantays|Pipeline|1962|w7c2ZKamzS4|The Chantays|S1062|Surf Rock;Rock;Surf Music|",
-"Elliott Smith|Miss Misery|1997|HsixXCnYVfA|Elliott Smith|S3820|Indie Folk;Indie Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Miss Misery",
+"Elliott Smith|Miss Misery|1997|gRUyC9veWtw|Elliott Smith|S3820|Indie Folk;Indie Pop;Singer/Songwriter;Contemporary Folk;Folk;Pop|Miss Misery",
 "Sufjan Stevens|Should Have Known Better|2015|lJJT00wqlOo|Sufjan Stevens|S9840|Indie Folk;Singer/Songwriter;Contemporary Folk;Folk|Should Have Known Better",
 "Nick Drake|Way to Blue|1969|gkjb9sUgqUM|Nick Drake|S2295|Chamber Folk;Singer/Songwriter;Contemporary Folk;Folk|",
 "Squeeze|Up the Junction|1979|RQciegmLPAo|Squeeze (band)|S1599|New Wave;Power Pop;Pop;Pop Rock;Rock|",
