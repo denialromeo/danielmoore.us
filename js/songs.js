@@ -3508,7 +3508,7 @@ const songs = [
 "Ethel Merman|I Got Rhythm|1930|v4hI-xhGZug|Ethel Merman|S4868|Show Tunes;Traditional Pop;Descriptor;Musical Theatre and Entertainment;Pop;Soundtracks|I Got Rhythm",
 "Savages|Shut Up|2013|FuIB8HEmnoY|Savages (band)|S9519|Gothic Rock;Post-Punk;Rock|",
 "Manic Street Preachers|Your Love Alone Is Not Enough|2007|XvQ-rWyqzO0|Manic Street Preachers|S4316|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Your Love Alone Is Not Enough",
-"The Jive Five|My True Story|1961|glOMdK8gfbo|The Jive Five|S1131|Doo-Wop;Descriptor;R&B;Vocal Group|",
+"The Jive Five|My True Story|1961|RPsx1094ax8|The Jive Five|S1131|Doo-Wop;Descriptor;R&B;Vocal Group|",
 "Randy Newman|I Think It's Going to Rain Today|1968|k9Fn8VhkK5g|Randy Newman|S8092|Baroque Pop;Singer/Songwriter;Pop|I Think It's Going to Rain Today",
 "Janis Ian|At Seventeen|1975|VMUz2TNMvL0|Janis Ian|S4423|Bossa Nova;Folk Pop;Singer/Songwriter;Brazilian Music;Contemporary Folk;Folk;Pop;Regional Music|At Seventeen",
 "Randy Newman|Political Science|1972|Kg_LDeUEiWY|Randy Newman|S4159|Singer/Songwriter|Political Science (song)",
