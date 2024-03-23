@@ -1276,7 +1276,7 @@ const albums = [
 "Ministry|Psalm 69: The Way to Succeed & the Way to Suck Eggs|1992|OLAK5uy_nb_KMJMjN16HISanA91iw27zgXPBqNzFE|A869|Psalm 69: The Way to Succeed and the Way to Suck Eggs|Ministry (band)|Industrial Metal;Industrial Music;Metal;Rock",
 "The Paul Butterfield Blues Band|The Paul Butterfield Blues Band|1965|OLAK5uy_knYWjMgbYz4xixI_8aap_kHck2_KJZm9M|A49|The Paul Butterfield Blues Band (album)|Paul Butterfield|Electric Blues;Blues",
 "Steely Dan|Katy Lied|1975|OLAK5uy_mL83zHTxWGMFdOQi4BNvOuzpoPuu6x7No|A342|Katy Lied|Steely Dan|Pop Rock;Pop;Rock",
-"The Jesus and Mary Chain|Darklands|1987|PLiN-7mukU_RHoPZqqEVWylZh8iHt_a34s|A701|Darklands (album)|The Jesus and Mary Chain|Alternative Rock;Rock",
+"The Jesus and Mary Chain|Darklands|1987|PLy4u88AKUauLc0ZIh5Xf8iQ64wBjlIN2n|A701|Darklands (album)|The Jesus and Mary Chain|Alternative Rock;Rock",
 "Whitney Houston|Whitney Houston|1985|OLAK5uy_nPU_kJPtFvwUoEVIIQDQXIIHC5Dy-8u14|A1502|Whitney Houston (album)|Whitney Houston|Contemporary R&B;Pop;R&B",
 "The Shins|Oh, Inverted World|2001|OLAK5uy_mqlW0zYC22AixWsNpt62cD1_J_QREtN2A|A3875|Oh, Inverted World|The Shins|Indie Pop;Pop",
 "Grizzly Bear|Shields|2012|OLAK5uy_nLVf60ImRadWk1WaNeA4B9mPgi2g8-Jgc|A5219|Shields (album)|Grizzly Bear (band)|Indie Folk;Psychedelic Folk;Contemporary Folk;Folk",
