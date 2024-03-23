@@ -9469,7 +9469,7 @@ const songs = [
 "Nick Cave|Deanna|1988|FxORulyOXs8|Nick Cave and the Bad Seeds|S7724|Garage Rock;Post-Punk;Rock|Deanna (song)",
 "Trouble Funk|Still Smokin'|1985|G8G2x3ibDl8|Trouble Funk|S1934|Go-Go;Funk;R&B|",
 "Young Jeezy|Go Crazy|2005|bXmFxSbNgK0|Jeezy|S9099|Southern Hip Hop;Hip Hop|Go Crazy (Young Jeezy song)",
-"Warumpi Band|Blackfella Whitefella|1985|M_DHwp5vYBI|Warumpi Band|S15965|Country Rock;New Wave;Post-Punk;Rock|Blackfella/Whitefella",
+"Warumpi Band|Blackfella/Whitefella|1985|M_DHwp5vYBI|Warumpi Band|S15965|Country Rock;New Wave;Post-Punk;Rock|Blackfella/Whitefella",
 "Icehouse|Hey Little Girl|1982|YZQWTnrJMS0|Icehouse (band)|S11065|New Wave;Synthpop;Electronic;Pop;Rock|",
 "DJ Snake|Turn Down for What|2013|HMUDVMiITOU|DJ Snake|S9643|Trap [EDM];Dance;Electronic;Electronic Dance Music|Turn Down for What",
 "Nina Simone|Mr. Bojangles|1971|LzofnHLOer4|Nina Simone|S15744|Vocal Jazz;Jazz|Mr. Bojangles (song)",
