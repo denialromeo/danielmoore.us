@@ -1394,7 +1394,7 @@ const songs = [
 "Depeche Mode|Never Let Me Down Again|1987|snILjFUkk_A|Depeche Mode|S2369|Synthpop;Electronic;Pop|Never Let Me Down Again",
 "Alabama Shakes|Hold On|2011|Le-3MIBxQTw|Alabama Shakes|S4995|Blues Rock;Southern Rock;Rock|Hold On (Alabama Shakes song)",
 "The Flying Burrito Brothers|Sin City|1969|UcU04NGMQb8|The Flying Burrito Brothers|S2541|Country Rock;Rock|",
-"The KLF|What Time Is Love?|1988|28w2LVzxVkU|The KLF|S231|Acid House;Dance;Electronic;Electronic Dance Music;House|What Time Is Love%3F",
+"The KLF|What Time Is Love?|1988|UIbYM1ecT2I|The KLF|S231|Acid House;Dance;Electronic;Electronic Dance Music;House|What Time Is Love%3F",
 "The National|Fake Empire|2007|paQp7XTmsgY|The National (band)|S4302|Chamber Pop;Indie Rock;Alternative Rock;Baroque Pop;Indie Pop;Pop;Rock|Fake Empire",
 "Nina Simone|My Baby Just Cares for Me|1958|bJmxK-2gjVE|Nina Simone|S1638|Vocal Jazz;Jazz|",
 "Fleet Foxes|Mykonos|2008|DT-dxG4WWf4|Fleet Foxes|S4782|Chamber Folk;Indie Folk;Indie Pop;Contemporary Folk;Folk;Pop|Mykonos (song)",
