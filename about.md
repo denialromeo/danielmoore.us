@@ -49,13 +49,13 @@ I hope you have a good time here. Thanks for dropping by.
 <a id="political-views" href="javascript:;" id="dropdown2" target="_self"><b>Political Views</b></a>
 <div id="instructions2" style="display:none;">
     <p>99.9% of the members of any nation, company, religion, or ideology have no meaningful impact. A&nbsp;shifting 0.1% at the top define the world &ndash; the rest of us just live in it.</p>
-    <p>Historical statements I believe &ndash;</p>
     <ul>
         <li>The 20th century's most influential people were Lyndon Johnson, Mao Zedong, Joseph Stalin, Richard Nixon, Deng Xiaoping, Nikita Khrushchev, Mikhail Gorbachev, and Bill Clinton.</li>
         <li>In the 21st &ndash; Xi Jinping, Vladimir Putin, Donald Trump, George W. Bush, Barack Obama, Benjamin Netanyahu, Mark Zuckerberg, Steve Jobs, and Satya Nadella.</li>
         <li>Others in the late 20th were Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Ho&nbsp;Chi Minh, Ruhollah Khomeini, Zia-ul-Haq, Qian Xuesen, Bill Gates, and Norman Borlaug.</li>
     </ul>
     {%if site.url contains 'local'%}
+    <p>Historical statements I believe &ndash;</p>
     <p>I'm broadly happy with the direction the U.S. is going, and look forward to many more years here. This is such a magical place. Everyone should at least visit.</p>
     <p>I left the U.S. some years ago, and am presently based in Mumbai. (Though I travel abroad often.) I've kept the American citizenship, but for the most part, I see myself as an Indian.</p>
     <p>Some questions for the reader to ponder &ndash;</p>
