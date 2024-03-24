@@ -55,6 +55,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Others in the late 20th were Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Ho&nbsp;Chi Minh, Ruhollah Khomeini, Zia-ul-Haq, Qian Xuesen, Bill Gates, and Norman Borlaug.</li>
     </ul>
     {%if site.url contains 'local'%}
+    <p>Broadly, I'm anti-racism, pro-feminism, pro-immigration, and anti-welfare. Markets are inevitable and should be encouraged. I usually vote Republican.</p>
     <p>Historical statements I believe &ndash;</p>
     <p>I'm broadly happy with the direction the U.S. is going, and look forward to many more years here. This is such a magical place. Everyone should at least visit.</p>
     <p>I left the U.S. some years ago, and am presently based in Mumbai. (Though I travel abroad often.) I've kept the American citizenship, but for the most part, I see myself as an Indian.</p>
