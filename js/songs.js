@@ -1999,7 +1999,7 @@ const songs = [
 "Dead Boys|Sonic Reducer|1977|-3YbedLa5I0|Dead Boys|S4431|Punk Rock;Rock|Sonic Reducer",
 "John Coltrane|A Love Supreme, Part 2: Resolution|1965|CsxtKQW9ggg|John Coltrane|S11225|Spiritual Jazz;Avant-Garde Jazz;Jazz|",
 "Michael Jackson|Smooth Criminal|1987|h_D3VFfhvs4?start=64|Michael Jackson|S3506|Dance-Pop;Dance;Pop|Smooth Criminal",
-"Timmy Thomas|Why Can't We Live Together|1972|KYx2uZRlJCk|Timmy Thomas|S799|Soul;R&B|Why Can't We Live Together",
+"Timmy Thomas|Why Can't We Live Together|1972|iXXXF7UVFPI|Timmy Thomas|S799|Soul;R&B|Why Can't We Live Together",
 "Michael Jackson|Bad|1987|dsUXAEzaC3Q|Michael Jackson|S2921|Contemporary R&B;Pop;R&B|Bad (Michael Jackson song)",
 "Eddie Cantor|Makin' Whoopee|1929|ANRPmTZRqkg|Eddie Cantor|S2656|Vaudeville;Musical Theatre and Entertainment|Makin' Whoopee",
 "Beach House|Zebra|2010|N-wfb25WmV4|Beach House|S4889|Dream Pop;Indie Pop;Alternative Rock;Pop;Rock|Zebra (Beach House song)",
