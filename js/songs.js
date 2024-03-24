@@ -876,7 +876,7 @@ const songs = [
 "UGK|Int'l Player's Anthem (I Choose You)|2007|awMIbA34MT8|UGK|S4284|Dirty South;Southern Hip Hop;Hip Hop|International Players Anthem (I Choose You)",
 "Jamie xx|Loud Places|2015|TP9luRtEqjc|Jamie xx|S9785|UK Bass;Dance;Electronic;Electronic Dance Music;UK Garage|",
 "Randy Newman|Sail Away|1972|HCRGrnhdNQE|Randy Newman|S798|Baroque Pop;Singer/Songwriter;Pop|",
-"The Doors|L.A. Woman|1971|t3jf9_rua5Q|The Doors|S4147|Blues Rock;Rock|L.A. Woman (song)",
+"The Doors|L.A. Woman|1971|vHXjcdNIN-Q|The Doors|S4147|Blues Rock;Rock|L.A. Woman (song)",
 "David Bowie|Fame|1975|9tnRWcEg6i8|David Bowie|S701|Funk;Funk Rock;R&B;Rock|Fame (David Bowie song)",
 "The War on Drugs|Red Eyes|2013|1LmX5c7HoUw|The War on Drugs (band)|S9553|Heartland Rock;Indie Rock;Alternative Rock;Rock|",
 "Frank Sinatra|My Way|1969|qQzdAsjWGPg|Frank Sinatra|S2855|Traditional Pop;Pop|My Way",
