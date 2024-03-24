@@ -32,7 +32,7 @@ box: random-acclaimed-song
             <a target="_self" href="?song=never.gonna.give.you">The greatest song of all time.</a>
         </li>
         <li>
-            <a target="_self" href="?genre=latin.american|african|asian">Latin American, African, and Asian songs.</a>
+            <a target="_self" href="?genre=latin.american|brazilian|african|asian">Latin American, African, and Asian songs.</a>
         </li>
     </ul>
    <p>Also note that each artist's name and most songs' names are links to their Wikipedia pages. To see a song's genres, mouse over the song's title.</p>
