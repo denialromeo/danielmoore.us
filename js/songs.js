@@ -370,7 +370,7 @@ const songs = [
 "Roy Orbison|Crying|1961|qLC9o_unLq4|Roy Orbison|S1114|Traditional Pop;Pop|Crying (Roy Orbison song)",
 "Pet Shop Boys|West End Girls|1985|p3j2NYZ8FKs|Pet Shop Boys|S419|Synthpop;Electronic;Pop|West End Girls",
 "Jackie Brenston|Rocket 88|1951|Gbfnh1oVTk0|Jackie Brenston|S1338|Jump-Blues;Rhythm & Blues;Rock & Roll;Blues;R&B;Rock|Rocket 88",
-"Sufjan Stevens|Chicago|2005|c_-cUdmdWgU|Sufjan Stevens|S4265|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
+"Sufjan Stevens|Chicago|2005|tWX3El-slpY|Sufjan Stevens|S4265|Chamber Pop;Baroque Pop;Indie Pop;Pop|",
 "Muddy Waters|Mannish Boy|1955|bSfqNEvykv0|Muddy Waters|S1302|Chicago Blues;Blues;Electric Blues|",
 "Chuck Berry|Roll Over Beethoven|1956|o3CAAcndhlM|Chuck Berry|S1271|Rock & Roll;Rock|Roll Over Beethoven",
 "John Lennon|Instant Karma (We All Shine On)|1970|xLy2SaSQAtA|John Lennon|S851|Pop Rock;Pop;Rock|Instant Karma!",
