@@ -7668,7 +7668,7 @@ const songs = [
 "Shame|One Rizla|2017|7Mz_K1b5rVk|Shame (band)|S16597|Indie Rock;Post-Punk;Alternative Rock;Rock|",
 "Burial|Come Down to Us|2013|RsF0BoJSeqA|Burial (musician)|S10328|Ambient Pop;Downtempo;Future Garage;Dance;Electronic;Electronic Dance Music;Pop;UK Garage|",
 "The Maytals|Bam-Bam|1966|gy26FHXFf7o|Toots and the Maytals|S11584|Jamaican Ska;Caribbean Music;Jamaican Music;Regional Music;Ska|Bam Bam (Sister Nancy song)",
-"The Auteurs|Unsolved Child Murder|1995|0A4EAjPUZQM|The Auteurs|S10044|Indie Rock;Alternative Rock;Rock|",
+"The Auteurs|Unsolved Child Murder|1995|fMXv0IycwIU|The Auteurs|S10044|Indie Rock;Alternative Rock;Rock|",
 "Black Sabbath|Sweet Leaf|1971|W-zmtmgswHw|Black Sabbath|S10202|Heavy Metal;Stoner Metal;Metal;Rock|Sweet Leaf",
 "John Coltrane with Johnny Hartman|My One and Only Love|1963|ecrE80rnjhw|John Coltrane|S13216|Vocal Jazz;Jazz|",
 "The Jesus and Mary Chain|Happy When It Rains|1987|G5x1F9ohRa4|The Jesus and Mary Chain|S6903|Indie Rock;Alternative Rock;Rock|Happy When It Rains",
