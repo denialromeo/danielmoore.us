@@ -5458,7 +5458,7 @@ const songs = [
 "Deftones|Change (In the House of Flies)|2000|WPpDyIJdasg|Deftones|S2202|Alternative Metal;Alternative Rock;Metal;Rock|Change (In the House of Flies)",
 "Felix Da Housecat|Silver Screen, Shower Scene|2001|fJvatGfD9Pg|Felix da Housecat|S2386|Electroclash;Dance;Electronic;Electronic Dance Music|",
 "Crash Test Dummies|Mmmm Mmmm Mmmm Mmmm|1993|eTeg1txDv8w|Crash Test Dummies|S5885|Pop Rock;Pop;Rock|Mmm Mmm Mmm Mmm",
-"Ride|Vapour Trail|1990|ygGw_zo_W8A|Ride (band)|S8158|Dream Pop;Shoegaze;Alternative Rock;Rock|Vapour Trail (song)",
+"Ride|Vapour Trail|1990|pVhNi5cU8mo|Ride (band)|S8158|Dream Pop;Shoegaze;Alternative Rock;Rock|Vapour Trail (song)",
 "Joanna Newsom|Sapokanikan|2015|ky9Ro9pP2gc|Joanna Newsom|S9793|Art Pop;Progressive Pop;Singer/Songwriter;Pop|",
 "Coleman Hawkins|The Man I Love|1944|SveFvtRfR5w|Coleman Hawkins|S13430|Bebop;Jazz|",
 "REO Speedwagon|Keep On Loving You|1980|wJzNZ1c5C9c|REO Speedwagon|S3754|AOR;Soft Rock;Pop;Pop Rock;Rock|",
