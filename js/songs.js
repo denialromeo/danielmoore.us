@@ -6279,7 +6279,7 @@ const songs = [
 "David Sylvian|Orpheus|1987|w5Z6jJ_o9Vk|David Sylvian|S13728|Art Pop;Pop|",
 "Otis Redding|These Arms of Mine|1962|GVbTE4wCbpw|Otis Redding|S3752|Deep Soul;Rhythm & Blues;R&B;Soul;Southern Soul|These Arms of Mine (Otis Redding song)",
 "Run the Jewels|Oh My Darling Don't Cry|2014|G-S9mtYowPY|Run the Jewels|S9640|Hardcore Hip Hop;Hip Hop|",
-"Sonny Rollins|The Freedom Suite|1958|Kr_wwzhtL5Y|Sonny Rollins|S13250|Hard Bop;Bebop;Jazz|",
+"Sonny Rollins|The Freedom Suite|1958|oSpaqjCl358|Sonny Rollins|S13250|Hard Bop;Bebop;Jazz|",
 "Foo Fighters|Big Me|1995|pLdJQFTnZfA|Foo Fighters|S10838|Alternative Rock;Rock|Big Me",
 "Prince|Batdance|1989|ulOLYnOthIw|Prince (musician)|S3101|Dance-Pop;Film Soundtrack;Funk;Dance;Descriptor;Pop;R&B;Soundtracks|Batdance",
 "David Bowie|All the Young Dudes|1974|Rajof9Qigos|David Bowie|S10514|Glam Rock;Rock|All the Young Dudes",
