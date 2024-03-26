@@ -55,6 +55,7 @@ I hope you have a good time here. Thanks for dropping by.
         <li>Others in the late 20th were Ronald Reagan, Boris Yeltsin, Leonid Brezhnev, Indira Gandhi, Ho&nbsp;Chi Minh, Ruhollah Khomeini, Zia-ul-Haq, Qian Xuesen, Bill Gates, and Norman Borlaug.</li>
     </ul>
     {%if site.url contains 'local'%}
+    <p>I'm broadly happy with the direction the U.S. is going, and look forward to many more years here.</p>
     <p>Broadly, I'm anti-racism, pro-feminism, pro-immigration, and anti-welfare. Markets are inevitable and should be encouraged. I usually vote Republican.</p>
     <p>Historical statements I believe &ndash;</p>
     <p>I'm broadly happy with the direction the U.S. is going, and look forward to many more years here. This is such a magical place. Everyone should at least visit.</p>
@@ -68,7 +69,7 @@ I hope you have a good time here. Thanks for dropping by.
     <p>Looking back a bit further (still in progress) &ndash;</p>
     <ul>
         <li>The early 20th century's most influential people were Vladimir Lenin, Leon Trotsky, Wilhelm II, Sun Yat-Sen, Mohandas Gandhi, Franklin Roosevelt, Harry Truman, and Adolf Hitler.</li>
-        <li>Others in the early 20th were Ismail Enver, Jinnah, David Ben-Gurion, Albert Einstein, Fritz Haber, Julius Rosenberg, Henry Ford, John Keynes, Philo Farnsworth, and the Wright Brothers.</li>
+        <li>Others in the early 20th were Winston Churchill, Ismail Enver, Woodrow Wilson, Jinnah, David Ben-Gurion, Albert Einstein, Fritz Haber, Julius Rosenberg, Henry Ford, John Keynes, Philo Farnsworth, and the Wright Brothers.</li>
     </ul>
     <p>Further yet (still in progress) &ndash;</p>
     <ul>
@@ -160,7 +161,6 @@ I hope you have a good time here. Thanks for dropping by.
 * [*Modern India: 1885-1947*](https://www.amazon.com/gp/product/9332535744) by [Sumit Sarkar](https://en.wikipedia.org/wiki/Sumit_Sarkar) (Nationalism, religion, and caste in the British Raj.)
 * [*Montaillou*](https://www.amazon.com/gp/product/0807616133) by [Emmanuel Ladurie](https://en.wikipedia.org/wiki/Emmanuel_Le_Roy_Ladurie) (Based on [actual interviews](https://en.wikipedia.org/wiki/Fournier_Register) with medieval peasants.)
 * [*Reconstruction*](https://www.goodreads.com/notes/11389556-reconstruction/71655209-daniel-moore) by [Eric Foner](https://en.wikipedia.org/wiki/Eric_Foner) (Ongoing ripples of Lincoln's assassination.)
-* [*The Secret History of the First World War*](https://www.goodreads.com/notes/21227216-hidden-history/71655209-daniel-moore) by [Gerry Dooherty](https://firstworldwarhiddenhistory.wordpress.com/about-the-authors/gerry-docherty/) (Empire devours itself.)
 * [*The Shadow of the Great Game*](https://www.goodreads.com/notes/35993782-the-shadow-of-the-great-game/71655209-daniel-moore) by [Narendra Sarila](https://books.google.com/books/about/The_Untold_Story_Of_India_Partition_The.html?id=4_2CpwAACAAJ&source=kp_author_description#about_author) (Pakistan's Cold War origins.)
 * [*Stalin*](https://static1.squarespace.com/static/5ed33bcd368e221ec227cacd/t/5ee39a1731781f54f197c5f7/1591974443348/Domenico+Losurdo+-+Stalin.pdf) by [Domenico Losurdo](https://en.wikipedia.org/wiki/Domenico_Losurdo) (Perhaps the 20th century's most influential person.)
 * [*The Unnecessary War*](https://www.goodreads.com/notes/8153644-churchill-hitler-and-the-unnecessary-war/71655209-daniel-moore) by [Pat Buchanan](https://en.wikipedia.org/wiki/Pat_Buchanan) (Decline and fall of the British Empire.)
