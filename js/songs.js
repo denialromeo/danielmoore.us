@@ -4354,7 +4354,7 @@ const songs = [
 "Santana|Evil Ways|1969|nPauXWjY4T8|Carlos Santana|S3794|Latin Rock;Hispanic Music;Latin American Music;Regional Music;Rock|Evil Ways",
 "Jerry Butler|He Will Break Your Heart|1960|fbcgqyOQ0RE|Jerry Butler|S1164|Rhythm & Blues;Soul;R&B|He Will Break Your Heart",
 "Cesária Évora|Sodade|1992|qx4z9V2hydQ|Cesária Évora|S14221|Morna;African Music;Cape Verdean Music;Regional Music|",
-"Nick Cave|Dig!!! Lazarus, Dig!!!|2008|nuxdMQsAgJI|Nick Cave|S4738|Alternative Rock;Rock|",
+"Nick Cave|Dig, Lazarus, Dig!!!|2008|PxWS1ufr5xI|Nick Cave|S4738|Alternative Rock;Rock|Dig, Lazarus, Dig!!! (song)",
 "Kaiser Chiefs|Ruby|2007|qObzgUfCl28|Kaiser Chiefs|S4331|Indie Rock;Pop Rock;Alternative Rock;Pop;Rock|Ruby (Kaiser Chiefs song)",
 "Weezer|Hash Pipe|2001|_9BGLtqqkVI|Weezer|S2216|Alternative Rock;Power Pop;Pop;Pop Rock;Rock|Hash Pipe",
 "The Shirelles|Tonight's the Night|1960|Z4HVksFJ_1s|The Shirelles|S1159|Girl Group;Pop|Tonight's the Night (The Shirelles song)",
