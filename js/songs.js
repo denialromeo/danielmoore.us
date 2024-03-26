@@ -3039,7 +3039,7 @@ const songs = [
 "Destiny's Child|Bootylicious|2001|IyYnnUcgeMc|Destiny's Child|S1480|Contemporary R&B;Dance-Pop;Dance;Pop;R&B|Bootylicious",
 "Howlin' Wolf|Back Door Man|1960|aVIA1n5ng4Y|Howlin' Wolf|S1157|Chicago Blues;Rhythm & Blues;Blues;Electric Blues;R&B|Back Door Man",
 "Beck|The New Pollution|1996|uxugaMpt1vU|Beck|S3201|Alternative Dance;Alternative Rock;Dance;Rock|The New Pollution",
-"Siouxsie and the Banshees|Cities in Dust|1985|Inld-zDad0c|Siouxsie and the Banshees|S4469|Gothic Rock;Post-Punk;Rock|Spellbound (Siouxsie and the Banshees song)",
+"Siouxsie and the Banshees|Cities in Dust|1985|wsOHvP1XnRg|Siouxsie and the Banshees|S4469|Gothic Rock;Post-Punk;Rock|Spellbound (Siouxsie and the Banshees song)",
 "Hüsker Dü|Don't Want to Know If You Are Lonely|1986|eoKeH7JYE48|Hüsker Dü|S6759|Alternative Rock;Post-Hardcore;Power Pop;Pop;Pop Rock;Punk Rock;Rock|Don't Want to Know If You Are Lonely",
 "Gang Gang Dance|House Jam|2008|rqn7kaCm8No|Gang Gang Dance|S4778|Alternative Dance;Psychedelic Pop;Alternative Rock;Dance;Pop;Rock|",
 "Animal Collective|Peacebone|2007|fxvGHQHiY70|Animal Collective|S4290|Glitch Pop;Neo-Psychedelia;Psychedelic Pop;Electronic;Pop;Psychedelic Rock;Rock|",
