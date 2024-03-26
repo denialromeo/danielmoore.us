@@ -4904,7 +4904,7 @@ const songs = [
 "James Brown|Living in America|1985|c5BL4RNFr58|James Brown|S3243|Film Soundtrack;Synth Funk;Descriptor;Funk;R&B;Soundtracks|Living in America (James Brown song)",
 "Orange Juice|Falling and Laughing|1980|XxD45UONhco|Orange Juice (band)|S9311|Indie Pop;Jangle Pop;Post-Punk;Alternative Rock;Pop;Pop Rock;Rock|Falling and Laughing",
 "Blur|End of a Century|1994|rVNCpCy8gLc|Blur (band)|S5527|Britpop;Alternative Rock;Pop;Pop Rock;Rock|End of a Century",
-"Bob Lind|Elusive Butterfly|1966|nbuC9hX2XAk|Bob Lind|S5556|Baroque Pop;Pop|Elusive Butterfly",
+"Bob Lind|Elusive Butterfly|1966|q4kZaXgCMoM|Bob Lind|S5556|Baroque Pop;Pop|Elusive Butterfly",
 "Huggy Bear|Her Jazz|1993|gYT0gtjd60A|Huggy Bear (band)|S2945|Riot Grrrl;Punk Rock;Rock|",
 "The Temptations|Since I Lost My Baby|1965|HSgqO7LIFL8|The Temptations|S8716|Motown Sound;Pop;Pop Soul;R&B;Soul|",
 "The Beach Boys|Do It Again|1968|fmHEX7QI4KU|The Beach Boys|S5346|Pop Rock;Sunshine Pop;Pop;Rock|Do It Again (The Beach Boys song)",
