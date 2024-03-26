@@ -801,7 +801,7 @@ const songs = [
 "Michael Jackson|Rock with You|1979|5X-Mrc2l1d0|Michael Jackson|S594|Contemporary R&B;Disco;Pop;Dance;R&B|Rock with You",
 "ZZ Top|La Grange|1973|Vppbdf-qtGU|ZZ Top|S3993|Blues Rock;Hard Rock;Southern Rock;Rock|La Grange (song)",
 "The Cure|A Forest|1980|Q-QITfqH7Os?start=1|The Cure|S1853|Gothic Rock;Post-Punk;Rock|A Forest",
-"Future|Mask Off (Remix feat. Kendrick Lamar)|2017|ndsAdAc3Mng|Future (rapper)|S16383|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|",
+"Future|Mask Off (Remix feat. Kendrick Lamar)|2017|ndsAdAc3Mng|Future (rapper)|S16383|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|Mask Off",
 "Ben E. King|Spanish Harlem|1961|OGd6CdtOqEE|Ben E. King|S1122|Brill Building;Pop Soul;Pop;R&B;Soul|Spanish Harlem (song)",
 "The Cure|Close to Me|1985|BjvfIJstWeg|The Cure|S4204|New Wave;Rock|Close to Me (The Cure song)",
 "M.I.A.|Galang|2004|yRvWQrGurkQ|M.I.A. (rapper)|S2467|Dancehall;Electropop;UK Hip Hop;Caribbean Music;Electronic;Hip Hop;Jamaican Music;Pop;Regional Music|",
