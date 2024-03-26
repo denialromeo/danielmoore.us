@@ -3869,7 +3869,7 @@ const songs = [
 "Passion Pit|Sleepyhead|2008|T0RvPYRRRbE|Passion Pit|S4819|Electropop;Indietronica;Electronic;Pop|",
 "Oasis|(What's the Story) Morning Glory?|1995|Wm54XyLwBAk|Oasis (band)|S7780|Britpop;Alternative Rock;Pop;Pop Rock;Rock|",
 "The Chambers Brothers|Time Has Come Today|1967|MLlown9_G3w|The Chambers Brothers|S3269|Psychedelic Rock;Psychedelic Soul;R&B;Rock;Soul|Time Has Come Today",
-"Johnny and the Hurricanes|Red River Rock|1959|76OSOg5E_HE|Johnny and the Hurricanes|S4381|Rock & Roll;Rock|",
+"Johnny and the Hurricanes|Red River Rock|1959|gOuQXckGkrc|Johnny and the Hurricanes|S4381|Rock & Roll;Rock|",
 "Of Montreal|The Past Is a Grotesque Animal|2007|Vn-eFXxLXTM|Of Montreal|S4325|Indietronica;Neo-Psychedelia;Electronic;Psychedelic Rock;Rock|",
 "Trust|Antisocial|1980|SxGXXgGgRWc|Trust (French band)|S8855|Hard Rock;Heavy Metal;Metal;Rock|Antisocial (Trust song)",
 "Haim|Summer Girl|2019|ZjuA_o6Jzyo|Haim (band)|S16789|Indie Pop;Sophisti-Pop;Pop|Summer Girl (Haim song)",
