@@ -10338,7 +10338,7 @@ const songs = [
 "Moses Sumney|Lonely World|2016|fS63c-C-Rc4|Moses Sumney|S16153|Art Pop;Singer/Songwriter;Pop|Doomed (Moses Sumney song)",
 "King Gizzard & The Lizard Wizard|Rattlesnake|2016|Q-i1XZc8ZwA|King Gizzard & the Lizard Wizard|S16421|Garage Rock;Psychedelic Rock;Rock|",
 "The Black Keys|Fever|2014|trk7P-9QDyc|The Black Keys|S10192|Garage Rock Revival;Neo-Psychedelia;Garage Rock;Psychedelic Rock;Rock|Fever (The Black Keys song)",
-"The Doors|Strange Days|1967|DI76mRtSD9g|The Doors|S10641|Psychedelic Rock;Rock|Strange Days (Doors song)",
+"The Doors|Strange Days|1967|eZWB0VF2vDI|The Doors|S10641|Psychedelic Rock;Rock|Strange Days (Doors song)",
 "Bruce Springsteen|The Wrestler|2008|4OSvJvSwmd4|Bruce Springsteen|S15332|Americana;Contemporary Folk;Film Soundtrack;Singer/Songwriter;Country;Descriptor;Folk;Soundtracks|The Wrestler (song)",
 "James|Come Home|1990|xWd9mqC80BU|James (band)|S6841|Baggy / Madchester;Alternative Rock;Rock|Come Home (James song)",
 "Korn|Falling Away from Me|1999|2s3iGpDqQpQ|Korn|S16241|Nu Metal;Alternative Metal;Metal;Rock|Falling Away from Me",
