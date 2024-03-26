@@ -3150,7 +3150,7 @@ const songs = [
 "Arnaud Fleurent-Didier|France Culture|2009|Vv6m_1fr4W0|https://fr.wikipedia.org/wiki/Arnaud_Fleurent-Didier|S5237|Baroque Pop;Nouvelle chanson française;Spoken Word;Chanson;Descriptor;Pop;Regional Music|",
 "Metallica|Seek and Destroy|1983|NJzoBmVPeYw|Metallica|S7525|Thrash Metal;Metal;Rock|Seek & Destroy",
 "Jürgen Paape|So weit wie noch nie|2002|8BaY3_112yQ|https://de.wikipedia.org/wiki/J%C3%BCrgen_Paape|S2234|Deep House;Dance;Electronic;Electronic Dance Music;House|So Weit Wie Noch Nie",
-"The Ruts|Babylon's Burning|1979|Yns-Yz7bAeI|The Ruts|S8285|Punk Rock;Rock|",
+"The Ruts|Babylon's Burning|1979|t6AXZer4g9Y|The Ruts|S8285|Punk Rock;Rock|",
 "Prince|Pop Life|1985|0h75JL626Rg|Prince (musician)|S2914|Contemporary R&B;Funk;Pop Rock;Pop;R&B;Rock|Pop Life (Prince song)",
 "Tom Cochrane|Life Is a Highway|1991|U3sMjm9Eloo|Tom Cochrane|S3287|Country Rock;Pop Rock;Pop;Rock|Life Is a Highway",
 "George Jones|A Good Year for the Roses|1970|9MtdYqaLe4w|George Jones|S866|Country Pop;Country;Pop|",
