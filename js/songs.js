@@ -10457,7 +10457,7 @@ const songs = [
 "Los Saicos|Demolición|1965|bIwDtPErh-M|Los Saicos|S15664|Garage Rock;Proto-Punk;Rock|",
 "Lou Reed and John Cale|Hello, It's Me|1990|gtF_tFDQGKY|John Cale|S13875|Art Rock;Rock|Songs for Drella",
 "Pulp vs. Soulwax|After You|2013|iufIPxnOra0|Soulwax|S11965|Alternative Dance;Alternative Rock;Dance;Rock|After You (Pulp song)",
-"Doves|Catch the Sun|2000|2-r__1tUbtQ|Doves (band)|S2381|Britpop;Dream Pop;Indie Rock;Alternative Rock;Pop;Pop Rock;Rock|",
+"Doves|Catch the Sun|2000|KqlIFLb6jU0|Doves (band)|S2381|Britpop;Dream Pop;Indie Rock;Alternative Rock;Pop;Pop Rock;Rock|",
 "Pink Floyd|Sheep|1977|3GE-sfEbJ7I|Pink Floyd|S11911|Art Rock;Progressive Rock;Rock|Sheep (Pink Floyd song)",
 "They Might Be Giants|Ana Ng|1988|MEjutUbgpH8|They Might Be Giants|S2007|Alternative Rock;Indie Pop;Pop;Rock|Ana Ng",
 "Joker|Digidesign|2009|zeLR1VDotQI|Joker (musician)|S4807|Purple Sound;Dance;Dubstep;Electronic;Electronic Dance Music|",
