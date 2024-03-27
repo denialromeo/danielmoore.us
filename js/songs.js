@@ -5757,7 +5757,7 @@ const songs = [
 "Mary J. Blige|My Life|1994|9IDhiGxaS2A|Mary J. Blige|S3219|Contemporary R&B;Soul;R&B|",
 "Wreckx-n-Effect|Rump Shaker|1992|zdLvauICvPM|Wreckx-n-Effect|S3977|East Coast Hip Hop;Hip Hop|Rump Shaker (song)",
 "Wir Sind Helden|Guten Tag (Die Reklamation)|2002|chlXBRpcIFA|Wir sind Helden|S12609|Indie Pop;Pop Rock;Pop;Rock|",
-"Joan Jett and the Blackhearts|Bad Reputation|1980|_uOcx10o6Yg|Joan Jett|S6925|Punk Rock;Rock|Bad Reputation (Joan Jett song)",
+"Joan Jett and the Blackhearts|Bad Reputation|1980|LeYn_W14zTU|Joan Jett|S6925|Punk Rock;Rock|Bad Reputation (Joan Jett song)",
 "Yardbirds|Heart Full of Soul|1965|Cb5kv4yiGjY|The Yardbirds|S4095|Blues Rock;British Rhythm & Blues;Freakbeat;Garage Rock;Beat Music;Pop;Pop Rock;R&B;Rhythm & Blues;Rock|Heart Full of Soul",
 "Aaliyah|One in a Million|1996|KKSz4NE6PwY|Aaliyah|S5080|Contemporary R&B;R&B|One in a Million (Aaliyah song)",
 "The Golden Gate Quartet|Rock My Soul|1938|HIe4u8nBfh0|Golden Gate Quartet|S13196|Traditional Black Gospel;American Folk Music;Folk;Gospel;Regional Music;Traditional Folk Music|",
