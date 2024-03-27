@@ -1232,7 +1232,7 @@ const albums = [
 "AC/DC|Let There Be Rock|1977|OLAK5uy_kMEVMMgw1iTtH1K6v2fZiS5pcqC79ssAo|A2677|Let There Be Rock|AC/DC|Hard Rock;Rock",
 "Vampire Weekend|Father of the Bride|2019|OLAK5uy_lGype0gR4vyIE0J2hvNYtpifSbNynJTNk|A6362|Father of the Bride (album)|Vampire Weekend|Indie Pop;Pop",
 "Clifton Chenier|Bogalusa Boogie|1975|OLAK5uy_liD5wKQcDgj9qljewSZ934XrX6KdUO-L4|A2208|Bogalusa Boogie|Clifton Chenier|Zydeco;American Folk Music;Cajun;Folk;Regional Music;Traditional Folk Music",
-"Neu!|Neu! 75|1975|PLc60gkdW0bcGc_r484N0dp2I1J6i_UfSs|A2579|Neu! '75|Neu!|Krautrock;Experimental Rock;Progressive Rock;Rock",
+"Neu!|Neu! 75|1975|OLAK5uy_nTSTpm99wmJzBT5iyK4xAC-KUYxIeXAOQ|A2579|Neu! '75|Neu!|Krautrock;Experimental Rock;Progressive Rock;Rock",
 "Sonny Rollins|Way Out West|1957|OLAK5uy_lo3xzERtuhxDmj9fwsgN6PkO-WS9ZyWJ4|A1830|Way Out West (Sonny Rollins album)|Sonny Rollins|Hard Bop;Bebop;Jazz",
 "The Gun Club|Miami|1982|OLAK5uy_mYKEmWrDj7fbb9mKjwAlffRW9i6xrDp3E|A1480|Miami (The Gun Club album)|The Gun Club|Post-Punk;Punk Blues;Punk Rock;Rock",
 "Four Tet|There Is Love in You|2010|OLAK5uy_msFCzM2AF2JwAkW66qbJ0GHZFhID4Vvjc|A5067|There Is Love in You|Four Tet|Electronic",
