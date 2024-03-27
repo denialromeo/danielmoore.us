@@ -4097,7 +4097,7 @@ const songs = [
 "Gram Parsons|$1000 Wedding|1974|8nfYrxeT1TY|Gram Parsons|S3686|Country;Singer/Songwriter|",
 "Frida Hyvönen|Dirty Dancing|2008|LjcwGcZsUbI?start=34|Frida Hyvönen|S6482|Pop;Singer/Songwriter|",
 "Marie Davidson|Work It|2018|23Df3jHYTrs|Marie Davidson|S16567|Minimal Synth;Tech House;Dance;Electronic;Electronic Dance Music;House;Minimal Wave;Techno|",
-"U2|Moment of Surrender|2009|-k18rlUe_nc|U2|S8883|Pop Rock;Pop;Rock|Moment of Surrender",
+"U2|Moment of Surrender|2009|rBm8FWG3zI4|U2|S8883|Pop Rock;Pop;Rock|Moment of Surrender",
 "Common|The Light|2000|OjHX7jf-znA|Common (rapper)|S4599|Conscious Hip Hop;Neo-Soul;Hip Hop;R&B;Soul|The Light (Common song)",
 "Future|March Madness|2015|nyAHO0U-KQg|Future (rapper)|S9769|Southern Hip Hop;Trap;Gangsta Rap;Hardcore Hip Hop;Hip Hop|March Madness (song)",
 "Miles Davis|In a Silent Way|1969|BPXoXrt4Fqo|Miles Davis|S13122|Jazz Fusion;Modal Jazz;Jazz|",
