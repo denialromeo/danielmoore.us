@@ -1807,7 +1807,7 @@ const songs = [
 "Radiohead|Street Spirit (Fade Out)|1995|LCJblaUkkfc|Radiohead|S8073|Alternative Rock;Rock|Street Spirit (Fade Out)",
 "Method Man|I'll Be There for You/You're All I Need to Get By|1995|pqbpZvtIQZ0|Method Man|S77|Boom Bap;East Coast Hip Hop;Hip Hop|I'll Be There for You/You're All I Need to Get By",
 "The Undisputed Truth|Smiling Faces Sometimes|1971|qd9zCTPahqk|The Undisputed Truth|S840|Psychedelic Soul;R&B;Soul|Smiling Faces Sometimes",
-"Kraftwerk|Computer Love|1981|CFmmzFcM-MA|Kraftwerk|S7148|Synthpop;Electronic;Pop|3-D The Catalogue",
+"Kraftwerk|Computer Love|1981|CFmmzFcM-MA|Kraftwerk|S7148|Synthpop;Electronic;Pop|Computer Love (Kraftwerk song)",
 "Orange Juice|Rip It Up|1982|xcRAWA4nN3U|Orange Juice (band)|S7814|New Wave;Rock|Rip It Up (Orange Juice song)",
 "Primal Scream|Come Together|1990|8dFKWpJKDwo|Primal Scream|S237|Alternative Dance;Baggy / Madchester;Alternative Rock;Dance;Rock|Come Together (Primal Scream song)",
 "Dire Straits|Money for Nothing|1985|JRDgihVDEko|Dire Straits|S1927|Pop Rock;Pop;Rock|Money for Nothing (song)",
