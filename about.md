@@ -56,7 +56,6 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
     {%if site.url contains 'local'%}
     <p>I'm broadly happy with the direction the U.S. is going, and look forward to many more years here.</p>
-    <p>Broadly, I'm anti-racism, pro-feminism, pro-immigration, and anti-welfare. Markets are inevitable and should be encouraged. I usually vote Republican.</p>
     <p>Historical statements I believe &ndash;</p>
     <p>I'm broadly happy with the direction the U.S. is going, and look forward to many more years here. This is such a magical place. Everyone should at least visit.</p>
     <p>I left the U.S. some years ago, and am presently based in Mumbai. (Though I travel abroad often.) I've kept the American citizenship, but for the most part, I see myself as an Indian.</p>
@@ -68,8 +67,8 @@ I hope you have a good time here. Thanks for dropping by.
     </ul>
     <p>Looking back a bit further (still in progress) &ndash;</p>
     <ul>
-        <li>The early 20th century's most influential people were Vladimir Lenin, Leon Trotsky, Wilhelm II, Winston Churchill, Sun Yat-Sen, Woodrow Wilson, Franklin Roosevelt, and Adolf Hitler.</li>
-        <li>Others in the early 20th were Ismail Enver, David Ben-Gurion, Albert Einstein, Fritz Haber, Julius Rosenberg, Henry Ford, and John Keynes.</li>
+        <li>The early 20th century's most influential people were Winston Churchill, Woodrow Wilson, Sun Yat-Sen, Vladimir Lenin, Leon Trotsky, Franklin Roosevelt, Adolf Hitler, and Fritz Haber.</li>
+        <li>Others in the early 20th were Ismail Enver, David Ben-Gurion, Albert Einstein, Julius Rosenberg, and John Keynes.</li>
     </ul>
     <p>Further yet (still in progress) &ndash;</p>
     <ul>
