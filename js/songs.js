@@ -110,7 +110,7 @@ const songs = [
 "Eddie Cochran|Summertime Blues|1958|GAM1k9vEVqg|Eddie Cochran|S1202|Rockabilly;Rock;Rock & Roll|Summertime Blues",
 "The Smiths|This Charming Man|1983|cJRP3LRcUFg|The Smiths|S456|Indie Pop;Jangle Pop;Alternative Rock;Pop;Pop Rock;Rock|This Charming Man",
 "Carl Perkins|Blue Suede Shoes|1956|DRNyvO4QouY|Carl Perkins|S1616|Rockabilly;Rock;Rock & Roll|Blue Suede Shoes",
-"Chic|Good Times|1979|Er9xGRolrT4|Chic (band)|S572|Disco;Dance|Good Times (Chic song)",
+"Chic|Good Times|1979|7j7rcSutYAQ|Chic (band)|S572|Disco;Dance|Good Times (Chic song)",
 "Frank Ocean|Pyramids|2012|dMV31MWIjLE|Frank Ocean|S5027|Alternative R&B;Electropop;Contemporary R&B;Electronic;Pop;R&B|Pyramids (song)",
 "The Temptations|My Girl|1964|eepLY8J4E6c|The Temptations|S1026|Motown Sound;Pop;Pop Soul;R&B;Soul|My Girl (The Temptations song)",
 "The Rolling Stones|Paint It, Black|1966|O4irXQhgMqg|The Rolling Stones|S980|Mod;Psychedelic Rock;Rock|Paint It Black",
