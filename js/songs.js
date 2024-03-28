@@ -8503,7 +8503,7 @@ const songs = [
 "Paul McCartney and Wings|Venus and Mars / Rock Show|1975|L7eJEXj8QNA|Paul McCartney and Wings|S11860|Pop Rock;Pop;Rock|",
 "Owen Pallett|Lewis Takes Off His Shirt|2010|7G-cqAehehA|Owen Pallett|S7835|Chamber Pop;Folktronica;Indietronica;Baroque Pop;Electronic;Indie Pop;Pop|",
 "Pearl Jam|State of Love and Trust|1992|uYjM-BuE3Cs|Pearl Jam|S11874|Grunge;Alternative Rock;Rock|State of Love and Trust",
-"The Band|Acadian Driftwood|1976|te7KW4K-00E|The Band|S5311|Roots Rock;Rock|Acadian Driftwood",
+"The Band|Acadian Driftwood|1976|SycgViWySeE|The Band|S5311|Roots Rock;Rock|Acadian Driftwood",
 "Teenage Fanclub|Ain't That Enough|1997|jdeqYx-9-AQ|Teenage Fanclub|S15|Jangle Pop;Power Pop;Alternative Rock;Pop;Pop Rock;Rock|",
 "The Everly Brothers|On the Wings of a Nightingale|1984|h_c5BsTfI4g|The Everly Brothers|S6322|Pop|On the Wings of a Nightingale",
 "Gene Clark|No Other|1974|7L7cAeZC-1o|Gene Clark|S6516|Country Rock;Psychedelic Rock;Rock|",
